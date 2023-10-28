@@ -1,0 +1,622 @@
+---
+title: MonteCarlo Tree Search
+---
+**[Home](Home "Home") \* [Search](Search "Search") \* Monte-Carlo Tree Search**
+
+
+
+[ [Edvard Munch](Category:Edvard_Munch "Category:Edvard Munch") - At the Roulette Table in Monte Carlo [[1]](#cite_note-1)
+**Monte Carlo Tree Search**, (Monte-Carlo Tree Search, MCTS)  
+
+is a [Best-First search](Best-First "Best-First") algorithm, historically based on [random](https://en.wikipedia.org/wiki/Randomness) playouts. In conjunction with [UCT](UCT "UCT") (**U**pper **C**onfidence bounds applied to **T**rees) Monte-Carlo Tree Search has yielded in a breakthrough in [Computer Go](Go "Go") [[2]](#cite_note-2), and is also successful in [Amazons](Amazons "Amazons") [[3]](#cite_note-3) [[4]](#cite_note-4), [Lines of Action](Lines_of_Action "Lines of Action") [[5]](#cite_note-5), [Havannah](Havannah "Havannah") [[6]](#cite_note-6), [Hex](Hex "Hex") [[7]](#cite_note-7), [Checkers](Checkers "Checkers") [[8]](#cite_note-8) and other [Games](Games "Games") with some difficulties in position evaluation, but until December 2017, when a [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") team reported on [AlphaZero](AlphaZero "AlphaZero") [[9]](#cite_note-9), not for [Chess](Chess "Chess") [[10]](#cite_note-10) [[11]](#cite_note-11). 
+MCTS is based on randomized explorations of the [search space](Search_Space "Search Space"). Using the results of previous explorations, the algorithm gradually grows a [game tree](Search_Tree "Search Tree") in [memory](Memory "Memory"), and successively becomes better at accurately estimating the values of the most promising moves [[12]](#cite_note-12). 
+
+
+
+### Contents
+
+
+* [1 Four Phases](#Four_Phases)
+* [2 Pure Monte-Carlo search](#Pure_Monte-Carlo_search)
+* [3 UCT](#UCT)
+* [4 Playouts by NN](#Playouts_by_NN)
+* [5 See also](#See_also)
+* [6 Publications](#Publications)
+	+ [6.1 1987](#1987)
+	+ [6.2 1990 ...](#1990_...)
+	+ [6.3 2000 ...](#2000_...)
+	+ [6.4 2005 ...](#2005_...)
+	+ [6.5 2010 ...](#2010_...)
+	+ [6.6 2015 ...](#2015_...)
+	+ [6.7 2020 ...](#2020_...)
+* [7 Forum Posts](#Forum_Posts)
+	+ [7.1 2010 ...](#2010_..._2)
+	+ [7.2 2015 ...](#2015_..._2)
+	+ [7.3 2020 ...](#2020_..._2)
+* [8 External Links](#External_Links)
+	+ [8.1 Monte Carlo Tree Search](#Monte_Carlo_Tree_Search)
+	+ [8.2 Monte Carlo Misc](#Monte_Carlo_Misc)
+* [9 References](#References)
+
+
+
+
+
+
+MCTS consists of four strategic phases, repeated as long as there is time left [[13]](#cite_note-13) : 
+
+
+
+1. In the **Selection** phase the tree is traversed from the [root node](Root "Root") until it selects a [leaf node](Leaf_Node "Leaf Node") that is not added to the tree yet
+2. The **Expansion** strategy adds the leaf node to the tree
+3. The **Simulation** strategy plays moves in self-play until the end of the game. The result is either 1, 0 ,-1
+4. The **Backpropagation** strategy propagates the results through the tree
+
+
+[.svg)
+Steps of Monte Carlo Tree Search [[14]](#cite_note-14)
+
+
+
+
+
+
+## Pure Monte-Carlo search
+
+
+**Pure Monte-Carlo search** with parameter T means that for each feasible move T random games are generated. The move with the best average score is played. A game is called “Monte Carlo perfect” when this procedure converges to perfect play for each position, when T goes to infinity. However, with limited time per move, increasing T does not guarantee to find a better move [[15]](#cite_note-15).
+
+
+
+## UCT
+
+
+[UCT](UCT "UCT") (**U**pper **C**onfidence bounds applied to **T**rees) deals with the flaw of Monte-Carlo Tree Search, when a program may favor a losing move with only one or a few forced refutations, but due to the vast majority of other moves provides a better random playout score than other, better moves [[16]](#cite_note-16).
+In UCT, upper [confidence bounds](https://en.wikipedia.org/wiki/Confidence_interval) guide the selection of a node, treating selection as a {<https://en.wikipedia.org/wiki/Multi-armed_bandit> multi-armed bandit] problem. [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin") modifies the original policy by approximately predicting good arms at the start of a sequence of multi-armed bandit trials [[17]](#cite_note-17).
+
+
+
+## Playouts by NN
+
+
+Historically, at the root of MCTS were random and noisy playouts. Many such playouts were necessary to accurately evaluate a state. Since [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero") it is not the case anymore. Strong policies and evaluations are now provided by [neural networks](Neural_Networks "Neural Networks") that are trained with [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning"). In AlphaGo and its descendants the policy is used as a prior in the [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin") bandit to explore first the most promising moves advised by the neural network policy and the evaluations replace the playouts [[18]](#cite_note-18).
+
+
+
+## See also
+
+
+* [Category:MCTS](Category:MCTS "Category:MCTS")
+* [Deep Learning](Deep_Learning "Deep Learning")
+* [MCαβ](MC%CE%B1%CE%B2 "MCαβ")
+* [MC and UCT poster](Jakob_Erdmann#UCT "Jakob Erdmann") by [Jakob Erdmann](Jakob_Erdmann "Jakob Erdmann")
+* [Rollout Paradigm](Bojun_Huang#Rollout "Bojun Huang")
+* [Sampling-Based Planning](Raghuram_Ramanujan#UCT "Raghuram Ramanujan")
+* [Simulated Annealing](Simulated_Annealing "Simulated Annealing")
+* [UCT](UCT "UCT")
+
+
+## Publications
+
+
+### 1987
+
+
+* [Bruce Abramson](Bruce_Abramson "Bruce Abramson"), [Richard Korf](Richard_Korf "Richard Korf") (**1987**). *A Model of Two-Player Evaluation Functions.* [AAAI-87](Conferences#AAAI-87 "Conferences"), [pdf](http://www.aaai.org/Papers/AAAI/1987/AAAI87-016.pdf)
+
+
+### 1990 ...
+
+
+* [Bruce Abramson](Bruce_Abramson "Bruce Abramson") (**1990**). *[Expected-Outcome: A General Model of Static Evaluation](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=44404)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 2
+* [Bruce Abramson](Bruce_Abramson "Bruce Abramson") (**1990**). *An Analysis of Expected-Outcome.* [Journal of Experimental and Theoretical Artificial Intelligence](https://en.wikipedia.org/wiki/Journal_of_Experimental_and_Theoretical_Artificial_Intelligence), Vol. 2
+* [Bruce Abramson](Bruce_Abramson "Bruce Abramson") (**1991**). *The Expected-Outcome Model of Two-Player Games.* Part of the series, Research Notes in Artificial Intelligence, Morgan Kaufmann
+* [Bernd Brügmann](Bernd_Br%C3%BCgmann "Bernd Brügmann") (**1993**). *Monte Carlo Go*. [pdf](http://www.ideanest.com/vegos/MonteCarloGo.pdf)
+
+
+### 2000 ...
+
+
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), [Bernard Helmstetter](Bernard_Helmstetter "Bernard Helmstetter") (**2003**). *Monte Carlo Go Developments*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"), [pdf](http://www.ai.univ-paris8.fr/~bh/articles/acg10-mcgo.pdf)
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2004**). *[Associating Shallow and Selective Global Tree Search with Monte Carlo for 9 × 9 Go](http://link.springer.com/chapter/10.1007/11674399_5)*. [CG 2004](CG_2004 "CG 2004")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2004**). *Monte Carlo Real Time Strategy*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/poster-mcrts.pdf)
+
+
+### 2005 ...
+
+
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Bernard Helmstetter](Bernard_Helmstetter "Bernard Helmstetter") (**2005**). *Combining tactical search and Monte-Carlo in the game of Go*. IEEE [CIG 2005](http://www.informatik.uni-trier.de/~ley/db/conf/cig/cig2005.html#CazenaveH05), [pdf](http://www.ai.univ-paris8.fr/~bh/articles/searchmcgo.pdf), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/searchmcgo.pdf)
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2005**). *[Move-Pruning Techniques for Monte-Carlo Go](http://link.springer.com/chapter/10.1007/11922155_8)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11")
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2005**). *Associating domain-dependent knowledge and Monte Carlo approaches within a go program*. Information Sciences, Heuristic Search and Computer Game Playing IV
+
+
+**2006**
+
+
+
+* [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, pp. 282-293. introducing [UCT](UCT "UCT"), [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Yizao Wang](Yizao_Wang "Yizao Wang") (**2006**). *Exploration exploitation in Go: UCT for Monte-Carlo Go*. [pdf](http://www.lri.fr/%7Egelly/paper/nips_exploration_exploitation_mogo.pdf)
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Yizao Wang](Yizao_Wang "Yizao Wang"), [Rémi Munos](R%C3%A9mi_Munos "Rémi Munos"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2006**). *Modiﬁcation of UCT with Patterns in Monte-Carlo Go*. [INRIA](http://hal.inria.fr/inria-00117266)
+* [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári"), [Jan Willemson](index.php?title=Jan_Willemson&action=edit&redlink=1 "Jan Willemson (page does not exist)") (**2006**). *Improved Monte-Carlo Search*. [pdf](http://www.sztaki.hu/~szcsaba/papers/cg06-ext.pdf)
+* [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2006**). *[Monte-Carlo Proof-Number Search for Computer Go](http://link.springer.com/chapter/10.1007/978-3-540-75538-8_5)*. [CG 2006](CG_2006 "CG 2006")
+* [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2006**). *[Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-540-75538-8_7)*. [CG 2006](CG_2006 "CG 2006")
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2006**). *History and Territory Heuristics for Monte-Carlo Go*. New Mathematics and Natural Computation
+* [Haruhiro Yoshimoto](index.php?title=Haruhiro_Yoshimoto&action=edit&redlink=1 "Haruhiro Yoshimoto (page does not exist)"), [Kazuki Yoshizoe](index.php?title=Kazuki_Yoshizoe&action=edit&redlink=1 "Kazuki Yoshizoe (page does not exist)"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Kenjiro Taura](index.php?title=Kenjiro_Taura&action=edit&redlink=1 "Kenjiro Taura (page does not exist)") (**2006**). *[Monte Carlo Go Has a Way to Go](http://dl.acm.org/citation.cfm?id=1597359)*. [AAAI 2006](http://www.informatik.uni-trier.de/~ley/db/conf/aaai/aaai2006.html#YoshimotoYKKT06), [pdf](http://www.aaai.org/Papers/AAAI/2006/AAAI06-168.pdf)
+
+
+**2007**
+
+
+
+* [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Monte-Carlo Tree Search in Crazy Stone](http://remi.coulom.free.fr/Hakone2007/)*. [slides as pdf](http://remi.coulom.free.fr/Hakone2007/Hakone.pdf)
+* [Yizao Wang](Yizao_Wang "Yizao Wang"), [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly") (**2007**). *Modifications of UCT and Sequence-Like Simulations for Monte-Carlo Go*. IEEE Symposium on Computational Intelligence and Games, Honolulu, USA, 2007, [pdf](http://www.stat.lsa.umich.edu/%7Eyizwang/publications/wang07modifications.pdf)
+* [Shugo Nakamura](index.php?title=Shugo_Nakamura&action=edit&redlink=1 "Shugo Nakamura (page does not exist)"), [Makoto Miwa](Makoto_Miwa "Makoto Miwa"), [Takashi Chikayama](Takashi_Chikayama "Takashi Chikayama") (**2007**). *Improvement of UCT using evaluation function*. [12th Game Programming Workshop 2007](http://www.computer-shogi.org/gpw/gpw12_e.html)
+* [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Peigang Zhang](index.php?title=Peigang_Zhang&action=edit&redlink=1 "Peigang Zhang (page does not exist)") (**2007**). *Monte-Carlo Go with Knowledge-Guided Simulations*. [CGW 2007](CGW_2007 "CGW 2007")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2007**). *Reflexive Monte-Carlo Search*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/reflexmc.pdf) [[19]](#cite_note-19)
+* [François van Lishout](index.php?title=Fran%C3%A7ois_van_Lishout&action=edit&redlink=1 "François van Lishout (page does not exist)"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2007**). *[Monte-Carlo Tree Search in Backgammon](https://www.researchgate.net/publication/228378473_Monte-Carlo_tree_search_in_backgammon)*. [CGW 2007](CGW_2007 "CGW 2007")
+* [Julien Kloetzer](index.php?title=Julien_Kloetzer&action=edit&redlink=1 "Julien Kloetzer (page does not exist)"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2007**). *The Monte-Carlo approach in Amazons*. [CGW 2007](CGW_2007 "CGW 2007")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2007**). *On the Parallelization of UCT*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/parallelUCT.pdf)
+* [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito"), [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2007**). *Grouping Nodes for Monte-Carlo Tree Search*. [CGW 2007](CGW_2007 "CGW 2007")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2007**). *Evolving Monte-Carlo Tree Search Algorithms*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/evolveMC.pdf)
+* [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)") (**2007**). *Playing Othello Using Monte Carlo*. Bachelor's Thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.personeel.unimaas.nl/pim.nijssen/pub/bsc.pdf)
+
+
+**2008**
+
+
+
+* [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Peigang Zhang](index.php?title=Peigang_Zhang&action=edit&redlink=1 "Peigang Zhang (page does not exist)") (**2008**). *Monte-Carlo Go with Knowledge-Guided Simulations*. [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal")
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Yann Kalemkarian](http://fr.linkedin.com/pub/yann-kalemkarian/7/7aa/716) (**2008**). *The Parallelization of Monte-Carlo Planning - Parallelization of MC-Planning*. ICINCO-ICSO 2008: 244-249, [pdf](http://hal.archives-ouvertes.fr/docs/00/28/78/67/PDF/icin08.pdf), [slides as pdf](http://www.lri.fr/%7Eteytaud/UCTpara.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Louis Chatriot](index.php?title=Louis_Chatriot&action=edit&redlink=1 "Louis Chatriot (page does not exist)"), [Christophe Fiter](index.php?title=Christophe_Fiter&action=edit&redlink=1 "Christophe Fiter (page does not exist)"), [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Julien Pérez](index.php?title=Julien_P%C3%A9rez&action=edit&redlink=1 "Julien Pérez (page does not exist)"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2008**). *Combining expert, offline, transient and online knowledge in Monte-Carlo exploration*. [pdf](http://www.lri.fr/%7Eteytaud/eg.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2008**). *Progressive Strategies for Monte-Carlo Tree Search*. [New Mathematics and Natural Computation](http://www.worldscinet.com/nmnc/nmnc.shtml), Vol. 4, No. 3, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.3015&rep=rep1&type=pdf) [[20]](#cite_note-20)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Sander Bakkes](index.php?title=Sander_Bakkes&action=edit&redlink=1 "Sander Bakkes (page does not exist)"), [István Szita](Istv%C3%A1n_Szita "István Szita"), [Pieter Spronck](Pieter_Spronck "Pieter Spronck") (**2008**). *Monte-Carlo Tree Search: A New Framework for Game AI*. [pdf](http://sander.landofsand.com/publications/AIIDE08_Chaslot.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [István Szita](Istv%C3%A1n_Szita "István Szita"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"). (**2008**). *Cross-entropy for Monte-Carlo Tree Search*. [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal"), [pdf](http://www.personeel.unimaas.nl/m-winands/documents/crossmc.pdf)
+* [Maarten Schadd](index.php?title=Maarten_Schadd&action=edit&redlink=1 "Maarten Schadd (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Huib Aldewereld](index.php?title=Huib_Aldewereld&action=edit&redlink=1 "Huib Aldewereld (page does not exist)") (**2008**). *Addressing NP-Complete Puzzles with Monte-Carlo Methods*. In Volume 9: Proceedings of the AISB 2008 Symposium on Logic and the Simulation of Interaction and Reasoning, pages 55-61, Brighton, UK, 2008. The Society for the study of Artificial Intelligence and Simulation of Behaviour. [pdf](http://www.personeel.unimaas.nl/Maarten-Schadd/Papers/2008SameGameAISB.pdf)
+* [Maarten Schadd](index.php?title=Maarten_Schadd&action=edit&redlink=1 "Maarten Schadd (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2008**). *[Single-Player Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_1)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.personeel.unimaas.nl/Maarten-Schadd/Papers/2008SameGameCG.pdf)
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2008**). *[Amazons Discover Monte-Carlo](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_2)*. [CG 2008](CG_2008 "CG 2008")
+* [Mark Winands](Mark_Winands "Mark Winands"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito") (**2008**). *[Monte-Carlo Tree Search Solver](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_3)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.ru.is/faculty/yngvi/pdf/WinandsBS08.pdf)
+* [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant") (**2008**). *[An Analysis of UCT in Multi-player Games](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_4)*. [CG 2008](CG_2008 "CG 2008")
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *[Parallel Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_6)*. [CG 2008](CG_2008 "CG 2008"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/multithreadedMCTS2.pdf)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2008**). *[A Parallel Monte-Carlo Tree Search Algorithm](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_7)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/parallelMCTS.pdf)
+* [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Dawei Du](index.php?title=Dawei_Du&action=edit&redlink=1 "Dawei Du (page does not exist)"), [Peigang Zhang](index.php?title=Peigang_Zhang&action=edit&redlink=1 "Peigang Zhang (page does not exist)") (**2008**). *[A Fast Indexing Method for Monte-Carlo Go](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_9)*. [CG 2008](CG_2008 "CG 2008")
+* [Yizao Wang](Yizao_Wang "Yizao Wang"), [Jean-Yves Audibert](Jean-Yves_Audibert "Jean-Yves Audibert"), [Rémi Munos](R%C3%A9mi_Munos "Rémi Munos") (**2008**). *Algorithms for Infinitely Many-Armed Bandits*. Advances in Neural Information Processing Systems, [pdf](http://www.stat.lsa.umich.edu/%7Eyizwang/publications/wang08algorithms.pdf), Supplemental material - [pdf](http://www.stat.lsa.umich.edu/%7Eyizwang/publications/wang08algorithmsSupp.pdf)
+* [James H. Brodeur](http://en.scientificcommons.org/james_h_brodeur), [Benjamin E. Childs](http://en.scientificcommons.org/benjamin_e_childs), [Levente Kocsis](Levente_Kocsis "Levente Kocsis") (**2008**). *Transpositions and Move Groups in Monte Carlo Tree Search.* [pdf](http://eprints.pascal-network.org/archive/00004571/01/8057.pdf)
+* [Hilmar Finnsson](index.php?title=Hilmar_Finnsson&action=edit&redlink=1 "Hilmar Finnsson (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"). (**2008**). *Simulation-Based Approach to General Game Playing.* In The Twenty-Third AAAI Conference on Artificial Intelligence, [AAAI](AAAI "AAAI") Press, 2008. Accepted. [pdf](http://www.ru.is/faculty/yngvi/pdf/FinnssonB08a.pdf), [pdf](http://www.aaai.org/Papers/AAAI/2008/AAAI08-041.pdf) » [General Game Playing](General_Game_Playing "General Game Playing")
+* [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2008**). *Monte-Carlo Tree Search for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/ggp2008.pdf) » [General Game Playing](General_Game_Playing "General Game Playing")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2008**). *A Parallel Monte-Carlo Tree Search Algorithm*. [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/parallelMCTS.pdf)
+* [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2008**). *On the Laziness of Monte-Carlo Game Tree Search in Non-tight Situations*. Technical Report, [pdf](http://www.althofer.de/mc-laziness.pdf)
+* [Kazutomo Shibahara](Kazutomo_Shibahara "Kazutomo Shibahara"), [Yoshiyuki Kotani](Yoshiyuki_Kotani "Yoshiyuki Kotani") (**2008**). *Combining Final Score with Winning Percentage using Sigmoid Function in Monte-Carlo Algorithm*. [13th Game Programming Workshop](Conferences#GPW "Conferences"), [pdf](http://www.csse.uwa.edu.au/cig08/Proceedings/papers/8016.pdf)
+* [Shogo Takeuchi](Shogo_Takeuchi "Shogo Takeuchi"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi") (**2008**). *Evaluation of Monte Carlo tree search and the application to Go*. [CIG 2008](http://www.informatik.uni-trier.de/~ley/db/conf/cig/cig2008.html)
+
+
+**2009**
+
+
+
+* [Jean-Yves Audibert](Jean-Yves_Audibert "Jean-Yves Audibert"), [Rémi Munos](R%C3%A9mi_Munos "Rémi Munos"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2009**). *Exploration-exploitation trade-off using variance estimates in multi-armed bandits*. Theoretical Computer Science, 410:1876-1902, 2009, [pdf](http://www.ualberta.ca/%7Eszepesva/papers/ucbtuned-journal.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Christophe Fiter](index.php?title=Christophe_Fiter&action=edit&redlink=1 "Christophe Fiter (page does not exist)"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2009**). *Adding Expert Knowledge and Exploration in Monte-Carlo Tree Search*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://www.personeel.unimaas.nl/g-chaslot/papers/acg09.pdf), [pdf](http://www.lri.fr/%7Erimmel/publi/EK_explo.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Julien Pérez](index.php?title=Julien_P%C3%A9rez&action=edit&redlink=1 "Julien Pérez (page does not exist)"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Mark Winands](Mark_Winands "Mark Winands") (**2009**). *Meta Monte-Carlo Tree Search for Automatic Opening Book Generation*. [pdf](http://www.personeel.unimaas.nl/m-winands/documents/ouvertures9x9.pdf)
+* [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2009**). *A lock-free multithreaded Monte-Carlo tree search algorithm*, [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://webdocs.cs.ualberta.ca/%7Emmueller/ps/enzenberger-mueller-acg12.pdf)
+* [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2009**). *The Monte-Carlo Revolution in Go*. JFFoS'2008: Japanese-French Frontiers of Science Symposium, [slides as pdf](http://remi.coulom.free.fr/JFFoS/JFFoS.pdf)
+* [Mark Winands](Mark_Winands "Mark Winands"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2009**). *Evaluation Function Based Monte-Carlo LOA*. [pdf](http://www.ru.is/faculty/yngvi/pdf/WinandsB09.pdf) [[21]](#cite_note-21)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2009**). *Nested Monte-Carlo Search*. [IJCAI 2009](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai2009.html#Cazenave09), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/nested.pdf)
+* [Paolo Ciancarini](Paolo_Ciancarini "Paolo Ciancarini"), [Gian Piero Favini](index.php?title=Gian_Piero_Favini&action=edit&redlink=1 "Gian Piero Favini (page does not exist)") (**2009**). *Monte Carlo Tree Search Techniques in the Game of Kriegspiel*. [IJCAI 2009](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai2009.html), [pdf](http://ijcai.org/papers09/Papers/IJCAI09-086.pdf) » [KriegSpiel](KriegSpiel "KriegSpiel")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2009**). *Monte-Carlo Kakuro*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/kakuro.pdf)
+* [István Szita](Istv%C3%A1n_Szita "István Szita"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Pieter Spronck](Pieter_Spronck "Pieter Spronck") (**2009**). *Monte-Carlo Tree Search in Settlers of Catan*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://ticc.uvt.nl/~pspronck/pubs/ACG12Szita.pdf) [[22]](#cite_note-22)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2009**). *Parallel Nested Monte-Carlo Search*. NIDISC 2009, [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/parallelNested.pdf)
+* [Tomas Kozelek](index.php?title=Tomas_Kozelek&action=edit&redlink=1 "Tomas Kozelek (page does not exist)") (**2009**). *Methods of MCTS and the game Arimaa*. Master's thesis, [pdf](http://arimaa.com/arimaa/papers/TomasKozelekThesis/mt.pdf) » [Arimaa](Arimaa "Arimaa")
+* [Kenta Sasaki](index.php?title=Kenta_Sasaki&action=edit&redlink=1 "Kenta Sasaki (page does not exist)"), [Yoshiyuki Kotani](Yoshiyuki_Kotani "Yoshiyuki Kotani") (**2009**). *Monte-Carlo Tree Search in the Game of Blokus-Duo*. [14th Game Programming Workshop](Conferences#GPW "Conferences") [[23]](#cite_note-23)
+* [David Silver](David_Silver "David Silver"), [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2009**). *Monte-Carlo Simulation Balancing*. [ICML 2009](http://www.informatik.uni-trier.de/~ley/db/conf/icml/icml2009.html#SilverT09), [pdf](http://www.machinelearning.org/archive/icml2009/papers/500.pdf)
+* [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Dawei Du](index.php?title=Dawei_Du&action=edit&redlink=1 "Dawei Du (page does not exist)"), [Peigang Zhang](index.php?title=Peigang_Zhang&action=edit&redlink=1 "Peigang Zhang (page does not exist)") (**2009**). *Monte-Carlo Tree Search and Computer Go*. [Advances in Information and Intelligent Systems 2009](http://www.informatik.uni-trier.de/~ley/db/series/sci/sci251.html#ChenDZ09)
+* [David Silver](David_Silver "David Silver") (**2009**). *Reinforcement Learning and Simulation-Based Search*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/thesis.pdf)
+* [Seth Pellegrino](index.php?title=Seth_Pellegrino&action=edit&redlink=1 "Seth Pellegrino (page does not exist)"), [Andrew Hubbard](index.php?title=Andrew_Hubbard&action=edit&redlink=1 "Andrew Hubbard (page does not exist)"), [Jason Galbraith](index.php?title=Jason_Galbraith&action=edit&redlink=1 "Jason Galbraith (page does not exist)"), [Peter D. Drake](index.php?title=Peter_D._Drake&action=edit&redlink=1 "Peter D. Drake (page does not exist)"), [Yung-Pin Chen](index.php?title=Yung-Pin_Chen&action=edit&redlink=1 "Yung-Pin Chen (page does not exist)") (**2009**). *Localizing Search in Monte-Carlo Go using Statistical Covariance.* [ICGA Journal, Vol. 32, No. 3](ICGA_Journal#32_3 "ICGA Journal")
+
+
+### 2010 ...
+
+
+* [Julien Kloetzer](index.php?title=Julien_Kloetzer&action=edit&redlink=1 "Julien Kloetzer (page does not exist)") (**2010**). *[Monte-Carlo Techniques: Applications to the Game of the Amazons](https://dspace.jaist.ac.jp/dspace/handle/10119/8867?locale=en)*. Ph.D. thesis, [JAIST](JAIST "JAIST")
+* [Yoshikuni Sato](Yoshikuni_Sato "Yoshikuni Sato"), [Daisuke Takahashi](Daisuke_Takahashi "Daisuke Takahashi"), [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") (**2010**). *A Shogi Program based on Monte-Carlo Tree Search*. [ICGA Journal, Vol. 33, No. 2](ICGA_Journal#33_2 "ICGA Journal")
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2010**). *[Improving Monte-Carlo Tree Search in Havannah](http://www.springerlink.com/content/p4x16832317r1214/)*. [CG 2010](CG_2010 "CG 2010")
+* [Amine Bourki](index.php?title=Amine_Bourki&action=edit&redlink=1 "Amine Bourki (page does not exist)"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Matthieu Coulm](index.php?title=Matthieu_Coulm&action=edit&redlink=1 "Matthieu Coulm (page does not exist)"), [Vincent Danjean](index.php?title=Vincent_Danjean&action=edit&redlink=1 "Vincent Danjean (page does not exist)"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)"), [Thomas Hérault](index.php?title=Thomas_H%C3%A9rault&action=edit&redlink=1 "Thomas Hérault (page does not exist)"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Paul Vayssière](index.php?title=Paul_Vayssi%C3%A8re&action=edit&redlink=1 "Paul Vayssière (page does not exist)"), [Ziqin Yu](index.php?title=Ziqin_Yu&action=edit&redlink=1 "Ziqin Yu (page does not exist)") (**2010**). *[Scalability and Parallelization of Monte-Carlo Tree Search](http://hal.inria.fr/inria-00512854/en/)*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://hal.inria.fr/docs/00/51/28/54/PDF/newcluster.pdf)
+* [Julien Kloetzer](index.php?title=Julien_Kloetzer&action=edit&redlink=1 "Julien Kloetzer (page does not exist)") (**2010**). *Monte-Carlo Opening Books for Amazons*. [CG 2010](CG_2010 "CG 2010")
+* [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2010**). *[Biasing Monte-Carlo Simulations through RAVE Values](http://hal.inria.fr/inria-00485555/en/)*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://hal.inria.fr/docs/00/48/55/55/PDF/poolrave.pdf)
+* [Jean-Yves Audibert](Jean-Yves_Audibert "Jean-Yves Audibert") (**2010**). *PAC-Bayesian aggregation and multi-armed bandits*. Habilitation thesis, [Université Paris Est](http://fr.wikipedia.org/wiki/Universit%C3%A9_Paris-Est), [pdf](http://certis.enpc.fr/%7Eaudibert/Mes%20articles/hdr.pdf), [slides as pdf](http://certis.enpc.fr/%7Eaudibert/Mes%20articles/hdrSlides.pdf)
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2010**). *[Monte-Carlo Simulation Balancing in Practice](http://remi.coulom.free.fr/CG2010-Simulation-Balancing/)*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://remi.coulom.free.fr/CG2010-Simulation-Balancing/SimulationBalancing.pdf)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2010**). *Score Bounded Monte-Carlo Tree Search*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/mcsolver.pdf)
+* [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2010**). *Enhancements for Multi-Player Monte-Carlo Tree Search*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://www.personeel.unimaas.nl/pim.nijssen/pub/cg10.pdf)
+* [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan"), [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), [Bart Selman](Bart_Selman "Bart Selman") (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php) [[24]](#cite_note-24)
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2010**). *Monte-Carlo Simulation Balancing applied to 9x9 Go*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2010**). *Monte-Carlo Hex*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/hex.pdf)
+* [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2010**). *Combining UCT and Nested Monte-Carlo Search for Single-Player General Game Playing*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf 2009](http://www.lamsade.dauphine.fr/~cazenave/papers/ggp2009.pdf) » [General Game Playing](General_Game_Playing "General Game Playing")
+* [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Monte Carlo Tree Search in Hex*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/mcts-hex.pdf)
+* [Mark Winands](Mark_Winands "Mark Winands"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito") (**2010**). *[Monte Carlo Tree Search in Lines of Action](https://ieeexplore.ieee.org/document/5523941)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://www.ru.is/~yngvi/pdf/WinandsB10a.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Peter D. Drake](index.php?title=Peter_D._Drake&action=edit&redlink=1 "Peter D. Drake (page does not exist)") (**2010**). *The power of forgetting: Improving the last-good-reply policy in Monte Carlo Go*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4
+* [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2010**). *Game Self-Play with Pure Monte-Carlo: The Basin Structure*. [pdf](http://www.althofer.de/monte-carlo-basins-althoefer.pdf)
+* [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2010**). *[On the Huge Benefit of Decisive Moves in Monte-Carlo Tree Search Algorithms](http://hal.inria.fr/inria-00495078/en/)*. [pdf](http://hal.inria.fr/docs/00/49/50/78/PDF/cig2010.pdf)
+* [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot") (**2010**). *Monte-Carlo Tree Search*. Ph.D. Thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.unimaas.nl/games/files/phd/Chaslot_thesis.pdf)
+* [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito") (**2010**). *Solving Difficult Game Positions*. Ph.D. Thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.unimaas.nl/games/files/phd/Saito_thesis.pdf)
+* [Romaric Gaudel](index.php?title=Romaric_Gaudel&action=edit&redlink=1 "Romaric Gaudel (page does not exist)"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag") (**2010**). *Feature Selection as a one-player game*. [ICML 2010](http://www.icml2010.org/), [pdf](http://www.icml2010.org/papers/247.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2010**). *Adaptive Playout Policies for Monte-Carlo Go*. Master's thesis, [University of Osnabrück](https://en.wikipedia.org/wiki/University_of_Osnabr%C3%BCck), [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/master/2010/Baier_Hendrik.pdf)
+* [Thomas J. Walsh](index.php?title=Thomas_J._Walsh&action=edit&redlink=1 "Thomas J. Walsh (page does not exist)"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)"), [Michael L. Littman](Michael_L._Littman "Michael L. Littman") (**2010**). *Integrating sample-based planning and model-based reinforcement learning.* [AAAI](AAAI "AAAI"), [pdf](https://pdfs.semanticscholar.org/bdc9/bfb6ecc6fb5afb684df03d7220c46ebdbf4e.pdf) » [UCT](UCT "UCT"), [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning")
+
+
+**2011**
+
+
+
+* [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Richard Segal](index.php?title=Richard_Segal&action=edit&redlink=1 "Richard Segal (page does not exist)") (**2011**). *Fuego - An Open-source Framework for Board Games and Go Engine Based on Monte-Carlo Tree Search*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](https://webdocs.cs.ualberta.ca/~mmueller/ps/fuego-TCIAIG.pdf)
+* [Christopher D. Rosin](Christopher_D._Rosin "Christopher D. Rosin") (**2011**). *[Multi-armed bandits with episode context](https://link.springer.com/article/10.1007/s10472-011-9258-6)*. Annals of Mathematics and Artificial Intelligence, Vol. 61, No. 3, [ISAIM 2010 pdf](http://gauss.ececs.uc.edu/Workshops/isaim2010/papers/rosin.pdf)
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2011**). *Time Management for Monte-Carlo Tree Search Applied to the Game of Go*. TAAI 2010, [pdf](http://remi.coulom.free.fr/Publications/TimeManagement.pdf)
+* [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *Optimization of the Nested Monte-Carlo Algorithm on the Traveling Salesman Problem with Time Windows*. Evostar 2011, [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/tsptw.pdf)
+* [Cameron Browne](Cameron_Browne "Cameron Browne") (**2011**). *The Dangers of Random Playouts*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
+* [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *A Parallel General Game Player*. [KI Journal](http://www.kuenstliche-intelligenz.de/), Vol. 25, No. 1, [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/rootparallelggp.pdf)
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang") (**2011**). *New Heuristics for Monte Carlo Tree Search Applied to the Game of Go*. Ph.D. thesis, [pdf](http://www.usgo.org/resources/downloads/Supercomputer%20Go%20Appendix%20Two.pdf)
+* [Petr Baudiš](index.php?title=Petr_Baudi%C5%A1&action=edit&redlink=1 "Petr Baudiš (page does not exist)") (**2011**). *Information Sharing in MCTS*. Master thesis, Faculty of Mathematics and Physics, [Charles University in Prague](https://en.wikipedia.org/wiki/Charles_University_in_Prague), [pdf](http://pasky.or.cz/go/prace.pdf)
+* [Petr Baudiš](index.php?title=Petr_Baudi%C5%A1&action=edit&redlink=1 "Petr Baudiš (page does not exist)") (**2011**). *Balancing MCTS by Dynamically Adjusting the Komi Value*. [ICGA Journal, Vol. 34, No. 3](ICGA_Journal#34_3 "ICGA Journal")
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2011**). *Experiments with Monte-Carlo Tree Search in the Game of Havannah*. [ICGA Journal, Vol. 34, No. 3](ICGA_Journal#34_3 "ICGA Journal")
+* [Kazuki Yoshizoe](index.php?title=Kazuki_Yoshizoe&action=edit&redlink=1 "Kazuki Yoshizoe (page does not exist)"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Haruhiro Yoshimoto](index.php?title=Haruhiro_Yoshimoto&action=edit&redlink=1 "Haruhiro Yoshimoto (page does not exist)"), [Yutaka Ishikawa](index.php?title=Yutaka_Ishikawa&action=edit&redlink=1 "Yutaka Ishikawa (page does not exist)") (**2011**). *Scalable Distributed Monte Carlo Tree Search*. [SoCS2011](http://www.informatik.uni-trier.de/~ley/db/conf/socs/socs2011.html#YoshizoeKKYI11), [pdf](http://www.is.titech.ac.jp/~kishi/pdf_file/socs2011pmcts.pdf)
+* [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2011**). *Revisiting Monte-Carlo Tree Search on a Normal Form Game: NoGo*. [EvoApplications 2011](http://www.informatik.uni-trier.de/~ley/db/conf/evoW/evoappl2011-1.html#ChouTY11) [[25]](#cite_note-25)
+* [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jung-Kuei Yang](Jung-Kuei_Yang "Jung-Kuei Yang") (**2011**). *Two-Stage Monte Carlo Tree Search for Connect6*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 3
+* [Nozomu Ikehata](index.php?title=Nozomu_Ikehata&action=edit&redlink=1 "Nozomu Ikehata (page does not exist)"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito") (**2011**). *Monte-Carlo Tree Search In Ms. Pac-Man*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 3 [[26]](#cite_note-26)
+* [Junichi Hashimoto](Junichi_Hashimoto "Junichi Hashimoto"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Kazuki Yoshizoe](index.php?title=Kazuki_Yoshizoe&action=edit&redlink=1 "Kazuki Yoshizoe (page does not exist)"), [Kokolo Ikeda](Kokolo_Ikeda "Kokolo Ikeda") (**2011**). *[Accelerated UCT and Its Application to Two-Player Games](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_1)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Jan Stankiewicz](index.php?title=Jan_Stankiewicz&action=edit&redlink=1 "Jan Stankiewicz (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2011**). *[Monte-Carlo Tree Search Enhancements for Havannah](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_6)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Gabriel Van Eyck](index.php?title=Gabriel_Van_Eyck&action=edit&redlink=1 "Gabriel Van Eyck (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2011**). *[Revisiting Move Groups in Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_2)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2011**). *Active Opening Book Application for Monte-Carlo Tree Search in 19x19 Go*. [BNAIC 2011](http://allserv.kahosl.be/bnaic2011/), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/bnaic2011Baier.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2011**). *[Time Management for Monte-Carlo Tree Search in Go](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_4)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2011**). *[An MCTS Program to Play EinStein Würfelt Nicht!](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_5)* [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Ping-Chiang Chou](index.php?title=Ping-Chiang_Chou&action=edit&redlink=1 "Ping-Chiang Chou (page does not exist)"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Hui-Ming Wang](index.php?title=Hui-Ming_Wang&action=edit&redlink=1 "Hui-Ming Wang (page does not exist)"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Li-Wen Wu](index.php?title=Li-Wen_Wu&action=edit&redlink=1 "Li-Wen Wu (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2011**). *[Towards a Solution of 7x7 Go with Meta-MCTS](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_8)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), [Marc Métivier](index.php?title=Marc_M%C3%A9tivier&action=edit&redlink=1 "Marc Métivier (page does not exist)"), [Damien Pellier](index.php?title=Damien_Pellier&action=edit&redlink=1 "Damien Pellier (page does not exist)") (**2011**). *[MCTS Experiments on the Voronoi Game](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_9)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2011**). *Playout Search for Monte-Carlo Tree Search in Multi-Player Games*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Jiao Wang](Jiao_Wang "Jiao Wang"), [Shiyuan Li](index.php?title=Shiyuan_Li&action=edit&redlink=1 "Shiyuan Li (page does not exist)"), [Jitong Chen](index.php?title=Jitong_Chen&action=edit&redlink=1 "Jitong Chen (page does not exist)"), [Xin Wei](index.php?title=Xin_Wei&action=edit&redlink=1 "Xin Wei (page does not exist)"), [Huizhan Lv](index.php?title=Huizhan_Lv&action=edit&redlink=1 "Huizhan Lv (page does not exist)"), [Xinhe Xu](Xinhe_Xu "Xinhe Xu") (**2011**). *[4\*4-Pattern and Bayesian Learning in Monte-Carlo Go](http://link.springer.com/chapter/10.1007%2F978-3-642-31866-5_10?LI=true#page-1)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2011**). *[Mixing MCTS with Conventional Static Evaluation: Experiments and shortcuts en-route to full UCT](http://www.aifactory.co.uk/newsletter/2011_02_mcts_static.htm)*. [AI Factory](AI_Factory "AI Factory"), Winter 2011 » [UCT](UCT "UCT"), [Evaluation](Evaluation "Evaluation")
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [David Silver](David_Silver "David Silver") (**2011**). *Monte-Carlo tree search and rapid action value estimation in computer Go*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 175, No. 11
+* [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2011**). *UCT-Treesplit - Parallel MCTS on Distributed Memory*. MCTS Workshop, Freiburg, Germany, [pdf](http://www.cs.uni-paderborn.de/fileadmin/Informatik/AG-Platzner/People/Schaefers/TreesplitICAPS.pdf)
+* [Tobias Graf](index.php?title=Tobias_Graf&action=edit&redlink=1 "Tobias Graf (page does not exist)"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)"), [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)") (**2011**). *Parallel Monte-Carlo Tree Search for HPC Systems*. [Euro-Par 2011](http://www.informatik.uni-trier.de/~ley/db/conf/europar/europar2011-2.html), [pdf](http://www.cs.uni-paderborn.de/fileadmin/Informatik/AG-Platzner/People/Schaefers/uctTreesplit.pdf)
+* [Joel Veness](Joel_Veness "Joel Veness"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Michael Bowling](Michael_Bowling "Michael Bowling") (**2011**). *Variance Reduction in Monte-Carlo Tree Search*. [NIPS](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-24-2011), [pdf](http://papers.nips.cc/paper/4288-variance-reduction-in-monte-carlo-tree-search.pdf)
+* [Joel Veness](Joel_Veness "Joel Veness"), [Kee Siong Ng](index.php?title=Kee_Siong_Ng&action=edit&redlink=1 "Kee Siong Ng (page does not exist)"), [Marcus Hutter](Marcus_Hutter "Marcus Hutter"), [William Uther](William_Uther "William Uther") , [David Silver](David_Silver "David Silver") (**2011**). *A Monte-Carlo AIXI Approximation*. [JAIR](https://en.wikipedia.org/wiki/Journal_of_Artificial_Intelligence_Research), Vol. 40, [pdf](http://www.aaai.org/Papers/JAIR/Vol40/JAIR-4004.pdf)
+* [Christopher D. Rosin](Christopher_D._Rosin "Christopher D. Rosin") (**2011**).  *Nested Rollout Policy Adaptation for Monte Carlo Tree Search*. [IJCAI 2011](Conferences#IJCAI2011 "Conferences"), [pdf](http://www.chrisrosin.com/rosin-ijcai11.pdf)
+* [David Tolpin](index.php?title=David_Tolpin&action=edit&redlink=1 "David Tolpin (page does not exist)"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2011**). *Doing Better Than UCT: Rational Monte Carlo Sampling in Trees*. [arXiv:1108.3711](https://arxiv.org/abs/1108.3711) » [UCT](UCT "UCT")
+
+
+**2012**
+
+
+
+* [Michael L. Littman](Michael_L._Littman "Michael L. Littman") (**2012**). *Technical Perspective: A New Way to Search Game Trees*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [David Silver](David_Silver "David Silver"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2012**). *[The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions](http://dl.acm.org/citation.cfm?id=2093548.2093574)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3, [pdf preprint](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/grand-challenge.pdf)
+* [Oleg Arenz](index.php?title=Oleg_Arenz&action=edit&redlink=1 "Oleg Arenz (page does not exist)") (**2012**). *Monte Carlo Chess*. B.Sc. thesis, [Darmstadt University of Technology](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2012/Arenz_Oleg.pdf) » [Stockfish](Stockfish "Stockfish")
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2012**). *[Tuning Spades](http://www.aifactory.co.uk/newsletter/2012_01_tuning_spades.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2012 » [UCT](UCT "UCT")
+* [David Tolpin](index.php?title=David_Tolpin&action=edit&redlink=1 "David Tolpin (page does not exist)"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2012**). *MCTS Based on Simple Regret*. [AAAI-2012](Conferences#AAAI-2012 "Conferences"), [arXiv:1207.5536](https://arxiv.org/abs/1207.5536)
+* [David Tolpin](index.php?title=David_Tolpin&action=edit&redlink=1 "David Tolpin (page does not exist)"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2012**). *VOI-aware MCTS*. [ECAI 2012](https://dblp.uni-trier.de/db/conf/ecai/ecai2012.html), [arXiv:1207.5589](https://arxiv.org/abs/1207.5589) [[27]](#cite_note-27)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud") (**2012**). *Beam Nested Rollout Policy Adaptation*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)")
+* [André Fabbri](index.php?title=Andr%C3%A9_Fabbri&action=edit&redlink=1 "André Fabbri (page does not exist)"), [Frédéric Armetta](index.php?title=Fr%C3%A9d%C3%A9ric_Armetta&action=edit&redlink=1 "Frédéric Armetta (page does not exist)"), [Eric Duchêne](index.php?title=Eric_Duch%C3%AAne&action=edit&redlink=1 "Eric Duchêne (page does not exist)"), [Salima Hassas](index.php?title=Salima_Hassas&action=edit&redlink=1 "Salima Hassas (page does not exist)") (**2012**). *A new self-acquired knowledge process for Monte Carlo Tree Search*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)")
+* [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Joel Veness](Joel_Veness "Joel Veness"), [Christopher Archibald](index.php?title=Christopher_Archibald&action=edit&redlink=1 "Christopher Archibald (page does not exist)") (**2012**). *Sparse Sampling for Adversarial Games*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)")
+* [Niek Den Teuling](index.php?title=Niek_Den_Teuling&action=edit&redlink=1 "Niek Den Teuling (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2012**). *Monte-Carlo Tree Search for the Simultaneous Move Game Tron*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/Tronpaper.pdf)
+* [Arthur Guez](Arthur_Guez "Arthur Guez"), [David Silver](David_Silver "David Silver"), [Peter Dayan](Peter_Dayan "Peter Dayan") (**2012**). *Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search*. [arXiv:1205.3109](https://arxiv.org/abs/1205.3109)
+* [Truong-Huy Dinh Nguyen](Truong-Huy_Dinh_Nguyen "Truong-Huy Dinh Nguyen"), [Wee Sun Lee](Wee_Sun_Lee "Wee Sun Lee"), [Tze-Yun Leong](index.php?title=Tze-Yun_Leong&action=edit&redlink=1 "Tze-Yun Leong (page does not exist)") (**2012**). *Bootstrapping Monte Carlo Tree Search with an Imperfect Heuristic*. [arXiv:1206.5940](https://arxiv.org/abs/1206.5940)
+* [Jan Kuipers](index.php?title=Jan_Kuipers_(Nikhef)&action=edit&redlink=1 "Jan Kuipers (Nikhef) (page does not exist)"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2012**). *Improving multivariate Horner schemes with Monte Carlo tree search*. [CoRR abs/1207.7079](http://arxiv.org/abs/1207.7079)
+* [Cameron Browne](Cameron_Browne "Cameron Browne"), [Edward Powley](index.php?title=Edward_Powley&action=edit&redlink=1 "Edward Powley (page does not exist)"), [Daniel Whitehouse](index.php?title=Daniel_Whitehouse&action=edit&redlink=1 "Daniel Whitehouse (page does not exist)"), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Peter Cowling](index.php?title=Peter_Cowling&action=edit&redlink=1 "Peter Cowling (page does not exist)"), [Philipp Rohlfshagen](index.php?title=Philipp_Rohlfshagen&action=edit&redlink=1 "Philipp Rohlfshagen (page does not exist)"), [Stephen Tavener](index.php?title=Stephen_Tavener&action=edit&redlink=1 "Stephen Tavener (page does not exist)"), [Diego Perez](index.php?title=Diego_Perez&action=edit&redlink=1 "Diego Perez (page does not exist)"), [Spyridon Samothrakis](index.php?title=Spyridon_Samothrakis&action=edit&redlink=1 "Spyridon Samothrakis (page does not exist)"), [Simon Colton](index.php?title=Simon_Colton&action=edit&redlink=1 "Simon Colton (page does not exist)") (**2012**). *[A Survey of Monte Carlo Tree Search Methods](https://ieeexplore.ieee.org/document/6145622)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 4, No. 1, [pdf](http://ccg.doc.gold.ac.uk/ccg_old/papers/browne_tciaig12_1.pdf)
+* [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2012**). *[Monte-Carlo Tree Search for the Hide-and-Seek Game Scotland Yard](http://ieeexplore.ieee.org/document/6266709/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 4, No. 4 [[28]](#cite_note-28)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2012**). *Nested Monte-Carlo Tree Search for Online Planning in Large MDPs*. [ECAI 2012](http://www2.lirmm.fr/ecai2012/), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/ecai2012.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2012**). *Beam Monte-Carlo Tree Search*. [IEEE CIG 2012](IEEE#CIG "IEEE"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/CIG2012_paper_32.pdf)
+* [Thomas Philip Runarsson](Thomas_Philip_Runarsson "Thomas Philip Runarsson"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag") (**2012**). *Pilot, Rollout and Monte Carlo Tree Search Methods for Job Shop Scheduling*. [arXiv:1210.0374](https://arxiv.org/abs/1210.0374)
+* [Adrien Couetoux](index.php?title=Adrien_Couetoux&action=edit&redlink=1 "Adrien Couetoux (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)") (**2012**). *Learning a Move-Generator for Upper Confidence Trees*. [ICS 2012](http://ics2012.ndhu.edu.tw/), [Hualien](https://en.wikipedia.org/wiki/Hualien_City)
+* [Haruhiko Akiyama](index.php?title=Haruhiko_Akiyama&action=edit&redlink=1 "Haruhiko Akiyama (page does not exist)"), [Kanako Komiya](index.php?title=Kanako_Komiya&action=edit&redlink=1 "Kanako Komiya (page does not exist)"), [Yoshiyuki Kotani](Yoshiyuki_Kotani "Yoshiyuki Kotani") (**2012**). *[Nested Monte-Carlo Search with simulation reduction](https://www.sciencedirect.com/science/article/abs/pii/S0950705111002516)*. [Knowledge-Based Systems](https://en.wikipedia.org/wiki/Knowledge-Based_Systems_(journal)), Vol. 34 [[29]](#cite_note-29) [[30]](#cite_note-30)
+
+
+**2013**
+
+
+
+* [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Ping-Chiang Chou](index.php?title=Ping-Chiang_Chou&action=edit&redlink=1 "Ping-Chiang Chou (page does not exist)"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [David L. Saint-Pierre](index.php?title=David_L._Saint-Pierre&action=edit&redlink=1 "David L. Saint-Pierre (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Li-Wen Wu](index.php?title=Li-Wen_Wu&action=edit&redlink=1 "Li-Wen Wu (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2013**). *Strategic Choices: Small Budgets and Simple Regret*. [TAAI 2012](index.php?title=TAAI&action=edit&redlink=1 "TAAI (page does not exist)"), [Excellent Paper Award](http://www.csie.ndhu.edu.tw/csieweb/en/node/685), [pdf](https://hal.inria.fr/hal-00753145v2/document)
+* [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Monte carlo methods for estimating game tree size*. [pdf](https://dl.dropboxusercontent.com/u/55295461/perft/perft.pdf) [[31]](#cite_note-31) » [Perft](Perft "Perft")
+* [Marc Lanctot](Marc_Lanctot "Marc Lanctot") (**2013**). *Monte Carlo Sampling and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), advisor [Michael Bowling](Michael_Bowling "Michael Bowling")
+* [Aviezri Fraenkel](Aviezri_Fraenkel "Aviezri Fraenkel") (**2013**). *Reflection*. [ICGA Journal, Vol. 36, No. 1](ICGA_Journal#36_1 "ICGA Journal") » [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam")
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2013**). *[Reducing the burden of knowledge: Simulation-based methods in imperfect information games](http://www.aifactory.co.uk/newsletter/2013_01_reduce_burden.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2013
+* [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2013**). *Solving Games and All That*. Ph.D. thesis, 2.5 Monte Carlo Tree Search
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2013**).  *Investigating the Limits of Monte Carlo Tree Search Methods in Computer Go*. [CG 2013](CG_2013 "CG 2013")
+* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jakub Pawlewicz](Jakub_Pawlewicz "Jakub Pawlewicz") (**2013**). *MoHex 2.0: a pattern-based MCTS Hex player*. [CG 2013](CG_2013 "CG 2013"), [pdf](https://webdocs.cs.ualberta.ca/~hayward/papers/m2.pdf)
+* [Tobias Graf](index.php?title=Tobias_Graf&action=edit&redlink=1 "Tobias Graf (page does not exist)"), [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2013**). *On Semeai Detection in Monte-Carlo Go*. [CG 2013](CG_2013 "CG 2013"), [pdf](http://www.cs.uni-paderborn.de/fileadmin/Informatik/AG-Platzner/publications/graf13_cg/graf13_cg.pdf)
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz"), [Therese Horey](index.php?title=Therese_Horey&action=edit&redlink=1 "Therese Horey (page does not exist)") (**2013**). *Programming Breakthrough*. [CG 2013](CG_2013 "CG 2013") » [Breakthrough (Game)](Breakthrough_(Game) "Breakthrough (Game)")
+* [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Wesley Turner](index.php?title=Wesley_Turner&action=edit&redlink=1 "Wesley Turner (page does not exist)") (**2013**). *Anomalies of Pure Monte Carlo Search in Monte Carlo Perfect Games*. [CG 2013](CG_2013 "CG 2013")
+* [Simon Viennot](Simon_Viennot "Simon Viennot"), [Kokolo Ikeda](Kokolo_Ikeda "Kokolo Ikeda") (**2013**). *[Efficiency of Static Knowledge Bias in Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007%2F978-3-319-09165-5_3)*. [CG 2013](CG_2013 "CG 2013")
+* [Sumudo Fernando](index.php?title=Sumudo_Fernando&action=edit&redlink=1 "Sumudo Fernando (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2013**). *Analyzing Simulations in Monte-Carlo Tree Search for the Game of Go*. [CG 2013](CG_2013 "CG 2013")
+* [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2013**). *The wild Years are gone: Monte Carlo in Smoother Waters*. Conference Report [CG 2013](CG_2013 "CG 2013"), [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
+* [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Joel Veness](Joel_Veness "Joel Veness"), [Christopher Archibald](index.php?title=Christopher_Archibald&action=edit&redlink=1 "Christopher Archibald (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2013**). *Monte Carlo \*-Minimax Search*. [IJCAI 2013](Conferences#IJCAI "Conferences")
+* [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)") (**2013**). *Monte-Carlo Tree Search for Multi-Player Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Nijssen_thesis.pdf)
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2013**). *[Searching the Unknown with MCTS](http://www.aifactory.co.uk/newsletter/2013_02_unknown_mcts.htm)*. [AI Factory](AI_Factory "AI Factory"), Winter 2013
+* [David Silver](David_Silver "David Silver"), [Richard Sutton](Richard_Sutton "Richard Sutton"), [Martin Mueller](Martin_M%C3%BCller "Martin Müller") (**2013**). *Temporal-Difference Search in Computer Go*. [ICAPS-13](http://icaps13.icaps-conference.org/technical-program/workshop-program/planning-and-learning/), [pdf](http://webdocs.cs.ualberta.ca/~sutton/papers/SSM-ICAPS-13.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2013**). *Monte-Carlo Tree Search and minimax hybrids*. [CIG 2013](http://dblp.uni-trier.de/db/conf/cig/cig2013.html#BaierW13), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/paper%2049.pdf)
+* [Timothy Furtak](index.php?title=Timothy_Furtak&action=edit&redlink=1 "Timothy Furtak (page does not exist)"), [Michael Buro](Michael_Buro "Michael Buro") (**2013**). *Recursive Monte Carlo search for imperfect information games*. [CIG 2013](IEEE#CIG "IEEE"), [pdf](https://skatgame.net/mburo/ps/recmc13.pdf)
+* [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2013**). *Combining Simulated Annealing and Monte Carlo Tree Search for Expression Simplification*. [CoRR abs/1312.0841](http://arxiv.org/abs/1312.0841)
+* [Arthur Guez](Arthur_Guez "Arthur Guez"), [David Silver](David_Silver "David Silver"), [Peter Dayan](Peter_Dayan "Peter Dayan") (**2013**). *[Scalable and Efficient Bayes-Adaptive Reinforcement Learning Based on Monte-Carlo Tree Search](https://www.jair.org/index.php/jair/article/view/10853)*. [Journal of Artificial Intelligence Research](https://en.wikipedia.org/wiki/Journal_of_Artificial_Intelligence_Research), Vol. 48
+* [Ari Weinstein](Ari_Weinstein "Ari Weinstein"), [Michael L. Littman](Michael_L._Littman "Michael L. Littman"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)") (**2013**). *[Rollout-based Game-tree Search Outprunes Traditional Alpha-beta](http://proceedings.mlr.press/v24/weinstein12a.html)*. [PMLR](http://proceedings.mlr.press/), Vol. 24 » [UCT](UCT "UCT")
+* [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan") (**2013**). *[Incentive Learning in Monte Carlo Tree Search](https://ieeexplore.ieee.org/document/6468079)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 5, No. 4
+
+
+**2014**
+
+
+
+* [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2014**). *HEPGAME and the Simplification of Expressions*. [CoRR abs/1405.6369](http://arxiv.org/abs/1405.6369)
+* [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Mark Winands](Mark_Winands "Mark Winands"), [Tom Pepels](index.php?title=Tom_Pepels&action=edit&redlink=1 "Tom Pepels (page does not exist)"), [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant") (**2014**). *Monte Carlo Tree Search with Heuristic Evaluations using Implicit Minimax Backups*. [CIG 2014](https://dblp.uni-trier.de/db/conf/cig/cig2014.html#LanctotWPS14), [arXiv:1406.0486](https://arxiv.org/abs/1406.0486)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2014**). *Performance analysis of a 240 thread tournament level MCTS Go program on the Intel Xeon Phi*. [CoRR abs/1409.4297](http://arxiv.org/abs/1409.4297) » [Go](Go "Go"), [Parallel Search](Parallel_Search "Parallel Search"), [x86-64](X86-64 "X86-64")
+* [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2014**). *Why Local Search Excels in Expression Simplification*. [CoRR abs/1409.5223](http://arxiv.org/abs/1409.5223)
+* [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)") (**2014**). *Parallel Monte-Carlo Tree Search for HPC Systems and its Application to Computer Go*. Ph.D. thesis, [Paderborn University](Paderborn_University "Paderborn University"), advisors [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [pdf](http://www.althofer.de/phd-thesis-schaefers.pdf), [pdf](https://www.dropbox.com/s/x0lh7ky5lvj6c1y/PhdThesisSchaefers.pdf)
+* [Rémi Munos](R%C3%A9mi_Munos "Rémi Munos") (**2014**). *From Bandits to Monte-Carlo Tree Search: The Optimistic Principle Applied to Optimization and Planning*. [Foundations and Trends in Machine Learning, Vol. 7, No 1](http://dblp.uni-trier.de/db/journals/ftml/ftml7.html#Munos14), [hal-00747575v5](https://hal.archives-ouvertes.fr/hal-00747575), [slides as pdf](http://chercheurs.lille.inria.fr/~munos/papers/files/AAAI2013_slides.pdf)
+* [David W. King](index.php?title=David_W._King&action=edit&redlink=1 "David W. King (page does not exist)") (**2014**). *Complexity, Heuristic, and Search Analysis for the Games of Crossings and Epaminondas*. Masters thesis, [Air Force Institute of Technology](https://en.wikipedia.org/wiki/Air_Force_Institute_of_Technology), [pdf](http://www.afit.edu/docs/AFIT-ENG-14-M-44_King.pdf) [[32]](#cite_note-32)
+* [David W. King](index.php?title=David_W._King&action=edit&redlink=1 "David W. King (page does not exist)"), [Gilbert L. Peterson](index.php?title=Gilbert_L._Peterson&action=edit&redlink=1 "Gilbert L. Peterson (page does not exist)") (**2014**). *Epaminondas: Exploring Combat Tactics*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal") [[33]](#cite_note-33)
+* [Ting-Fu Liao](Ting-Fu_Liao "Ting-Fu Liao"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Guan-Wun Chen](Guan-Wun_Chen "Guan-Wun Chen"), [Chung-Chin Shih](index.php?title=Chung-Chin_Shih&action=edit&redlink=1 "Chung-Chin Shih (page does not exist)"), [Po-Ya Kang](index.php?title=Po-Ya_Kang&action=edit&redlink=1 "Po-Ya Kang (page does not exist)"), [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang"), [Ting-Chu Ho](index.php?title=Ting-Chu_Ho&action=edit&redlink=1 "Ting-Chu Ho (page does not exist)"), [Ti-Rong Wu](Ti-Rong_Wu "Ti-Rong Wu") (**2014**). *A Study of Software Framework for Parallel Monte Carlo Tree Search*. [GPW-2014](Conferences#GPW19 "Conferences")
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2014**). *Monte-Carlo Tree Search and Minimax Hybrids with Heuristic Evaluation Functions*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
+* [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2014**). *Small and Large MCTS Playouts applied to Chinese Dark Chess Stochastic Game*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
+* [Tom Pepels](index.php?title=Tom_Pepels&action=edit&redlink=1 "Tom Pepels (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Mark Winands](Mark_Winands "Mark Winands"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot") (**2014**). *Minimizing Simple and Cumulative Regret in Monte-Carlo Tree Search*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
+* [Denis Robilliard](index.php?title=Denis_Robilliard&action=edit&redlink=1 "Denis Robilliard (page does not exist)"), [Cyril Fonlupt](index.php?title=Cyril_Fonlupt&action=edit&redlink=1 "Cyril Fonlupt (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud") (**2014**). *Monte-Carlo Tree Search for the Game of “7 Wonders”*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)") [[34]](#cite_note-34)
+* [Nobuo Araki](Nobuo_Araki "Nobuo Araki"), [Masakazu Muramatsu](Masakazu_Muramatsu "Masakazu Muramatsu"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Satoshi Takahashi](Satoshi_Takahashi "Satoshi Takahashi") (**2014**). *[Monte-Carlo Simulation Adjusting](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8263)*. [AAAI-2014](Conferences#AAAI-2014 "Conferences")
+* [Johannes Heinrich](index.php?title=Johannes_Heinrich&action=edit&redlink=1 "Johannes Heinrich (page does not exist)"), [David Silver](David_Silver "David Silver") (**2014**). *[Self-Play Monte-Carlo Tree Search in Computer Poker](https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8811)*. [AAAI-2014](Conferences#AAAI-2014 "Conferences")
+* [Simon Lucas](Simon_Lucas "Simon Lucas"), [Spyridon Samothrakis](index.php?title=Spyridon_Samothrakis&action=edit&redlink=1 "Spyridon Samothrakis (page does not exist)"), [Diego Perez](index.php?title=Diego_Perez&action=edit&redlink=1 "Diego Perez (page does not exist)") (**2014**). *[Fast Evolutionary Adaptation for Monte Carlo Tree Search](https://link.springer.com/chapter/10.1007/978-3-662-45523-4_29)*. [EvoApplications 2014](https://dblp.uni-trier.de/db/conf/evoW/evoappl2014.html), [pdf](http://www.diego-perez.net/papers/FastEvoMCTS.pdf)
+
+
+### 2015 ...
+
+
+* [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2015**). *Early Playout Termination in MCTS*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2015**). *Playout Policy Adaptation for Games*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Tobias Graf](index.php?title=Tobias_Graf&action=edit&redlink=1 "Tobias Graf (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2015**). *Adaptive Playouts in Monte Carlo Tree Search with Policy Gradient Reinforcement Learning*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Chu-Hsuan Hsueh](Chu-Hsuan_Hsueh "Chu-Hsuan Hsueh"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2015**). *Strength Improvement and Analysis for an MCTS-Based Chinese Dark Chess Program*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Yusaku Mandai](index.php?title=Yusaku_Mandai&action=edit&redlink=1 "Yusaku Mandai (page does not exist)"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2015**). *LinUCB Applied to Monte Carlo Tree Search*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Yun-Ching Liu](index.php?title=Yun-Ching_Liu&action=edit&redlink=1 "Yun-Ching Liu (page does not exist)"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka") (**2015**). *Adapting Improved Upper Confidence Bounds for Monte-Carlo Tree Search*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+* [Jiao Wang](Jiao_Wang "Jiao Wang"), [Tan Zhu](index.php?title=Tan_Zhu&action=edit&redlink=1 "Tan Zhu (page does not exist)"), [Hongye Li](index.php?title=Hongye_Li&action=edit&redlink=1 "Hongye Li (page does not exist)"), [Chu-Hsuan Hsueh](Chu-Hsuan_Hsueh "Chu-Hsuan Hsueh"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu") (**2015**). *Belief-state Monte-Carlo tree search for Phantom games*. [IEEE CIG 2015](IEEE#CIG "IEEE")
+* [Hung-Jui Chang](Hung-Jui_Chang "Hung-Jui Chang"), [Chih-Wen Hsueh](Chih-Wen_Hsueh "Chih-Wen Hsueh"), [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu") (**2015**). *Convergence and correctness analysis of Monte-Carlo tree search algorithms: A case study of 2 by 4 Chinese dark chess*. [IEEE CIG 2015](IEEE#CIG "IEEE")
+* [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)") (**2015**). *On the Tactical and Strategic Behaviour of MCTS when Biasing Random Simulations*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal")
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2015**). *[Mixing the Immiscible - MCTS and evaluation](http://www.aifactory.co.uk/newsletter/2015_02_mixing_immiscible.htm)*. [AI Factory](AI_Factory "AI Factory"), October 2015 [[35]](#cite_note-35)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2015**). *Scaling Monte Carlo Tree Search on Intel Xeon Phi*. [CoRR abs/1507.04383](http://arxiv.org/abs/1507.04383) » [Hex](Hex "Hex"), [Parallel Search](Parallel_Search "Parallel Search"), [x86-64](X86-64 "X86-64")
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2015**). *Parallel Monte Carlo Tree Search from Multi-core to Many-core Processors*. [TrustCom/BigDataSE/ISPA 2015](https://whova.com/portal/ieeet_201508/), [pdf](https://askeplaat.files.wordpress.com/2013/01/ispa2015.pdf)
+* [Peter H. Jin](index.php?title=Peter_H._Jin&action=edit&redlink=1 "Peter H. Jin (page does not exist)"), [Kurt Keutzer](index.php?title=Kurt_Keutzer&action=edit&redlink=1 "Kurt Keutzer (page does not exist)") (**2015**). *Convolutional Monte Carlo Rollouts in Go*. [arXiv:1512.03375](http://arxiv.org/abs/1512.03375)
+* [Naoki Mizukami](Naoki_Mizukami "Naoki Mizukami"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka") (**2015**). *Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models*. [IEEE CIG 2015](IEEE#TOCIAIGAMES "IEEE"), [pdf](http://www.logos.ic.i.u-tokyo.ac.jp/~mizukami/paper/cig_2015.pdf)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2015**). *Monte-Carlo Tree Search Enhancements for One-Player and Two-Player Domains*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Baier_thesis.pdf) [[36]](#cite_note-36)
+* [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2015**). *[Distributed Monte Carlo Tree Search: A Novel Technique and its Application to Computer Go](http://ieeexplore.ieee.org/document/6876158/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 4 [[37]](#cite_note-37)
+* [Bojun Huang](Bojun_Huang "Bojun Huang") (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI") » [MT-SSS\*](SSS*_and_Dual*#SSStarandDualStarAsMT "SSS* and Dual*") [[38]](#cite_note-38)
+
+
+**2016**
+
+
+
+* [David Silver](David_Silver "David Silver"), [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [George van den Driessche](index.php?title=George_van_den_Driessche&action=edit&redlink=1 "George van den Driessche (page does not exist)"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Veda Panneershelvam](index.php?title=Veda_Panneershelvam&action=edit&redlink=1 "Veda Panneershelvam (page does not exist)"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Sander Dieleman](index.php?title=Sander_Dieleman&action=edit&redlink=1 "Sander Dieleman (page does not exist)"), [Dominik Grewe](index.php?title=Dominik_Grewe&action=edit&redlink=1 "Dominik Grewe (page does not exist)"), [John Nham](index.php?title=John_Nham&action=edit&redlink=1 "John Nham (page does not exist)"), [Nal Kalchbrenner](index.php?title=Nal_Kalchbrenner&action=edit&redlink=1 "Nal Kalchbrenner (page does not exist)"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Madeleine Leach](index.php?title=Madeleine_Leach&action=edit&redlink=1 "Madeleine Leach (page does not exist)"), [Koray Kavukcuoglu](Koray_Kavukcuoglu "Koray Kavukcuoglu"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2016**). *[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)*. [Nature](https://en.wikipedia.org/wiki/Nature_%28journal%29), Vol. 529 » [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)")
+* [Tobias Graf](index.php?title=Tobias_Graf&action=edit&redlink=1 "Tobias Graf (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2016**). *Using Deep Convolutional Neural Networks in Monte Carlo Tree Search*. [CG 2016](CG_2016 "CG 2016")
+* [Takahisa Imagawa](index.php?title=Takahisa_Imagawa&action=edit&redlink=1 "Takahisa Imagawa (page does not exist)"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2016**). *Monte Carlo Tree Search with Robust Exploration*. [CG 2016](CG_2016 "CG 2016")
+* [Joris Duguépéroux](index.php?title=Joris_Dugu%C3%A9p%C3%A9roux&action=edit&redlink=1 "Joris Duguépéroux (page does not exist)"), [Ahmad Mazyad](index.php?title=Ahmad_Mazyad&action=edit&redlink=1 "Ahmad Mazyad (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)") (**2016**). *Pruning playouts in Monte-Carlo Tree Search for the game of Havannah*. [CG 2016](CG_2016 "CG 2016")
+* [Peter H. Jin](index.php?title=Peter_H._Jin&action=edit&redlink=1 "Peter H. Jin (page does not exist)"), [Kurt Keutzer](index.php?title=Kurt_Keutzer&action=edit&redlink=1 "Kurt Keutzer (page does not exist)") (**2016**). *Convolutional Monte Carlo Rollouts for Computer Go*. [CG 2016](CG_2016 "CG 2016")
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Mark Winands](Mark_Winands "Mark Winands") (**2016**). *Time Management for Monte Carlo Tree Search*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 8, No. 3
+* [Katsuki Ohto](Katsuki_Ohto "Katsuki Ohto"), [Tetsuro Tanaka](Tetsuro_Tanaka "Tetsuro Tanaka") (**2016**). *Application of Monte Carlo Tree Search to Curling AI*. [21st Game Programming Workshop](Conferences#GPW21 "Conferences")
+* [Maciej Świechowski](index.php?title=Maciej_%C5%9Awiechowski&action=edit&redlink=1 "Maciej Świechowski (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2016**). *A Hybrid Approach to Parallelization of Monte Carlo Tree Search in General Game Playing*. [Challenging Problems and Solutions in Intelligent Systems](https://www.springer.com/de/book/9783319301648), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2016**). *A New Method for Parallel Monte Carlo Tree Search*. [arXiv:1605.04447](https://arxiv.org/abs/1605.04447) » [Parallel Search](Parallel_Search "Parallel Search")
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2016**). *An Efficient Computation Pattern for Parallel MCTS*. [ICT.OPEN 2016](http://www.ictopen.nl/content/Previous+editions), [pdf](http://liacs.leidenuniv.nl/~plaata1/papers/ictopen2016.pdf)
+* [David L. St-Pierre](index.php?title=David_L._St-Pierre&action=edit&redlink=1 "David L. St-Pierre (page does not exist)"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Jialin Liu](index.php?title=Jialin_Liu&action=edit&redlink=1 "Jialin Liu (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2016**). *Automatically Reinforcing a Game AI*. [arXiv:1607.0810](https://arxiv.org/abs/1607.08100)
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Michael Schofield](index.php?title=Michael_Schofield&action=edit&redlink=1 "Michael Schofield (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2016**). *Nested Monte Carlo Search for Two-Player Games*. [AAAI 2016](Conferences#AAAI-2016 "Conferences"), [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12134/11652)
+
+
+**2017**
+
+
+
+* [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2017**). *Let's Catch the Train to Monte-Carlo*. [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal"), Review on [Hendrik Baier's Ph.D. thesis](Hendrik_Baier#PhD "Hendrik Baier")
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2017**). *Structured Parallel Programming for Monte Carlo Tree Search*. [arXiv:1704.00325](https://arxiv.org/abs/1704.00325)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2017**). *An Analysis of Virtual Loss in Parallel MCTS*. [ICAART 2017](https://dblp.uni-trier.de/db/conf/icaart/icaart2017-2.html), Vol. 2, [pdf](http://liacs.leidenuniv.nl/~plaata1/papers/paper_ICAART17.pdf)
+* [Katsuki Ohto](Katsuki_Ohto "Katsuki Ohto"), [Tetsuro Tanaka](Tetsuro_Tanaka "Tetsuro Tanaka") (**2017**). *A Curling Agent Based on the Monte-Carlo Tree Search Considering the Similarity of the Best Action among Similar States*. [Advances in Computer Games 15](Advances_in_Computer_Games_15 "Advances in Computer Games 15")
+* [Naoki Mizukami](Naoki_Mizukami "Naoki Mizukami"), [Jun Suzuki](index.php?title=Jun_Suzuki&action=edit&redlink=1 "Jun Suzuki (page does not exist)"), [Hirotaka Kameko](index.php?title=Hirotaka_Kameko&action=edit&redlink=1 "Hirotaka Kameko (page does not exist)"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka") (**2017**). *Exploration Bonuses Based on Upper Confidence Bounds for Sparse Reward Games*. [Advances in Computer Games 15](Advances_in_Computer_Games_15 "Advances in Computer Games 15")
+* [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815) » [AlphaZero](AlphaZero "AlphaZero")
+* [Shantanu Thakoor](index.php?title=Shantanu_Thakoor&action=edit&redlink=1 "Shantanu Thakoor (page does not exist)"), [Surag Nair](index.php?title=Surag_Nair&action=edit&redlink=1 "Surag Nair (page does not exist)"), [Megha Jhunjhunwala](index.php?title=Megha_Jhunjhunwala&action=edit&redlink=1 "Megha Jhunjhunwala (page does not exist)") (**2017**). *Learning to Play Othello Without Human Knowledge*. [Stanford University](Stanford_University "Stanford University"), [pdf](https://github.com/suragnair/alpha-zero-general/blob/master/pretrained_models/writeup.pdf) » [AlphaZero](AlphaZero "AlphaZero"), [Othello](Othello "Othello"), [Deep Learning](Deep_Learning "Deep Learning") [[39]](#cite_note-39)
+* [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2017**). *[A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_5)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6) » [Rollout Paradigm](Bojun_Huang#Rollout "Bojun Huang")
+* [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2017**). *[Nested Rollout Policy Adaptation with Selective Policies](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_4)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6)
+* [Nobuo Araki](Nobuo_Araki "Nobuo Araki"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Satoshi Takahashi](Satoshi_Takahashi "Satoshi Takahashi"), [Masakazu Muramatsu](Masakazu_Muramatsu "Masakazu Muramatsu") (**2017**). *[Improved simulation adjusting](https://content.iospress.com/articles/icga-journal/icg036)*. [ICGA Journal, Vol. 39, Nos. 3-4](ICGA_Journal#39_34 "ICGA Journal")
+
+
+**2018**
+
+
+
+* [Arthur Guez](Arthur_Guez "Arthur Guez"), [Théophane Weber](index.php?title=Th%C3%A9ophane_Weber&action=edit&redlink=1 "Théophane Weber (page does not exist)"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Oriol Vinyals](index.php?title=Oriol_Vinyals&action=edit&redlink=1 "Oriol Vinyals (page does not exist)"), [Daan Wierstra](index.php?title=Daan_Wierstra&action=edit&redlink=1 "Daan Wierstra (page does not exist)"), [Rémi Munos](R%C3%A9mi_Munos "Rémi Munos"), [David Silver](David_Silver "David Silver") (**2018**). *Learning to Search with MCTSnets*. [arXiv:1802.04697](https://arxiv.org/abs/1802.04697)
+* [Hui Wang](Hui_Wang "Hui Wang"), [Michael Emmerich](index.php?title=Michael_Emmerich&action=edit&redlink=1 "Michael Emmerich (page does not exist)"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2018**). *Monte Carlo Q-learning for General Game Playing*. [arXiv:1802.05944](https://arxiv.org/abs/1802.05944) » [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning"), [General Game Playing](General_Game_Playing "General Game Playing")
+* [Mark Winands](Mark_Winands "Mark Winands") (**2018**). *[The Magic of Monte-Carlo Tree Search](http://www.aifactory.co.uk/newsletter/2017_02_magic_montecarlo.htm)*. [AI Factory](AI_Factory "AI Factory"), January 2018
+* [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2018**). *MCTS/UCT in Solving Real-Life Problems*. [Advances in Data Analysis with Computational Intelligence Methods](https://www.springer.com/us/book/9783319679457), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+* [Karol Walędzik](index.php?title=Karol_Wal%C4%99dzik&action=edit&redlink=1 "Karol Walędzik (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2018**). *Applying Hybrid Monte Carlo Tree Search Methods to Risk-Aware Project Scheduling Problem*. [Information Sciences](https://en.wikipedia.org/wiki/Information_Sciences_(journal)), Vol. 460
+* [Chenjun Xiao](index.php?title=Chenjun_Xiao&action=edit&redlink=1 "Chenjun Xiao (page does not exist)"), [Jincheng Mei](index.php?title=Jincheng_Mei&action=edit&redlink=1 "Jincheng Mei (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2018**). *Memory-Augmented Monte Carlo Tree Search*. [AAAI 2018](Conferences#AAAI-2018 "Conferences")
+* [Chao Gao](index.php?title=Chao_Gao&action=edit&redlink=1 "Chao Gao (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward") (**2018**). *Three-Head Neural Network Architecture for Monte Carlo Tree Search*. [IJCAI 2018](Conferences#IJCAI2018 "Conferences")
+* [Tobias Joppen](Tobias_Joppen "Tobias Joppen"), [Christian Wirth](index.php?title=Christian_Wirth&action=edit&redlink=1 "Christian Wirth (page does not exist)"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2018**). *Preference-Based Monte Carlo Tree Search*. [arXiv:1807.06286](https://arxiv.org/abs/1807.06286)
+* [Seydou Ba](https://dblp.org/pers/hd/b/Ba:Seydou), [Takuya Hiraoka](Takuya_Hiraoka "Takuya Hiraoka"), [Takashi Onishi](https://dblp.org/pers/hd/o/Onishi:Takashi), [Toru Nakata](https://dblp.org/pers/hd/n/Nakata:Toru), [Yoshimasa Tsuruoka](https://dblp.org/pers/hd/t/Tsuruoka:Yoshimasa) (**2018**). *Monte Carlo Tree Search with Scalable Simulation Periods for Continuously Running Tasks*. [arXiv:1809.02378](https://arxiv.org/abs/1809.02378)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2018**). *Pipeline Pattern for Parallel MCTS*. [ICAART 2018](https://dblp.uni-trier.de/db/conf/icaart/icaart2018-2.html), [pdf](http://liacs.leidenuniv.nl/~plaata1/papers/paper_ICAART18_pos.pdf)
+* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2018**). *A Lock-free Algorithm for Parallel MCTS*. [ICAART 2018](https://dblp.uni-trier.de/db/conf/icaart/icaart2018-2.html), [pdf](http://liacs.leidenuniv.nl/~plaata1/papers/paper_ICAART18.pdf)
+* [Ching-Nung Lin](index.php?title=Ching-Nung_Lin&action=edit&redlink=1 "Ching-Nung Lin (page does not exist)"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Chan-San Chen](index.php?title=Chan-San_Chen&action=edit&redlink=1 "Chan-San Chen (page does not exist)") (**2018**). *Design of a Block Go program using deep learning and Monte Carlo tree search*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
+* [Kiminori Matsuzaki](index.php?title=Kiminori_Matsuzaki&action=edit&redlink=1 "Kiminori Matsuzaki (page does not exist)"), [Naoki Kitamura](index.php?title=Naoki_Kitamura&action=edit&redlink=1 "Naoki Kitamura (page does not exist)") (**2018**). *Do evaluation functions really improve Monte-Carlo tree search?* [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
+* [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Yu-Heng Chen](Yu-Heng_Chen "Yu-Heng Chen"), [Wei-Lin Wu](index.php?title=Wei-Lin_Wu&action=edit&redlink=1 "Wei-Lin Wu (page does not exist)") (**2018**). *Some improvements in Monte Carlo tree search algorithms for sudden death games*. [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal")
+* [Nai-Yuan Chang](index.php?title=Nai-Yuan_Chang&action=edit&redlink=1 "Nai-Yuan Chang (page does not exist)"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Surag Nair](index.php?title=Surag_Nair&action=edit&redlink=1 "Surag Nair (page does not exist)") (**2018**). *[The Big Win Strategy on Multi-Value Network: An Improvement over AlphaZero Approach for 6x6 Othello](https://dl.acm.org/citation.cfm?id=3278325)*. [MLMI2018](https://dl.acm.org/citation.cfm?id=3278312)
+* [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2018**). *[Exact-Win Strategy for Overcoming AlphaZero](https://dl.acm.org/citation.cfm?id=3293486)*. [CIIS 2018](https://dl.acm.org/citation.cfm?id=3293475) [[40]](#cite_note-40)
+
+
+**2019**
+
+
+
+* [Tobias Joppen](Tobias_Joppen "Tobias Joppen"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2019**). *[Ordinal Monte Carlo Tree Search](https://www.groundai.com/project/ordinal-monte-carlo-tree-search/)*. [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [arXiv:1901.04274](https://arxiv.org/abs/1901.04274)
+* [Herilalaina Rakotoarison](index.php?title=Herilalaina_Rakotoarison&action=edit&redlink=1 "Herilalaina Rakotoarison (page does not exist)"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag") (**2019**). *Automated Machine Learning with Monte-Carlo Tree Search*. [arXiv:1906.00170](https://arxiv.org/abs/1906.00170)
+* [Aline Hufschmitt](index.php?title=Aline_Hufschmitt&action=edit&redlink=1 "Aline Hufschmitt (page does not exist)"), [Jean-Noël Vittaut](index.php?title=Jean-No%C3%ABl_Vittaut&action=edit&redlink=1 "Jean-Noël Vittaut (page does not exist)"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2019**). *Exploiting Game Decompositions in Monte Carlo Tree Search*. [Advances in Computer Games 16](Advances_in_Computer_Games_16 "Advances in Computer Games 16")
+
+
+### 2020 ...
+
+
+* [Johannes Czech](Johannes_Czech "Johannes Czech"), [Patrick Korus](Patrick_Korus "Patrick Korus"), [Kristian Kersting](Kristian_Kersting "Kristian Kersting") (**2020**). *Monte-Carlo Graph Search for AlphaZero*. [arXiv:2012.11045](https://arxiv.org/abs/2012.11045) » [AlphaZero](AlphaZero "AlphaZero"), [CrazyAra](CrazyAra "CrazyAra")
+* [Quentin Cohen-Solal](index.php?title=Quentin_Cohen-Solal&action=edit&redlink=1 "Quentin Cohen-Solal (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2020**). *Minimax Strikes Back*. [arXiv:2012.10700](https://arxiv.org/abs/2012.10700)
+* [Johannes Czech](Johannes_Czech "Johannes Czech"), [Patrick Korus](Patrick_Korus "Patrick Korus"), [Kristian Kersting](Kristian_Kersting "Kristian Kersting") (**2021**). *[Improving AlphaZero Using Monte-Carlo Graph Search](https://ojs.aaai.org/index.php/ICAPS/article/view/15952)*. [Proceedings of the Thirty-First International Conference on Automated Planning and Scheduling](https://ojs.aaai.org/index.php/ICAPS/issue/view/380), Vol. 31, [pdf](https://www.ml.informatik.tu-darmstadt.de/papers/czech2021icaps_mcgs.pdf)
+* [Maximilian Langer](Maximilian_Langer "Maximilian Langer") (**2021**). *Evaluation of Monte-Carlo Tree Search for Xiangqi*. B.Sc. thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](https://ml-research.github.io/papers/langer2021xiangqi.pdf) » [Xiangqi](Chinese_Chess "Chinese Chess")
+
+
+## Forum Posts
+
+
+### 2010 ...
+
+
+* [[Computer-go] learning patterns for mc go](https://groups.google.com/d/msg/computer-go-archive/JrrSovvgTV0/UbPOufyTApQJ) by [Hendrik Baier](Hendrik_Baier "Hendrik Baier"), [Computer Go Archive](https://groups.google.com/forum/#!forum/computer-go-archive), April 26, 2010
+* [UCT surprise for checkers !](http://www.talkchess.com/forum/viewtopic.php?t=38554) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 25, 2011
+* [MCTS without random playout?](http://www.talkchess.com/forum/viewtopic.php?t=41730) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), January 01, 2012 » [B\*](B* "B*")
+* [Re: MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&topic_view=flat&start=11) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 13, 2013 » [Perft](Perft "Perft")
+
+
+### 2015 ...
+
+
+* [monte carlo tree search question](http://www.talkchess.com/forum/viewtopic.php?t=59118) by [Marco Belli](Marco_Belli "Marco Belli"), [CCC](CCC "CCC"), January 31, 2016
+* [The scaling of Deep Learning MCTS Go engines](http://www.talkchess.com/forum/viewtopic.php?t=61801) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), October 23, 2016 » [Deep Learning](Deep_Learning "Deep Learning"), [Go](Go "Go")
+
+
+**2017**
+
+
+
+* [A branch to test the Monte Carlo algorithm in Stockfish](https://groups.google.com/forum/#!topic/fishcooking/AE4EgWQ20dY) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), December 06, 2017 » [Stockfish](Stockfish "Stockfish"), [AlphaZero](AlphaZero "AlphaZero")
+* [Nebiyu-MCTS vs TSCP 1-0](http://www.talkchess.com/forum/viewtopic.php?t=65964) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 10, 2017 » [Nebiyu](Nebiyu "Nebiyu")
+* [An AlphaZero inspired project](http://www.talkchess.com/forum/viewtopic.php?t=66013) by [Truls Edvard Stokke](index.php?title=Truls_Edvard_Stokke&action=edit&redlink=1 "Truls Edvard Stokke (page does not exist)"), [CCC](CCC "CCC"), December 14, 2017 » [AlphaZero](AlphaZero "AlphaZero")
+* [MCTS wrapper for StockFish](https://groups.google.com/d/msg/fishcooking/rMCfc8zMerc/F01WuNtDCgAJ) by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), December 19, 2017 » [Stockfish](Stockfish "Stockfish")
+* [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017 » [Sampling-Based Planning](Raghuram_Ramanujan#UCT "Raghuram Ramanujan")
+* [MCTS weakness wrt AB (via Daniel Shawul)](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32429) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), December 25, 2017
+
+
+**2018**
+
+
+
+* [Alpha-Beta as a rollouts algorithm](http://www.talkchess.com/forum/viewtopic.php?t=66414) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 25, 2018 » [Alpha-Beta](Alpha-Beta "Alpha-Beta"), [MCαβ](MC%CE%B1%CE%B2 "MCαβ"), [Scorpio](Scorpio "Scorpio")
+* [comparing minimax and averaging MCTS with alphabeta rollouts](http://www.talkchess.com/forum/viewtopic.php?t=66886) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 20, 2018 » [Scorpio](Scorpio "Scorpio")
+* [MCTS beginner questions](http://www.talkchess.com/forum/viewtopic.php?t=67235) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 25, 2018
+* [MCTS with minmax backup operator?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67302) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), May 01, 2018
+* [Komodo 12 and MCTS](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67441) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 14, 2018 » [Komodo](Komodo "Komodo")
+
+
+**2019**
+
+
+
+* [MCTS: How to deal with extreme imbalances](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69612) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), January 16, 2019 » [Zurichess](Zurichess "Zurichess")
+* [MCTS implementation question](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69993) by mobmat, [CCC](CCC "CCC"), February 22, 2019 [[41]](#cite_note-41)
+* [Training the trainer: how is it done for Stockfish?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70069) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), March 01, 2019 » [Stockfish](Stockfish "Stockfish")
+
+
+ [Re: Training the trainer: how is it done for Stockfish?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70069&start=10) by Graham Jones, [CCC](CCC "CCC"), March 03, 2019 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+* [Training using 1 playout instead of 800](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70596) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 26, 2019
+* [Re: On-line engine blitz tourney April](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70578&start=14) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), April 27, 2019
+* [Question to Remi about CrazyZero](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70605) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), April 28, 2019 » [CrazyZero](index.php?title=CrazyZero&action=edit&redlink=1 "CrazyZero (page does not exist)")
+* [SL vs RL](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70611) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [CCC](CCC "CCC"), April 28, 2019
+* [How to get the "usual" Multi PV with MCTS engines?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70788) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), May 21, 2019 » [MultiPV](Principal_Variation#MultiPV "Principal Variation")
+* [A question to MCTS + NN experts](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71301) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), July 17, 2019 » [Deep Learning](Deep_Learning "Deep Learning")
+
+
+ [Re: A question to MCTS + NN experts](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71301&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), July 17, 2019 
+### 2020 ...
+
+
+* [MCTS evaluation question](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75658) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), November 02, 2020
+* [Re: Has CrazyAra really improved because of MTGS ?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77670&start=1) by [Johannes Czech](Johannes_Czech "Johannes Czech"), [CCC](CCC "CCC"), July 08, 2021  » [CrazyAra](CrazyAra "CrazyAra")
+
+
+## External Links
+
+
+### Monte Carlo Tree Search
+
+
+* [Monte Carlo tree search from Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
+* [Monte Carlo Tree Search - beginners guide int8.io](https://int8.io/monte-carlo-tree-search-beginners-guide/) [[42]](#cite_note-42)
+* [Sensei's Library: Monte Carlo Tree Search](https://senseis.xmp.net/?MonteCarlo)
+* [Sensei's Library: UCT](https://senseis.xmp.net/?UCT)
+* [Lange Nacht der Wissenschaften - Long Night of Sciences Jena - 2007](https://althofer.de/lange-nacht-jena.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [MC and UCT poster](Jakob_Erdmann#UCT "Jakob Erdmann") by [Jakob Erdmann](Jakob_Erdmann "Jakob Erdmann")
+* [A Simple Alpha(Go) Zero Tutorial](http://web.stanford.edu/~surag/posts/alphazero.html) by [Surag Nair](index.php?title=Surag_Nair&action=edit&redlink=1 "Surag Nair (page does not exist)"), [Stanford University](Stanford_University "Stanford University"), December 29, 2017 » [AlphaZero](AlphaZero "AlphaZero"), [Deep Learning](Deep_Learning "Deep Learning")
+
+
+ [GitHub - suragnair/alpha-zero-general: A clean and simple implementation of a self-play learning algorithm based on AlphaGo Zero (any game, any framework!)](https://github.com/suragnair/alpha-zero-general)
+* Monte Carlo Tree Search by [John Levine](index.php?title=John_Levine&action=edit&redlink=1 "John Levine (page does not exist)"), [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), March 05, 2017, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+
+
+ 
+* [Monte Carlo instead of Alpha-Beta?](https://en.chessbase.com/post/monte-carlo-instead-of-alpha-beta) by [Stephan Oliver Platz](index.php?title=Stephan_Oliver_Platz&action=edit&redlink=1 "Stephan Oliver Platz (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 30, 2019 » [Komodo MCTS](Komodo#MCTS "Komodo")
+
+
+### Monte Carlo Misc
+
+
+* [Rybka's Monte Carlo analysis](http://www.chessbase.com/newsdetail.asp?newsid=5075) by [Steve Lopez](index.php?title=Steve_Lopez&action=edit&redlink=1 "Steve Lopez (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), February 03, 2009 » [Rybka](Rybka "Rybka")
+* [Monte Carlo (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_%28disambiguation%29)
+
+
+ [Monte Carlo algorithm](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
+ [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+ [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo)
+ [Monte Carlo Casino](https://en.wikipedia.org/wiki/Monte_Carlo_Casino)
+* [A History of Monte Carlo](http://www.crapsdicecontrol.com/monte_carlo.htm)
+* [Software Development in the UNIX Environment - Example C Program to Compute PI Using A Monte Carlo Method](http://www.dartmouth.edu/%7Erc/classes/soft_dev/C_simple_ex.html)
+* [Calculation of Pi Using the Monte Carlo Method](http://www.eveandersson.com/pi/monte-carlo-circle) by [Eve Astrid Andersson](http://www.eveandersson.com/)
+* [Slot machine from Wikipedia](https://en.wikipedia.org/wiki/Slot_machine)
+* [Monte-Carlo Simulation Balancing - videolectures.net](http://videolectures.net/icml09_silver_mcsb/) by [David Silver](David_Silver "David Silver") [[43]](#cite_note-43)
+* [Marcus Miller](Category:Marcus_Miller "Category:Marcus Miller") - [State of Mind](https://en.wikipedia.org/wiki/State_of_Mind_(Raul_Mid%C3%B3n_album)) ([Raúl Midón](https://en.wikipedia.org/wiki/Ra%C3%BAl_Mid%C3%B3n)), [A Night In Monte-Carlo](https://fr.wikipedia.org/wiki/A_Night_in_Monte-Carlo) (2010), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+
+
+ feat. [Raúl Midón](https://en.wikipedia.org/wiki/Ra%C3%BAl_Mid%C3%B3n), [Roy Hargrove](Category:Roy_Hargrove "Category:Roy Hargrove") and the [Monte-Carlo Philharmonic Orchestra](https://en.wikipedia.org/wiki/Monte-Carlo_Philharmonic_Orchestra), November 29, 2008, [Monte-Carlo Jazz Festival](http://maboum.com/news-monte-carlo-jazz-festival-2008)
+ 
+## References
+
+
+1. [↑](#cite_ref-1) [Edvard Munch](Category:Edvard_Munch "Category:Edvard Munch"), [At the Roulette Table in Monte Carlo, 1893](https://en.wikipedia.org/wiki/File:Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg), [Edvard Munch from Wikipedia](https://en.wikipedia.org/wiki/Edvard_Munch)
+2. [↑](#cite_ref-2) [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2009**). *The Monte-Carlo Revolution in Go*. JFFoS'2008: Japanese-French Frontiers of Science Symposium, [slides as pdf](http://remi.coulom.free.fr/JFFoS/JFFoS.pdf)
+3. [↑](#cite_ref-3) [Julien Kloetzer](index.php?title=Julien_Kloetzer&action=edit&redlink=1 "Julien Kloetzer (page does not exist)"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2007**). *The Monte-Carlo approach in Amazons*. [CGW 2007](CGW_2007 "CGW 2007")
+4. [↑](#cite_ref-4) [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2008**). *[Amazons Discover Monte-Carlo](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_2)*. [CG 2008](CG_2008 "CG 2008")
+5. [↑](#cite_ref-5) [Mark Winands](Mark_Winands "Mark Winands"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2009**). *Evaluation Function Based Monte-Carlo LOA*. [pdf](http://www.ru.is/faculty/yngvi/pdf/WinandsB09.pdf)
+6. [↑](#cite_ref-6) [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2010**). *[Improving Monte-Carlo Tree Search in Havannah](http://www.springerlink.com/content/p4x16832317r1214/)*. [CG 2010](CG_2010 "CG 2010")
+7. [↑](#cite_ref-7) [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Monte Carlo Tree Search in Hex*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/mcts-hex.pdf)
+8. [↑](#cite_ref-8) [UCT surprise for checkers !](http://www.talkchess.com/forum/viewtopic.php?t=38554) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 25, 2011
+9. [↑](#cite_ref-9) [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
+10. [↑](#cite_ref-10) [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan"), [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), [Bart Selman](Bart_Selman "Bart Selman") (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php)
+11. [↑](#cite_ref-11) [Oleg Arenz](index.php?title=Oleg_Arenz&action=edit&redlink=1 "Oleg Arenz (page does not exist)") (**2012**). *[Monte Carlo Chess](http://www.ke.tu-darmstadt.de/bibtex/publications/show/2321)*. B.Sc. thesis, [Darmstadt University of Technology](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2012/Arenz_Oleg.pdf)
+12. [↑](#cite_ref-12) [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *[Parallel Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_6)*. [CG 2008](CG_2008 "CG 2008"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/multithreadedMCTS2.pdf)
+13. [↑](#cite_ref-13) [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *[Parallel Monte-Carlo Tree Search](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_6)*. [CG 2008](CG_2008 "CG 2008"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/multithreadedMCTS2.pdf)
+14. [↑](#cite_ref-14) [Steps of Monte-Carlo Tree Search](https://commons.wikimedia.org/wiki/File:MCTS_%28English%29.svg) by Mciura, March 31, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Monte Carlo tree search from Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
+15. [↑](#cite_ref-15) [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2011**). *[On Board-Filling Games with Random-Turn Order and Monte Carlo Perfectness](http://link.springer.com/chapter/10.1007%2F978-3-642-31866-5_22)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+16. [↑](#cite_ref-16) [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, pp. 282-293. introducing [UCT](UCT "UCT"), [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
+17. [↑](#cite_ref-17) [Christopher D. Rosin](Christopher_D._Rosin "Christopher D. Rosin") (**2011**). *[Multi-armed bandits with episode context](https://link.springer.com/article/10.1007/s10472-011-9258-6)*. Annals of Mathematics and Artificial Intelligence, Vol. 61, No. 3, [ISAIM 2010 pdf](http://gauss.ececs.uc.edu/Workshops/isaim2010/papers/rosin.pdf)
+18. [↑](#cite_ref-18) [Quentin Cohen-Solal](index.php?title=Quentin_Cohen-Solal&action=edit&redlink=1 "Quentin Cohen-Solal (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2020**). *Minimax Strikes Back*. [arXiv:2012.10700](https://arxiv.org/abs/2012.10700)
+19. [↑](#cite_ref-19) [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
+20. [↑](#cite_ref-20) [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2015**). *[Mixing the Immiscible - MCTS and evaluation](http://www.aifactory.co.uk/newsletter/2015_02_mixing_immiscible.htm)*. [AI Factory](AI_Factory "AI Factory"), October 2015
+21. [↑](#cite_ref-21) [Monte Carlo in LOA](http://www.open-chess.org/viewtopic.php?f=5&t=886) by [Mark Watkins](Mark_Watkins "Mark Watkins"), [Open Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 30, 2010
+22. [↑](#cite_ref-22) [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
+23. [↑](#cite_ref-23) [Blokus Duo from Wikipedia](https://en.wikipedia.org/wiki/Blokus#Blokus_Duo.2FTravel_Blokus)
+24. [↑](#cite_ref-24) [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017
+25. [↑](#cite_ref-25) [NoGo (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/game.php?id=47)
+26. [↑](#cite_ref-26) [Ms. Pac-Man from Wikipedia](https://en.wikipedia.org/wiki/Ms._Pac-Man)
+27. [↑](#cite_ref-27) [Value of information (VOI) from Wikipedia](https://en.wikipedia.org/wiki/Value_of_information)
+28. [↑](#cite_ref-28) [Scotland Yard (board game) from Wikipedia](https://en.wikipedia.org/wiki/Scotland_Yard_%28board_game%29)
+29. [↑](#cite_ref-29) [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
+30. [↑](#cite_ref-30) [Morpion Solitaire - Record Grids (5T game)](http://www.morpionsolitaire.com/English/RecordsGrids5T.htm)
+31. [↑](#cite_ref-31) [Re: MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&topic_view=flat&start=11) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 13, 2013
+32. [↑](#cite_ref-32) [Crossings from Wikipedia](https://en.wikipedia.org/wiki/Crossings_%28game%29)
+33. [↑](#cite_ref-33)  [Epaminondas from Wikipedia](https://en.wikipedia.org/wiki/Epaminondas_%28game%29)
+34. [↑](#cite_ref-34) [7 Wonders (board game) from WIkipedia](https://en.wikipedia.org/wiki/7_Wonders_%28board_game%29)
+35. [↑](#cite_ref-35) [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2008**). *Progressive Strategies for Monte-Carlo Tree Search*. [New Mathematics and Natural Computation](http://www.worldscinet.com/nmnc/nmnc.shtml), Vol. 4, No. 3, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.3015&rep=rep1&type=pdf)
+36. [↑](#cite_ref-36) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2017**). *Let's Catch the Train to Monte-Carlo*. [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal")
+37. [↑](#cite_ref-37) [Re: Minmax backup operator for MCTS](http://www.talkchess.com/forum/viewtopic.php?t=66125&start=18) by [Brahim Hamadicharef](index.php?title=Brahim_Hamadicharef&action=edit&redlink=1 "Brahim Hamadicharef (page does not exist)"), [CCC](CCC "CCC"), December 30, 2017
+38. [↑](#cite_ref-38) [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+39. [↑](#cite_ref-39) [GitHub - suragnair/alpha-zero-general: A clean and simple implementation of a self-play learning algorithm based on AlphaGo Zero (any game, any framework!)](https://github.com/suragnair/alpha-zero-general)
+40. [↑](#cite_ref-40) ["Exact-Win Strategy for Overcoming AlphaZero" · Issue #799 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/issues/799)
+41. [↑](#cite_ref-41) [GitHub - dkappe/leela\_lite: A toolkit for experimenting with UCT and Leela Chess nets in Python](https://github.com/dkappe/leela_lite) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe")
+42. [↑](#cite_ref-42) [Re: MCTS evaluation question](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75658&start=4) by [Joerg Oster](index.php?title=Joerg_Oster&action=edit&redlink=1 "Joerg Oster (page does not exist)"), [CCC](CCC "CCC"), November 03, 2020
+43. [↑](#cite_ref-43) [David Silver](David_Silver "David Silver"), [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2009**). *Monte-Carlo Simulation Balancing*. [ICML 2009](http://www.informatik.uni-trier.de/~ley/db/conf/icml/icml2009.html#SilverT09), [pdf](http://www.machinelearning.org/archive/icml2009/papers/500.pdf)
+
+**[Up one level](Search "Search")**
+
+
+
+
+
+
+
+ 

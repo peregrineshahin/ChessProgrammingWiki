@@ -1,0 +1,85 @@
+---
+title: Tigran ES
+---
+**[Home](Home "Home") \* [Engines](Engines "Engines") \* Tigran ES**
+
+
+
+[File:ArmenianStamps-104.jpg](index.php?title=Special:Upload&wpDestFile=ArmenianStamps-104.jpg "File:ArmenianStamps-104.jpg") [Stamp of Armenia](https://en.wikipedia.org/wiki/List_of_people_on_postage_stamps_of_Armenia) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Tigran**,  
+
+a chess program written in [C++](Cpp "Cpp") by [FIDE master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.28FM.29) [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"). 
+Tigran played the First [Spanish Computer Chess Championship](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship"), the [SCCC 1993](SCCC_1993 "SCCC 1993") in [Barcelona](https://en.wikipedia.org/wiki/Barcelona), and the [4th SCCC 1996](SCCC_1996 "SCCC 1996") in [Granada](https://en.wikipedia.org/wiki/Granada) respectively, and apparently had too much chess knowledge implemented to survive from the fast searchers. 
+
+
+
+### Contents
+
+
+* [1 Selected Games](#selected-games)
+* [2 Namesake](#namesake)
+* [3 External Links](#external-links)
+* [4 References](#references)
+
+
+
+
+
+
+[SCCC 1993](SCCC_1993 "SCCC 1993"), Tigran versus later tournament winner [Betsabe](Betsabe "Betsabe") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
+
+
+
+
+```
+
+[Event "SCCC 1993"]
+[Site "Barcelona"]
+[Date "1993.10.??"]
+[Round "?"]
+[White "Tigran"]
+[Black "Betsabe"]
+[Result "0-1"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e4 b5 5.Ne5 Nf6 6.f3 e6 7.Nc3 c5 8.d5 exd5 
+9.Nxd5 Nxe4 10.fxe4 Qh4+ 11.g3 Qxe4+ 12.Kf2 Qxe5 13.Qf3 Ra7 14.Kg1 Bd6 
+15.a4 Qd4+ 16.Ne3 Bb7 17.Qf2 Bxh1 18.Bd2 Bb7 19.axb5 O-O 20.b6 Ra8 
+21.Bxc4 Qxb2 22.Ra2 Qxb6 23.Nd5 Qb1+ 24.Qf1 Qe4 25.Nc3 Qd4+ 26.Be3 
+Qxe3+ 27.Rf2 Qxc3 28.g4 Qe3 29.Bxf7+ Rxf7 30.Qe2 Bxh2+ 31.Kf1 Bg2+ 
+32.Kxg2 Qg3+ 33.Kh1 Qg1# 0-1
+
+```
+
+## Namesake
+
+
+* [Tigran](Tigran "Tigran") by [Gábor Mihály](G%C3%A1bor_Mih%C3%A1ly "Gábor Mihály")
+
+
+## External Links
+
+
+* [Tigran (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Tigran_%28disambiguation%29)
+* [Tigran Gharamian from Wikipedia](https://en.wikipedia.org/wiki/Tigran_Gharamian)
+* [Tigran Petrosian from Wikipedia](https://en.wikipedia.org/wiki/Tigran_Petrosian)
+* [Tigran L. Petrosian from Wikipedia](https://en.wikipedia.org/wiki/Tigran_L._Petrosian)
+* [Tigran](Category:Tigran_Hamasyan "Category:Tigran Hamasyan") - [Alternative Universe](https://www.discogs.com/de/composition/a2162b81-deb1-41b6-8228-8aef7fc132f9-Pt2-Alternative-Universe), [Shadow Theater](https://www.discogs.com/de/Tigran-Shadow-Theater/release/5139964), [Grande halle de la Villette, Paris](https://en.wikipedia.org/wiki/Grande_halle_de_la_Villette), [Jazz à la Villette 2013](https://www.fip.fr/actualites/jazz-la-villette-2013-devoile-sa-programmation-13257), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+
+
+ [Tigran Hamasyan](Category:Tigran_Hamasyan "Category:Tigran Hamasyan"), [Areni Agbabian](http://arenismiles.com/bio/), [Ben Wendel](https://en.wikipedia.org/wiki/Ben_Wendel), [Chris Tordini](https://de.wikipedia.org/wiki/Chris_Tordini), [Nate Wood](https://en.wikipedia.org/wiki/Nate_Wood)
+ 
+## References
+
+
+1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stamp](https://en.wikipedia.org/wiki/List_of_people_on_postage_stamps_of_Armenia) of [Armenia](https://en.wikipedia.org/wiki/Armenia), 1996, [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) [Chess House](https://en.wikipedia.org/wiki/Tigran_Petrosian_Chess_House) in [Yerevan](https://en.wikipedia.org/wiki/Yerevan), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+
+**[Up one level](Engines "Engines")**
+
+
+
+
+
+
+
+ 

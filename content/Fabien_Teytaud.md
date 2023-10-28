@@ -1,0 +1,73 @@
+---
+title: Fabien Teytaud
+---
+**[Home](Home "Home") * [People](People "People") * Fabien Teytaud**
+
+[](Link%3Dhttps://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj/AF1QipPApyR0GYUsebcIOt40O2vawnGvdvPnww3p_d6P "Link=https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj/AF1QipPApyR0GYUsebcIOt40O2vawnGvdvPnww3p d6P") Fabien Teytaud <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Fabien Teytaud**,
+
+a French computer scientist and associate professor at [University of the Littoral Opal Coast](https://en.wikipedia.org/wiki/University_of_the_Littoral_Opal_Coast) (ULCO).
+He defended his Ph.D. at [Paris-Sud 11 University](University_of_Paris#11 "University of Paris") in 2011 under the direction of [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer") and [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"),
+and was member of the *TAO Project Team* <a id="cite-note-2" href="#cite-ref-2">[2]</a>
+of [LRI](https://fr.wikipedia.org/wiki/Laboratoire_de_recherche_en_informatique).
+His research interests in the fields of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [machine lerning](Learning "Learning") include [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm), [global](https://en.wikipedia.org/wiki/Global_optimization) and [stochastic optimization](https://en.wikipedia.org/wiki/Stochastic_optimization),
+[reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [computer games](Games "Games").
+He is co-author of various papers on [Parallel](Parallel_Search "Parallel Search") [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"). Along with [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), he is co-author of the [Havannah](Havannah "Havannah") programs [Shakti](https://www.game-ai-forum.org/icga-tournaments/program.php?id=600) and [Shakty](https://www.game-ai-forum.org/icga-tournaments/program.php?id=626).
+
+## Contents
+
+- [1 Selected Publications](#selected-publications)
+  - [1.1 2009](#2009)
+  - [1.2 2010 ...](#2010-...)
+  - [1.3 2015 ...](#2015-...)
+  - [1.4 2020 ...](#2020-...)
+- [2 External Links](#external-links)
+- [3 References](#references)
+
+## Selected Publications
+
+<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
+
+## 2009
+
+- Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2009**). *[Creating an Upper-Confidence-Tree program for Havannah](https://link.springer.com/chapter/10.1007/978-3-642-12993-3_7)*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](https://hal.inria.fr/inria-00380539/document)
+
+## 2010 ...
+
+- [Amine Bourki](index.php?title=Amine_Bourki&action=edit&redlink=1 "Amine Bourki (page does not exist)"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Matthieu Coulm](index.php?title=Matthieu_Coulm&action=edit&redlink=1 "Matthieu Coulm (page does not exist)"), [Vincent Danjean](index.php?title=Vincent_Danjean&action=edit&redlink=1 "Vincent Danjean (page does not exist)"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)"), [Thomas Hérault](index.php?title=Thomas_H%C3%A9rault&action=edit&redlink=1 "Thomas Hérault (page does not exist)"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Paul Vayssière](index.php?title=Paul_Vayssi%C3%A8re&action=edit&redlink=1 "Paul Vayssière (page does not exist)"), [Ziqin Yu](index.php?title=Ziqin_Yu&action=edit&redlink=1 "Ziqin Yu (page does not exist)") (**2010**). *[Scalability and Parallelization of Monte-Carlo Tree Search](https://link.springer.com/chapter/10.1007/978-3-642-17928-0_5)*. [CG 2010](CG_2010 "CG 2010"), [pdf](https://hal.inria.fr/file/index/docid/512854/filename/newcluster.pdf)
+- [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2010**). *[Biasing Monte-Carlo Simulations through RAVE Values](https://link.springer.com/chapter/10.1007/978-3-642-17928-0_6)*. [CG 2010](CG_2010 "CG 2010"), [pdf](https://hal.inria.fr/inria-00485555/document)
+- Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2010**). *[On the Huge Benefit of Decisive Moves in Monte-Carlo Tree Search Algorithms](https://hal.inria.fr/inria-00495078/en/)*. [pdf](https://hal.inria.fr/inria-00495078/document)
+- [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), Fabien Teytaud, [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *Optimization of the Nested Monte-Carlo Algorithm on the Traveling Salesman Problem with Time Windows*. [Evostar 2011](https://dblp.org/db/conf/evoW/evoappl2011-2.html#RimmelTC11), [pdf](https://hal.inria.fr/inria-00563668/document)
+- [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Ping-Chiang Chou](index.php?title=Ping-Chiang_Chou&action=edit&redlink=1 "Ping-Chiang Chou (page does not exist)"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Hui-Ming Wang](index.php?title=Hui-Ming_Wang&action=edit&redlink=1 "Hui-Ming Wang (page does not exist)"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Li-Wen Wu](index.php?title=Li-Wen_Wu&action=edit&redlink=1 "Li-Wen Wu (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2011**). *[Towards a Solution of 7x7 Go with Meta-MCTS](https://link.springer.com/chapter/10.1007/978-3-642-31866-5_8)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+- Fabien Teytaud (**2011**). *Introduction of statistics in optimization (Introduction de statistiques en optimisation)*. Ph.D. thesis, [Paris-Sud 11 University](University_of_Paris#11 "University of Paris"), advisors [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer") and [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud")
+- [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), Fabien Teytaud (**2012**). *Beam Nested Rollout Policy Adaptation*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)"), [pdf](https://hal.inria.fr/hal-01406471/document)
+- [Denis Robilliard](index.php?title=Denis_Robilliard&action=edit&redlink=1 "Denis Robilliard (page does not exist)"), [Cyril Fonlupt](index.php?title=Cyril_Fonlupt&action=edit&redlink=1 "Cyril Fonlupt (page does not exist)"), Fabien Teytaud (**2014**). *[Monte-Carlo Tree Search for the Game of “7 Wonders”](https://hal.archives-ouvertes.fr/hal-01406496v1)*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)"), [pdf](https://hal.inria.fr/hal-01406496/document) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
+
+## 2015 ...
+
+- Fabien Teytaud, [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)") (**2015**). *On the Tactical and Strategic Behaviour of MCTS when Biasing Random Simulations*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal")
+- [Joris Duguépéroux](index.php?title=Joris_Dugu%C3%A9p%C3%A9roux&action=edit&redlink=1 "Joris Duguépéroux (page does not exist)"), [Ahmad Mazyad](index.php?title=Ahmad_Mazyad&action=edit&redlink=1 "Ahmad Mazyad (page does not exist)"), Fabien Teytaud, [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)") (**2016**). *Pruning playouts in Monte-Carlo Tree Search for the game of Havannah*. [CG 2016](CG_2016 "CG 2016"), [pdf](https://hal.archives-ouvertes.fr/hal-01342347/document)
+- [David L. St-Pierre](index.php?title=David_L._St-Pierre&action=edit&redlink=1 "David L. St-Pierre (page does not exist)"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Jialin Liu](index.php?title=Jialin_Liu&action=edit&redlink=1 "Jialin Liu (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2016**). *Automatically Reinforcing a Game AI*. [arXiv:1607.0810](https://arxiv.org/abs/1607.08100) » [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
+- [Marie-Liesse Cauwet](index.php?title=Marie-Liesse_Cauwet&action=edit&redlink=1 "Marie-Liesse Cauwet (page does not exist)"), [Camille Couprie](index.php?title=Camille_Couprie&action=edit&redlink=1 "Camille Couprie (page does not exist)"), [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)") , [Pauline Luc](index.php?title=Pauline_Luc&action=edit&redlink=1 "Pauline Luc (page does not exist)"), [Jérémy Rapin](index.php?title=J%C3%A9r%C3%A9my_Rapin&action=edit&redlink=1 "Jérémy Rapin (page does not exist)"), [Morgane Rivière](index.php?title=Morgane_Rivi%C3%A8re&action=edit&redlink=1 "Morgane Rivière (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2019**). *Fully Parallel Hyperparameter Search: Reshaped Space-Filling*. [arXiv:1910.08406](https://arxiv.org/abs/1910.08406)
+
+## 2020 ...
+
+- [Jialin Liu](index.php?title=Jialin_Liu&action=edit&redlink=1 "Jialin Liu (page does not exist)"), [Antoine Moreau](index.php?title=Antoine_Moreau&action=edit&redlink=1 "Antoine Moreau (page does not exist)"), [Mike Preuss](index.php?title=Mike_Preuss&action=edit&redlink=1 "Mike Preuss (page does not exist)"), [Baptiste Roziere](index.php?title=Baptiste_Roziere&action=edit&redlink=1 "Baptiste Roziere (page does not exist)"), [Jeremy Rapin](index.php?title=Jeremy_Rapin&action=edit&redlink=1 "Jeremy Rapin (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2020**). *Versatile Black-Box Optimization*. [arXiv:2004.14014](https://arxiv.org/abs/2004.14014)
+- [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), [Guan-Wei Chen](index.php?title=Guan-Wei_Chen&action=edit&redlink=1 "Guan-Wei Chen (page does not exist)"), [Shi-Yu Chen](index.php?title=Shi-Yu_Chen&action=edit&redlink=1 "Shi-Yu Chen (page does not exist)"), [Xian-Dong Chiu](index.php?title=Xian-Dong_Chiu&action=edit&redlink=1 "Xian-Dong Chiu (page does not exist)"), [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)"), [Maria Elsa](index.php?title=Maria_Elsa&action=edit&redlink=1 "Maria Elsa (page does not exist)"), [Qucheng Gong](index.php?title=Qucheng_Gong&action=edit&redlink=1 "Qucheng Gong (page does not exist)"), [Hengyuan Hu](index.php?title=Hengyuan_Hu&action=edit&redlink=1 "Hengyuan Hu (page does not exist)"), [Vasil Khalidov](index.php?title=Vasil_Khalidov&action=edit&redlink=1 "Vasil Khalidov (page does not exist)"), [Cheng-Ling Li](index.php?title=Cheng-Ling_Li&action=edit&redlink=1 "Cheng-Ling Li (page does not exist)"), [Hsin-I Lin](index.php?title=Hsin-I_Lin&action=edit&redlink=1 "Hsin-I Lin (page does not exist)"), [Yu-Jin Lin](index.php?title=Yu-Jin_Lin&action=edit&redlink=1 "Yu-Jin Lin (page does not exist)"), [Xavier Martinet](index.php?title=Xavier_Martinet&action=edit&redlink=1 "Xavier Martinet (page does not exist)"), [Vegard Mella](index.php?title=Vegard_Mella&action=edit&redlink=1 "Vegard Mella (page does not exist)"), [Jeremy Rapin](index.php?title=Jeremy_Rapin&action=edit&redlink=1 "Jeremy Rapin (page does not exist)"), [Baptiste Roziere](index.php?title=Baptiste_Roziere&action=edit&redlink=1 "Baptiste Roziere (page does not exist)"), [Gabriel Synnaeve](index.php?title=Gabriel_Synnaeve&action=edit&redlink=1 "Gabriel Synnaeve (page does not exist)"), Fabien Teytaud, [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shi-Cheng Ye](index.php?title=Shi-Cheng_Ye&action=edit&redlink=1 "Shi-Cheng Ye (page does not exist)"), [Yi-Jun Ye](index.php?title=Yi-Jun_Ye&action=edit&redlink=1 "Yi-Jun Ye (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Sergey Zagoruyko](index.php?title=Sergey_Zagoruyko&action=edit&redlink=1 "Sergey Zagoruyko (page does not exist)") (**2020**). *Polygames: Improved zero learning*. [ICGA Journal, Vol. 42, No. 4](ICGA_Journal#42_4 "ICGA Journal"), [arXiv:2001.09832](https://arxiv.org/abs/2001.09832)
+
+## External Links
+
+- [Fabien Teytaud's Home Page](https://www-lisic.univ-littoral.fr/~teytaud/)
+- [Fabien Teytaud's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=640)
+- [Fabien Teytaud‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=_FtUoygAAAAJ&hl=en)
+
+## References
+
+1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Image Havannah](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj/AF1QipPApyR0GYUsebcIOt40O2vawnGvdvPnww3p_d6P) from [Album archive](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [14th Computer Olympiad, Havannah](14th_Computer_Olympiad#Havannah "14th Computer Olympiad"), [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") and Fabien Teytaud surrounded by the TDs [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson")
+1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
+1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fabien Teytaud‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=_FtUoygAAAAJ&hl=en)
+1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Fabien Teytaud](https://dblp.org/pid/15/2788.html)
+1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [7 Wonders (board game) from WIkipedia](https://en.wikipedia.org/wiki/7_Wonders_%28board_game%29)
+
+**[Up one level](People "People")**
+

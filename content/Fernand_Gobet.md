@@ -1,0 +1,134 @@
+---
+title: Fernand Gobet
+---
+**[Home](Home "Home") * [People](People "People") * Fernand Gobet**
+
+\[ Fernand Gobet <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Fernand Gobet**,
+
+a Swiss [psychologist](Category:Psychologist "Category:Psychologist") and [international master](<https://en.wikipedia.org/wiki/FIDE_titles#International_Master_(IM)>) in chess <a id="cite-note-2" href="#cite-ref-2">[2]</a>, professor of psychological sciences at [University of Liverpool](https://en.wikipedia.org/wiki/University_of_Liverpool) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Former appointments include professor at [Brunel University London](https://en.wikipedia.org/wiki/Brunel_University_London), visiting researcher at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), and lecturer at [University of Nottingham](https://en.wikipedia.org/wiki/University_of_Nottingham). He holds a Ph.D. from [University of Fribourg](https://en.wikipedia.org/wiki/University_of_Fribourg), Switzerland, *The memories of a chessplayer* (in French) in Psychology, 1992.
+
+At [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Gobet collaborated with [Herbert Simon](Herbert_Simon "Herbert Simon") and together with [Peter Jansen](Peter_Jansen "Peter Jansen"), member of the [Deep Thought](Deep_Thought "Deep Thought") team, he wrote the [pattern learning](index.php?title=Pattern_Learning&action=edit&redlink=1 "Pattern Learning (page does not exist)") chess program [CHUMP](CHUMP "CHUMP"), which was introduced as *A chess program based on a model of human memory* <a id="cite-note-4" href="#cite-ref-4">[4]</a> at the [7th Advances in Computer Chess](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference, July 1-2, 1993. With [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") he wrote the book *Perception and memory in chess* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
+
+## Contents
+
+- [1 Chunk Hierarchies](#chunk-hierarchies)
+- [2 See also](#see-also)
+- [3 Selected Publications](#selected-publications)
+  - [3.1 1993 ...](#1993-...)
+  - [3.2 2000 ...](#2000-...)
+  - [3.3 2005 ...](#2005-...)
+  - [3.4 2010 ...](#2010-...)
+  - [3.5 2015 ...](#2015-...)
+- [4 External Links](#external-links)
+- [5 References](#references)
+
+## Chunk Hierarchies
+
+Fernand Gobet is principal investigator of [CHREST](CHREST "CHREST"), an acronym for Chunk Hierarchy and REtrieval STructures <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and is a complete computational model for the processes of [learning](Learning "Learning") and [perception](https://en.wikipedia.org/wiki/Perception) used by human experts in a variety of domains. One application of CHREST was the pattern learning chess program [CHUMP](CHUMP "CHUMP").
+
+## See also
+
+- [CHREST](CHREST "CHREST")
+- [CHUMP](CHUMP "CHUMP")
+- [Chunking](Chunking "Chunking")
+- [Cognition](Cognition "Cognition")
+- [Psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)")
+
+## Selected Publications
+
+<a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
+
+## 1993 ...
+
+- Fernand Gobet (**1993**). *A Computer Model of Chess Memory.* Proceedings of the 15th Annual Meeting of the Cognitive Science Society, pp. 463-468.
+- Fernand Gobet, [Peter Jansen](Peter_Jansen "Peter Jansen") (**1994**). *Towards a Chess Program Based on a Model of Human Memory.* [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+- [Howard B. Richman](index.php?title=Howard_B._Richman&action=edit&redlink=1 "Howard B. Richman (page does not exist)"), Fernand Gobet, [James J. Staszewski](index.php?title=James_J._Staszewski&action=edit&redlink=1 "James J. Staszewski (page does not exist)"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1995**). *Perceptual and Memory Processes in the Acquisition of Expert Performance: The EPAM Model*. Complex Information Processing, Working Paper #528
+- [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot"), Fernand Gobet (**1996**). *Perception and memory in chess. Heuristics of the professional eye.* Assen: Van Gorcum, The Netherlands. ISBN 90-232-2949-5. Chapter 9; A discussion: Two authors, two different views?
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**1996**). *Templates in Chess Memory: A Mechanism for Recalling Several Boards.* Cognitive Psychology, Vol. 31, pp. 1-40.
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**1996**). *Recall of random and distorted positions: Implications for the theory of expertise.* Memory & Cognition, 24, 493-503.
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**1996**). *Recall of rapidly presented random chess positions is a function of skill.* Psychonomic Bulletin & Review, Vol. 3
+- Fernand Gobet (**1997**). *A Pattern-Recognition Theory of Search in Expert Problem Solving.* Thinking and Reasoning, Vol. 3, No. 4
+- Fernand Gobet (**1997**). *Can Deep Blue make us happy? Reflections on Human and Artificial Expertise*. [AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence 1997](http://www.dblp.org/db/conf/aaai/aaai1997w6.html)
+- Fernand Gobet, [Howard B. Richman](index.php?title=Howard_B._Richman&action=edit&redlink=1 "Howard B. Richman (page does not exist)"), [James J. Staszewski](index.php?title=James_J._Staszewski&action=edit&redlink=1 "James J. Staszewski (page does not exist)"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1997**). *Goals, Representations, and Strategies in a Concept Attainment Task: The EPAM model*. The Psychology of Learning and Motivation, Vol. 37, [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=34259)
+- Fernand Gobet (**1998**). *Chess players’ thinking revisited.* Swiss Journal of Psychology, 57, 18-32.
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**1998**). *Expert chess memory: Revisiting the chunking hypothesis.* Memory, Vol. 6
+- Fernand Gobet (**1998**). *Memory for the Meaningless: How Chunks Help*. Proceedings of the 20th Meeting of the Cognitive Science Society
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**1998**). *Pattern recognition makes search possible: Comments on Holding (1992)*. Psychological Research, Vol. 61 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
+- Fernand Gobet (**1999**). *De Groot, A.D. The Father of Chess Psychology*, [New In Chess Magazine](http://www.newinchess.com/) 1999/8, page 84
+
+## 2000 ...
+
+- Fernand Gobet, [Herbert Simon](Herbert_Simon "Herbert Simon") (**2000**). *[Five Seconds or Sixty? Presentation Time in Expert Memory](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2404_4)*. [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_Science_Society), Vol. 24, No. 4
+- Fernand Gobet (**2001**). *[HERBERT A. SIMON (1916 - 2001): THE SCIENTIST OF THE ARTIFICIAL](https://ilk.uvt.nl/icga/journal/contents/content24-1.htm#HERBERT%20A.%20SIMON)*. [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
+- Fernand Gobet, [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)"), [Steve Croker](http://my.ilstu.edu/~sfcroke/), [Peter C-H. Cheng](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cheng:Peter_C=_H=.html), [Gary Jones](http://www.ntu.ac.uk/apps/Profiles/53951-1-4/Dr_Gary_Jones.aspx), [Iain Oliver](http://ijosblog.blogspot.de/2012_02_01_archive.html), [Julian M. Pine](http://www.liv.ac.uk/psychology-health-and-society/staff/julian-pine/) (**2001**). *[Chunking mechanisms in human learning](http://www.sciencedirect.com/science/article/pii/S1364661300016624)*. Trends in Cognitive Sciences, Vol. 5, No. 6
+- Fernand Gobet (**2001**). *Is Experts' Knowledge Modular?* Proceedings of the 23rd Meeting of the [Cognitive Science Society](https://en.wikipedia.org/wiki/Cognitive_Science_Society), [pdf](http://people.brunel.ac.uk/~hsstffg/papers/CogSci-2001-DAPCS.pdf)
+- Fernand Gobet, [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)") (**2002**). *Intelligence and Chess*. In [Jean Retschitzki](index.php?title=Jean_Retschitzki&action=edit&redlink=1 "Jean Retschitzki (page does not exist)"), [Rosita Haddad-Zubel](index.php?title=Rosita_Haddad-Zubel&action=edit&redlink=1 "Rosita Haddad-Zubel (page does not exist)") (eds.) (**2002**). *Step by step*. Proceedings of the 4th colloquium Board games in academia. Edition [Universitaires Fribourg Suisse](https://en.wikipedia.org/wiki/University_of_Fribourg)
+- Fernand Gobet, [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), [Andrew J. Waters](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Waters:Andrew_J=.html) (**2002**). *Rise of human intelligence Comments on Howard (1999)*. [Intelligence](http://www.sciencedirect.com/science/journal/01602896), Vol. 30 <a id="cite-note-10" href="#cite-ref-10">[10]</a>
+- Fernand Gobet (**2003**). *Implicit learning of expert chess knowledge.* AISB Quarterly, 114, 8.
+- Fernand Gobet, [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)") (**2004**). *[CHREST tutorial: Simulations of human learning](http://bura.brunel.ac.uk/handle/2438/2134)*. [CogSci 2004](http://www.cogsci.northwestern.edu/cogsci2004/)
+- Fernand Gobet, [Alex de Voogt](Alex_de_Voogt "Alex de Voogt"), [Jean Retschitzki](index.php?title=Jean_Retschitzki&action=edit&redlink=1 "Jean Retschitzki (page does not exist)") (**2004**). *[Moves in Mind: The Psychology of Board Games](http://www.psypress.com/moves-in-mind-9781841693361)*. ISBN 1-84169-336-7. [amazon.com](http://www.amazon.com/Moves-Mind-Psychology-Board-Games/dp/1841693367/ref=sr_1_1?ie=UTF8&s=books&qid=1235305948&sr=1-1)
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet (**2004**). *Adaptive Expert Decision making: Skilled Chess Players Search More and Deeper.* [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
+
+## 2005 ...
+
+- Fernand Gobet, [Peter Jansen](Peter_Jansen "Peter Jansen") (**2005**). *Training in Chess: A Scientific Approach*. [pdf](http://www.brunel.ac.uk/~hsstffg/preprints/Training_in_chess.PDF)
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet, Amanda Parker (**2005**). *Structure and Stimulus Familiarity: A Study of Memory in Chess-Players with Functional Magnetic Resonance Imaging.* The Spanish Journal of Psychology, Vol. 8, No. 2
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet (**2005**). *[The mind's eye in blindfold chess](http://bura.brunel.ac.uk/handle/2438/819)*. European Journal of Cognitive Psychology Vol. 17, 23-45
+- Fernand Gobet (**2005**). *[Chunking Models of Expertise: Implications for Education](http://onlinelibrary.wiley.com/doi/10.1002/acp.1110/abstract)*. Applied Cognitive Psychology, Vol. 19, No. 2
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), [Peter McLeod](index.php?title=Peter_McLeod&action=edit&redlink=1 "Peter McLeod (page does not exist)"), Fernand Gobet (**2006**). *Does chess need intelligence? A study with young chess players.* Intelligence, 35, 457-470, [pdf](http://people.brunel.ac.uk/%7Ehsstffg/preprints/Bilalic%20et%20al%20--%20intelligence.pdf)
+- Fernand Gobet (**2006**). *[Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot"): Marriage of two Passions*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal"), [pdf](http://people.brunel.ac.uk/~hsstffg/preprints/De%20Groot%27s%20obituary%20--%20ICGA.pdf)
+- [Richard L. Smith](index.php?title=Richard_L._Smith&action=edit&redlink=1 "Richard L. Smith (page does not exist)"), Fernand Gobet, [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)") (**2007**). *[An Investigation into the Effect of Ageing on Expert Memory with CHREST](http://bura.brunel.ac.uk/handle/2438/1064)*. UKCI 2007
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), Fernand Gobet (**2007**). *They do what they are told to do: The influence of instruction on (chess) expert perception - Commentary on Linhares and Brum (2007).* Cognitive Science. [pdf](http://people.brunel.ac.uk/%7Ehsstffg/preprints/Chunks_and_instruction_short-3.pdf) <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet (**2007**). *The role of practice in chess: A longitudinal study.* [pdf](http://www.estudiodepsicologia.com.ar/articles/1.pdf)
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet, [Kay Head](http://www.nottingham.ac.uk/neuroscience/contact/a-z/G-L/head_kay.phtml), [Mark Buckley](http://www.neuroscience.ox.ac.uk/directory/mark-buckley), Amanda Parker (**2007**). *Brain localisation of memory chunks in chessplayers.* International Journal of Neuroscience, 117, 1641-1659.
+- Fernand Gobet (**2007**). *Chunk hierarchies and retrieval structures: Comments on Saariluoma and Laine. Scandinavian Journal of Psychology, 42*. [pdf](http://dspace.brunel.ac.uk/bitstream/2438/806/1/Saariluoma_Laine_reply.pdf) <a id="cite-note-13" href="#cite-ref-13">[13]</a>
+- Fernand Gobet (**2008**). *[The role of deliberate practice in expertise: Necessary but not sufficient](http://bura.brunel.ac.uk/handle/2438/2120)*. [Cognitive Science Society](https://en.wikipedia.org/wiki/Cognitive_Science_Society)
+- Fernand Gobet, [Philippe Chassy](index.php?title=Philippe_Chassy&action=edit&redlink=1 "Philippe Chassy (page does not exist)") (**2008**). *Season of birth and chess expertise*. [Journal of Biosocial Science](http://www.rairo-ita.org/action/displayAbstract?fromPage=online&aid=8386350), Vol. 40, No. 2, [pdf](http://bura.brunel.ac.uk/bitstream/2438/736/1/Seasonality%20and%20chess.pdf)
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), [Peter McLeod](index.php?title=Peter_McLeod&action=edit&redlink=1 "Peter McLeod (page does not exist)"), Fernand Gobet (**2008**). *[Why Good Thoughts Block Better Ones: The Mechanism of the Pernicious Einstellung (set) Effect](http://www.ncbi.nlm.nih.gov/pubmed/18565505)*. Cognition, Vol. 108, No. 3, [preprint pdf](http://dspace.brunel.ac.uk/bitstream/2438/2276/1/Einstellung-Cognition.pdf)
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), [Peter McLeod](index.php?title=Peter_McLeod&action=edit&redlink=1 "Peter McLeod (page does not exist)"), Fernand Gobet (**2008**). *[Inflexibility of experts—Reality or myth? Quantifying the Einstellung effect in chess masters](http://www.sciencedirect.com/science/article/pii/S0010028507000102)*. Cognitive Psychology, Vol. 56, No. 2
+- [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)"), Fernand Gobet (**2008**). *A methodology for developing computational implementations of scientific theories*. [Proceedings of the Tenth International Conference on Computer Modelling & Simulation](http://www.computer.org/portal/web/csdl/doi?doc=abs/proceedings/uksim/2008/3114/00/3114toc.htm)
+- [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)"), Fernand Gobet, [Richard L. Smith](index.php?title=Richard_L._Smith&action=edit&redlink=1 "Richard L. Smith (page does not exist)") (**2008**). *[Attention mechanisms in the CHREST cognitive architecture](http://bura.brunel.ac.uk/handle/2438/2963)*. Proc. of the 5th International Workshop on Attention in Cognitive Systems
+- [Richard L. Smith](index.php?title=Richard_L._Smith&action=edit&redlink=1 "Richard L. Smith (page does not exist)"), Fernand Gobet, [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)") (**2009**). *[Checking chess checks with chunks: A model of simple check detection](http://bura.brunel.ac.uk/handle/2438/3503)*. [ICCM 2009](http://sideshow.psyc.bbk.ac.uk/rcooper/iccm2009/proceedings/)
+- Fernand Gobet, [Philippe Chassy](index.php?title=Philippe_Chassy&action=edit&redlink=1 "Philippe Chassy (page does not exist)") (**2009**). *Expertise and Intuition: A Tale of Three Theories*. [Minds and Machines](https://en.wikipedia.org/wiki/Minds_and_Machines), Vol. 19, No. 2
+- [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), Fernand Gobet (**2009**). *[Handedness, practice and talent in chess](http://www.chessbase.com/newsdetail.asp?newsid=5147)* from [ChessBase News](ChessBase "ChessBase"), January 15, 2009
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), [Peter McLeod](index.php?title=Peter_McLeod&action=edit&redlink=1 "Peter McLeod (page does not exist)"), Fernand Gobet (**2009**). *[Specialization effect and its influence on memory and problem solving in expert chess players](http://pubget.com/paper/21585497/Specialization_effect_and_its_influence_on_memory_and_problem_solving_in_expert_chess_players)*. Cognitive Science, Vol. 33, No. 6
+
+## 2010 ...
+
+- Fernand Gobet, [Philippe Chassy](index.php?title=Philippe_Chassy&action=edit&redlink=1 "Philippe Chassy (page does not exist)"), [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)") (**2011**). *Foundations of Cognitive Psychology*. [McGraw Hill](https://en.wikipedia.org/wiki/McGraw-Hill) » [amazon.com](http://www.amazon.com/Foundations-Cognitive-Psychology-Fernand-Philippe/dp/0077119088)
+- [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)"), Fernand Gobet (**2011**). *[Perception in chess and beyond: Commentary on Linhares and Freitas (2010)](http://www.sciencedirect.com/science/article/pii/S0732118X10000474)*. [New Ideas in Psychology](http://www.journals.elsevier.com/new-ideas-in-psychology/), Vol. 29, No. 2 <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>
+- [Merim Bilalić](index.php?title=Merim_Bilali%C4%87&action=edit&redlink=1 "Merim Bilalić (page does not exist)"), [Peter McLeod](index.php?title=Peter_McLeod&action=edit&redlink=1 "Peter McLeod (page does not exist)"), Fernand Gobet (**2011**). *[Expert and “novice” problem solving strategies in chess: Sixty years of citing de Groot (1946)](http://philpapers.org/rec/GOBEAN)*. Thinking and Reasoning, Vol. 14, No. 4
+- [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=1 "Peter Lane (page does not exist)"), Fernand Gobet (**2012**). *[A theory-driven testing methodology for developing scientific software](http://www.tandfonline.com/doi/abs/10.1080/0952813X.2012.695443)*. Journal of Experimental and Theoretical Artificial Intelligence, Vol. 24, No. 4
+
+## 2015 ...
+
+- [Philippe Chassy](index.php?title=Philippe_Chassy&action=edit&redlink=1 "Philippe Chassy (page does not exist)"), Fernand Gobet (**2015**). *[Risk taking in adversarial situations: Civilization differences in chess experts](https://www.ncbi.nlm.nih.gov/pubmed/25912894)*. [Cognition](<https://en.wikipedia.org/wiki/Cognition_(journal)>), Vol. 141
+- Fernand Gobet (**2018**). *[The Psychology of Chess](https://www.routledge.com/The-Psychology-of-Chess/Gobet/p/book/9781138216655)*. [The Psychology of Everything](https://www.routledge.com/The-Psychology-of-Everything/book-series/POE), [Routledge](https://en.wikipedia.org/wiki/Routledge)
+
+## External Links
+
+- [Fernand Gobet from Wikipedia](https://en.wikipedia.org/wiki/Fernand_Gobet)
+- [Fernand Gobet - University of Liverpool](https://www.liverpool.ac.uk/psychology-health-and-society/staff/fernand-gobet/)
+- [CHREST Home](http://www.chrest.info/chrest.html)
+
+## References
+
+1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [LaMèreVeille](https://commons.wikimedia.org/wiki/User:LaM%C3%A8reVeille), February 28, 2018, [Fernand Gobet from Wikipedia](https://en.wikipedia.org/wiki/Fernand_Gobet)
+1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The chess games of Fernand Gobet](http://www.chessgames.com/player/fernand_gobet.html) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fernand Gobet - University of Liverpool](https://www.liverpool.ac.uk/psychology-health-and-society/staff/fernand-gobet/)
+1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Fernand Gobet, [Peter Jansen](Peter_Jansen "Peter Jansen") (**1994**). *[Towards a Chess Program Based on a Model of Human Memory](http://people.brunel.ac.uk/~hsstffg/abstracts/chess_program.html).* [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot"), Fernand Gobet (**1996**). *[Perception and memory in chess](http://people.brunel.ac.uk/%7Ehsstffg/abstracts/deGroot_abstract.html). Heuristics of the professional eye.* Assen: Van Gorcum, The Netherlands. ISBN 90-232-2949-5. Chapter 9; A discussion: Two authors, two different views? [word reprint](http://people.brunel.ac.uk/%7Ehsstffg/preprints/DeGroot_Gobet_Chapter_9.doc).
+1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CHREST Home](http://www.chrest.info/)
+1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Fernand Gobet](https://dblp.uni-trier.de/pers/hd/g/Gobet:Fernand.html)
+1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dennis H. Holding](index.php?title=Dennis_H._Holding&action=edit&redlink=1 "Dennis H. Holding (page does not exist)") (**1992**). *Theories of Chess Skill*. Psychological Research, Vol. 54, No. 1
+1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Robert W. Howard](index.php?title=Robert_W._Howard&action=edit&redlink=1 "Robert W. Howard (page does not exist)") (**1999**). *[Preliminary Real-World Evidence That Average Human Intelligence Really is Rising](http://www.sciencedirect.com/science/article/pii/S0160289699000185)*. [Intelligence](http://www.sciencedirect.com/science/journal/01602896), Vol. 27, No. 3
+1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), [Paulo Brum](index.php?title=Paulo_Brum&action=edit&redlink=1 "Paulo Brum (page does not exist)") (**2007**). *[Understanding our understanding of strategic scenarios: What role do chunks play](http://perticles.blogspot.de/2008/01/linhares-brum-cognitive-science-2007.html)*. Cognitive Science, 31, [pdf](http://csjarchive.cogsci.rpi.edu/2007v31/6/HCOG_A_270264_O_NLM/HCOG_A_270264_O.pdf)
+1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), [Paulo Brum](index.php?title=Paulo_Brum&action=edit&redlink=1 "Paulo Brum (page does not exist)") (**2009**). *[How Can Experts See the Invisible? Reply to Bilalic and Gobet](http://www.ncbi.nlm.nih.gov/pubmed/21585485)*. Cognitive Science, Vol 33, No. 5
+1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Pertti Saariluoma](index.php?title=Pertti_Saariluoma&action=edit&redlink=1 "Pertti Saariluoma (page does not exist)"), [Tei Laine](index.php?title=Tei_Laine&action=edit&redlink=1 "Tei Laine (page does not exist)") (**2001**). *[Novice construction of chess memory](http://onlinelibrary.wiley.com/doi/10.1111/1467-9450.00223/abstract)*. [Scandinavian Journal of Psychology](http://psychology.wikia.com/wiki/Scandinavian_Journal_of_Psychology), Vol. 42, No. 2
+1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), [Anna Elizabeth T. A. Freitas](index.php?title=Anna_Elizabeth_T._A._Freitas&action=edit&redlink=1 "Anna Elizabeth T. A. Freitas (page does not exist)") (**2010**). *Questioning Chase and Simon's (1973) “Perception in chess”: The “experience recognition” hypothesis*. [New Ideas in Psychology](http://www.journals.elsevier.com/new-ideas-in-psychology/), Vol. 28, No. 1
+1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Neil Charness](index.php?title=Neil_Charness&action=edit&redlink=1 "Neil Charness (page does not exist)") (**2012**). *[Patterns of theorizing about chess skill - Commentary on Linhares and Freitas (2010) and Lane and Gobet (2011)](http://www.sciencedirect.com/science/article/pii/S0732118X11000766)*. [New Ideas in Psychology](http://www.journals.elsevier.com/new-ideas-in-psychology/), Vol. 30, No. 3
+
+**[Up one level](People "People")**
+

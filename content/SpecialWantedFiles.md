@@ -1,0 +1,67 @@
+---
+title: SpecialWantedFiles
+---
+The following files are used but do not exist. Files from foreign repositories may be listed despite existing. Any such false positives will be ~~struck out~~. Additionally, pages that embed files that do not exist are listed in [Category:Pages with broken file links](index.php?title=Category:Pages_with_broken_file_links&action=edit&redlink=1 "Category:Pages with broken file links (page does not exist)").
+
+
+Showing below up to **50** results in range #**1** to #**50**.
+
+
+View (previous 50 | [next 50](index.php?title=Special:WantedFiles&limit=50&offset=50 "Next 50 results")) ([20](index.php?title=Special:WantedFiles&limit=20&offset=0 "Show 20 results per page") | [50](index.php?title=Special:WantedFiles&limit=50&offset=0 "Show 50 results per page") | [100](index.php?title=Special:WantedFiles&limit=100&offset=0 "Show 100 results per page") | [250](index.php?title=Special:WantedFiles&limit=250&offset=0 "Show 250 results per page") | [500](index.php?title=Special:WantedFiles&limit=500&offset=0 "Show 500 results per page"))
+
+
+1. ~~[File:Gouvernement Bouillonstraat Bremer Maastricht.jpg](File:Gouvernement_Bouillonstraat_Bremer_Maastricht.jpg "File:Gouvernement Bouillonstraat Bremer Maastricht.jpg")~~‏‎ ([4 links](Special:WhatLinksHere/File:Gouvernement_Bouillonstraat_Bremer_Maastricht.jpg "Special:WhatLinksHere/File:Gouvernement Bouillonstraat Bremer Maastricht.jpg"))
+2. ~~[File:Paderborn HNF.jpg](File:Paderborn_HNF.jpg "File:Paderborn HNF.jpg")~~‏‎ ([4 links](Special:WhatLinksHere/File:Paderborn_HNF.jpg "Special:WhatLinksHere/File:Paderborn HNF.jpg"))
+3. [File:Atomic Rooster 1970.jpg](index.php?title=File:Atomic_Rooster_1970.jpg&action=edit&redlink=1 "File:Atomic Rooster 1970.jpg (page does not exist)")‏‎ ([3 links](Special:WhatLinksHere/File:Atomic_Rooster_1970.jpg "Special:WhatLinksHere/File:Atomic Rooster 1970.jpg"))
+4. ~~[File:Brain research labs-Bar Ilan university.jpg](File:Brain_research_labs-Bar_Ilan_university.jpg "File:Brain research labs-Bar Ilan university.jpg")~~‏‎ ([3 links](Special:WhatLinksHere/File:Brain_research_labs-Bar_Ilan_university.jpg "Special:WhatLinksHere/File:Brain research labs-Bar Ilan university.jpg"))
+5. ~~[File:David-Bowie Early.jpg](File:David-Bowie_Early.jpg "File:David-Bowie Early.jpg")~~‏‎ ([3 links](Special:WhatLinksHere/File:David-Bowie_Early.jpg "Special:WhatLinksHere/File:David-Bowie Early.jpg"))
+6. ~~[File:協生館.jpg](File:%E5%8D%94%E7%94%9F%E9%A4%A8.jpg "File:協生館.jpg")~~‏‎ ([3 links](Special:WhatLinksHere/File:%E5%8D%94%E7%94%9F%E9%A4%A8.jpg "Special:WhatLinksHere/File:協生館.jpg"))
+7. ~~[File:4 bit Kogge Stone Adder Example new.png](File:4_bit_Kogge_Stone_Adder_Example_new.png "File:4 bit Kogge Stone Adder Example new.png")~~‏‎ ([2 links](Special:WhatLinksHere/File:4_bit_Kogge_Stone_Adder_Example_new.png "Special:WhatLinksHere/File:4 bit Kogge Stone Adder Example new.png"))
+8. ~~[File:AL Brudno main.jpg](File:AL_Brudno_main.jpg "File:AL Brudno main.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:AL_Brudno_main.jpg "Special:WhatLinksHere/File:AL Brudno main.jpg"))
+9. ~~[File:Acorn Atom computer at Play Expo 2013.JPG](File:Acorn_Atom_computer_at_Play_Expo_2013.JPG "File:Acorn Atom computer at Play Expo 2013.JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:Acorn_Atom_computer_at_Play_Expo_2013.JPG "Special:WhatLinksHere/File:Acorn Atom computer at Play Expo 2013.JPG"))
+10. ~~[File:Ada Lovelace.jpg](File:Ada_Lovelace.jpg "File:Ada Lovelace.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Ada_Lovelace.jpg "Special:WhatLinksHere/File:Ada Lovelace.jpg"))
+11. ~~[File:Alan Kotok-20060510.jpg](File:Alan_Kotok-20060510.jpg "File:Alan Kotok-20060510.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Alan_Kotok-20060510.jpg "Special:WhatLinksHere/File:Alan Kotok-20060510.jpg"))
+12. [File:Alan Turing Aged 16.jpg](index.php?title=File:Alan_Turing_Aged_16.jpg&action=edit&redlink=1 "File:Alan Turing Aged 16.jpg (page does not exist)")‏‎ ([2 links](Special:WhatLinksHere/File:Alan_Turing_Aged_16.jpg "Special:WhatLinksHere/File:Alan Turing Aged 16.jpg"))
+13. ~~[File:Alex palace1.jpg](File:Alex_palace1.jpg "File:Alex palace1.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Alex_palace1.jpg "Special:WhatLinksHere/File:Alex palace1.jpg"))
+14. ~~[File:Alpha AXP 21064 diephoto1.jpg](File:Alpha_AXP_21064_diephoto1.jpg "File:Alpha AXP 21064 diephoto1.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Alpha_AXP_21064_diephoto1.jpg "Special:WhatLinksHere/File:Alpha AXP 21064 diephoto1.jpg"))
+15. ~~[File:Amiga 1000DP.jpg](File:Amiga_1000DP.jpg "File:Amiga 1000DP.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Amiga_1000DP.jpg "Special:WhatLinksHere/File:Amiga 1000DP.jpg"))
+16. ~~[File:Amstrad CPC6128, keyboard removed.jpg](File:Amstrad_CPC6128,_keyboard_removed.jpg "File:Amstrad CPC6128, keyboard removed.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Amstrad_CPC6128,_keyboard_removed.jpg "Special:WhatLinksHere/File:Amstrad CPC6128, keyboard removed.jpg"))
+17. ~~[File:Apple II.jpg](File:Apple_II.jpg "File:Apple II.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Apple_II.jpg "Special:WhatLinksHere/File:Apple II.jpg"))
+18. ~~[File:Apple II Plus, Museum of the Moving Image.jpg](File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg "File:Apple II Plus, Museum of the Moving Image.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg "Special:WhatLinksHere/File:Apple II Plus, Museum of the Moving Image.jpg"))
+19. ~~[File:Arch-computer.jpg](File:Arch-computer.jpg "File:Arch-computer.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Arch-computer.jpg "Special:WhatLinksHere/File:Arch-computer.jpg"))
+20. ~~[File:Arduino Mega.jpg](File:Arduino_Mega.jpg "File:Arduino Mega.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Arduino_Mega.jpg "Special:WhatLinksHere/File:Arduino Mega.jpg"))
+21. ~~[File:Artificial neural network.svg](File:Artificial_neural_network.svg "File:Artificial neural network.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Artificial_neural_network.svg "Special:WhatLinksHere/File:Artificial neural network.svg"))
+22. ~~[File:Association for Computing Machinery (ACM) logo.svg](File:Association_for_Computing_Machinery_(ACM)_logo.svg "File:Association for Computing Machinery (ACM) logo.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Association_for_Computing_Machinery_(ACM)_logo.svg "Special:WhatLinksHere/File:Association for Computing Machinery (ACM) logo.svg"))
+23. ~~[File:Atari 1040STf.jpg](File:Atari_1040STf.jpg "File:Atari 1040STf.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Atari_1040STf.jpg "Special:WhatLinksHere/File:Atari 1040STf.jpg"))
+24. ~~[File:Atari 800.jpg](File:Atari_800.jpg "File:Atari 800.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Atari_800.jpg "Special:WhatLinksHere/File:Atari 800.jpg"))
+25. ~~[File:BBC Micro.jpeg](File:BBC_Micro.jpeg "File:BBC Micro.jpeg")~~‏‎ ([2 links](Special:WhatLinksHere/File:BBC_Micro.jpeg "Special:WhatLinksHere/File:BBC Micro.jpeg"))
+26. ~~[File:Between Nothingness and Eternity trade advert 1973.png](File:Between_Nothingness_and_Eternity_trade_advert_1973.png "File:Between Nothingness and Eternity trade advert 1973.png")~~‏‎ ([2 links](Special:WhatLinksHere/File:Between_Nothingness_and_Eternity_trade_advert_1973.png "Special:WhatLinksHere/File:Between Nothingness and Eternity trade advert 1973.png"))
+27. ~~[File:Bledsoe.gif](File:Bledsoe.gif "File:Bledsoe.gif")~~‏‎ ([2 links](Special:WhatLinksHere/File:Bledsoe.gif "Special:WhatLinksHere/File:Bledsoe.gif"))
+28. ~~[File:Breadth-first-tree.svg](File:Breadth-first-tree.svg "File:Breadth-first-tree.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Breadth-first-tree.svg "Special:WhatLinksHere/File:Breadth-first-tree.svg"))
+29. ~~[File:BreakNES MOS 6502.jpg](File:BreakNES_MOS_6502.jpg "File:BreakNES MOS 6502.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:BreakNES_MOS_6502.jpg "Special:WhatLinksHere/File:BreakNES MOS 6502.jpg"))
+30. ~~[File:Bundesarchiv Bild 102-00457, Emanuel Lasker.jpg](File:Bundesarchiv_Bild_102-00457,_Emanuel_Lasker.jpg "File:Bundesarchiv Bild 102-00457, Emanuel Lasker.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Bundesarchiv_Bild_102-00457,_Emanuel_Lasker.jpg "Special:WhatLinksHere/File:Bundesarchiv Bild 102-00457, Emanuel Lasker.jpg"))
+31. ~~[File:CBMVIC20P8.jpg](File:CBMVIC20P8.jpg "File:CBMVIC20P8.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:CBMVIC20P8.jpg "Special:WhatLinksHere/File:CBMVIC20P8.jpg"))
+32. ~~[File:Commodore-128.jpg](File:Commodore-128.jpg "File:Commodore-128.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Commodore-128.jpg "Special:WhatLinksHere/File:Commodore-128.jpg"))
+33. ~~[File:Commodore-64-Computer-FL.jpg](File:Commodore-64-Computer-FL.jpg "File:Commodore-64-Computer-FL.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Commodore-64-Computer-FL.jpg "Special:WhatLinksHere/File:Commodore-64-Computer-FL.jpg"))
+34. ~~[File:Commodore 2001 Series-IMG 0448b.jpg](File:Commodore_2001_Series-IMG_0448b.jpg "File:Commodore 2001 Series-IMG 0448b.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Commodore_2001_Series-IMG_0448b.jpg "Special:WhatLinksHere/File:Commodore 2001 Series-IMG 0448b.jpg"))
+35. ~~[File:Cream Clapton Bruce Baker 1960s.jpg](File:Cream_Clapton_Bruce_Baker_1960s.jpg "File:Cream Clapton Bruce Baker 1960s.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Cream_Clapton_Bruce_Baker_1960s.jpg "Special:WhatLinksHere/File:Cream Clapton Bruce Baker 1960s.jpg"))
+36. ~~[File:DEC MicroVAX CPU die.JPG](File:DEC_MicroVAX_CPU_die.JPG "File:DEC MicroVAX CPU die.JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:DEC_MicroVAX_CPU_die.JPG "Special:WhatLinksHere/File:DEC MicroVAX CPU die.JPG"))
+37. ~~[File:Dallas Infomart.jpg](File:Dallas_Infomart.jpg "File:Dallas Infomart.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Dallas_Infomart.jpg "Special:WhatLinksHere/File:Dallas Infomart.jpg"))
+38. ~~[File:Data General NOVA System.jpg](File:Data_General_NOVA_System.jpg "File:Data General NOVA System.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Data_General_NOVA_System.jpg "Special:WhatLinksHere/File:Data General NOVA System.jpg"))
+39. ~~[File:David Fiuczynski 5289172w.jpg](File:David_Fiuczynski_5289172w.jpg "File:David Fiuczynski 5289172w.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:David_Fiuczynski_5289172w.jpg "Special:WhatLinksHere/File:David Fiuczynski 5289172w.jpg"))
+40. ~~[File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg](File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg "Special:WhatLinksHere/File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg"))
+41. ~~[File:Defunkt.jpg](File:Defunkt.jpg "File:Defunkt.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Defunkt.jpg "Special:WhatLinksHere/File:Defunkt.jpg"))
+42. ~~[File:HAL9000.svg](File:HAL9000.svg "File:HAL9000.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:HAL9000.svg "Special:WhatLinksHere/File:HAL9000.svg"))
+43. ~~[File:Half Adder.svg](File:Half_Adder.svg "File:Half Adder.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Half_Adder.svg "Special:WhatLinksHere/File:Half Adder.svg"))
+44. ~~[File:Heckert GNU white.svg](File:Heckert_GNU_white.svg "File:Heckert GNU white.svg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Heckert_GNU_white.svg "Special:WhatLinksHere/File:Heckert GNU white.svg"))
+45. ~~[File:IBM360-67AtUmichWithMikeAlexander.jpg](File:IBM360-67AtUmichWithMikeAlexander.jpg "File:IBM360-67AtUmichWithMikeAlexander.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:IBM360-67AtUmichWithMikeAlexander.jpg "Special:WhatLinksHere/File:IBM360-67AtUmichWithMikeAlexander.jpg"))
+46. ~~[File:Ibm pc 5150.jpg](File:Ibm_pc_5150.jpg "File:Ibm pc 5150.jpg")~~‏‎ ([2 links](Special:WhatLinksHere/File:Ibm_pc_5150.jpg "Special:WhatLinksHere/File:Ibm pc 5150.jpg"))
+47. ~~[File:Ic-photo-Hitachi--HD6473238F10--(H8-323-MCU).JPG](File:Ic-photo-Hitachi--HD6473238F10--(H8-323-MCU).JPG "File:Ic-photo-Hitachi--HD6473238F10--(H8-323-MCU).JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:Ic-photo-Hitachi--HD6473238F10--(H8-323-MCU).JPG "Special:WhatLinksHere/File:Ic-photo-Hitachi--HD6473238F10--(H8-323-MCU).JPG"))
+48. ~~[File:Inmos T805 die.JPG](File:Inmos_T805_die.JPG "File:Inmos T805 die.JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:Inmos_T805_die.JPG "Special:WhatLinksHere/File:Inmos T805 die.JPG"))
+49. ~~[File:Intel 80386 DX die.JPG](File:Intel_80386_DX_die.JPG "File:Intel 80386 DX die.JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:Intel_80386_DX_die.JPG "Special:WhatLinksHere/File:Intel 80386 DX die.JPG"))
+50. ~~[File:Intel 8086 CPU Die.JPG](File:Intel_8086_CPU_Die.JPG "File:Intel 8086 CPU Die.JPG")~~‏‎ ([2 links](Special:WhatLinksHere/File:Intel_8086_CPU_Die.JPG "Special:WhatLinksHere/File:Intel 8086 CPU Die.JPG"))
+
+
+View (previous 50 | [next 50](index.php?title=Special:WantedFiles&limit=50&offset=50 "Next 50 results")) ([20](index.php?title=Special:WantedFiles&limit=20&offset=0 "Show 20 results per page") | [50](index.php?title=Special:WantedFiles&limit=50&offset=0 "Show 50 results per page") | [100](index.php?title=Special:WantedFiles&limit=100&offset=0 "Show 100 results per page") | [250](index.php?title=Special:WantedFiles&limit=250&offset=0 "Show 250 results per page") | [500](index.php?title=Special:WantedFiles&limit=500&offset=0 "Show 500 results per page"))
+
+ 

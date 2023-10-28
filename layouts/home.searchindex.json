@@ -1,0 +1,17 @@
+{{- $pages := where site.Pages "Params.exclude_search" "!=" true -}}
+{{- if gt (len site.Params.doks.searchExclKinds) 0 }}{{- $pages = where $pages "Kind" "not in" site.Params.doks.searchExclKinds }}{{ end -}}
+{{- if gt (len site.Params.doks.searchExclKinds) 0 }}{{- $pages = where $pages "Type" "not in" site.Params.doks.searchExclTypes }}{{ end -}}
+
+{{/* Source: https://github.com/frjo/hugo-theme-zen/blob/main/layouts/home.searchindex.json */}}
+{{- $.Scratch.Add "searchindex" slice -}}
+{{- range $index, $element := $pages -}}
+  {{-
+    $.Scratch.Add "searchindex" (
+                                  dict
+                                  "id" $index
+                                  "title" $element.Title
+                                  "permalink" $element.RelPermalink
+                                )
+  -}}
+{{- end -}}
+{{- $.Scratch.Get "searchindex" | jsonify -}}

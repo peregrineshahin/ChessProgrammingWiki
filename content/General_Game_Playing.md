@@ -1,0 +1,176 @@
+---
+title: General Game Playing
+---
+**[Home](Home "Home") * [Games](Games "Games") * General Game Playing**
+
+**General Game Playing**, (GGP)
+
+an approach of Artificial Intelligence programs to be able to play more than one game successfully. For games like [chess](Chess "Chess"), computers are programmed to play these games using a specially designed algorithm - a chess playing program cannot play [checkers](Checkers "Checkers"). A General Game Playing system, if well designed, would be able to help in other areas, such as in providing intelligence for search and rescue missions [[1]](#cite_note-1). One well known commercial General Game program is [Zillions of Games](Zillions_of_Games "Zillions of Games") by [Jeff Mallett](Jeff_Mallett "Jeff Mallett") and [Mark Lefler](Mark_Lefler "Mark Lefler") [[2]](#cite_note-2) .
+
+## Contents
+
+- [1 GVGP](#GVGP)
+- [2 Selected Publications](#Selected_Publications)
+  - [2.1 1968 ...](#1968_...)
+  - [2.2 1970 ...](#1970_...)
+  - [2.3 1990 ...](#1990_...)
+  - [2.4 2000 ...](#2000_...)
+  - [2.5 2005 ...](#2005_...)
+  - [2.6 2010 ...](#2010_...)
+  - [2.7 2015 ...](#2015_...)
+  - [2.8 2020 ...](#2020_...)
+- [3 External Links](#External_Links)
+  - [3.1 General Game Playing](#General_Game_Playing)
+  - [3.2 GDL](#GDL)
+  - [3.3 Player](#Player)
+- [4 References](#References)
+
+## GVGP
+
+General video game playing (GVGP) is the concept of GGP adjusted to the purpose of playing [video games](https://en.wikipedia.org/wiki/Video_game) [[3]](#cite_note-3), and to apply [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") to master video and [Atari](Atari_8-bit "Atari 8-bit") games of skill and strategy.
+
+## Selected Publications
+
+## 1968 ...
+
+- [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat") (**1968**) *Realization of a general game-playing program.* [IFIP Congress (2)](http://www.informatik.uni-trier.de/%7Eley/db/conf/ifip/ifip1968-2.html#Pitrat68) 1570-1574
+
+## 1970 ...
+
+- [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat") (**1971**). *A General Game Playing Program.* in Artificial Intelligence and Heuristic Programming (eds. [Findler](Mathematician#NFindler "Mathematician") and [Meltzer](Mathematician#BMeltzer "Mathematician")), pp. 125-155. [Edinburgh University Press](https://en.wikipedia.org/wiki/Edinburgh_University_Press), ISBN 0-85224-199-2.
+- [Herbert L. Dershem](index.php?title=Herbert_L._Dershem&action=edit&redlink=1 "Herbert L. Dershem (page does not exist)") (**1979**). *A General Game Playing Program*. [Personal Computing, Vol. 3, No. 6](Personal_Computing#3_6 "Personal Computing"), pp. 70
+
+## 1990 ...
+
+- [Barney Pell](Barney_Pell "Barney Pell") (**1992**). *Metagame: A New Challenge for Games and Learning*. [Heuristic Programming in Artificial Intelligence 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
+- [Barney Pell](Barney_Pell "Barney Pell") (**1992**). *Metagame in Symmetric, Chess-Like Games*. [Heuristic Programming in Artificial Intelligence 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
+- [Barney Pell](Barney_Pell "Barney Pell") (**1993**). *Strategy Generation and Evaluation for Meta-Game Playing*. Ph.D: thesis, [Trinity College, Cambridge](https://en.wikipedia.org/wiki/Trinity_College,_Cambridge), [pdf](http://www.barneypell.com/papers/pell-thesis.pdf)
+- [Barney Pell](Barney_Pell "Barney Pell") (**1993**). *A Strategic Metagame Player for General Chess-Like Games*. AAAI Technical Report FS-93-02, [pdf](https://www.aaai.org/Papers/Symposia/Fall/1993/FS-93-02/FS93-02-020.pdf)
+- [Michael Gherrity](Michael_Gherrity "Michael Gherrity") (**1993**). *A Game Learning Machine*. Ph.D. thesis, [University of California, San Diego](http://de.wikipedia.org/wiki/University_of_California,_San_Diego), advisor [Paul Kube](Mathematician#PKube "Mathematician"), [pdf](http://www.gherrity.org/thesis.pdf), [pdf](http://www.top-5000.nl/ps/A%20game%20learning%20machine.pdf)
+- [Barney Pell](Barney_Pell "Barney Pell"), [Susan L. Epstein](Susan_L._Epstein "Susan L. Epstein"), [Robert Levinson](Robert_Levinson "Robert Levinson") (**1996**). *[Introduction to the special issue on games: Structure and Learning](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1996.tb00249.x/abstract)*. [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_%28journal%29), [Vol. 12, No. 1](http://dblp.uni-trier.de/db/journals/ci/ci12.html#PellEL96)
+- [Robert Levinson](Robert_Levinson "Robert Levinson") (**1996**). *[General Game-Playing and Reinforcement Learning](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1996.tb00257.x/abstract)*. [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_%28journal%29), [Vol. 12, No. 1](http://dblp.uni-trier.de/db/journals/ci/ci12.html#PellEL96)
+- [Barney Pell](Barney_Pell "Barney Pell") (**1996**). *[A Strategic Metagame Player for General Chess-Like Games](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8640.1996.tb00258.x/abstract)*. [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_%28journal%29), [Vol. 12, No. 1](http://dblp.uni-trier.de/db/journals/ci/ci12.html#PellEL96)
+- [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Dick Grune](Mathematician#DGrune "Mathematician") (**1997**). *An Application Domain Specific Language for Describing Board Games*. [PDPTA 1997](http://dblp.uni-trier.de/db/conf/pdpta/pdpta1997.html), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.47.1169)
+
+## 2000 ...
+
+- [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Dick Grune](Mathematician#DGrune "Mathematician") (**2000**). *The Multigame Reference Manual*. [Vrije Universiteit](https://en.wikipedia.org/wiki/Vrije_Universiteit), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=B2397A260C8166B1B31EC4779585EA5F?doi=10.1.1.32.1664&rep=rep1&type=pdf)
+- [John Romein](John_Romein "John Romein") (**2001**). *Multigame - An Environment for Distributed Game-Tree Search*. Ph.D. thesis, [Vrije Universiteit](https://en.wikipedia.org/wiki/Vrije_Universiteit), supervisor [Henri Bal](Henri_Bal "Henri Bal"), [pdf](http://dare.ubvu.vu.nl/bitstream/1871/11305/1/5429.pdf)
+- [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi"), [Satoru Kawai](Satoru_Kawai "Satoru Kawai") (**2001**). *Automatic Feature Construction and Optimization for General Game Player*. [6th Game Programming Workshop, Hakone](Conferences#GPW "Conferences")
+- [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi"), [Satoru Kawai](Satoru_Kawai "Satoru Kawai") (**2002**). *Pattern Selection Problem for Automatically Generating Evaluation Functions For General Game Player*. [7th Game Programming Workshop, Hakone](Conferences#GPW "Conferences")
+- [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi"), [Satoru Kawai](Satoru_Kawai "Satoru Kawai") (**2003**). *Automated Identification of Patterns in Evaluation Functions for General Game Players*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10")
+
+## 2005 ...
+
+- [Michael Genesereth](Michael_Genesereth "Michael Genesereth"), [Nathaniel Love](index.php?title=Nathaniel_Love&action=edit&redlink=1 "Nathaniel Love (page does not exist)"), et al. (**2005**). *General Game Playing: Game Description Language Specification*. Technical report, [Stanford University](Stanford_University "Stanford University")
+- [Michael Genesereth](Michael_Genesereth "Michael Genesereth"), [Nathaniel Love](index.php?title=Nathaniel_Love&action=edit&redlink=1 "Nathaniel Love (page does not exist)"), [Barney Pell](Barney_Pell "Barney Pell") (**2005**). *General Game Playing: Overview of the AAAI Competition*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 26, No. 2, [pdf](http://logic.stanford.edu/classes/cs227/2013/readings/aaai.pdf)
+- [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2005**). *Flux: A logic programming method for reasoning agents*. [Theory Pract.Log. Program, 5(4-5)](http://www.informatik.uni-trier.de/~ley/db/journals/tplp/tplp5.html#Thielscher05)
+- [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2007**). *Fluxplayer: A successful general game player*. [Proceedings of the AAAI National Conference on Artificial Intelligence](http://www.aaai.org/Press/Proceedings/aaai07.php), [pdf](http://www.aaai.org/Papers/AAAI/2007/AAAI07-189.pdf)
+- [Michel Quenault](index.php?title=Michel_Quenault&action=edit&redlink=1 "Michel Quenault (page does not exist)"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2007**). *Extended General Gaming Model*. [CGW 2007](CGW_2007 "CGW 2007")
+- [James Clune](index.php?title=James_Clune&action=edit&redlink=1 "James Clune (page does not exist)") (**2007**). *Heuristic Evaluation Functions for General Game Playing*. [AAAI 2007](Conferences#AAAI-2007 "Conferences"), [pdf](https://www.aaai.org/Papers/AAAI/2007/AAAI07-180.pdf)
+- [Joseph Reisinger](index.php?title=Joseph_Reisinger&action=edit&redlink=1 "Joseph Reisinger (page does not exist)"), [Erkin Bahçeci](index.php?title=Erkin_Bah%C3%A7eci&action=edit&redlink=1 "Erkin Bahçeci (page does not exist)"), [Igor Karpov](index.php?title=Igor_Karpov&action=edit&redlink=1 "Igor Karpov (page does not exist)"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**2007**). *[Coevolving Strategies for General Game Playing](https://www.semanticscholar.org/paper/Coevolving-Strategies-for-General-Game-Playing-Reisinger-Bah%C3%A7eci/9a39c1411b6e68457ece391b057dcc26142c23a7)*. [CIG 2007](https://dblp.uni-trier.de/db/conf/cig/cig2007.html)
+- [Hilmar Finnsson](index.php?title=Hilmar_Finnsson&action=edit&redlink=1 "Hilmar Finnsson (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"). (**2008**). *Simulation-Based Approach to General Game Playing.* In The Twenty-Third AAAI Conference on Artificial Intelligence, [AAAI](AAAI "AAAI") Press, 2008. Accepted. [pdf](http://www.ru.is/faculty/yngvi/pdf/FinnssonB08a.pdf), [pdf](http://www.aaai.org/Papers/AAAI/2008/AAAI08-041.pdf)
+- [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2008**). *Ary: A Program for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/poster2008.pdf)
+- [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2008**). *Monte-Carlo Tree Search for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/ggp2008.pdf)
+- [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2008**). *Artificial Intelligence and General Game Playing*. [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics") » General Game Playing
+- [Mesut Kirci](index.php?title=Mesut_Kirci&action=edit&redlink=1 "Mesut Kirci (page does not exist)"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant") (**2009**). *Feature Learning Using State Differences*. [pdf](http://web.cs.du.edu/~sturtevant/papers/GGPfeatures.pdf)
+- [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2009**). *[Automated Theorem Proving for General Game Playing](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=jRcb4G4AAAAJ&citation_for_view=jRcb4G4AAAAJ:roLk4NBRz8UC)*. [IJCAI 2009](Conferences#IJCAI2009 "Conferences")
+
+## 2010 ...
+
+- [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2010**). *Combining UCT and Nested Monte-Carlo Search for Single-Player General Game Playing*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf 2009](http://www.lamsade.dauphine.fr/~cazenave/papers/ggp2009.pdf)
+- [Mesut Kirci](index.php?title=Mesut_Kirci&action=edit&redlink=1 "Mesut Kirci (page does not exist)") (**2010**). *Feature Learning using State Differences*. Master's thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](http://repository.library.ualberta.ca/dspace/bitstream/10048/1011/1/kirci_mesut_spring+2010.pdf)
+- [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2010**). *[Symmetry Detection in General Game Playing](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=jRcb4G4AAAAJ&citation_for_view=jRcb4G4AAAAJ:hqOjcs7Dif8C)*. [AAAI 2010](AAAI "AAAI")
+- [Karol Walędzik](index.php?title=Karol_Wal%C4%99dzik&action=edit&redlink=1 "Karol Walędzik (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2010**). *CI in General Game Playing - to date Achievements and Perspectives*. [10. ICAISC](http://www.informatik.uni-trier.de/~ley/db/conf/icaisc/icaisc2010-2.html#WaledzikM10), [pdf](http://www.mini.pw.edu.pl/~mandziuk/PRACE/ICAISC10.pdf)
+
+**2011**
+
+- [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2011**). *The General Game Playing Description Language Is Universal*. [IJCAI 2011](Conferences#IJCAI2011 "Conferences") [pdf](https://www.ijcai.org/Proceedings/11/Papers/189.pdf)
+- [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *A Parallel General Game Player*. [KI Journal](http://www.kuenstliche-intelligenz.de/), Vol. 25, No. 1, [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/rootparallelggp.pdf)
+- [Mesut Kirci](index.php?title=Mesut_Kirci&action=edit&redlink=1 "Mesut Kirci (page does not exist)"), [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2011**). *A GGP Feature Learning Algorithm*. [KI 25(1)](http://www.informatik.uni-trier.de/~ley/db/journals/ki/ki25.html#KirciSS11): 35-42, [pdf](http://web.cs.du.edu/~sturtevant/papers/FeatureLearning.pdf)
+- [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2011**). *Special Issue on General Game Playing*. [KI 25(1)](http://www.informatik.uni-trier.de/~ley/db/journals/ki/ki25.html#Thielscher11)
+- [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2011**). *A forward chaining based game description language compiler*. [GIGA 2011](http://movingai.com/giga11/cfp.html)
+- [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2011**). *Knowledge-Based General Game Playing*. Ph.D. thesis, [Dresden University of Technology](https://en.wikipedia.org/wiki/Dresden_University_of_Technology), advisor [Michael Thielscher](Michael_Thielscher "Michael Thielscher") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [pdf](http://www.qucosa.de/fileadmin/data/qucosa/documents/8874/Stephan_Schiffel_Diss.pdf)
+
+**2012**
+
+- [Ji Ruan](index.php?title=Ji_Ruan&action=edit&redlink=1 "Ji Ruan (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2012**). *Model Checking Games in GDL-II*. [ECAI CGW 2012](index.php?title=ECAI_CGW_2012&action=edit&redlink=1 "ECAI CGW 2012 (page does not exist)")
+- [Daniel Michulke](index.php?title=Daniel_Michulke&action=edit&redlink=1 "Daniel Michulke (page does not exist)"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2012**). *Distance Features for General Game Playing Agents*. [4. ICAART 2012](http://www.informatik.uni-trier.de/~ley/db/conf/icaart/icaart2012-1.html#MichulkeS12), [pdf](http://www.general-game-playing.de/downloads/GIGA11_Distance_Features.pdf)
+- [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk"), [Maciej Świechowski](index.php?title=Maciej_%C5%9Awiechowski&action=edit&redlink=1 "Maciej Świechowski (page does not exist)") (**2012**). *Generic Heuristic Approach to General Game Playing*. [38. SOFSEM](http://www.informatik.uni-trier.de/~ley/db/conf/sofsem/sofsem2012.html#MandziukS12), [pdf](http://www.mini.pw.edu.pl/~mandziuk/PRACE/SOFSEM12.pdf)
+
+**2013**
+
+- [Michael Genesereth](Michael_Genesereth "Michael Genesereth"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2013**). *[The International  General Game Playing Competition](https://aaai.org/ojs/index.php/aimagazine/article/view/2475).* [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 34, No. 2
+- [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2013**). *[Comparison of GDL Reasoners](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=jRcb4G4AAAAJ&citation_for_view=jRcb4G4AAAAJ:7PzlFSSx8tAC)*. [IJCAI 2013](Conferences#IJCAI2013 "Conferences") [[4]](#cite_note-4)
+- [Volodymyr Mnih](Volodymyr_Mnih "Volodymyr Mnih"), [Koray Kavukcuoglu](Koray_Kavukcuoglu "Koray Kavukcuoglu"), [David Silver](David_Silver "David Silver"), [Alex Graves](index.php?title=Alex_Graves&action=edit&redlink=1 "Alex Graves (page does not exist)"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Daan Wierstra](index.php?title=Daan_Wierstra&action=edit&redlink=1 "Daan Wierstra (page does not exist)"), [Martin Riedmiller](index.php?title=Martin_Riedmiller&action=edit&redlink=1 "Martin Riedmiller (page does not exist)") (**2013**). *Playing Atari with Deep Reinforcement Learning*. [arXiv:1312.5602](http://arxiv.org/abs/1312.5602) [[5]](#cite_note-5)
+- [John Levine](index.php?title=John_Levine&action=edit&redlink=1 "John Levine (page does not exist)"), [Clare Bates Congdon](index.php?title=Clare_Bates_Congdon&action=edit&redlink=1 "Clare Bates Congdon (page does not exist)"), [Marc Ebner](index.php?title=Marc_Ebner&action=edit&redlink=1 "Marc Ebner (page does not exist)"), [Graham Kendall](Graham_Kendall "Graham Kendall"), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen"), [Tom Schaul](index.php?title=Tom_Schaul&action=edit&redlink=1 "Tom Schaul (page does not exist)"), [Tommy Thompson](index.php?title=Tommy_Thompson&action=edit&redlink=1 "Tommy Thompson (page does not exist)") (**2013**). *[General Video Game Playing](https://drops.dagstuhl.de/opus/volltexte/2013/4337/)*. [Artificial and Computational Intelligence in Games 2013](https://dblp.uni-trier.de/db/conf/dagstuhl/dfu6.html)
+- [Marc Ebner](index.php?title=Marc_Ebner&action=edit&redlink=1 "Marc Ebner (page does not exist)"), [John Levine](index.php?title=John_Levine&action=edit&redlink=1 "John Levine (page does not exist)"), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Tom Schaul](index.php?title=Tom_Schaul&action=edit&redlink=1 "Tom Schaul (page does not exist)"), [Tommy Thompson](index.php?title=Tommy_Thompson&action=edit&redlink=1 "Tommy Thompson (page does not exist)"), [Julian Togelius](index.php?title=Julian_Togelius&action=edit&redlink=1 "Julian Togelius (page does not exist)") (**2013**). *[Towards a Video Game Description Language](https://drops.dagstuhl.de/opus/volltexte/2013/4338/)*. [Artificial and Computational Intelligence in Games 2013](https://dblp.uni-trier.de/db/conf/dagstuhl/dfu6.html)
+
+**2014**
+
+- [Michael Genesereth](Michael_Genesereth "Michael Genesereth"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2014**). *[General Game Playing](https://www.morganclaypool.com/doi/abs/10.2200/S00564ED1V01Y201311AIM024)*. [Synthesis Lectures on Artificial Intelligence and Machine Learning](https://www.morganclaypool.com/toc/aim/1/1), March 2014
+- [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2014**). *[Representing and Reasoning About the Rules of General Games With Imperfect Information](https://www.jair.org/papers/paper4115.html)*. [JAIR Vol. 49](https://www.jair.org/vol/vol49.html)
+- [Édouard Bonnet](index.php?title=Edouard_Bonnet&action=edit&redlink=1 "Edouard Bonnet (page does not exist)"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2014**). *On the Complexity of General Game Playing*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
+- [Jean-Noël Vittaut](index.php?title=Jean-No%C3%ABl_Vittaut&action=edit&redlink=1 "Jean-Noël Vittaut (page does not exist)"), [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat") (**2014**). *Fast Instantiation of GGP Game Descriptions Using Prolog with Tabling*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
+- [Karol Walędzik](index.php?title=Karol_Wal%C4%99dzik&action=edit&redlink=1 "Karol Walędzik (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2014**). *[An Automatically Generated Evaluation Function in General Game Playing](https://www.researchgate.net/publication/265555737_An_Automatically_Generated_Evaluation_Function_in_General_Game_Playing)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 6, No. 3
+- [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2014**). *The Game Description Language is Turingcomplete*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 6, No. 4
+- [Maciej Świechowski](index.php?title=Maciej_%C5%9Awiechowski&action=edit&redlink=1 "Maciej Świechowski (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2014**). *Self-Adaptation of Playing Strategies in General Game Playing*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 6, No. 4
+
+## 2015 ...
+
+- [Alexander Braylan](index.php?title=Alexander_Braylan&action=edit&redlink=1 "Alexander Braylan (page does not exist)"), [Mark Hollenbeck](index.php?title=Mark_Hollenbeck&action=edit&redlink=1 "Mark Hollenbeck (page does not exist)"), [Elliot Meyerson](index.php?title=Elliot_Meyerson&action=edit&redlink=1 "Elliot Meyerson (page does not exist)"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**2015**). *Reuse of Neural Modules for General Video Game Playing*. [arXiv:1512.01537](https://arxiv.org/abs/1512.01537)
+- [Cameron Browne](Cameron_Browne "Cameron Browne") (**2016**). *A Class Grammar for General Games*. [CG 2016](CG_2016 "CG 2016")
+- [Nera Nesic](index.php?title=Nera_Nesic&action=edit&redlink=1 "Nera Nesic (page does not exist)"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2016**). *Heuristic Function Evaluation Framework*. [CG 2016](CG_2016 "CG 2016")
+- [Maciej Świechowski](index.php?title=Maciej_%C5%9Awiechowski&action=edit&redlink=1 "Maciej Świechowski (page does not exist)"), [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk") (**2016**). *A Hybrid Approach to Parallelization of Monte Carlo Tree Search in General Game Playing*. [Challenging Problems and Solutions in Intelligent Systems](https://www.springer.com/de/book/9783319301648), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+- [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Michael Schofield](index.php?title=Michael_Schofield&action=edit&redlink=1 "Michael Schofield (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2016**). *Nested Monte Carlo Search for Two-Player Games*. [AAAI 2016](Conferences#AAAI-2016 "Conferences"), [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12134/11652)
+- [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2017**). *GDL-III: A Description Language for Epistemic General Game Playing*. [IJCAI 2017](Conferences#IJCAI2017 "Conferences"), [pdf](https://www.ijcai.org/proceedings/2017/0177.pdf)
+- [Hui Wang](Hui_Wang "Hui Wang"), [Michael Emmerich](index.php?title=Michael_Emmerich&action=edit&redlink=1 "Michael Emmerich (page does not exist)"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2018**). *Monte Carlo Q-learning for General Game Playing*. [arXiv:1802.05944](https://arxiv.org/abs/1802.05944) » [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning")
+- [Hui Wang](Hui_Wang "Hui Wang"), [Michael Emmerich](index.php?title=Michael_Emmerich&action=edit&redlink=1 "Michael Emmerich (page does not exist)"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2018**). *Assessing the Potential of Classical Q-learning in General Game Playing*. [arXiv:1810.06078](https://arxiv.org/abs/1810.06078)
+- [Armin Chitizadeh](index.php?title=Armin_Chitizadeh&action=edit&redlink=1 "Armin Chitizadeh (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2018**). *[Iterative Tree Search in General Game Playing with Incomplete Information](https://link.springer.com/chapter/10.1007/978-3-030-24337-1_5)*. [CGW 2018](Conferences#CGW "Conferences") @ [IJCAI 2018](Conferences#IJCAI2018 "Conferences")
+- [Armin Chitizadeh](index.php?title=Armin_Chitizadeh&action=edit&redlink=1 "Armin Chitizadeh (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2018**). *[General Language Evolution in General Game Playing](https://link.springer.com/chapter/10.1007/978-3-030-03991-2_5)*. [Australasian Conference on Artificial Intelligence 2018](https://dblp.uni-trier.de/db/conf/ausai/ausai2018.html)
+- [Eric Piette](index.php?title=Eric_Piette&action=edit&redlink=1 "Eric Piette (page does not exist)"), [Dennis Soemers](index.php?title=Dennis_Soemers&action=edit&redlink=1 "Dennis Soemers (page does not exist)"), [Matthew Stephenson](index.php?title=Matthew_Stephenson&action=edit&redlink=1 "Matthew Stephenson (page does not exist)"), [Chiara Sironi](index.php?title=Chiara_Sironi&action=edit&redlink=1 "Chiara Sironi (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), [Cameron Browne](Cameron_Browne "Cameron Browne") (**2019**). *Ludii - The Ludemic General Game System*. [arXiv:1905.05013](https://arxiv.org/abs/1905.05013)
+- [Cameron Browne](Cameron_Browne "Cameron Browne"), [Matthew Stephenson](index.php?title=Matthew_Stephenson&action=edit&redlink=1 "Matthew Stephenson (page does not exist)"), [Eric Piette](index.php?title=Eric_Piette&action=edit&redlink=1 "Eric Piette (page does not exist)"), [Dennis Soemers](index.php?title=Dennis_Soemers&action=edit&redlink=1 "Dennis Soemers (page does not exist)") (**2019**). *A Practical Introduction to the Ludii General Game System*. [Advances in Computer Games 16](Advances_in_Computer_Games_16 "Advances in Computer Games 16")
+
+## 2020 ...
+
+- [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), [Guan-Wei Chen](index.php?title=Guan-Wei_Chen&action=edit&redlink=1 "Guan-Wei Chen (page does not exist)"), [Shi-Yu Chen](index.php?title=Shi-Yu_Chen&action=edit&redlink=1 "Shi-Yu Chen (page does not exist)"), [Xian-Dong Chiu](index.php?title=Xian-Dong_Chiu&action=edit&redlink=1 "Xian-Dong Chiu (page does not exist)"), [Julien Dehos](index.php?title=Julien_Dehos&action=edit&redlink=1 "Julien Dehos (page does not exist)"), [Maria Elsa](index.php?title=Maria_Elsa&action=edit&redlink=1 "Maria Elsa (page does not exist)"), [Qucheng Gong](index.php?title=Qucheng_Gong&action=edit&redlink=1 "Qucheng Gong (page does not exist)"), [Hengyuan Hu](index.php?title=Hengyuan_Hu&action=edit&redlink=1 "Hengyuan Hu (page does not exist)"), [Vasil Khalidov](index.php?title=Vasil_Khalidov&action=edit&redlink=1 "Vasil Khalidov (page does not exist)"), [Cheng-Ling Li](index.php?title=Cheng-Ling_Li&action=edit&redlink=1 "Cheng-Ling Li (page does not exist)"), [Hsin-I Lin](index.php?title=Hsin-I_Lin&action=edit&redlink=1 "Hsin-I Lin (page does not exist)"), [Yu-Jin Lin](index.php?title=Yu-Jin_Lin&action=edit&redlink=1 "Yu-Jin Lin (page does not exist)"), [Xavier Martinet](index.php?title=Xavier_Martinet&action=edit&redlink=1 "Xavier Martinet (page does not exist)"), [Vegard Mella](index.php?title=Vegard_Mella&action=edit&redlink=1 "Vegard Mella (page does not exist)"), [Jeremy Rapin](index.php?title=Jeremy_Rapin&action=edit&redlink=1 "Jeremy Rapin (page does not exist)"), [Baptiste Roziere](index.php?title=Baptiste_Roziere&action=edit&redlink=1 "Baptiste Roziere (page does not exist)"), [Gabriel Synnaeve](index.php?title=Gabriel_Synnaeve&action=edit&redlink=1 "Gabriel Synnaeve (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shi-Cheng Ye](index.php?title=Shi-Cheng_Ye&action=edit&redlink=1 "Shi-Cheng Ye (page does not exist)"), [Yi-Jun Ye](index.php?title=Yi-Jun_Ye&action=edit&redlink=1 "Yi-Jun Ye (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Sergey Zagoruyko](index.php?title=Sergey_Zagoruyko&action=edit&redlink=1 "Sergey Zagoruyko (page does not exist)") (**2020**). *Polygames: Improved zero learning*. [ICGA Journal, Vol. 42, No. 4](ICGA_Journal#42_4 "ICGA Journal"), [arXiv:2001.09832](https://arxiv.org/abs/2001.09832)
+- [Raluca D. Gaina](https://scholar.google.co.uk/citations?user=tC5klQYAAAAJ&hl=en), [Sam Devlin](https://dblp.uni-trier.de/pers/hd/d/Devlin:Sam), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Diego Perez-Liebana](index.php?title=Diego_Perez&action=edit&redlink=1 "Diego Perez (page does not exist)") (**2020**). *Rolling Horizon Evolutionary Algorithms for General Video Game Playing*. [arXiv:2003.12331](https://arxiv.org/abs/2003.12331)
+- [Martin Balla](https://dblp.uni-trier.de/pers/hd/b/Balla:Martin), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Diego Perez-Liebana](index.php?title=Diego_Perez&action=edit&redlink=1 "Diego Perez (page does not exist)") (**2020**). *Evaluating Generalisation in General Video Game Playing*. [arXiv:2005.11247](https://arxiv.org/abs/2005.11247)
+- [Dennis Soemers](index.php?title=Dennis_Soemers&action=edit&redlink=1 "Dennis Soemers (page does not exist)"), [Eric Piette](index.php?title=Eric_Piette&action=edit&redlink=1 "Eric Piette (page does not exist)"), [Matthew Stephenson](index.php?title=Matthew_Stephenson&action=edit&redlink=1 "Matthew Stephenson (page does not exist)"), [Cameron Browne](Cameron_Browne "Cameron Browne") (**2021**). *Optimised Playout Implementations for the Ludii General Game System*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
+- [Cameron Browne](Cameron_Browne "Cameron Browne"), [Eric Piette](index.php?title=Eric_Piette&action=edit&redlink=1 "Eric Piette (page does not exist)"), [Matthew Stephenson](index.php?title=Matthew_Stephenson&action=edit&redlink=1 "Matthew Stephenson (page does not exist)"), [Dennis Soemers](index.php?title=Dennis_Soemers&action=edit&redlink=1 "Dennis Soemers (page does not exist)") (**2021**). *General Board Geometry*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
+- [Dennis Soemers](index.php?title=Dennis_Soemers&action=edit&redlink=1 "Dennis Soemers (page does not exist)"), [Vegard Mella](index.php?title=Vegard_Mella&action=edit&redlink=1 "Vegard Mella (page does not exist)"), [Cameron Browne](Cameron_Browne "Cameron Browne"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2021**). *Deep learning for general game playing with Ludii and Polygames*. [ICGA Journal, Vol. 43, No. 3](ICGA_Journal#43_3 "ICGA Journal")
+
+## External Links
+
+## General Game Playing
+
+- [General Game Playing from Wikipedia](https://en.wikipedia.org/wiki/General_Game_Playing)
+- [General video game playing from Wikipedia](https://en.wikipedia.org/wiki/General_video_game_playing)
+- [General Game Playing](http://ggp.stanford.edu/) from [Stanford](Stanford_University "Stanford University")
+- [Digital Ludeme Project](http://ludeme.eu/) from [Maastricht University](Maastricht_University "Maastricht University")
+
+## GDL
+
+- [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
+- [Game Description Language (GDL)](http://games.stanford.edu/games/gdl.html) from [Stanford](Stanford_University "Stanford University")
+- [Palamedes IDE](http://palamedes-ide.sourceforge.net/) [Eclipse](<https://en.wikipedia.org/wiki/Eclipse_(software)>) plugin for GDL
+
+## Player
+
+- [CADIAPlayer](http://cadia.ru.is/wiki/public:cadiaplayer:main)
+- [Research - FluxPlayer](http://www.general-game-playing.de/research.html)
+- [Ludii Portal](https://ludii.games/)
+- [GitHub - Ludeme/Ludii: The Ludii general game system, developed as part of the ERC-funded Digital Ludeme Project](https://github.com/Ludeme/Ludii)
+- [Open-sourcing Polygames, a new framework for training AI bots through self-play](https://ai.facebook.com/blog/open-sourcing-polygames-a-new-framework-for-training-ai-bots-through-self-play/)
+- [GitHub - facebookarchive/Polygames: The project is a platform of zero learning with a library of games](https://github.com/facebookarchive/Polygames)
+
+## References
+
+1. [↑](#cite_ref-1) [General Game Playing - Home](http://www.general-game-playing.de/)
+1. [↑](#cite_ref-2) [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
+1. [↑](#cite_ref-3) [General video game playing from Wikipedia](https://en.wikipedia.org/wiki/General_video_game_playing)
+1. [↑](#cite_ref-4) [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
+1. [↑](#cite_ref-5) [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
+
+**[Up one Level](Games "Games")**
+

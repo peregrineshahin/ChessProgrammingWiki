@@ -1,0 +1,236 @@
+---
+title: Donald Michie
+---
+**[Home](Home "Home") * [People](People "People") * Donald Michie**
+
+[](http://www.aiai.ed.ac.uk/%7Edm/dm.html) Donald Michie [[1]](#cite_note-1)
+**Donald Michie**, (November 11, 1923 – July 7, 2007 [[2]](#cite_note-2) [[3]](#cite_note-3) [[4]](#cite_note-4) )
+
+was a British researcher and pioneer in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [game theory](https://en.wikipedia.org/wiki/Game_theory). During [World War II](https://en.wikipedia.org/wiki/World_War_II), Michie worked with [Alan Turing](Alan_Turing "Alan Turing") at [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park), with [Jack Good](Jack_Good "Jack Good") and [Shaun Wylie](Shaun_Wylie "Shaun Wylie") et al. in the section [Newmanry](https://en.wikipedia.org/wiki/Newmanry) headed by [Max Newman](https://en.wikipedia.org/wiki/Max_Newman), contributing to crack the German [Lorenz cipher](https://en.wikipedia.org/wiki/Lorenz_SZ_40/42) [[5]](#cite_note-5) [[6]](#cite_note-6). In [1947-48](Timeline#1948 "Timeline"), along with Wylie, Michie designed [Machiavelli](Machiavelli "Machiavelli"), a rival of Turing's [Turochamp](Turochamp "Turochamp") program [[7]](#cite_note-7) [[8]](#cite_note-8).
+
+Michie was head of the [University of Edinburgh's](University_of_Edinburgh "University of Edinburgh") Department of Machine Intelligence from 1965 until 1985 [[9]](#cite_note-9) , when he left to found the [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute) in [Glasgow](https://en.wikipedia.org/wiki/Glasgow) [[10]](#cite_note-10). Michie researched on game theory and computer games and chess. He was a close friend of [David Levy](David_Levy "David Levy") and involved in the famous [Levy Bet](David_Levy#TheLevyBet "David Levy") with [John McCarthy](John_McCarthy "John McCarthy"), which occurred during an AI-workshop in Edinburgh [[11]](#cite_note-11) , where Michie affirmed McCarthy to take the challenge by David Levy and even want to share the bet on McCarthy's site [[12]](#cite_note-12) .
+
+## Contents
+
+- [1 Photos](#Photos)
+- [2 Machine Learning](#Machine_Learning)
+- [3 The Need for Search](#The_Need_for_Search)
+- [4 Chess Endgames](#Chess_Endgames)
+- [5 Solving Chess?](#Solving_Chess.3F)
+- [6 AI as Sport](#AI_as_Sport)
+- [7 See also](#See_also)
+- [8 Selected Publications](#Selected_Publications)
+  - [8.1 1945](#1945)
+  - [8.2 1960 ...](#1960_...)
+  - [8.3 1970 ...](#1970_...)
+  - [8.4 1980 ...](#1980_...)
+  - [8.5 1990 ...](#1990_...)
+  - [8.6 2000 ...](#2000_...)
+- [9 External Links](#External_Links)
+- [10 References](#References)
+
+## Photos
+
+[](File:HayesMichie1984.JPG)
+[Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie") and Donald Michie, Edinburgh 1984 [[13]](#cite_note-13)
+
+[](http://www.aiai.ed.ac.uk/%7Edm/donald-michie-2003.jpg)
+Donald Michie receiving his honorary degree from [Stirling University](https://en.wikipedia.org/wiki/University_of_Stirling) in 2003 [[14]](#cite_note-14)
+
+## Machine Learning
+
+Michie began his first experiments in [machine learning](Learning "Learning") in 1960. His [tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) machine [MENACE](https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine) (Machine Educable Noughts And Crosses Engine) demonstrated the basic principle of a [self-reinforcing learning](Reinforcement_Learning "Reinforcement Learning") mechanism. MENACE employed Michie's conceptually simple general-purpose learning algorithm BOXES [[15]](#cite_note-15) [[16]](#cite_note-16) [[17]](#cite_note-17) [[18]](#cite_note-18) [[19]](#cite_note-19) which could also discover robust control strategies for the pole balancing problem [[20]](#cite_note-20) [[21]](#cite_note-21) , but was soon employed industrially to evolve strategies for automatic control, such as controlling a steel mill [[22]](#cite_note-22).
+
+[](http://shorttermmemoryloss.com/menace/)
+Self build [MENACE](https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine) by James Bridle [[23]](#cite_note-23)
+
+in the traditions of [Heath Robinson](https://en.wikipedia.org/wiki/Heath_Robinson_%28codebreaking_machine%29) and [Charles Babbage](Mathematician#Babbage "Mathematician") [[24]](#cite_note-24) [[25]](#cite_note-25)
+
+## The Need for Search
+
+In *King and Rook Against King: Historical Background and a Problem on the Infinite Board* at the first [Advances in Computer Chess](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") conference [[26]](#cite_note-26) , Donald Michie shows two positions, that are identical except one pawn, to demonstrate the need for [search](Search "Search") [[27]](#cite_note-27) .
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|
+
+|  |
+| --- |
+|                                                                   ♜♞   ♜♚ ♟ ♛ ♞♟♟♟♝♟  ♟     ♟♟♙   ♙  ♙      ♙♗ ♘    ♙  ♙♙♙♖ ♗♕♔  ♖ |
+
+|
+
+|  |
+| --- |
+|                                                                   ♜♞   ♜♚ ♟ ♛ ♞♟♟♟♝♟  ♟     ♟♟♙   ♙  ♙      ♙♗ ♘   ♙   ♙♙♙♖ ♗♕♔  ♖ |
+
+|
+| rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/2P2PPP/R1BQK2Rw KQ - ; bm Bxh7 | rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/1P3PPP/R1BQK2Rw KQ - ; am Bxh7 |
+
+## Chess Endgames
+
+Quote by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden") in *I remember Donald Michie* [[28]](#cite_note-28):
+
+```
+In 1980 I spent another summer in Edinburgh as a guest of Donald Michie. Since the low point of 1975, thanks to assiduous and inventive joint pursuit of funding possibilities by Donald and [Jean](Jean_Hayes_Michie "Jean Hayes Michie"), the Machine Intelligence Research Unit was alive with work focused on [chess endgames](Endgame "Endgame"). There were students, including [Tim Niblett](Tim_Niblett "Tim Niblett") and [Alen Shapiro](Alen_Shapiro "Alen Shapiro"). [Danny Kopec](Danny_Kopec "Danny Kopec") was there, perhaps formally as a student, but de facto as the resident chess consultant. [Ivan Bratko](Ivan_Bratko "Ivan Bratko") visited frequently. Alen was the administrator of the dream computing environment of that time: a small [PDP-11](PDP-11 "PDP-11") running [Unix](Unix "Unix"). ...
+
+```
+
+```
+Donald Michie demonstrated the Human Window phenomenon with chess end games. He proposed a form of describing end-game knowledge that he called “advice” and described a formal language, Advice Language One [[29]](#cite_note-29) , for expressing such advice. The language could be translated into a form that guided a computer to play the end-game at the level of skill of a chess expert. [Soei Tan](Soei_Tan "Soei Tan"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Danny Kopec](Danny_Kopec "Danny Kopec") were chess experts who used this framework to implement specific end games.
+
+```
+
+```
+Once again, I did not get it. I could not help acting in my then usual role of [Prolog](index.php?title=Prolog&action=edit&redlink=1 "Prolog (page does not exist)") evangelist and wanted to demonstrate that the beauty of Prolog was that it rendered superfluous things like Advice Language One. Accordingly I wrote a Prolog program that played an end game using Advice in DM’s sense. DM generously allowed me my say in a paper in the Tenth Machine Intelligence workshop. It’s a nice paper, but it does not get it.
+
+```
+
+## Solving Chess?
+
+Quote by [Kathleen Spracklen](Kathe_Spracklen "Kathe Spracklen") on Donald Michie and their experiments, excerpt from *Oral History of Kathe and [Dan Spracklen](Dan_Spracklen "Dan Spracklen")* [[30]](#cite_note-30):
+
+```
+One of the most thrilling times of my entire life was the month that Dr. Donald Michie spent with us in San Diego. And he, of course, is - was head of the computer science department at Oxford, I believe, for decades. He was on the original team with Turing that broke the Enigma code. And already he was quite an elderly gentleman when he came to work with us but that wasn't stopping him from having a very full schedule as the head of the I think it was the Turing Institute in Glasgow that headed up. Quite, totally an amazing human being.
+
+```
+
+```
+Delightful and totally amazing. And he had this concept that he wanted to try out that he thought might possibly solve computer chess. And we spent a month exploring it. It was the idea of reaching a steady state. The idea was that you would establish a number of parameters of positional analysis and your program would score, independently score vast arrays of positions using this set of known parameters. And then the program would basically perform a cluster analysis and so you'd do it on a number of positions and on game after game after game of Grand Master Chess. You submitted we just we used hundreds of thousands of positions.
+
+```
+
+```
+And then what it did was it took the evaluation that known chess theories said this position is worth this much. So we had an external evaluation because it came out of known Master Chess games. And then we had all of these parameters that our program was capable of evaluating and then you used this data to tune your weighing of the parameters. And you could also tune the weighting for different stages of the game. So at the opening, you could use a certain weight, mid-game, you could use a certain weight, in the midst of your king being attacked, could use a set of weights, when you're pressing an attack, you could use a set of weights, when they're past pawns on the board, you know, there were several different stages of the game that could have different weightings. And we used a program called Knowledge Seeker that helped you to determine these relative weightings. And so after a month of training the program, what you basically did was you take your total set of positions and you would use something like 80% of them as a training set and then the last 20 as the test set. And you'd find out, well, how did the program do in evaluating these positions it had never seen based on these that it had seen. And it did just a breathtaking job of determining the correct worth of the positions. And so we were so excited. We were going to turn it loose on its first play a game of chess. We were going to use this as the positional evaluator.
+
+```
+
+```
+Yeah. It was, like, oh, it was breathtaking. And we watched the program play chess. It was- you could gasp for breath. No computer program ever played a game of chess like that. It looked like an incredibly promising seven-year-old. We lost the game in just a few moves but it lost it brilliantly. <laughter> It got its queen out there, it maneuvered its knight, it launched a king side attack, it sacrificed its queen. <laughter> Well, of course it sacrificed its queen. Do you realize, in every single Grand Master game of chess, when you sacrifice your queen, it's phenomenally brilliant. You are winning the game. So if you can find a way to get your queen out there and sacrifice her, well, you've won.
+
+```
+
+## AI as Sport
+
+Quote by [John McCarthy](John_McCarthy "John McCarthy") from *AI as Sport* [[31]](#cite_note-31)[[32]](#cite_note-32):
+
+```
+Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain [endgames](Endgame "Endgame") is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. Donald Michie, [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), [David Wilkins](David_Wilkins "David Wilkins"), and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play.
+
+```
+
+## See also
+
+- [From Codebreaking to Computing - Video](The_Computer_History_Museum#Codebreaking "The Computer History Museum") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+- [Machiavelli](Machiavelli "Machiavelli")
+
+## Selected Publications
+
+[[33]](#cite_note-33) [[34]](#cite_note-34)
+
+## 1945
+
+- [Jack Good](Jack_Good "Jack Good"), Donald Michie, [Geoffrey Timms](Mathematician#GTimms "Mathematician") (**1945**). *[General Report on Tunny](http://www.alanturing.net/turing_archive/archive/index/tunnyreportindex.html)* from [The Turing Archive for the History of Computing](http://www.alanturing.net/turing_archive/index.html)
+
+## 1960 ...
+
+- Donald Michie (**1961**). *Trial and Error*. Penguin Science Survey
+- [John Maynard Smith](John_Maynard_Smith "John Maynard Smith"), Donald Michie (**1961**). *Machines that play games*. [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), 12, 367-9. [google books](http://books.google.com/books?id=lo7r0zX_T0sC&lpg=PA369&dq=Machines%20that%20play%20games.%201961%2C%20New%20Scientist%2C%2012&pg=PA367#v=onepage&q&f=false) [[35]](#cite_note-35)
+- [Jim Doran](Jim_Doran "Jim Doran"), Donald Michie (**1966**). *[Experiments with the Graph Traverser Program](https://royalsocietypublishing.org/doi/10.1098/rspa.1966.0205)*. [Proceedings of the Royal Society](https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society), Series A, Vol. 294, No. 1437, [pdf](https://stacks.stanford.edu/file/druid:yf330xx7624/yf330xx7624.pdf)
+- Donald Michie (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp. 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by [John Maynard Smith](John_Maynard_Smith "John Maynard Smith"), introduces [Expectiminimax tree](https://en.wikipedia.org/wiki/Expectiminimax_tree) [[36]](#cite_note-36)
+- Donald Michie, Roger A. Chambers (**1968**). *Boxes: An experiment on adaptive control*. In E. Dale and D. Michie, editors, [Machine Intelligence 2](http://www.doc.ic.ac.uk/%7Eshm/MI/mi2.html), Edinburgh: Oliver & Boyd, pp. 137-152, [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_2/MI2-Ch9-MichieChambers.pdf)
+
+## 1970 ...
+
+- Donald Michie (**1974**). *On Machine Intelligence*. Edinburgh: University Press, ISBN 10: 085224262X, ISBN 13: 9780852242629, [abebooks.com](http://www.abebooks.com/servlet/SearchResults?isbn=085224262X), [alibris.com](http://www.alibris.com/search/books/qwork/4836304/used/On%20machine%20intelligence), [biblio.com](http://www.biblio.com/isbn/9780852242629.html)
+- Donald Michie (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. [ACM SIGART Bulletin](ACM#SIG "ACM"), Issue 59
+- Donald Michie (**1976**). *An Advice-Taking System for Computer Chess.* Computer Bulletin, Ser. 2, Vol. 10, pp. 12-14. ISSN 0010-4531.
+- Donald Michie (**1977**). *King and Rook Against King: Historical Background and a Problem on the Infinite Board*. [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1")
+- Donald Michie, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**1978**). *Advice Table Representations of Chess End-Game Knowledge*. Proceedings 3rd AISB/GI Conference, pp. 194-200.
+- [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Danny Kopec](Danny_Kopec "Danny Kopec"), Donald Michie (**1978**). *Pattern-Based Representation of Chess Endgame Knowledge.* [The Computer Journal, Vol. 21, No. 2](http://comjnl.oxfordjournals.org/content/21/2.toc), pp. 149-153. available as [pdf reprint](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_44_C.pdf)
+- Donald Michie (**1979**). *The Computer Attacks Moravec Problem*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 73 [[37]](#cite_note-37)
+
+## 1980 ...
+
+- Donald Michie (**1980**). *Chess with Computers*. Interdisciplinary Science Reviews. Vol. 5, No. 3, pp. 215-227. ISSN 0308-0188.
+- [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), Donald Michie (**1980**). *[An Advice Program For a Complex Chess Programming Task](http://comjnl.oxfordjournals.org/content/23/4/353.abstract)*. [Computer Journal, Vol. 23, No. 4](http://comjnl.oxfordjournals.org/content/23/4.toc), pp. 350-353.
+- [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), Donald Michie (**1980**). *A Representation of Pattern-Knowledge in Chess Endgames.* [Advances in Computer Chess 2](Advances_in_Computer_Chess_2 "Advances in Computer Chess 2")
+- Donald Michie (**1981**). *[A Theory of Evaluative Comments in Chess with a Note on Minimaxing](http://comjnl.oxfordjournals.org/content/24/3/278.abstract)*. [The Computer Journal, Vol. 24, No. 3](http://comjnl.oxfordjournals.org/content/24/3.toc), pp. 278-286. reprinted in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1981**). *Computer Chess Today and Tomorrow: An Interview with Donald Michie*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3"), [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports")
+- Donald Michie (**1982**). *Chess with computers. Machine Intelligence and Related Topics*. Gordon and Breach Science Publishers.
+- Donald Michie (**1982**). *Information and Complexity in Chess*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
+- [Danny Kopec](Danny_Kopec "Danny Kopec"), Donald Michie (**1983**). *Mismatch between machine representations and human concepts: dangers and remedies.* FAST series No. 9 report. European Community, Brussels.
+- Donald Michie (**1986**). *The superarticulacy phenomenon in the context of software manufacture.* Proc. Roy. Soc. (A).
+- Donald Michie (**1986**). *Towards a Knowledge Accelerator*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
+- [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), Donald Michie (**1986**). *A Self-commenting Facility for Inductively Synthesised Endgame Expertise*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
+- Donald Michie, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**1987**). *Ideas on Knowledge Synthesis Stemming from the KBBKN Endgame*. [ICCA Journal, Vol. 10, No. 1](ICGA_Journal#10_1 "ICGA Journal")
+- Donald Michie, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**1987**). *Ideas on Knowledge Synthesis - a Correction*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal")
+- Donald Michie (**1989**). *Automating the Discovery of Structure in Time-Varying Data*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
+- Donald Michie (**1989**). *Brute Force in Chess and Science*. [ICCA Journal, Vol. 12, No. 3](ICGA_Journal#12_3 "ICGA Journal")
+- Donald Michie, [Michael Bain](Michael_Bain "Michael Bain") (**1989**). *Machines That Learn and Machines That Teach*. [SCAI 1989](https://dblp.uni-trier.de/db/conf/scai/scai1989.html)
+- Donald Michie, [Andrew Paterson](https://dblp.uni-trier.de/pers/hd/p/Paterson:A=), [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie") (**1989**). *[Learning by Teaching](https://www.semanticscholar.org/paper/Learning-by-Teaching.-Michie-Paterson/bdec8541a2d6dade78661c4078ac83dca29cc3dd)*. [SCAI 1989](https://dblp.uni-trier.de/db/conf/scai/scai1989.html)
+- [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [Michael Bain](Michael_Bain "Michael Bain"), [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie"), Donald Michie (**1989**). *An Experimental Comparison of Human and Machine Learning Formalisms*. [6. ML 1989](http://www.informatik.uni-trier.de/~ley/db/conf/icml/ml1989.html#MuggletonBMM89), [pdf](http://www.doc.ic.ac.uk/~shm/Papers/ml6paper.pdf)
+
+## 1990 ...
+
+- Donald Michie (**1990**). *Brute Force in Chess and Science*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
+- Donald Michie, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**1991**). *Comments to Chunking for Experience*. [ICCA Journal, Vol. 14, No. 1](ICGA_Journal#14_1 "ICGA Journal")
+- [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), Donald Michie (**1997**). *[Machine Intelligibility and the Duality Principle](https://link.springer.com/chapter/10.1007/3-540-62560-7_51)*. [Software Agents and Soft Computing 1997](https://dblp.uni-trier.de/db/conf/btlab/btlab1997.html)
+- [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie"), Donald Michie (**1998**). *Simulator-Mediated Acquisition of a Dynamic Control Skill*. [AI & Society, Vol. 12 No. 1](http://www.informatik.uni-trier.de/~ley/db/journals/ais/ais12.html#MichieM98)
+
+## 2000 ...
+
+- [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition)
+
+## External Links
+
+- [Donald Michie from Wikipedia](https://en.wikipedia.org/wiki/Donald_Michie)
+- [The Mathematics Genealogy Project - Donald Michie](http://genealogy.math.ndsu.nodak.edu/id.php?id=102659)
+- [Curriculum Vitae - Professor Donald Michie](http://www.aiai.ed.ac.uk/%7Edm/dmcv.html)
+- [The Machine Intelligence series](http://www.doc.ic.ac.uk/%7Eshm/MI/mi.html)
+- [Turing Trust - Historical Note](http://www.turingarchive.org/trust/) by Donald Michie
+- [Turing 1990 - Final Reminder](http://www.dcs.gla.ac.uk/idom/irlist/new/1990/90-vii-10-16/Turing_1990_-_Final_Reminder.html) From: Turing Conference
+- [Artificial Intelligence - Recollections of the Pioneers](http://www.aiai.ed.ac.uk/events/ccs2002/)
+
+## References
+
+1. [↑](#cite_ref-1) [Donald Michie Home Page](http://www.aiai.ed.ac.uk/%7Edm/dm.html)
+1. [↑](#cite_ref-2) [Professor Donald Michie](http://www.telegraph.co.uk/news/obituaries/1556846/Professor-Donald-Michie.html), [Telegraph.co.uk](http://www.telegraph.co.uk/) July 09, 2007
+1. [↑](#cite_ref-3) [Obituary - Donald Michie](http://www.guardian.co.uk/science/2007/jul/10/uk.obituaries1) by [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [The Guardian](http://www.guardian.co.uk/theguardian), Tuesday July 10 2007
+1. [↑](#cite_ref-4) [David Levy](David_Levy "David Levy") (**2007**). *Obituary Donald Michie (1923-2007)*. [ICGA Journal, Vol. 30 No. 3](ICGA_Journal#30_3 "ICGA Journal")
+1. [↑](#cite_ref-5) [Jack Good](Jack_Good "Jack Good"), Donald Michie, [Geoffrey Timms](Mathematician#GTimms "Mathematician") (**1945**). *[General Report on Tunny](http://www.alanturing.net/turing_archive/archive/index/tunnyreportindex.html)* from [The Turing Archive for the History of Computing](http://www.alanturing.net/turing_archive/index.html)
+1. [↑](#cite_ref-6) [From Codebreaking to Computing - Video](The_Computer_History_Museum#Codebreaking "The Computer History Museum") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. [↑](#cite_ref-7) [Maynard Smith, J.](John_Maynard_Smith "John Maynard Smith"), Michie D. (**1961**). *Machines that play games*. New Scientist, 12, 367-9.
+1. [↑](#cite_ref-8) [Chronology of Computing](http://www.fbi.fh-darmstadt.de/fileadmin/vmi/chronologie/index.htm) compiled by [David Singmaster](Mathematician#DSingmaster "Mathematician")
+1. [↑](#cite_ref-9) [Artificial Intelligence at Edinburgh University : a Perspective](http://www.inf.ed.ac.uk/about/AIhistory.html)
+1. [↑](#cite_ref-10) [Turing Trust - Historical Note](http://www.turingarchive.org/trust/) by Donald Michie: "In association with the [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), the Turing Institute hosted seven public lectures in the period 1985-93"
+1. [↑](#cite_ref-11) [Machine Intelligence Volume 4](http://www.doc.ic.ac.uk/%7Eshm/MI/mi4.html)
+1. [↑](#cite_ref-12) [Oral History of David Levy](http://www.computerhistory.org/chess/related_materials/oral-history/levy.oral_history.2005.102645437/index.php?iid=orl-4345632d88ad1) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. [↑](#cite_ref-13) [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. [↑](#cite_ref-14) [Donald Michie Home Page](http://www.aiai.ed.ac.uk/%7Edm/dm.html)
+1. [↑](#cite_ref-15) Donald Michie (**1961**). *Trial and Error*. Penguin Science Survey
+1. [↑](#cite_ref-16)  [Martin Gardner](Martin_Gardner "Martin Gardner") (**1969, 1991**). *The Unexpected Hanging and Other Mathematical Diversions*. [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster), [University Of Chicago Press](https://en.wikipedia.org/wiki/University_of_Chicago_Press), Chapter 8: A Matchbox Game-Learning Machine
+1. [↑](#cite_ref-17) Donald Michie, Roger A. Chambers (**1968**). *Boxes: An experiment on adaptive control*. In E. Dale and D. Michie, editors, [Machine Intelligence 2](http://www.doc.ic.ac.uk/%7Eshm/MI/mi2.html), Edinburgh: Oliver & Boyd, pp. 137-152
+1. [↑](#cite_ref-18) [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. *[1.3 NOUGHTS AND CROSSES](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p001.htm)*, [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin)
+1. [↑](#cite_ref-19) [UU/IT/AI exercise: Implementing MENACE](http://www.it.uu.se/edu/course/homepage/ai/menace), [Uppsala University](https://en.wikipedia.org/wiki/Uppsala_University)
+1. [↑](#cite_ref-20) [Controller-less Driver For the Cart-Pole Problem](http://pages.cs.wisc.edu/%7Efinton/poledriver.html)
+1. [↑](#cite_ref-21) [Q-Learning Controller for the Cart-Pole Problem](http://pages.cs.wisc.edu/%7Efinton/qcontroller.html)
+1. [↑](#cite_ref-22) [D. Michie CV](http://www.aiai.ed.ac.uk/%7Edm/dmcv.html)
+1. [↑](#cite_ref-23) [A New Theory of Awesomeness and Miracles](http://shorttermmemoryloss.com/menace/) by [James Bridle](http://shorttermmemoryloss.com/)
+1. [↑](#cite_ref-24) [Menace - Flickr Photo stream](http://www.flickr.com/photos/stml/sets/72157622716067016/)
+1. [↑](#cite_ref-25) [Mechanical computer uses matchboxes and beans to learn Tic-Tac-Toe - Boing Boing](http://boingboing.net/2009/11/02/mechanical-computer.html)
+1. [↑](#cite_ref-26) Donald Michie (**1977**). *King and Rook Against King: Historical Background and a Problem on the Infinite Board*. [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1")
+1. [↑](#cite_ref-27) [Michael Gherrity](Michael_Gherrity "Michael Gherrity") (**1993**). *A Game Learning Machine*. Ph.D. Thesis, [University of California, San Diego](http://de.wikipedia.org/wiki/University_of_California,_San_Diego), available as [zipped postscript](http://www.gherrity.org/thesis.ps.gz), page 13, 14
+1. [↑](#cite_ref-28) [I remember Donald Michie (1923 – 2007) « A Programmers Place](http://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/) by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), June 12, 2009
+1. [↑](#cite_ref-29) Donald Michie (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. ACM SIGART Bulletin, Issue 59
+1. [↑](#cite_ref-30) [Gardner Hendrie](http://www.computerhistory.org/trustee/gardner-hendrie) (**2005**). *Oral History of Kathe and Dan Spracklen*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. [↑](#cite_ref-31) [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *AI as Sport*. Science, Vol. 276, June 6, pp. 1518-1519.
+1. [↑](#cite_ref-32) [AI as Sport](http://www-formal.stanford.edu/jmc/newborn/newborn.html) by [John McCarthy](John_McCarthy "John McCarthy")
+1. [↑](#cite_ref-33) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. [↑](#cite_ref-34) [D. Michie publications](http://www.aiai.ed.ac.uk/~dm/dmpubs.html)
+1. [↑](#cite_ref-35) [Publications of John Maynard Smith](http://www.lifesci.sussex.ac.uk/CSE/members/jms/JMSpublications.pdf) (pdf)
+1. [↑](#cite_ref-36) see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
+1. [↑](#cite_ref-37) [www.arves.org - Moravec, Josef 1882-1969](http://www.arves.org/arves/index.php/en/endgamestudies/studies-by-composer/589-moravec-josef-1882-1969)
+
+**[Up one level](People "People")**
+

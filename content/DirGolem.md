@@ -1,0 +1,267 @@
+---
+title: DirGolem
+---
+**[Home](Home "Home") * [Board Representation](Board_Representation "Board Representation") * [Move Generation](Move_Generation "Move Generation") * DirGolem**
+
+\[ The Golem <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**DirGolem**,
+
+Direction-wise Generation of [Legal Moves](Legal_Move "Legal Move"), is best done with vectors of [bitboards](Bitboards "Bitboards") applying [AltiVec](AltiVec "AltiVec"), [SSE2](SSE2 "SSE2"), [AVX2](AVX2 "AVX2") or similar [SIMD architectures](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") with appropriate register sets. Legal moves are stored as target-bitboards for all 16 [move directions](Direction#MoveDirections "Direction") as a kind of unsorted [move list](Move_List "Move List") inside the state of a [node](Node "Node"). That are four orthogonal directions with rook-, queen- and king-moves including [castling](Castling "Castling") and vertical [pawn-pushes](Pawn_Push "Pawn Push"), four diagonal directions with bishop-, queen- and king-moves and pawn-captures including [en passant](En_passant "En passant"), and eight knight directions. Each [target square](Target_Square "Target Square") of each direction set has an unique one-to-one relation to it's [source square](Origin_Square "Origin Square").
+
+## Contents
+
+- [1 Prospect](#prospect)
+- [2 Basics](#basics)
+- [3 Move Target Sets](#move-target-sets)
+  - [3.1 Black Attacks](#black-attacks)
+    - [3.1.1 Sliders & Super King](#sliders-.26-super-king)
+    - [3.1.2 None Sliding Pieces](#none-sliding-pieces)
+  - [3.2 Generating White Moves](#generating-white-moves)
+    - [3.2.1 In Check?](#in-check.3f)
+    - [3.2.2 Sliding Pieces](#sliding-pieces)
+    - [3.2.3 None Sliding Pieces](#none-sliding-pieces-2)
+  - [3.3 Finally](#finally)
+- [4 See also](#see-also)
+- [5 Forum Posts](#forum-posts)
+- [6 External Links](#external-links)
+- [7 References](#references)
+
+## Prospect
+
+To get the idea, the following description with scalar [C++](Cpp "Cpp") code intended as pseudo code, is a rough translation of [HansDamf's](index.php?title=HansDamf&action=edit&redlink=1 "HansDamf (page does not exist)") intrinsic SSE2 code by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"). It assumes White to move within a [color flipper](Color_Flipping "Color Flipping") approach. More information for a set-wise [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), determining [check](Check "Check") giving moves including [discovered checks](Discovered_Check "Discovered Check"), etc. may be collected and considered. There are zillions of implementation nuances to utilize up to 16 128-bit XMM-, 16 256-bit YMM (AVX2), or even [AVX-512](AVX-512 "AVX-512") 32 512-bit ZMM-SIMD registers <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The generation is completely branch-less, does not use huge lookup tables, and is intended to hide the latency of a [prefetched](https://en.wikipedia.org/wiki/Prefetching) [TT](Transposition_Table "Transposition Table") probe. However, picking any moves or move proposals like [hash](Hash_Move "Hash Move")- or [killer moves](Killer_Move "Killer Move") from that list is more expensive and is typically done by a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine) to ensure proper [move ordering](Move_Ordering "Move Ordering") considering [MVV-LVA](MVV-LVA "MVV-LVA"), [hanging pieces](Hanging_Piece "Hanging Piece"), etc., as mentioned in [pieces versus directions](Pieces_versus_Directions#DirectionWise "Pieces versus Directions").
+
+## Basics
+
+- [King Attacks by Calculation](King_Pattern#byCalculation "King Pattern")
+- [Multiple Knight Attacks](Knight_Pattern#MultipleKnightAttacks "Knight Pattern")
+- [Multiple Sliding Pieces](Sliding_Piece_Attacks#Multiple "Sliding Piece Attacks")
+- [One Step Only](General_Setwise_Operations#OneStepOnly "General Setwise Operations")
+- [Opposite Ray-Directions](</Checks_and_Pinned_Pieces_(Bitboards)#OppositeRay> "Checks and Pinned Pieces (Bitboards)")
+- [Pawn Attacks set-wise](</Pawn_Attacks_(Bitboards)#PawnAttacks> "Pawn Attacks (Bitboards)")
+- [Pawn Pushes set-wise](</Pawn_Pushes_(Bitboards)#PawnPushSetwise> "Pawn Pushes (Bitboards)")
+- [Pieces versus Directions](Pieces_versus_Directions "Pieces versus Directions")
+
+|  |  |
+| --- | --- |
+| [Cpwmappinghint.JPG](Square_Mapping_Considerations "Square Mapping Considerations")  | *Code samples and bitboard diagrams rely on [Little endian file and rank mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations")*.
+|
+
+## Move Target Sets
+
+To determine white [absolutely pinned pieces](Pin#AbsolutePin "Pin") and squares attacked by black pieces, pawns, and king, taboo for the white king, black attacks are generated in a first phase. Those attacks are also utilized to detect whether the own king is in [check](Check "Check"). Aggregated collected information is then used in a second phase of legal move target generation.
+
+## Black Attacks
+
+### Sliders & Super King
+
+First, all black sliding attacks are generated by [Dumb7](Dumb7Fill "Dumb7Fill")- or [Kogge-Stone fill](Kogge-Stone_Algorithm "Kogge-Stone Algorithm"), unrolled for all eight [ray directions](Direction#RayDirections "Direction"), to aggregate them into a white king taboo bitboard, and to determine and keep line-wise [in-between](Square_Attacked_By#InBetween "Square Attacked By") bitboards by intersection with [opposite ray-direction](</Checks_and_Pinned_Pieces_(Bitboards)#OppositeRay> "Checks and Pinned Pieces (Bitboards)") attacks of the white king as sliding super piece, best generated by the [classical approach](Classical_Approach "Classical Approach"), or alternatively along with the sliding pieces itself as additional SIMD data element processing two opponent fill direction in one run.
+
+The occupancy for the black sliding attacks has the white king excluded, so that in case of check by a sliding piece the king is [x-rayed](X-ray "X-ray") to later avoid king moves to otherwise non attacked squares. The in-between sets intersected with own pieces leave [pinned pieces](Pin#AbsolutePin "Pin"), but are also handy to determine an interposing block target set in case of distant sliding checks. In total, seven bitboards are processed as used in the second part of the routine, four line-wise in-between sets, orthogonal and diagonal white king super piece attacks to later determine a possible sliding checking piece, and the aggregated black attacks.
+
+```
+
+  U64 horInbetween, verInbetween, diaInbetween, antInbetween;   
+  U64 wKSuperAttacksOrth, wKSuperAttacksDia , bAnyAttacks;
+
+```
+
+Intended members associated with a position object have a m\_-prefix, scratch or register variables an underscore:
+
+```
+
+  /* black rooks and queens west */
+  _bAttacks = westAttacks (m_bRooks | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks         = _bAttacks;
+  _wKSuperAttacks     = slidingRayEastAttacks(m_wKsq, m_occ);
+  wKSuperAttacksOrth  = _wKSuperAttacks;
+  horInbetween        = _bAttacks & _wKSuperAttacks;
+  /* black rooks and queens east */
+  _bAttacks = eastAttacks (m_bRooks | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRayWestAttacks(m_wKsq, m_occ);
+  wKSuperAttacksOrth |= _wKSuperAttacks;
+  horInbetween       |= _bAttacks & _wKSuperAttacks;
+  /* black rooks and queens north */
+  _bAttacks = nortAttacks (m_bRooks | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRaySoutAttacks(m_wKsq, m_occ);
+  wKSuperAttacksOrth |= _wKSuperAttacks;
+  verInbetween        = _bAttacks & _wKSuperAttacks;
+  /* black rooks and queens south */
+  _bAttacks = soutAttacks (m_bRooks | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRayNortAttacks(m_wKsq, m_occ);
+  wKSuperAttacksOrth |= _wKSuperAttacks;
+  verInbetween       |= _bAttacks & _wKSuperAttacks;
+
+  /* black bishops and queens north east */
+  _bAttacks = noEaAttacks (m_bBishops | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRaySoWeAttacks(m_wKsq, m_occ);
+  wKSuperAttacksDia   = _wKSuperAttacks;
+  diaInbetween        = _bAttacks & _wKSuperAttacks;
+  /* black bishops and queens south west */
+  _bAttacks = soWeAttacks (m_bBishops | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRayNoEaAttacks(m_wKsq, m_occ);
+  wKSuperAttacksDia  |= _wKSuperAttacks;
+  diaInbetween       |= _bAttacks & _wKSuperAttacks;
+  /* black bishops and queens north west */
+  _bAttacks = noWeAttacks (m_bBishops | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRaySoEaAttacks(m_wKsq, m_occ);
+  wKSuperAttacksDia  |= _wKSuperAttacks;
+  antInbetween        = _bAttacks & _wKSuperAttacks;
+  /* black bishops and queens south east */
+  _bAttacks = soEaAttacks (m_bBishops | m_bQueens, m_occ ^ m_wKbb);
+  bAnyAttacks        |= _bAttacks;
+  _wKSuperAttacks     = slidingRayNoWeAttacks(m_wKsq, m_occ);
+  wKSuperAttacksDia  |= _wKSuperAttacks;
+  antInbetween       |= _bAttacks & _wKSuperAttacks;
+
+```
+
+### None Sliding Pieces
+
+Black [pawn-](</Pawn_Attacks_(Bitboards)#PawnAttacks> "Pawn Attacks (Bitboards)") and knight- attacks are best determined by disjoint direction-wise steps and the [multiple knight attacks](Knight_Pattern#MultipleKnightAttacks "Knight Pattern") routine. Black [king attacks](King_Pattern#KingAttacks "King Pattern") may be determined by lookup or [calculation](King_Pattern#byCalculation "King Pattern"):
+
+```
+
+  /* black knight attacks */
+  bAnyAttacks  |= _knightAttacks  (m_bKnights);
+  /* black pawn attacks */
+  bAnyAttacks |= _bPawnEastAttacks(m_bPawns);
+  bAnyAttacks |= _bPawnWestAttacks(m_bPawns);
+  /* black king attacks */
+  bAnyAttacks |= _kingAttacks(m_bKbb);
+
+```
+
+## Generating White Moves
+
+Now, with all black attacks and black sliding vs white king in-between sets processed, one generates all legal white moves into 16 move-target bitboards.
+
+### In Check?
+
+To make [in check](Check "Check") or [double check](Double_Check "Double Check") handling [branch-less](Avoiding_Branches "Avoiding Branches"), a target mask for all non king moves is calculated, which is needed anyway to remove own white pieces from the attack sets. In case of check it only contains the check giving piece as capture target - distant sliding checks include the in-between set intersected with empty squares as target set for blocking the check. The rare case of double check is considered by a mask (\_nullIfDblCheck) computed from the set of check giving pieces - which leaves [empty](General_Setwise_Operations#EmptyAndUniverse "General Setwise Operations") if [population greater one](Population_Count#SinglePopulatedBitboards "Population Count") and the universe (~empty) otherwise. Note that the ones' decrement of any single populated bitboard is always positive and leaves the empty set if shifted right 63 arithmetically:
+
+```
+
+  U64 allInbetween = horInbetween | verInbetween | diaInbetween | antInbetween;
+  _blocks      =  allInbetween & ~m_occ; /* in case of distant check */
+  _checkFrom   = (wKSuperAttacksOrth    & (m_bRooks  | m_bQueens) )
+               | (wKSuperAttacksDia     & (m_bBishop | m_bQueens) )
+               | (knightAttacks(m_wKbb) &  m_bKnights )
+               | (wPawnAttacks (m_wKbb) &  m_bPawns )
+               ;
+  I64 _nullIfcheck    = ( (I64)( bAnyAttacks & m_wKbb ) - 1) >> 63; /* signed shifts */
+  I64 _nullIfDblCheck = ( (I64)( checkFrom & (checkFrom-1) ) - 1) >> 63; 
+
+  _checkTo     = _checkFrom | _blocks  | _nullIfcheck;
+  targetMask   = ~m_wPieces & _checkTo & _nullIfDblCheck;
+
+```
+
+### Sliding Pieces
+
+Moves by white sliding pieces are computed with eight Dumb7 or Kogge-Stone fills. Pinned sliders are considered [partial pinned](Pin#PartialPin "Pin") to move along the pinned direction:
+
+```
+
+  /* horizontal rook and queen moves */
+  _sliders = (m_wRooks | m_wQueens) & ~(allInbetween ^ horInbetween);
+  m_moveTargets[eWest] = westAttacks (_sliders, m_occ) & targetMask;
+  m_moveTargets[eEast] = eastAttacks (_sliders, m_occ) & targetMask;
+  /* vertical rook and queen moves*/
+  _sliders = (m_wRooks | m_wQueens) & ~(allInbetween ^ verInbetween);
+  m_moveTargets[eNort] = nortAttacks (_sliders, m_occ) & targetMask;
+  m_moveTargets[eSout] = soutAttacks (_sliders, m_occ) & targetMask;
+  /* diagonal bishop and queen moves */
+  _sliders = (m_wBishops | m_wQueens) & ~(allInbetween ^ diaInbetween);
+  m_moveTargets[eNoEa] = noEaAttacks (_sliders, m_occ) & targetMask;
+  m_moveTargets[eSoWe] = soWeAttacks (_sliders, m_occ) & targetMask;
+  /* antidiagonal bishop and queen moves */
+  _sliders = (m_wBishops | m_wQueens) & ~(allInbetween ^ antInbetween);
+  m_moveTargets[eNoWe] = noWeAttacks (_sliders, m_occ) & targetMask;
+  m_moveTargets[eSoEa] = soEaAttacks (_sliders, m_occ) & targetMask;
+
+```
+
+### None Sliding Pieces
+
+Knight moves with their disjoint unique directions are generated by eight appropriate [direction shifts](Knight_Pattern#Calculation "Knight Pattern") with all white knights not [pinned](Pin "Pin"), using the same targetMask considering in check. Pawn captures and [Pawn pushes](</Pawn_Pushes_(Bitboards)> "Pawn Pushes (Bitboards)") also consider [partial pins](Pin#PartialPin "Pin"). A given [en passant](En_passant "En passant") target square implies a strictly legal move, as already secured while making the triggering double pawn push.
+
+Finally king move targets are generated by eight [one step direction shifts](General_Setwise_Operations#OneStepOnly "General Setwise Operations"), masking off target squares occupied by own pieces, or attacked by black, including [x-rays](DirGolem#Xray "DirGolem") through the white king in case of check by a sliding piece. [Castling](Castling "Castling") is left to the ambitious reader. In orthodox chess, west or east castling can simply distinguished from ordinal king moves due to the double king step, but requires some more tinkering in [Chess960](Chess960 "Chess960").
+
+```
+
+  /* knight moves */
+  _knights = m_wKnights & ~allInbetween;
+  m_moveTargets[eNoNoEa] = noNoEa(_knights) & targetMask; 
+  m_moveTargets[eNoEaEa] = noEaEa(_knights) & targetMask; 
+  m_moveTargets[eSoEaEa] = soEaEa(_knights) & targetMask; 
+  m_moveTargets[eSoSoEa] = soSoEa(_knights) & targetMask; 
+  m_moveTargets[eNoNoWe] = noNoWe(_knights) & targetMask; 
+  m_moveTargets[eNoWeWe] = noWeWe(_knights) & targetMask; 
+  m_moveTargets[eSoWeWe] = soWeWe(_knights) & targetMask; 
+  m_moveTargets[eSoSoWe] = soSoWe(_knights) & targetMask; 
+  /* pawn captures and en passant */
+  _targets = ( m_bPieces & targetMask) | (C64(1) << m_epTarget);
+  _pawns   = m_wPans & ~(allInbetween ^ diaInbetween);
+  m_moveTargets[eNoEa] |=  noEaOne (_pawns) & _targets ;
+  _pawns   = m_wPans & ~(allInbetween ^ antInbetween);
+  m_moveTargets[eNoWe] |= noWeOne(_pawns) & _targets;
+  /* pawn pushes ... */
+  _pawns   = m_wPans  & ~(allInbetween ^ verInbetween);
+  _pawnPushs = nortOne (_pawns) & ~m_occ;
+  m_moveTargets[eNort] |= _pawnPushs & targetMask;
+  /* and double pushs */
+  _rank4 = C64(0x00000000FF000000);
+  m_moveTargets[eNort] |= nortOne (_pawnPushs) & ~m_occ & targetMask & _rank4;
+  /* king moves */
+  targetMask = ~(m_wPieces | bAnyAttacks);
+  m_moveTargets[eWest] |= westOne (m_wKbb) & targetMask;
+  m_moveTargets[eEast] |= eastOne (m_wKbb) & targetMask;
+  m_moveTargets[eNort] |= nortOne (m_wKbb) & targetMask;
+  m_moveTargets[eSout] |= soutOne (m_wKbb) & targetMask;
+  m_moveTargets[eNoEa] |= noEaOne (m_wKbb) & targetMask;
+  m_moveTargets[eSoWe] |= soWeOne (m_wKbb) & targetMask;
+  m_moveTargets[eNoWe] |= noWeOne (m_wKbb) & targetMask;
+  m_moveTargets[eSoEa] |= soEaOne (m_wKbb) & targetMask;
+
+```
+
+## Finally
+
+Additionally, all 16 move target bitboards might be aggregated into a union set, so that [checkmate](Checkmate "Checkmate") and [stalemate](Stalemate "Stalemate") is indicated by the zero flag for early returns, wasting a TT prefetch. Further, some disjoint and aggregated attack and pinned piece information might be utilized in [evaluation](Evaluation "Evaluation"), maybe best associated with [thread](Thread "Thread") local memory shared by all [nodes](Node "Node") searched, and allocated at the bottom of the [stack](Stack "Stack") referred by a (this) pointer, with the limited validity from generation until evaluation or the first (null) move is deepened.
+
+## See also
+
+- [AVX2](AVX2 "AVX2")
+- [AVX2 Dumb7Fill](AVX2#Dumb7Fill "AVX2")
+- [AVX2 Knight Attacks](AVX2#KnightAttacks "AVX2")
+- [Checks and Pinned Pieces (Bitboards)](</Checks_and_Pinned_Pieces_(Bitboards)> "Checks and Pinned Pieces (Bitboards)")
+- [Dumb7Fill](Dumb7Fill "Dumb7Fill")
+- [Fill by Subtraction](Fill_by_Subtraction "Fill by Subtraction")
+- [Fill Algorithms](Fill_Algorithms "Fill Algorithms")
+- [GPU](GPU "GPU")
+- [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm")
+- [Pigeon](Pigeon "Pigeon")
+- [SSE2](SSE2 "SSE2")
+
+## Forum Posts
+
+- [Is there such a thing as branchless move generation?](http://www.talkchess.com/forum/viewtopic.php?t=43971) by [John Hamlen](John_Hamlen "John Hamlen"), [CCC](CCC "CCC"), June 07, 2012
+
+## External Links
+
+- [Golem from Wikipedia](https://en.wikipedia.org/wiki/Golem)
+- [Golem (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Golem_%28disambiguation%29)
+
+## References
+
+1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Golem: How He Came Into the World, from Wikipedia](https://en.wikipedia.org/wiki/The_Golem:_How_He_Came_into_the_World)
+1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AVX-512 instructions | Intel® Developer Zone](http://software.intel.com/en-us/blogs/2013/avx-512-instructions), by [James Reinders](http://software.intel.com/en-us/user/335550), July 23, 2013
+
+**[Up one Level](Move_Generation "Move Generation")**
+
