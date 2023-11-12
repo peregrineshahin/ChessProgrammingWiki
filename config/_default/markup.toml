@@ -15,6 +15,7 @@ defaultMarkdownHandler = "goldmark"
 [highlight]
   codeFences = true
   noClasses = false
+  style="github"
 
 [tableOfContents]
   endLevel = 3
