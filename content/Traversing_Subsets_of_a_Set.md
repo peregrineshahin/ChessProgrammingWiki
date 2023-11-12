@@ -40,7 +40,7 @@ To enumerate all subsets of the universal set -1 is obvious, but takes some time
 
 
 
-```
+```C++
 
 // enumerate all subsets of the universal set -1
 void enumerateAllSubsetsOfTheBitboardUniverse() {
@@ -57,7 +57,7 @@ void enumerateAllSubsetsOfTheBitboardUniverse() {
 
 
 
-```
+```C++
 
 // enumerate all subsets of set d
 void enumerateAllSubsets(U64 d) {
@@ -75,7 +75,7 @@ This is how the Carry-Rippler, introduced by [Marcel van Kervinck](Marcel_van_Ke
 
 
 
-```
+```C++
 
 n = ((n | ~d) + 1) & d;
 
@@ -86,7 +86,7 @@ We can safely replace bitwise-or by add, since unused bits are always zero:
 
 
 
-```
+```C++
 
 n = ((n + ~d) + 1) & d;
 
@@ -97,7 +97,7 @@ Replacing One's Complement by Two's Complement minus one
 
 
 
-```
+```C++
 
 n = ((n + (-d-1) + 1) & d;
 
@@ -108,7 +108,7 @@ leaves the final expression
 
 
 
-```
+```C++
 
 n = (n - d) & d;
 
@@ -126,7 +126,7 @@ To use snoob in a loop:
 
 
 
-```
+```C++
 
 U64 x, y, first = 0x0f; // traverse all 4-bit sequences
 for (x = first; (y = snoob(x)) > x; x = y)
@@ -142,7 +142,7 @@ We add the [LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "Gene
 
 
 
-```
+```C++
 
 // get next greater value with same number of one bits
 // Taken from "Hacker's Delight" by Henry S. Warren, Jr.
@@ -166,7 +166,7 @@ Division by power of two replaced by [De Bruijn bitscan](BitScan#DeBruijnMultipl
 
 
 
-```
+```C++
 
 const U64 deBruijn = C64(0x03f79d71b4cb0a89);
 
@@ -199,7 +199,7 @@ Due to implicit modulo(64) of the shift amount by the processor
 
 
 
-```
+```C++
 
 (ones >> i) >> 2 == (ones >> 2) >> i might not equal to ones >> (2 + i)!
 
@@ -213,7 +213,7 @@ based on [One's Complement](General_Setwise_Operations#ComplementSet "General Se
 
 
 
-```
+```C++
 
 // get next less value with same number of one bits
 U64 rSnoob (U64 sub) {
@@ -227,7 +227,7 @@ or to safe some bitscans
 
 
 
-```
+```C++
 
 // get next less value with same number of one bits
 U64 rSnoob (U64 sub) {
@@ -247,7 +247,7 @@ combining the Carry Rippler with Snoob - a little more complicated
 
 
 
-```
+```C++
 
 set:
 ... 1110 0110 0x..e6
@@ -266,7 +266,7 @@ e.g. all subsets with two set bits:
 ```
 
 
-```
+```C++
 
 // get next greater subset of set with same number of one bits
 U64 snoob (U64 sub, U64 set) {
@@ -280,7 +280,7 @@ U64 snoob (U64 sub, U64 set) {
 ```
 
 
-```
+```C++
 
 // get next less set of a subset with same number of one bits
 U64 rSnoob (U64 sub, U64 set) {

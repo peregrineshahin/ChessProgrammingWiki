@@ -37,7 +37,7 @@ Schimanovich further mentions the problems Wagner had in maintaining and testing
 
 
 
-```
+```C++
 "Zu was brauchen wir die Spielereien mit dem Schach? Ihr sollt was Vernünftiges programmieren und nicht die Ressourcen des Rechenzentrums mit Schachspielen vergeuden!" 
 
 ```

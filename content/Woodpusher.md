@@ -36,7 +36,7 @@ Description given in 1995 from the [ICGA](ICGA "ICGA") tournament site <a id="ci
 
 
 
-```
+```C++
 Woodpusher is a small chess program (< 64K) of conventional design. It uses an [iterative deepening](Iterative_Deepening "Iterative Deepening") [alpha-beta search](Alpha-Beta "Alpha-Beta") with [PVS](Principal_Variation_Search "Principal Variation Search") and [aspiration window](Aspiration_Windows "Aspiration Windows") enhancements. The first version of Woodpusher was born in 1989 as part of a university project looking into [null-move](Null_Move "Null Move") search techniques. True to it's origins, this new version of the program still uses the null-move throughout the search to recognize threats and to [forward prune](Pruning "Pruning") branches of the [search tree](Search_Tree "Search Tree"). A [database of attacks](Attack_and_Defend_Maps "Attack and Defend Maps") from and to all the squares on the board is maintained by using [CHESS 4.5's](Chess_(Program) "Chess (Program)") [bit-board](Bitboards "Bitboards") implementation. These data structures are used for both [generating moves](Move_Generation "Move Generation") and making positional [evaluations](Evaluation "Evaluation"). Woodpusher's position evaluation is maintained almost entirely [incrementally](Incremental_Updates "Incremental Updates") while [making](Make_Move "Make Move") and [un-making](Unmake_Move "Unmake Move") moves during the search, with very little work done at the [terminal nodes](Terminal_Node "Terminal Node"). The evaluation is therefore necessarily simple, but does include true measures of [mobility](Mobility "Mobility") rather than relying on [piece-square evaluations](Piece-Square_Tables "Piece-Square Tables"). 
 
 ```

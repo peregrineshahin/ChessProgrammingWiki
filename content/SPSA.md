@@ -37,7 +37,7 @@ The SPSA algorithm is suited for high-dimensional [optimization problems](https:
 
 
 
-```
+```C++
 
 α = 0.602; γ = 0.101;
 for (k=0; k < N; k++) {

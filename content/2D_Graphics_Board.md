@@ -53,7 +53,7 @@ a [2D graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) image of a [
 | [IsiKnight.JPG](File:IsiKnight.JPG) |  The [C++](Cpp "Cpp") code is based on the [Windows](Windows "Windows") [Microsoft Foundation Class Library](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library), a class extension of the [Device Context](https://en.wikipedia.org/wiki/Graphics_Device_Interface#Technical_details) of the [Graphics Device Interface](https://en.wikipedia.org/wiki/Graphics_Device_Interface) <a id="cite-note-6" href="#cite-ref-6">[6]</a> , in conjunction with "handmade" [polygons](https://en.wikipedia.org/wiki/Polygon) with coordinates in a x- and y-range of ±16 (positive values right and down), is used in [IsiChess](IsiChess "IsiChess") to apply [vector graphics](https://en.wikipedia.org/wiki/Vector_graphics) to draw the [pieces](Pieces "Pieces") in the [board window](GUI#BoardWindow "GUI") or as [figurine notation](Algebraic_Chess_Notation#FAN "Algebraic Chess Notation"). For each piece an array of connected lines is declared, the first one a closed polygon, which is filled by the piece color <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 |
 
-```
+```C++
 
 /* Piece Coordinates */
 static POINT KnightPoint0[] = {

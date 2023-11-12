@@ -31,7 +31,7 @@ a score unit which corresponds approximately to **one thousandth** of a [pawn un
 
 
 
-```
+```C++
 The key thing to understand is that chess programs compare positions better than they evaluate them. Since most of the positions you compare are very similar (most of the pieces are sitting on the same squares) even a tiny difference can distinguish one similar position from another and even do it correctly. Even though neither position may have a very accurate evaluation, your evaluations function is more likely than not to pick the best one of the two given a choice as it will likely have more of something "good" in one of them, or less of something "bad". 
 
 ```

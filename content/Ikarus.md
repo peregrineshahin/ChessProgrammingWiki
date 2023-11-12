@@ -45,13 +45,13 @@ given in 1999 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-8" h
 
 
 
-```
+```C++
 Development of Ikarus started in January 1997 when our previous program, named "BasicChess", reached the 64kb memory limit of Borland [Pascal](Pascal "Pascal") 7.0 and its source code had grown completely cryptic. The 32-bit language Borland [Delphi](Delphi "Delphi") 2.0 allowed us to finally use [hash tables](Transposition_Table "Transposition Table") and the next year or so saw us implement a [graphical user interface](GUI "GUI") and most of the usual standard [search](Search "Search") heuristics ([null move pruning](Null_Move_Pruning "Null Move Pruning"), [history heuristic](History_Heuristic "History Heuristic"), [search extensions](Extensions "Extensions") etc.) as well as some advanced data structures such as a [pawn-king hash table](Pawn_Hash_Table "Pawn Hash Table").
 
 ```
 
 
-```
+```C++
 From March 1998 on a [Winboard](WinBoard "WinBoard")-compatible version has been autoplaying a variety of computer opponents. Ikarus also got a new hand-crafted [opening book](Opening_Book "Opening Book"). Over Christmas 1998 we added support for the [endgame databases](Endgame_Tablebases "Endgame Tablebases") created by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"); so our program contains a port of the probing code provided by the author. 
 
 ```

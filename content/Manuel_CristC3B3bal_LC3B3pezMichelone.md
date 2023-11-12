@@ -30,7 +30,7 @@ Along with [Jorge Luis Ortega-Arjona](Jorge_Luis_Ortega-Arjona "Jorge Luis Orteg
 
 
 
-```
+```C++
 The game of chess involves patterns. In this article we develop a simple description language for chess positions as patterns. It seems useful to catalogue similar positions in a generic form, based on common elements, in order to simplify the search for chess positions. A simple chess pattern language is used here to develop a computer program to find similar chess configurations. The aim is to avoid a commonly-used brute force approach. Further, this language could explain why some typical maneuvers actually work in some patterns. This could also be a step forward to model and build chess programs, which perform in a way closer to what a human being does. 
 
 ```

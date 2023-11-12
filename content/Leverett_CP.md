@@ -31,7 +31,7 @@ by [Peter Koretsky](http://www.thecrimson.com/writer/1200913/Peter__Koretsky/) o
 
 
 
-```
+```C++
 Leverett, who is concentrating in Physics and Chemistry at [Harvard](Harvard_University "Harvard University"), entered the tournament for the first time. His program finished in a tie for last place, and was labeled "the joke of the tournament" by International Master [David Levy](David_Levy "David Levy"), the tournament director. Leverett attributed his defeat to "poor programming" and vowed to scrap his program and start all over again. 
 
 ```

@@ -24,7 +24,7 @@ was one of the first mass produced [microcomputer](https://en.wikipedia.org/wiki
 
 from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```
+```C++
 Inspired by the success of the [Apple-1](https://en.wikipedia.org/wiki/Apple_I) and guided by co-founder [Steve Jobs'](https://en.wikipedia.org/wiki/Steve_Jobs) vision of an expandable user-friendly personal computer, [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak) designed the Apple II in 1977. The Apple II was a popular platform for commercial chess software developers. 
 
 ```

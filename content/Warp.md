@@ -38,7 +38,7 @@ from [2003 National Computer Chess Championship](NC3_2003 "NC3 2003") <a id="cit
 
 
 
-```
+```C++
 Warp is a follow on from my previous chess program called [LambChop](LambChop "LambChop"), the name was changed when I re-wrote much of the low level code handling [move generation](Move_Generation "Move Generation"), tree traversal etc. Warp has a relatively knowledgable [evaluation function](Evaluation_Function "Evaluation Function") in the style of its predecessor, but has an increased emphasis on [pruning](Pruning "Pruning") irrelevant variations from the [search tree](Search_Tree "Search Tree"). This means that Warp [searches](Search "Search") quite [deeply](Depth "Depth") despite a comparatively low [nodes per second](Nodes_per_Second "Nodes per Second") speed. 
 
 ```

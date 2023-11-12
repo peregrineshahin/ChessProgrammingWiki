@@ -35,7 +35,7 @@ However, all of those statements were made at the time when typical search depth
 
 This is how the history [array](Array "Array") may be updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs:
 
-```
+```C++
 
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) )

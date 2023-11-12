@@ -30,7 +30,7 @@ a chess program by [Henk Kuyer](Henk_Kuyer "Henk Kuyer"), which competed at the 
 
 
 
-```
+```C++
 In this years field, there were three full pro's ([Frans Morsch](Frans_Morsch "Frans Morsch") [[Quest](Quest "Quest")]), [Ed Schroeder](Ed_Schroder "Ed Schroder") [[Rebel](Rebel "Rebel")] and [Henk Kuyer](Henk_Kuyer "Henk Kuyer") [October]), and two participants that have commercial aspirations ([Bart Weststrate](Bart_Weststrate "Bart Weststrate") [[Kallisto](Kallisto "Kallisto")] and [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap") [[Zen](Zen "Zen")]), which made almost the half of the field. 
 
 ```

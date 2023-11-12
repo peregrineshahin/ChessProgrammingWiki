@@ -29,12 +29,12 @@ It seems very possible that Turing's interest in the constructive definition of 
 
 In 1948 Turing and Champernowne devised a chess playing program which they called [Turochamp](Turochamp "Turochamp"), which incorporated important methods of [evaluation](Evaluation "Evaluation") <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Champernowne later gave this description of Turochamp <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
-```
+```C++
 Most of our attention went to deciding which moves were to be followed up. My memory about this is infuriatingly weak, [Captures](Captures "Captures") had to be followed up at least to the point where no further captures was immediately possible. [Check](Check "Check") and forcing moves had to be followed further. We were particularly keen on the idea that whereas certain moves would be scorned as pointless and pursued no further others would be followed quite a long way down certain paths. In the actual experiment I suspect we were a bit slapdash about all this and must have made a number of slips since the arithmetic was extremely tedious with pencil and paper. Our general conclusion was that a computer should be fairly easy to programme to play a game of chess against a beginner and stand a fair chance of winning or least reaching a winning position. 
 
 ```
 
-```
+```C++
 Turing started to code the Turochamp for [Ferranti Mark 1](Ferranti_Mark_1 "Ferranti Mark 1") computer at [Manchester University](University_of_Manchester "University of Manchester")  but he never competed the task. 
 
 ```
@@ -43,7 +43,7 @@ Turing started to code the Turochamp for [Ferranti Mark 1](Ferranti_Mark_1 "Ferr
 
 Quote from *First Law* <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
-```
+```C++
 Turing played an important role in the development of computers in Britain. Together with his friend David Champernowne he invented "round-the-house" chess: after you move, run around the house, if you get back before your opponent's move you are entitled to a new move.  
 
 ```

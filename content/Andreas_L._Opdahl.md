@@ -26,7 +26,7 @@ In 1993, along with [Bjørnar Tessem](Bj%C3%B8rnar_Tessem "Bjørnar Tessem"), he
 
 *Abstract* <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```
+```C++
 A Framework for long-term planning in computer chess is sketched and as an example the [King's Indian Defence](https://en.wikipedia.org/wiki/King%27s_Indian_Defence) is proposed schematically. Chess plans are represented as logical initiation, fulfilment and abandonment conditions and as modifications to the parameters used to [evaluate](Evaluation "Evaluation") [nodes](Node "Node") in a [minimax search](Minimax "Minimax"). Several such plans are than combined to form a [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG) through which the program moves as the game progresses. Rules are represented to support creation, maintenence and consistency of the resulting plan DAGs. Funally, further work is suggested.
 
 ```

@@ -48,7 +48,7 @@ The first successful [AI](Artificial_Intelligence "Artificial Intelligence") pro
 
 by [Jack Good](Jack_Good "Jack Good"), 1998 <a id="cite-note-20" href="#cite-ref-20">[20]</a>:
 
-```
+```C++
 In a letter to [F C Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) in July 1951 I said "A facetious question is whether it is intended to display chess positions on the monitoring tubes". Of course today it is no longer at all facetious. 
 
 ```

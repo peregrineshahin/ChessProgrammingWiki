@@ -25,7 +25,7 @@ a very simple [open source chess program](Category:Open_Source "Category:Open So
 
 The [8x8 board](8x8_Board "8x8 Board") consists of two [arrays](Array "Array") for [piece type](Pieces#PieceTypeCoding "Pieces") and color.
 
-```
+```C++
 
 ##define	PAWN    0x0
 ##define	KNIGHT  0x1
@@ -65,7 +65,7 @@ int color[64] = {
 
 The [negamaxed](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") lacks any [move ordering](Move_Ordering "Move Ordering") techniques:
 
-```
+```C++
 
 static int Search(int alpha, int beta, int depth, MOVE * pBestMove)
 {
@@ -114,7 +114,7 @@ static int Search(int alpha, int beta, int depth, MOVE * pBestMove)
 
 FirstChess' [evaluation](Evaluation "Evaluation") considers [material](Material "Material") with following [point values](Point_Value "Point Value"):
 
-```
+```C++
 
 ##define   VALUE_PAWN      100
 ##define   VALUE_KNIGHT    300

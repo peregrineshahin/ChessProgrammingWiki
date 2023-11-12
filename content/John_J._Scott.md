@@ -36,7 +36,7 @@ Scott's program was further sparring partner of [Alex Bell's](Alex_Bell "Alex Be
 
 
 
-```
+```C++
 Greenblatt's program was exhibited at the 1968 IFIPS held in Edinburgh. It was a major attraction, drawing large crowds who cheered the program on to a win against the majority of its opponents. A special match was arranged between the program and one written by John Scott for the ICL 1909/5. An analysis of this game was made by I. J. Good, with the comment that Scott's program had a chance to draw at the 58th move, but made a bad move and then resigned. Because it was generally agreed that Greenblatt's program was the best to that date, Scott's program had done well to last so long. Both these programs were powerful opening and middle game players but became, from recorded games, relatively weak should they reach an end game. It seemed to the author that if it were possible to play a vigorous swapping strategy in order to reach an end game quickly then, even with a queen advantage, neither program would be actually able to realise the mate. 
 
 ```
@@ -49,13 +49,13 @@ Greenblatt's program was exhibited at the 1968 IFIPS held in Edinburgh. It was a
 
 
 
-```
+```C++
 The only other chess program in England in 1968 was one written by John Scott, then a 17-year-old schoolboy. His program actually played MACHACK at the Edinburgh IFIPS (International Federation of Information Processing) and just lost after a long struggle. John and I were present at a talk a few days later by Jack Good who analysed this game; in fact, we both remember that some of the reasons given for John's program choosing a move were, in Our opinion, over-sophisticated. 
 
 ```
 
 
-```
+```C++
 In 1972 I was back in England again and met John Scott, who was doing a PhD, and his tutor [Dr. Alan Bond](Alan_H._Bond "Alan H. Bond"). Naturally we talked about chess programs and the recent happenings in the [American ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"). As we talked it became fairly obvious that in the intervening 4 years a number of new ideas had appeared on the scene. One idea was called [refutation](Refutation_Table "Refutation Table"), a technique which (like [alpha-beta](Alpha-Beta "Alpha-Beta")) could vastly speed up the tree searching without any loss of information. 
 
 ```

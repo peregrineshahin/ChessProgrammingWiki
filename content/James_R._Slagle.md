@@ -41,7 +41,7 @@ Quote by [Marvin Minsky](Marvin_Minsky "Marvin Minsky") on Slagle's ***S**ymboli
 
 
 
-```
+```C++
 Why don't we have artificial intelligence yet? There were some remarkable achievements in very early days of artificial intelligence. This is my favorite one, a young student who happened to be blind named James Slagle wrote a Ph.D. thesis in 1961 that was nearly as good as a good MIT freshman at doing intergroup calculus. Up until then there was no general theory of how to [integrate functions](https://en.wikipedia.org/wiki/Integral). [Isaac Newton](Mathematician#IsaacNewton "Mathematician") invented the process but could not solve it. People like [Gauss](Mathematician#Gauss "Mathematician") and others spent the next couple of centuries on it. By 1950, there was a great collection called the [Bateman Manuscript Project](https://en.wikipedia.org/wiki/Bateman_Manuscript_Project) run by the [American Mathematical Society](https://en.wikipedia.org/wiki/American_Mathematical_Society) and they collected integrals. 
 
 ```
@@ -58,7 +58,7 @@ Abstract of *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*
 
 
 
-```
+```C++
 The heuristic program discussed searches for a constructive proof or disproof of a given proposition. It uses a search procedure which efficiently selects the seemingly best proposition to work on next. This program is multipurpose in that the domains it can handle are varied. As an initial experiment, the program was given the task of searching for proofs and disproofs of propositions about [Kalah](Kalah "Kalah") end games. Kalah is a two-person game. In another experiment the program, after some modifications, played the game of Kalah. This program was compared with another tree-searching procedure, the [Alpha-Beta](Alpha-Beta "Alpha-Beta") minimax procedure; the results have been encouraging since the program is fast and efficient. Its greatest usefulness is in solving large problems. It is hoped that this program has added one more step toward the goal of eventually obtaining computer programs which can solve intellectually difficult problems.  
 
 ```
@@ -75,7 +75,7 @@ Abstract of *Experiments with the M & N Tree-Searching Program* <a id="cite-note
 
 
 
-```
+```C++
 The M & N procedure is an improvement to the mini-max backing-up procedure widely used in computer programs for game-playing and other purposes. It is based on the principle that it is desirable to have many options when making decisions in the face of uncertainty. The mini-max procedure assigns to a MAX (MIN) node the value of the highest (lowest) valued successor to that node. The M & N procedure assigns to a MAX (MIN) node some function of the M (N) highest (lowest) valued successors. An M & N procedure was written in LISP to play the game of Kalah, and it was demonstrated that the M & N procedure is significantly superior to the mini-max procedure. The statistical significance of important conclusions is given. Since information on statistical significance has often been lacking in papers on computer experiments in the artificial intelligence field, these experiments can perhaps serve as a model for future work. 
 
 ```

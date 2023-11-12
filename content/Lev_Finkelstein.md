@@ -32,19 +32,19 @@ Lev Finkelstein in his talk *Learning to Play Chess Selectively by Acquiring Mov
 
 
 
-```
+```C++
 Several researchers have noted that human chess players do not perceive a position as a static entity, but as a collection of potential actions. Indeed, it looks as if human chess players are able to follow promising moves without considering all the alternatives. This work studies the possibility of incorporating such capabilities into chess programs.
 
 ```
 
 
-```
+```C++
 We present a methodology for representing move patterns.  A movepattern is a structure consisting of a board pattern and a move that can be applied in that pattern. Move patterns are used for selecting promising branches of the search tree, allowing a narrower, and therefore deeper, search. Move patterns are learned during training games and are stored in an hierarchical structure to enable fast retrieval. The talk describes a language for representing move patterns, and methods for learning and using them.
 
 ```
 
 
-```
+```C++
 This research was done in collaboration with [Shaul Markovitch](Shaul_Markovitch "Shaul Markovitch"). 
 
 ```

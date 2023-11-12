@@ -33,7 +33,7 @@ title: Undermining
 
 
 
-```
+```C++
 3k4/2n3p1/3bb3/7p/8/8/6P1/2R1R2K w - - 
 
 ```
@@ -53,7 +53,7 @@ If the undermined piece has a [Zwischenzug](Zwischenzug "Zwischenzug"), things a
 
 
 
-```
+```C++
 3k4/2n3p1/3bb3/7p/8/6P1/8/2R1R2K w - - 
 
 ```

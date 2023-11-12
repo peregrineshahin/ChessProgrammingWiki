@@ -38,7 +38,7 @@ As proposed by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") and used in 
 
 
 
-```
+```C++
 
     /* Iterate over all squares */
     for (dest = 0; dest < 64; dest++) {

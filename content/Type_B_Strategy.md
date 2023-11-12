@@ -28,7 +28,7 @@ from Shannon's *Programming a Computer for Playing Chess*:
 
 
 
-```
+```C++
 From these remarks it appears that to improve the speed and strength of play the machine must:
 
 ```
@@ -38,13 +38,13 @@ From these remarks it appears that to improve the speed and strength of play the
 
 
 
-```
+```C++
 A strategy with these two improvements will be called a type B strategy. It is not difficult to construct programs incorporating these features. For the first we define a function g(P) of a position which determines whether approximate stability exists (no pieces en prise, etc.). A crude definition might be:
 
 ```
 
 
-```
+```C++
 
                 | 1 if any piece is attacked by a piece of lower value,
      g(P) =    /    or by more pieces then defences of if any check exists
@@ -54,7 +54,7 @@ A strategy with these two improvements will be called a type B strategy. It is n
 ```
 
 
-```
+```C++
 Using this function, variations could be explored until g(P)=0, always, however, going at least two moves and never more say, 10.
 
 ```

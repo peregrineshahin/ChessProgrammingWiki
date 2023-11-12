@@ -31,7 +31,7 @@ Kristensen's work was recognized by [Ronald de Man](Ronald_de_Man "Ronald de Man
 
 
 
-```
+```C++
 I create tables in RAM that have all the information necessary for WDL50+ and DTZ50+, then permute them to different indexing schemes and compress. I do test runs on subsets of the data to find good permutations. (The idea to try permutations is from Jesper Torp Kristensen's master thesis.
 
 

@@ -32,7 +32,7 @@ Tinker uses an idiosyncratic [move generation](Move_Generation "Move Generation"
 
 
 
-```
+```C++
 
 froms = tree->wbishopsqueens;
 while (froms) {

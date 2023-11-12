@@ -32,7 +32,7 @@ a French computer scientist and researcher. He holds a Ph.D. in 1993 from [Écol
 
 
 
-```
+```C++
 This thesis presents a parallel processing model for the implementation of reasoning algorithms as part of a smart real-time system, and is part of the SATURNE study conducted at CERT-ONERA. This project is based on the assumption that processing tasks have the ability to adapt to time periods. To satisfy this model, the proposed solutions are the reduction of the search space and the acceleration of the treatments thanks to the parallelism. These changes must occur during the execution of the process, the management of parallelism becomes dynamic. Moreover, decision trees represent a fundamental method for solving many artificial intelligence problems, such as the theory of one-player games, optimization problems, two-player game theory, graphs and / or and many other NP-complete problems. Also, from the example of the minimax algorithm on real game trees, an implementation is performed on Modulor, a distributed architecture machine based on transputers developed at CERT-ONERA. The method of parallelization is based on a suppression of the control between the research processes, in favor of a speculative parallelism and the complete sharing of the information realized thanks to a physically distributed but virtually shared memory. The contribution of our approach for distributed and fault-tolerant real-time systems is evaluated thanks to the experimental results obtained.
 
 ```

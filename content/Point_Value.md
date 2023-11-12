@@ -42,7 +42,7 @@ a piece relative value concerning its relative strength in potential exchanges b
 
 
 
-```
+```C++
 A theoretical attempt to evaluate the pieces was made by H. M. Taylor in 1876 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, reported by [Coxeter](Mathematician#Coxeter "Mathematician") (1940, pp. 162-165 <a id="cite-note-5" href="#cite-ref-5">[5]</a>). The value of a piece is taken as proportional to the average number of squares controlled, averaged over all 64 positions of the piece on the board. This argument leads to the relative values of N, B, R and Q: **3**, **5**, **8** and **13** <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Coxeter (or Taylor) goes on to modify the argument by asking instead for the probability of 'safely' giving [check](Check "Check"), that is, without being [en prise](En_prise "En prise") to the king, if the piece and king are both placed on the board at random. This gives the ratios **12**, **14**, **22** and **40**. These values are good, but this modification of the argument is artificial. 
 
 ```

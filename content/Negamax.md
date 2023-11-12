@@ -11,7 +11,7 @@ a common way of implementing [minimax](Minimax "Minimax") and derived algorithms
 
 
 
-```
+```C++
 
 max(a, b) == -min(-a, -b)
 
@@ -38,7 +38,7 @@ This is how the pseudo-code of the [recursive](Recursion "Recursion") algorithm 
 
 
 
-```
+```C++
 
 int negaMax( int depth ) {
     if ( depth == 0 ) return evaluate();
@@ -67,7 +67,7 @@ One calls negaMax with another root negaMax which makes the call to the negaMax 
 
 
 
-```
+```C++
 score = materialWeight * (numWhitePieces - numBlackPieces) * who2move 
 
 ```

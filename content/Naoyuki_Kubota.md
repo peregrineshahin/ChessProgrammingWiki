@@ -34,7 +34,7 @@ Abtract from *Human and Smart Machine Co-Learning with [Brain Computer Interface
 
 
 
-```
+```C++
 [Machine learning](Learning "Learning") has become a very popular approach for [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) systems, and it has always been considered important research in the [Computational Intelligence area](https://en.wikipedia.org/wiki/Computational_intelligence). Nevertheless, when it comes to smart machines, it is not just about the methodologies. We need to consider systems and cybernetics as well as include human in the loop. The purpose of this article is as follows: (1) To integrate the open source Facebook AI Research (FAIR) [Darkforest](https://en.wikipedia.org/wiki/Darkforest) program of [Facebook](https://en.wikipedia.org/wiki/Facebook) with [Item Response Theory](https://en.wikipedia.org/wiki/Item_response_theory) (IRT), to the new open learning system, namely, [DDF](index.php?title=DDF&action=edit&redlink=1 "DDF (page does not exist)") learning system; (2) To integrate DDF Go with Robot namely Robotic DDF Go system; (3) To invite the professional [Go](Go "Go") players to attend the activity to play Go games on site with a smart machine. The research team will apply this technology to education, such as, playing games to enhance the children concentration on learning mathematics, languages, and other topics. With the detected [brainwaves](https://en.wikipedia.org/wiki/Neural_oscillation), the robot will be able to speak some words that are very much to the point for the students and to assist the teachers in classroom in the future.
 
 ```
@@ -57,7 +57,7 @@ Abtract from *PFML-based Semantic BCI Agent for Game of Go Learning and Predicti
 
 
 
-```
+```C++
 This paper presents a semantic [brain computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI) agent with [particle swarm optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) (PSO) based on a [Fuzzy Markup Language](https://en.wikipedia.org/wiki/Fuzzy_markup_language) (FML) for [Go](Go "Go") [learning](Learning "Learning") and prediction applications.  Additionally, we also establish an Open Go [Darkforest](https://en.wikipedia.org/wiki/Darkforest) (OGD) cloud platform with Facebook AI research (FAIR) open source Darkforest and ELF OpenGo AI bots <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The Japanese robot Palro will simultaneously predict the move advantage in the board game Go to the Go players for reference or learning. The proposed semantic BCI agent operates efficiently by the human-based BCI data from their [brain waves](https://en.wikipedia.org/wiki/Neural_oscillation) and machine-based game data from the prediction of the OGD cloud platform for optimizing the parameters between humans and machines. Experimental results show that the proposed human and smart machine co-learning mechanism performs favorably. We hope to provide students with a better online learning environment, combining different kinds of handheld devices, robots, or computer equipment, to achieve a desired and intellectual learning goal in the future.  
 
 

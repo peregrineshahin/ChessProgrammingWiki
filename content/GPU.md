@@ -325,7 +325,7 @@ Consumer GPUs have in general a lower ratio (FP32:FP64) for double-precision (64
 
 Nvidia GeForce GTX 580 (Fermi, CC 2.0) - 32-bit integer operations/clock cycle per compute unit [[10]](#cite_note-10)
 
-```
+```C++
    MAD 16
    MUL 16
    ADD 32
@@ -338,7 +338,7 @@ Max theoretic ADD operation throughput: 32 Ops x 16 CUs x 1544 MHz = 790.528 Gig
 
 AMD Radeon HD 7970 (GCN 1.0) - 32-bit integer operations/clock cycle per processing element [[11]](#cite_note-11)
 
-```
+```C++
    MAD 1/4
    MUL 1/4
    ADD 1

@@ -64,7 +64,7 @@ There is also an imperfect solution that yields reasonably good results - using 
 
 
 
-```
+```C++
 
 // a feeble attempt at using corresponding squares
 if ( isPiece(WHITE,KING, pawn_sq-7) || isPiece(WHITE,KING, pawn_sq-8) || isPiece(WHITE,KING, pawn_sq-9) ) {

@@ -78,7 +78,7 @@ A 64-bit De Bruijn Sequence contains 64-overlapped unique 6-bit sequences, thus 
 
 A multiplication with a power of two value (the [isolated LS1B](General_Setwise_Operations#LS1BIsolation "General Setwise Operations")) acts like a left shift by it's exponent. Thus, if we multiply a 64-bit De Bruijn Sequence with the isolated LS1B, we get a unique six bit subsequence inside the most significant bits. To obtain the bit-index we need to extract these upper six bits by shifting right the product, to lookup an [array](Array "Array").
 
-```
+```C++
 
 const int index64[64] = {
     0,  1, 48,  2, 57, 49, 28,  3,
@@ -116,7 +116,7 @@ See also how to [Generate your "private" De Bruijn Bitscan Routine](De_Bruijn_Se
 
 Instead of the classical [LS1B isolation](General_Setwise_Operations#LS1BIsolation "General Setwise Operations"), [Kim Walisch](Kim_Walisch "Kim Walisch") proposed the faster [xor](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") with the ones' decrement. The separation [bb ^ (bb-1)](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") contains all bits set including and below the [LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations"). The 222 (4,194,304) upper De Bruijn Sequences of the 226 available leave unique 6-bit indices. Using LS1B separation takes advantage of the x86 lea instruction, which saves the move instruction and unlike negate, has no data dependency on the flag register. Kim reported a 10 to 15 percent faster execution (compilers: g++-4.7 -O2, clang++-3.1 -O2, x86_64) than the traditional 64-bit De Bruijn bitscan on [Intel](Intel "Intel") [Nehalem](https://en.wikipedia.org/wiki/Nehalem_%28microarchitecture%29) and [Sandy Bridge](https://en.wikipedia.org/wiki/Sandy_Bridge_%28microarchitecture%29) CPUs.
 
-```
+```C++
 
 const int index64[64] = {
     0, 47,  1, 56, 48, 27,  2, 60,
@@ -170,7 +170,7 @@ A 32-bit friendly implementation to find the the bit-index of [LS1B](General_Set
 
 Even if this folded "LS1B" contains multiple consecutive one-bits, the multiplication is De Bruijn like. There are only two magic 32-bit constants with the combined property of 32- and 64-bit De Bruijn Sequences to apply this [minimal perfect hashing](Hash_Table#MinimalPerfectHashing "Hash Table"):
 
-```
+```C++
 
 const int lsb_64_table[64] =
 {
@@ -203,7 +203,7 @@ int bitScanForward(U64 bb) {
 
 A slightly modified version may take one [x86](X86 "X86")-register less in 32-bit mode, but calculates bb-1 twice:
 
-```
+```C++
 
 int bitScanForwardM(BitBoard bb) {
    unsigned int folded;
@@ -217,7 +217,7 @@ int bitScanForwardM(BitBoard bb) {
 
 with this VC6 generated [x86](X86 "X86") [assembly](Assembly "Assembly") to compare:
 
-```
+```C++
 
 bitScanForward PROC NEAR                   bitScanForwardM PROC NEAR
    mov  ecx, DWORD PTR _bb$[esp-4]            mov  eax, DWORD PTR _bb$[esp-4]
@@ -243,7 +243,7 @@ bitScanForward ENDP                        bitScanForward ENDP
 
 [Walter Faxon's](Walter_Faxon "Walter Faxon") 32-bit friendly magic bitscan [[10]](#cite_note-10) uses a fast none minimal [perfect hashing](Hash_Table#PerfectHashing "Hash Table") function:
 
-```
+```C++
 
 const char LSB_64_table[154] =
 {
@@ -282,7 +282,7 @@ int bitScanForward(U64 bb)
 
 A slightly modified version may take one [x86](X86 "X86")-register less in 32-bit mode, but calculates bb-1 twice:
 
-```
+```C++
 
 int bitScanForward(U64 bb)
 {
@@ -546,7 +546,7 @@ Another idea is to apply a [modulo](General_Setwise_Operations#Modulo "General S
 | `0x8000000000000000` |  42
 |
 
-```
+```C++
 
 /**
  * trailingZeroCount
@@ -575,7 +575,7 @@ Since div/mod is an expensive instruction, a [modulo by a constant](General_Setw
 
 This is a broad group of bitscans that test in succession, like the trailing zero count based on [Reinhard Scharnagl's](Reinhard_Scharnagl "Reinhard Scharnagl") proposal [[13]](#cite_note-13) :
 
-```
+```C++
 
 /**
  * trailingZeroCount
@@ -626,7 +626,7 @@ int trailingZeroCount(U64 b) {
 
 What about direct calculation? On [x86](X86 "X86") this is a chain of test, set and lea instructions:
 
-```
+```C++
 
 /**
  * bitScanForward
@@ -655,7 +655,7 @@ int bitScanForward(U64 bb) {
 
 Assuming 64-bit [doubles](Double "Double") and [little-endian](Little-endian "Little-endian") structure (*not portable*). We convert the isolated [LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations") to a double and interprete the exponent:
 
-```
+```C++
 
 /**
  * bitScanForward
@@ -685,7 +685,7 @@ int bitScanForward(U64 bb)
 
 If we have a fast [population-count](Population_Count "Population Count") instruction, we can count the trailing zeros of [LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations") after subtracting one:
 
-```
+```C++
 
 // precondition bb != 0
 int bitScanForward(U64 bb) {
@@ -703,7 +703,7 @@ A bitscan **reverse** is used to find the index of the **most** significant 1 bi
 
 As introduced by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov") in 2000, for an [IA-64](Itanium "Itanium") version of [Crafty](Crafty "Crafty") [[14]](#cite_note-14) [[15]](#cite_note-15)
 
-```
+```C++
 
 /**
  * bitScanReverse
@@ -735,7 +735,7 @@ int bitScanReverse(U64 bb)
 
 A branchless and little bit obfuscated version of the devide and conquer bitScanReverse with in-register-lookup [[16]](#cite_note-16) - as tribute to [Frank Zappa](Category:Frank_Zappa "Category:Frank Zappa") with identifiers from [Freak Out!](https://en.wikipedia.org/wiki/Freak_Out!) (1966), [Hot Rats](https://en.wikipedia.org/wiki/Hot_Rats) (1969), [Waka/Jawaka](https://en.wikipedia.org/wiki/Waka/Jawaka) (1972), [Sofa](https://en.wikipedia.org/wiki/Sofa_%28Frank_Zappa_song%29) (1975), [One Size Fits All](https://en.wikipedia.org/wiki/One_Size_Fits_All_%28Frank_Zappa_album%29) (1975), [Sheik Yerbouti](https://en.wikipedia.org/wiki/Sheik_Yerbouti) (1979), and [Jazz from Hell](https://en.wikipedia.org/wiki/Jazz_from_Hell) (1986):
 
-```
+```C++
 
 typedef unsigned __int64 OneSizeFits;
 typedef unsigned int HotRats;
@@ -775,7 +775,7 @@ HotRats freakOut(OneSizeFits all) {
 
 While the [tribute](BitScan#FrankZappa "BitScan") to [Frank Zappa](Category:Frank_Zappa "Category:Frank Zappa") is quite 32-bit friendly [[17]](#cite_note-17), [Kim Walisch](Kim_Walisch "Kim Walisch") suggested to use the [parallel prefix fill](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") for a [MS1B](General_Setwise_Operations#TheMostSignificantOneBitMS1B "General Setwise Operations") separation with the same [De Bruijn](De_Bruijn_Sequence "De Bruijn Sequence") multiplication and lookup as in his [bitScanForward](BitScan#KimWalisch "BitScan") routine with [separated LS1B](General_Setwise_Operations#LS1BSeparation "General Setwise Operations"), with less instructions in 64-bit mode. A log base 2 method was already devised by Eric Cole on January 8, 2006, and shaved off rounded up to one less than the next power of 2 by Mark Dickinson [[18]](#cite_note-18) on December 10, 2009, as published in Sean Eron Anderson's *Bit Twiddling Hacks* for 32-bit integers [[19]](#cite_note-19).
 
-```
+```C++
 
 const int index64[64] = {
     0, 47,  1, 56, 48, 27,  2, 60,
@@ -813,7 +813,7 @@ int bitScanReverse(U64 bb) {
 
 Assuming 64-bit [doubles](Double "Double") and [little-endian](Little-endian "Little-endian") structure (*not portable*!). Conversion to a double, interpreting the exponent. To avoid possible rounding errors, some lower bits may be cleared.
 
-```
+```C++
 
 /**
  * bitScanReverse
@@ -849,7 +849,7 @@ One can replace bitScanReverse of non empty sets by leadingZeroCount xor 63. Lik
 
 While the presented bitscan routines are suited to work only on none empty sets and return a value-range from 0 to 63 as bit-index, leading or trailing zero-count instructions or routines leave 64 for empty sets. Zero-counting has a immanent property of dealing correctly with empty sets - while it likely takes a conditional branch to implement this semantic in bit-scanning.
 
-```
+```C++
 
 int trailingZeroCount(U64 bb) {
     if ( bb )
@@ -869,7 +869,7 @@ int leadingZeroCount(U64 bb) {
 
 While [traversing sets](Bitboard_Serialization "Bitboard Serialization"), one may combine bitscanning with reset found bit. That implies passing the bitboard per reference or pointer, and tends to confuse compilers to keep all inside registers inside a typical serialization loop [[23]](#cite_note-23) [[24]](#cite_note-24).
 
-```
+```C++
 
 int bitScanForwardWithReset(U64 &bb) { // also called dropForward
     int idx = bitScanForward(bb);
@@ -883,7 +883,7 @@ int bitScanForwardWithReset(U64 &bb) { // also called dropForward
 
 This generalized bitscan uses a boolean parameter to scan reverse or forward. It relies on bitScanReverse, but conditionally masks the [LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations") in case of scanning forward. It might be used in the [classical approach](Classical_Approach "Classical Approach") to get positive or negative ray directions with one generalized routine.
 
-```
+```C++
 
  /**
  * generalized bitScan
@@ -909,7 +909,7 @@ This generalized bitscan uses a boolean parameter to scan reverse or forward. It
 
 [x86-64](X86-64 "X86-64") processors have [bitscan instructions](X86-64#gpinstructions "X86-64") and can be accessed with compilers today through either [inline assembly](Assembly#InlineAssembly "Assembly") or compiler intrinsics. For the Microsoft/Intel C compiler, the intrinsics can be accessed by including and using the instructions *\_BitScanForward64* [[25]](#cite_note-25) , *\_BitScanReverse64* [[26]](#cite_note-26) or \_lzcnt64 [[27]](#cite_note-27) .
 
-```
+```C++
 
 unsigned char_BitScanForward64(unsigned long * Index,  unsigned __int64 Mask);
 unsigned char _BitScanReverse64(unsigned long * Index,  unsigned __int64 Mask);
@@ -919,7 +919,7 @@ unsigned __int64 __lzcnt64(unsigned __int64 value); // AMD K10 only see CPUID
 
 [Linux](Linux "Linux") provides library functions [[28]](#cite_note-28) , find first bit set (ffsll) in a word leaves an index of 1..64, and zero of no bit is set [[29]](#cite_note-29) . [GCC](Free_Software_Foundation#GCC "Free Software Foundation") 4.4.5 further has the Built-in Function *\_builtin_ffsll* for finding the least significant one bit, *\_builtin_ctzll* for trailing, and *\_builtin_clzll* for leading zero count [[30]](#cite_note-30) :
 
-```
+```C++
 
 /* Returns one plus the index of the least significant 1-bit of x, or if x is zero, returns zero */
 int __builtin_ffsll (unsigned long long);
@@ -938,7 +938,7 @@ int __builtin_clzll (unsigned long long);
 
 For the GNU C compiler, the intrinsics can be emulated with [inline assembly](Assembly#InlineAssembly "Assembly") [[31]](#cite_note-31) .
 
-```
+```C++
 
 //These processor instructions work only for 64-bit processors
 ##ifdef _MSC_VER
@@ -982,7 +982,7 @@ For the GNU C compiler, the intrinsics can be emulated with [inline assembly](As
 
 Alternatively, rather than to emulate the intrinsics one might use the standard prototype, by using intrinsics or [inline assembly](Assembly#InlineAssembly "Assembly") for [GCC](Free_Software_Foundation#GCC "Free Software Foundation") [[32]](#cite_note-32) :
 
-```
+```C++
 
 ##ifdef USE_X86INTRINSICS
 ##include <intrin.h>

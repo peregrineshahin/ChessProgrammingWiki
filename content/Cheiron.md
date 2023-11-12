@@ -25,17 +25,17 @@ a chess program by [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"). [Cheiron](https://de.w
 
 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```
+```C++
 In [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology), [Cheiron](https://en.wikipedia.org/wiki/Chiron) was the wisest of all [centaurs](https://en.wikipedia.org/wiki/Centaur) and the teacher of many heroes. The program Cheiron is written in [C](C "C"). It is an [alpha-beta](Alpha-Beta "Alpha-Beta") program using most of the known state-of-the-art heuristics including [killer heuristics](Killer_Heuristic "Killer Heuristic"), [transposition table](Transposition_Table "Transposition Table"), [aspiration search](Aspiration_Windows "Aspiration Windows"), plausible [move ordering](Move_Ordering "Move Ordering"), [iterative deepening](Iterative_Deepening "Iterative Deepening"), [selective deepening](Extensions "Extensions") etc. [Null moves](Null_Move_Pruning "Null Move Pruning"), however, are not used. The [quiescence search](Quiescence_Search "Quiescence Search") is quite large and examines some tactical motifs, particularly [mating](Checkmate "Checkmate") and [promotion](Promotions "Promotions") threats. 
 
 ```
 
-```
+```C++
 Apart from the [move generator](Move_Generation "Move Generation"), the [evaluation function](Evaluation_Function "Evaluation Function") is the most expensive part of the program. It examines the [pawn structure](Pawn_Structure "Pawn Structure"), [king's security](King_Safety "King Safety"), static positions of the pieces, [everlasting knights](Outposts "Outposts") etc. as well as special situations in the [endgame](Endgame "Endgame") (e.g. there are positions when two pawns are more worth than a rook). 
 
 ```
 
-```
+```C++
 On a [Pentium](X86 "X86") 90MHz the program will search about 10,000 [nodes per second](Nodes_per_Second "Nodes per Second"). Cheiron is more a [positional](Strategy "Strategy") playing than a [tactical](Tactics "Tactics") playing program. Cheiron uses an [opening book](Opening_Book "Opening Book") containing about 12,000 positions to get a good start into the game. Using the [Bednorz-Toennissen test](index.php?title=BT-Test&action=edit&redlink=1 "BT-Test (page does not exist)"), Cheiron has an estimated rating of 2100 ELO on a 50MHz [PC](IBM_PC "IBM PC"). Tournament results against humans supports this number. Originally, the program was developed for [Unix](Unix "Unix") boxes, but a version has been developed with a [graphical interface](GUI "GUI") using [Turbo C](C "C") in a [DOS](MS-DOS "MS-DOS")-[Windows 3.1](Windows "Windows") environment. 
 
 ```

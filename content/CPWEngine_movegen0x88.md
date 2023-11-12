@@ -7,7 +7,7 @@ This page holds the movegenerator of the engine CPW. For function definitions se
 
 Current version contains just one move generator with some conditional statements deciding whether we generate a full set of moves, or captures only. This is of course suboptimal, but the speed loss is really small. For that reason we postpone writing a separate capture generator until we are 100% sure about the exact shape of te smove struct, board representation etc.
 
-```
+```C++
 
 ##include "stdafx.h"
 ##include "0x88_math.h"

@@ -64,7 +64,7 @@ The programs of Henne and Nitsche were famous for their very small and selective
 
 
 
-```
+```C++
 MEPHISTO 3 divides the decision tree into 3 sections
 
 ```

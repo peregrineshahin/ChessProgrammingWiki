@@ -53,7 +53,7 @@ In June 2010, [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") made following stat
 
 
 
-```
+```C++
 Ippolit is disassembled Rybka 3 with changes. The changes are considerable but not even close to enough to leave any doubt. Robbolito is an evolved Ippolit, with more changes and more cleanup. I haven't checked the other new engines yet. 
 
 ```

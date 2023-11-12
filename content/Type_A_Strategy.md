@@ -26,13 +26,13 @@ from Shannon's *Programming a Computer for Playing Chess*:
 
 
 
-```
+```C++
 A two-move strategy (based on considering all variations out to 2 moves) is given by
 
 ```
 
 
-```
+```C++
 
   Max  Min   Max    Min    f(M_ijkl M_ijk M_ij M_i P)
   M_i  M_ij  M_ijk  M_ijkl                                 . . . . (1)
@@ -40,13 +40,13 @@ A two-move strategy (based on considering all variations out to 2 moves) is give
 ```
 
 
-```
+```C++
 A strategy of this sort, in which all variations are considered out to a definite number of moves and the move then determined form a formula such as will be called type A strategy. The type A strategy has certain basic weaknesses, which we will discuss later, but is conceptually simple, and we will first show how a computer can be programmed for such a strategy.
 
 ```
 
 
-```
+```C++
 Unfortunately a machine operating according to the type A strategy would be both slow and a weak player. It would be slow since even if each position were evaluated in one microsecond (very optimistic) there are about 10^9 evaluations to be made after three moves (for each side). Thus, more than 16 minutes would be required for a move, or 10 hours for its half of a 40-move game.
 
 ```

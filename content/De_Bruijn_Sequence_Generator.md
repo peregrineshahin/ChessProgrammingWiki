@@ -15,7 +15,7 @@ A [recursive](Recursion "Recursion") backtracking implementation of a [64-bit](B
 
 ## Program Output
 
-```
+```C++
 
 C:\source\DeBruijn>debruijn 4061955
 
@@ -41,7 +41,7 @@ unsigned int bitScanForward (BitBoard b) {
 
 ## Source
 
-```
+```C++
 
 ##include <stdio.h>
 ##include <stdlib.h>

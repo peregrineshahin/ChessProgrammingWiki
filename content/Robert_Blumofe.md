@@ -33,7 +33,7 @@ He holds a Ph.D. in Computer Science from [MIT](Massachusetts_Institute_of_Techn
 
 
 
-```
+```C++
 [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), Robert D. Blumofe, [Yuli Zhou](Yuli_Zhou "Yuli Zhou"), and [Michael Halbherr](Michael_Halbherr "Michael Halbherr") all contributed to making the chess program work and to developing the underlying parallel technology used in *Socrates. [Don Dailey](Don_Dailey "Don Dailey") and [Larry Kaufman](Larry_Kaufman "Larry Kaufman") of [Heuristic Software](Heuristic_Software "Heuristic Software") provided the serial program, [Socrates](Socrates "Socrates"), on which our parallel program is based, and Don worked many hours to help us get our parallel program working. [Hans Berliner](Hans_Berliner "Hans Berliner") and [Chris McConnell](Chris_McConnell "Chris McConnell") of [CMU](Carnegie_Mellon_University "Carnegie Mellon University") provided the serial version of [Hitech](HiTech "HiTech") that we first used as a testbed to develop our ideas for [parallel game tree search](Parallel_Search "Parallel Search"). 
 
 ```

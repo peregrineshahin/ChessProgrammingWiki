@@ -31,7 +31,7 @@ Abstract of *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*
 
 
 
-```
+```C++
 The heuristic program discussed searches for a constructive proof or disproof of a given proposition. It uses a search procedure which efficiently selects the seemingly best proposition to work on next. This program is multipurpose in that the domains it can handle are varied. As an initial experiment, the program was given the task of searching for proofs and disproofs of propositions about [Kalah](Kalah "Kalah") end games. Kalah is a two-person game. In another experiment the program, after some modifications, played the game of Kalah. This program was compared with another tree-searching procedure, the [Alpha-Beta](Alpha-Beta "Alpha-Beta") minimax procedure; the results have been encouraging since the program is fast and efficient. Its greatest usefulness is in solving large problems. It is hoped that this program has added one more step toward the goal of eventually obtaining computer programs which can solve intellectually difficult problems. 
 
 ```

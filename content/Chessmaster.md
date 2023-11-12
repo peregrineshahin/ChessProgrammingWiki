@@ -95,7 +95,7 @@ Chessmaster XI - House of Staunton chess sets, [3D Graphics Board](3D_Graphics_B
 
 Chessmaster was first released as Chessmaster **2000** in **1986** by [Software Toolworks, Inc.](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"), a software and computer game publisher located in [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) [[10]](#cite_note-10), co-developed by its founder [Walt Bilofsky](index.php?title=Walt_Bilofsky&action=edit&redlink=1 "Walt Bilofsky (page does not exist)") [[11]](#cite_note-11) and [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") [[12]](#cite_note-12), with a chess engine by [David Kittinger](David_Kittinger "David Kittinger"), loosely based on [MyChess II](MyChess "MyChess") published by the same vendor since 1984 [[13]](#cite_note-13) . CM 2000 was released for various 8- and 16-bit [home computer](https://en.wikipedia.org/wiki/Home_computer) platforms based on [6502](6502 "6502"), [Z80](Z80 "Z80"), [68000](68000 "68000") and [8086](8086 "8086") processors, such as [Amiga](Amiga "Amiga"), [Apple II](Apple_II "Apple II"), [Atari 8-bit](Atari_8-bit "Atari 8-bit"), [Atari ST](Atari_ST "Atari ST"), [ZX Spectrum](ZX_Spectrum "ZX Spectrum"), [Commodore 64](Commodore_64 "Commodore 64"), [Amstrad CPC](Amstrad_CPC "Amstrad CPC"), [Macintosh](Macintosh "Macintosh"), and [DOS](MS-DOS "MS-DOS") [PCs](IBM_PC "IBM PC"). The PC version was a rewrite in [C](C "C") based on the 6502 [assembly](Assembly "Assembly") version [[14]](#cite_note-14), which also went into [Novag's](Novag "Novag") dedicated [Constellation](Constellation "Constellation") some years before, as mentioned by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") in the [USOCCC 1986](USOCCC_1986 "USOCCC 1986") tournament report [[15]](#cite_note-15):
 
-```
+```C++
 [Novag's](Novag "Novag") programmer Dave Kittinger also was the programmer of the three PC software entries under the name "Chessmaster". As they employ a version of the rather dated "Constellation" program they were not expected to be competitive with the dedicated units, except for "Chessmaster 2000 Apple" which employed extensive technology to run at high speed. 
 
 ```
@@ -108,7 +108,7 @@ After a deal with [Fidelity Electronics](Fidelity_Electronics "Fidelity Electron
 
 The *Chessmaster **3000*** was released in **1991** for [MS-DOS](MS-DOS "MS-DOS") and [Windows 3.x](Windows "Windows") PCs, as well for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh"), based on a Kittinger program as confirmed by [John Merlino](John_Merlino "John Merlino") [[18]](#cite_note-18) [[19]](#cite_note-19) [[20]](#cite_note-20), and mentioned in [CCR 5.1](Computer_Chess_Reports "Computer Chess Reports") [[21]](#cite_note-21):
 
-```
+```C++
 Kittinger's first program for personal computers was incorporated into the popular program Chessmaster 2000 developed by [Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"). Kittinger's program was then modified and used in some of the versions of Chessmaster 2100 and Chessmaster 3000. 
 
 ```

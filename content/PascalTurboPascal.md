@@ -60,7 +60,7 @@ A sample of a [recursive](Recursion "Recursion") [Search](Search "Search") routi
 
 
 
-```
+```C++
 
 {----------------------------------------------------------------------------}
 {  Search:  This routine handles all of the tree searching except the first  }

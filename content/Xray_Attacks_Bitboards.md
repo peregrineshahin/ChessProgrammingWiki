@@ -9,7 +9,7 @@ The term **X-ray attack** was apparently originated by [Kenneth Harkness](https:
 
 
 
-```
+```C++
 There is another type of double attack in which the targets are threatened in one direction. The attacking piece threatens two units, one behind the other, on the same rank, file or diagonal. This double threat has lacked a good descriptive name. We suggest ‘X-Ray’ attack. 
 
 ```
@@ -86,7 +86,7 @@ Following routines may be used to get all kind of x-ray attacks or defenses thro
 
 
 
-```
+```C++
 
 U64 xrayRookAttacks(U64 occ, U64 blockers, enumSquare rookSq) {
    U64 attacks = rookAttacks(occ, rookSq);
@@ -107,7 +107,7 @@ Alternatively one may use a condition to save the second lookup - one may use di
 
 
 
-```
+```C++
 
 U64 xrayFileAttacks(U64 occ, U64 blockers, enumSquare rookSq) {
    U64 attacks = fileAttacks(occ, rookSq);
@@ -144,7 +144,7 @@ Another idea is to consider all kind of blockers in one run, and to traverse int
 
 
 
-```
+```C++
 
 rook      00001000
 occupied  01011010
@@ -165,7 +165,7 @@ If keeping eight disjoint ray-direction attacks from fill-routines like [Kogge-S
 
 
 
-```
+```C++
 
 U64 xrayAttacks(U64 sliders, U64 empty, U64 blockers, int dir8) {
    U64 attacks = slidingAttacks (sliders, empty, dir8);
@@ -185,7 +185,7 @@ The other idea is to fill the potential target set, and to intersect it with the
 
 
 
-```
+```C++
 
 U64 betweenSliderAndTarget(U64 sliders, U64 empty, U64 targets, int dir8) {
    U64 attacks    = slidingAttacks (sliders, empty, dir8);

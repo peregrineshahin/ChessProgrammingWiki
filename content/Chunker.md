@@ -26,7 +26,7 @@ Due to its chunk library of king versus three [connected passers](Connected_Pass
 | --- |
 |                                                                                             ♚        ♟♟♟                                ♙♙♙        ♔     |
 
-```
+```C++
 4k3/5ppp/8/8/8/8/PPP5/3K4 w - - 
 
 ```
@@ -35,7 +35,7 @@ Due to its chunk library of king versus three [connected passers](Connected_Pass
 
 *Using Chunking to Solve Chess Pawn Endgames* <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
-```
+```C++
 CHUNKER is a chess program that uses chunked knowledge to improve its performance. Its domain is a subset of king and pawn endings in chess that has been studied for over 300 years. CHUNKER has a large library of chunk instances where each chunk type has a property list and each instance has a set of values for these properties. This allows CHUNKER to reason about positions that come up in the search that would otherwise have to be handled by means of additional search. Thus the program is able to solve the most difficult problem of its present domain (a problem that would require 45 ply of search and on the order of 1013 years of CPU time to be solved by the best of present day chess programs) in 18 ply and one minute of CPU time. Further, CHUNKER is undoubtedly the world's foremost expert in its domain, and has discovered 2 mistakes in the literature and has been instrumental in discovering a new theorem about the domain that allows the assessing of positions with a new degree of ease and confidence. In this paper we show how the libraries are compiled, how CHUNKER works, and discuss our plans for extending it to play the whole domain of king and pawn endings. 
 
 ```

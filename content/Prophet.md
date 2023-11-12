@@ -50,7 +50,7 @@ Prophet2 uses [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") with 1/
 
 
 
-```
+```C++
 
 Bitmap diag_a1h8_attacks[64][256];
 Bitmap diag_h1a8_attacks[64][256];
@@ -82,7 +82,7 @@ Similar to [Amundsen](Amundsen#BitScan "Amundsen"), the [memory](Memory "Memory"
 
 
 
-```
+```C++
 
 int  num_bits[65536];
 int  lsb[65536];

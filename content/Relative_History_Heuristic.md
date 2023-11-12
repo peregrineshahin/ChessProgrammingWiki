@@ -26,7 +26,7 @@ The **Relative History Heuristic** was proposed by [Mark Winands](Mark_Winands "
 
 
 
-```
+```C++
 The disadvantage of the history heuristic is that it is biased towards moves that occur more often in a game than others. However, the history heuristic has as implicit assumption that all the legal moves occur roughly with the same frequency in the game (tree). For instance, assume we have a move which is quite successful when applicable (e.g., it then causes a cut-off) but it does not occur so often as a legal move in the game tree. This move will not obtain a high history score and is therefore ranked quite low in the move ordering. 
 
 ```
@@ -39,13 +39,13 @@ The idea is to make the history scores (hhScore) relative to the scores of the [
 
 
 
-```
+```C++
 We believe that we can considerably improve the performance of the history heuristic in some games by making it relative instead of absolute: The score used to order the moves (movescore) is given by the following formula: 
 
 ```
 
 
-```
+```C++
 
 moveScore = hhScore / bfScore;
 
@@ -56,7 +56,7 @@ or dependent on the increments:
 
 
 
-```
+```C++
 
 moveScore = (Scale * hhScore) / bfScore;
 
@@ -67,7 +67,7 @@ Winands experienced with several increments for hhScore and bfScore, namely {1, 
 
 
 
-```
+```C++
 
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) )
@@ -89,7 +89,7 @@ Other approaches of relative history heuristic - proposed by [Robert Hyatt](Robe
 
 
 
-```
+```C++
 
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) ) 

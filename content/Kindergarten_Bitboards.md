@@ -50,7 +50,7 @@ We need 'B'-'G' as six bit number:
 
 
 
-```
+```C++
 
 masked line      *  B-File           =  B-G upper six       occupancy 6 bit
 . . . . . . . H     . 1 . . . . . .     . A[B C . E F G]    . . . . . . . .
@@ -69,7 +69,7 @@ The pre-calculated lookup-table contains the [attacks of the first rank](First_R
 
 
 
-```
+```C++
 
 8 copies of rank      the attack set
 attacks & l-mask  ->  of this line
@@ -89,7 +89,7 @@ Since all [ranks](Ranks "Ranks"), [diagonals](Diagonals "Diagonals") and [anti-d
 
 
 
-```
+```C++
 
 masked line      *  B-File           =  B-G upper six       occupancy 6 bit
 . . . . . . . .     . 1 . . . . . .     H .[B C . E F G]    . . . . . . . .
@@ -108,7 +108,7 @@ Appropriate pre-calculated attack bits are represented by 'b'-'h' here:
 
 
 
-```
+```C++
 
 8 copies of rank      the attack set   or  the attack set
 attacks & l-mask  ->  of this line     ->  of the shorter diagonal
@@ -137,7 +137,7 @@ The three routines only differ by the line-mask applied. As pointed out by [Alek
 
 
 
-```
+```C++
 
 U64 fillUpAttacks[8][64];  // 4 KByte
 
@@ -176,7 +176,7 @@ One may use similar structs for the line-masks than the [hyperbola quintessence]
 
 
 
-```
+```C++
 
 U64 aFileAttacks [8][64];  // 4 KByte
 
@@ -195,7 +195,7 @@ This is how it works:
 
 
 
-```
+```C++
 
 masked A-file    *  c2-h7 Diagonal    =  occupancy
 H . . . . . . .     . . . . . . . .     . .[G F E D C B]    . . . . . . . .
@@ -214,7 +214,7 @@ Note that the six inner bit occupancy is reversed - considered in the pre-calcul
 
 
 
-```
+```C++
 
 masked A-file    *  c7-h2 AntiDiag   =  occupancy
 H . . . . . . .     . . . . . . . .     . .[B C D E F G]    . . . . . . . .
@@ -236,7 +236,7 @@ As often, [computation versus memory size](Space-Time_Tradeoff "Space-Time Trade
 
 
 
-```
+```C++
 
 const BYTE firstRankAttacks[8][64];
 
@@ -278,7 +278,7 @@ It is quite strange, yes, but it is an out of order mapping. There are only 5 bi
 
 
 
-```
+```C++
 
 occ
 . . . . . . . .
@@ -297,7 +297,7 @@ The interesting thing is that this works for any masked file. In fact if it was 
 
 
 
-```
+```C++
 
 U64 arrFileAttacks[64][64]; // [sq][occ64] 32KByte
 
@@ -315,7 +315,7 @@ Ranks and diagonals are trivial, this version favors rotated like memory size fo
 
 
 
-```
+```C++
 
 U64 arrDiagonalAttacks[64][64]; // [sq][occ64] 32KByte
 
@@ -353,7 +353,7 @@ Grant's proposal, so far with {5,4,4,5,5,4,4,5} bit ranges for the lookups per s
 
 
 
-```
+```C++
 
 U64 aFileAttacks[4*32+4*16]; // 1.5KByte
 U64 aPtrFileAttacks[8]; // points to appropriate aFileAttacks

@@ -31,7 +31,7 @@ TC86 applies [alpha-beta](Alpha-Beta "Alpha-Beta") and performs [move generation
 
 
 
-```
+```C++
 
                   104            ;ROUTINE TO GENERATE ALL LEGAL MOVES
                   105            ;FOR KNIGHT OR KING

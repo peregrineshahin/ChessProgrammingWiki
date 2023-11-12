@@ -69,7 +69,7 @@ During the [opening](Opening "Opening"), in some lines, White may intentionally 
 
 An [8x8 Board](8x8_Board "8x8 Board") with a [rank-file mapping](Squares "Squares"), needs to perform an [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") with 56 (A8 in [LERF](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations")) to vertically flip square coordinates. Assuming piece color is least significant bit and empty square is zero, a pure 8x8 Board may be color flipped that way in [C](C "C"):
 
-```
+```C++
 
 int board[64], sq, s, f;
 
@@ -98,7 +98,7 @@ An idea to unify and simplify [move generation](Move_Generation "Move Generation
 
 [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") proposed a make move - color flipping approach using [Quad-Bitboards](Quad-Bitboards "Quad-Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . The black [Zobrist keys](Zobrist_Hashing "Zobrist Hashing") were the byte-swapped white Zobrist keys from the vertically flipped squares (xor 56). In symmetrical positions this gains some additional hits while probing the [transposition table](Transposition_Table "Transposition Table"). But symmetrical mirror positions, or symmetrical subsets have the property, their [xored](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") hashkey has only 32 distinct bits since hashkey equals [flipVertical](Flipping_Mirroring_and_Rotating#FlipVertically "Flipping Mirroring and Rotating")(hashkey), for instance:
 
-```
+```C++
 
   01020304|50607080  // white pieces
 ^ 80706050|04030201  // black pieces of a mirror position

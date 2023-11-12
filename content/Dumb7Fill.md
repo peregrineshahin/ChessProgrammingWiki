@@ -29,7 +29,7 @@ the obvious, straight forward [flood-fill](https://en.wikipedia.org/wiki/Flood_f
 
 We rely on the [compass rose](https://en.wikipedia.org/wiki/Compass_rose) to identify ray-directions.
 
-```
+```C++
 
   noWe         nort         noEa
           +7    +8    +9
@@ -54,7 +54,7 @@ An [occluded](http://www.thefreedictionary.com/occluded) fill includes the flood
 
 The sliding pieces generate the flood. They were [shifted one step](General_Setwise_Operations#OneStepOnly "General Setwise Operations") in the desired direction and [intersected](General_Setwise_Operations#Intersection "General Setwise Operations") with the set of empty squares, the propagator. The flood aggregates the intersection and the cycle repeats six further times to cover the maximum [distance](Distance "Distance") on the [chessboard](Chessboard "Chessboard"). A blocker, not member of propagator, stops the flood in that particular ray-direction for one sliding piece. Therefor occluded fill contains the initial generator but excludes any blocker.
 
-```
+```C++
 
 U64 soutOccl(U64 gen, U64 pro) {
    for (int cycle = 0; cycle < 7; cycle++)
@@ -68,7 +68,7 @@ U64 soutOccl(U64 gen, U64 pro) {
 
 Alternatively one may save move-instructions by introducing an explicit flood accumulator, and to probably terminate the loop early if the flood stops:
 
-```
+```C++
 
 U64 soutOccl(U64 gen, U64 pro) {
    U64 flood = 0;
@@ -85,7 +85,7 @@ U64 soutOccl(U64 gen, U64 pro) {
 
 To [avoid conditional branches](Avoiding_Branches "Avoiding Branches") and to schedule several directions in parallel, the "real" dumb7fill unrolls the loop:
 
-```
+```C++
 
 U64 soutOccl(U64 gen, U64 pro) {
    U64 flood = gen;
@@ -103,7 +103,7 @@ U64 soutOccl(U64 gen, U64 pro) {
 
 Some south fill cycles in slow motion:
 
-```
+```C++
 
 flood = gen =
 brooks|bqueen       empty
@@ -167,7 +167,7 @@ The flood already stopped, the final 7th fill cycles don't change anything.
 
 To get attacks, one additional [direction shift](General_Setwise_Operations#OneStepOnly "General Setwise Operations") of the occluded fill is necessary to exclude the rooks/queen and include the blocker:
 
-```
+```C++
 
 U64 soutAttacks (U64 rooks, U64 empty) {return soutOne(soutOccl(rooks, empty));}
 
@@ -177,7 +177,7 @@ U64 soutAttacks (U64 rooks, U64 empty) {return soutOne(soutOccl(rooks, empty));}
 
 To combine the dumb7fill as attack getter, we also can take advantage of [outer square](First_Rank_Attacks#TheOuterSquares "First Rank Attacks") occupancy doesn't affect the attack set. We need one fill cycle less, before the final shift. That takes 19 operations. In anticipation to [parallel prefix](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms"), a [Kogge-Stone](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") approach takes 14 instructions, 5 less. Kogge-Stone needs more move-instructions and a temporary register to compute generator as well as propagator, while dumb7fill uses a const propagator:
 
-```
+```C++
 
 dumb7fill                                  | Kogge-Stone Algorithm
                                            |
@@ -235,7 +235,7 @@ Thus, dumb7fill is not that bad, specially if processing several directions in p
 
 ## All Directions
 
-```
+```C++
 
 U64 soutAttacks(U64 rooks, U64 empty) {
    U64 flood = rooks;
@@ -263,7 +263,7 @@ U64 nortAttacks(U64 rooks, U64 empty) {
 
 Horizontal fills need to consider wraps from H-file to A-file and vice versa. Fortunately this can be combined by intersection of ~A-file or ~H-file with the propagator:
 
-```
+```C++
 
 U64 eastAttacks(U64 rooks, U64 empty) {
    const U64 notA = C64(0xfefefefefefefefe);
@@ -353,7 +353,7 @@ Since [rotate](General_Setwise_Operations#Rotate "General Setwise Operations") w
 
 This is the loop-version:
 
-```
+```C++
 
 U64 occludedFill (U64 gen, U64 pro, int dir8) {
    U64 flood = 0;
@@ -397,7 +397,7 @@ U64 avoidWrap[8] =
 
 The avoidWrap masks by some arbitrary dir8 enumeration and shift amount:
 
-```
+```C++
 
 6 == noWe -> +7     7 == nort -> +8     0 == noEa -> +9
 0x7F7F7F7F7F7F7F00  0xFFFFFFFFFFFFFF00  0xFEFEFEFEFEFEFE00
@@ -438,7 +438,7 @@ The avoidWrap masks by some arbitrary dir8 enumeration and shift amount:
 
 The generalized unrolled sliding attack getter:
 
-```
+```C++
 
 U64 slidingAttacks (U64 sliders, U64 empty, int dir8) {
    U64 flood = sliders;

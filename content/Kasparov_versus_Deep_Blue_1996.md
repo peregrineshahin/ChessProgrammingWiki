@@ -66,7 +66,7 @@ Rc8 39.Bf6+ Kh7 40.c6 bxc6 41.Qc5 Kh6 42.Rb2 Qb7 43.Rb4 1–0
 
  
 
-```
+```C++
 2rr2k1/pp1qnppp/2n1p3/3p4/1bPP3P/1P2RNP1/PB3P2/1BRQ2K1 w - - 0 20 
 
 ```

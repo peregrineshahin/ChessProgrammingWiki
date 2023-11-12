@@ -58,7 +58,7 @@ This is about
 - [flipping along the diagonal](#FlipabouttheDiagonal)
 - [flipping along the antidiagonal](#FlipabouttheAntidiagonal)
 
-```
+```C++
 
 . 1 1 1 1 . . .   . 1 1 1 1 . . .   . 1 1 1 1 . . .   . 1 1 1 1 . . .
 . 1 . . . 1 . .   . 1 . . . 1 . .   . 1 . . . 1 . .   . 1 . . . 1 . .
@@ -84,7 +84,7 @@ This is about
 
 ### Vertical
 
-```
+```C++
 
 . 1 1 1 1 . . .     . 1 . . . 1 . .
 . 1 . . . 1 . .     . 1 . . 1 . . .
@@ -99,7 +99,7 @@ This is about
 
 Flipping a bitboard **vertical** reverses all eight bytes - it performs a little- big-endian conversion or vice versa. A scalar square may be flipped vertically by xor 56.
 
-```
+```C++
 
 sq' = sq ^ 56;
 
@@ -107,7 +107,7 @@ sq' = sq ^ 56;
 
 The obvious approach with 21 operations, note that the shifts by 56 don't need masks:
 
-```
+```C++
 
 /**
  * Flip a bitboard vertically about the centre ranks.
@@ -130,7 +130,7 @@ U64 flipVertical(U64 x) {
 
 The [parallel prefix](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms")-approach takes 13 operations, to swap bytes, words and double-words in a [SWAR-wise](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") manner, performing three [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations"):
 
-```
+```C++
 
 /**
  * Flip a bitboard vertically about the centre ranks.
@@ -151,7 +151,7 @@ U64 flipVertical(U64 x) {
 
 Using the [x86-64](X86-64 "X86-64") [\_byteswap_uint64](X86-64#gpinstructions "X86-64") or bswap64 intrinsics only takes one processor instruction in 64-bit mode.
 
-```
+```C++
 
 /**
  * Flip a bitboard vertically about the centre ranks.
@@ -167,7 +167,7 @@ U64 flipVertical(U64 x) {
 
 ### Horizontal
 
-```
+```C++
 
 . 1 1 1|1 . . .     . . . 1 1 1 1 .
 . 1 . . . 1 . .     . . 1 . . . 1 .
@@ -182,7 +182,7 @@ U64 flipVertical(U64 x) {
 
 Horizontal mirroring reverses the bits of each byte. A scalar square may be mirrored horizontally by xor 7.
 
-```
+```C++
 
 sq' = sq ^ 7;
 
@@ -190,7 +190,7 @@ sq' = sq ^ 7;
 
 The [parallel prefix](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms")-algorithm swaps bits, bit-duos and [nibbles](Nibble "Nibble") in a [SWAR-wise](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") manner, performing three [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations"), 15 operations:
 
-```
+```C++
 
 /**
  * Mirror a bitboard horizontally about the center files.
@@ -212,7 +212,7 @@ U64 mirrorHorizontal (U64 x) {
 
 Replacing bitwise 'or' of disjoint sets by 'add' and shift left by appropriate multiply - taking advantage of x86 lea instruction for multiplication with 2 and 4:
 
-```
+```C++
 
 /**
  * Mirror a bitboard horizontally about the center files.
@@ -234,7 +234,7 @@ U64 mirrorHorizontal (U64 x) {
 
 Using [rotates](General_Setwise_Operations#Rotate "General Setwise Operations") instead of shifts in some clever way takes 13 operations (introduced by [Steffan Westcott](Steffan_Westcott "Steffan Westcott")). Disadvantage is each operation depends on the previous one, while the lea-approach gains some parallelism with same number of instructions.
 
-```
+```C++
 
 /**
  * Mirror a bitboard horizontally about the center files.
@@ -258,7 +258,7 @@ U64 mirrorHorizontal (U64 x) {
 
 In [Knuth's](Donald_Knuth "Donald Knuth") *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, page 9, Knuth interprets the *magic masks* as 2-[adic](https://en.wikipedia.org/wiki/P-adic_number) fractions [[4]](#cite_note-4) :
 
-```
+```C++
 
 k1 = ...101010101010101010101010101010101 = -1/3
 k2 = ...100110011001100110011001100110011 = -1/5
@@ -268,7 +268,7 @@ k4 = ...100001111000011110000111100001111 = -1/17
 
 How the masks look on a chess board:
 
-```
+```C++
 
 k1                  k2                  k4
 -1/3                -1/5                -1/17
@@ -286,7 +286,7 @@ k1                  k2                  k4
 
 A parametrized flip, mirror or reverse (mirror and flip) might be generalized to let the compiler produce mentioned routines with flip or mirror as constant (or template) parameter. Otherwise, without compile time constants, the division at runtime is too expensive.
 
-```
+```C++
 
 /**
  * Flip, mirror or reverse a bitboard
@@ -310,7 +310,7 @@ U64 flipMirrorOrReverse(U64 x, bool flip, bool mirror)
 
 The loop variable 'i' runs from following ranges based on the boolean (0,1) parameters 'flip' and 'mirror':
 
-```
+```C++
 
 mirror:   for (U32 i = 0; i < 3; i++)
 flip:     for (U32 i = 3; i < 6; i++)
@@ -321,7 +321,7 @@ reverse := mirror && flip
 
 With following formula for the [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations") constants ...
 
-```
+```C++
 
 shift(i)  := s(i) := 1 << i
 factor(i) := f(i) := 1 << s(i)
@@ -331,7 +331,7 @@ mask(i)   := k(i) := -1 / (f(i) + 1)
 
 ... and therefor following values for i = 0...5:
 
-```
+```C++
 
 s(0)  1
 f(0)  2
@@ -363,7 +363,7 @@ k(5)  0x00000000ffffffff = 0xffffffffffffffff / (4294967296+1)
 
 **Flip about the Diagonal**
 
-```
+```C++
 
 . 1 1 1 1 . . /     . . . . . . . .
 . 1 . . . 1 . .     . . . . . . . .
@@ -378,7 +378,7 @@ k(5)  0x00000000ffffffff = 0xffffffffffffffff / (4294967296+1)
 
 A scalar square needs to swap rank and file.
 
-```
+```C++
 
 sq' = ((sq >> 3) | (sq << 3)) & 63;
 sq' = (sq * 0x20800000) >>> 26; // unsigned 32-bit shift, zeros no sign bits from left
@@ -387,7 +387,7 @@ sq' = (sq * 0x20800000) >>> 26; // unsigned 32-bit shift, zeros no sign bits fro
 
 Performing three [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations"):
 
-```
+```C++
 
 /**
  * Flip a bitboard about the diagonal a1-h8.
@@ -413,7 +413,7 @@ U64 flipDiagA1H8(U64 x) {
 
 How the masks look on a chess board:
 
-```
+```C++
 
 k1                  k2                  k4
 0x5500550055005500  0x3333000033330000  0x0F0F0F0F00000000
@@ -432,7 +432,7 @@ k1                  k2                  k4
 
 **Flip about the Anti-Diagonal**
 
-```
+```C++
 
 \ 1 1 1 1 . . .     . . . . . . . .
 . 1 . . . 1 . .     1 1 1 1 1 1 1 1
@@ -448,7 +448,7 @@ k1                  k2                  k4
 Flip about the [Anti-Diagonal](Anti-Diagonals "Anti-Diagonals") results in the bit-reversal of flip about the Diagonal.
 Thus, a scalar square needs not only swap rank and file, but also xor 63.
 
-```
+```C++
 
 sq' = (((sq >> 3) | (sq << 3)) & 63) ^ 63;
 sq' = ((sq * 0x20800000) >>> 26) ^ 63;  // unsigned 32-bit shift
@@ -457,7 +457,7 @@ sq' = ((sq * 0x20800000) >>> 26) ^ 63;  // unsigned 32-bit shift
 
 Performing three [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations"):
 
-```
+```C++
 
 /**
  * Flip a bitboard about the antidiagonal a8-h1.
@@ -483,7 +483,7 @@ U64 flipDiagA8H1(U64 x) {
 
 How the masks look on a chess board:
 
-```
+```C++
 
 k1                  k2                  k4
 0xAA00AA00AA00AA00  0xCCCC0000CCCC0000  0xF0F0F0F00F0F0F0F
@@ -508,7 +508,7 @@ This is about
 
 Rotation can be deduced from flipping and mirroring in various ways.
 
-```
+```C++
 
                     mirrorHorizontal     flipDiagA1H8        flipDiagA8H1
 . 1 1 1 1 . . .     . . . 1 1 1 1 .     . . . . . . . .     . . . . . . . .
@@ -533,7 +533,7 @@ Rotation can be deduced from flipping and mirroring in various ways.
 
 ### By 180 degrees - Bit-Reversal
 
-```
+```C++
 
 . 1 1 1 1 . . .     . . 1 . . . 1 .
 . 1 . . . 1 . .     . . . 1 . . 1 .
@@ -548,7 +548,7 @@ Rotation can be deduced from flipping and mirroring in various ways.
 
 Rotating by 180 degrees reverses all bits in a bitboard. A scalar square may be reversed by xor 63:
 
-```
+```C++
 
 sq' = sq ^ 63; // 63 - sq;
 
@@ -556,7 +556,7 @@ sq' = sq ^ 63; // 63 - sq;
 
 Deduced from [flipping vertically](#FlipVertically) and [mirroring horizontally](#MirrorHorizontally). Both operation may be applied in different orders.
 
-```
+```C++
 
 /**
  * Rotate a bitboard by 180 degrees.
@@ -572,7 +572,7 @@ U64 rotate180 (U64 x) {
 
 The resulting code applies six [delta swaps](General_Setwise_Operations#DeltaSwap "General Setwise Operations"):
 
-```
+```C++
 
 /**
  * Rotate a bitboard by 180 degrees.
@@ -599,7 +599,7 @@ U64 rotate180 (U64 x) {
 
 ### By 90 degrees Clockwise
 
-```
+```C++
 
 . 1 1 1 1 . . .     . . . . . . . .
 . 1 . . . 1 . .     1 1 1 1 1 1 1 1
@@ -614,7 +614,7 @@ U64 rotate180 (U64 x) {
 
 A scalar square swaps rank and file plus xor 56:
 
-```
+```C++
 
 sq' = (((sq >> 3) | (sq << 3)) & 63) ^ 56;
 sq' = ((sq * 0x20800000) >>> 26) ^ 56; // unsigned 32-bit shift
@@ -623,7 +623,7 @@ sq' = ((sq * 0x20800000) >>> 26) ^ 56; // unsigned 32-bit shift
 
 Deduced from [flipping vertically](#FlipVertically) and [flipping along the antidiagonal](#FlipabouttheAntidiagonal).
 
-```
+```C++
 
 /**
  * Rotate a bitboard by 90 degrees clockwise.
@@ -638,7 +638,7 @@ U64 rotate90clockwise (U64 x) {
 
 Note that
 
-```
+```C++
 
 flipVertical (flipDiagA1H8 (x) ) == flipDiagA8H1 (flipVertical (x) )
 
@@ -646,7 +646,7 @@ flipVertical (flipDiagA1H8 (x) ) == flipDiagA8H1 (flipVertical (x) )
 
 ### By 90 degrees Anti-Clockwise
 
-```
+```C++
 
 . 1 1 1 1 . . .     . . . . . . . .
 . 1 . . . 1 . .     . . . . . . . .
@@ -661,7 +661,7 @@ flipVertical (flipDiagA1H8 (x) ) == flipDiagA8H1 (flipVertical (x) )
 
 A scalar square swaps rank and file plus xor 7:
 
-```
+```C++
 
 sq' = (((sq >> 3) | (sq << 3)) & 63) ^ 7;
 sq' = ((sq * 0x20800000) >>> 26) ^ 7;  // unsigned 32-bit shift
@@ -670,7 +670,7 @@ sq' = ((sq * 0x20800000) >>> 26) ^ 7;  // unsigned 32-bit shift
 
 Deduced from [flipping vertically](#FlipVertically) and [flipping along the diagonal](#FlipabouttheDiagonal).
 
-```
+```C++
 
 /**
  * Rotate a bitboard by 90 degrees anticlockwise.
@@ -685,7 +685,7 @@ U64 rotate90antiClockwise (U64 x) {
 
 Note that
 
-```
+```C++
 
 flipDiagA1H8 (flipVertical (x) ) == flipVertical (flipDiagA8H1 (x) )
 
@@ -699,7 +699,7 @@ The chess-board is four-fold symmetry - thus there is no real 45 degree rotation
 
 The 15 [diagonals](Diagonals "Diagonals") are enumerated by (file - rank) - [nibble](Nibble "Nibble") wise [two's complement](General_Setwise_Operations#TheTwosComplement "General Setwise Operations") F == (16) -1, 9 == (16) -7. Two shorter diagonals are file-aligned packed into one rank each. Note that the three lower bits are equal in each rank and bit three (the sign-bit inside a signed nibble) indicates a "negative" diagonal north the main diagonal.
 
-```
+```C++
 
 9 A B C D E F 0     9 1 1 1 1 1 1 1
 A B C D E F 0 1     A A 2 2 2 2 2 2
@@ -714,7 +714,7 @@ F 0 1 2 3 4 5 6     F F F F F F F 7
 
 We need to rotate the A-H files vertically by 0 to 7 ranks - done parallel prefix wise. One square is therefor mapped by:
 
-```
+```C++
 
 sq' = (sq + 8*(sq&7)) & 63;
 
@@ -724,7 +724,7 @@ The main-diagonal is rotated clockwise to the first rank - thus 45 degrees.
 
 On using xor, see [bits from two sources by a mask](General_Setwise_Operations#BitsFrom2SourcesByMask "General Setwise Operations"). See [rotate](General_Setwise_Operations#Rotate "General Setwise Operations") for the intrinsic routines.
 
-```
+```C++
 
 /**
  * Pseudo rotate a bitboard 45 degree clockwise.
@@ -746,7 +746,7 @@ U64 pseudoRotate45clockwise (U64 x) {
 
 Another pseudo rotation scheme was introduced by [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") approach. While the 45 degree rotation looks more natural at the first glance, the calculations of this mapping is more complicated.
 
-```
+```C++
 
 normal chess board bitmap          45 clockwise               45 clockwise crafty
 
@@ -778,7 +778,7 @@ A parallel prefix solution to map the normal occupancy to the visual rotated app
 
 We enumerate the 15 [anti-diagonals](Anti-Diagonals "Anti-Diagonals") by 7 ^ (file + rank), a [nibble](Nibble "Nibble") wise [two's complement](General_Setwise_Operations#TheTwosComplement "General Setwise Operations") F == -1.
 
-```
+```C++
 
 0 F E D C B A 9     1 1 1 1 1 1 1 9
 1 0 F E D C B A     2 2 2 2 2 2 A A
@@ -794,7 +794,7 @@ We enumerate the 15 [anti-diagonals](Anti-Diagonals "Anti-Diagonals") by 7 ^ (fi
 We need to rotate the A-H files vertically by 7 to 0 ranks - done parallel prefix wise.
 One square is therefor mapped by:
 
-```
+```C++
 
 sq' = (sq + 8*((sq&7)^7)) & 63;
 
@@ -804,7 +804,7 @@ The main anti-diagonal is rotated anti-clockwise to the first rank - thus 45 deg
 
 On using xor see [bits from two sources by a mask](General_Setwise_Operations#BitsFrom2SourcesByMask "General Setwise Operations"). See [rotate](General_Setwise_Operations#Rotate "General Setwise Operations") for the intrinsic routines.
 
-```
+```C++
 
 /**
  * Pseudo rotate a bitboard 45 degree anti clockwise.
@@ -838,7 +838,7 @@ Flipping about the anti-diagonal multiplies with the main-diagonal. Note that th
 
 Multiplying the masked A-file with the main-diagonal, maps the file-bits to the 8th rank, similar to a flip about the anti-diagonal A8-H1. Shifting down to the 1st rank, leaves the bits like a 90-degree anti clockwise rotation.
 
-```
+```C++
 
 masked bits                             mapped to 8th rank
 bits on A-file   *  main-diagonal    =  with garbage     -> 1st rank
@@ -857,7 +857,7 @@ H . . . . . . .     1 . . . . . . .     H . . . . . . .     A B C D E F G H
 
 Multiplying the masked 1st rank with the main-diagonal, maps the rank-bits to the H-file, similar to a flip about the anti-diagonal A8-H1. Shifting the H-file to the A-file plus mask acts like a 90-degree clockwise rotation.
 
-```
+```C++
 
 masked bits                             mapped to H-file
 bits on 1st rank *  main-diagonal    =  with garbage     -> masked A-file
@@ -880,7 +880,7 @@ Flipping about the Diagonal is a bit more tricky. Since the Anti-Diagonal patter
 
 Multiplying the masked H-file with the 7-bit right shifted (board left shifted) anti-diagonal, maps the file-bits to the 8th rank, similar to a flip about the diagonal A1-H8. Shifting it down to the 1st rank, leaves the bits like flip about the diagonal. Shifting down to the 1st rank, leaves the bits like a 90-degree clockwise rotation.
 
-```
+```C++
 
 masked bits         Shifted             mapped to 8th rank
 bits on H-file   *  anti-diagonal    =  with garbage     -> 1st rank
@@ -900,7 +900,7 @@ bits on H-file   *  anti-diagonal    =  with garbage     -> 1st rank
 That is straight forward multiplication of a masked diagonal or anti-diagonal with the A-file.
 To mask the garbage off, we further shift down by 7 ranks.
 
-```
+```C++
 
 masked diagonal  *  A-file              mapped
                                         to 8th rank      ->  1st rank
@@ -919,7 +919,7 @@ A . . . . . . .     1 . . . . . . .     A . . . . . . .     A B C D E F G H
 
 This is about bit-reversal of a byte.
 
-```
+```C++
 
 rank1mirrored = (((rank1 * 0x80200802) & 0x0884422110) * 0x0101010101010101) >> 56;
 
@@ -927,7 +927,7 @@ rank1mirrored = (((rank1 * 0x80200802) & 0x0884422110) * 0x0101010101010101) >> 
 
 This is how it works on a chessboard:
 
-```
+```C++
 
 rank1            *  0x80200802          flipped
 . . . . . . . .     . . . . . . . .     . . . . . . . .
@@ -963,7 +963,7 @@ H . . . . C . .     1 . . . . . . .     H . . . D C . .     . . . . . . . .
 
 A 32 bit solution:
 
-```
+```C++
 
 rank1mirrored = ( (rank1 * 0x0802 & 0x22110)
                  |(rank1 * 0x8020 & 0x88440) )
@@ -973,7 +973,7 @@ rank1mirrored = ( (rank1 * 0x0802 & 0x22110)
 
 Or a simple lookup:
 
-```
+```C++
 
 rank1mirrored = reverseByteLookup256[rank1];
 

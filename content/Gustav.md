@@ -28,7 +28,7 @@ The longest for Gustav solvable problem so far has 163 moves, a composition by [
 | --- |
 |                                                                              ♔       ♟   ♟ ♟  ♟  ♟ ♟ ♜♟    ♗ ♝♜♟♞    ♖♞♚                 ♘ ♘  |
 
-```
+```C++
 K7/p3p1p1/1p2p1p1/rp4B1/brpn4/Rnk5/8/4N1N1 w - - 
 
 

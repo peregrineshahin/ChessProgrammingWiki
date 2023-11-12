@@ -11,7 +11,7 @@ A **Window** in the context of Alpha-Beta search (Alpha-Beta window) is the [ope
 
 
 
-```
+```C++
 **(α,β) = ]α,β[ = { x ∈ ℤ | α < x < β}**
 
 ```
@@ -39,13 +39,13 @@ Only values inside this interval, that is excluding Alpha and Beta, are [exact s
 
 
 
-```
+```C++
 If the window is above the true value, so that you will [fail low](Fail-Low "Fail-Low"), you get maximal efficiency. Here's the way to follow why.  If every root move fails low, it can do so after searching only one move at ply 2, the one move necessary to 'refute' the root move.  So you get a truly small tree. If the window is below the true value, so you [fail high](Fail-High "Fail-High") on every move at the root, to fail high at the root means *every* move at ply=2 must fail low. The tree is roughly W times larger in this case.
 
 ```
 
 
-```
+```C++
 [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") noticed this and referred to this as the "minimax wall", that point where the window just drops down over the real score so that you don't get the quick fail lows.  I saw this when I played with [mtd(f)](MTD(f) "MTD(f)") a few months ago, as it was faster when the window was too high. Fast enough that it is best to keep it up there rather than dropping below the real value and having to fail upward... 
 
 ```

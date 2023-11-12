@@ -28,7 +28,7 @@ Whether a king is in check can be determined by the attacked-routine mentioned i
 
 If one needs the set of attackers, either empty, single or double populated - one likely better relies on a specialized [attacksTo-routine](Square_Attacked_By#ByAllPieces "Square Attacked By") for each side, e.g. as member of the [standard bitboard board-definition](Bitboard_Board-Definition "Bitboard Board-Definition"):
 
-```
+```C++
 
 U64 CBoard::attacksToKing(enumSquare squareOfKing, enumColor colorOfKing) {
    U64 opPawns, opKnights, opRQ, opBQ;
@@ -54,7 +54,7 @@ Another idea is to determine the check inside the search-routine by the last [mo
 
 For the direct check we may use the routine mentioned in [Square Attacked By](Square_Attacked_By#AttackedByPieceOnSquare "Square Attacked By"):
 
-```
+```C++
 
 if ( isAttacked(squareOfKing, move.to, move.piece(), occupiedBB) ) -> direct check
 
@@ -68,7 +68,7 @@ One solution is to determine the [direction](Direction "Direction") between the 
 
 To detect [absolute pins](Pin#AbsolutePin "Pin") is necessary for [legal](Legal_Move "Legal Move") [move generation](Move_Generation "Move Generation") and may be considered in [evaluation](Evaluation "Evaluation"). While there are different approaches, the most common for programs based on single sliding piece attacks rather than direction wise set-wise attack getter, relies on the [xrayRookAttacks](</X-ray_Attacks_(Bitboards)#ModifyingOccupancy> "X-ray Attacks (Bitboards)") or [xrayBishopAttacks](</X-ray_Attacks_(Bitboards)#ModifyingOccupancy> "X-ray Attacks (Bitboards)") routines - called with square of own king and own pieces as blockers. An [in-between lookup](Square_Attacked_By#Obstructed "Square Attacked By") (Obstructed) determines the set of pinned pieces while [traversing](Bitboard_Serialization "Bitboard Serialization") the pinning pieces <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-```
+```C++
 
 pinned = 0;
 pinner = xrayRookAttacks(occupiedBB, ownPieces, squareOfKing) & opRQ;
@@ -92,7 +92,7 @@ Another idea to determine absolute pins as well as distant check block-targets, 
 
 No obstruction, king in check. In-between intersection consists of empty squares as target set to block the distant check:
 
-```
+```C++
 
      . r . . . . K .     
 r->  . . 1 1 1 1 1 .      
@@ -103,7 +103,7 @@ r->  . . 1 1 1 1 1 .
 
 One piece in-between. Intersection leaves a pinned piece if of king color, otherwise a possible discovered checker:
 
-```
+```C++
 
      . r . . x . K .  
 r->  . . 1 1 1 . . .             
@@ -114,7 +114,7 @@ r->  . . 1 1 1 . . .
 
 Two (or more) pieces in-between. Intersection is null:
 
-```
+```C++
 
       . r . x x . K .  
 r->   . . 1 1 . . . .

@@ -64,7 +64,7 @@ An [8x8 Board](8x8_Board "8x8 Board") with a [rank-file mapping](Squares "Square
 
 
 
-```
+```C++
 
 int board[64], sq, s, f;
 

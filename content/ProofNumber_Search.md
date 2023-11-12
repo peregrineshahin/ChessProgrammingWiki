@@ -96,7 +96,7 @@ The PNS C-like pseudo code is based on the code given in *Game-Tree Search using
 
 
 
-```
+```C++
 
 void PNS ( Node root ) {
   evaluate( root );
@@ -115,7 +115,7 @@ void PNS ( Node root ) {
 
 
 
-```
+```C++
 
 void setProofAndDisproofNumbers( Node n ) {
   if ( n.expanded ) { /* interior node */
@@ -147,7 +147,7 @@ void setProofAndDisproofNumbers( Node n ) {
 
 
 
-```
+```C++
 
 Node selectMostProvingNode( Node n ) {
   while ( n.expanded ) {
@@ -179,7 +179,7 @@ Node selectMostProvingNode( Node n ) {
 
 
 
-```
+```C++
 
 void expandNode( Node n ) {
   generateChildren( n );
@@ -201,7 +201,7 @@ void expandNode( Node n ) {
 
 
 
-```
+```C++
 
 Node updateAncestors( Node n, Node root ) {
   while( n != root ) {

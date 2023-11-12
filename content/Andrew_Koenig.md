@@ -21,7 +21,7 @@ an American computer scientist and musician. Until his retirement from [AT&T](Be
 In 1970/71, while affiliated with Columbia, along with [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), and [Ben Yalow](Ben_Yalow "Ben Yalow"), he co-authored the chess program [CCCP](</CCCP_(US)> "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 Andrew Koenig on the individual roles of [CCCP's](</CCCP_(US)> "CCCP (US)") programming team <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```
+```C++
 I designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). [Steve](Steven_M._Bellovin "Steven M. Bellovin") wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, [Ben](Ben_Yalow "Ben Yalow") did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and [Aron](Aron_Eisenpress "Aron Eisenpress") wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
 
 ```

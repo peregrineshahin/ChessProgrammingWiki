@@ -77,7 +77,7 @@ In 1988 (June 23) HiTech drew a 2 games match against [Manuel Apicella](https://
 
 ## Match Hitech-Lautier, 1987
 
-```
+```C++
 [Event "Match Hitech-Lautier"]
 [Site "Cannes, France"]
 [Date "1987.02.23"]
@@ -97,7 +97,7 @@ In 1988 (June 23) HiTech drew a 2 games match against [Manuel Apicella](https://
 
 ## Match Hitech-Apicella, 1988
 
-```
+```C++
 [Event "Hitech-Apicella"]
 [Site "Royan"]
 [Date "1988.01.21"]
@@ -122,17 +122,17 @@ In 1988 (June 23) HiTech drew a 2 games match against [Manuel Apicella](https://
 
 given by [Hans Berliner](Hans_Berliner "Hans Berliner") in *Some Innovations Introduced by Hitech* <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
-```
+```C++
 HiTech is a chess machine consisting of:
 
 ```
 
-```
+```C++
 A general purpose host computer ([SUN 3](Sun#3 "Sun")) which provides a [user interface](User_Interface "User Interface"), does [search control](Search "Search"), and has all the chess [knowledge](Knowledge "Knowledge") in the form of an [Oracle](Oracle "Oracle"), and
 
 ```
 
-```
+```C++
 A Searcher made up from specially designed and built hardware (about 5 boards) to do fast [searching](Search "Search") and [evaluation](Evaluation "Evaluation"). HiTech can search about 175,000 [positions/second](Nodes_per_Second "Nodes per Second") and executes a [full-width](Type_A_Strategy "Type A Strategy") [depth-first](Depth-First "Depth-First") [alpha-beta search](Alpha-Beta "Alpha-Beta") using a [Trans/Ref table](Transposition_Table "Transposition Table") ([Slate](David_Slate "David Slate") and [Atkin](Larry_Atkin "Larry Atkin"), 1977). <a id="cite-note-10" href="#cite-ref-10">[10]</a> 
 
 ```
@@ -141,7 +141,7 @@ A Searcher made up from specially designed and built hardware (about 5 boards) t
 
 given in 1995 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-11" href="#cite-ref-11">[11]</a> :
 
-```
+```C++
 HiTech is a chess machine with special purpose hardware that is capable of evaluating 120,000 positions per second. The hardware is controlled by a [SUN 4](Sun#4 "Sun") workstation running either a brute force or selective search engine. Originally built in 1985 at Carnegie Mellon University, HiTech has since won several computer-computer and human-computer tournaments. Its primary purpose is supporting research into new search techniques. Active research includes a new selective search algorithm and techniques for automatically constructing better evaluation functions. 
 
 ```

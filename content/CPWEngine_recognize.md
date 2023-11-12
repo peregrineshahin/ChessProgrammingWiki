@@ -3,7 +3,7 @@ title: CPWEngine recognize
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Recognizer**
 
-```
+```C++
 
 ##include "stdafx.h"
 

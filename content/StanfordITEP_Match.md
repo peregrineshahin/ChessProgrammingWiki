@@ -63,31 +63,31 @@ Excerpt from *Competitions, Controversies, and Computer Chess* <a id="cite-note-
 
 
 
-```
+```C++
 Round 1: In between 1950, when [Shannon’s](Claude_Shannon "Claude Shannon") paper was first published, and 1966 only three chess programs were developed. By 1970 six programs (none from the initial three) participated in the [first US Computer Chess Championship](ACM_1970 "ACM 1970"). The [first World Championship](WCCC_1974 "WCCC 1974") in 1974 had 13 participants. This remarkable growth was largely spurred by a well publicized match between the Kotok/McCarthy program developed at MIT and Stanford University and a program developed at the Institute for Theoretical and Experimental Physics (ITEP) in Moscow. This match was a “first” in many ways: it was the first match between two computer programs.  
 
 ```
 
 
-```
+```C++
 It was the first match where a [type A strategy](Type_A_Strategy "Type A Strategy") faced a [type B strategy](Type_B_Strategy "Type B Strategy"). But most importantly it was a challenge in the [Cold War](https://en.wikipedia.org/wiki/Cold_War) scientific race. Just as putting a man into space, it was of no practical value, but it had similar psychological implications.
 
 ```
 
 
-```
+```C++
 [Alan Kotok](Alan_Kotok "Alan Kotok") developed his program while an undergraduate at MIT in collaboration with several other students and under the direction of John McCarthy. His program implemented a type B strategy, considering 4 moves at the first ply, 3 moves on second, 2 on levels three and four and 1 on five through eight. The [payoff function](Evaluation_Function "Evaluation Function") considered such elements as [material](Material "Material") (the main component), [development](Development "Development"), [control of the center](Center_Control "Center Control"), and [pawn structure](Pawn_Structure "Pawn Structure"). It also did not use several of the latest algorithmic improvements made between its initial creation (1962) and the match, most notably [alpha-beta](Alpha-Beta "Alpha-Beta") and the [killer heuristic](Killer_Heuristic "Killer Heuristic"). It had a weak plausible move generator, causing [Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") to remark that “*the rule for rejecting moves was so constituted that the machine threw out the baby with the bath water*.” [Botvinnik 1967]
 
 ```
 
 
-```
+```C++
 The Soviet program was implemented by [Georgiy Adelson-Velskiy](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Alexander Bitman](Alexander_Bitman "Alexander Bitman"), [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov"), and [Alexander Zhivotovsky](Alexander_Zhivotovsky "Alexander Zhivotovsky"), working in [Alexander Kronrod’s](Alexander_Kronrod "Alexander Kronrod") Laboratory. It implemented Shannon’s type A strategy, with the [search](Search "Search") [depth](Depth "Depth") set as a parameter. In games 1 and 2 the machine looked ahead 3 ply, while in games 3 and 4 a depth of 5 ply was used. The payoff function was similar to the one in the Kotok/McCarthy program, but an emphasis was placed on gaining a spatial advantage.
 
 ```
 
 
-```
+```C++
 The match was played by telegraph, starting on November 22, 1966 and continuing for a year. All games were agreed drawn if no mate was delivered or announced in 40 moves, as both programs showed complete incompetence in the endgame. In games one and two, against the weaker version of the ITEP program Kotok/McCarthy drew twice through the 40 move rule, although it was slightly worse in one of the games and much worse in the other. It was thoroughly beaten in both of the games against the stronger version, losing game three in 19 moves and game four in 41. In all of the matches the ITEP program was playing slightly better positional chess: because of the emphasis on space advantage the ITEP program was better at pushing pawns forward. It won, however, not because of any superiority in positional play, but by taking advantage of blunders on the part of the American program. [Newborn 1975] Because there were possible moves that were much better then the moves the Kotok/McCarthy program actually made, it was clear that the program failed to consider them at all, indicating a weakness in the plausible move generator. Thus the first round was won by the Russians and by the type A approach, and although the Soviet dominance in Computer chess was short-lived, the dominance of type A approaches continues today. This match has a very sad postscript: Alexander Kronrod, the head of the Computational lab at ITEP, was a highly principled person who, among with many other mathematicians, signed a letter in defense of [Esenin-Volpin](https://en.wikipedia.org/wiki/Alexander_Esenin-Volpin), a mathematician who was placed in an insane asylum for anti-Communist views. For his signature of the letter Kronrod was reprimanded by the Communist Party. The physicists at ITEP, who were irritated because computer time was “wasted” on game playing instead of their problems used the reprimand as an excuse to oust Kronrod from his position. At the same time Kronrod was fired from his professorship at the Moscow Pedagogical Institute. These actions effectively ended the career of this brilliant mathematician. 
 
 ```
@@ -100,7 +100,7 @@ The match was played by telegraph, starting on November 22, 1966 and continuing 
 
 
 
-```
+```C++
 In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), and [Landis](Mathematician#Landis "Mathematician") selected "[Snap](https://en.wikipedia.org/wiki/Slapjack)" ("подкидного дурака") as the intellectual foundations for the development of the game heuristic programming <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The program itself was a fiasco - but the basic principles (board games, [search techniques](Search "Search") and [limited depth](Depth "Depth")) were formulated. Further research laboratories in the field of game theory culminated in the first ever chess duel between the [program](ITEP_Chess_Program "ITEP Chess Program") of the [Institute](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") of Soviet and American [best program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") developed at [Stanford University](Stanford_University "Stanford University") under the direction of [J. McCarthy](John_McCarthy "John McCarthy"). By telegraph match was played in four games ended 3-1 in favor of our institute. At the time, chess became a [guinea pig](https://en.wikipedia.org/wiki/Guinea_pig_%28disambiguation%29) for all programmers interested in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence").
 
 ```

@@ -25,7 +25,7 @@ a Dutch engineer and early computer chess programmer, who already started comput
 
 By [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), 1997 <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
-```
+```C++
 Problem is, no one else has stepped forward.  I was there when Barend Swets (Believe the spelling is correct) proposed forming this organization in [1977](WCCC_1977 "WCCC 1977") in Toronto.  I was one of many that stood up and said "yes, I'll join." However, others stood up and said I'll not only join, I'll help for nothing, and the [ICCA](ICCA "ICCA") was formed, and continues to work this way.  
 
 ```
@@ -34,7 +34,7 @@ Problem is, no one else has stepped forward.  I was there when Barend Swets (Bel
 
 By [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), 2001 <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```
+```C++
 In 1977, the [ICCA](ICCA "ICCA") was founded during the [Second World Computer-Chess Championship](WCCC_1977 "WCCC 1977") in Toronto. The organisation was the brainchild of Barend Swets and many participants supported the idea, among them [Ken Thompson](Ken_Thompson "Ken Thompson") who then tied for 4th place amongst 16 participants with his program [BELLE](Belle "Belle"). 
 
 ```
@@ -43,7 +43,7 @@ In 1977, the [ICCA](ICCA "ICCA") was founded during the [Second World Computer-C
 
 By [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), 2007 <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```
+```C++
 In 1978 [Ben Mittman](Ben_Mittman "Ben Mittman") and Barend Swets started the ICCA Newsletter. It was specialized on chess. Owing to the series of [Advances in Computer Chess Conferences](Conferences#AdvancesinComputerChess "Conferences"), which in 1999 changed to [Advances in Computer Games Conferences](Conferences#AdvancesinComputerGames "Conferences"), the ICCA Journal broadened its scope, too, and published articles on other games. This can be seen as a generalization. As a direct consequence, the Journal was renamed into [ICGA Journal](ICGA_Journal "ICGA Journal"). 
 
 ```
@@ -52,7 +52,7 @@ In 1978 [Ben Mittman](Ben_Mittman "Ben Mittman") and Barend Swets started the IC
 
 By [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), 2010 <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```
+```C++
 Along with Barend Swets and [Peter van Diepen](Peter_van_Diepen "Peter van Diepen"), I was one of the followers of [Euwe](Max_Euwe "Max Euwe") and [De Groot](Adriaan_de_Groot "Adriaan de Groot"). Euwe had become extraordinary professor in 1964 Rotterdam and professor in Tilburg (data processing)... 
 
 ```

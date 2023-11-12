@@ -355,7 +355,7 @@ by [Ronald de Man](Ronald_de_Man "Ronald de Man") in a reply to [Guy Haworth](Gu
 
 
 
-```
+```C++
 I create both WDL and DTZ in one go, so I don't use WDL in the creation of DTZ. The algorithm used is the [grandfather algorithm](Retrograde_Analysis#Algorithm "Retrograde Analysis") with 2 plies per iteration (I think [HGM](Harm_Geert_Muller "Harm Geert Muller") calls this leapfrogging, but I might be wrong). I tried the outcounting method, but it didn't seem to be competitive (and it makes things more complicated). [[24]](#cite_note-24) [[25]](#cite_note-25)
 A pure WDL/DTZ pair is not of much use for creating WDL50+/DTZ50+. I create tables in RAM that have all the information necessary for WDL50+ and DTZ50+, then permute them to different indexing schemes and compress. I do test runs on subsets of the data to find good permutations. (The idea to try permutations is from [Jesper Torp Kristensen's](Jesper_Torp_Kristensen "Jesper Torp Kristensen") master thesis.) [[26]](#cite_note-26) [[27]](#cite_note-27) 
 
@@ -366,7 +366,7 @@ A pure WDL/DTZ pair is not of much use for creating WDL50+/DTZ50+. I create tabl
 
 
 
-```
+```C++
 Syzygy WDL is double sided, DTZ is single sided.
 So to know whether a 7-piece position is winning, losing or drawn (or cursed), the engine needs to do only a single probe of a 7-piece WDL table. (It may in addition have to do some probes of 6-piece WDL tables if any direct captures are available.)
 If the engine needs to know the DTZ value (which is only necessary when a TB root position has been reached), the probing code may have to do a 1-ply search to get to the "right" side of the DTZ table.
@@ -379,7 +379,7 @@ For 6-piece TBs, DTZ is 81.9GB when storing only the smaller side of each table.
 
 
 
-```
+```C++
 Syzygy probing is a hell of a mess, and I don't want to plug two thousand lines of foreign code that I don't understand, nor do I have the motivation to fully understand how Syzygy files are stored, and then write the additional two thousand lines of code to read them for a mere 5 Elo gain at TCEC.
 
 ```

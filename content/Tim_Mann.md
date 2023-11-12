@@ -32,7 +32,7 @@ Tim Mann's quote from an Interview by [Frank Quisinsky](Frank_Quisinsky "Frank Q
 
 
 
-```
+```C++
 Originally, xboard and WinBoard were simply graphical user interfaces for [GNU Chess](GNU_Chess "GNU Chess"), then for GNU Chess and [Internet chess servers](Chess_Server "Chess Server"). Because the [GUI](GUI "GUI") and the chess engine are separate programs, several people thought of the idea of connecting their own chess programs in place of GNU Chess, and they began to email me asking how to do it. I think the first person to ask was [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), in November 1994. Over the years I received so many requests for this information that I was more or less forced into documenting and extending the ad-hoc engine protocol to support them. The document that exists now (chess-engines.html) evolved directly from the original email reply I sent to Shay. Unfortunately, because the protocol was never really designed, but just grew out of documenting the existing communication with GNU Chess, there are still several bugs and deficiencies in it today. It would be nice to make some major revisions, but then of course it would (at best) take a long time for the existing engines to convert over to the new protocol, so both would have to be supported, probably forever. 
 
 ```
@@ -49,7 +49,7 @@ Originally, xboard and WinBoard were simply graphical user interfaces for [GNU C
 
 
 
-```
+```C++
 [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") was one of the contributors to the [Deep Thought](Deep_Thought "Deep Thought") project while he was in grad school. A few years ago when he and I were both working for Compaq's research labs in Palo Alto, Andreas sent me a copy of Deep Thought's [evaluation function tuning program](Automated_Tuning "Automated Tuning") and asked me to put it on the Web for him, since he no longer has an interest in computer chess. 
 
 ```

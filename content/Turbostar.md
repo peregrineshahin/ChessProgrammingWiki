@@ -85,7 +85,7 @@ Kasparov's quote in *Chess Metaphors: Artificial Intelligence and the Human Mind
 
 
 
-```
+```C++
 At one point I realized that I was drifting into trouble in a game against one of the “Kasparov” brand models. If this machine scored a win or even a draw, people would be quick to say that I had thrown the game to get PR for the company, so I had to intensify my efforts. Eventually I found a way to trick the machine with a sacrifice it should have refused. From the human perspective, or at least from my perspective, those were the good old days of man vs. machine chess. 
 
 ```

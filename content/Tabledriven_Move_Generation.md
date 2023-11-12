@@ -43,7 +43,7 @@ The classical technique in sliding piece move generation with [square centric bo
 
 
 
-```
+```C++
 
 for (all directions[piece_kind] -> dir) {
   delta  = delta_table[dir];
@@ -94,7 +94,7 @@ The GNU Chess implementation used the natural branches on empty square, and if o
 
 
 
-```
+```C++
 
 struct sqdata {
   short nextpos;
@@ -135,7 +135,7 @@ The [GNU Chess approach](Table-driven_Move_Generation#GNUChess "Table-driven Mov
 
 
 
-```
+```C++
 
 typedef struct tagMT {
   int    square;
@@ -204,7 +204,7 @@ One sliding move node consists of the target square, the bit redundant move itse
 
 
 
-```
+```C++
 
 struct SlidingMoveNode
 {
@@ -220,7 +220,7 @@ The number of sliding move node structures is determined by the [influence quant
 
 
 
-```
+```C++
 
 SlidingMoveNode  slidingMoveTable[1456+896+560]; /* queen, rook, bishop ->  2912 * 16 = 46592 bytes 45.5 Kib */
 SlidingMoveNode* slidingMoveHead[3][64];
@@ -232,7 +232,7 @@ With following initialization, for instance for a rook on e4:
 
 
 
-```
+```C++
 
 slidingMoveHead[rook][e4]
      ▼ north                                   east           south          west
@@ -260,7 +260,7 @@ This data structure simplifies the control structure to generate moves of one sl
 
 
 
-```
+```C++
 
 pMoveNode = slidingMoveHead[slidingPiece_kind_012][fromSq];
 do {
@@ -280,7 +280,7 @@ To generate disjoint sets of [captures](Captures "Captures") and [quiet moves](Q
 
 
 
-```
+```C++
 
 /* Captures  */
 pMoveNode = slidingMoveHead[slidingPiece_kind_012][fromSq];
@@ -314,7 +314,7 @@ As proposed by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades") with 6
 
 
 
-```
+```C++
 
 // U32 as struct SlidingMoveNode {int next1 : 12; int next0 : 12; int tosq  :  8; /* low byte */ };
 U32 slidingMoveTable[1456+896+560]; /* queen, rook, bishop ->  2912 * 4 = 11648 bytes  */

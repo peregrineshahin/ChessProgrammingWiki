@@ -26,7 +26,7 @@ a general purpose, [procedural](https://en.wikipedia.org/wiki/Procedural_program
 
 A recursive Fortran 90 [Alpha-Beta](Alpha-Beta "Alpha-Beta") search routine <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```
+```C++
 
 RECURSIVE FUNCTION EVALUATE (ID, PRUNE) RESULT (RES) 
   USE GLOBALS 

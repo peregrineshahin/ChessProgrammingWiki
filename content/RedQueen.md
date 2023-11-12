@@ -44,7 +44,7 @@ RedQueen is a [bitboard](Bitboards "Bitboards") engine and uses [Pradu Kannan's]
 
 
 
-```
+```C++
 
 const uint64_t debruijn64 = 0x07EDD5E59A4E28C2ULL;
 const uint32_t index64[64] = {

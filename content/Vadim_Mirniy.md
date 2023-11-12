@@ -29,7 +29,7 @@ by [Boris Stilman](Boris_Stilman "Boris Stilman") <a id="cite-note-2" href="#cit
 
 
 
-```
+```C++
 My friend and colleague, Vadim Mirniy, with whom we worked in the 80s provided major insights and pushed our research and software implementations to much higher level.
 
 ```

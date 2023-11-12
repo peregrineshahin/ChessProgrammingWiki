@@ -27,7 +27,7 @@ an idea to turn a [Depth-First](Depth-First "Depth-First") to a [Best-First](Bes
 
 
 
-```
+```C++
 
 int negaCStar (int min, int max, int depth) {
    int score = min;

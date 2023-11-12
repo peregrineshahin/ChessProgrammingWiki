@@ -28,7 +28,7 @@ One EPD string or record consists of one text line of variable length composed o
 
 *[Terminal and none terminal symbols](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols) of a variant of [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) below are embedded in ' ' resp. \< >.*
 
-```
+```C++
 
 <EPD> ::=  <Piece Placement>
        ' ' <Side to move>
@@ -43,7 +43,7 @@ One EPD string or record consists of one text line of variable length composed o
 The Piece Placement is determined rank by rank in [big-endian](Big-endian "Big-endian") order, that is starting at the 8th rank down to the first rank. Each rank is separated by the terminal symbol '/' (slash). One rank, scans piece placement in [little-endian](Little-endian "Little-endian") file-order from the A to H.
 A decimal digit counts consecutive empty squares, the pieces are identified by a single letter from standard English names for chess pieces as used in the [Algebraic Chess Notation](Algebraic_Chess_Notation "Algebraic Chess Notation"). Uppercase letters are for white pieces, lowercase letters for black pieces.
 
-```
+```C++
 
 <Piece Placement> ::= <rank8>'/'<rank7>'/'<rank6>'/'<rank5>'/'<rank4>'/'<rank3>'/'<rank2>'/'<rank1>
 <ranki>       ::= [<digit17>]<piece> {[<digit17>]<piece>} [<digit17>] | '8'
@@ -58,7 +58,7 @@ A decimal digit counts consecutive empty squares, the pieces are identified by a
 
 Side to move is one lowercase letter for either White ('w') or Black ('b').
 
-```
+```C++
 
 <Side to move> ::= {'w' | 'b'}
 
@@ -68,7 +68,7 @@ Side to move is one lowercase letter for either White ('w') or Black ('b').
 
 If neither side can castle, the symbol '-' is used, otherwise each of four individual [castling rights](Castling_Rights "Castling Rights") for king and queen castling for both sides are indicated by a sequence of one to four letters.
 
-```
+```C++
 
 <Castling ability> ::= '-' | ['K'] ['Q'] ['k'] ['q'] (1..4)
 
@@ -78,7 +78,7 @@ If neither side can castle, the symbol '-' is used, otherwise each of four indiv
 
 The [en passant](En_passant "En passant") target square is specified after a double push of a pawn, no matter whether an en passant capture is really possible or not. Other moves than double pawn pushes imply the symbol '-' for this FEN field.
 
-```
+```C++
 
 <En passant target square> ::= '-' | <epsquare>
 <epsquare>   ::= <fileLetter> <eprank>
@@ -89,7 +89,7 @@ The [en passant](En_passant "En passant") target square is specified after a dou
 
 ## Operations
 
-```
+```C++
 
 <operation> ::= <opcode> {' '<operand>} ';'
 <opcode>    ::= <letter> {<letter> | <digit> | '_'} (up to 14)
@@ -154,7 +154,7 @@ The [en passant](En_passant "En passant") target square is specified after a dou
 
 The start position:
 
-```
+```C++
 
 rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - hmvc 0; fmvn 1;
 
@@ -162,7 +162,7 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - hmvc 0; fmvn 1;
 
 Other EPD strings from some tests:
 
-```
+```C++
 
 r1bqk2r/p1pp1ppp/2p2n2/8/1b2P3/2N5/PPP2PPP/R1BQKB1R w KQkq - bm Bd3; id "Crafty Test Pos.28"; c0 "DB/GK Philadelphia 1996, Game 5, move 7W (Bd3)";
 8/3r4/pr1Pk1p1/8/7P/6P1/3R3K/5R2 w - - bm Re2+; id "arasan21.16"; c0 "Aldiga (Brainfish 091016)-Knight-king (Komodo 10 64-bit), playchess.com 2016";

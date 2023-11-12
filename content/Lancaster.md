@@ -36,7 +36,7 @@ Lancaster played an exhibition match versus [Greenblatt's Chess Program](Mac_Hac
 
 
 
-```
+```C++
 Greenblatt's program was exhibited at the 1968 IFIPS held in Edinburgh. It was a major attraction, drawing large crowds who cheered the program on to a win against the majority of its opponents. A special match was arranged between the program and one written by John Scott for the ICL 1909/5. An analysis of this game was made by I. J. Good, with the comment that Scott's program had a chance to draw at the 58th move, but made a bad move and then resigned. Because it was generally agreed that Greenblatt's program was the best to that date, Scott's program had done well to last so long. Both these programs were powerful opening and middle game players but became, from recorded games, relatively weak should they reach an end game. It seemed to the author that if it were possible to play a vigorous swapping strategy in order to reach an end game quickly then, even with a queen advantage, neither program would be actually able to realise the mate. 
 
 ```

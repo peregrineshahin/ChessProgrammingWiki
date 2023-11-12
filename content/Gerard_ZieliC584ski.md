@@ -23,7 +23,7 @@ He used an [ODRA 1204](https://en.wikipedia.org/wiki/Odra_%28computer%29) comput
 
 Abstract of *Arrays for Programming Chess* <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```
+```C++
 A computer program depends strongly on [data structures](Data "Data") processed by it. For time optimization it is often sufficient to change only the data structures. There are 5 parts to a typical chess program: Game manager, [legal moves generator](Move_Generation "Move Generation"), [evaluation function](Evaluation "Evaluation"), [openings library](Opening_Book "Opening Book") and [algorithm for endings](Endgame_Tablebases "Endgame Tablebases"). [Arrays](Array "Array") play an important role in game managing, generating proper moves and evaluating the position. A properly chosen array form improves computer chess. 
 
 ```
@@ -32,7 +32,7 @@ A computer program depends strongly on [data structures](Data "Data") processed 
 
 Abstract of a *Simple Evaluation Function* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```
+```C++
 The quality of chess programs is based on [tree searching](Search "Search") ; this limits computer chess development. Modern improvements are possible mainly by applying new concepts in a heuristic [evaluation](Evaluation "Evaluation") of a [chess position](Chess_Position "Chess Position"). While seeking optimal partial solutions to obtain general solutions, one is led to huge programs that solve only a small part of a chess problem. It seems that an optimistic approach is to look for a conceptionally simple and general [evaluation function](Evaluation_Function "Evaluation Function") which can be [improved](Automated_Tuning "Automated Tuning") by using a computer.
 
 ```

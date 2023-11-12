@@ -36,7 +36,7 @@ Shogi [Bitboards](Bitboards "Bitboards") are defined as [array](Array "Array") o
 The C++ Apery has a conditional compiled [union type](https://en.wikipedia.org/wiki/Union_type) with 128-bit type \_\_m128i,
 explicitly taking advantage of [SSE2](SSE2 "SSE2") and [SSE4](SSE4 "SSE4") instructions <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-```
+```C++
 
 class Bitboard {
  ...
@@ -58,7 +58,7 @@ private:
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
-```
+```C++
 
 pub struct Bitboard {
     pub v: [u64; 2],

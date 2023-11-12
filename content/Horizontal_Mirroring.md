@@ -70,7 +70,7 @@ title: Horizontal Mirroring
 
 An [8x8 Board](8x8_Board "8x8 Board") with a [rank-file mapping](Squares "Squares") needs to perform an [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") with 7 (h1 in [LERF](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations")) to horizontally mirror square coordinates. A pure 8x8 Board may be mirrored that way in [C](C "C"):
 
-```
+```C++
 
 int board[64], sq, s;
 

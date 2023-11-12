@@ -31,7 +31,7 @@ As a warning on premature optimization a quote by [Donald Knuth](Donald_Knuth "D
 
 
 
-```
+```C++
 We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.  
 
 ```

@@ -32,7 +32,7 @@ from [Mark Uniacke's](Mark_Uniacke "Mark Uniacke") report on the [4th Computer O
 
 
 
-```
+```C++
 [Search techniques](Search "Search") used are [minimal-window](Null_Window "Null Window"), [alpha-beta](Alpha-Beta "Alpha-Beta") with [extensions](Extensions "Extensions") for [check evasion](Check_Extensions "Check Extensions"), [mate threats](Mate_Threat_Extensions "Mate Threat Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions") and forced moves. [Move ordering](Move_Ordering "Move Ordering") is by [history heuristic](History_Heuristic "History Heuristic"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [countermove heuristic](Countermove_Heuristic "Countermove Heuristic") and [transposition](Hash_Move "Hash Move") and [refutation-table moves](Refutation_Move "Refutation Move"). Positional values may range up to +/- 1 Pawn. Development time is 3 years on a part time basis. The program was created to test AI ideas rather than be tuned for chess competitions. 
 
 ```

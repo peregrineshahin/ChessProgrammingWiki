@@ -39,7 +39,7 @@ Following table gives the distinct number of moves per piece and [origin square]
 
 
 
-```
+```C++
 
     Knight          King            Bishop          Rook            Queen
      4  6  8  8      5  8  8  8      7  9 11 13     14 14 14 14     21 23 25 27
@@ -61,7 +61,7 @@ Whole board tables cover pawn, knight, king and sliding pieces, and their [file]
 
 
 
-```
+```C++
 
 White pawn total                      white pawn a2                         white pawn d2
 +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+
@@ -112,7 +112,7 @@ The [concentric](https://en.wikipedia.org/wiki/Concentric) "circles" around the 
 
 
 
-```
+```C++
 
 Bishop Circles                        Rook Circles                          Queen Circles
 +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+     +---+---+---+---+---+---+---+---+

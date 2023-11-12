@@ -48,12 +48,12 @@ Mittman, [Newborn](Monroe_Newborn "Monroe Newborn"), [Thompson](Ken_Thompson "Ke
 
 Quote from *[The Pont Neuf](https://en.wikipedia.org/wiki/Pont_Neuf) - Appendix/Biography* <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> :
 
-```
+```C++
 Ben Mittman is a retired professor of computer science and information systems at Northwestern University and former director of Northwestern's Vogelback Computing Center. His interest in black and white photography began some fifty years ago while living in [Paris](https://en.wikipedia.org/wiki/Paris). Ben and his wife, [Barbara](Category:Barbara_Mittman "Category:Barbara Mittman"), currently spend half the year in Paris where he continues his photographic activities. <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
 
-```
+```C++
 Mittman's latest project, which began in 1994, is photographing the restoration of the Pont Neuf, the oldest bridge in Paris. The restoration, which was completed at the end of April 2007, is the subject of an exhibit of his photos to be held in the [Mairie (Town Hall) of the 6th arrondissement](http://www.paris.org/Kiosque/may03/gifs/mairie.vi/) of Paris in October-November of 2007.
 
 ```
@@ -62,22 +62,22 @@ Mittman's latest project, which began in 1994, is photographing the restoration 
 
 Quote by ["Sky" Jim Schuyler](http://web.red7.com/Jim_Schuyler.html) September 24, 2007 <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
-```
+```C++
 Ben Mittman, my dissertation advisor and mentor from Northwestern University (from whence my PhD degree) has been living half of each year in Paris since he took an early retirement, and has been chronicling the restoration of the Pont Neuf (the “new bridge”) which was completed in 1607. The Northwestern University Library has a special section on its web site that describes the bridge and the project.
 
 ```
 
-```
+```C++
 Ben has created this record of the restoration process using only black & white film. A rarity these days, but one that I think is in keeping with the spirit of this 400-year-old construction. He began his project in 1994 and the restoration was completed in April 2007.
 
 ```
 
-```
+```C++
 There’s a lot of history at this web site, but the photograph collection is particularly notable. And one of the most interesting parts of the restoration is the resculpting of over half of the 384 [mascarons](https://en.wikipedia.org/wiki/Mascaron_(architecture)) (faces or masks) that adorn the sides of the bridge.
 
 ```
 
-```
+```C++
 I can’t say enough about what Ben’s support of my work and that of other students meant to us at the Vogelback Computing Center of Northwestern in the 1960s and 1970s. The luxury of having essentially unlimited computing time available – and then when I was on staff of having almost unlimited access to the supercomputer after midnight every night – was what allowed a select group of us to make progress on projects that otherwise would have never happened! Without this, [Atkin](Larry_Atkin "Larry Atkin"), [Gorlen](Keith_Gorlen "Keith Gorlen") and [Slate](David_Slate "David Slate") would never have written [Chess 1.0](Chess_(Program) "Chess (Program)") which became the first world champion chess-playing program. And I would never have gotten Northwestern into computer-aided-instruction (otherwise known as e-learning) and computer conferencing. Thanks, Ben! <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 ```
@@ -86,7 +86,7 @@ I can’t say enough about what Ben’s support of my work and that of other stu
 
 Quote by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), 2007 <a id="cite-note-14" href="#cite-ref-14">[14]</a> :
 
-```
+```C++
 In 1978 Ben Mittman and [Barend Swets](Barend_Swets "Barend Swets") started the [ICCA Newsletter](ICGA_Journal "ICGA Journal"). It was specialized on chess. Owing to the series of [Advances in Computer Chess Conferences](Conferences#AdvancesinComputerChess "Conferences"), which in 1999 changed to [Advances in Computer Games Conferences](Conferences#AdvancesinComputerGames "Conferences"), the ICCA Journal broadened its scope, too, and published articles on other games. This can be seen as a generalization. As a direct consequence, the Journal was renamed into [ICGA Journal](ICGA_Journal "ICGA Journal").
 
 ```
@@ -95,22 +95,22 @@ In 1978 Ben Mittman and [Barend Swets](Barend_Swets "Barend Swets") started the 
 
 [David Levy](David_Levy "David Levy") on Ben Mittman's photo exhibition in [Paris](https://en.wikipedia.org/wiki/Paris), November 23rd, 2007 <a id="cite-note-15" href="#cite-ref-15">[15]</a> :
 
-```
+```C++
 The City of Paris undertook a major project starting in the mid-1990s to totally restore the oldest bridge in Paris, the Pont Neuf. The restoration ended this year, coinciding with the 400th anniversary of the bridge's completion in 1607. During the entire period of the restoration, Ben Mittman documented the work in black and white photography.
 
 ```
 
-```
+```C++
 There are thirty-four bridges that cross the Seine in Paris. They consist of the usual road and sidewalk variety, as well as five foot bridges, two viaducts for the metro, and two auto-route crossings. In 1988, the City of Paris took over ownership of the bridges from the State, and embarked on a multi-year renovation plan that included the complete restoration of the Pont Neuf — a project that would take almost fifteen years to complete.
 
 ```
 
-```
+```C++
 The Pont Neuf was in very bad shape, having had its previous major restoration in the mid-19th century. The photo below shows what the blacked and broken stonework looked like in 1994, when scaffolding was erected on the first arch of the petit bras.
 
 ```
 
-```
+```C++
 Ben's photo exhibition is at the [Mairie in the 6th arondissement](http://www.paris.org/Kiosque/may03/gifs/mairie.vi/), just a few minutes walk from our hotel in Rue Jacob, and ends tomorrow after a run of almost six weeks. A few hours after we arrived at [Gare du Nord](https://en.wikipedia.org/wiki/Gare_du_Nord) we had the pleasure of being shown around the exhibition by Ben himself, followed by drinks and a great dinner with the Mittmans. There is definitely something to be said for [hedonism](https://en.wikipedia.org/wiki/Hedonism).
 
 ```

@@ -73,7 +73,7 @@ By 1971, [Mikhail V. Donskoy](Mikhail_Donskoy "Mikhail Donskoy") joined with Arl
 
 
 
-```
+```C++
 When I was in high school I learned to program on the [M-20](M-20 "M-20") ... In the group of programmers at [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics"), where computing work was done on [nuclear physics](https://en.wikipedia.org/wiki/Nuclear_physics) on the M-20, they came up with [arrays](Array "Array"), [lists](Linked_List "Linked List"), the need for [subroutines](https://en.wikipedia.org/wiki/Subroutine) and more. One of my teachers, [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") came up with a [hash memory](Hash_Table "Hash Table"). Details can be found in another of my teachers - [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod") "Conversations about programming". Even before [Dijkstra's](Mathematician#EWDijkstra "Mathematician") basic principles of [structured programming](https://en.wikipedia.org/wiki/Structured_programming) was known, [Alexander Brudno](Alexander_Brudno "Alexander Brudno") published the book "Programming in meaningful notation." There was also created the first chess program ... The chess program ITEP, the predecessor of [Kaissa](Kaissa "Kaissa") fit in memory of M-20, namely in 4096 cells, each of which has a 48-bit ...
 
 ```
@@ -86,7 +86,7 @@ When I was in high school I learned to program on the [M-20](M-20 "M-20") ... In
 
 
 
-```
+```C++
 In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), and [Landis](Mathematician#Landis "Mathematician") selected "[Snap](https://en.wikipedia.org/wiki/Slapjack)" ("подкидного дурака") as the intellectual foundations for the development of the game heuristic programming <a id="cite-note-9" href="#cite-ref-9">[9]</a>. The program itself was a fiasco - but the basic principles (board games, [search techniques](Search "Search") and [limited depth](Depth "Depth")) were formulated. Further research laboratories in the field of game theory culminated in the first ever chess duel between the program of the [Institute](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") of Soviet and American [best program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") developed at [Stanford University](Stanford_University "Stanford University") under the direction of [J. McCarthy](John_McCarthy "John McCarthy"). By [telegraph match](Stanford-ITEP_Match "Stanford-ITEP Match") was played in four games ended 3-1 in favor of our institute. At the time, chess became a [guinea pig](https://en.wikipedia.org/wiki/Guinea_pig_%28disambiguation%29) for all programmers interested in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence").
 
 ```
@@ -99,7 +99,7 @@ In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Geor
 
 
 
-```
+```C++
 At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the [(α,β)-heuristic](Alpha-Beta "Alpha-Beta") for reducing search times on a game tree.
 
 ```

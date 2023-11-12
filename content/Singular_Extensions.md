@@ -48,7 +48,7 @@ At [ACM 1986](ACM_1986 "ACM 1986"), in the [battle for the second place](Bebe#Si
 
 
 
-```
+```C++
 In his Ph.D. thesis, [Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") proves <a id="cite-note-9" href="#cite-ref-9">[9]</a> that singularity is related to [pathology](Search_Pathology "Search Pathology") in game trees: intuitively, if there are too many singular moves in a game tree, [brute-force](Brute-Force "Brute-Force") [minimax search](Minimax "Minimax") becomes pathological, beyond a certain [depth](Depth "Depth") deep searches are worse than shallow searches. More specifically for brute-force minimax search, where the [leaf evaluation](Evaluation "Evaluation") values are just [-1,1] (lose or win), then one necessary condition for the absence of pathology is that the fraction of nodes other than [PV-nodes](Node_Types#PV "Node Types") whose value is dependent on a single successor (singular) must be less than 1/B, where B is the [branching factor](Branching_Factor "Branching Factor") (36 for typical middle games). This result can be extended to the case when more than one value is assigned to [leaf nodes](Leaf_Node "Leaf Node"), though the resultant statement is more complicated. Intuitively, brute-force minimax search becomes pathological because it devotes too little effort to critical lines. The singular extension heuristic can be seen as a solution to this problem. 
 
 ```
@@ -65,19 +65,19 @@ A somehow relaxed version of SE was implemented in [Stockfish 1.6](Stockfish "St
 
 
 
-```
+```C++
  At least one idea discussed on other forums that was attributed to Rybka 3 via the clone is already implemented in Stockfish 1.6, and was apparently the main reason for its large jump in strength over 1.5. So at least this idea will surely be in all top programs soon. Some developers will study the clone code themselves, while others may only use ideas they read about that came from the clone, but sooner or later other programs will show large gains from this information. At the very least, once an idea is implemented in a legitimate open-source program like Stockfish, it becomes accepted as something every programmer may use.
 
 ```
 
 
-```
+```C++
 I don't think this is the place to publicize ideas from Rybka that were supposed to be secret, but the Stockfish 1.6 notes make it obvious that the big change in this version was a new way of doing "singular extension", improved from the way it was done in Deep Thought/Deep Blue.
 
 ```
 
 
-```
+```C++
 Clearly the reverse engineering of Rybka is indeed "the highest form of flattery"; as to why the author(s) of the clone don't openly admit it I can't say. But the specific idea I'm talking about here is attributed to the clone (and hence by implication to Rykba) in the forum where it was discussed, so I don't think Stockfish or any other program which uses this idea is denying its origin. Once a good idea becomes common knowledge, regardless of its origin, programmers must use it (if it helps) to remain competitive. 
 
 ```

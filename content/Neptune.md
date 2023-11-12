@@ -33,7 +33,7 @@ by [Don Beal](Don_Beal "Don Beal") <a id="cite-note-3" href="#cite-ref-3">[3]</a
 
 
 
-```
+```C++
 Written by Matthew Craighead, age 11 years, from Minnesota. Matthew is a prodigy (his father refers to him as a "different" child). He began writing computer programs in [Basic](Basic "Basic") at age 4, reading computer manuals as well as biology and anatomy books. From 5 he read his father's biochemistry books. 3 years ago he read about computer chess, and subsequently decided to write his own program. His first one was in [Pascal](Pascal "Pascal"), but he later realised the advantages of the [C](C "C") language, and re-wrote it. He is currently taking university classes in maths (calculus) as well as attending school. Neptune is not expected to win against the experienced and professional programs in this tournament, but what if he keeps working on it... 
 
 ```

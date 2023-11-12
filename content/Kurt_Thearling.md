@@ -33,7 +33,7 @@ Roger E. Frye contributed to the [StarTech](StarTech "StarTech") project, as men
 
 
 
-```
+```C++
 [Mark Bromley](Mark_Bromley "Mark Bromley"), [Roger Frye](Roger_Frye "Roger Frye"), and Kurt Thearling provided important design and programming help in getting StarTech running on the [CM-5](Connection_Machine "Connection Machine"). 
 
 

@@ -20,7 +20,7 @@ For example, if the side to move is a rook down, it does not bother to test capt
 
 Some processing power may be saved by testing if **any** move can improve over alpha. Then in truly hopeless nodes we don't do move generation and testing each move against the delta margin. The following code shows how this is done on the [CPW-Engine](CPW-Engine "CPW-Engine") (it represents a part of quiescence search responsible for handling a stand pat score):
 
-```
+```C++
 
 // get a "stand pat" score
 

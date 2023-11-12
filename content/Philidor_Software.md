@@ -37,7 +37,7 @@ The [PCW tournaments](PCW_Microcomputer_Chess_Championship "PCW Microcomputer Ch
 
 
 
-```
+```C++
 [PCW tournaments](PCW_Microcomputer_Chess_Championship "PCW Microcomputer Chess Championship") were to provide [Levy](David_Levy "David Levy") and [O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") with a fertile recruiting ground for proven chess programmers. For the time being though other avenues were explored. At the bottom of his article entitled ‘Chess Programming: Before You Begin’ published in the May 1979 edition of Personal Computer World, David Levy added an advertisement for programmers. At this point the Philidor Software company was born. 
 
 ```

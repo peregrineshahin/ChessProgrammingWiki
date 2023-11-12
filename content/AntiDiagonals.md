@@ -230,7 +230,7 @@ Some alternative enumeration of anti-diagonals to make the main-diagonal index 0
 
 Two [Squares](Squares "Squares") are on the same Anti-Diagonal, if sum of file and rank distance is zero
 
-```
+```C++
 
 bool squaresOnSameAntiDiagonal(int sq1, int sq2) {
   return ((sq2 - sq1) & 7) + ((sq2>>3) - (sq1>>3)) == 0;

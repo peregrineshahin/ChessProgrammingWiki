@@ -3,7 +3,7 @@ title: CPWEngine stdafx h
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * stdafx.h**
 
-```
+```C++
 
 ##pragma once
 

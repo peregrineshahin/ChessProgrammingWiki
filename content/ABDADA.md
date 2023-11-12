@@ -48,7 +48,7 @@ The ABDADA algorithm is described in five steps:
 
 The C-like pseudo code below (adopted from the Pascal like pseudo code from Weill's paper), demonstrates the mentioned three phases controlled by an iteration counter. The boolean parameter *exclusiveP* indicates whether the node should be searched exclusively and is passed to the TT-probing code via the procedure *retrieveAsk*. A new value outside the usual [value range](Score#ValueRange "Score") need to be defined (ON_EVALUATION), and *retrieveAsk* returns this score if probed in exclusive move, and other processors evaluating this node.
 
-```
+```C++
 
 int abdada(const CNode &position, int α, int β, int depth, bool exclusiveP) {
    if (depth == 0) return evaluate( position );

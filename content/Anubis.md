@@ -22,12 +22,12 @@ a private [WinBoard](WinBoard "WinBoard") compliant chess engine by [José Carlo
 
 [José Carlos Martínez Galán](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán") in 2012 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
-```
+```C++
 Additionally, as that Anubis had such a crap design, I've started a new one from scratch, and I've reused the name. The new one is well designed and has much more potential, but it's not complete yet, it can't play chess.
 
 ```
 
-```
+```C++
 I planned to give the sources along with the program because I believe this design is really good, but all the mess around the [Rybka case](Rybka_Controversy "Rybka Controversy") has made me change my mind. Too much trouble for what should be an enjoyable hobby. So I'm not going to release any chess program nor participate in any tournament.
 
 ```

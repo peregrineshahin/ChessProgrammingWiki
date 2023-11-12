@@ -20,7 +20,7 @@ a chess program by [John Poduska Jr.](John_Poduska_Jr. "John Poduska Jr.") writt
 
 from *Chess and Machine Intuition* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 After a first round debacle at the 1982 North American Computer Championship, John Poduska achived a computer chess version of a *fingerfehler* - the quick, obvious move that happens to be wrong - with a too-hasty repair, after which he could only watch with dismay as his program played the worst moves it could find.
 
 ```

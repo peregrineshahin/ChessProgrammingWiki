@@ -36,7 +36,7 @@ The more common search structure is the [recursive](Recursion "Recursion") [dept
 
 
 
-```
+```C++
 It is interesting to convert this recursive procedure to an iterative (non-recursive) form by a sequence of mechanical transformations, and to apply simple optimizations which preserve program correctness. The resulting procedure is surprisingly simple, but not as easy to prove correct as the recursive form.
 
 ```
@@ -69,7 +69,7 @@ Especially for the [Parallel Search Algorithm](Parallel_Search "Parallel Search"
 
 
 
-```
+```C++
 
 namespace Label
 {
@@ -145,7 +145,7 @@ node_done:
 
 
 
-```
+```C++
 
 enum { RETURN, NEW_NODE };
 

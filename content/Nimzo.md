@@ -107,13 +107,13 @@ given in 1999 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-12" 
 
 
 
-```
+```C++
 Nimzo is one of the leading professional chess programs. It combines sound positional play with extremely strong tactics. Nimzo-Paderborn is a considerable improved version of the currently commercially available programs Nimzo98, Nimzo99 and Nimzo2000.
 
 ```
 
 
-```
+```C++
 Nimzo-Paderborn [learns](Learning "Learning") automatically from human grandmaster games. It is also equipped with an own Chess-Advice-Language (Che++) which allows strong human players to formulate chess-knowledge. The program can also access in its search [endgame databases](Endgame_Tablebases "Endgame Tablebases"). It therefore searches regularly from the middlegame into won endgames. 
 
 ```
@@ -130,7 +130,7 @@ Following [forward pruning](Pruning "Pruning") code appears in Nimzo's 2.2.1 sea
 
 
 
-```
+```C++
 
   if((depth <= 1) && (!extflg) && (score > beta) && (GPtr->hung.w <= KNIGHTHUNG)) {
     return score;

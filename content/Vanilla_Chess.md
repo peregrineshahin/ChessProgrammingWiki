@@ -39,7 +39,7 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:
 
 
 
-```
+```C++
 
 /*************************************/
 /*                                   */
@@ -71,7 +71,7 @@ Sample [move generation](Move_Generation "Move Generation") routine for bishops,
 
 
 
-```
+```C++
 
 void bishopmoves(int mover, struct movelisttype * movelist, int nsquare) {
    int loop, otherp;

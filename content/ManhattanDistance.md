@@ -36,7 +36,7 @@ The Manhattan-Distance is the sum of the absolute [rank-distance](Ranks#RankDist
 
 
 
-```
+```C++
 Dtaxi = |r2 - r1| + |f2 - f1|
 
 ```
@@ -60,7 +60,7 @@ The following [C](C "C")-routine performs the computation. One may use the menti
 
 
 
-```
+```C++
 
 int manhattanDistance(int sq1, int sq2) {
    int file1, file2, rank1, rank2;
@@ -84,7 +84,7 @@ Since the computation is relative expensive, often two dimensional tables with p
 
 
 
-```
+```C++
 
 unsigned char arrManhattanDistance[64][64]; // 4 KByte
 
@@ -102,7 +102,7 @@ The [0x88](0x88 "0x88") [square relation](0x88#SquareRelations "0x88") permits a
 
 
 
-```
+```C++
 
 unsigned char arrManhattanDistanceBy0x88Diff[240];
 

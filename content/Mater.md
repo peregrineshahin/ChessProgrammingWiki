@@ -42,7 +42,7 @@ This page is based on the description of Mater by [George Baylor](George_Baylor 
 
 
 
-```
+```C++
 The program reported here is not a complete chess player; it does not play games. Rather, it is a chess analyst limited to [searching](Search "Search") for [checkmating](Checkmate "Checkmate") [combinations](Combination "Combination") in [positions](Chess_Position "Chess Position") containing [tactical](Tactics "Tactics") possibilities. A combination in chess is a series of forcing moves with [sacrifice](Sacrifice "Sacrifice") that ends with an objective advantage for the active side. A checkmating combination, then, is a combination in which that objective advantage is checkmate. Thus the program described here - dubbed MATER - given a position, proceeds by [generating](Move_Generation "Move Generation") that class of forcing moves that put the enemy King in [check](Check "Check") or threaten mate in one move, and then by analyzing first those moves that appear most promising. 
 
 ```
@@ -55,7 +55,7 @@ The original mating combination program, as conceived by Herbert Simon and his s
 
 
 
-```
+```C++
 MATER is written by George Baylor and Simon in FORTRAN. It is able to search to great depths for checkmates. MATER is presently part of the Cooper-Kozdrowicki program. While MATER is an interesting program in its own right, the opportunity to checkmate one's opponent plays a relatively small computational part of the game of chess, and its inclusion in the Cooper-Kozdrowicki program does not seem to add measurably to the program's strength. 
 
 ```

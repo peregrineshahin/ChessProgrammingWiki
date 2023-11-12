@@ -17,7 +17,7 @@ title: Diagonal Mirroring
 
 An [8x8 Board](8x8_Board "8x8 Board") with a [rank-file mapping](Squares "Squares") needs to swap [rank](Ranks "Ranks") and [file](Files "Files"). A pure 8x8 Board may be mirrored along the main diagonal that way in [C](C "C"):
 
-```
+```C++
 
 int board[64], f, r, sm, sq, s;
 

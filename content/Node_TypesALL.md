@@ -141,7 +141,7 @@ As emphasized by [Daniel Shawul](Daniel_Shawul "Daniel Shawul") <a id="cite-note
 
 
 
-```
+```C++
 PV  = 1
 CUT = b⌈n/2⌉ - 1
 ALL = b⌊n/2⌋ - 1
@@ -153,7 +153,7 @@ ALL = b⌊n/2⌋ - 1
 
 
 
-```
+```C++
 L = PV + CUT + ALL 
 
 ```
@@ -163,7 +163,7 @@ L = PV + CUT + ALL
 
 
 
-```
+```C++
 L = b⌈n/2⌉ + b⌊n/2⌋ - 1
 
 ```
@@ -268,7 +268,7 @@ Assuming a constant [branching factor](Branching_Factor "Branching Factor") of 4
 
 
 
-```
+```C++
 In [CB](Cray_Blitz "Cray Blitz"), I used this extensively, because you never want to split at a CUT node, and want to prefer an ALL node. [YBW](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") tries to recognize an ALL node by requiring that at least one move be searched before splitting, since > 90% of CUT nodes are discovered on the first move searched. But waiting on that first move introduces some wait time, and if you knew it was an ALL node from the get-go, you could split before the first move is completed. That was the basic premise behind the iterated search and [DTS algorithm](Dynamic_Tree_Splitting "Dynamic Tree Splitting") in Cray Blitz ... 
 
 ```

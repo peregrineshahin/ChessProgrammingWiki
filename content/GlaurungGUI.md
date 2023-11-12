@@ -18,7 +18,7 @@ It is portable and able to run on [Windows](Windows "Windows"), [Linux](Linux "L
   - [2.1 Board Representation](#board-representation)
   - [2.2 Search](#search)
   - [2.3 Evaluation](#evaluation)
-- [3 Glaurung GUI](#glaurung-gui)
+- [3 Gaurung GUI](#gaurung-gui)
 - [4 Play Magnus](#play-magnus)
 - [5 See also](#see-also)
 - [6 Forum Posts](#forum-posts)
@@ -50,7 +50,7 @@ Glaurung is a [PVS](Principal_Variation_Search "Principal Variation Search") sea
 
 Glaurung's [evaluation](Evaluation "Evaluation") is tellingly summarized by Tord's [evaluation philosophy](Evaluation_Philosophy "Evaluation Philosophy"), covering orthogonality, continuity, sense of progress and good worst case behavior <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Glaurung applies a [tapered evaluation](Tapered_Eval "Tapered Eval") to make a smooth transition between the [game phases](Game_Phases "Game Phases").
 
-## Glaurung GUI
+## Gaurung GUI
 
 In 2007, Tord released an own [UCI](UCI "UCI") compliant [GUI](GUI "GUI") for [Mac OS X](Mac_OS "Mac OS"), written in [Objective-C](https://en.wikipedia.org/wiki/Objective-C) using the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) <a id="cite-note-10" href="#cite-ref-10">[10]</a> implementation of the [Cocoa](https://en.wikipedia.org/wiki/Cocoa_%28API%29) [Widget toolkit](https://en.wikipedia.org/wiki/Widget_toolkit) <a id="cite-note-11" href="#cite-ref-11">[11]</a>, later ported for the [iPhone](index.php?title=IPhone&action=edit&redlink=1 "IPhone (page does not exist)").
 

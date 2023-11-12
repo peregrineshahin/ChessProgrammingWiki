@@ -141,7 +141,7 @@ We consider a team competition (as in chess) where every member of team
 
 
 
-```
+```C++
 A = {a1, . . . , an}
 
 ```
@@ -151,7 +151,7 @@ plays against exactly one member of team
 
 
 
-```
+```C++
 B = {b1, . . . , bn},
 
 ```

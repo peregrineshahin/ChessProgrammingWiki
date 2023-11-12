@@ -72,7 +72,7 @@ To apply addition and subtraction on vectors of bit-aggregates or [bit-field str
 
 
 
-```
+```C++
 
 SWAR add z = x + y
     z = ((x &~H) + (y &~H)) ^ ((x ^ y) & H)
@@ -80,7 +80,7 @@ SWAR add z = x + y
 ```
 
 
-```
+```C++
 
 SWAR sub z = x - y
     z = ((x | H) - (y &~H)) ^ ((x ^~y) & H)
@@ -88,7 +88,7 @@ SWAR sub z = x - y
 ```
 
 
-```
+```C++
 
 SWAR average z = (x+y)/2 based on x + y = (x^y) + 2*(x&y)
     z = (x & y) + (((x ^ y) & ~L) >> 1)
@@ -103,7 +103,7 @@ Amazing, how similar these two SWAR- and [parallel prefix wise](Parallel_Prefix_
 
 
 
-```
+```C++
 
 U64 mirrorHorizontal (U64 x) {
     const U64 k1 = C64(0x5555555555555555);
@@ -118,7 +118,7 @@ U64 mirrorHorizontal (U64 x) {
 ```
 
 
-```
+```C++
 
 int popCount (U64 x) {
     const U64 k1 = C64(0x5555555555555555);

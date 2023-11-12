@@ -23,12 +23,12 @@ While Ananse did quite well against humans, in computer tournaments it often suf
 
 given in 1997 from the [ICGA](ICGA "ICGA") site <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```
+```C++
 200K code, 62K data. Basic [alpha-beta](Alpha-Beta "Alpha-Beta") search with several special routines providing a 'human touch'. Plays very much like a human player, even in the middle game. Search depth : 6 to 15 ply. No hash tables.
 
 ```
 
-```
+```C++
 Best tournament results : 2 and a half points at [Aegon 1993](Aegon_1993 "Aegon 1993") and 2 points at [Aegon 1994](Aegon_1994 "Aegon 1994"), plus several misses in [Jakarta '96](WMCCC_1996 "WMCCC 1996") (due to bugs) and a good game against Fritz 4. The current version is the best ever. Many improvements with the help of participants in Geneva the last 2 human tournaments in Geneva, where Ananse was the only participating program. 
 
 ```

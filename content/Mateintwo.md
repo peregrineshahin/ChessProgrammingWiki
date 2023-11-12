@@ -41,13 +41,13 @@ This [control flow diagram](https://en.wikipedia.org/wiki/Control_flow_diagram) 
 
 
 
-```
+```C++
 Entry 1 correspondents to the case of the first move in a turn with all the counters set to their initial value. Entry 2 is the general case of a move following a previous move of this same turn. Exit 3 indicates that a legal move has been found; exit 4 that the position supplied to the turn has been exhausted before such a move has been found. 
 
 ```
 
 
-```
+```C++
 
        ▼  ┌─────◄───────────┐
       1│  │2                │
@@ -102,7 +102,7 @@ One memory line of the Mark 1 [Williams-Kilburn tube](https://en.wikipedia.org/w
 
 
 
-```
+```C++
 5Kbk/6pp/6P1/8/8/8/8/7R w - -
 
 ```

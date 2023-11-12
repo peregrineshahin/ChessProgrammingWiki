@@ -39,7 +39,7 @@ and [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal) for positive scores
 
 
 
-```
+```C++
 
 if      (eval < -74) personality =  Petosian;
 else if (eval < -31) personality =  Petosian | Capablanca;
@@ -67,7 +67,7 @@ the score of timestep t adjusted as weighted average with the future reward of t
 
 
 
-```
+```C++
 
   for (t = ml.size() - 2; t >= 0; t--) {
     ml[t].score = (1-α)*ml[t].score + α*γ*ml[t+1].score;

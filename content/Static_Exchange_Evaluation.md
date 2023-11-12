@@ -40,7 +40,7 @@ A [didactic](https://en.wikipedia.org/wiki/Didactic_method) [recursive](Recursio
 
 
 
-```
+```C++
 
 int see(int square, int side)
 {
@@ -71,7 +71,7 @@ To statically evaluate a [capture](Captures "Captures"), that particular capture
 
 
 
-```
+```C++
 
 int seeCapture(int from, int to, int side)
 {

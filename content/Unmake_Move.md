@@ -30,7 +30,7 @@ This is how [make](Make_Move "Make Move") and Unmake Move are applied inside a [
 
 
 
-```
+```C++
 
 int negaMax( int depth ) {
     if ( depth == 0 ) return evaluate();

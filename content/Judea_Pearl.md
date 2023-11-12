@@ -44,7 +44,7 @@ Quote from the [Franklin Institute](https://en.wikipedia.org/wiki/Franklin_Insti
 
 
 
-```
+```C++
 Pearl was born in 1936 in [Tel Aviv](https://en.wikipedia.org/wiki/Tel_Aviv), Israel. He earned his B.S. in electrical engineering from the [Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology) in [Haifa](https://en.wikipedia.org/wiki/Haifa), Israel in 1960 and went on to earn a masters degree in physics from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University) in 1965 and his Ph.D. in electrical engineering the same year from the [Polytechnic Institute of Brooklyn](https://en.wikipedia.org/wiki/Polytechnic_University_%28New_York%29). He worked at [RCA](https://en.wikipedia.org/wiki/RCA) Research Laboratories <a id="cite-note-4" href="#cite-ref-4">[4]</a> in [Princeton](https://en.wikipedia.org/wiki/Princeton%2C_New_Jersey) until 1970 and has been at the [University of California](https://en.wikipedia.org/wiki/University_of_California%2C_Los_Angeles), Los Angeles ever since. 
 
 ```

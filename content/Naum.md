@@ -172,7 +172,7 @@ Qxf3+ 127.Kh2 Qe2+ 128.Kg1 Qd1+ 129.Kh2 Ke4 130.Qg8 0-1
 ```
 
 
-```
+```C++
 "Take me to the hospital, that was crazy like that", said an exhausted [Alexander Naumov](Alexander_Naumov "Alexander Naumov") right after [his opponent](Vasik_Rajlich "Vasik Rajlich") resigned. The game was already a few minutes over when he was still shaking like a leaf and his hands were freezing ... 
 
 ```

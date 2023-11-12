@@ -52,7 +52,7 @@ Operator symbols, [truth tables](https://en.wikipedia.org/wiki/Truth_table), [IE
 
 An [AND gate](https://en.wikipedia.org/wiki/AND_gate) implements a [logical conjunction](https://en.wikipedia.org/wiki/Logical_conjunction).
 
-```
+```C++
 a ∧ b
 
 ```
@@ -91,7 +91,7 @@ a ∧ b
 
 An [OR gate](https://en.wikipedia.org/wiki/OR_gate) implements a [logical disjunction](https://en.wikipedia.org/wiki/Logical_disjunction).
 
-```
+```C++
 a ∨ b
 
 ```
@@ -130,7 +130,7 @@ a ∨ b
 
 A [NOT gate](https://en.wikipedia.org/wiki/NOT_gate) or **Inverter** implements a [logical negation](https://en.wikipedia.org/wiki/Logical_negation).
 
-```
+```C++
 ¬a
 
 ```
@@ -162,7 +162,7 @@ Concrete electronic gates often combine AND and OR with trailing NOT for so call
 
 A [NAND gate](https://en.wikipedia.org/wiki/NAND_gate) is the inversion of AND, NOT AND.
 
-```
+```C++
 a ⊼ b
 
 ```
@@ -201,7 +201,7 @@ a ⊼ b
 
 A [NOR gate](https://en.wikipedia.org/wiki/NOR_gate) is the inversion of OR, NOT OR.
 
-```
+```C++
 a ⊽ b
 
 ```
@@ -240,7 +240,7 @@ a ⊽ b
 
 A [XOR gate](https://en.wikipedia.org/wiki/XOR_gate) implements a [exclusive disjunction](https://en.wikipedia.org/wiki/Exclusive_disjunction), which might be derived from AND/OR/NOT, for instance from four NAND gates.
 
-```
+```C++
 a ⊻ b
 
 ```
@@ -301,7 +301,7 @@ Assuming there are 13 times 64 digital inputs from a hardware wired [chessboard]
 
 With [C](C "C")-like operators, that is '&' for AND and '|' for OR, the DNF would look like this:
 
-```
+```C++
 
 southAttackByWhiteRook(a8) ::=
     wrook(a7)
@@ -318,7 +318,7 @@ southAttackByWhiteRook(a8) ::=
 
 The same sample as circuit f. i. in [Diode logic](https://en.wikipedia.org/wiki/Diode_logic) with 34 [diodes](https://en.wikipedia.org/wiki/Diode) and 7 [resistors](https://en.wikipedia.org/wiki/Resistor):
 
-```
+```C++
 
  Board bus
  empty                    white rook                    

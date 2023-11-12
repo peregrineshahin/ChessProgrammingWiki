@@ -9,7 +9,7 @@ a pruning technique based on [history counters](History_Heuristic "History Heuri
 
 ## Sample Code
 
-```
+```C++
 
 if (node_type != NodePV) {
     if (!in_check && played_nb >= 5 && !extended) {

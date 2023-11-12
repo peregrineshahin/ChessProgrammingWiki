@@ -37,7 +37,7 @@ In his 2002 paper *A hierarchical approach to computer Hex*, Anshelevich acknowl
 
 
 
-```
+```C++
 A Hex-playing machine was built by Shannon and Moore. Shannon associated a two-dimensional electrical charge distribution with any given Hex position. This machine made decisions based on properties of the corresponding potential field. We acknowledge that our work is greatly inspired by the beauty of Shannon’s original idea. 
 
 ```

@@ -25,7 +25,7 @@ Philippe Fabiani summarized his ups and downs in chess programming with a quote 
 
 
 
-```
+```C++
 But man is a fickle and disreputable creature and perhaps, like a chess-player, is interested in the process of attaining his goal rather than the goal itself. 
 
 ```

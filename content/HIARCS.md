@@ -39,7 +39,7 @@ an [UCI](UCI "UCI") compliant chess engine written by [Mark Uniacke](Mark_Uniack
 
 The very first version of HIARCS was already written 1980 in [PDP-11](PDP-11 "PDP-11") [Basic](Basic "Basic"), when Mark was a 15 year old schoolboy <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Subsequent versions (5 aka 0.5) were still written in interpreted Basic as well, and to compensate that speed disadvantage, HIARCS used to be smart rather than fast. [Mark Uniacke](Mark_Uniacke "Mark Uniacke") from *Now Walking, 1982-1983: HIARCS 5* <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
-```
+```C++
 The inspiration for the new HIARCS search was sought from the book [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine") and in particular the article "The heuristic search: An alternative to the alpha-beta minimax procedure" by [Larry Harris](Larry_Harris "Larry Harris") from [Dartmouth College](Dartmouth_College "Dartmouth College") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . HIARCS was still written in the relatively primitive [BASIC](index.php?title=BASIC&action=edit&redlink=1 "BASIC (page does not exist)") programming language and being interpreted it meant the program was rather slow. To compensate for this I developed some heuristics to help guide the search and evaluation in a more targeted way. 
 
 ```
@@ -68,34 +68,34 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-8" href="#cite-ref
 
 ## 1999
 
-```
+```C++
 HIARCS is written entirely in 'C' on a very spare time basis.
 
 ```
 
-```
+```C++
 HIARCS searches around an order of magnitude less positions per second (av. 18,000) than most of its competitors. However, it makes up for this apparent slow speed by clever searching and accurate evaluation. HIARCS uses many selective search extension heuristics to guide the search and incorporates a sophisticated tapered search to resolve tactical uncertainties while finding positionally beneficial lines.
 
 ```
 
-```
+```C++
 HIARCS won the title of World Microcomputer Chess Software Champion in [1993 in Munich](WMCCC_1993 "WMCCC 1993"), Germany and has won numerous other computer and human tournaments. HIARCS 7.0 is currently the top rated chess program on the [SSDF](SSDF "SSDF") and [Selective Search](Selective_Search "Selective Search") rating lists.
 
 ```
 
-```
+```C++
 In April 1997, HIARCS 6.0 became the first PC chess program to win a match played at tournament time controls over a [FIDE](FIDE "FIDE") International Master. This great achievement was further built on when HIARCS won the [Godesberg](https://en.wikipedia.org/wiki/Bad_Godesberg) Open ahead of Grandmasters and International Masters.
 
 ```
 
-```
+```C++
 The version competing in this tournament is a new experimental version. The program will be a 32bit [Windows](Windows "Windows") version of HIARCS and will support [tablebases](Endgame_Tablebases "Endgame Tablebases"). It is expected that all 4 piece and most 5 piece endgame tablebases will be available. 
 
 ```
 
 ## 2008
 
-```
+```C++
 HIARCS is one of the few original PC chess programs still competing in top level chess competition. It has been in development over the last twenty years and since 1991 has always been among the top chess programs in the world. In this time it has led world computer rating lists and won World Championship titles. It was the first PC chess program to defeat a FIDE International Master in a match and has been a favourite of a number of World Chess Champions. So much so that [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) said towards the end of [his match](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") with [Deep Blue2](Deep_Blue "Deep Blue") that "HIARCS is much better positionally than Deep Blue". HIARCS is available on a number of platforms including PC, Macintosh and handheld devices. The handheld Palm version has won multiple matches against GMs and even won a GM/IM tournament in the Philippines. HIARCS' playing style is now very aggressive with a distinctive liking for attacking the opponent's king. This often leads to dynamic exciting games which are often played on a knife-edge. HIARCS is now capable of taking advantage of multi-processors/cores to improve its chess performance making it a very dangerous opponent. 
 
 ```

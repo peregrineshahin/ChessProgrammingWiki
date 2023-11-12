@@ -55,7 +55,7 @@ Botvinnik's early ideas on [attack maps](Attack_and_Defend_Maps "Attack and Defe
 
 
 
-```
+```C++
 
      ╔════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╗
  210 ║  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 ║
@@ -97,7 +97,7 @@ Botvinnik's early ideas on [attack maps](Attack_and_Defend_Maps "Attack and Defe
 
 
 
-```
+```C++
 
 D(f6,K)          +  D(h1,K)          =  SUM                 SUM == D(f6,h1)
 5 4 3 2 2 2 2 2     7 7 7 7 7 7 7 7     c b a 9 9 9 9 9     . . . . . . . .
@@ -256,7 +256,7 @@ Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill 
 
 
 
-```
+```C++
 A novel idea has been proposed by Botvinnik. He believes it is important to know which pieces are able to reach a certain square or sector of the board in a set number of half-moves. In this manner it is possible to determine the pieces that one should be concerned with when planning a move and it establishes what Botvinnik calls an "horizon." Thus one could vary the horizon by changing the amount of time pieces are allowed to take in arriving at a given area. At the present time some of his ideas have been programmed, but the successful completion of a program based on Botvinnik's ideas has not yet been announced. 
 
 ```
@@ -269,7 +269,7 @@ A novel idea has been proposed by Botvinnik. He believes it is important to know
 
 
 
-```
+```C++
 The Novag Constellation programs represent a significant evolutionary step in the development of microcomputer chess programs. The program represents the first commercial implementation of the [attack map](Attack_and_Defend_Maps "Attack and Defend Maps") / offset map move generating strategy proposed by former World Chess Champion Mikhail Botvinnik and subsequently refined by myself for faster [move generation](Move_Generation "Move Generation") as pieces come off the board. 
 
 ```
@@ -282,19 +282,19 @@ The Novag Constellation programs represent a significant evolutionary step in th
 
 
 
-```
+```C++
 PIONEER has been tested on various positions. For experiments we used an [80386](X86 "X86") based computer running at 20 MHz. The outcome shows the approach described in its advantage as well in its disadvantage.
 
 ```
 
 
-```
+```C++
 So far PIONEER cannot regarded as a competetive player. The program is not fast enough to play under tournament conditions. It takes up to several hours to complete a search. Moreover, we found out, PIONEER  fails to find a solution in some positions (especially in endgames).
 
 ```
 
 
-```
+```C++
 Nevertheless, fortunately in mosts cases PIONEER manages to find the strongest move. If so, the program has found this move in a human fashion. It discovers the position's essence, correctly specifies subgoals and directs its search towards these subgoals. In accordance with this, all the trees are small, narrow and deep, and contain only reasonable variations of variable depth, truncated by logical considerations. 
 
 ```
@@ -307,19 +307,19 @@ Nevertheless, fortunately in mosts cases PIONEER manages to find the strongest m
 
 
 
-```
+```C++
 This book was inspired by the results of long and fruitful collaboration in the 70s and 80s with Professor Mikhail Botvinnik, my research adviser and project director. At the very beginning he shaped my thinking about complex search problems. One scientist said that this unimaginably difficult work could have started because Botvinnik, a chess player, did not anticipate the difficulties of programming, while Stilman, a computer scientist, did not anticipate difficulties of playing chess. Every time when the team of researchers experienced serious problems in the development of the project PIONEER, Dr. Botvinnik used to say: “If a human chess master can make it, a computer will make it as well.” He believed in the existence of a general algorithm, or a small collection of general algorithms, used intuitively by all the chess masters and grandmasters in playing chess. Essentially, discovery, simulation and generalization of these algorithms were the goals of the project PIONEER. An attempt to construct and investigate a mathematical model based on those algorithms is the goal of this book. Alexander Yudin, Alexander Reznitskiy, Mikhail Tsfasman, Mikhail Chudakov have worked with me in the 70s and 80s to develop project PIONEER. My friend and colleague, Vadim Mirniy, with whom we worked in the 80s provided major insights and pushed our research and software implementations to much higher level. Also, in the 70s an invaluable technical assistance in software development was provided by Dmitry Lozinskiy, Lidia Poltavets, and Anatoliy Kostrukov. Four major scientists, the founders of computer science and engineering in the former Soviet Union, Academician Viktor Glushkov, Professors Bashir Rameev, Viacheslav Myasnikov and Nikolay Krinitskiy contributed to the establishment of the organizational framework, provided major funding and access to the state-of-the-art computers for project PIONEER.
 
 ```
 
 
-```
+```C++
 Project PIONEER and the first theoretical generalizations related to the origin of LG would have never succeeded without constant support of numerous Soviet scientists. I am grateful to all of them. Here, I would like to acknowledge those whose decisive support came at the most difficult times. They are Academician Nikolay Krasovsky, Academician-correspondent, Lenin Prize Winner Yakov Tsipkin, Academician-correspondents Yury Rudenko and Hermogen Pospelov, Professors Dmitry Pospelov, David Yudin, [Vladimir Yakubovich](Mathematician#VAYakubovich "Mathematician"), [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), Yuriy Shakarian, Gavriil Shalit, Lev Mamikoniants and [Dr. Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy").
 
 ```
 
 
-```
+```C++
 Scientific exchange with researchers from around the world allowed our team to overcome isolation of the former Soviet Union. A list of major participants of this exchange includes Professor [Monty Newborn](Monroe_Newborn "Monroe Newborn") from [McGill University](McGill_University "McGill University"), Canada, Professors [Tony Marsland](Tony_Marsland "Tony Marsland") and [Randy Goebel](Mathematician#Goebel "Mathematician") from the [University of Alberta](University_of_Alberta "University of Alberta"), Canada, Professor [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") from the [University of Limburg](Maastricht_University "Maastricht University"), The Netherlands, Professor [Ben Mittman](Ben_Mittman "Ben Mittman") from [Northwestern University](Northwestern_University "Northwestern University"), USA, [Dr. David Cahlander](David_Cahlander "David Cahlander") from CDC Corp., USA, [Ken Thompson](Ken_Thompson "Ken Thompson") from [Bell Labs](Bell_Laboratories "Bell Laboratories"), USA, [Dr. Hans Meuer](https://en.wikipedia.org/wiki/Hans_Meuer) from the [University of Mannheim](https://en.wikipedia.org/wiki/University_of_Mannheim), Germany, [Dr. H.-J.Appelrath](Hans-J%C3%BCrgen_Appelrath "Hans-Jürgen Appelrath") from the [University of Dortmund](University_of_Dortmund "University of Dortmund"), Germany, [David Levy](David_Levy "David Levy") from London, UK. 
 
 ```

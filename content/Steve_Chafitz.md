@@ -20,7 +20,7 @@ Steve Chafitz on a call from [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby
 
 
 
-```
+```C++
 Just to rewind a bit, one evening when I was home having dinner, I got a call from Bobby Fischer. He was excited about our electronic chess game "[Boris](Boris "Boris")" and I realized that if he was interested in our electronic chess game that there was a major market out there. We increased our development of electronic games and yes, we hired the brightest and the best programmers in the country to develop programs for our games. 
 
 ```

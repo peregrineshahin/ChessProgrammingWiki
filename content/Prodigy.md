@@ -28,13 +28,13 @@ a chess program written in 1981 by two Ph.D. students from the [University of Wa
 
 
 
-```
+```C++
 If I was going to create a world champion chess program I would need help. I advertised around the Department of Computer Science and was fortunate to find Howard Johnson, a fellow Ph.D. student, who was as enthusiastic about computer chess as I was. The summer of 1981 was spent writing a new program that we called Prodigy. Howard wrote the control part of the program, and I put in the chess knowledge. We entered it at in the 1981 North American Computer Chess Championship. Against the best programs in the world, we fared poorly. The program exhibited moments of brilliance, only to come crashed down in every contest. We lost every game and finished dead last. I was bitterly disappointed. My enthusiasm for computer chess disappeared abruptly on the last day of the tournament, and Prodigy never played again. ||
 
 ```
 
 
-```
+```C++
 Even if I wanted to, I couldn't use the name Prodigy again. Six months after the North American Championship, I was startled to see an advertisement for a chess computer named Prodigy. I wrote to the manufacturer asserting my prior claim to the name. They wrote back stating that they had done a trademark search on the name and found no matches. Therefore they would appreciate it if I would stop using their name. They left no doubt about the legal implications of their request <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ```

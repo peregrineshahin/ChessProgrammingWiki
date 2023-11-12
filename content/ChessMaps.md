@@ -27,7 +27,7 @@ Current ChessMaps GUI <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 Kieran Greer's more recent research on *Tree Pruning for New Search Techniques in Computer Games* with [move chains](index.php?title=Move_Chains&action=edit&redlink=1 "Move Chains (page does not exist)") has been carried out using Chessmaps <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 The Chessmaps program is still only a prototype program and is missing modules or functions that would be included in a complete program. There is no real knowledge of endgame play, for example, where the program will tend to play more aimlessly and be happy to concede a draw by repetition, in a clearly winning position. On the other hand, in certain middlegame positions where its positional evaluator should work well, it does play strongly. It is still a bit buggy and can produce errors, but the testing and results have been performed under reliable circumstances. So a rough evaluation of playing strength might be a strong club player, although, this is not particularly strong for computer chess programs these days. 
 
 ```

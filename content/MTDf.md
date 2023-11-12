@@ -44,7 +44,7 @@ Original [Pascal](Pascal "Pascal") pseudo code by [Aske Plaat](Aske_Plaat "Aske 
 
 
 
-```
+```C++
 
 function MTDF(root : node_type; f : integer; d : integer) : integer;
       g := f;
@@ -64,7 +64,7 @@ Typically, one would call MTD(f) in an [iterative deepening](Iterative_Deepening
 
 
 
-```
+```C++
 
 function iterative_deepening(root : node_type) : integer;
 
@@ -84,7 +84,7 @@ Slightly modified pseudo code in [C](C "C"):
 
 
 
-```
+```C++
 
 int mtdf(int f, int depth) {
    int bound[2] = {-oo, +oo}; // lower, upper

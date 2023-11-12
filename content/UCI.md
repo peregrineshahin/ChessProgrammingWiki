@@ -64,13 +64,13 @@ Excerpt concerning UCI from a [Robert Hyatt](Robert_Hyatt "Robert Hyatt") interv
 
 
 
-```
+```C++
 I simply don't like UCI. It subsumes **all** engine control parameters. It tells the engine when to [ponder](Pondering "Pondering"), when to [search](Search "Search"), when to stop, etc. That is contrary to my design and I have no interest in hacking [Crafty](Crafty "Crafty") to support something that is so different from the [WinBoard/XBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") protocol that has been around for a **long** time and which works **perfectly**.
 
 ```
 
 
-```
+```C++
 It removes several critical engine-decisions that are best made by the engine, not the GUI.
 
 ```
@@ -80,7 +80,7 @@ It removes several critical engine-decisions that are best made by the engine, n
 
 
 
-```
+```C++
 IMO statelessness w.r.t. the game state (including clocks) in UCI was a very bad idea. It is not only that it makes the communication unnecessarily verbose, but w.r.t. clocks there is a real problem: in classical TC the timing info accompanying the 'go' command does not specify how much time will be added after the 'movestogo' have been played. With movestogo=1 and wtime/btime=59000 you could be in a 40moves/hour game, at the brink of receiving another hour for the next 40 moves, in which case it would be wise to completely spend the remaining 59 sec on the upcoming move, as this is already below average. But you could also be in a 40moves/min game, where you got out of book after 39 moves, and receive only 1 new minute for the next 40. Wasting the 59 sec on a single move now effectively reduces your time for the second session by a factor 2, which would be very sub-optimal. The time management in this case should act like you have 1:59 for 41 moves (but be aware of a 'cold-turkey deadline' for the upcoming move). There is no way a UCI engine could know this.
 
 ```
@@ -102,7 +102,7 @@ IMO statelessness w.r.t. the game state (including clocks) in UCI was a very bad
 
 
 
-```
+```C++
 The choice of UCI is based on software-design principles that are not easy to explain. It's a programmer's thing really, I don't expect engine users to understand. Let me give you a clue though: think about young WinBoard engines that you have tried; how many handled pondering ... without bugs??? Another clue might be that surely, [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") knows a lot about good programming, right? So trust him if not me, UCI is good for programmers because it leads to fewer bugs in the code ... 
 
 
@@ -116,7 +116,7 @@ Fabien wrote a protocol translation program, [PolyGlot](PolyGlot "PolyGlot") to 
 
 
 
-```
+```C++
 The protocol is brilliant (and you can clearly realize it was designed by a very good programmer) because allows the code needed to handle it to be:
 - Straightforward
 - Simple (meaning with the minimal number of 'if' branches and logic)
@@ -130,14 +130,14 @@ The aim of the UCI protocol is to make the code simple, that's why I think it wa
 
 
 
-```
+```C++
 UCI's statelessness is surely not a bad idea. Your example did not prove that (it is a bad idea) but just point out a flawed detail on UCI design.
 A stateless protocol means a chess GUI must provide enough information each time an engine starts thinking. In your example, it cannot send enough information about the timer since the protocol does not mention it. It is not a big deal since programmers can solve that issue easily by adding some assumes. Of course, it is better one day we can fix those flawed details in the protocol (version 2?).
 
 ```
 
 
-```
+```C++
 I have written engines with both protocols (UCI, WB) and now support them all in my own chess GUI. Thus I have my own ideas about the strong points of each. Both are so good and can do so well their jobs. The stateless idea is the central point of UCI, which makes it a bit more suitable for modern computers and programming - that is why recently it becomes very popular.
 
 ```

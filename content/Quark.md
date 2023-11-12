@@ -36,7 +36,7 @@ Quarks first lines, Quote by [Thomas Mayer](Thomas_Mayer "Thomas Mayer") <a id="
 
 
 
-```
+```C++
 
 //-----------------------------------------------------------------------------------
 // QuarkChess

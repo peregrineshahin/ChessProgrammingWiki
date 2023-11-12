@@ -42,7 +42,7 @@ A position where White to move wins:
 
 
 
-```
+```C++
 8/8/5k2/7P/4B3/5K2/8/8 w - - 0 1
 
 ```
@@ -55,7 +55,7 @@ A position where White to move wins:
 
 
 
-```
+```C++
 
 dl = distance(lonesomeKing, promoSquare) + (side2move != loneSome); /* considers tempo */
 dw = distance(King, promoSquare);

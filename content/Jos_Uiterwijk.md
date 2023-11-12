@@ -41,7 +41,7 @@ Jos Uiterwijk talk on [Max Euwe](Max_Euwe "Max Euwe"), *Euwe and the Development
 
 
 
-```
+```C++
 Uiterwijk returned to the fifties of the previous century when the pioneers of [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence"), like [Turing](Alan_Turing "Alan Turing") and [Shannon](Claude_Shannon "Claude Shannon"), published their first speculations on how a computer could play chess. He showed how in less than fifty years the computer has turned into a [chess monster](Deep_Blue "Deep Blue"), [beating the world champion in 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"). Present day chess computers have an ELO rating ranking above 3000, a [strength](Playing_Strength "Playing Strength") of which chess players of flesh and blood can only dream. Max Euwe was very sceptical about how strong chess computers could become. He was very much interested in the development of computer chess, especially in the underlying mathematical principles. Euwe was involved in the foundation of the [Computer Chess Federation of The Netherlands](CSVN "CSVN"). He challenged researchers to prove him wrong and thus stimulated computer chess studies. 
 
 ```

@@ -98,7 +98,7 @@ given in 1995 from the [ICGA](ICGA "ICGA") page <a id="cite-note-10" href="#cite
 
 
 
-```
+```C++
 Junior is a leading Israeli chess playing PC program. It was developed as a hobby by Amir Ban and Shay Bushinsky. Junior's breakthrough occurred during August 1994: The program scored a remarkable equal fourth place (with [GM Alon Greenfeld](index.php?title=Alon_Greenfeld&action=edit&redlink=1 "Alon Greenfeld (page does not exist)")) in the [Kfar-Saba](https://en.wikipedia.org/wiki/Kfar_Saba) Open national chess tournament. The games were conducted under normal tournament time control. In the final round, Junior amazingly defeated GM Leonid Gopstein. During November 1994, Junior participated in the strongest international blitz tournament ever held in Israel. It beat [GM Ilya Smirin](https://en.wikipedia.org/wiki/Ilya_Smirin) and drew with [GM Lev Psakhis](https://en.wikipedia.org/wiki/Lev_Psakhis) and GM Alon Greenfeld. Amongst others, Junior reached a completely won position against [GM Judit Polgar](https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r). Since then Junior has established itself as a well respected player in the Israeli chess scene and is the one and only software selected to play in Israel's national chess league. Junior is one of the top chess playing programs on the [Internet Chess Server](https://en.wikipedia.org/wiki/Internet_chess_server). 
 
 ```
@@ -118,25 +118,25 @@ Amir started chess programming in 1985 - Junior's predecessor was written in [Tu
 
 
 
-```
+```C++
 Junior is written entirely in [C++](Cpp "Cpp") (Borland). The entire search engine is the implementation of class 'Position'. One statement that cannot be said about Junior is that it is slow. I've heard these kinds of performance arguments about C++ several times in the past. As a C++ veteran in many projects, I'm quite mystified about what is supposed to be slow about the language.
 
 ```
 
 
-```
+```C++
 Creating a new Position and detroying it for every node is indeed the classic OOP approach, and also exactly what my program does. Your assumption that this involves "[malloc](https://en.wikipedia.org/wiki/Malloc)" (or "[new](https://en.wikipedia.org/wiki/New_%28C%2B%2B%29)) is the incorrect one. mallocing a Position whenever you need one is as unnecesary and silly as mallocing an int every time you want to do a loop. You should malloc something when you want it to have dynamic lifetime and/or scope.
 
 ```
 
 
-```
+```C++
 You can create an object as you create an int, by putting it as an auto variable on the [stack](Stack "Stack"), e.g.: 
 
 ```
 
 
-```
+```C++
 
  alphabeta(...)
  {
@@ -148,7 +148,7 @@ You can create an object as you create an int, by putting it as an auto variable
 ```
 
 
-```
+```C++
  This constructs a Position at the point of declaration and destroys it on the exit from the block. The constructor and destructor do exactly what you code in them of course. No more, no less. The overhead for this is not low. It's zero. 
 
 ```
@@ -161,13 +161,13 @@ You can create an object as you create an int, by putting it as an auto variable
 
 
 
-```
+```C++
 The [brute-force](Brute-Force "Brute-Force") [ply](Ply "Ply") [depth](Depth "Depth") is indeed half the publicized depth. All the rest are [extensions](Extensions "Extensions") (in conventional terminology, I don't think of them this way). If you set Junior to depth 12, e.g., then you should be able to find a 7-ply combination where it fails. If I am doing a good job, then you should have a hard time finding one.
 
 ```
 
 
-```
+```C++
 The question of what this is equivalent to in terms of other programs, e.g. a null-mover with "standard" extensions is interesting, but I don't know the answer. In tournament conditions middlegame Junior typically gets 14-16 depths, and it looks competitive tactically. 
 
 ```
@@ -177,13 +177,13 @@ The question of what this is equivalent to in terms of other programs, e.g. a nu
 
 
 
-```
+```C++
 The Junior depth value measures half-plies, so if you insist, it's ply 6. I could have called it ply 12 or ply 9 with equal justification. Since nobody does brute-force anymore, and everybody does both pruning and extensions, what the depth indicator means is a bit vague. Very roughly, I would propose this equality:
 
 ```
 
 
-```
+```C++
  Genius depth 6 = Rebel depth 8 = Fritz5 depth 10 = Junior depth 12
 
 which once said should be forgotten, since it's much more complicated than that. 
@@ -198,7 +198,7 @@ which once said should be forgotten, since it's much more complicated than that.
 
 
 
-```
+```C++
 Razoring is supposed to be a sort of forward pruning where rather than skipping an entire subtree, you search it to a reduced depth, typically one less than normal depth. The advantage is that you get most of the saving but with much lower risk than pruning entire subtrees. Razoring is the only forward pruning technique Junior uses, with a depth reduction of one (half-ply). Seems like [Crafty](Crafty "Crafty") uses the same definition ... 
 
 ```

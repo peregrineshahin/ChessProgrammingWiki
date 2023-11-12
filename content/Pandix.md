@@ -134,7 +134,7 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-8" href="#cite-ref
 
 
 
-```
+```C++
 Gyula Horvath started writing chess programs in 1985. His program won the Amateur World Chess Championship in [1987](WMCCC_1987 "WMCCC 1987") and the Personal Computer Chess Champion title in [1988](WMCCC_1988 "WMCCC 1988") and [1989](WMCCC_1989 "WMCCC 1989"). His wife, Szuzsa, joined the development in 1986. She is mainly active in testing the program and in designing and programming the graphics of the commercial versions of the program. Both of them pursue chess programming as a hobby - Gyula works as a marketing researcher and Zsuzsa works as a telemarketing assistant. They have participated in various computer chess events since 1986. In 1993 their team increased to three members when [Csaba Szûts](Csaba_Sz%C3%BBts "Csaba Szûts") began to implement a new 100,000 moves opening book. The program is written in [C](C "C") and uses a 400KB [hash table](Transposition_Table "Transposition Table"). It measures the move interestingness and [incrementally updates](Incremental_Updates "Incremental Updates") the [attack map](Attack_and_Defend_Maps "Attack and Defend Maps"). The program uses [principal variation search](Principal_Variation_Search "Principal Variation Search"), advanced [time control](Time_Management "Time Management") and special limited [quiescence search](Quiescence_Search "Quiescence Search"). 
 
 ```
@@ -143,7 +143,7 @@ Gyula Horvath started writing chess programs in 1985. His program won the Amateu
 
 
 
-```
+```C++
 Between 1984-1995 I was developing Pandix. Then I stopped working on it. I just participated on the [Hungarian computer chess tournaments](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open") for fun (with tiny modifications on the code). Since 2006 I develop Pandix again as a strong hobby. My aim is to create a new algorithm what is radically different from all the published sources. Eventually it seems that the invested efforts are paying back, and Pandix starts to be extremely strong. Currently it is single thread, but for the [Kanazawa tournament](WCCC_2010 "WCCC 2010") I'll make it [multi thread](Parallel_Search "Parallel Search") + [egtb](Endgame_Tablebases "Endgame Tablebases") will be used there. (It'll be done for summer, and by the tournament it'll be well tested.) Pandix is a [Windows](Windows "Windows") [UCI](UCI "UCI") application. 
 
 ```

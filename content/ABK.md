@@ -23,7 +23,7 @@ the opening book format of [Arena](Arena "Arena"). It persists a book tree as [a
 
 The array of entries/structures is written to / read from a [binary file](https://en.wikipedia.org/wiki/Binary_file) under [Windows](Windows "Windows") ([x86](X86 "X86")), struct and integers implicitely stored [little-endian](Little-endian "Little-endian") wise:
 
-```
+```C++
 
 struct SBookMoveEntry {
   char from;      /* a1 0, b1 1, ..., h1 7, ... h8 63 */

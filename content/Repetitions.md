@@ -68,7 +68,7 @@ The [rules of chess](Rules_of_Chess "Rules of Chess") state a [threefold repetit
 
 
 
-```
+```C++
 9.2 The game is drawn, upon a correct claim by the player having the move, when the same position, for at least the third time (not necessarily by a repetition of moves)
  a) is about to appear, if he first writes his move on his [scoresheet](Game_Notation "Game Notation") and declares
     to the arbiter his intention to make this move, or
@@ -81,7 +81,7 @@ Positions as in (a) and (b) are considered the same, if the same player has the 
 
 
 
-```
+```C++
 9.6  If one or both of the following occur(s) then the game is drawn: 
  a) the same position has appeared, as in 9.2b, for at least five consecutive alternate moves by each player.  
  b) any consecutive series of 75 moves have been completed by each player without the movement of any pawn 
@@ -97,7 +97,7 @@ A former (German) rule, was believed to be sufficient to make the game of chess 
 
 
 
-```
+```C++
 A chess game ends with a draw if a sequence of moves - with all pieces in exactly the same positions - is played three times successively. 
 
 ```
@@ -144,19 +144,19 @@ One possible implementation was used by [Ken Thompson](Ken_Thompson "Ken Thompso
 
 
 
-```
+```C++
 The idea is to set an "open" flag in the position's transposition table element when the hash table is probed. This flag stays set until the position is no longer being searched, meaning when the search function returns a value for that position.
 
 ```
 
 
-```
+```C++
 At any given time, the only nodes that are "open" are nodes that are in the game history, or are in the current line in the tree search, so if the hash table probe encounters an open node, it must be because the current position has occurred somewhere before
 
 ```
 
 
-```
+```C++
 This has the advantage that it uses data structures that are already present in the typical chess program, but there are a few problems with this idea. The hash table element must be written when a node is entered, so an "always replace" scheme must be used. This isn't a problem for Thompson, since his scheme involves using an "always replace" table, but other implementations might not use this kind of replacement scheme. Another problem is that there can be hash table entry collisions, and they must be dealt with. I am not talking about hash key collisions which occur when two positions map to the same 64-bit key, I'm talking about when two particular positions want to share the same hash table element, which should be pretty common. If two open nodes that want to share the same hash element, it's not immediately obvious what to do, other than not detect repetitions on the second one. Perhaps this problem could be dealt with via a re-hashing scheme, but this seems like an annoying thing to add in order to support functionality that isn't central to what the transposition table should be doing. A final problem is that it is hard to figure out how to adapt this to a [multiprocessor search](Parallel_Search "Parallel Search") where there might be several search [threads](Thread "Thread") accessing the same hash table. When an open node is encountered, it might not indicate a repetition at all, since it could belong to a line being searched by another processor. This problem sounds complicated to solve. 
 
 ```
@@ -176,13 +176,13 @@ Most programs use an [array](Array "Array") or list of Zobrist- or BCH-keys and 
 
 
 
-```
+```C++
 In Zarkov I simply keep 32 bits of [hash](Zobrist_Hashing "Zobrist Hashing") for each move in the [game history](Chess_Game#GameRecord "Chess Game"), whether it has actually occurred on the board or during the current search. I also have a variable that contains the [ply](Ply "Ply") at which the last [irreversible move](Irreversible_Moves "Irreversible Moves") occurred.  At each [node](Node "Node") in the search, including [quiescence](Quiescence_Search "Quiescence Search"), if the current ply is at least 4 plies beyond the last irreversible move I test the current hash value against those for each position in the game history (for the current side to move only) back to the last irreversible move and count the number of matches (repetitions).  
 
 ```
 
 
-```
+```C++
 If the count is 2, then this is the third repetition and a draw score is returned.  If the count is 1 and the current_ply > root_ply+2 then a draw score is also returned. This avoids problems that can occur if the program thinks that a move at the [root](Root "Root") leads to a draw (due to a single repetition) when the opponent may vary, but it also lets the program treat repeated positions in the search as draws which helps a lot. Since most positions in a search are less than 4 plies beyond the last irreversible move the repetition() function is rarely called and the performance hit for detecting repetitions is negligible. 
 
 ```
@@ -199,7 +199,7 @@ Some programs, like [Gerbil](Gerbil "Gerbil") or [Rookie](Rookie "Rookie") use a
 
 
 
-```
+```C++
 It is tempting to use the transposition table to help detecting repeated positions. However, overloaded transposition tables can lose entries. So we choose something else [[10]](#cite_note-10)[[11]](#cite_note-11) : a dedicated, small, repetition hash table. This tables has 2^14 one-byte entries that are initially zero (totaling 16KB). When entering a new position, the low 14 bits of the hash-key are used to index the table and bump up its value by one. The value is restored after unmaking the move. When entering a node and its value is found to be non-zero already, we know there could be a cycle, which we verify by tracing back the actual variation. The repetition table is large enough to sufficiently reduce the number of false hits and this vaporizes the costs of futile back-traces. 
 
 ```
@@ -219,7 +219,7 @@ The algorithm needs a [move list](Move_List "Move List") containing the [game re
 
 
 
-```
+```C++
 
 bool repetition(SMove *pVariant) {
    SMove chainList[24], m;

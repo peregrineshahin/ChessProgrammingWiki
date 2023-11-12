@@ -30,7 +30,7 @@ Following [Compass rose](https://en.wikipedia.org/wiki/Compass_rose) gives the [
 
 
 
-```
+```C++
 
   northwest    north   northeast
   noWe         nort         noEa

@@ -36,7 +36,7 @@ From 1970 to 1971, as undergraduate student at Columbia, along with [Aron Eisenp
 
 
 
-```
+```C++
 [I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). Steve wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, [Ben](Ben_Yalow "Ben Yalow") did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and [Aron](Aron_Eisenpress "Aron Eisenpress") wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
 
 ```

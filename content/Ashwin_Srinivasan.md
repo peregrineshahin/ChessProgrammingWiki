@@ -24,7 +24,7 @@ His research interests include symbolic [machine learning](Learning "Learning"),
 
 Abstract from *Distinguishing exceptions from noise in non-monotonic Learning* <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```
+```C++
 It is important for a learning program to have a reliable method of deciding whether to treat errors as noise or to include them as exceptions within a growing first-order theory. We explore the use of an information-theoretic measure to decide this problem within the non-monotonic learning framework defined by Closed-World-Specialisation. The approach adopted uses a model that consists of a reference Turing machine which accepts an encoding of a theory and proofs on its input tape and generates the observed data on the output tape. Within this model, the theory is said to `compress' data if the length of the input tape is shorter than that of the output tape. Data found to be incompressible are deemed to be `noise'. We use this feature to implement a compression-guided specialisation procedure that searches for the best-fitting theory for the data (that is, the one with the shortest input tape length). The approach is empirically evaluated on the standard Inductive Logic Programming problem of learning classification rules for the [KRK](KRK "KRK") chess endgame. 
 
 ```

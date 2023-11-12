@@ -44,7 +44,7 @@ Winglet applies a mixture of [Kindergarten Bitboards](Kindergarten_Bitboards "Ki
 
 
 
-```
+```C++
 
 U64 arrDiagonalAttacks[64][64]] /* requires initialization */
 
@@ -60,7 +60,7 @@ U64 diagonalKindergartenAttacks(U64 occ, enumSquare sq) {
 
 
 
-```
+```C++
 
 /*                 Winglet's occupancy state             ==            Wing's occupancy state */
 (occ & MG_DIAGA8H1MASK[sq]) * MG_DIAGA8H1MAGIC[sq] >> 57 == (occ045 >> DIAGA8H1_ATTACK_SHIFT[sq]) & 63

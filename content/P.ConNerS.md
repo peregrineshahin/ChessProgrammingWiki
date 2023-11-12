@@ -40,7 +40,7 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-2" href="#cite-ref
 
 
 
-```
+```C++
 P.ConNerS stands for 'Parallel Controlled Conspiracy Number Search. It has been written by Ulf Lorenz, who is a member of Prof. Dr. Burkhard Monien's research group at the University of Paderborn. U. Lorenz mainly works on the research fields of domain independent selective search in game trees, and on the field of efficient parallel algorithms for optimization problems. P.ConNerS uses a variant of the so called 'Controlled Conspiracy Number Search' algorithm. As a result it examines highly selective and irregular game trees. Evaluations are done by the help of [depth](Depth "Depth") 2 [alphabeta searches](Alpha-Beta "Alpha-Beta"). When it runs on a parallel machine with 60 Pentium 300 MHz processors, P.ConNerS reaches a rate of about 1.2 million [nodes per second](Nodes_per_Second "Nodes per Second"). 
 
 ```
@@ -53,13 +53,13 @@ from the P.ConNerS site, after winning the 10th Grandmaster Tournament in [Lipps
 
 
 
-```
+```C++
 P.ConNerS stands for 'Parallel Controlled Conspiracy Number Search'. Thus, the tournament victory is highly interesting from a research perspective, as well: P.ConNerS uses a non-conventional, non-alphabeta search algorithm. The search algorithm tries not only to maximize the search depth, but also tries to guarantee that even when one leaf-value changes, the result stays the same. A conspiracy 2 search may be interpreted as a special, global arrangement of a lot of so called [singular extensions](Singular_Extensions "Singular Extensions"). As a result, it domain-independently searches highly selective and irregular game trees. The program is written in [C](C "C").
 
 ```
 
 
-```
+```C++
 P.ConNerS runs in [parallel](Parallel_Search "Parallel Search") and gets its [playing strength](Playing_Strength "Playing Strength") out of a workstation cluster, which consists of 160 [Pentium II](X86 "X86"), 450 Mhz processors. Those are connected with a new European interconnection network, the so called SCI network. On that machine P.ConNerS examines between 3.5 and 5.0 Mnds/sec. On the 160 processors it achieves a speedup of about 50. 
 
 ```

@@ -43,7 +43,7 @@ Now we match engines engine(80) and engine(120) [self-play]. If engine 120 wins,
 
 
 
-```
+```C++
 x = 100 + (120 - 100) * 0.002 = 100.04 
 
 ```
@@ -70,7 +70,7 @@ Doing this for only one variable at a time would be a way too slow. Instead we u
 
 
 
-```
+```C++
 
  x = 100
  y = 100 
@@ -83,7 +83,7 @@ We would then calculate a random delta with sign for each of these variables bas
 
 
 
-```
+```C++
 
  x_delta = +15
  y_delta = -10
@@ -97,7 +97,7 @@ new values are:
 
 
 
-```
+```C++
 
  x = 100 + (115 - 100) * 0.002
  y = 100 + ( 90 - 100) * 0.002
@@ -130,7 +130,7 @@ But instead using ampli-bias knobs for tables proved to be very successful appro
 
 
 
-```
+```C++
 
  new_value = orig_value + var_bias + orig_value * var_amplitude / 100
 

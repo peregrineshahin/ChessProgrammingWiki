@@ -48,7 +48,7 @@ Other techniques were about to hash the masked line with [parallel prefix shifts
 
 
 
-```
+```C++
 
 int collapsedFilesIndex(U64 b) {
    b |= b >> 32;
@@ -64,7 +64,7 @@ In 32-bit mode, assembly programmers may collapse files to register AL in five i
 
 
 
-```
+```C++
 
 or  eax, edx
 mov edx, eax
@@ -86,7 +86,7 @@ For a line along [files](Files "Files") (as well as [diagonals](Diagonals "Diago
 
 
 
-```
+```C++
 
 int collapsedRanksIndex(U64 b) {
    b |= b >>  4;
@@ -106,7 +106,7 @@ If it is exclusively about to collapse files to ranks, one can save the first th
 
 
 
-```
+```C++
 
 int collapsedRanksIndex(U64 b, enumFile file) {
    b  = b >> file;
@@ -134,7 +134,7 @@ Recent 64-bit processors, such as [core 2](https://en.wikipedia.org/wiki/Intel_C
 
 
 
-```
+```C++
 
 int collapsedFilesIndex(U64 b) {
    const U64 aFile   = C64(0x0101010101010101);
@@ -148,7 +148,7 @@ or in 32-bit mode:
 
 
 
-```
+```C++
 
 int collapsedFilesIndex(U64 b) {
    unsigned int folded = (unsigned int)b | (unsigned int)(b >> 32);
@@ -161,7 +161,7 @@ int collapsedFilesIndex(U64 b) {
 
 
 
-```
+```C++
 
 int collapsedRanksIndex(U64 b) {
    const U64 aFile   = C64(0x0101010101010101);
@@ -180,7 +180,7 @@ or dedicated for files
 
 
 
-```
+```C++
 
 int collapsedRanksIndex(U64 b, enumFile file) {
    const U64 aFile   = C64(0x0101010101010101);

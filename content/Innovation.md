@@ -33,7 +33,7 @@ from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") rep
 
 
 
-```
+```C++
 Written by Jeff Mallett, a newcomer to the computer-chess scene, it has been in full-time development for a year. It has some unusual features which include: not using [iterative deepening](Iterative_Deepening "Iterative Deepening"), never [evaluate](Evaluation "Evaluation") statically - obtaining all evaluation scores by [incremental changes](Incremental_Updates "Incremental Updates") as [moves are made](Make_Move "Make Move"), only looking at newly available moves in the final stages of the [quiescence search](Quiescence_Search "Quiescence Search"), and estimating an "attack factor" distinct from the regular evaluation. 
 
 ```

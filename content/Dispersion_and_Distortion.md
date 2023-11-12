@@ -20,7 +20,7 @@ are [Kmoch's](Hans_Kmoch "Hans Kmoch") terms <a id="cite-note-2" href="#cite-ref
 
 **Dispersion** is [Kmoch's](Hans_Kmoch "Hans Kmoch") term for vertical splitting of pawns (most commonly, isolation) caused by captures. Having three or four [islands](</Pawn_Islands_(Bitboards)> "Pawn Islands (Bitboards)") while the opponent has one or two - assuming about the same number of pawns for both sides - may be considered in evaluation. But this is also implicitly done by evaluating [double- or triple](</Double_and_Triple_(Bitboards)> "Double and Triple (Bitboards)") and [isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") or the balance of weak pawns in general. Some arbitrary dispersion measure, intended as index of a pre-calculated table for [evaluation](Evaluation "Evaluation") purpose.
 
-```
+```C++
 
 int dispersion(U64 pawns)
 {
@@ -36,7 +36,7 @@ BYTE islandsEastFiles(BYTE f) {return f & ((f ^ (f >> 1));}
 
 The higher the worse.
 
-```
+```C++
 
   \  number if islands
    \     1   2   3   4
@@ -57,7 +57,7 @@ _____\________________
 
 Distortion is [Kmoch's](Hans_Kmoch "Hans Kmoch") term for horizontal splitting of pawns caused by advances. One may use something like this based on [rearfill](Pawn_Fills "Pawn Fills"), xor and [population count](Population_Count "Population Count") to get an idea of distortion. It considers the rank-difference of two file-adjacent pawns (if any) as distortion penalty - the higher the worse. [Half-isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") or even [isolated pawns](Isolated_Pawn "Isolated Pawn") contribute a distortion penalty according to the size of their rearfill from 2 to 7 for each empty neighboring file, which discourages advancement of such pawns, interacting with terms considerring (half-) isolated pawns. Alternatively, for a "reverse" distortion penalty to encourage advancement of half-isolanis, one may use [frontfill](Pawn_Fills "Pawn Fills") instead with a slightly different semantic is case of [doubled pawns](Doubled_Pawn "Doubled Pawn").
 
-```
+```C++
 
 int wDistortion(U64 wpawns) {
    U64 fill  = wRearFill(wpawns); // wFrontFill
@@ -69,7 +69,7 @@ int wDistortion(U64 wpawns) {
 
 High distortion sample:
 
-```
+```C++
 
 wpawns              rearFill            rearFill << 1      xor & ~A-File
 . . . . . . . .     . . . . . . . .     . . . . . . . .     . . . . . . . .

@@ -64,7 +64,7 @@ In computer chess, Null Move was already used in threatening [mate in one](Check
 
 
 
-```
+```C++
 Routine G17 asks if a proposed move threatens mate in one move. It determines the answer by assuming Black does nothing on his turn, that is, by playing a "No Move" and then seeing if White can enforce an immediate checkmate. 
 
 ```
@@ -77,14 +77,14 @@ Null Move pruning was already used in [Kaissa](Kaissa "Kaissa"), as described by
 
 
 
-```
+```C++
 **2. The Order of Move Considerations**:
 A less trivial idea was that sometimes an extension of the game tree by introducing of dummy move can lead to a reduction of the search tree. In positions with material advantage (with respect to limits) it was permitted to try a so-called "blank" move in which ones own pieces are not moved. Certainly in positions with "[Zugzwang](Zugzwang "Zugzwang")" (the side to move must weaken his position) this may lead to errors.
 
 ```
 
 
-```
+```C++
 However, the standard of the program's play is still such that such errors do not essentially lower it. (We plan to develop in the future a procedure for recognizing "Zugzwang" positions, and to forbid a blank move in them.) The reduction of search takes place in this case, because the blank move proves to be a closing one and furthermore does not generate complex forcing variations. 
 
 ```
@@ -175,7 +175,7 @@ The idea to permit a null move cutoff not only if the null move search returns a
 
 
 
-```
+```C++
 
 if ( nullMoveAllowed &&  ...) {
    int bound = beta;
@@ -209,7 +209,7 @@ As suggested in Donninger's paper, concerning the deep search, null move is not 
 
 
 
-```
+```C++
 
 if ( nullMoveAllowed && depth >= X && ...) {
    makeNullMove()

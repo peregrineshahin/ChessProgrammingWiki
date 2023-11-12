@@ -26,7 +26,7 @@ a chess program by [Dennis Cooper](Dennis_Cooper "Dennis Cooper") and [Ed Kozdro
 
 COKO III: The Cooper-Koz Chess Program, [Communications of the ACM](ACM#Communications "ACM"), Vol. 16, 7 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```
+```C++
 COKO III is a chess player written entirely in Fortran. On the [IBM 360-65](IBM_360 "IBM 360"), COKO III plays a minimal chess game at the rate of .2 sec cpu time per move, with a level close to lower chess club play. A selective tree searching procedure controlled by tactical chess logistics allows a deployment of multiple minimal game calculations to achieve some optimal move selection. The tree searching algorithms are the heart of COKO's effectiveness, yet they are conceptually simple. In addition, an interesting phenomenon called a tree searching catastrophe has plagued COKO's entire development just as it troubles a human player. Standard exponential growth is curbed to a large extent by the definition and trimming of the Fisher set. A clear distinction between tree pruning and selective tree searching is also made. Representation of the chess environment is described along with a strategical preanalysis procedure that maps the Lasker regions. Specific chess algorithms are described which could be used as a command structure by anyone desiring to do some chess program experimentation. A comparison is made of some mysterious actions of human players and COKO III.  
 
 ```
@@ -48,7 +48,7 @@ Columns 10 and 1 are considered adjacent.
 
 As described by Cooper in the 1971 Panel <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Coko III does not use [Alpha-Beta](Alpha-Beta "Alpha-Beta"):
 
-```
+```C++
 Although the alpha-beta procedure is a great time saving method, it is unclear at this stage of program development what the full significance of applying such a method to a tactical-strategical game tree would be. Coko III does save the chess tree with periodic pruning to allow for the addition of more branches. 
 
 ```
@@ -57,7 +57,7 @@ Although the alpha-beta procedure is a great time saving method, it is unclear a
 
 International Journal of Man-Machine Studies <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
-```
+```C++
 The performance capabilities of the best computer chess programs are compared with their human counterparts with emphasis being placed on machine behavior limits. A grandmaster usually spends a lifetime collecting knowledge or information about the game. Some of this knowledge is given to COKO in the form of a 12 000-line FORTRAN program. Using this knowledge COKO plays very poorly but at the super rate of approximately one move/see. The use of a brute-force selective tree-searching procedure yields an order of magnitude improvement in performance at the standard rate of 3 min/move. Perhaps three orders of magnitude additional improvement is needed to defeat the world champion, a gap which must be bridged, if ever, by programming more chess knowledge into the machine. This paper discusses the “tree-searching catastrophe” as a natural phenomenon that plagues selective tree searching for both man and machine. In addition so-called “interminimal-game communication” is considered as a natural, powerful procedure frequently used by humans to guide their selective search and as a point of emphasis for future development. It is concluded that COKO's development is just beginning, with no immediate barriers to progress, and no lack of ideas for improvement. At present COKO combines brilliant solutions to individual board position puzzles with unimaginable blunders. 
 
 ```
@@ -70,7 +70,7 @@ During the [ACM 1971](ACM_1971 "ACM 1971"), Coko III offered a pawn versus [Geni
 | --- |
 |                                                                                          ♟♟        ♟  ♟        ♟  ♙        ♕ ♙   ♚ ♔  ♙♙♙     ♗ ♖ |
 
-```
+```C++
 8/pp6/2p2p2/6p1/1P6/2Q1P3/k1K2PPP/5B1R w - - 0 38 
 
 ```
@@ -101,7 +101,7 @@ Qh1+ 49.Kc2 Qb1+ 50.Kd2 g3 51.Qc4+ Qb3 52.Qxb3+ Kxb3 53.e4 Kxb4 54.e5 g2 0-1
 
 According to [Monroe Newborn](Monroe_Newborn "Monroe Newborn") in 1975, the chess [mating](Checkmate "Checkmate") [combinations](Combination "Combination") program [Mater](Mater "Mater") by [George Baylor](George_Baylor "George Baylor") and [Herbert Simon](Herbert_Simon "Herbert Simon"), initially written in [IPL V](http://en.wikipedia.org/wiki/Information_Processing_Language), was ported to [Fortran](Fortran "Fortran") and incorporated into Coko <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
-```
+```C++
 MATER is written by George Baylor and Simon in FORTRAN. It is able to search to great depths for checkmates. MATER is presently part of the Cooper-Kozdrowicki program. While MATER is an interesting program in its own right, the opportunity to checkmate one's opponent plays a relatively small computational part of the game of chess, and its inclusion in the Cooper-Kozdrowicki program does not seem to add measurably to the program's strength. 
 
 ```

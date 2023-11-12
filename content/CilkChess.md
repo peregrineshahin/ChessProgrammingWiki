@@ -69,12 +69,12 @@ from Awards for Cilk Technology & Research <a id="cite-note-5" href="#cite-ref-5
 
 from the [WCCC 1999](WCCC_1999 "WCCC 1999") ICGA Tournament site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```
+```C++
 Cilkchess is a parallel program which will be running on a 256-processor SGI Origin 2000 at NASA Ames for the WCCC. Cilkchess won First Prize in the 1996 Dutch Open and took Second in both 1997 and 1998. Our earlier program, [\*Socrates](Star_Socrates "Star Socrates"), took Second in the [1995 WCCC](WCCC_1995 "WCCC 1995"), tying the winner [Fritz](Fritz "Fritz") in the main part of the tournament, but losing in the playoff.
 
 ```
 
-```
+```C++
 CilkChess is programmed in the [Cilk](Cilk "Cilk") multithreaded programming language <a id="cite-note-7" href="#cite-ref-7">[7]</a>, which allows highly irregular programs, such as chess, to be written with ease for parallel computers. The program uses a parallel variant of the [MTD(f)](MTD(f) "MTD(f)") search algorithm that incorporates [null-move forward pruning](Null_Move_Pruning "Null Move Pruning"), but few [extensions](Extensions "Extensions"). The [evaluation function](Evaluation_Function "Evaluation Function") has been tuned from thousands of self-play games using a [temporal-coherence learning](Temporal_Difference_Learning "Temporal Difference Learning") algorithm. The [transposition table](Transposition_Table "Transposition Table") is stored in 32 gigabytes of shared memory. In the late middle game, Cilkchess typically looks more than 15 [ply](Ply "Ply") (half-moves) ahead and performs 5-11 million [make-moves](Make_Move "Make Move") per second. 
 
 ```

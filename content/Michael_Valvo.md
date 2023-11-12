@@ -41,7 +41,7 @@ Quote by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") from *The
 
 
 
-```
+```C++
 For a while I would like to continue with other parts of the contents of this issue. With much regret I would like to have your attention for Ken Thompson’s contribution on the passing away of Mike Valvo. For many years, he was the Tournament Director of our tournaments: the [North American Computer-Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") (NACCCs), the [World Computer-Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") (WCCCs), the [World Microcomputer-Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") (WMCCs), and the [Computer Olympiads](Computer_Olympiad "Computer Olympiad") (COs). He did a very good job and made a real community of our group. He shall be missed. Personally, I would like to thank him publicly for the many lessons learned and I would like to state that I feel privileged to have succeeded him in some of his tasks. Thank you Mike for our long-standing cooperation. 
 
 ```
@@ -54,19 +54,19 @@ From the *Pennswoodpusher* a Quarterly Publication of the [Pennsylvania State Ch
 
 
 
-```
+```C++
 Born in [Albany, New York](https://en.wikipedia.org/wiki/Albany,_New_York), Michael Valvo was a graduate of [Columbia University](Columbia_University "Columbia University") and spent much of his life working with computers. He is perhaps best known to the public for his job as commentator for the Kasparov versus [Deep Blue](Deep_Blue "Deep Blue") Matches in 1996 and [1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"), but he accomplished many things in a chess career going back to the late 1950s.
 
 ```
 
 
-```
+```C++
 Valvo learned the game from his father Frank, who was also a [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) master. Michael made quick progress and in 1964 was a member of the U.S. team that competed in the 11th Student Olympiad in [Cracow](https://en.wikipedia.org/wiki/Krak%C3%B3w), Poland, in 1964 along with [Bill Lombardy](https://en.wikipedia.org/wiki/William_Lombardy), [Raymond Weinstein](https://en.wikipedia.org/wiki/Raymond_Weinstein), [Charles Kalme](https://en.wikipedia.org/wiki/Charles_Kalme), [Bernard Zuckerman](https://en.wikipedia.org/wiki/Bernard_Zuckerman) and Mitchell Sweig. The Americans finished in fourth place behind the USSR, Czechoslovakia and Hungary. He quit playing chess in 1969, but came back with a big bang by earning a [FIDE](FIDE "FIDE") rating of 2530 in the late 1970s after an excellent performance in a NY Futurity. FIDE awarded him the IM title in 1980.
 
 ```
 
 
-```
+```C++
 A respected opening theoretician Valvo played 1.e4 for much of his career before adding the [English](https://en.wikipedia.org/wiki/English_Opening) to his repertoire. He was a life-long fan of the [Dragon](https://en.wikipedia.org/wiki/Sicilian_Defence,_Dragon_Variation) and a early pioneer (1963) of a [Benko-gambit](https://en.wikipedia.org/wiki/Benko_Gambit) type approach - 1.d4 Nf6 2.c4 a6 followed by ...c5 with ...b5 to follow d4-d5. He tested many of his lines in correspondence chess throughout his career. Valvo was a co-author of a book on the [1990 Kasparov-Karpov match](https://en.wikipedia.org/wiki/World_Chess_Championship_1990) and was the technical editor of [Bobby Fischer Teaches Chess](https://en.wikipedia.org/wiki/Bobby_Fischer#Under_Fischer.27s_name) along with [Raymond Weinstein](https://en.wikipedia.org/wiki/Raymond_Weinstein). He did the game annotations for the 1966/67 US Championship bulletin. 
 
 ```

@@ -34,7 +34,7 @@ Assuming this arbitrary [Board-Definition](Bitboard_Board-Definition#CBoardDef "
 
 
 
-```
+```C++
 
 U64 Board::getLeastValuablePiece(U64 attadef, int bySide, int &piece)
 {
@@ -59,7 +59,7 @@ The first two members of the gain swap-list are likely determined by the [captur
 
 
 
-```
+```C++
 
 int Board::see ( enumSquare toSq, enumPiece target, enumSquare frSq, enumPiece aPiece)
 {
@@ -112,13 +112,13 @@ To demonstrate how SEE works in obvious cases, is Rook takes Pawn a winning capt
 
 
 
-```
+```C++
 1k1r4/1pp4p/p7/4p3/8/P5P1/1PP4P/2K1R3 w - - ; Rxe5?
 
 ```
 
 
-```
+```C++
 
 gain[0]  =  100 ; win for white if black pawn e5 is en-prise by rxp
 gain[1]  =  400 ; win for black if white rook e5 is en-prise,  500-100, speculative store
@@ -142,13 +142,13 @@ This position covers a more complicated case with X-rays. Is Knight takes pawn a
 
 
 
-```
+```C++
 1k1r3q/1ppn3p/p4b2/4p3/8/P2N2P1/1PP1R1BP/2K1Q3 w - - ; Nxe5?
 
 ```
 
 
-```
+```C++
 
 gain[0] =  100 ; win for white if black pawn   e5 is en-prise by nxp
 gain[1] =  225 ; win for black if white knight e5 is en-prise by nxn,  325- 100

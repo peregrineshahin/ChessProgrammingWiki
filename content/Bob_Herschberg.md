@@ -37,14 +37,14 @@ Under the acronym **DRISH**, Bob Herschberg was a writer of poems, and published
 
 by [David Levy](David_Levy "David Levy") from *Intelligence blues*, *Bewaar Me* <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```
+```C++
 Perhaps Bob Herschberg has found the answer. [Deep Blue](Deep_Blue "Deep Blue") beats Kasparov - now it is time to retire! 
 
 ```
 
 by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") from *Israel Samuel Herschberg: An Obituary* <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
-```
+```C++
 Bob Herschberg was fully dedicated to science, language, literature, and problem solving. He was not a chess-player himself, but his father was, and in the Jewish tradition he liked what his father liked. Therefor he was interested in computer chess. Consequently, he encouraged me to bring the ICCA Newsletters/Journal to Delft and promised me support. As all readers know he was a stickler for perfection. Being so devoted to science, he entrusted his body to science. I am sure, his contributions to computer chess will live on. 
 
 ```

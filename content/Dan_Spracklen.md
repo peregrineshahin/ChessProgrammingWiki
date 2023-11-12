@@ -45,21 +45,21 @@ Excerpt from their *Oral History* <a id="cite-note-11" href="#cite-ref-11">[11]<
 
 **Danny Spracklen**:
 
-```
+```C++
 Yes, the first time I saw Kathleen, she was hunched over a chess program, or a  chessboard, in the cafeteria, studying a chess position. And I go, wow, that’s interesting. The young lady  likes chess.
 
 ```
 
 **Kathleen Spracklen**:
 
-```
+```C++
 And it should be noted that Dan and I have played- as opponents in chess, we’ve  played two games of chess. I won one and he won one, and we said, okay, good enough.
 
 ```
 
 **Danny Spracklen**:
 
-```
+```C++
 Well, I majored in math. And then when I got out of college, I looked for a job. And  McDonald-Douglas in Santa Monica, offered me a position there, as a beginning computer programmer.  So I moved up there and started learning how to program in [Fortran](Fortran "Fortran"). And I worked for them for three  years. 
 
 ```
@@ -68,24 +68,24 @@ Well, I majored in math. And then when I got out of college, I looked for a job.
 
 Q:
 
-```
+```C++
 Well, what bet you? What was it? What program ended up beating you and not making it?
 
 ```
 
 **Danny Spracklen**:
 
-```
+```C++
 I think it was... the [Schroeder](Ed_Schroder "Ed Schroder") program, [Rebel](Rebel "Rebel"), or - I believe it was.
 
 ```
 
-```
+```C++
 And he's still selling his program today, I think.
 
 ```
 
-```
+```C++
 That was the end of it, yeah. That was our last big effort. We didn't make it and Sci Tech lost interest in us and - so we figured, well, it's been a good run, you know, let's do something else <laughter> 
 
 ```

@@ -42,7 +42,7 @@ During its lifetime, around Version 0.6.7 in 1999, Joker used [MTD(f)](MTD(f) "M
 
 
 
-```
+```C++
 
   // Mosse di Alfiere, Torre, Donna.
   for (pezzo pz(alfiere); pz <= donna; ++pz) {
@@ -67,7 +67,7 @@ However, the more time critical [capture](Captures "Captures") generation is imp
 
 
 
-```
+```C++
 
   // Catture di Alfiere, Torre, Donna.
   for (pezzo pz(alfiere); pz <= donna; ++pz) {

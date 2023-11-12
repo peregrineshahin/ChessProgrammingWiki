@@ -40,7 +40,7 @@ As an further example, a sequential logic may perform the same task as mentioned
 
 
 
-```
+```C++
 
                                              +-------+
                                 +------+     |       |

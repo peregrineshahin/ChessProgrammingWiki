@@ -35,7 +35,7 @@ ProbCut is based on the idea that the result *v **of a shallow search with [dept
 
 
 
-```
+```C++
 v = a*v' + b + e
 
 ```
@@ -45,7 +45,7 @@ where e is a [normally distributed](https://en.wikipedia.org/wiki/Normal_distrib
 
 
 
-```
+```C++
 v ≥ β
 
 ```
@@ -55,7 +55,7 @@ becomes
 
 
 
-```
+```C++
 (v' + b - β)/σ ≥ -e/σ
 
 ```
@@ -65,7 +65,7 @@ since -e/σ is normally distributed with mean 0 and variance 1 (and [distributio
 
 
 
-```
+```C++
 (v' + b - β)/σ ≥ Φ-1(p)
 
 ```
@@ -75,7 +75,7 @@ which is equivalent to
 
 
 
-```
+```C++
 v' ≥ (Φ-1(p) * σ + β - b) / a
 
 ```
@@ -85,7 +85,7 @@ Similar for
 
 
 
-```
+```C++
 v ≤ α
 
 ```
@@ -95,7 +95,7 @@ the condition becomes
 
 
 
-```
+```C++
 v' ≤ (-Φ-1(p) * σ + α - b) / a
 
 ```
@@ -108,7 +108,7 @@ This observation immediately leads to the implementation of the ProbCut alpha-be
 
 
 
-```
+```C++
 
 int alphaBetaProbCut(int α, int β, int depth) {
    const float T(1.5);
@@ -153,7 +153,7 @@ Multi–ProbCut (MPC) enhances ProbCut by
 
 
 
-```
+```C++
 
 struct Param {
    int d;         /* shallow search depth */
@@ -199,7 +199,7 @@ In 2003, [Albert Xin Jiang](Albert_Xin_Jiang "Albert Xin Jiang") implemented Pro
 
 
 
-```
+```C++
 There has been no report of success for ProbCut or MPC in chess thus far. There are at least two reasons for this:
 
 ```
@@ -292,13 +292,13 @@ However, [Robert Hyatt](Robert_Hyatt "Robert Hyatt") first stated results were i
 
 
 
-```
+```C++
 My tests indicate that the overall playing strength of Crafty 18.15 remains more or less unchanged by the addition of Multi-ProbCut. However, the characteristic of the engine changes significantly due to ProbCut: Even though nominal search depth is increased by one to two plies, tactical strength is severely reduced.
 
 ```
 
 
-```
+```C++
 Furthermore with ProbCut match results become more unpredictable and inconsistent: Apparently there are types of opponents against which ProbCut works very well and results in significantly improved results, but there are also other opponents (the tactically stronger ones?) where ProbCut has exactly the opposite effect. 
 
 ```

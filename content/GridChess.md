@@ -46,7 +46,7 @@ GridChess with focus on optimistic pondering was Ph.D. project of [Kai Himstedt]
 
 given in 2007 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```
+```C++
 GridChess is composed of two major components: 1) The proxy chess engine ([Crafty](Crafty "Crafty") based) performs no tree search itself but has some kind of a master role to control the optimistic pondering with distributed worker clients. As a simplified explanation of optimistic pondering here, one can imagine the worker clients forming a pondering pipeline with expected opponent moves extracting this information from the principal variations provided by the chess engines. 2) Real chess engines (controlled by distributed worker clients), Fruit/Toga based, parallelized with Young Brothers Wait Concept (YBWC). This way a combination of two parallel concepts was realized building the complete GridChess system: The parallel Fruit/Toga base engines using the YBWC may run on high performance clusters, each cluster representing a worker client for the proxy chess engine. Several such clusters are then used for an asynchronous distributed game-tree search with the optimistic pondering method. 
 
 ```

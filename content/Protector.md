@@ -135,7 +135,7 @@ The [evaluation](Evaluation "Evaluation") caches [pawn structure](Pawn_Hash_Tabl
 
 
 
-```
+```C++
 Protector is based on many great ideas from the following people: [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") (pvnodes, [blending of opening and endgame values](Tapered_Eval "Tapered Eval"), eval params), [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch") ([pvnode extensions](PV_Extensions "PV Extensions"), [extended futility pruning](Futility_Pruning#Extendedfutilitypruning "Futility Pruning"), space attack eval), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") ([consistent hashtable entries](Shared_Hash_Table#Lockless "Shared Hash Table")), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") ([UCI](UCI "UCI")), [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") <a id="cite-note-5" href="#cite-ref-5">[5]</a> /[Lasse Hansen](Lasse_Hansen "Lasse Hansen") ([magic bitboards](Magic_Bitboards "Magic Bitboards")), [Marco Costalba](Marco_Costalba "Marco Costalba")/[Tord Romstad](Tord_Romstad "Tord Romstad")/[Joona Kiiski](Joona_Kiiski "Joona Kiiski") ([Glaurung](Glaurung "Glaurung")/[Stockfish](Stockfish "Stockfish") sources), [Igor/Yakov](Ippolit "Ippolit") ([RobboLito](RobboLito "RobboLito") sources), [Andrew Kadatch](Andrew_Kadatch "Andrew Kadatch")/[Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov") ([endgame tablebases](Endgame_Tablebases "Endgame Tablebases")), Frank Rahde (testing) and Wolf Stephan Kappesser (Adaptations for [Mac OS](Mac_OS "Mac OS")). Without their contributions Protector would not be what it is. Thank you so much. 
 
 ```

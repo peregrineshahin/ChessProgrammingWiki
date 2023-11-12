@@ -93,7 +93,7 @@ Cray Blitz vs. [HiTech](HiTech "HiTech"), [WCCC 1986](WCCC_1986 "WCCC 1986") <a 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdea550)
 [Nelson](Harry_Nelson "Harry Nelson"), [Hyatt](Robert_Hyatt "Robert Hyatt"), [Weiner](Ossi_Weiner "Ossi Weiner") at the [19th ACM 1988](ACM_1988 "ACM 1988"), Orlando <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
-```
+```C++
 Picture taken around move 19th (after 18.Qa5 and before 20.b3)<a id="cite-note-14" href="#cite-ref-14">[14]</a> 
 
 ```
@@ -126,17 +126,17 @@ b5 18.Qa5 Nb6 19.f3 Bd5 20.b3 Ba8 21.Rc5 f5 22.g3 Nd5 23.e4 fxe4 24.fxe4 Ne7 25.
 
 by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), September 2008 <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
-```
+```C++
 It was originally [FORTRAN](Fortran "Fortran") as that was the only choice on the system we had in 1968. I started to convert it to [PL/1](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") several times, but each time I thought about it, portability was an issue as PL/1 was really an [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") language at first, and then when the Cray came along in the mid 70's it was obvious that they were never going to be anything but a FORTRAN machine, so I stuck with FORTRAN.
 
 ```
 
-```
+```C++
 For speed, we did lots of profiling and rewrote the time-critical parts in cray assembly language. We made sure that the [CAL](Assembly#CAL "Assembly") code was functionally equivalent to the FORTRAN code so that we could debug things, but the CAL was pretty wild in that it was really tailored to use the architectural tricks available in the Cray, such as vector operations, tons of registers, etc.
 
 ```
 
-```
+```C++
 I think I will put the whole mess on my ftp box in case anyone is interested. I played one test game between CB and Crafty last night, one CPU, no [pondering](Pondering "Pondering") since CB can't yet ponder, 10 secs per move. Crafty won handily, typically searching 14-15 plies to CB's 9-10. I even used the nm=2 command to set null-move R=2 in CB. Not quite sure why the depth is so different, other than the checks and things CB does in the q-search might be a bit out of control, and/or the extensions might be "too much". But in any case, it played just fine, although not all compilers are going to be happy compiling it I'd bet... 
 
 ```

@@ -36,25 +36,25 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-```
+```C++
 The Novag Constellation programs represent a significant evolutionary step in the development of microcomputer chess programs. The program represents the first commercial implementation of the [attack map / offset map](Vector_Attacks "Vector Attacks") move generating strategy proposed by former World Chess Champion [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") and subsequently refined by myself for faster [move generation](Move_Generation "Move Generation") as pieces come off the board. 
 
 ```
 
 
-```
+```C++
 A second departure from other commercial programs has been the simplification of the [evaluation function](Evaluation_Function "Evaluation Function") as applied to the [end nodes](Leaf_Node "Leaf Node") of the tree [search](Search "Search"). The programs instead rely heavily on specific chess [knowledge](Knowledge "Knowledge") which is concentrated into a special [preprocessor](Piece-Square_Tables#Preprocessing "Piece-Square Tables") which interfaces to the tree search primarily through the [scores](Score "Score") associated with specific ply-one [moves](Moves "Moves"). This ides of a ply-one move preprocessor was originally implemented in the program [Tech](Tech "Tech") by [James Gillogly](James_Gillogly "James Gillogly") in the late 1960's. Although Tech only achieved a high 1400 rating running on a large computer, the strategy has certain appeal. First, chess tree searching has become very efficient, and second, the interaction problems associated with putting ever increasing amounts of chess knowledge in the tree become formidable. It has become apparent to that this rather simple approach might contain the structure of a master level microcomputer program. 
 
 ```
 
 
-```
+```C++
 The 1981 performance rating achieved at the 1983 U.S. Open by the Novag Super Constellation 32K program running on a 3MHz 6502 supports my decision. ...
 
 ```
 
 
-```
+```C++
 The Super Constellation was an early version of the soon to be announced commercial product. 
 
 ```

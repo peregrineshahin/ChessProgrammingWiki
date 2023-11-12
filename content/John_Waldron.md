@@ -18,13 +18,13 @@ Quote by [Alex Bell](Alex_Bell "Alex Bell") from *The Machine Plays Chess* <a id
 
 
 
-```
+```C++
 In March 1974 [David Levy](David_Levy "David Levy"), the regular referee and one of the organisers of the [American ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), rang me up - did I know of any good English chess programs? And, if so, would they like to enter the first [IFIPS](IFIP "IFIP") World Computer Chess Championship which would take place at Stockholm in August? So MASTER was entered, and for the first time we - John, Peter and myself - stopped developing the program sporadically ad hoc and seriously thought about how to improve it. One big problem was that none of us was (or is) a good chess player and by then the program was beginning to beat us occasionally.
 
 ```
 
 
-```
+```C++
 So a fourth member of the team was recruited - John Waldron, a sound county level player. From this point MASTER slowly began to copy Waldron's style and, with the program now searching 6 plies deep plus a crude form of a new technique (feedover), it took part in the [first World Championship](WCCC_1974 "WCCC 1974"). 
 
 ```

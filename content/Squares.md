@@ -43,7 +43,7 @@ A Square, like a point inside a [cartesian coordinate system](https://en.wikiped
 
 
 
-```
+```C++
 
 square = 8*rank + file;
 square = (rank << 3) + file;
@@ -55,7 +55,7 @@ with the obvious relation to calculate rank- and file-indices from the square in
 
 
 
-```
+```C++
 
 rank = square >> 3; // div 8
 file = square  & 7; // modulo 8
@@ -81,7 +81,7 @@ A typical [little-endian](Little-endian "Little-endian") rank-file mapping enume
 
 
 
-```
+```C++
 
 enum enumSquare {
   a1, b1, c1, d1, e1, f1, g1, h1,

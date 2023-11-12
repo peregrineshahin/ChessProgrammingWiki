@@ -60,7 +60,7 @@ These are the relevant code snippets and data declarations of the attack and x-r
 
 
 
-```
+```C++
 
 static u64 rays[0x8000]; /* 256 KByte */
 u64 bmask45[64];
@@ -100,7 +100,7 @@ In [Java](Java "Java"), the code looks quite similar, embedded inside the class 
 
 
 
-```
+```C++
 
 final static long[] rays = new long[0x8000];
 final static long[] bmask45 = new long[64];

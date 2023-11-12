@@ -86,7 +86,7 @@ Nf2+ 64.Kc1 Ne4 65.h5 Re1+ 66.Kb2 Re2 67.Kb3 Nxd2+ 68.Kb2 Kc4 69.h6 Nb3+ 70.Ka3 
 
 based on the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-11" href="#cite-ref-11">[11]</a> :
 
-```
+```C++
 Centauer is a new chess-playing program with the heuristic search to consider the decisive series of moves. The algorithms is based on the probability logic and uses a fuzzy value of positions. The depth of the search is not limited. The whole information about all the series of moves is kept in [RAM](Memory#RAM "Memory") and is used to determine the decisive series of moves. Centaur features a low number of position analyzed. This is compensated with thoroughness of the [position evaluation](Evaluation "Evaluation"). 
 
 ```
@@ -95,7 +95,7 @@ Centauer is a new chess-playing program with the heuristic search to consider th
 
 from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") report <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
-```
+```C++
 Centaur is the outstanding exception in the current pattern. It uses a much more human like approach, and despite its eventual losses, actually played well most of the time. For instance, it had a draw against [Gideon](Gideon "Gideon") for a long time, only going astray in the endgame. 
 Written by Victor Vikhrev and Alexey Manjakhin, and winner of the first Moscow computer-chess tournament, this program is highly unconventional, and does not use [alpha-beta](Alpha-Beta "Alpha-Beta"), [iterative search](Iterative_Deepening "Iterative Deepening"). Instead, it grows a [selective tree](Search_Tree "Search Tree"), kept fully in [memory](Memory "Memory"), on a [best-first](Best-First "Best-First") basis. Position [evaluation](Evaluation "Evaluation") is not reduced to one number - instead a vector of values is produced from which 3 optimistic and 3 pessimistic evaluations are made under different assumptions. These 6 values determine a probability distribution of results for a position, which is used to guide tree growth and ultimately to choose a move. Victor Vikhrev describes his approach as intermediate between conventional programs and the even more selective approach of [Botvinnik's](Mikhail_Botvinnik "Mikhail Botvinnik") program, [Pioneer](Pioneer "Pioneer"). 
 
@@ -105,7 +105,7 @@ Written by Victor Vikhrev and Alexey Manjakhin, and winner of the first Moscow c
 
 from [Don Beal's](Don_Beal "Don Beal") [UPCCC 1993](UPCCC_1993 "UPCCC 1993") report <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> :
 
-```
+```C++
 Written by Victor Vikrev, a nuclear physicist in Moscow, as a major hobby over the past 30 years, plus Alexei Manjakhin. It is remarkable for being very different in design from all the other programs that do well in championships. It explores only a few future positions (instead of millions), but analyses them in more detail. In this respect its thinking is more human-like than any other program. It scored 2 from 5 in the [last "unlimited machine" championship](WCCC_1992 "WCCC 1992"), and placed 17. 
 
 ```
@@ -114,17 +114,17 @@ Written by Victor Vikrev, a nuclear physicist in Moscow, as a major hobby over t
 
 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-15" href="#cite-ref-15">[15]</a> :
 
-```
+```C++
 Centaur is a highly selective program, originated from [Kurchatov Institute](https://en.wikipedia.org/wiki/Kurchatov_Institute) in [Moscow](https://en.wikipedia.org/wiki/Moscow). It is a completely unique program. Despite the lighting speed of its hardware it only examines about 500 positions per second. Centaur has a rating of 2,266 at AEGON97.
 
 ```
 
-```
+```C++
 Centaur uses 5 values for estimation of chess position (one realistic, two pessimistic and two optimistic). All 5 values of a position are saved in memory of computer and are used for choice of direction of investigation of position.
 
 ```
 
-```
+```C++
 Last modification of Centaur uses some code units from program [Mirage](Mirage "Mirage"), which is made in Russia. Principles of Centaur are described in [ICCA Journal](ICGA_Journal "ICGA Journal") 1996, 2 <a id="cite-note-16" href="#cite-ref-16">[16]</a> 
 
 ```

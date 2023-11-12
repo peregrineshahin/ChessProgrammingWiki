@@ -202,7 +202,7 @@ from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet [[16]](#cite_note-16) :
 
 
 
-```
+```C++
 The Mephisto Rebel has to be defined in between a [Shannon A](Type_A_Strategy "Type A Strategy") and a [Shannon B](Type_B_Strategy "Type B Strategy") type of chess program. To all [brute force](Brute-Force "Brute-Force") calculations a fixed ply depth [quiescence search](Quiescence_Search "Quiescence Search") is added. [Capturing moves](Captures "Captures") and [checks](Check "Check") are [extended](Extensions "Extensions") more deeply. The [evaluation function](Evaluation "Evaluation") integrated much [chess-knowledge](Knowledge "Knowledge"), so the program also finds good positional moves. 
 
 ```
@@ -215,19 +215,19 @@ given from the [ICGA](ICGA "ICGA")-site [[17]](#cite_note-17) :
 
 
 
-```
+```C++
 REBEL BV is a Dutch chess software developing company completely devoted to chess since 1985. In that remarkable year (1985) our first commercial chess program named REBEL 5.0 was released by Mephisto Hegener & Glaser, Munich, Germany in a stand-alone (dedicated) chess computer.
 
 ```
 
 
-```
+```C++
 Since 1994 we produce top chess software for PC distributed by a worldwide dealer network in more than 30 countries.
 
 ```
 
 
-```
+```C++
 What is Rebel?
 
 ```

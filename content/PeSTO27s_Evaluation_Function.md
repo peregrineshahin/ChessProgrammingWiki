@@ -33,7 +33,7 @@ an 200 Elo boost with Pesto's Evaluation Function <a id="cite-note-4" href="#cit
 
 
 
-```
+```C++
 
 ##define PAWN   0
 ##define KNIGHT 1

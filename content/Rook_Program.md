@@ -37,7 +37,7 @@ from an [Lars Karlsson](Lars_Karlsson "Lars Karlsson") interview in [MikroDatorn
 
 
 
-```
+```C++
 Attention, maybe. The chess programs are a pure hobby business. It is interesting to do them because it requires that you know something about chess and know something about computers. Characteristic of my programs is that they imply a greater knowledge of computers than of chess. This is probably why I am now in the position that I have achieved a program that I can no longer beat by myself.
 
 ```

@@ -33,7 +33,7 @@ Therefor some programmers omit the origin from-square, but use piece-type instea
 
 This is how butterfly boards may be declared in [C](C "C") or [C++](Cpp "Cpp"):
 
-```
+```C++
 
 counterType arrWhiteButterfly[64][64]; // from, to -> 4K
 counterType arrBlackButterfly[64][64]; // from, to -> 4K
@@ -42,7 +42,7 @@ counterType arrBlackButterfly[64][64]; // from, to -> 4K
 
 or
 
-```
+```C++
 
 counterType arrButterfly[2][64][64]; // color, from, to -> 8K
 
@@ -88,7 +88,7 @@ The name Butterfly Boards was proposed by [Dap Hartmann](Dap_Hartmann "Dap Hartm
 
 The [thorax](https://en.wikipedia.org/wiki/Thorax) of the Butterfly is centered by the wraps from one rank (or dependent on the [Square Mapping Considerations](Square_Mapping_Considerations "Square Mapping Considerations"), one file) to the next one. With 'a1' as square null mapping, and 'd1' as square 3, 'e2' is square 12, the shape indexed by square coordinates looks as follows, covering two wrapped rank "halfs" including their center files, e.g. d1 - e2:
 
-```
+```C++
 
 d e f g h a b c d e        d e f g h a b c d e
 1 1 1 1 1 2 2 2 2 2        1 1 1 1 1 2 2 2 2 2
@@ -113,7 +113,7 @@ That is why Dap Hartmann called it Butterfly Boards.
 - n butterflies span an 8\*n + 2 square range
 - seven butterflies span 58 square range, from 3 (d1) to 60 (e8)
 
-```
+```C++
 
 d e f g h a b c d e f g h a b c d e       d e f g h a b c d e f g h a b c d e
 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3       1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3
@@ -142,7 +142,7 @@ d e f g h a b c d e f g h a b c d e       d e f g h a b c d e f g h a b c d e
 
 Some arbitrary [C](C "C")-code, to produce the plot:
 
-```
+```C++
 
 ##include "stdafx.h"
 ##include <math.h>

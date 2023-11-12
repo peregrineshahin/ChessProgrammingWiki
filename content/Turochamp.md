@@ -36,13 +36,13 @@ In his 1953 paper 'Chess' in [Bowden's](https://en.wikipedia.org/wiki/B._V._Bowd
 
 
 
-```
+```C++
 Turing says that the system of rules set out in 'Chess' is based on an '[introspective](https://en.wikipedia.org/wiki/Introspection) analysis' of his own [thought process](https://en.wikipedia.org/wiki/Thought) when playing (but with 'considerable simplifications'). His system anticipates much that has become standard in chess programming: the use of heuristics to guide the [search](Search "Search") through the [tree](Search_Tree "Search Tree") of possible [moves](Moves "Moves") and counter-moves; the use of [evaluation](Evaluation "Evaluation") rules which assign [numerical values](Score "Score"), indicative of strength or weakness, to [board configurations](Chess_Position "Chess Position"); the minimax strategy; and variable look-ahead whereby, instead of the consequences of every possible move being followed equally far, the 'more profitable moves are considered in greater detail than the less'. Turing also realized the necessity of using 'an entirely different system for the [end-game](Endgame "Endgame")'.
 
 ```
 
 
-```
+```C++
 The [learning](Learning "Learning") procedure that Turing proposed in 'Chess' involves the machine trying out variations in its method of play - e.g. varying the numerical values that are assigned to the various pieces. The machine adopts any variation that leads to more satisfactory results. This procedure is an early example of a [genetic algorithm](Genetic_Programming "Genetic Programming"). 
 
 ```
@@ -55,7 +55,7 @@ The [learning](Learning "Learning") procedure that Turing proposed in 'Chess' in
 
 
 
-```
+```C++
  Most of our attention went to deciding which moves were to be followed up. My memory about this is infuriatingly weak, Captures had to be followed up at least to the point where no further captures was immediately possible. Check and forcing moves had to be followed further. We were particularly keen on the idea that whereas certain moves would be scorned as pointless and pursued no further others would be followed quite a long way down certain paths. In the actual experiment I suspect we were a bit slapdash about all this and must have made a number of slips since the arithmetic was extremely tedious with pencil and paper. Out general conclusion was that a computer should be fairly easy to programme to play a game of chess against a beginner and stand a fair chance of winning or least reaching a winning position.  
 
 ```

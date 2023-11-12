@@ -36,7 +36,7 @@ In 1989, both authors received the *Mephisto "Young Programmers" [Scholarship](h
 
 
 
-```
+```C++
 The [ICCA](ICCA "ICCA") is pleased to congratulate Mr. Schmitt and Mr. Lutz for their success. Each of them receive $1,250 from Hegener & Glaser, sponsor of this scholarship, to be used at any college or university of their choice. Hegener & Glaser also kindly sponsored their travel costs to Portorož for the World Microcomputer Chess Championship in September. 
 
 ```

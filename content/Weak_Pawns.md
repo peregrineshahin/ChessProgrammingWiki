@@ -26,7 +26,7 @@ pawns not defended and not defensible by the pawns of the same [color](Color "Co
 
 
 
-```
+```C++
 1k6/2p5/1p6/1P6/p1P5/P7/3K4/8 w - -
 
 ```

@@ -43,7 +43,7 @@ Quote from *Science in Rewiew: Cybernetics, a New Science* <a id="cite-note-4" h
 
 
 
-```
+```C++
 Professor Wiener assures us that a mechanical chess player could be constructed that "might very well be as good a player as the vast majority of the human race." Since each mechanical brain provides the knowledge with which to build a better mechanical brain, it is conceivable that eventually we may build a better mechanical brain, it is conceivable that eventually we may build machines that will surpass the best human brains in thinking capacity, that may not only do all man's work for him but also solve such problems as the control of the atomic bomb and how to reconcile east and west. All that would be left for man to do would be to devise ways to stop the machine from destroying him. 
 
 ```
@@ -53,7 +53,7 @@ Quote by Norbert Wiener from *Ex-Prodigy: My Childhood and Youth* <a id="cite-no
 
 
 
-```
+```C++
 The Advantage is that mathematics is a field in which one's blunders tend to show very clearly and can be corrected or erased with a stroke of the pencil. It is a field which has often been compared with chess, but differs from the latter in that it is only one's best moments that count and not one's worst. A single inattention may lose a chess game, whereas a single successful approach to a problem, among many which have been relegated to the wastebasket, will make a mathematician's reputation. 
 
 ```

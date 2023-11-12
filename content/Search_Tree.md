@@ -107,7 +107,7 @@ A perfectly ordered Tree, [All-Nodes](Node_Types#ALL "Node Types") (A) need to c
 
 
 
-```
+```C++
 
                 (A)
                / | \
@@ -132,7 +132,7 @@ A minimal, perfectly ordered search tree, with [Knuth's](Donald_Knuth "Donald Kn
 
 
 
-```
+```C++
 
                 (P)
                / | \

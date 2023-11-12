@@ -152,7 +152,7 @@ Description given in 1999 from the [ICCA](ICCA "ICCA") tournament site [[5]](#ci
 
 
 
-```
+```C++
 Shredder has started in 1995 as a project at university. Good tournament and test results encouraged me to spend more work in it and lead to the winning of the 1996 WMCCC in Jakarta. Shredder has been commercially available since then and continued to perform very well in computer chess championships. It was 3rd in Paris 1997 and managed to finish as the runner up in the blitz championship there. Shredder is written in [ANSI-C](index.php?title=Ansi-C&action=edit&redlink=1 "Ansi-C (page does not exist)") and therefore it can easily compiled on various hardware platforms. I think Shredder has good chances in Paderborn this year because it is one of the strongest computer chess programs running on an micro around. 
 
 ```

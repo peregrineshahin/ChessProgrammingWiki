@@ -3,7 +3,7 @@ title: CPWEngine console ui
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Console UI**
 
-```
+```C++
 
 ##include "stdafx.h"
 

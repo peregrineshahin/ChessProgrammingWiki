@@ -62,7 +62,7 @@ A quote from Rival's *Static Board Evaluation* site <a id="cite-note-8" href="#c
 
 
 
-```
+```C++
 The factors considered in the evaluation function have been chosen because they are relatively quick to calculate. Very few of the ideas are entirely original; many represent elementary chess knowledge and many have been used in other chess programs. Sources that have been of particular influence are [Slate](David_Slate "David Slate") & [Atkin](Larry_Atkin "Larry Atkin") (1977) <a id="cite-note-9" href="#cite-ref-9">[9]</a>, [Newborn](Monroe_Newborn "Monroe Newborn") (1975) <a id="cite-note-10" href="#cite-ref-10">[10]</a> and [Hyatt](Robert_Hyatt "Robert Hyatt") et al (1985) <a id="cite-note-11" href="#cite-ref-11">[11]</a>. Some of the factors have been added to overcome certain weaknesses that the program has shown, others have been left out in the hope that the gain in search speed would outweigh the loss in evaluation quality. The work of [Berliner](Hans_Berliner "Hans Berliner") et al (1990) <a id="cite-note-12" href="#cite-ref-12">[12]</a> suggests the opposite to the last assumption. 
 
 ```

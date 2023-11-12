@@ -34,13 +34,13 @@ Ronald de Man proposed a method to apply [randomness](Search_with_Random_Leaf_Va
 
 
 
-```
+```C++
 First of all, don't worry, it is possible. But you should not try to pass the bonus to the tip nodes. That would indeed give hash problems. The solution is to not change anything in your Search() procedure. That already solves all potential hash problems. You just add the bonus AFTER Search() has returned a value for a particular root move. So that would be done in your SearchRoot(). What you basically do there is change every occurrence of 
 
 ```
 
 
-```
+```C++
 value = -Search(-beta, -alpha,...)
 in
 value = bonus[n] - Search(bonus[n]-beta, bonus[n]-alpha,...)
@@ -48,13 +48,13 @@ value = bonus[n] - Search(bonus[n]-beta, bonus[n]-alpha,...)
 ```
 
 
-```
+```C++
 where bonus[n] is the development bonus value for the move you are currently searching. It is all very natural when you think about it. You should consider Search() as a black box. You give it some numbers alpha and beta, and Search() gives you a number x, with the properties that, relative to the real value v of this move,
 
 ```
 
 
-```
+```C++
 1. If v <= alpha, then x <= alpha,
 2. If v >= beta, then x >= beta,
 3. If alpha < v < beta, then x = v.
@@ -62,25 +62,25 @@ where bonus[n] is the development bonus value for the move you are currently sea
 ```
 
 
-```
+```C++
 If you search a move, you want to know if its real value + bonus[n] is bigger than alpha. So you want to know if its real value is bigger than alpha-bonus[n]. So you give Search() the bounds alpha-bonus[n] and beta-bonus[n], and add bonus[n] to the result. And you do this in SearchRoot().
 
 ```
 
 
-```
+```C++
 So no fudging with hash table scores whatsoever!
 
 ```
 
 
-```
+```C++
 Of course this trick gives all kinds of possibilities. Not only can you stimulate development, or add in some randomization. It is also easy to solve the 'underpromotion' problem: to prevent the program from under-promoting to a rook (in situations where the piece will probably be captured the next move anyway), you give underpromotion moves a penalty. Or in trivially drawn endgames like KRKR you give captures a bonus. Or in not-so-trivially drawn endgames for which tablebases give draw values you give moves that give away a piece (but do not change the outcome) a penalty, hoping that the opponent will make a fatal mistake further on in the game :-)
 
 ```
 
 
-```
+```C++
 Ronald de Man 
 
 ```

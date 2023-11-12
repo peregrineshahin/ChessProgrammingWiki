@@ -39,7 +39,7 @@ CHAOS was written in [Fortran](Fortran "Fortran") and required in excess of 3,00
 
 [Alex Bell](Alex_Bell "Alex Bell") on the CHAOS - Chess 4.0 game 1974 <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```
+```C++
 CHAOS played 16 NxP!! - a move which has been acclaimed as the finest ever made by a computer. White evaluates that his domination of open lines is compensation for a piece. This judgement is absolutely correct. Of course the piece is not sacrificed entirely and play continues in a very similar fashion to [MASTER's](Master "Master") sacrifice of a bishop to [TELL](Tell "Tell"). 
 
 ```
@@ -48,7 +48,7 @@ CHAOS played 16 NxP!! - a move which has been acclaimed as the finest ever made 
 | --- |
 |                                                                      ♜♛  ♚  ♜   ♞ ♟♟♟♟  ♝♟♞♝         ♘♟ ♘     ♗   ♙♙ ♙♙  ♕  ♙♖ ♗♖  ♔  |
 
-```
+```C++
 rq2k2r/3n1ppp/p2bpnb1/8/Np1N4/1B3PP1/PP2Q2P/R1BR2K1 w kq - 1 16
 
 ```
@@ -57,7 +57,7 @@ rq2k2r/3n1ppp/p2bpnb1/8/Np1N4/1B3PP1/PP2Q2P/R1BR2K1 w kq - 1 16
 
 Quote from *Computer vs. computer: Duel on the Chessboard* <a id="cite-note-7" href="#cite-ref-7">[7]</a> on [ACM 1979](ACM_1979 "ACM 1979"):
 
-```
+```C++
 The biggest and most powerful computers do that very well. In one second, they can examine thousands of possible moves. The problem is, they stop to consider lousy moves that a human player wouldn't waste a fraction of a second on. On the other side of the fence are the slower but "smarter" computer programs. They can't think about zillions of chess moves, so they need a lot of information about chess plugged into them. CHAOS is one of these latter, pumped with chess information from [John J. O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe"), one of Michigan's top players. 
 
 ```

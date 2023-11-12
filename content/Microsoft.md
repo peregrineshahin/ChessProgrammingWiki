@@ -37,7 +37,7 @@ Remark by [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) on the [17. IJC
 
 
 
-```
+```C++
 Microsoft was founded about 25 years ago, and I can remember at the time thinking, "Well, if I go out and do this really commercial stuff, I’m going to miss these big advances in [AI](Artificial_Intelligence "Artificial Intelligence") that will be coming very soon." (Laughter.) And so I come from the school of AI optimist. You know, I can remember being at [Harvard](Harvard_University "Harvard University") and back then AI was the [Greenblatt Chess Program](Mac_Hack "Mac Hack") and [Maxima](https://en.wikipedia.org/wiki/Maxima_%28software%29) and [Eliza](https://en.wikipedia.org/wiki/ELIZA) and people literally felt that within five to ten years that some of these tough problems would be solved. 
 
 ```

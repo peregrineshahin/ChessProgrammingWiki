@@ -49,7 +49,7 @@ Kurt 0.9.2.x beta uses [Matt Taylor's](Matt_Taylor "Matt Taylor") [folded BitSca
 
 
 
-```
+```C++
 
 static const int LsbDeBruijnMap[64] =
 {
@@ -81,7 +81,7 @@ unsigned char LeastSignificantBit(bitboard b)
 
 
 
-```
+```C++
 
 /**
  * CollapseFiles(bitboard) folds a bitboard vertically into an 8 bit word.

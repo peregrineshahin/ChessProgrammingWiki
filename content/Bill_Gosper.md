@@ -49,7 +49,7 @@ HAKMEM 70, A neat chess problem, swiped from *Chess for Fun and Chess for Blood*
 
 [HAKMEM 169](Population_Count#HAKMEM169 "Population Count"), to [count the ones](Population_Count "Population Count") in a [PDP-6](PDP-6 "PDP-6")/[PDP-10](PDP-10 "PDP-10") 36-bit word, written in [Assembly](Assembly#HAKMEM169 "Assembly") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
-```
+```C++
 
    LDB   B,[014300,,A]     ;or MOVE B,A then LSH B,-1
    AND   B,[333333,,333333]
@@ -68,7 +68,7 @@ HAKMEM 70, A neat chess problem, swiped from *Chess for Fun and Chess for Blood*
 
 [HAKMEM 175](Traversing_Subsets_of_a_Set#Snoob "Traversing Subsets of a Set") - next higher number with the same number of one bits (Snoob), by Bill Gosper, [PDP-6](PDP-6 "PDP-6") [Assembly](Assembly "Assembly"):
 
-```
+```C++
 
    MOVE  B,A
    MOVN  C,B

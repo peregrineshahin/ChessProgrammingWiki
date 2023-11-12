@@ -90,12 +90,12 @@ Duchess is written in [IBM 370](IBM_370 "IBM 370") [assembly language](Assembly 
 
 From [Michael](https://en.wikipedia.org/wiki/Michael_Hauben) and Ronda Hauben's netbook *[Netizens: On the History and Impact of Usenet and the Internet](http://www.columbia.edu/~hauben/project_book.html)* <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```
+```C++
 He (Truscott) and Wright created their program for an IBM System 370 Model 165  MVT/TSO mainframe computer system at Duke. It had three megabytes of main memory, which Truscott notes was later upgraded to "4 megabytes for a mere $100,000." That was, according to Truscott, "Pretty much the top of the line at the time. We did our development in batch mode," he remembers, "The source code was on [punched cards](https://en.wikipedia.org/wiki/Punched_card) and the compiled code was stored on disk." And in tournaments, he and Wright used the IBM time-sharing mode TSO.
 
 ```
 
-```
+```C++
 The first computer chess tournament Truscott and Wright competed in was the North American Chess Championships held at the ACM Annual Conference in San Diego, California in November 1974. By then, Truscott was in his senior year at Duke. He and Wright named their chess program Duchess. 
 
 ```

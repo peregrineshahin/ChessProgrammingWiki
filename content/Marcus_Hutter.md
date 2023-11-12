@@ -33,20 +33,20 @@ Quote from *The AIXI Model in One Line* <a id="cite-note-4" href="#cite-ref-4">[
 
 
 
-```
+```C++
 It is actually possible to write down the AIXI model explicitly in one line, although one should not expect to be able to grasp the full meaning and power from this compact representation.
 
 ```
 
 
-```
+```C++
  AIXI is an agent that interacts with an environment in cycles k=1,2,...,m. In cycle k, AIXI takes action ak (e.g. a limb movement) based on past perceptions o1 r1...ok-1 rk-1 as defined below. Thereafter, the environment provides a (regular) observation ok (e.g. a camera image) to AIXI and a real-valued reward rk. The reward can be very scarce, e.g. just +1 (-1) for winning (losing) a chess game, and 0 at all other times. Then the next cycle k+1 starts. Given the above, AIXI is defined by: 
 
 ```
 
  [](http://www.hutter1.net/ai/uaibook.htm#oneline) 
 
-```
+```C++
 The expression shows that AIXI tries to maximize its total future reward rk+...+rm. If the environment is modeled by a deterministic program q, then the future perceptions ...okrk...omrm = U(q,a1..am) can be computed, where U is a universal (monotone Turing) machine executing q given a1..am. Since q is unknown, AIXI has to maximize its expected reward, i.e. average rk+...+rm over all possible perceptions created by all possible environments q. The simpler an environment, the higher is its a-priori contribution 2-l(q), where simplicity is measured by the length l of program q. Since noisy environments are just mixtures of deterministic environments, they are automatically included. The sums in the formula constitute the averaging process. Averaging and maximization have to be performed in chronological order, hence the interleaving of max and Σ (similarly to minimax for games). 
 
 ```

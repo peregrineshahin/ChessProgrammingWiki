@@ -87,7 +87,7 @@ Represented as such a square difference, displacement vectors can be used to ind
 
 
 
-```
+```C++
 
      ╔════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╗
  210 ║  98| 99 | 100| 101| 102| 103| 104| 105| 106| 107| 108| 109| 110| 111| 112║
@@ -132,7 +132,7 @@ Represented as such a square difference, displacement vectors can be used to ind
 
 
 
-```
+```C++
 
 char rayUnitVectorQueen[15*15];
 
@@ -196,7 +196,7 @@ In conjunction with [disjoint piece flags](Pieces#DisjointPieceFlags "Pieces") a
 
 
 
-```
+```C++
 
 increment = rayVector[direction];
 for (tosq = fromsq + increment; board[tosq] == EMPTY; tosq += increment);
@@ -215,7 +215,7 @@ A destination-source blocker loop, to test whether a sliding piece on a from squ
 
 
 
-```
+```C++
 
 increment = rayUnitVectorQueen[15*15/2 + fromsq - tosq];
 if ( increment ) {
@@ -244,7 +244,7 @@ The [0x88](0x88 "0x88") or 16x8 board uses [nibbles](Nibble "Nibble") for both r
 
 
 
-```
+```C++
 
 --------XXXXXXXX
 --------XXXXXXXX
@@ -265,7 +265,7 @@ The [0x88](0x88 "0x88") or 16x8 board uses [nibbles](Nibble "Nibble") for both r
 
 
 
-```
+```C++
 
 sq0x88 = 16 * rank07 + file07;
 file07 = sq0x88 & 7;
@@ -278,7 +278,7 @@ rank07 = sq0x88 >> 4; // sq0x88 / 16
 
 
 
-```
+```C++
 
 sq0x88 = sq + (sq & ~7);
 
@@ -295,7 +295,7 @@ The odd number of files makes the [square color](Color_of_a_Square "Color of a S
 
 
 
-```
+```C++
 
 XXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXX
@@ -320,7 +320,7 @@ Coordinate transformation is usually not needed while generating moves, since [p
 
 
 
-```
+```C++
 
 sq15x12 = 15 * rank07 + file07 + 34;
 rank07  = ((sq15x12 - 34) * 9) >> 7;  // div by reciprocal mul
@@ -339,7 +339,7 @@ Usually the eight surrounding border files are divided 4:4, so the offset of the
 
 
 
-```
+```C++
 
 XXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXX
@@ -364,7 +364,7 @@ XXXXXXXXXXXXXXXX
 
 
 
-```
+```C++
 
 sq16x12 = 16 * rank07 + file07 + 36;
 rank07  = (sq16x12 - 36) >> 4; // div 16
@@ -377,7 +377,7 @@ file07  = (sq16x12 - 36) &  7;  // % 8
 
 
 
-```
+```C++
 
 sq16x12 = sq8x8 + (sq8x8 & ~7) + 36;
 
@@ -388,7 +388,7 @@ Convert 16x12 square index to 0..63 square index:
 
 
 
-```
+```C++
 
 file8x8 = (sq16x12 & 0xf) - 4
 rank8x8 = ((sq16x12 >> 4) - 2

@@ -3,7 +3,7 @@ title: CPWEngine 0x88 math
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * 0x88_math**
 
-```
+```C++
 
 /* row identifiers */
  

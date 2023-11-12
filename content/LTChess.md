@@ -30,7 +30,7 @@ LTChess 2, released in December 2016, changed to [NegaMax](Negamax "Negamax"), a
 
 
 
-```
+```C++
 
 ClearPVDisplay;
 GoToXY(51, 13);

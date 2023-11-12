@@ -58,7 +58,7 @@ Jaap van den Herik in 2010 [[9]](#cite_note-9) :
 
 
 
-```
+```C++
 Along with [Barend Swets](Barend_Swets "Barend Swets") and [Peter van Diepen](Peter_van_Diepen "Peter van Diepen"), I was one of the followers of [Euwe](Max_Euwe "Max Euwe") and [De Groot](Adriaan_de_Groot "Adriaan de Groot"). Euwe had become extraordinary professor in 1964 Rotterdam and professor in Tilburg (data processing)... 
 
 ```

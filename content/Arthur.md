@@ -33,14 +33,14 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-2" href="#cite-ref
 
 ## 1997
 
-```
+```C++
 Arthur is an amateur chess program that has been developed as a literate program, i.e., with description and source code integrated in a single document. The complete print-out is some 500 pages. The program uses conventional [search](Search "Search") techniques, with some specific [extensions](Extensions "Extensions") developed by the author. The program is knowledge intensive and plays mainly positional games. Arthur has been a regular guest in the AEGON Man vs. Machine tournaments and the Open Dutch Computer Chess Championships. Over the last three years it has finished between the top amateur programs. 
 
 ```
 
 ## 1999
 
-```
+```C++
 Arthur is a strong Dutch amateur program. It has finished as the best amateur program in the [Open Dutch Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") for the last three years, performing reasonably well against commercial programs. The program consists of a platform independent chess engine, which is connected to a [graphical user interface](GUI "GUI") for the [Macintosh](Macintosh "Macintosh"). A [WinBoard](WinBoard "WinBoard") version will be available in the near future. Arthur is quite capable tactically, but it tends to play a positional game, when given the chance. 
 
 ```

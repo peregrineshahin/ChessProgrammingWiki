@@ -87,7 +87,7 @@ With an appropriate [quad-bitboard](Quad-Bitboards "Quad-Bitboards") class, one 
 
 ## Knight Attacks
 
-```
+```C++
 
         noNoWe    noNoEa
             +15  +17
@@ -103,7 +103,7 @@ soWeWe -10   |     |   -6  soEaEa
 
 ```
 
-```
+```C++
 
 QBB noEaEa_noNoEa_noNoWe_noWeWe(U64 knights) {
    const QBB qmask  (notAB, notA,notH,notGH);
@@ -123,7 +123,7 @@ QBB soWeWe_soSoWe_soSoEa_soEaEa(U64 knights) {
 
 ## Dumb7Fill
 
-```
+```C++
 
   northwest    north   northeast
   noWe         nort         noEa
@@ -137,7 +137,7 @@ QBB soWeWe_soSoWe_soSoEa_soEaEa(U64 knights) {
 
 ```
 
-```
+```C++
 
 QBB east_nort_noWe_noEa_Attacks(QBB qsliders {rq,rq,bq,bq}, U64 empty) {
    const QBB qmask  (notA,-1,notH,notA);
@@ -173,7 +173,7 @@ QBB west_sout_soEa_soWe_Attacks(QBB qsliders {rq,rq,bq,bq}, U64 empty) {
 
 For each [bitboard](Bitboards "Bitboards") in a destination [quad-bitboard](Quad-Bitboards "Quad-Bitboards"), the Qwords Element Permutation (**VPERMQ**) instruction <a id="cite-note-1" href="#cite-ref-1">[1]</a> selects one bitboard of a source quad-bitboard. This permits a bitboard in the source operand to be copied to multiple locations in the destination.
 
-```
+```C++
 
  destQBB.bb[0] = sourceQBB.bb[ (imm8 >> 0) & 3 ]
  destQBB.bb[1] = sourceQBB.bb[ (imm8 >> 2) & 3 ]
@@ -186,7 +186,7 @@ For each [bitboard](Bitboards "Bitboards") in a destination [quad-bitboard](Quad
 
 Following code extracts the [piece-code](Pieces#PieceCoding "Pieces") as "[vertical nibble](Quad-Bitboards#getPiece "Quad-Bitboards")" from a [quad-bitboard](Quad-Bitboards "Quad-Bitboards") as [board representation](Board_Representation "Board Representation") inside a register, "indexed" by square. The idea is to shift the square bits to the leftmost bit, the [sign bit](https://en.wikipedia.org/wiki/Sign_bit) of each bitboard, to perform the *VPMOVMSKB* instruction to get the sign bits of all 32 bytes into a general purpose register. Unfortunately, there is no *VPMOVMSKQ* to get only the signs of four bitboards, so some more masking and mapping is required to get the four-bit piece code ...
 
-```
+```C++
 
 int getPiece (__m256i qbb, U64 sq) {
    __m128i  shift = _mm_cvtsi32x_si128( sq ^ 63 ); /* left shift amount 63-sq */
@@ -205,7 +205,7 @@ int getPiece (__m256i qbb, U64 sq) {
 
 ... with seven [assembly](Assembly "Assembly") instructions intended, assuming the quad-bitboard passed in ymm0 and the square in rcx
 
-```
+```C++
 
   xor       rcx, 63          ; left shift amount 63-sq
   movd      xmm6, rcx        ; shift amount via xmm

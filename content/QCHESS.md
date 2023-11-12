@@ -18,7 +18,7 @@ from PDP-8 Catalog, 1978 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 
 
-```
+```C++
 QCHESS is a Chess game written in BASIC that uses an algorithmic model of the game of Chess. The program as submitted to [DECUS](https://en.wikipedia.org/wiki/DECUS) represents the end of about two years of work. Originally written for the PDP-8, QCHESS has been run on several different computers. 
 
 ```

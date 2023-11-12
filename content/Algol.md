@@ -22,7 +22,7 @@ Algol 58 introduced code blocks and the begin and end pairs for delimiting them.
 
 A boolean procedure in Algol W from the chess program [Awit](Awit "Awit") by [Tony Marsland](Tony_Marsland "Tony Marsland") <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
-```
+```C++
 
 11662 LOGICAL PROCEDURE CLEAR(INTEGER VALUE SQA, SQF, SQT);
 11663 BEGIN

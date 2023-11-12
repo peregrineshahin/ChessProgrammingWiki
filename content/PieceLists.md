@@ -98,7 +98,7 @@ As elaborated in his thesis *New Architectures in Computer Chess, Chapter 2 Non-
 
 
 
-```
+```C++
 int nWhiteRooks; /* counter white rooks */
 int white_rook_list[MAX_ROOKS] ;  /* MAX_ROOKS = 10 */
 ...
@@ -117,7 +117,7 @@ The piece list traversal for instance in [move generation](Move_Generation "Move
 
 
 
-```
+```C++
 for (int p = 0; p < nWhiteRooks; ) {
    fromsquare = white_rook_list[p++];
    ...
@@ -128,7 +128,7 @@ for (int p = 0; p < nWhiteRooks; ) {
 
 
 
-```
+```C++
 for (int p = nWhiteRooks; p > 0; ) {
    fromsquare = white_rook_list[--p];
    ...
@@ -146,7 +146,7 @@ for (int p = nWhiteRooks; p > 0; ) {
 
 
 
-```
+```C++
 
   Initial                             make(Rb5-b8)                        make (xb8)
                                                                           nWhiteRooks--;
@@ -188,7 +188,7 @@ for (int p = nWhiteRooks; p > 0; ) {
 
 
 
-```
+```C++
 
                                       unmake(xb8)                         unmake(Rb5-b8)
 

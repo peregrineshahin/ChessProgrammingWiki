@@ -38,7 +38,7 @@ of the evaluation function, the NNUE type should require fewer training phases t
 
 
 
-```
+```C++
 
 // Bitboard 本体クラス
 

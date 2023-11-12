@@ -31,7 +31,7 @@ Microsoft 64-bit [C](C "C")-compiler long is still 32-bit [Double Word](Double_W
 
 
 
-```
+```C++
 
 typedef unsigned long QWORD;
 typedef unsigned long long QWORD;
@@ -46,7 +46,7 @@ Quad words are used as [bitboard](Bitboards "Bitboards") datatype:
 
 
 
-```
+```C++
 
 typedef QWORD U64;
 typedef QWORD Bitboard;

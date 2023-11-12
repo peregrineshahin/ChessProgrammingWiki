@@ -49,7 +49,7 @@ A further variation of Extended Futility Pruning combining the ideas of [Fruit's
 
 Deep Futility Pruning was proposed by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. It is applied at depths of 1\<d\<=3+[R](Depth_Reduction_R "Depth Reduction R"), i.e. with two moves to go:
 
-```
+```C++
 
 if ( CurEval <= Alpha - PVal[FirstPiece(Opponent)] - PVal[SecondPiece(Opponent)] - 2*PosMargin )
    prune

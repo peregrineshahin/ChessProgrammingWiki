@@ -32,7 +32,7 @@ Wim Rens in his June 1981 Databus article *Grondslagen van computerschaak* <a id
 
 
 
-```
+```C++
 The second milestone of Gambiet's triumph <a id="cite-note-3" href="#cite-ref-3">[3]</a> was achieved under the watchful eye of the firm Microtrend. At home of one of their directors were two [TSR-80's](TRS-80 "TRS-80"), one running [Sargon II](Sargon "Sargon"), the other Gabmol <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Microtrend was looking for a chess game in their collection, and end of June a decision was made and a contract placed. The result was impressive: two equally fast Tandy computers and Gambiet had no trouble with the once-famous Sargon. 
 
 ```

@@ -45,7 +45,7 @@ SOS has its debut at [Don Beal's](Don_Beal "Don Beal") [1993 QMW Uniform-Platfor
 
 
 
-```
+```C++
 SOS is a conventional chess program. It uses [depth first](Depth-First "Depth-First") [minimax tree search](Minimax "Minimax") with [quiescence search](Quiescence_Search "Quiescence Search"), [alpha-beta](Alpha-Beta "Alpha-Beta") enhancement, [minimal window search](Principal_Variation_Search "Principal Variation Search") and [null-move pruning](Null_Move_Pruning "Null Move Pruning"). To improve the search efficiency, the [history heuristic](History_Heuristic "History Heuristic") and a [transpositional table](Transposition_Table "Transposition Table") is used. The search is [extended](Extensions "Extensions") to deeper plies on those move sequences which have a high probability of being part of the [principal variation](Principal_Variation "Principal Variation"). For SOS, those sequences are [recaptures](Recapture_Extensions "Recapture Extensions") and [check evasions](Check_Extensions "Check Extensions"). Leaf node [evaluation](Evaluation "Evaluation") considers only [material](Material "Material"), [piece placement](Piece-Square_Tables "Piece-Square Tables") and [pawn structure](Pawn_Structure "Pawn Structure") and only about 10% of the CPU time is spent on this (not including the quiescence search which is capture only, but extends on "losing" captures which are checks and on checking sequences). The evaluation parameters are dynamic and [continuously updated](Incremental_Updates "Incremental Updates") during tree search. SOS's weakest part is probably [endgame](Endgame "Endgame") knowledge. SOS actively plays a wide range of [openings](Opening "Opening"), but most of those lines are not very deep. With autoplay games against itself, the [opening book](Opening_Book "Opening Book") is tuned to favor those lines which harmonize with SOS's style of play. 
 
 ```
@@ -54,7 +54,7 @@ SOS is a conventional chess program. It uses [depth first](Depth-First "Depth-Fi
 
 
 
-```
+```C++
 SOS is an amateur program which was started in 1993 and has since then competed in a number of [tournaments](Tournaments_and_Matches "Tournaments and Matches"). The newest version runs on multiprocessor systems with a parallelized version of [mtd(f)](MTD(f) "MTD(f)") as its minimax search algorithm. SOS used to be a relatively fast searcher and relied on outsearching the opponent. This has changed now and more [knowledge](Knowledge "Knowledge") and special cases have been implemented which slow it down. Little effort is spent on the opening book. It plays a very broad range of openings. However it [learns](Book_Learning "Book Learning") to avoid unsuccessful lines and tries not to repeat lost games. It uses publicly available [endgame databases](Endgame_Tablebases "Endgame Tablebases"). 
 
 ```

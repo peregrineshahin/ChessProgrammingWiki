@@ -45,19 +45,19 @@ From *I remember [Donald Michie](Donald_Michie "Donald Michie")* <a id="cite-not
 
 
 
-```
+```C++
 To accommodate a driven student with his own project requires a supervisor who is not one of those lowly beavers. In the case of [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") it was [Morven Gentleman](Mathematician#MGentleman "Mathematician"). When Gentleman left, the nearly finished Schaeffer was transferred to [Randy Goebel](Mathematician#Goebel "Mathematician") and myself. As a result, he is, pro forma, my most famous student. ...
 
 ```
 
 
-```
+```C++
 Donald Michie demonstrated the Human Window phenomenon with chess end games. He proposed a form of describing end-game knowledge that he called “advice” and described a formal language, Advice Language One <a id="cite-note-6" href="#cite-ref-6">[6]</a> , for expressing such advice. The language could be translated into a form that guided a computer to play the end-game at the level of skill of a chess expert. [Soei Tan](Soei_Tan "Soei Tan"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Danny Kopec](Danny_Kopec "Danny Kopec") were chess experts who used this framework to implement specific end games.
 
 ```
 
 
-```
+```C++
 Once again, I did not get it. I could not help acting in my then usual role of Prolog evangelist and wanted to demonstrate that the beauty of Prolog was that it rendered superfluous things like Advice Language One. Accordingly I wrote a Prolog program that played an end game using Advice in DM’s sense <a id="cite-note-7" href="#cite-ref-7">[7]</a>. DM generously allowed me my say in a paper in the Tenth Machine Intelligence workshop. It’s a nice paper, but it does not get it. 
 
 ```
@@ -70,7 +70,7 @@ From *An Introduction to Computer Chess* <a id="cite-note-8" href="#cite-ref-8">
 
 
 
-```
+```C++
 From the team of undergrads who authored [Ribbit](Ribbit "Ribbit"), [Ron Hansen](Ron_Hansen "Ron Hansen") went on to write his master thesis on computer chess, and eventually Prof. Van Emden became an expert in computer chess and endgames. 
 
 ```

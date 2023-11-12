@@ -31,7 +31,7 @@ title: Hyperbola Quintessence
 
 Assume following masked [occupancy](Occupancy "Occupancy") on a [file](Files "Files"), [diagonal](Diagonals "Diagonals") or [anti-diagonal](Anti-Diagonals "Anti-Diagonals") - for simplicity as a flat byte (in a real bitboard with masked files or diagonals you have 6..8 scratch-bits between the bits of this byte). Thus, vertical flip reverses the bits of this byte.
 
-```
+```C++
 
 o' = reverse(o)
 r' = reverse(r)
@@ -51,7 +51,7 @@ xor    01101100 -> to get the attack set
 
 The first subtraction of (o-2r) is done implicitly by masking off the line, removing the slider from the occupied set. The second subtraction borrows a "one" from the next nearest blocker in msb-direction, falling through all unset bits outside the line. Of course, if no blocker is available, it borrows a "one" in usual arithmetical manner from the hidden 2^N. Only the changed bits (from original o, o') are the appropriate sliding attacks, including the blocker but excluding the slider. The result finally needs to be intersected with the same line mask as previously the occupancy, to clear the wrapped borrow one bits outside the file or diagonal. The fine optimization by [Aleks Peshkov](Aleks_Peshkov "Aleks Peshkov") covers the final [union](General_Setwise_Operations#Union "General Setwise Operations") of [positive](On_an_empty_Board#PositiveRays "On an empty Board") and [negative ray-attacks](On_an_empty_Board#NegativeRays "On an empty Board"). Since opposed [ray-directions](Rays#RayDirections "Rays") are always disjoint sets, using [xor](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") instead of *bitwise or* safes two instructions per line-attack. That is because bit-reversal or any [mirroring or flipping](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating") is own inverse and distributive over xor.
 
-```
+```C++
 
 reverse(a ^ b) == reverse (a) ^ reverse(b)
 
@@ -59,7 +59,7 @@ reverse(a ^ b) == reverse (a) ^ reverse(b)
 
 thus
 
-```
+```C++
 
 lineAttacks = o^(o-2r) ^ reverse((o'-2r')^o')
 lineAttacks = o^(o-2r) ^ reverse( o'-2r') ^ reverse(o')
@@ -69,7 +69,7 @@ lineAttacks = o^(o-2r) ^ reverse( o'-2r') ^ o
 
 and finally
 
-```
+```C++
 
 lineAttacks =   (o-2r) ^ reverse( o'-2r')
 
@@ -83,7 +83,7 @@ Beside shorter code this reduces register pressure - and clearly outperforms [ki
 
 The three [C](C "C")-routines only differ by the line-mask applied:
 
-```
+```C++
 
 U64 diagonalAttacks(U64 occ, enumSquare sq) {
    U64 forward, reverse;
@@ -127,7 +127,7 @@ U64 bishopAttacks(U64 occ, enumSquare sq) {
 
 For better locality of the [line-attacks](On_an_empty_Board "On an empty Board") on the otherwise empty board, we may use an properly aligned array of structs.
 
-```
+```C++
 
 struct
 {
@@ -147,7 +147,7 @@ As long there is no fast bit reversal instruction, there is no general solution 
 
 Hyperbola quintessence can be generalized to work on whole sets of sliding pieces instead on individual pieces, whose ranks to be masked. The problem arising, when not masking the rank of the piece is that attacks wrap around the board during subtraction. This is shown below:
 
-```
+```C++
 
      ........       ........                            11111111
      ........       ........                            11111111
@@ -173,7 +173,7 @@ instead of
 
 This is not the intended result. It can be avioded, by bitwise adding an overflow barrier on the right-hand side. Afterwards this barrier needs to be removed from the attack set:
 
-```
+```C++
 
 u64 right = 0x0101010101010101ULL;
 
@@ -215,7 +215,7 @@ This is the correct attack set for the left direction.
 
 the complete algorithm for the left direction is therefore:
 
-```
+```C++
 
 const u64 right = 0x0101010101010101ULL;
 
@@ -229,7 +229,7 @@ For the right-hand direction, the bits need to be reversed rank-wise.
 
 The VC2005 generated [x86-64](X86-64 "X86-64") [assembly](Assembly "Assembly") of bishopAttacks indicates what [ipc](https://en.wikipedia.org/wiki/Instructions_Per_Cycle)-monster Hyperbola Quintessence is:
 
-```
+```C++
 
 occ$ = 16
 sq$ = 24
@@ -272,7 +272,7 @@ sq$ = 24
 
 [Java](Java "Java") programmer may try [Long.reverseBytes](http://java.sun.com/j2se/1.5.0/docs/api/java/lang/Long.html#reverseBytes%28long%29):
 
-```
+```C++
 
     static private final long[] bitMask = {
         0x0000000000000001, 0x0000000000000002, 0x0000000000000004, 0x0000000000000008,
@@ -306,7 +306,7 @@ sq$ = 24
 
 [Long.reverse](http://java.sun.com/j2se/1.5.0/docs/api/java/lang/Long.html#reverse%28long%29) for a generalized attack getter even for ranks is too expensive, except a [JVM](https://en.wikipedia.org/wiki/Java_Virtual_Machine) can use a machine instruction rather than a [bit-reversal](Flipping_Mirroring_and_Rotating#Rotationby180degrees "Flipping Mirroring and Rotating") routine:
 
-```
+```C++
 
     /**
      * @param occ  - occupancy

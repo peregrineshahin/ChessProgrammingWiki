@@ -46,7 +46,7 @@ Likely we have a the square-index handy, to access a table of precalculated king
 
 
 
-```
+```C++
 
 U64 arrKingAttacks[64];
 
@@ -59,7 +59,7 @@ For instance a king on g2:
 
 
 
-```
+```C++
 
 . . . . . . . .
 . . . . . . . .
@@ -84,7 +84,7 @@ To calculate all eight [directions](Direction "Direction"), one can actually do 
 
 
 
-```
+```C++
 
 U64 kingAttacks(U64 kingSet) {
    U64 attacks = eastOne(kingSet) | westOne(kingSet);
@@ -100,7 +100,7 @@ The routine is handy to initialize the kingAttacks [arrays](Array "Array"):
 
 
 
-```
+```C++
 
 U64 sqBB = 1;
 for (int sq = 0; sq < 64; sq++, sqBB <<= 1)
@@ -128,7 +128,7 @@ During the [middlegame](Middlegame "Middlegame"), the king is encouraged to hide
 
 
 
-```
+```C++
 
 . . . . . . . .
 . . . . . . . .
@@ -153,7 +153,7 @@ Assuming we are aware of all taboo squares of the king. That is the union of own
 
 
 
-```
+```C++
 
 moveTargets = arrKingAttacks[sq] & ~taboo;
 
@@ -164,7 +164,7 @@ If moveTargets is empty - the king has no move. The king might be vulnerable on 
 
 
 
-```
+```C++
 
 if ( moveTargets == 0 )
 {
@@ -194,7 +194,7 @@ Branchless in C - since boolean compare result is treated 0 or 1 arithmetically:
 
 
 
-```
+```C++
 
 pattern = moveTargets | sqBBofKing;
 dirSet  = ( pattern & rankBits[sq] == pattern ) * 1;
@@ -209,7 +209,7 @@ to possibly test later
 
 
 
-```
+```C++
 
 if ( dirSet ) evaluate and look for possible distant mates
 
@@ -227,7 +227,7 @@ Using the [SSE4.1](SSE4#SSE4.1 "SSE4") PCMPEQQ [Quadword](Quad_Word "Quad Word")
 
 
 
-```
+```C++
 
 struct SKingBits {
     U64 rankBits;
@@ -283,7 +283,7 @@ Assuming a black-king on g5 - white to move. What is the set of squares, where a
 
 
 
-```
+```C++
 
 black king on g5    white passers         double pawn push, need
 wtm                 possibly caught       to copy 3rd to 2nd rank
@@ -306,7 +306,7 @@ We need to consider [tempo](Tempo "Tempo"), if black to move, the area of caught
 
 
 
-```
+```C++
 
 black king on g5    white passers
 btm                 possibly caught
@@ -326,7 +326,7 @@ We can now pre-initialize an [array](Array "Array") of **caught pawn area** for 
 
 
 
-```
+```C++
 
 U64 arrCaughtableArea[2][2][64];  // [color of king][side to move][square]
 
@@ -339,7 +339,7 @@ How can the array be initialized, how can we calculate it? That is already some 
 
 
 
-```
+```C++
 
 distance = rank(kingSquare) ^ 7; // 7 - rank
 
@@ -359,7 +359,7 @@ One solution is first expand the king-set distance (3) times, in east and west d
 
 
 
-```
+```C++
 
 caughtable = kingBB;
 for (i = 0; i < distance; i++)
@@ -381,7 +381,7 @@ Now it is about filling south-west and south-east rank(kingSquare) times, which 
 
 
 
-```
+```C++
 
 for (i = 0; i < rank(kingSquare)-2; i++)
    caughtable |= soutOne(westOne(caughtable) | caughtable | eastOne(caughtable) );
@@ -413,7 +413,7 @@ Answering questions like can a king on a1 reach h8 along this path?
 
 
 
-```
+```C++
 
 . . . . . . 1 T
 . . 1 1 1 1 . .
@@ -434,7 +434,7 @@ A flood fill algorithm, like the one below, starting at the "from" square and st
 
 
 
-```
+```C++
 
 /////////////////////////////////////////////////////////////////////////
 //

@@ -42,7 +42,7 @@ where:
 
 
 
-```
+```C++
 Sigmoid(s) = tanh(0.0043s)
 
 ```

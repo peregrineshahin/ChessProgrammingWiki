@@ -30,7 +30,7 @@ by looking up four pre-calculated line attack arrays, 32-Kbyte each, indexed by 
 
 Hactar appears in [Life, the Universe and Everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything), the third book in the five-volume [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) by [Douglas Adams](Category:Douglas_Adams "Category:Douglas Adams") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-```
+```C++
 Flexible and imaginative, Hactar was the first computer whose individual components reflected the pattern of the whole. Hactar is assembled and programmed by the Silastic Armourfiends, who then order him to assemble an "Ultimate Weapon." Hactar, receiving no other guidance from the Armourfiends, takes the request literally and builds a supernova bomb which would connect every major sun in the universe through hyperspace, thus causing every star to go supernova. Deciding that he could find no circumstance where such a bomb would be justified, Hactar builds a small defect into it. After discovering the defect, the Armourfiends pulverize Hactar ...
 
 ```

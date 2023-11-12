@@ -28,7 +28,7 @@ by [Bruno Lucas](Bruno_Lucas "Bruno Lucas")
 
 from the [ICGA](ICGA "ICGA") tournament site in 1997 <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```
+```C++
 Dragon is a [brute force](Brute-Force "Brute-Force") program. Dragon divides the tree [search](Search "Search") in two phases: full search and [quiescence search](Quiescence_Search "Quiescence Search") ([captures](Captures "Captures"), [promotions](Promotions "Promotions") and [check](Check "Check") for the first level of quiescence). The algorithm is the [PVS](Principal_Variation_Search "Principal Variation Search") with [iterative deepening](Iterative_Deepening "Iterative Deepening"). It uses most of the known standard heuristics : [killer moves](Killer_Heuristic "Killer Heuristic"), [history moves](History_Heuristic "History Heuristic"), [transposition table](Transposition_Table "Transposition Table"), [null move](Null_Move_Pruning "Null Move Pruning") and [selective deepening](Extensions "Extensions"). Dragon can recognize [draw by repetition](Repetitions "Repetitions") and apply [50-move rule](Fifty-move_Rule "Fifty-move Rule"). It can [think](Pondering "Pondering") on the opponent's time. Dragon uses a small [opening book](Opening_Book "Opening Book") but with a variety of lines. The [evaluation function](Evaluation "Evaluation") examines the [pawn structure](Pawn_Structure "Pawn Structure") (it uses the [bitboard](Bitboards "Bitboards") for the pawns), the position of the pieces ([King's security](King_Safety "King Safety"), [central control](Center_Control "Center Control"), [King tropism](King_Safety#KingTropism "King Safety"), [outposts](Outposts "Outposts"), ...).  Dragon can read, save the [game](Chess_Game "Chess Game") in [PGN](Portable_Game_Notation "Portable Game Notation") format and the [position](Chess_Position "Chess Position") in [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") format. It can be interfaced with [xboard](XBoard "XBoard")/[winboard](WinBoard "WinBoard").
 
 My future goals it's to become [selective](Selectivity "Selectivity") and to be able to build [plan](Planning "Planning"). 
@@ -39,7 +39,7 @@ My future goals it's to become [selective](Selectivity "Selectivity") and to be 
 
 from the [Arena](Arena "Arena") site in 2003 <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```
+```C++
 Dragon 4.0 is based on [bitboard](Bitboards "Bitboards").  It has the same [evaluations](Evaluation "Evaluation") of Dragon 3.x. The search has been updated.  I removed bad [extensions](Extensions "Extensions"), especially those ones that were greedy on nodes and time.  The main differences between Dragon 4.0 and Dragon 3.x  are on search extensions, [sorting of moves](Move_Ordering "Move Ordering") and test evaluations. ... 
 
 ```

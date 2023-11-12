@@ -33,13 +33,13 @@ given in 1995 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-3" href="#cite-
 
 
 
-```
+```C++
 [Ulysses](https://en.wikipedia.org/wiki/Odysseus) was the legendary conqueror of [Troy](https://en.wikipedia.org/wiki/Troy) and on his adventurous journey home to Athens he made many wanderings. The program 'UlyssesCCN' is written in [C](C "C") and uses a new searching technique called '[Controlled Conspiracy Number Search](Conspiracy_Number_Search#CCNS "Conspiracy Number Search")' (CCNS). The CCNS algorithm has been developed by Lorenz and Rottmann in their master thesis. CCNS takes up the [Conspiracy Number](Conspiracy_Numbers "Conspiracy Numbers") scheme which was published by [McAllester](David_McAllester "David McAllester") in 1988.
 
 ```
 
 
-```
+```C++
 This scheme makes it possible to achieve selectivity in the plain search algorithm without any domain dependent (i.e. chess specific) knowledge. The search tree has to be kept in memory (at least implicitly). Conspiracy Numbers were further investigated by [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in 1989. He has implemented a [Conspiracy Number Search](Conspiracy_Number_Search "Conspiracy Number Search") (CNS) in his program 'Conspire', which showed good tactical performance but unfortunately not good positional play. In developing the CCNS we explicitly used, for the first time, the observed locality of other CNS algorithms. In the evaluation of [leaf-nodes](Leaf_Node "Leaf Node") a CCNS algorithm is able to use [quiescence searches](Quiescence_Search "Quiescence Search") with initial windows. Positional play becomes possible. UlyssesCNN also uses a hash table which recognizes transpositions. Last, but not least, only a best move is computed and no resources are wasted for computing an upper bound for the value of this move. All chess specific knowledge used is encoded in the [evaluation](Evaluation "Evaluation") function. This consists of a static evaluator and a small quiescence search. Using a [Sparc 10](SPARCstation "SPARCstation") 60MHz, UlyssesCCN searches about 8000 nodes per second, about 350 of them are Conspiracy Number nodes. The opening book consists of 11,000 positions. After 300 seconds at each position, Ulysses solves 281 positions of [WinAtChess](Win_at_Chess "Win at Chess") test set, consisting of 300 positions. To our knowledge, UlyssesCCN is the first chess program based on Conspiracy Numbers which achieved an acceptable result in a computer chess tournament. 
 
 ```

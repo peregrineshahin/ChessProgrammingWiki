@@ -32,7 +32,7 @@ postpones a [extended futility pruning](Futility_Pruning#Extendedfutilitypruning
 
 
 
-```
+```C++
 
 int search( int alpha, int beta, ... ) {
   bool fprune = ...;
@@ -53,7 +53,7 @@ int search( int alpha, int beta, ... ) {
 
 
 
-```
+```C++
 
 int search( int alpha, int beta, ... ) {
   int eval = evaluate(...);

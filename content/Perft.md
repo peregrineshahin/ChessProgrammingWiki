@@ -58,7 +58,7 @@ A simple perft function in [C](C "C") looks as the following:
 
 
 
-```
+```C++
 
 typedef unsigned long long u64;
 
@@ -93,7 +93,7 @@ Assuming the above code used a legal move generator. The algorithm is simple, sh
 
 
 
-```
+```C++
 
 u64 Perft(int depth /* assuming >= 1 */)
 {
@@ -124,7 +124,7 @@ To generate legal moves some programs have to make moves first, call a function 
 
 
 
-```
+```C++
 
 u64 Perft(int depth)
 {
@@ -162,7 +162,7 @@ The Divide command is often implemented as a variation of Perft, listing all mov
 
 
 
-```
+```C++
 
 go perft 5
 a2a3: 181046
@@ -225,7 +225,7 @@ by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in a forum post, June 12, 2020 [[
 
 
 
-```
+```C++
 I believe I was the first to use this. Back in the 80's. We rewrote the move generator in Cray Blitz in assembly language. It was a pain to debug. I decided on the "perft" approach solely to test/debug the move generator. We'd run two versions, one FORTRAN, one assembly, and we tested and debugged until they matched.
 I carried this over into Crafty as early versions went through several different approaches on move generation. Starting with the Slate/Atkin approach, then rotated bit boards (which took some time to debug), and the magic. It was really intended solely for that purpose. Then several started to use it as a benchmark for speed. I never followed that path since move generation is a very small part of the overall CPU time burned.
 Speed here is not so important. I doubt anyone's move generator takes more than 10% of total search time, which means a 20% improvement in perft numbers is only a 2% overall speed gain. I would not worry about anything but matching the node counts exactly...

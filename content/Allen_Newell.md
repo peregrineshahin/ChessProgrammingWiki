@@ -36,7 +36,7 @@ artificial intelligence and chess software. The [NSS](NSS "NSS") program ran on 
 
 [Quote](Template:Quote_McCarthy_on_Alpha-Beta "Template:Quote McCarthy on Alpha-Beta") by [John McCarthy](John_McCarthy "John McCarthy") from *Human-Level AI is harder than it seemed in [1955](Timeline#1955 "Timeline")* on the [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop):
 
-```
+```C++
 Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). [Alpha-beta pruning](Alpha-Beta "Alpha-Beta") characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and [Ulam](Stanislaw_Ulam "Stanislaw Ulam"), and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), Newell and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
 
 ```

@@ -18,7 +18,7 @@ The **Chess Query Language** (CQL) is a structured [query language](https://en.w
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
-```
+```C++
 
 ;; look for positions where a rook circles in a 4x3 rectangle
 ;; we use the rectangle g2, d2, d6, g6 together with shift and flip

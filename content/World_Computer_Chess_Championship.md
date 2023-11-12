@@ -41,7 +41,7 @@ The World Computer Chess Championship was created and organized by [David Levy](
 
 
 
-```
+```C++
 Since 1972 (1970 Editor) in the USA and Canada were hold the yearly championships of North America among the chess programs, organized by the ACM. The team of Kaissa directed the organizers of these tournaments to the thought to conduct a world championship, whose organization within the framework its regular congress took upon itself.
 ```
 

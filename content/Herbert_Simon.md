@@ -52,7 +52,7 @@ In the [late 50s](Timeline#1958 "Timeline"), [Allen Newell](Allen_Newell "Allen 
 
 [Quote](Template:Quote_McCarthy_on_Alpha-Beta "Template:Quote McCarthy on Alpha-Beta") by [John McCarthy](John_McCarthy "John McCarthy") from *Human-Level AI is harder than it seemed in [1955](Timeline#1955 "Timeline")* on the [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop):
 
-```
+```C++
 Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). [Alpha-beta pruning](Alpha-Beta "Alpha-Beta") characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and [Ulam](Stanislaw_Ulam "Stanislaw Ulam"), and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and Simon, McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
 
 ```
@@ -61,42 +61,42 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 [Hans Berliner](Hans_Berliner "Hans Berliner") in *A Life's Appraisal* [[7]](#cite_note-7) :
 
-```
+```C++
 Herbert Simon thought of himself as a Renaissance man. He was involved in many enterprises, and had a knack for appearing at or near the top in most of them. In 1978, he received a Nobel Prize in economics for nearly forgotten work he had done decades before, and he slept in unheated barracks in China and learned to read Chinese in order to acquaint himself with the Mainland way of doing things while offering what he could.
 
 ```
 
-```
+```C++
 His detractors would say he dabbled a great deal, could always be counted on to be there at the finish line, could provide a reprint of any of the thousands of papers he had ever written at a moment's notice, and was arrogant in a very refined kind of way.
 
 ```
 
-```
+```C++
 For me, Herb Simon was the guy who in 1956 at his inaugural address as President of the Operations Research Society of America predicted that within 10 years a computer would be World Chess Champion unless it were barred from the competition. I had seen the articles on the Rand Corp. chess program authored by Newell, Simon, and Shaw that this prediction was based upon, and I laughed, because I knew too much about chess, and did not see anything resembling the kind of play that was required to even play at the Master level. Here again was a situation typical of Herb's career. Many looked in wonder, and many looked with disdain. To make such a prediction was not a very scientific thing to do. The program had never played a tournament game. Even when playing against people who were touted as being champions of something-or-another it showed rather serious weaknesses. But Herb always liked being there first.
 
 ```
 
-```
+```C++
 In later years when I discussed this prediction with him (he vehemently rooted for computers ever after, even if, as DEEP BLUE, they did not play chess in the style of Cognitive Psychology), he always said that it was important for science to make such predictions as they galvanized the field toward certain important goals. And he would point out DaVinci's drawings of man flight, and other things. To him it was important to push the ball along, and just how scientific it was, could be left for future appraisals. Yet Herb was one of the first members of the National Academy of Science to come from the ranks of the soft sciences rather than from Engineering, Physics and Chemistry. As such he opened the door for things that this nation (US) sorely needed to examine.
 
 ```
 
-```
+```C++
 I first met Herb at a meeting in 1967, where he was an invited speaker. I chatted with him after his presentation, and was surprised to find that he knew who I was. I indicated that after the formidable work of Greenblatt, I had been encouraged to try to write a chess program on my own time at IBM, where I was then employed. He was very interested, and when I mentioned that I did not intend to stay at IBM too much longer, he was quick to suggest that I should visit Carnegie-Mellon University and see what they had to offer there. In due course I did visit, and in 1969 entered there as a first-year graduate student in Computer Science. He was on my committee when I did my thesis which demonstrated how a computer could do very complicated analytical things in the Human Style. But typical of Herb, he was not involved in the nuts and bolts, and the main credit for my guidance must be given to Allen Newell.
 
 ```
 
-```
+```C++
 While a graduate student at CMU, I had ample opportunity of interact with Herb and [Bill Chase](William_Chase "William Chase") who was a Post-Doc and later a professor in the Psychology Department there. It was there that I got involved in the Human Perception of chess which built on the work of the Russians in the 1930s and of [De Groot](Adriaan_de_Groot "Adriaan de Groot") in the 1940s. I was very impressed by the machinery that clearly existed in the human head and made it possible to remember positions almost perfectly even after having seen them for only 2 seconds. What was even more interesting, was that errors in reconstructing the position had a definite pattern to them. For instance, a Bishop may be misplaced in the reconstruction, but it would still be on the critical diagonal, and thus retain its function on that diagonal whatever the function was. This insight has been incredibly important in my career, and is seen clearly in the program [CAPS](CAPS "CAPS"), in my book The System, and in other writings presently under way.
 
 ```
 
-```
+```C++
 Herb was excellent in pointing these things out and in developing the interpretation that allowed further progress into insights of what our brain machine was really doing. For me, it was very exciting to watch and wonder. Of course, what was missing at that time was a method of emulating human learning without which we would be faced with infinite twiddling of data by a human being who could just not grasp the complexity of all he was twiddling. Thus, until [neural net](Neural_Networks "Neural Networks") learning came along, there was really no hope of building a program that could play in the human style. Yet, without people such as Herb, it is likely that no one would have tried. Now, with the success of the brute force method, it is doubtful anyone will ever try it. The fact that neural nets can be the difference is documented by the success of [Tesauro's](Gerald_Tesauro "Gerald Tesauro") [backgammon program](https://en.wikipedia.org/wiki/Neurogammon) that learned strategies that almost no one new, and became a top player by playing millions of games against itself. To do that in chess would have been much harder, but humans were doing it.
 
 ```
 
-```
+```C++
 Herb Simon's role in all this is not at all clear. He was always there to discuss things with genuine interest, and had an amazing repetoire of facts that could be pertinent of the situation. One would come away from such a session with months of research leads to chase down. Not too many people could have done that. I will miss you, Herb. 
 
 ```
@@ -105,17 +105,17 @@ Herb Simon's role in all this is not at all clear. He was always there to discus
 
 [George W. Baylor's](George_Baylor "George Baylor") Remembrance on Herbert A. Simon [[8]](#cite_note-8) :
 
-```
+```C++
  Herb Simon has been such a towering influence and determining force in my life that it is hard to imagine what my life would have been like without him. It was in 1959-60, as a sophomore at Carnegie Institute of Technology, that I first met "Dr. Simon." I mainly played chess, but he and Allen Newell, were programming computers to play chess. I believe we played some games together and I beat him. He said that my "program" was better than his. Then he hired me as a summer research assistant to work on chess machines! A year or two later he sent me to Amsterdam to help translate [Adriaan de Groot's](Adriaan_de_Groot "Adriaan de Groot") book on the thought processes of the chess player. When I returned, he directed my master's thesis on a [mating combinations program](Mater "Mater"), which he had already begun with his son, Pete. Like a clever father, he subtly transformed me from an aspiring chess professional - though, more likely, impoverished chess bum - into a cognitive psychologist. He also directed my doctoral dissertation, a computer simulation of some visual mental imagery tasks, though I knew he would have preferred me to continue working on chess. He was stuck with his prediction that a computer would beat the world chess champion within ten years - it took 40. But sons must differentiate themselves from their fathers, mustn't they? 
 
 ```
 
-```
+```C++
 By then it was 1967-68 and the [war in Vietnam](https://en.wikipedia.org/wiki/Vietnam_War) was still raging. I went to Canada. Though Simon's views on the war were much less clear-cut than my own, he supported me. He even said that I could defend my thesis by teleconference. Though that proved unnecessary, you can imagine how much that meant to me. We continued to correspond and occasionally saw each other, but our lives diverged, as lives do.
 
 ```
 
-```
+```C++
 Thirty years later, in 1997-98, I returned to Carnegie-Mellon University to do a sabbatical with Herb. It was as though I was his graduate student all over again: I presented my research problems and he helped me solve them; he presented his research and I struggled to understand it. I never really overcame my fear of his staggering intellect, but it mattered less because the love between us was so palpable. This was also the time when he had his major heart operation, and I felt privileged to be near him and Dorothea. He told me a dream he had while in the hospital, and I was thrilled to be able to offer an interpretation - my turn to give. I am so grateful for those months in Pittsburgh. Thank you, Herb. I am so grateful for the decade at C. I. T.: Thank you, Dr. Simon. It is hard to imagine a world without you. May you rest in peace. 
 
 ```
@@ -124,27 +124,27 @@ Thirty years later, in 1997-98, I returned to Carnegie-Mellon University to do a
 
 [Fernand Gobet's](Fernand_Gobet "Fernand Gobet") Remembrance on Herbert A. Simon [[9]](#cite_note-9) :
 
-```
+```C++
 "What new data do we have about chess today?" Herb would often ask at the beginning of our almost weekly meetings, which lasted from 1990 to 1995. He was immensely curious to learn about new phenomena, and had an obvious pleasure to analyse data, always looking for hidden patterns and better representations; as many of us have learned, Herb was outstanding at making sense out of complex data sets.
 
 ```
 
-```
+```C++
 Herb’s curiosity was always present in our meetings, well beyond scientific data. For example, he had a passion for learning and improving his knowledge of foreign languages (he had translated scientific work from Russian and Dutch, and probably from other languages as well). When he volunteered to read the draft of my thesis in French, I expressed my worries about the time it would take. He reassured me: "Your French is much easier to read than Proust’s."
 
 ```
 
-```
+```C++
 Herb was also very generous with his students and colleagues. When some arcane immigration regulation allowed me to be employed by Carnegie Mellon University, but not to be paid, Herb did not hesitate to support me financially for a couple of months.
 
 ```
 
-```
+```C++
 Meetings with him were alternatively dense and relaxed, focused and wide-ranging. His informal style made you sometimes forget that you were talking to one of the greatest scholars and one of the last true humanists of the 20th century. While open to new ideas, he also had little patience for bad ideas. However, even then, he managed to refute them in a way that didn’t make you feel too bad.
 
 ```
 
-```
+```C++
 He was exigent and expected his collaborators to share his passion for work. But of course, the results were highly rewarding. In a very elegant and efficient way, he taught many of us much about science, and mainly that scientific research can be an exciting voyage of discovery. 
 
 ```

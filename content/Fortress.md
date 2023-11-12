@@ -37,7 +37,7 @@ Fortress detection might be triggered in [evaluation](Evaluation "Evaluation") o
 
 A pattern of rook vs queen fortress in the endgame was given by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") in his 2017 *The Secret of Chess* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 One side having just one queen, and at most a single pawn, with the other having just one rook, and at least one pawn, if the queen side has no passers, the rook is protected by a pawn on the g or b files on its 2nd rank, the king of the rook side is adjacent to that pawn, the pawn of the queen side is on files h,f,a or c, and the king of the queen side is not past its 5th rank. 
 
 ```

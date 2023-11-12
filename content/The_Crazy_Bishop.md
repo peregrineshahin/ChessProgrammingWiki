@@ -43,7 +43,7 @@ given in 1997 from the [ICGA](ICGA "ICGA") site <a id="cite-note-9" href="#cite-
 
 
 
-```
+```C++
 This program is called The Crazy Bishop because it is a crazy project and a pun in French. The first lines of code of The Crazy Bishop were written in October 1996. It played its first public games on the French Internet Chess Server in December and became popular there, getting a high rating in blitz. It was then released as [freeware](https://en.wikipedia.org/wiki/Freeware) in January 1997. The Crazy Bishop's algorithm is a very classical [PVS](Principal_Variation_Search "Principal Variation Search"). Its strength is based on a solid tactical play combined with a simple but fast [evaluation function](Evaluation "Evaluation"). 
 
 ```

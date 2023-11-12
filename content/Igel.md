@@ -85,7 +85,7 @@ Igel 2.6-dev-3 x64 vs. [Booot 6.4 x64](Booot "Booot"), July 2020 by [TCEC](TCEC 
 
 
 
-```
+```C++
 
 [Site "https://tcec-chess.com"]
 [Date "2020.07.17"]

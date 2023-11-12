@@ -36,7 +36,7 @@ If we think about an [arithmetical operation](General_Setwise_Operations#Arithme
 
 
 
-```
+```C++
 
     00000010 blocking piece
   - 01000000 rook
@@ -49,7 +49,7 @@ The difference is already like an [occluded-fill](Dumb7Fill "Dumb7Fill"), includ
 
 
 
-```
+```C++
 
     01000010 occupied = piece(s) | rook
 xor 01111100 piece(s) - rook
@@ -70,7 +70,7 @@ This trick is known as **o^(o-2r)**. Assuming rook **r** is member of the [occup
 
 
 
-```
+```C++
 
 occupancy        &  filemask[d]      =  potential blockers
 . . 1 1 . . 1 .     . . . 1 . . . .     . . . 1 . . . .

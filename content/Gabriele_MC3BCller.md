@@ -22,24 +22,24 @@ a Swiss computer scientist and programmer, known in the computer chess scene for
 
 Müller did not grasp Crafty's [Copyright](https://en.wikipedia.org/wiki/Copyright) statement, but apparently took remarks by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") like in his reply to [Ren Wu](Ren_Wu "Ren Wu"), January 26, 1999, concerning [code reuse](https://en.wikipedia.org/wiki/Code_reuse) and not [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel) as alibi for her chess programming <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 This is a basic tenet of software engineering called 'code reuse'.  Why should I pay you to write something from scratch and take a year, if you can take something that exists and modify it to do the same thing in a month?  And then I don't have as much trouble debugging and testing, since it is mostly already done...
 
 ```
 
-```
+```C++
 that's not a bad side to this...  Of course occasionally starting over is a good thing. But not starting from 'scratch'. IE if you don't know what has already been tried, you will re-invent the same bad wheels over and over and probably follow the same footsteps many before you did... software engineering wants to avoid that 'reinvention' problem... 
 
 ```
 
 [Robert Hyatt](Robert_Hyatt "Robert Hyatt") further on the copyright problem <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
-```
+```C++
 My primary requirement is that if something is done to crafty to make it 'better', then that 'something' must be as public as the original code was.  Because many have contributed bits and pieces... Eugene, George, Steffen, Mark, SJE, and many others that are to numerous to mention.  Seems unfair that they modify what I did, then they make their stuff public, and then someone else takes _all_ of this and purports it to be 'original'.
 
 ```
 
-```
+```C++
 I suppose it has to do with 'national morals' or whatever, ie the software piracy problem in China, to name but one. 
 
 ```

@@ -88,7 +88,7 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-3" href="#cite-ref
 
 
 
-```
+```C++
 In 1991 I started to write my first [C++](Cpp "Cpp") Project, a Class-Lib for a [DOS](MS-DOS "MS-DOS")-Window-Manager-Interface. Inspired from [David Levy's](David_Levy "David Levy") [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium") (specially the article about [Chess 4.5](Chess_(Program) "Chess (Program)")), I started to write a chess-algorithm in bottom-up manner (beginning with data structures like [piece-sets](Piece-Sets "Piece-Sets") and [bitboards](Bitboards "Bitboards") and fast [assembler](Assembly "Assembly") routines to modify them). Two [incremental updated](Incremental_Updates "Incremental Updates") redundant sets PIECESET _ControlledBy[64] for each square and BITBOARD _ControllTo[32] for each piece are used for move generation and evaluation purposes. The Search is a standard [alpha-beta](Alpha-Beta "Alpha-Beta") [Null-window search](Principal_Variation_Search "Principal Variation Search") with [Iterative Deepening](Iterative_Deepening "Iterative Deepening") and several threat extensions and [Null move](Null_Move_Pruning "Null Move Pruning"). Standard Heuristics like [Killer](Killer_Heuristic "Killer Heuristic") and [History](History_Heuristic "History Heuristic") are used. The Leaf-[Evaluation](Evaluation "Evaluation") performs several tasks like extension-detection ([King danger](King_Safety "King Safety"), [passed pawns](Passed_Pawn "Passed Pawn") ) and several [Mate in one detections](Mate_at_a_Glance "Mate at a Glance"). With my own C++ Class-library an implementation of a [graphical user interface](GUI "GUI") for the chess program was an quite easy task - IsiChess was born. Special Feature is the ability to play simultaneously with up to ten chessboards in separate windows. 
 
 
@@ -98,7 +98,7 @@ In 1991 I started to write my first [C++](Cpp "Cpp") Project, a Class-Lib for a 
 
 
 
-```
+```C++
 [Bitboard](Bitboards "Bitboards") engine based on MMX-flood-fills. Conventional [alpha-beta](Alpha-Beta "Alpha-Beta") searcher ([PVS](Principal_Variation_Search "Principal Variation Search")), [adaptive nullmove](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning") with [zugzwang verification](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning"), sophisticated [extension](Extensions "Extensions") and [reduction](Reductions "Reductions") code as well as [evaluation](Evaluation "Evaluation"), [static mate detection](Mate_at_a_Glance "Mate at a Glance"). Own [GUI](GUI "GUI"). Own [opening book](Opening_Book "Opening Book") format (ASCII readable) - all lines manually edited over the years. 
 
 ```

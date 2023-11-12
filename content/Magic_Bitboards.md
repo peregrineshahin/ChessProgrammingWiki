@@ -79,7 +79,7 @@ The following illustration should give an impression, how magic bitboards work. 
 
 
 
-```
+```C++
 
                                         any consecutive
 relevant occupancy                      combination of
@@ -287,7 +287,7 @@ Since there are 1428/4900 **distinct** attack sets for the bishop/rook attacks, 
 
 
 
-```
+```C++
 
 U64 bishopAttacks[2048]; // 16KB
 U64 rookAttacks[8196]; // 64KB
@@ -337,7 +337,7 @@ Fancy Magic Bitboards is the main stream implementation as proposed by [Pradu Ka
 
 
 
-```
+```C++
 
 U64 attack_table[...]; // ~840 KiB all rook and bishop attacks, less with constructive collisions optimization
 
@@ -381,7 +381,7 @@ Plain Magic Bitboards, [Lasse Hansen's](Lasse_Hansen "Lasse Hansen") initial app
 
 
 
-```
+```C++
 
 U64 mBishopAttacks[64] [512]; // 256 K
 U64 mRookAttacks  [64][4096]; // 2048K
@@ -415,7 +415,7 @@ A fancy fixed shift variation was introduced by [Onno Garms](Onno_Garms "Onno Ga
 
 
 
-```
+```C++
 
 U64 attack_table[...]; // > 800 KiB  - 1.x MiB  - depending on the effort on looking for magics
 
@@ -450,7 +450,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 
 
 
-```
+```C++
 
   and mask[d4]  vs.   or ~mask[d4]
 . . . . . . . .     1 1 1 1 1 1 1 1
@@ -469,7 +469,7 @@ This trick, which basically adds a huge constant to the occupancy factor, enable
 
 
 
-```
+```C++
 
 U64 attack_table[88507]; // 692 KiB for published black magics by Volker Annuss (new size 88316 aka 690 KiB) 
 
@@ -504,7 +504,7 @@ Since there are only up to 144 different attack sets per square, [Robert Houdart
 
 
 
-```
+```C++
 
 byte mBishopAttacks[64] [512]; // 32 K
 byte mRookAttacks  [64][4096]; // 256 K
@@ -542,7 +542,7 @@ Optimizations are possible for 32-bit systems, as proposed by [Grant Osborne](Gr
 
 
 
-```
+```C++
 
 struct {
   unsigned int rookMaskLo;
@@ -581,7 +581,7 @@ The trick is to share even equal colored bishops and rooks where both attack-set
 
 
 
-```
+```C++
 
 int rookSharing[64] = {
    0,  1,  2,  3,  4,  5,  6,  7,
@@ -612,7 +612,7 @@ On the cost of one additional and-instruction, post-masking has the potential to
 
 
 
-```
+```C++
 
 R 1 1 1 1 1 1 1    1 R 1 1 1 1 1 1    1 1 R 1 1 1 1 1    1 1 1 R 1 1 1 1
 B R 1 1 1 1 1 1    R B 1 1 1 1 1 1    1 1 B R 1 1 1 1    1 1 R B 1 1 1 1
@@ -630,7 +630,7 @@ If the additional post-mask becomes member of a structure, it exceeds 32 byte in
 
 
 
-```
+```C++
 
 U64 attack_table[...]; // ~400K Byte for all rook and (shared) bishop attacks
 
@@ -675,7 +675,7 @@ Another possible improvement was introduced by [Grant Osborne](Grant_Osborne "Gr
 
 
 
-```
+```C++
 
 U64 attack_table[...]; // ~400K Byte for all rook and (shared) bishop attacks
 

@@ -40,7 +40,7 @@ Pseudo Code of Lazy SMP in [Cheng](Cheng "Cheng") as given by its author [Martin
 
 
 
-```
+```C++
 
 IterativeDeepening:
   synchronize smp threads (copy age, board, history, repetition list, multipv => helpers)

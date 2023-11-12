@@ -32,7 +32,7 @@ The author on Small-C <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 
 
-```
+```C++
 Small-C was born around 1990 and would compute 200 [nodes per second](Nodes_per_Second "Nodes per Second") at that time. It was intended as a joke. It is still a joke. Around year 2000, it came to take part to the French Championship in Massy where the program clearly established itself as one of the most heavily bugged ... Fortunately, it has been (seriously) improved since then, and evolved into Gibbon. 
 
 ```

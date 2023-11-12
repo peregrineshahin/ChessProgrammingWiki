@@ -56,7 +56,7 @@ Rb6 52.Kh4 Rb4+ 53.Rg4 Rb2 54.Kg3 Rb6 55.a5 Rd6 56.Rg7 Ra6 57.Rg8 Rd6 58.Kh4 Rd4
 
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 Ferret's [board representation](Board_Representation "Board Representation") is an [array](Array "Array") of 64 squares. Each element is pretty big. [Move generation](Move_Generation "Move Generation") is accomplished by use of a [move table](Table-driven_Move_Generation#Ferret "Table-driven Move Generation"), much expanded from [the system](Table-driven_Move_Generation#GNUChess "Table-driven Move Generation") used in [GNU Chess](GNU_Chess "GNU Chess").
 
 ```
@@ -67,17 +67,17 @@ Ferret's [board representation](Board_Representation "Board Representation") is 
 
 Description of Ferret from Bruce Moreland's site <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```
+```C++
 Ferret is a "normal" chess program. By that I mean that it uses alpha-beta full-width search, a quiescent search, a transposition hash table, an evaluation function that is called at the tips, and so forth. It uses [null-move forward pruning](Null_Move_Pruning "Null Move Pruning"), and for that I am indebted to [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), who did not invent this technique, but he made it accessible to the amateur community via an [ICCA](ICCA "ICCA") Journal article (Vol. 16 #3, September 1993). 
 
 ```
 
-```
+```C++
 The program uses numerous common [extensions](Extensions "Extensions") such as [check extension](Check_Extensions "Check Extensions"), [recapture extension](Recapture_Extensions "Recapture Extensions"), and [single-response](One_Reply_Extensions "One Reply Extensions") to check. It also uses a sort of [singular-extension](Singular_Extensions "Singular Extensions") that is loosely based upon the extension of this name that appears in [Deep Thought](Deep_Thought "Deep Thought") and presumably [Deep Blue](Deep_Blue "Deep Blue"). The [evaluation function](Evaluation_Function "Evaluation Function") is designed to catch common features without being slow, but it's slow enough that the program isn't particularly fast.
 
 ```
 
-```
+```C++
 The program uses [endgame databases](Endgame_Tablebases "Endgame Tablebases") of my own design and construction, but which aren't any better than the [Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Edwards](Steven_Edwards "Steven Edwards"), or [Thompson](Ken_Thompson "Ken Thompson") endgame databases. I wrote my own because I didn't want to take advantage of code written by others, since I felt that the program would be less mine if I did so. The program has a series of special case low-material evaluation functions that it uses when endgame databases are not present, and in some cases when they are. The program is written 100% in [C](C "C"), and is portable to any platform that runs any Windows-based operating system, including multiprocessor machines. 
 
 ```
@@ -86,7 +86,7 @@ The program uses [endgame databases](Endgame_Tablebases "Endgame Tablebases") of
 
 Description given in **1995** from the [ICCA](ICCA "ICCA") site <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```
+```C++
 Ferret is a "normal" [brute-force](Brute-Force "Brute-Force") program that runs under [Windows NT](Windows "Windows"). Techniques and tools used by the program include [alpha-beta pruning](Alpha-Beta "Alpha-Beta"), selective [search extensions](Extensions "Extensions"), [quiescence search](Quiescence_Search "Quiescence Search") limited by a [static exchange evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation"), [null-move forward pruning](Null_Move_Pruning "Null Move Pruning"), a 50,000-positions [opening book](Opening_Book "Opening Book"), several [hash tables](Hash_Table "Hash Table") and a few simple endgame databases. The program consists of about 20,000 lines of [C](C "C") code and has been compiled using [Microsoft](Microsoft "Microsoft") [Visual C++](https://en.wikipedia.org/wiki/Visual_C%2B%2B) 2.0. Ferret searches approximately 18,000-32,000 [nodes per second](Nodes_per_Second "Nodes per Second") on a [Pentium](https://en.wikipedia.org/wiki/Pentium) 66. It was written during off-hours over a period of about 4 years, for fun. Ferret finished fifth in [Don Beal's](Don_Beal "Don Beal") [uniform platform tournament](UPCCC_1994 "UPCCC 1994") last September. It has also played several hundred games of blitz chess on the [Internet Chess Server](Chess_Server "Chess Server"), where it has been shown to be competitive among strong human players and various commercial programs. Ferret is copyrighted but its author is not particularly secretive about the program as he feels indebted to the many people who have answered his own questions. 
 
 ```
@@ -95,7 +95,7 @@ Ferret is a "normal" [brute-force](Brute-Force "Brute-Force") program that runs 
 
 Description given in **1997** from the [ICCA](ICCA "ICCA") site:
 
-```
+```C++
 Ferret is a normal chess program. It uses [null-move forward pruning](Null_Move_Pruning "Null Move Pruning") and other standard techniques. It is a leaf-node evaluator, and searches 80- 350K [nps](Nodes_per_Second "Nodes per Second") (120K typical middlegame) on a [Pentium Pro](https://en.wikipedia.org/wiki/Pentium_Pro) 200 mhz machine. 
 
 ```
@@ -104,14 +104,14 @@ Ferret is a normal chess program. It uses [null-move forward pruning](Null_Move_
 
 The quote of [Monty Newborn](Monroe_Newborn "Monroe Newborn") in *Beyond Deep Blue* <a id="cite-note-7" href="#cite-ref-7">[7]</a>, pg. 29 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
-```
+```C++
 Ferret was a derivative of Moreland’s open source engine GNU Chess. 
 
 ```
 
 is not correct, neither was [GNU Chess](GNU_Chess "GNU Chess") a program by Bruce Moreland, nor was Ferret a derivative of GNU Chess <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
-```
+```C++
 The program is 100% original, although at the time I started I had access to the Gnuchess source code. That code was kind of messy and it was its messy state that inspired me to think that I could do better. 
 
 ```

@@ -26,14 +26,14 @@ given on the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-6" href="#cite
 
 ## 1997
 
-```
+```C++
 Eugen 7.2 is a program based on a hard selective search [extensions](Extensions "Extensions") algorithm, he don't makes conventional [alpha beta](Alpha-Beta "Alpha-Beta") pruning and he (in Spanish it's he) uses a special [null turn moves](Null_Move_Pruning#NMQS "Null Move Pruning") in [quiescence search](Quiescence_Search "Quiescence Search"). The program consist of about 40.000 [C](C "C") and [assembler](Assembly "Assembly") code lines. Node speed on a [Pentium](X86 "X86") 133Mhz is approximately 12.000 to 30.000 [nodes per second](Nodes_per_Second "Nodes per Second"). Chess programming is my hobby-job for about last 8 years. Currently [Spanish CCC](SCCC_1996 "SCCC 1996"). 
 
 ```
 
 ## 1999
 
-```
+```C++
 Eugen born in 1994 like a personal free time project, initially written in [Pascal](Pascal "Pascal") and assembler, in 1995 it was changed to C language. Eugen is partially inspirated in freeware programs like [Turbo Chess](Turbo_Chess "Turbo Chess"), [Gnu](GNU_Chess "GNU Chess"), and [Crafty](Crafty "Crafty"). 
 
 ```

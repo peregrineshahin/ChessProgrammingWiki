@@ -30,7 +30,7 @@ To prove an en passant capture is actually possible, at least the [en passant ta
 | --- |
 |                                                                                                      ♝♝                ♖ ♟♙  ♚     ♙   ♙       ♔        |
 
-```
+```C++
 8/6bb/8/8/R1pP2k1/4P3/P7/K7 b - d3 after d2-d4
 
 ```
@@ -64,7 +64,7 @@ The implementation of the en passant rule often caused subtle [bugs](Engine_Test
 | --- |
 |                                                                         ♜   ♚  ♛ ♞♝♟♟♟♜   ♟      ♟♙   ♟♙♟♙    ♙ ♕  ♘    ♖♘ ♙♙♙  ♖    ♔ |
 
-```
+```C++
 2r3k1/1q1nbppp/r3p3/3pP3/pPpP4/P1Q2N2/2RN1PPP/2R4K b - b3 0 23
 
 ```

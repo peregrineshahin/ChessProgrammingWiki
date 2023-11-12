@@ -28,7 +28,7 @@ In October 2012, Kim Walisch proposed an improved [bitscan routine](BitScan#KimW
 
 
 
-```
+```C++
 
 const int index32[32] = {
     0,  9,  1, 10, 13, 21,  2, 29, 

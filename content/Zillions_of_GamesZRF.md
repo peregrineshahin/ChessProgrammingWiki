@@ -36,7 +36,7 @@ The game rules are specified by the Zillons rules language, persistant in [ASCII
 
 
 
-```
+```C++
 
 (game
   (title "...") 

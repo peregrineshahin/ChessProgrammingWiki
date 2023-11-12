@@ -66,7 +66,7 @@ From [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009
 
 
 
-```
+```C++
 My time at Waterloo greatly benefited from the presence of [Ron Hansen](Ron_Hansen "Ron Hansen"). He was author of Ribbit (later called Treefrog), one of the strongest chess programs around. He generously gave me a copy of his program, which I used to learn how to write a chess program... Hansen's program was written in a computer programming language called [Fortran](Fortran "Fortran"). For my master's thesis, I translated it into the Z programming language (similar to the well known [C](C "C") programming language). 
 
 ```
@@ -79,7 +79,7 @@ From *An Introduction to Computer Chess* <a id="cite-note-3" href="#cite-ref-3">
 
 
 
-```
+```C++
 From the team of undergrads who authored Ribbit, [Ron Hansen](Ron_Hansen "Ron Hansen") went on to write his master thesis on computer chess, and eventually [Prof. Van Emden](Maarten_van_Emden "Maarten van Emden") became an expert in computer chess and endgames. 
 
 ```
@@ -92,7 +92,7 @@ From the team of undergrads who authored Ribbit, [Ron Hansen](Ron_Hansen "Ron Ha
 
 
 
-```
+```C++
 During the first decade of the [computer chess championship](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [Chess X.X](Chess_(Program) "Chess (Program)") failed to win only  twice. On the first occasion, in [1974](ACM_1974 "ACM 1974"), Chess 4.2 was upset by Ribbit, a Canadian program by [Jim Parry](Jim_Parry "Jim Parry"), [Ron Hansen](Ron_Hansen "Ron Hansen"), and [Russell Crook](Russell_Crook "Russell Crook") of the [University of Waterloo](University_of_Waterloo "University of Waterloo"). Ribbit had unexpectedly reached the final after opponents failed to press their advantages. In previous encounters, Ribbit had lost twice to Chess 4.X, but now avenged these losses in the deciding game of the championship by employing a standard tactic of human masters: the prepared opening line... 
 
 ```

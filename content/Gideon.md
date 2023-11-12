@@ -30,7 +30,7 @@ Gideon was the name of the first [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia
 
 from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") report <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```
+```C++
 Written by Ed Schröder (programmer) and [Jan Louwman](Jan_Louwman "Jan Louwman") (a strong chess-player and designer of the [opening book](Opening_Book "Opening Book")), both previously known over many years for their [Rebel](Rebel "Rebel") program that run on [6502](6502 "6502") pocessors, Gideon is a new program for the ARM-2 RISC CPU and has taken 1.5 years (4000 man-hours) to develop. The evaluation function is complex, incorporating much chess knowledge, and positional scores can range up 1.5 times a Pawn. Gideon includes specialized knowledge for many types of endgame (defined to be when material < 26) such as rook-and-pawn endings. The search techniques include [iterative deepening](Iterative_Deepening "Iterative Deepening"), [check extensions](Check_Extensions "Check Extensions") and [singular extensions](Singular_Extensions "Singular Extensions"). [Moves](Moves "Moves") are [generated](Move_Generation "Move Generation") one-at-a-time, rather than all-and-sort. 
 
 ```

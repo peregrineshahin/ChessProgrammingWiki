@@ -60,7 +60,7 @@ Any enumeration of piece-type codes is fine. [Harm Geert Muller](Harm_Geert_Mull
 
 
 
-```
+```C++
 
 enum EPieceType
 {
@@ -84,7 +84,7 @@ One approach is to use negative values for black and positive for white (or colo
 
 
 
-```
+```C++
 
  PieceCode:4 = 8 * Color:1 + PieceType:3;
 
@@ -95,7 +95,7 @@ In C++ as enumeration:
 
 
 
-```
+```C++
 
 enum EPieceCode
 {
@@ -125,7 +125,7 @@ To concatenate piece type and color the other way around is also quite common, c
 
 
 
-```
+```C++
 
  PieceCode:4 = 2 * PieceType:3 + Color:1;
 
@@ -236,7 +236,7 @@ On the other hand, one should not exaggerate abstraction, to be aware of an wrap
 
 
 
-```
+```C++
 
                                 .      +
        []       ()    _,,       ()     ()
@@ -257,7 +257,7 @@ ejm97 /XX\     /XX\   /XX\     /XX\   /XX\     /XX\
 
 
 
-```
+```C++
 
     .::.
     _::_

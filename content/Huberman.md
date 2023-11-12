@@ -18,7 +18,7 @@ the Ph.D. thesis program by [Barbara Liskov](Barbara_Liskov "Barbara Liskov") (n
 
 [Alex Bell](Alex_Bell "Alex Bell") in *Games Playing with Computers* on Huberman's program <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```
+```C++
 A philosophic program was written by Barbara Huberman to specifically play end games. It was a research project on translating book descriptions of problem solving methods into program heuristics. It is well known that the following minimum combinations of pieces have a certain win against a lone king:
 
 ```
@@ -29,22 +29,22 @@ A philosophic program was written by Barbara Huberman to specifically play end g
 - [K,B,N](KBNK_Endgame "KBNK Endgame")
 - K,N,N,N
 
-```
+```C++
 The K,Q can be considered equivalent to the K,R.
 
 ```
 
-```
+```C++
 Huberman followed descriptions (by [Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) and [Fine](https://en.wikipedia.org/wiki/Reuben_Fine)) of how to execute all but the case of K,N,N,N. The cases of K,R and K,B,B are feasible using the [minimax](Minimax "Minimax") technique. This is not true for the [K,B,N](KBNK_Endgame "KBNK Endgame"). The difficulty here is that bishops and rooks can force mate on any size of board but the knight has a limited mobility (from a centre square there are five squares which each require four moves to be reached by the knight).
 
 ```
 
-```
+```C++
 Consequently the K,B,N mate is not possible on a board of side > 8. Even allowing for the black king being against a side there is no way in which the K,B,N can be arranged and played that will systematically force the black king along the edge of an infinite board. Because of this weakness the actual mating can take up to forty moves. Huberman's model for the problem was a forcing tree co-ordinated with two functions (better and worse) which were able to compare positions. Roughly speaking the program had two sub-goals (apart from not losing a piece, giving [stalemate](Stalemate "Stalemate") , etc). First drive the king away from the centre and second, when the king is at the edge, drive him towards a corner of the bishop's colour.
 
 ```
 
-```
+```C++
 Huberman's program is the only one which can perform this mating sequence for any starting position. It would be a useful addition to [Greenblatt's program](Mac_Hack "Mac Hack"), being easily extended to solve other end games and hence giving the more general program a selection of sub-goals equivalent to winning the game. The problem of K,N,N,N is unlikely to occur; nevertheless it is of interest to the theorists. One surprising fact is that the combination can systematically drive the black king along the edge of an infinite board, and therefore the mating sequence is much easier to program. 
 
 ```

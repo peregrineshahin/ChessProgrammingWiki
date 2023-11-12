@@ -88,14 +88,14 @@ given from the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-12" href="#c
 
 ## 1995
 
-```
+```C++
 Gandalf is a PC program developed over the last ten years. The program performs highly selective searches, combining a one-ply brute-force search with selective search and [search extensions](Extensions "Extensions"). The search does not use standard techniques like the [null-move method](Null_Move_Pruning "Null Move Pruning"), but instead uses a rule-based method involving a calculation for every [node](Node "Node") to decide which moves are good. Development of the program was an extremely difficult and time consuming task. Gandalf searches about 1500 [nodes per second](Nodes_per_Second "Nodes per Second") on a [486/66](X86 "X86"). Gandalf has considerable [chess knowledge](Knowledge "Knowledge") and plays aggressively, which is unusual for a highly selective search program. Gandalf uses an opening book containing about 500,000 positions. 
 
 ```
 
 ## 1997
 
-```
+```C++
 Gandalf was born an extreme selective program (1 ply brute-force + selective search) doing 1500 Nodes / sec on a [P90](X86 "X86"). On [SSDF](SSDF "SSDF") you see a rating of approx 2050. To compete, Gandalf got a standard null-move search engine in early 1996 and has done well at both [Jakarta](WMCCC_1996 "WMCCC 1996") (6/9) and [Aegon97](Aegon_1997 "Aegon 1997") (TPR 2391). It has a high amount of chess knowledge, many extensions and is only doing 30K nodes/sec on a [PP200](https://en.wikipedia.org/wiki/Pentium_Pro). Gandalf searches approx to depth 9-10 in the middlegame on a PP200. 
 
 ```

@@ -50,7 +50,7 @@ Two squares a and b have always two orthogonal intersection squares s1 and s2.
 
 
 
-```
+```C++
 
 . | . . . | . .
 --1-------b----
@@ -64,7 +64,7 @@ Two squares a and b have always two orthogonal intersection squares s1 and s2.
 ```
 
 
-```
+```C++
 
 s1 := 8*rankIndex(b) + fileIndex(a);
 s2 := 8*rankIndex(a) + fileIndex(b);
@@ -76,7 +76,7 @@ or
 
 
 
-```
+```C++
 
 s1 := (b & 56) + (a & 7);
 s2 := (a & 56) + (b & 7);
@@ -91,7 +91,7 @@ If diagonals or anti-diagonals are involved, the intersection square may off the
 
 
 
-```
+```C++
 
  -(s88 & 0x88) >> (sizeof(int)-1)
 
@@ -109,7 +109,7 @@ or vice versa Diagonal and Rank
 
 
 
-```
+```C++
 
 . . . . . . / .
 . . . . . b . .
@@ -127,7 +127,7 @@ with
 
 
 
-```
+```C++
 diagonalIndex := rankIndex - fileIndex;
 
 ```
@@ -231,7 +231,7 @@ diagonalIndex := rankIndex - fileIndex;
 
 
 
-```
+```C++
 
 rankIndex(s) := rankIndex(a);
 fileIndex(s) := rankIndex(s) - diagonalIndex(s);
@@ -244,7 +244,7 @@ Because the intersection of any rank with any diagonal may off the board, we rel
 
 
 
-```
+```C++
 
 s88 := 16*rankIndex(s) + fileIndex(s);
 s88 := 16*rankIndex(a) + (rankIndex(a) - rankIndex(b) + fileIndex(b));
@@ -260,7 +260,7 @@ else
 
 
 
-```
+```C++
 
 /****************************************
  * return: intersection square (if any)
@@ -283,7 +283,7 @@ or vice versa Diagonal and File
 
 
 
-```
+```C++
 
 . . . | . . / .
 . . . | . b . .
@@ -301,7 +301,7 @@ with
 
 
 
-```
+```C++
 diagonalIndex := rankIndex - fileIndex;
 
 ```
@@ -405,7 +405,7 @@ diagonalIndex := rankIndex - fileIndex;
 
 
 
-```
+```C++
 
 fileIndex(s) := fileIndex(a);
 rankIndex(s) := fileIndex(s) + diagonalIndex(s);
@@ -418,7 +418,7 @@ Because the intersection of any file with any diagonal may off the board, we rel
 
 
 
-```
+```C++
 
 s88 := 16*rankIndex(s) + fileIndex(s);
 s88 := 16*(fileIndex(a) + rankIndex(b) - fileIndex(b)) + fileIndex(a);
@@ -434,7 +434,7 @@ else
 
 
 
-```
+```C++
 
 /****************************************
  * return: intersection square (if any)
@@ -457,7 +457,7 @@ or vice versa Anti-Diagonal and Rank
 
 
 
-```
+```C++
 
 . . . . . . . .
 . . . . . . . .
@@ -475,7 +475,7 @@ with
 
 
 
-```
+```C++
 antidiagIndex := rankIndex + fileIndex;
 
 ```
@@ -579,7 +579,7 @@ antidiagIndex := rankIndex + fileIndex;
 
 
 
-```
+```C++
 
 rankIndex(s) := rankIndex(a);
 fileIndex(s) := antidiagIndex(s) - rankIndex(s);
@@ -592,7 +592,7 @@ Because the intersection of any rank with any anti-diagonal may off the board, w
 
 
 
-```
+```C++
 
 s88 := 16*rankIndex(s) + fileIndex(s);
 s88 := 16*rankIndex(a) + rankIndex(a) -  rankIndex(b) + fileIndex(b);
@@ -608,7 +608,7 @@ else
 
 
 
-```
+```C++
 
 /****************************************
  * return: intersection square (if any)
@@ -631,7 +631,7 @@ or vice versa Anti-Diagonal and File
 
 
 
-```
+```C++
 
 . . . | . . . .
 . . . | . . . .
@@ -649,7 +649,7 @@ with
 
 
 
-```
+```C++
 antidiagIndex := rankIndex + fileIndex;
 
 ```
@@ -753,7 +753,7 @@ antidiagIndex := rankIndex + fileIndex;
 
 
 
-```
+```C++
 
 fileIndex(s) := fileIndex(a);
 rankIndex(s) := antidiagIndex(s) - fileIndex(s);
@@ -766,7 +766,7 @@ Because the intersection of any rank with any anti-diagonal may off the board, w
 
 
 
-```
+```C++
 
 s88 := 16*rankIndex(s) + fileIndex(s);
 s88 := 16*(rankIndex(b) + fileIndex(b) - fileIndex(a)) + fileIndex(a);
@@ -782,7 +782,7 @@ else
 
 
 
-```
+```C++
 
 /****************************************
  * return: intersection square (if any)
@@ -805,7 +805,7 @@ or vice versa Anti-Diagonal and Diagonal
 
 
 
-```
+```C++
 
 . . . . . . . .
 . . . . . . . /
@@ -823,7 +823,7 @@ with
 
 
 
-```
+```C++
 diagonalIndex := rankIndex - fileIndex;
 
 ```
@@ -928,7 +928,7 @@ and
 
 
 
-```
+```C++
 antidiagIndex := rankIndex + fileIndex;
 
 ```
@@ -1036,7 +1036,7 @@ For same file and rank of intersection-point s:
 
 
 
-```
+```C++
 
 rankIndex(s) - diagonalIndex(a) ==  antidiagIndex(b) - rankIndex(s);
 fileIndex(s) + diagonalIndex(a) ==  antidiagIndex(b) - fileIndex(s);
@@ -1048,7 +1048,7 @@ and therefor
 
 
 
-```
+```C++
 
 2*rankIndex(s) == antidiagIndex(b) + diagonalIndex(a);
 2*fileIndex(s) == antidiagIndex(b) - diagonalIndex(a);
@@ -1060,7 +1060,7 @@ Because the intersection of any rank with any anti-diagonal may off the board, w
 
 
 
-```
+```C++
 
 s88   = 16*rankIndex(s) + fileIndex(s);
 
@@ -1071,7 +1071,7 @@ equation times two:
 
 
 
-```
+```C++
 
 s88x2 = 16*2*rankIndex(s) + 2*fileIndex(s);
 s88x2 = 16*(antidiagIndex(b) + diagonalIndex(a)) + (antidiagIndex(b) - diagonalIndex(a) );
@@ -1091,7 +1091,7 @@ Additionally, s88x2 becomes odd if a and b have different [square colors](Color_
 
 
 
-```
+```C++
 
 /****************************************
  * return: intersection square (if any)

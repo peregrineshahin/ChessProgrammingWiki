@@ -39,7 +39,7 @@ Thor's Hammer is a [bitboard](Bitboards "Bitboards") engine without explicitly [
 
 
 
-```
+```C++
 
 south east (f6)    &  opponent pieces  &  own pieces
  . . . . . . . .      . . . . . . . .     . . . . . . . . 
@@ -58,7 +58,7 @@ To apply the same trick for the [positive rays](On_an_empty_Board#PositiveRays "
 
 
 
-```
+```C++
 
   if(ptype[color][i]==BISHOP || ptype[color][i]==QUEEN) {
     fmask=~omask;

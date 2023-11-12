@@ -27,14 +27,14 @@ similar to [Victor Allis'](Victor_Allis "Victor Allis") [Proof-number search](Pr
 \[ Implication
 In 1993 Elkan identified a *paradox* that [fuzzy logic operators](https://en.wikipedia.org/wiki/Fuzzy_logic#Fuzzy_logic_operators) (min, max, 1-x) applied to the equation of two re-expressions of the [material implication](<https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference)>) a → b
 
-```
+```C++
  ~(a & ~b) = (~a & ~b) | b
 
 ```
 
 that is
 
-```
+```C++
 1 - max(a, 1-b) = max(min(1-a, 1-b), b)
 
 ```

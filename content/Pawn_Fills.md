@@ -30,7 +30,7 @@ Frontfills and rearfills are the base of [front- and rearspans](Pawn_Spans#Front
 
 
 
-```
+```C++
 
 white frontfill     black rearfill
 1 1 1 . . 1 1 1     1 1 1 1 . 1 1 1
@@ -69,7 +69,7 @@ white rearfill      black frontfill
 
 
 
-```
+```C++
 
 U64 nortFill(U64 gen) {
    gen |= (gen <<  8);
@@ -92,7 +92,7 @@ Note that the pawns are still subset of their fill sets. The intersection of bot
 
 
 
-```
+```C++
 
 U64 wFrontFill(U64 wpawns) {return nortFill(wpawns);}
 U64 wRearFill (U64 wpawns) {return soutFill(wpawns);}
@@ -116,7 +116,7 @@ The union of both front- and rearfills, leaves the complete file with at least o
 
 
 
-```
+```C++
 
 U64 fileFill(U64 gen) {
    return nortFill(gen) | soutFill(gen);
@@ -125,7 +125,7 @@ U64 fileFill(U64 gen) {
 ```
 
 
-```
+```C++
 
 white pawns         black pawns
 . . . . . . . .     . . . . . . . .

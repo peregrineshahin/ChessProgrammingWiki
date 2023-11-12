@@ -29,7 +29,7 @@ a didactic [open source chess program](Category:Open_Source "Category:Open Sourc
 
 
 
-```
+```C++
 
 CONST BrettDim% = 119  ' Dimension des erweiterten Schachbrettes
 
@@ -59,7 +59,7 @@ and the same [Mailbox](Mailbox "Mailbox") in [C](C "C") <a id="cite-note-5" href
 
 
 
-```
+```C++
 
 ##define BRETT_DIM    120  /* Dimension des erweiterten Schachbrettes  */
 

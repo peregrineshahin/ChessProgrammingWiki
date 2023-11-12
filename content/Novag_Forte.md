@@ -40,7 +40,7 @@ by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") from *The Rexchess Story* <a i
 
 
 
-```
+```C++
 The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_Kittinger "David Kittinger"), [Don](Don_Dailey "Don Dailey") and I jointly worked out how to do an effective [selective](Selectivity "Selectivity") [search](Search "Search") program. Dave put these ideas into the [Super Expert B](Novag_Expert "Novag Expert") and Super Forte B, while Don and I put them into [Rex](Rex "Rex"). 
 
 ```

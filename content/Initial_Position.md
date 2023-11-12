@@ -27,7 +27,7 @@ the position where the [game of chess](Chess_Game "Chess Game") starts. [Pieces]
 
 
 
-```
+```C++
 rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 ```

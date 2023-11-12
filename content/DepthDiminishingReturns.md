@@ -37,7 +37,7 @@ Despite [quiescence search](Quiescence_Search "Quiescence Search"), where usuall
 
 Most likely inside the search routine, a ply-index is used to index [stacks](Stack "Stack") or [arrays](Array "Array") with pre-saved search information. This index is initialized with zero at the [root](Root "Root"), and is then incremented after making a move each time the [recursive](Recursion "Recursion") search is called. This index measures the ply-distance from the current [node](Node "Node") to the root and would therefor be sufficient to determine the remaining depth to the horizon, also called draft:
 
-```
+```C++
 
 draft ::= depth at the root - ply index
 
@@ -51,12 +51,12 @@ Some programs extend or reduce in fractions of one ply. Fractional plies with in
 
 [Amir Ban](Amir_Ban "Amir Ban") on [Junior](Junior "Junior") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 1998 [[4]](#cite_note-4) :
 
-```
+```C++
 The [brute-force](Brute-Force "Brute-Force") [ply](Ply "Ply") depth is indeed half the publicized depth. All the rest are [extensions](Extensions "Extensions") (in conventional terminology, I don't think of them this way). If you set Junior to depth 12, e.g., then you should be able to find a 7-ply combination where it fails. If I am doing a good job, then you should have a hard time finding one.
 
 ```
 
-```
+```C++
 The question of what this is equivalent to in terms of other programs, e.g. a null-mover with "standard" extensions is interesting, but I don't know the answer. In tournament conditions middlegame Junior typically gets 14-16 depths, and it looks competitive tactically. 
 
 ```
@@ -69,7 +69,7 @@ Due to different implementations, the reported search depth of chess programs is
 
 Some programs also report a selective search depth beside the nominal search depth, most often much greater than the nominal search depth. Some programs determine the highest distance to the root at any node, others only at the horizon.
 
-```
+```C++
 
 int highestDepth;
 
@@ -186,12 +186,12 @@ In self-play experiments with [Crafty](Crafty "Crafty"), [Robert Hyatt](Robert_H
 
 [Tony van Roon-Werten](Tony_van_Roon-Werten "Tony van Roon-Werten") made following statement on *Diminishing Returns* [[13]](#cite_note-13) :
 
-```
+```C++
 If two programs play with 5 vs 6 ply search, the second engine has a 20% depth advantage. With 10 vs 11 it's only 10%. So of course the difference in wins is smaller. ...
 
 ```
 
-```
+```C++
 Diminishing returns are only proven (IMO) if 6 vs 5 wins more games than 12 vs 10 because only then are you comparing something linear and you give a linear advantage. 
 
 ```

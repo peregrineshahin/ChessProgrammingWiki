@@ -121,7 +121,7 @@ Since 2014-01-01 when the first evaluation change based on this algorithm was in
 
 
 
-```
+```C++
 24.6 + 4.0 + 5.8 + 2.8 + 12.8 + 39.4 + 10.2 = 99.6 Elo
 
 ```
@@ -169,7 +169,7 @@ of a local optimization routine [[19]](#cite_note-19)
 
 
 
-```
+```C++
 
 vector<int> localOptimize(const vector<int>& initialGuess) {
    const int nParams = initialGuess.size();

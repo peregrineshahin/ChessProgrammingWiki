@@ -33,19 +33,19 @@ As a teenager during the late 70s, Kai Himstedt already developed a chess progra
 
 
 
-```
+```C++
 Inspired by the chess computer boom and not impressed by the programs offered at the time, the two young friends developed their own computer chess program. As a comparison, the modern American chess program [Chess 4.8](Chess_(Program) "Chess (Program)") was available, in which the two young mathematicians discovered certain weaknesses. 
 
 ```
 
 
-```
+```C++
 By using the [FORTRAN](Fortran "Fortran") programming language and the [TR 440](TR_440 "TR 440") computer, the two young mathematicians set about developing their new program. The considerations for the development took about four weeks. Then in April 1979, first games could been played, but were unsatisfactory in the eyes of young researchers. Further improvements of the program made it possible that one of the best micro-computer chess prograns, the [Chess Challenger 7](Chess_Challenger "Chess Challenger") could be beaten. 
 
 ```
 
 
-```
+```C++
 Their program proved to be so good that even the computer chess world champion Chess 4.8 could be beaten when using a suitable computer. A special feature of the new program is that an exchange of pieces with its effects on the overall course of the game was not completely calculated by search, but [evaluated statically](Static_Exchange_Evaluation "Static Exchange Evaluation"), yielding in a considerable shortening of the processing time. 
 
 ```

@@ -28,7 +28,7 @@ Taking the [union](General_Setwise_Operations#Union "General Setwise Operations"
 for the absolute difference of the [trailing zero counts](BitScan#TrailingZeroCount "BitScan") of that union and the passed square bitboard (pos) elegantly [avoids some branches](Avoiding_Branches "Avoiding Branches"),
 but is a bit too much calculation for that purpose <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-```
+```C++
 
 public class BitBoard { // Position object
 

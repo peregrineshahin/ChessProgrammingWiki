@@ -37,7 +37,7 @@ Quote from *Computer vs. computer: Duel on the Chessboard* <a id="cite-note-7" h
 
 
 
-```
+```C++
 The biggest and most powerful computers do that very well. In one second, they can examine thousands of possible moves. The problem is, they stop to consider lousy moves that a human player wouldn't waste a fraction of a second on. On the other side of the fence are the slower but "smarter" computer programs. They can't think about zillions of chess moves, so they need a lot of information about chess plugged into them. CHAOS is one of these latter, pumped with chess information from John J. O'Keefe, one of Michigan's top players. 
 
 ```

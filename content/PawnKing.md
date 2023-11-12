@@ -35,7 +35,7 @@ A pattern is composed of three boards, a **fixed-board**, a **not-board**, and a
 
 
 
-```
+```C++
 
 bool QBB::match(const QBB & fix, const QBB & not, const QBB & var) const {
   if ((*this & fix) != *this)  return false;

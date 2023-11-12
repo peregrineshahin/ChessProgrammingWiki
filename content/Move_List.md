@@ -40,7 +40,7 @@ Despite the length of the game may vary, one usually takes a once allocated fixe
 
 
 
-```
+```C++
 
                        Move List
                        +---------+ 
@@ -102,7 +102,7 @@ Since the number of moves per side and position may vary, one may think about a 
 
 
 
-```
+```C++
 
 N ::= MAX_PLY * BF
 
@@ -139,7 +139,7 @@ This scheme works [recursively](Recursion "Recursion") thoroughly all ply depths
 
 
 
-```
+```C++
 
 next_2_generate[ply+1] ::= next_2_generate[ply];
 next_2_play[ply+1]     ::= next_2_generate[ply];

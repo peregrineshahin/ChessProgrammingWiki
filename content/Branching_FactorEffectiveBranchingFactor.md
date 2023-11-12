@@ -34,7 +34,7 @@ The effective branching factor (EBF), related to [iterative deepening](Iterative
 - In [Alpha-Beta](Alpha-Beta "Alpha-Beta"), assuming good [move ordering](Move_Ordering "Move Ordering"), the branching factor is reduced to about square root of the average branching factor <a id="cite-note-4" href="#cite-ref-4">[4]</a><a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - Alpha-beta enhancements, [transposition tables](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning") and [late move reductions](Late_Move_Reductions "Late Move Reductions") further reduce the EBF below three, strong programs even near or below two <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
-```
+```C++
 EBF(N-1) ::= nodes(N-1) / nodes(N-2)
 EBF(N)   ::= nodes(N)   / nodes(N-1)
 
@@ -42,7 +42,7 @@ EBF(N)   ::= nodes(N)   / nodes(N-1)
 
 Due to the [odd-even effect](Odd-Even_Effect "Odd-Even Effect") of [Alpha-Beta](Alpha-Beta "Alpha-Beta") as described by [Michael Levin's Theorem](Michael_Levin#Theorem "Michael Levin"), this is lower if 'N' is even, and higher if 'N' is odd. Due to [extensions](Extensions "Extensions"), [reductions](Reductions "Reductions") and various [pruning techniques](Pruning "Pruning"), this odd-even effect is diminishing accordantly. One may also use the square root of the ratio of two odd or even iterations.
 
-```
+```C++
 EBF ::= √(nodes(N) / nodes(N-2));
 
 ```
@@ -53,7 +53,7 @@ However, with all kind of extensions, reductions, and forward pruning applied to
 
 [Steven Edwards](Steven_Edwards "Steven Edwards") made following reasonable proposal of a Mean Branching Factor <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```
+```C++
 MBF ::= count of all nodes / count of non terminal nodes
 
 ```

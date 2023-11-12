@@ -62,7 +62,7 @@ In 1929 Euwe wrote a paper about set-theoretic aspects of chess <a id="cite-note
 
 
 
-```
+```C++
 01101001100101101001011001101001...
 
 ```
@@ -72,7 +72,7 @@ in an application of chess proving infinity of games under one certain rule at t
 
 
 
-```
+```C++
 A chess game ends with a draw if a sequence of moves - with all pieces in exactly the same positions - is played three times successively. 
 
 ```
@@ -82,7 +82,7 @@ A chess game ends with a draw if a sequence of moves - with all pieces in exactl
 
 
 
-```
+```C++
 
 0:   Nb1-c3   Nb8-c6   Nc3-b1   Nc6-b8
 1:   Ng1-f3   Ng8-f6   Nf3-g1   Nf6-g8
@@ -94,7 +94,7 @@ The Prouhet–Thue–Morse sequence is the sequence t satisfying for all positiv
 
 
 
-```
+```C++
 
  t[0]    = 0
  t[2n]   = t[n]
@@ -126,7 +126,7 @@ An AI-effort in [machine translation](https://en.wikipedia.org/wiki/Machine_tran
 
 
 
-```
+```C++
 Finally an important international team had been gathered around Max Euwe (former world champion) to work on the problem of the simulation of the play of the failures. One found there the encyclopedist [François Lionnais](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Le_Lionnais), the mathematician [Claude Berge](Mathematician#CBerge "Mathematician"), the logician [Barzin](http://br.wikipedia.org/wiki/Marcel_Barzin), the psychologist [De Groot](Adriaan_de_Groot "Adriaan de Groot"). This team made considerably progress on the problems of the mediums of part, but did not have the possibility of carrying out a program of a complete set. 
 
 ```
@@ -161,25 +161,25 @@ Max Euwe's greeting at the foundation of the [CSVN](CSVN "CSVN"), the Dutch Comp
 
 
 
-```
+```C++
 Who already thought about computer chess 50 years ago? Nobody of course, because the computer didn't yet exist. However, one already spoke about mechanized chess playing, and experienced positional players were compared to a playing chess machine, players stipulated on strictly logical grounds (that coincided with the nature of the proposition) and thereby no deep calculations or combinations was made.
 
 ```
 
 
-```
+```C++
 However, the development in computer chess drove in a different direction! The computer appeared and from the first moment big interest on playing chess arose by this marvellous machines. The programs went however in that direction that the computer did not play as a playing chess machine, as we presented ourselves in that former days, but correctly as an ace in conducting deep calculations in all possible directions, a lot of millions per minute.
 
 ```
 
 
-```
+```C++
 For the time of computer chess, much (too much) emphasis was steered on brutal force, brutal strength. Moreover, one tried as much as possible on well-known, attentive patterns in the programs. The combination of calculation and recognition in the long run will play chess, whether it yields to master strength is difficult to predict. It is certain, that raising interest on computer chess will bring us closer to a solution. The solution which the computer either crowns to world champion, recognizes as a strong, but unilaterally developed player. In this respect, the establishment of the computer chess association is very welcome. I wish all members success to study the possibilities of the computer and especially introducing methods which will lead to improvements and "humanization" of the programs.
 
 ```
 
 
-```
+```C++
 Max Euwe 
 
 ```

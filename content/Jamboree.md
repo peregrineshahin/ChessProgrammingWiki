@@ -32,7 +32,7 @@ Jamboree was used in the massive parallel chess programs [StarTech](StarTech "St
 
 
 
-```
+```C++
 
 int jamboree(CNode n, int α, int β) {
    if (n is leaf) return static_eval(n);

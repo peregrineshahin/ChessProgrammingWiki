@@ -71,7 +71,7 @@ The primary downside of these instructions is that they tend to be very slow mul
 
 
 
-```
+```C++
 
 signed short a[ 8]; // input a
 signed short b[ 8]; // input b
@@ -106,7 +106,7 @@ Packed Multiply and Add a vector of 16 unsigned bytes (char) with a vector of 16
 
 
 
-```
+```C++
 
 unsigned char  a[16]; // input a
 signed   char  b[16]; // input b
@@ -139,7 +139,7 @@ Packed Multiply High with Round and Scale is an instruction designed for fixed-p
 
 
 
-```
+```C++
 
 signed short a[8]; // input a
 signed short b[8]; // input b
@@ -172,7 +172,7 @@ Packed Shuffle Bytes is a very powerful instruction that can perform a fast arbi
 
 
 
-```
+```C++
 
 char a[16]; // input a
 char b[16]; // input b
@@ -207,7 +207,7 @@ Multiplies each element of one vector with the [sign function](https://en.wikipe
 
 
 
-```
+```C++
 
 /* type := {char, short, int}, N = {16, 8, 4} */
 ##define N (sizeof(__m128i)/sizeof(type))
@@ -231,7 +231,7 @@ In 2008, [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła") introduced a SSSE
 
 
 
-```
+```C++
 
 /**
  * popCount2 
@@ -264,7 +264,7 @@ This SSSE3-dot-product multiplies a vector of 64 unsigned chars with a vector of
 
 
 
-```
+```C++
 
 int dotProduct(unsigned char features[], char weights[] /* XMM_ALIGN */) {
    __m128i r0, r1, r2, r3;
@@ -301,7 +301,7 @@ Following routine calculates bishop attacks performing the [Hyperbola Quintessen
 
 
 
-```
+```C++
 
 __m128i diaAntiMaskXMM[64]; // 1 KByte  antidiag : diagonal, excluding square
 __m128i singleBitsXMM [64]; // 1 KByte    1<<sq  : 1<<sq
@@ -342,7 +342,7 @@ The pioneer of Hyperbola Quintessence, [Aleks Peshkov](Aleks_Peshkov "Aleks Pesh
 
 
 
-```
+```C++
 
 class Occupied : public BitSet<Occupied, char_x16_t> {
     typedef BitSet<Occupied, char_x16_t> Base;

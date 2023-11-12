@@ -3,7 +3,7 @@ title: CPWEngine quiescence
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Quiescence**
 
-```
+```C++
 
 
 ##include "stdafx.h"

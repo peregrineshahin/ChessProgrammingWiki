@@ -59,7 +59,7 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 The pre-initialized static int vector[256] in "attacks.c" <a id="cite-note-3" href="#cite-ref-3">[3]</a> with [ray directions](Direction#RayDirections "Direction") encoded, which is indexed by [0x88 square difference](0x88#SquareRelations "0x88") plus offset, somehow reminds on a [Gullydeckel](https://de.wikipedia.org/wiki/Schachtdeckel), the colloquial German name for [Manhole cover](https://en.wikipedia.org/wiki/Manhole_cover) <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 
 /*
 if we find that two squares are related according to matrix SqRel,

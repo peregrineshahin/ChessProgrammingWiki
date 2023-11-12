@@ -62,12 +62,12 @@ Crafty participated at four [World Microcomputer Chess Championships](World_Micr
 
 from the [ICGA](ICGA "ICGA") page [[12]](#cite_note-12) :
 
-```
+```C++
 Crafty is a "bitmapper" using 64 bit words to represent the chess board, along the lines of the famous [Chess 4.x](Chess_(Program) "Chess (Program)") program from [Northwestern University](Northwestern_University "Northwestern University"). It uses a traditional [alpha/beta search](Alpha-Beta "Alpha-Beta") with the [PVS](Principal_Variation_Search "Principal Variation Search") ([null-window](Null_Window "Null Window")) enhancement, along with [null-moves](Null_Move_Pruning "Null Move Pruning") ([R](Depth_Reduction_R "Depth Reduction R")=2) and lots of search [extensions](Extensions "Extensions") including "[fractional ply extensions](Extensions#FractionalExtensions "Extensions")" to drive the search deeper along interesting lines. It has a very simple [quiescence search](Quiescence_Search "Quiescence Search") that only considers [capture moves](Captures "Captures") and is fairly selective about which captures are included. It does a full endpoint [evaluation](Evaluation "Evaluation"), with no root [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") nor [incrementally updated](Incremental_Updates "Incremental Updates") scoring terms. It is currently about 37,000 lines of ANSI C with about 3,000 lines of that being evaluation.
 
 ```
 
-```
+```C++
 Since Crafty uses [bitmaps](Bitboards "Bitboards"), much of the [evaluation](Evaluation "Evaluation") is significantly shorter than it would be in a more traditional (array-based) [board representation](Board_Representation "Board Representation"), so that this 3,000 lines of code is somewhat misleading (for example, to ask "can this pawn run and promote before the opposing king can get there?" only takes one line of code in Crafty. It is still very fast, searching around 100,000 moves per second. At 60 seconds per move, it solves 297/300 of the [Win At Chess](index.php?title=Win_At_Chess&action=edit&redlink=1 "Win At Chess (page does not exist)") tactical positions. It has a large [opening database](Opening_Book "Opening Book") composed from 250,000 GM games, and uses 3-4-5 piece [endgame databases](Endgame_Tablebases "Endgame Tablebases") during the search (not just at the [root](Root "Root") of the [tree](Search_Tree "Search Tree").) It has played over 100,000 games during the past two years, playing on various [chess servers](Chess_Server "Chess Server") around the world, and has maintained ratings on these servers that are always near the very top. 
 
 ```
@@ -76,17 +76,17 @@ Since Crafty uses [bitmaps](Bitboards "Bitboards"), much of the [evaluation](Eva
 
 from a [CCC](CCC "CCC") post [[13]](#cite_note-13) :
 
-```
+```C++
 Crafty's basic search is pretty simple. Just [PVS](Principal_Variation_Search "Principal Variation Search") + [null-move](Null_Move_Pruning "Null Move Pruning") + [LMR](Late_Move_Reductions "Late Move Reductions") + [check extension](Check_Extensions "Check Extensions") (all others have been removed after testing showed they hurt performance rather than helped), + simple q-search checks (I am playing with this as I write this however and it might change) + simple q-search. I've used [killers](Killer_Heuristic "Killer Heuristic") and [hashing](Transposition_Table "Transposition Table") since middle 70's so those are not new. [Bitboards](Bitboards "Bitboards") were around in the middle 70's so that's not new. I don't think there is anything remarkable in my evaluation, certainly nothing we were not doing 15 years ago or longer, other than tuning adjustments.
 
 ```
 
-```
+```C++
 As far as tuning goes on LMR and null-move, I have not gone very far afield there. I use [R](Depth_Reduction_R "Depth Reduction R")=3 everywhere. LMR is a 1-ply reduction although I have plans to try a variable reduction so that for moves that look really ugly I reduce them even further (white playing Na1 for example, with king on the other side of the board, no passed pawns, etc...)
 
 ```
 
-```
+```C++
 I have even run without the check extension, the only one that is left. Many think the purpose of this extension is to find deep mates. That's wrong. The purpose is to try to expose [horizon-effect](Horizon_Effect "Horizon Effect") moves and avoid them when possible. I also want to test a restricted check extension, where it is only applied in the last N plies where the horizon effect is most notable, where right now I apply them everywhere with no limit, always +1 ply added to depth. 
 
 ```
@@ -114,7 +114,7 @@ Crafty had always mapped square-index 0 to square 'a1', 7 to 'h1', and 63 to 'h8
 
 [Trailing zero count](BitScan#TrailingZeroCount "BitScan") aka bitscan forward for non empty sets as used in [bitboard serialization](Bitboard_Serialization "Bitboard Serialization") for [move generation](Move_Generation "Move Generation") and [evaluation](Evaluation "Evaluation") purposes, is implemented with [x86-64](X86-64 "X86-64") [bsf instruction](BitScan#bsfbsr "BitScan") via intrinsic or [inline assembly](Assembly#InlineAssembly "Assembly") if available (there are also 32-bit [x86](X86 "X86") bsf versions), and a conditional 16-bit [byte](Byte "Byte") lookup approach otherwise - [Windows 64](Windows "Windows"), [Linux 64](Linux "Linux") and lookup versions with preprocessor instructions for conditional compiles omitted [[15]](#cite_note-15):
 
-```
+```C++
 
 int LSB(BITBOARD arg1) {
   unsigned long index;
@@ -153,7 +153,7 @@ int LSB(BITBOARD arg1) {
 
 Earlier Crafty versions prior to 20.6 had a [leading zero count](BitScan#LeadingZeroCount "BitScan") compliant, [big-endian](Big-endian "Big-endian") rank-file mapping. Left-bottom square (from White's point of view) 'a1' with square-index 0 was mapped to the leftmost, arithmetical most significant bit of an unsigned 64-bit integer with bit-index 63, while square 'h8' with square-index 63, was mapped to the rightmost, arithmetical least significant bit with bit-index 0. Bitscan forward and found index [reversal](Flipping_Mirroring_and_Rotating#Rotationby180degrees "Flipping Mirroring and Rotating") was used in LastOne, to retrieve squares in **h8-a1** order [[16]](#cite_note-16):
 
-```
+```C++
 
 int LastOne(BITBOARD arg1)
 {
@@ -168,7 +168,7 @@ int LastOne(BITBOARD arg1)
 
 This one was found in 15.17 with [Mac OS](Mac_OS "Mac OS") support [[17]](#cite_note-17)
 
-```
+```C++
 
 int LastOne(register BITBOARD a)
 {
@@ -239,24 +239,24 @@ Kh8 30.Nd3 b2 31.Rd8+ Rxd8 32.Qxd8+ Be8 33.Bxe8 Qc2+ 34.Ke3 Nd5+ 35.Kd4 Qc3+
 
 Many programmers did not grasp Crafty's [Copyright](https://en.wikipedia.org/wiki/Copyright) statement, but apparently took remarks by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") like in his reply to [Ren Wu](Ren_Wu "Ren Wu"), January 26, 1999, concerning [code reuse](https://en.wikipedia.org/wiki/Code_reuse) and not [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel) as alibi for their chess programming [[20]](#cite_note-20) :
 
-```
+```C++
 This is a basic tenet of software engineering called 'code reuse'. Why should I pay you to write something from scratch and take a year, if you can take something that exists and modify it to do the same thing in a month? And then I don't have as much trouble debugging and testing, since it is mostly already done...
 
 ```
 
-```
+```C++
 that's not a bad side to this... Of course occasionally starting over is a good thing. But not starting from 'scratch'. IE if you don't know what has already been tried, you will re-invent the same bad wheels over and over and probably follow the same footsteps many before you did... software engineering wants to avoid that 'reinvention' problem... 
 
 ```
 
 [Robert Hyatt](Robert_Hyatt "Robert Hyatt") further on the copyright problem [[21]](#cite_note-21) :
 
-```
+```C++
 My primary requirement is that if something is done to crafty to make it 'better', then that 'something' must be as public as the original code was. Because many have contributed bits and pieces... Eugene, George, Steffen, Mark, SJE, and many others that are to numerous to mention. Seems unfair that they modify what I did, then they make their stuff public, and then someone else takes _all_ of this and purports it to be 'original'.
 
 ```
 
-```
+```C++
 I suppose it has to do with 'national morals' or whatever, ie the software piracy problem in China, to name but one. 
 
 ```

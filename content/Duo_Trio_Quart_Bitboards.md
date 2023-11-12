@@ -25,7 +25,7 @@ two adjacent [pawns](Pawn "Pawn") of the same [color](Color "Color") on the same
 
 To get pawns with east or west neighbors is simple:
 
-```
+```C++
 
 U64 pawnsWithEastNeighbors(U64 pawns) {
    return pawns & westOne (pawns);
@@ -39,7 +39,7 @@ U64 pawnsWithWestNeighbors(U64 pawns) {
 
 or
 
-```
+```C++
 
 U64 pawnsWithWestNeighbors(U64 pawns) {
    return pawns & eastOne (pawns);
@@ -55,7 +55,7 @@ U64 pawnsWithEastNeighbors(U64 pawns) {
 | --- |
 |                                                                                                                            ♙♙♙                  ♙♙          |
 
-```
+```C++
 
 pawns               pawns with east     pawns with west     pawns with east
                     neighbors           neighbors           and west neighbors
@@ -76,7 +76,7 @@ Pawns with east or west neighbors are at least member of a duo. Pawns with east 
 
 An exclusive pawn duo is therefor a pawn with one neighbor, while this neighbor has no other neighbor as well.
 
-```
+```C++
 
 U64 duo (U64 pawns) {
    U64 withWestNeighbors = pawnsWithWestNeighbors(pawns);
@@ -93,7 +93,7 @@ U64 duo (U64 pawns) {
 
 ```
 
-```
+```C++
 
 pawns               pawns with excl.    pawns with excl.    duo
                     east neighbor       west neighbor

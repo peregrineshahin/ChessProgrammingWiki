@@ -85,25 +85,25 @@ Quote by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") in 201
 
 
 
-```
+```C++
 There is no significant difference between an [alpha-beta search](Alpha-Beta "Alpha-Beta") with heavy [LMR](Late_Move_Reductions "Late Move Reductions")  and a [static evaluator](Evaluation "Evaluation") (current state of the art in [chess](Chess "Chess")) and an UCT searcher with a small exploration constant that does playouts (state of the art in [go](Go "Go")).
 
 ```
 
 
-```
+```C++
 The shape of the [tree](Search_Tree "Search Tree") they search is very similar. The main breakthrough in Go the last few years was how to backup an uncertain Monte Carlo score. This was solved. For chess this same problem was solved around the time [quiescent search](Quiescence_Search "Quiescence Search") was developed.
 
 ```
 
 
-```
+```C++
 Both are producing strong programs and we've proven for both the methods that they scale in strength as hardware speed goes up.
 
 ```
 
 
-```
+```C++
 So I would say that we've successfully adopted the simple, brute force methods for chess to Go and they already work without increases in computer speed. The increases will make them progressively stronger though, and with further software tweaks they will eventually surpass humans. 
 
 ```
@@ -116,7 +116,7 @@ Quote by [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan"), [Ashish 
 
 
 
-```
+```C++
 UCT has been shown to outperform traditional [minimax](Minimax "Minimax") based approaches in several challenging domains such as [Go](Go "Go") and [KriegSpiel](KriegSpiel "KriegSpiel"), although minimax search still prevails in other domains such as [Chess](Chess "Chess"). This work provides insights into the properties of adversarial search spaces that play a key role in the success or failure of UCT and similar sampling-based approaches. We show that certain "early loss" or "shallow trap" configurations, while unlikely in Go, occur surprisingly often in games like Chess (even in grandmaster games). We provide evidence that UCT, unlike minimax search, is unable to identify such traps in Chess and spends a great deal of time exploring much deeper game play than needed. 
 
 ```

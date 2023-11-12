@@ -49,17 +49,17 @@ Despite its own GUI, Arasan early supported the [Chess Engine Communication Prot
 
 [Jon Dart](Jon_Dart "Jon Dart"), May 1996 [[8]](#cite_note-8)
 
-```
+```C++
  Lately I've been working on a new major release of Arasan. I have spent the last few months working on the search engine, trying to improve speed and performance. I tried some experiments with a [bitboard](Bitboards "Bitboards") move representation, but I have backed off on that for now.
 
 ```
 
-```
+```C++
 With bitboards, I got a nice reduction in tree size (bitboards allow a more accurate [swap-down analysis](Static_Exchange_Evaluation "Static Exchange Evaluation") than I had before, and this improves [move ordering](Move_Ordering "Move Ordering") and allows better "culling" of losing captures in the [quiescence search](Quiescence_Search "Quiescence Search")).
 
 ```
 
-```
+```C++
 However, currently the program relies pretty heavily on [incrementally generated](Incremental_Updates "Incremental Updates") [attack information](Attack_and_Defend_Maps "Attack and Defend Maps"), and I didn't have that implemented to work with bitboards, so I had to compute attacks as needed. Unfortunately, the current program "needs" to do this much more often than [Crafty](Crafty "Crafty") does, so the loss from computing attacks more than balanced out the gains from bitboards. This is fixable, I'm sure, but I've put off further work on it for now. 
 
 ```
@@ -68,7 +68,7 @@ However, currently the program relies pretty heavily on [incrementally generated
 
 [Jon Dart](Jon_Dart "Jon Dart"), August 2008 [[9]](#cite_note-9) :
 
-```
+```C++
 The main change has been to re-work the code to use ["magic" bitboard logic](Magic_Bitboards "Magic Bitboards") instead of [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"). This has given about a 20-25% speedup. I have also had to re-write the [evaluation function](Evaluation "Evaluation") to take advantage of bitboard attack functions for [king safety](King_Safety "King Safety") and [mobility](Mobility "Mobility"). 
 
 ```

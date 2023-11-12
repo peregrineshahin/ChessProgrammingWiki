@@ -29,7 +29,7 @@ Kriecht es, fliegt es mit Gebrumm <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 Breakpoint opcode may be inserted inside the code at compile time, for instance with x86 [inline assembly](Assembly#InlineAssembly "Assembly") or compiler intrinsic like *DebugBreak* <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```
+```C++
 
   __asm int 3
 

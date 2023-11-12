@@ -41,7 +41,7 @@ The client is started with four arguments specifying the registered user name an
 
 
 
-```
+```C++
 python3 OpenBench.py -U username -P password -S <http://chess.grantnet.us/> -T 4
 
 ```

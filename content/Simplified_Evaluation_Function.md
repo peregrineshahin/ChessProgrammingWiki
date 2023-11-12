@@ -44,7 +44,7 @@ Point 1 is achieved by simple:
 
 
 
-```
+```C++
 
 B > 3P
 N > 3P
@@ -59,7 +59,7 @@ Point 2 is achieved by:
 
 
 
-```
+```C++
 
 B > N
 
@@ -76,7 +76,7 @@ So together we may say:
 
 
 
-```
+```C++
 
 B > N > 3P
 
@@ -87,7 +87,7 @@ Point 3 is achieved by:
 
 
 
-```
+```C++
 
 B + N > R + P
 
@@ -98,7 +98,7 @@ This is a bit problematic, as once I read in Russian Shachmaty that two minor pi
 
 
 
-```
+```C++
 
 R + 2P > B + N > R + P
 
@@ -109,7 +109,7 @@ let's say something between:
 
 
 
-```
+```C++
 
 B + N = R + 1.5P
 
@@ -126,7 +126,7 @@ As you see I try to stick to the rule 4 as well. The final equation I would refe
 
 
 
-```
+```C++
 
 Q + P = 2R
 
@@ -137,7 +137,7 @@ Together we have:
 
 
 
-```
+```C++
 
 B > N > 3P
 B + N = R + 1.5P
@@ -150,7 +150,7 @@ which might be satisfied by (values in [centipawns](Centipawns "Centipawns")):
 
 
 
-```
+```C++
 
 P = 100
 N = 320
@@ -166,7 +166,7 @@ Additionally we can see that they satisfy another relationship:
 
 
 
-```
+```C++
 
 B + 2P > N + 2P > R
 
@@ -180,7 +180,7 @@ According to these settings:
 
 
 
-```
+```C++
 
 2B + N > Q
 and
@@ -193,7 +193,7 @@ I don't know what is Adam's or Mateusz's opinion about these relations and all t
 
 
 
-```
+```C++
 
 Q + P = 2R
 
@@ -204,7 +204,7 @@ Additional comment to:
 
 
 
-```
+```C++
 
 K = 20000
 
@@ -232,7 +232,7 @@ For pawns we simply encourage the pawns to advance. Additionally we try to disco
 
 
 
-```
+```C++
 
 // pawn
  0,  0,  0,  0,  0,  0,  0,  0,
@@ -267,7 +267,7 @@ With knights we simply encourage them to go to the center. Standing on the edge 
 
 
 
-```
+```C++
 
 // knight
 -50,-40,-30,-30,-30,-30,-40,-50,
@@ -289,7 +289,7 @@ As you can see I would happily trade for three pawns any knight standing on the 
 
 
 
-```
+```C++
 
 // bishop
 -20,-10,-10,-10,-10,-10,-10,-20,
@@ -311,7 +311,7 @@ We avoid corners and borders. Additionally we prefer squares like b3, c4, b5, d3
 
 
 
-```
+```C++
 
 rook
   0,  0,  0,  0,  0,  0,  0,  0,
@@ -333,7 +333,7 @@ The only ideas which came to my mind was to centralize, occupy the 7th rank and 
 
 
 
-```
+```C++
 
 //queen
 -20,-10,-10, -5, -5,-10,-10,-20,
@@ -355,7 +355,7 @@ Generally with queen I marked places where I wouldn't like to have a queen. Addi
 
 
 
-```
+```C++
 
 king middle game
 -30,-40,-40,-50,-50,-40,-40,-30,
@@ -377,7 +377,7 @@ In the ending the values change.
 
 
 
-```
+```C++
 
 // king end game
 -50,-40,-30,-20,-20,-30,-40,-50,

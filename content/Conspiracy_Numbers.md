@@ -31,7 +31,7 @@ title: Conspiracy Numbers
 
 A sample minimax tree T with some arbitrary values of the leaves <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```
+```C++
 
 root                    ┌───────┐
 max node                │  A=3  │
@@ -127,7 +127,7 @@ min nodes  │  B=2  │                 │  C=3  │
 
 Following [recursive](Recursion "Recursion") definition in pseudo [C](C "C") is based on [Van der Meulen's](Maarten_van_der_Meulen "Maarten van der Meulen") code <a id="cite-note-5" href="#cite-ref-5">[5]</a>. **V(J)** represents the minimaxed value of node J. Opposed to McAllester's original definition which deals with pure game theoretic values, Van der Meulen's distinguished non terminal leaves with cn = 1 for values different of **v** from game theoretic terminal nodes to assign +oo, since it is impossible to change their value, independently been arrived at by [Norbert Klingbeil](Norbert_Klingbeil "Norbert Klingbeil") and [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```
+```C++
 
 int cn(CNode J, int v) {
    int c;
@@ -159,7 +159,7 @@ int cn(CNode J, int v) {
 
 Let δ be a number called the singular margin <a id="cite-note-7" href="#cite-ref-7">[7]</a>. **Conspiracy theory** can be formulated using the following definition <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```
+```C++
 **Definition**: Let **T** be a search tree with min-max value **V[T]**. The [lower boand](Lower_Bound "Lower Bound") conspiracy number of **T**, denoted **C<[T]**, is the number of leaf static values that must be changed to bring the root min-max value down to **V[T]-δ**. The [upper boand](Upper_Bound "Upper Bound") conspiracy number of **T**, denoted **C>[T]**, is the number of leaves that must be changed to bring the root value up to **V[T]+δ**. 
 
 ```

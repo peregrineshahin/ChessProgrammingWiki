@@ -769,7 +769,7 @@ As reported by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") [[12]]
 
 
 
-```
+```C++
 3n4/KP6/3k2p1/4p2p/8/2N3P1/8/8 b - - 0 61
 
 ```

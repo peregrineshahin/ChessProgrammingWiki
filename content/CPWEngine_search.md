@@ -13,7 +13,7 @@ For function definitions, see [CPW-Engine_search_h](CPW-Engine_search_h "CPW-Eng
 
 ## [Search](Search "Search")
 
-```
+```C++
 
 ##include "stdafx.h"
 ##include "search.h"

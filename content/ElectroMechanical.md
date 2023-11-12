@@ -44,7 +44,7 @@ Gonzalo Torres y Quevedo and [Norbert Wiener](Norbert_Wiener "Norbert Wiener"), 
 
 Quote of the text on the back on the photo, as given in [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal"): <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```
+```C++
 [Dr. Claude E. Shannon](Claude_Shannon "Claude Shannon") demonstrating to Chessmaster [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) his (home-made) electric chess automation, build in 1949. The machine could handle up to six pieces, and was designed to test various programming methods. With one hundred and fifty relay operations required to complete a move, it arrived at the reply to an opponent's play in ten to fifteen seconds. It had built into it a random element, and as a result did not necessarily always make the same move when faced with the same position. 
 
 ```

@@ -150,7 +150,7 @@ What we want to avoid is collisions at nodes close to the root. For nodes close 
 
 
 
-```
+```C++
 
 x1^x2^...^xm = y1^y2^...^yn
 for codes xi, yi and small number m and n, and xi not equal to yj
@@ -168,7 +168,7 @@ So, what we want to avoid is an equation
 
 
 
-```
+```C++
 
 x1 + x2 + ... + xm = y1 + y2 + ... + yn
 
@@ -179,7 +179,7 @@ or
 
 
 
-```
+```C++
 
 x1 + x2 + ... + xm + y1 + y2 + ... + yn = 0
 
@@ -196,7 +196,7 @@ However what is clear is that this quality criterion does not depend on the base
 
 
 
-```
+```C++
 
 (1 1)
 (0 1)
@@ -208,7 +208,7 @@ we get (1,1) and (0,1), which have Hamming distance 1. Actually we can change an
 
 
 
-```
+```C++
 
 11110000
 11001100

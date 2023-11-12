@@ -34,7 +34,7 @@ Many programs **extend** certain moves to try and find better moves faster, or t
 
 Some extensions may be determined inside the move loop before or after [making the move](Make_Move "Make Move"), the latter case often delayed to the recursively called search routine by some programs:
 
-```
+```C++
 
 for each move m € of all moves {
   makeMove(m);

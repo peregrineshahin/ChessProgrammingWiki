@@ -29,7 +29,7 @@ The programs name was inspired by [Gargamella](http://it.wikipedia.org/wiki/Garg
 
 [Nicola Rizzuti](Nicola_Rizzuti "Nicola Rizzuti") about his progam <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```
+```C++
 ... many  features are implemented but not activated for stability problems. I think it is better to release it than to make it get rusty on my pc and I hope that this first release will give me more speed in developing. Currently Gargamella  has a small [opening book](Opening_Book "Opening Book"), just to vary its play and to avoid moves such as 1. a4... 
 
 ```

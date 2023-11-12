@@ -44,7 +44,7 @@ Inside an [alpha-beta search](Alpha-Beta "Alpha-Beta"), for a [beta-cutoff](Beta
 
 
 
-```
+```C++
 
 int ibvSearch(int alpha, int beta, ...) {
    ...
@@ -67,7 +67,7 @@ with
 
 
 
-```
+```C++
 
 int forceExact(int x) {return (x+1) &~ 3;}
 int forceLB (int x) {return forceExact(x) + 1;}

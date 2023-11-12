@@ -18,7 +18,7 @@ title: FailHard
 
 ## Fail-Hard Condition
 
-```
+```C++
 [Alpha](Alpha "Alpha") <= [Score](Score "Score") <= [Beta](Beta "Beta")
 
 ```

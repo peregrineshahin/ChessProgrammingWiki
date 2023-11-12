@@ -143,7 +143,7 @@ Rybka is a [bitboard](Bitboards "Bitboards") engine, first versions [rotated](Ro
 
 
 
-```
+```C++
 
 for (bb_t knights = Board.pieces [WN]; knights; knights &= knights-1)
 {
@@ -196,7 +196,7 @@ Vasik Rajlich's most quoted statement in these discussions was probably from an 
 
 
 
-```
+```C++
 Yes, the publication of Fruit 2.1 was huge. Look at how many engines took a massive jump in its wake: Rybka, Hiarcs, Fritz, Zappa, Spike, List, and so on. I went through the Fruit 2.1 source code forwards and backwards and took many things.
 ...
 Anyway, if I really had to give a number - my wild guess is that Rybka would be 20 rating points weaker had Fruit not appeared. 

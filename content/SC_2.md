@@ -35,7 +35,7 @@ Excerpt from Holger Schacht's March 2011 article in, [Berliner Kurier](https://e
 
 
 
-```
+```C++
 Developer [Rüdiger Worbs](R%C3%BCdiger_Worbs "Rüdiger Worbs"): "The SC2 was the first device manufactured by ten female laborer on the assembly line, they built about 1000". But despite various presentations at trade shows, it did not lead to the desired export. The slightly revised program was stolen from a U.S. inventor, the market is already saturated in the West. In the [GDR](https://en.wikipedia.org/wiki/East_Germany), only a few hundred items were available over the counter. 2180 [East mark](https://en.wikipedia.org/wiki/East_German_mark) costs the electrical brain - about three months' wages for ordinary people. Meanwhile, the "SC2" is considered a "collector's item". At the last auction on the Internet, he went away for 49 [Euro](https://en.wikipedia.org/wiki/Euro). 
 
 ```

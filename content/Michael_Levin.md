@@ -33,7 +33,7 @@ Let ***n*** be the number of plies in a tree, and let ***b*** be the number of b
 
 
 
-```
+```C++
 T = bn
 
 ```
@@ -43,7 +43,7 @@ However, if the best possible advantage is take of the alpha-beta heuristic then
 
 
 
-```
+```C++
 T = b(n+1)/2 + b(n-1)/2 - 1
 
 ```
@@ -53,7 +53,7 @@ and for even *n*,
 
 
 
-```
+```C++
 T = 2bn/2 - 1
 
 ```
@@ -63,7 +63,7 @@ which can be reformulated for both cases using [ceil and floor](https://en.wikip
 
 
 
-```
+```C++
 T = b⌈n/2⌉ + b⌊n/2⌋ - 1
 
 ```
@@ -79,7 +79,7 @@ T = b⌈n/2⌉ + b⌊n/2⌋ - 1
 
 
 
-```
+```C++
 Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). [Alpha-beta pruning](Alpha-Beta "Alpha-Beta") characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and [Ulam](Stanislaw_Ulam "Stanislaw Ulam"), and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and Levin, independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
 
 ```
@@ -92,7 +92,7 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 
 
-```
+```C++
 Many people participated in the initial development of [LISP](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)"), and I haven't been able to remember all their contributions and must settle, at this writing, for a list of names. I can remember [Paul W. Abrahams](Paul_W._Abrahams "Paul W. Abrahams"), [Robert Brayton](Mathematician#RKBrayton "Mathematician"), [Daniel Edwards](Daniel_Edwards "Daniel Edwards"), [Patrick Fischer](Mathematician#PCFischer "Mathematician"), [Phyllis Fox](Mathematician#PFox "Mathematician"), [Saul Goldberg](http://www.ee.calpoly.edu/faculty/sgoldber/), [Timothy Hart](Timothy_Hart "Timothy Hart"), [Louis Hodes](Mathematician#LHodes "Mathematician"), Michael Levin, [David Luckham](Mathematician#DLuckham "Mathematician"), Klim Maling, [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [David Park](Mathematician#DPark "Mathematician"), [Nathaniel Rochester](Nathaniel_Rochester "Nathaniel Rochester") of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), and [Steve Russell](https://en.wikipedia.org/wiki/Steve_Russell_(computer_scientist)).
 
 ```

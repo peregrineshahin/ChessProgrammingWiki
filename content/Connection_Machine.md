@@ -39,7 +39,7 @@ Under guidance of [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") 
 
 Quote from *History of \*Socrates* by [Chris Joerg](Chris_Joerg "Chris Joerg") from his Ph.D. Thesis <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
-```
+```C++
 We began work on this program in May of 1994. [Don Dailey](Don_Dailey "Don Dailey") and [Larry Kaufman](Larry_Kaufman "Larry Kaufman") of [Heuristic Software](Heuristic_Software "Heuristic Software") provided us with a version of [Socrates](Socrates "Socrates"), their serial chess program. During May and June we parallelized the program using [Cilk](Cilk "Cilk"), focusing mainly on the [search algorithm](Search "Search") and the [transposition table](Transposition_Table "Transposition Table"). During June Dailey visited [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") to help tune the program, but we spent most of June simply getting the parallel version of the program to work correctly. In late June, we entered *Socrates in the [1994 ACM International Computer Chess Championship](ACM_1994 "ACM 1994") in Cape May, New Jersey. We ran the program on a 512-node CM-5 at the [National Center for Supercomputing Applications](University_of_Illinois_at_Urbana-Champaign#NCSA "University of Illinois at Urbana-Champaign") (NCSA) at the [University of Illinois](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"). Despite the fact that we had begun working on the program less than two months earlier, the program ran reliable and finished in third place. 
 
 ```

@@ -12,12 +12,12 @@ a chess program from the early 80s, written in [Fortran IV](Fortran "Fortran") b
 
 A brief description is available from the [ACM 1980](ACM_1980 "ACM 1980") tournament booklet <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```
+```C++
 [Cray-1](Cray-1 "Cray-1"), United Computing, Kansas City (512k; 64 bits; 80,000,000 inst/sec)
 
 ```
 
-```
+```C++
 Cube 2.0 is an updated version of Cube 1.1. It executes on either the Cray-1 or on an Honeywell 60/80 provided by Honeywell in Minneapolis. The program is written in [Fortran](Fortran "Fortran"), uses [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm and [iterative deepening](Iterative_Deepening "Iterative Deepening"). On the Cray-1, the Lanks say the program examines 4,000 [nodes per second](Nodes_per_Second "Nodes per Second"). This is its first ACM tournament. 
 
 ```

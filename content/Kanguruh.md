@@ -45,7 +45,7 @@ Kanguruh played four [Australasian National Computer Chess Championships](Austra
 
 
 
-```
+```C++
 Kanguruh is an amateur [Winboard](WinBoard "WinBoard") chess engine written in [Power BASIC](Basic "Basic") 3.02 Console Compiler.  Kanguruh was started in March 2003 and it's features include 67,000 move [opening book](Opening_Book "Opening Book") database, [hash table](Transposition_Table "Transposition Table") (Using 64-bit [Zobrist keys](Zobrist_Hashing "Zobrist Hashing")), offset [move generation](Move_Generation "Move Generation"), [killer move table](Killer_Heuristic "Killer Heuristic") and [quiescence search](Quiescence_Search "Quiescence Search"). 
 
 ```
@@ -58,7 +58,7 @@ Kanguruh is an amateur [Winboard](WinBoard "WinBoard") chess engine written in [
 
 
 
-```
+```C++
 6,258 lines of code, offset pseudo move generator, [iterative deepening](Iterative_Deepening "Iterative Deepening"), [aspiration windows](Aspiration_Windows "Aspiration Windows"), killer move table, evaluation cache, 370,000 move opening book database, [book learning](Book_Learning "Book Learning") and [pondering](Pondering "Pondering"). Program Achievements: Highest rated chess engine written in BASIC at [WBEC](WBEC "WBEC"). Kanguruh is approximately 150 Elo points stronger than last year. 
 
 ```
@@ -71,13 +71,13 @@ Kanguruh is an amateur [Winboard](WinBoard "WinBoard") chess engine written in [
 
 
 
-```
+```C++
 Kanguruh is a Winboard chess engine written in PowerBASIC 3.04 Console Compiler. Kanguruh uses standard search techniques such as [alpha beta](Alpha-Beta "Alpha-Beta") with aspiration windows, iterative deepening, killer move table, offset move generator and evaluation cache.  Kanguruh features a 670,000 move opening book database and also has a type of book learning feature where it stores separate statistics on each opponent it plays.
 
 ```
 
 
-```
+```C++
 Kanguruh has changed little since NC3 2004. The biggest change is to the opening book system, it has been rewritten and redesigned in an attempt to improve the performance of Kanguruh's opening moves. A pondering bug has also been fixed which should improve [time management](Time_Management "Time Management") a little. 
 
 ```
@@ -90,7 +90,7 @@ Kanguruh has changed little since NC3 2004. The biggest change is to the opening
 
 
 
-```
+```C++
 Kanguruh is a Winboard compatible chess engine written in PowerBASIC 3.02 Console Compiler and contains approximately 6000 lines of code. Kanguruh features a set of integrated algorithms which I have named the 'Special Heuristically Intelligent Transposition Engine' (S.H.I.T.E.), it is these set of algorithms that is mostly responsible for Kanguruh's style and performance of play. Although Kanguruh is a relatively weak engine, it is the highest rated engine written in BASIC on WBEC. 
 
 ```

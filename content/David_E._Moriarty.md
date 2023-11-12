@@ -22,7 +22,7 @@ also applied to the [games](Games "Games") of [Othello](Othello "Othello") and [
 SANE selects a population of hidden neurons of a "vanilla" three-layer feed-forward neural network with the connections and weights in both directions,
 performing following basic steps in one generation <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```
+```C++
 
 1. Clear all fitness values from each neuron
 2.   Select neurons randomly from the population
