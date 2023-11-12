@@ -14,38 +14,6 @@ and supports [Chess960](Chess960 "Chess960"). OpenBench was the primary testing 
 
 
 
-### Contents
-
-
-* [1 Clients](#clients)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2016 ...](#2016-...)
-	+ [3.2 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 OpenBench](#openbench)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-OpenBench client PCs need to be [POSIX](https://en.wikipedia.org/wiki/POSIX) compliant - that is [Windows](Windows "Windows") clients require [MinGW](https://en.wikipedia.org/wiki/MinGW) <a id="cite-note-2" href="#cite-ref-2">[2]</a> - 
-to build chess engine binaries on the fly assuming that [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)/g++ and [make](https://en.wikipedia.org/wiki/Make_(software)) are on the system path. 
-To get the sources, OpenBench will pull down a [zip file](https://en.wikipedia.org/wiki/ZIP_(file_format)) from [GitHub](https://en.wikipedia.org/wiki/GitHub).
-Further, the client PC requires [Python 3](Python "Python") and finally the OpenBench Client software itself <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-The client is started with four arguments specifying the registered user name and password, the server [URL](https://en.wikipedia.org/wiki/URL) and the number of [threads](Thread "Thread") used for engine matches <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-python3 OpenBench.py -U username -P password -S <http://chess.grantnet.us/> -T 4
-
-```
-
 ## See also
 
 

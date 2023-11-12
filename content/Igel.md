@@ -13,29 +13,6 @@ initially based on [GreKo 2018.01](GreKo "GreKo") and following independent deve
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 Selected Games](#selected-games)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2018](#2018)
-	+ [3.2 2020](#2020)
-	+ [3.3 2021](#2021)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

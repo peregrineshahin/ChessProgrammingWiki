@@ -12,27 +12,6 @@ a series of computer chess programs by [Martin Bryant](Martin_Bryant "Martin Bry
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [A Mathematical Mystery Tour Video](Raymond_Smullyan#Video "Raymond Smullyan")
-* [Black Knight](Black_Knight "Black Knight")
-* [Colossus Chess](Colossus_Chess "Colossus Chess")
-
-
 ## Publications
 
 

@@ -8,25 +8,6 @@ A **Null Window**, also called **Zero Window**, **Scout Window** or **Narrow Win
 
 
 
-### Contents
-
-
-* [1 History](#history)
-* [2 Applications](#applications)
-* [3 See Also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Null windows were first described by [Judea Pearl](Judea_Pearl "Judea Pearl"), when introducing his [Scout](Scout "Scout") algorithm in April 1980 <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Independently, null window searches were further elaborated by [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") in the [SIGART](ACM#SIG "ACM") Bulletin, Issue 72, July 1980 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, who was already trying to get this published starting in August 1979. Fishburn was somewhat disappointed in the speedup (or lack thereof) that he measured on [checkers](Checkers "Checkers") lookahead trees. However when he went to work at [Bell Labs](Bell_Laboratories "Bell Laboratories") in 1981, [Ken Thompson](Ken_Thompson "Ken Thompson") told him that he had read the SIGART paper, and had sped up [Belle](Belle "Belle") by 1.5x with null windows <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Applications
 
 

@@ -15,31 +15,6 @@ Miguel is [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.2
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Gaviota](Gaviota "Gaviota")
-* [Gaviota Tablebases](Gaviota_Tablebases "Gaviota Tablebases")
-* [Ordo](index.php?title=Ordo&action=edit&redlink=1 "Ordo (page does not exist)")
-* [Rybka Controversy - Litmus Test](Rybka_Controversy#Litmustest "Rybka Controversy")
-* [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-
-
 ## Selected Publications
 
 

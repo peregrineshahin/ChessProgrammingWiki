@@ -12,24 +12,6 @@ a [transistorized](https://en.wikipedia.org/wiki/Transistor_computer), [18-bit](
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Manuals](#manuals)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [IGM](IGM "IGM")
-* [Schach](Schach_(US) "Schach (US)")
-
-
 ## See also
 
 

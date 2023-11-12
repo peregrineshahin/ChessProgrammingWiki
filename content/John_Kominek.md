@@ -15,29 +15,6 @@ He further worked on a revamped version of [Nalimov Tablebases](Nalimov_Tablebas
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* John Kominek (**1995**). *[Convergence of Fractal Encoded Images](https://www.researchgate.net/publication/2377847_Convergence_of_Fractal_Encoded_Images)*. [Data Compression Conference 1995](http://dblp.uni-trier.de/db/conf/dcc/dcc95.html#Kominek95)
-* John Kominek (**1997**). *Advances in Fractal Compression for Multimedia Applications*. Multimedia Systems, Vol. 5, No. 4, [pdf](https://pdfs.semanticscholar.org/f3c9/983f9c1dfa5435d7b7783b04069bf50cb0c7.pdf)
-* John Kominek, [Alan W. Black](https://en.wikipedia.org/wiki/Alan_W._Black) (**2004**). *The CMU Arctic speech databases*. [SSW 2004](http://dblp.uni-trier.de/db/conf/ssw/ssw2004.html#KominekB04a), [pdf](https://www.cs.cmu.edu/~awb/papers/ssw5/arctic.pdf)
-* [Alan W. Black](https://en.wikipedia.org/wiki/Alan_W._Black), John Kominek (**2009**). *Optimizing segment label boundaries for statistical speech synthesis*. [ICASSP 2009](http://dblp.uni-trier.de/db/conf/icassp/icassp2009.html#BlackK09), [pdf](https://www.cs.cmu.edu/~awb/papers/icassp2009/0003785.pdf)
-
-
 ## Forum Posts
 
 

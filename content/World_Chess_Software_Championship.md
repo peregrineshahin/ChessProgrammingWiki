@@ -10,42 +10,6 @@ The **World Chess Software Championship** (WCSC) is an annual event organized by
 
 
 
-### Contents
-
-
-* [1 Announcement](#announcement)
-* [2 Editions](#editions)
-* [3 See also](#see-also)
-* [4 Postings](#postings)
-* [5 References](#references)
-
-
-
-
-
-
-In September 2009, the [ICGA](ICGA "ICGA") announced following decision <a id="cite-note-1" href="#cite-ref-1">[1]</a> :
-
-
-As a result of this input from the participants the ICGA has decided upon the following for the 2010 WCCC and subsequent years:
-
-
-
-1. The [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship") for the [Shannon Trophy](Shannon_Trophy "Shannon Trophy") will be contested by teams who have **no** Restriction placed on them as to their choice of hardware.
-2. A new tournament will be introduced called the "World Chess Software Championship" to be held at the same location and during the same period as the WCCC. This will be a uniform platform event using computers loaned by the host organisation. In each game played in this tournament the two computers will be, so far as is possible, identical with respect to their hardware capabilities: number of cores, processor speed, memory size.
-3. Participants may compete in either or both of these tournaments for a single entry fee.
-4. The time control for the WCCC will be such as to aim for a 4-hour playing session, namely all moves in 1 hour 45 minutes plus an increment of 15 seconds per move.
-5. The time limit for the WCSC will be such as to aim for a 2-hour playing session, namely all moves in 45 minutes plus an increment of 15 seconds per move.
-6. The WCCC will be an 11-round Swiss System event if there are more than 12 entries, otherwise an all-play-all event.
-7. The number of rounds for the WCSC will be decided according to the number of entries in both events but there will be at least 9 rounds in the WCSC.
-8. There will as usual be a rest day for an excursion and time set aside for the speed championship.
-
-
-[David Levy](David_Levy "David Levy")
-President ICGA
-
-
-
 ## Editions
 
 

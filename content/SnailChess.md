@@ -13,23 +13,6 @@ The last public SnailChess **4.013** was released in June 2002. Then SnailChess 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1999](#1999)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2005 ...](#2005-...)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1999
 
 

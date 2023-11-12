@@ -17,24 +17,6 @@ and [Grapefruit](Grapefruit "Grapefruit") <a id="cite-note-6" href="#cite-ref-6"
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Teemu Pudas (**2015**). *[Kuvioidut laatoitukset: heuristinen haku Pattern self-Assembly Tile-set Synthesis -ongelmalle](https://aaltodoc.aalto.fi/handle/123456789/17173)*. (Patterned tiling: a heuristic search for the Pattern self-Assembly Tile-set Synthesis problem). Bachelor's thesis, [Aalto University](https://en.wikipedia.org/wiki/Aalto_University)
-
-
 ## Forum Posts
 
 

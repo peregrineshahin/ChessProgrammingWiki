@@ -14,25 +14,6 @@ He was affiliated with [BioWare](https://en.wikipedia.org/wiki/BioWare) developi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 1995 ...](#1995-...)
-	+ [1.3 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 1990 ...
 
 

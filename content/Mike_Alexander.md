@@ -12,25 +12,6 @@ an American computer scientist, Independent Computer Software Professional and f
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[
-Mike Alexander at the console of the [IBM S/360 Model 67](IBM_360 "IBM 360") ca 1969 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## See also
 
 

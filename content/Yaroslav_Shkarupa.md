@@ -13,21 +13,6 @@ As exchange student at the [University of Groningen](https://en.wikipedia.org/wi
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos"), Yaroslav Shkarupa, [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## External Links
 
 

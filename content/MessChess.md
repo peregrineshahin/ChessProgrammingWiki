@@ -13,28 +13,6 @@ MessChess played the [CCT5](CCT5 "CCT5") and [CCT6](CCT6 "CCT6") online tourname
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Description](#description)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-While Mess already stood for **M**ridul's Ch**ess**, it got corrupted by an extra [chess suffix](Category:Chess_Suffix "Category:Chess Suffix") into MessChess <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Description
 
 

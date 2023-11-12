@@ -12,29 +12,6 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2013](#2013)
-	+ [2.2 2014](#2014)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://icga.org/?page_id=849&wppa-album=6&wppa-cover=0&wppa-occur=1&wppa-photo=83) 
-[Yokohama 2013](17th_Computer_Olympiad#ChineseDarkChess "17th Computer Olympiad") award ceremony [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess"), [Hung-Jui Chang](Hung-Jui_Chang "Hung-Jui Chang") (Operator Yahari, Bronze),  
-
-Wen-Jie Tseng (DarkKnight, Gold), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou") (Diablo, Silver), and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

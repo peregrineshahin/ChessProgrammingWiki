@@ -12,29 +12,6 @@ a wooden chess board with magnetic sensors released by [Novag](Novag "Novag") in
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 Manual](#manual)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Novag Citrine](Novag_Citrine "Novag Citrine")
-* [Novag Sapphire](Novag_Sapphire "Novag Sapphire")
-
-
 ## Forum Posts
 
 

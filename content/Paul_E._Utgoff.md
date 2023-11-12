@@ -15,25 +15,6 @@ Paul E. Utgoff died on October 11, 2008 at the age of 57 due to complications fr
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1980 ...](#1980-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1980 ...
 
 

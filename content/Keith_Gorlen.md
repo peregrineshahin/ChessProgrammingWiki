@@ -10,23 +10,6 @@ an American computer scientist and [biomedical engineer](https://en.wikipedia.or
 
 
 
-### Contents
-
-
-* [1 Chess 1.0](#chess-1.0)
-* [2 Photos & Games](#photos-.26-games)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
-As undergraduate student at [Northwestern University](Northwestern_University "Northwestern University"), along with his fellow [Larry Atkin](Larry_Atkin "Larry Atkin"), he co-authored on the initial version of the Northwestern program [Chess](Chess_(Program) "Chess (Program)"). Gorlen left the Chess team in 1970 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and still contributed a few ideas for some time <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Photos & Games
 
 

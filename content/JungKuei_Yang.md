@@ -12,25 +12,6 @@ which won the [21st Computer Olympiad 2018](index.php?title=21st_Computer_Olympi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2009](#2009)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ### 2009
 
 

@@ -14,32 +14,6 @@ His professional interests include [microelectronics](https://en.wikipedia.org/w
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2005 ...](#2005-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2009](#2009)
-	+ [3.2 2010](#2010)
-	+ [3.3 2011](#2011)
-	+ [3.4 2013](#2013)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Milos Stanisavljevic is a formidable expert of the [Ippolit](Ippolit "Ippolit") family of engines <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and advocate of Ippolit's originality, despite his note it used ideas from [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering) [Rybka 3](Rybka "Rybka") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. He further stands sentinel <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> over a stable [RobboLito](RobboLito "RobboLito") release under the [GNU GPL](Free_Software_Foundation#GPL "Free Software Foundation"), which is due to misuse no longer available for download <a id="cite-note-9" href="#cite-ref-9">[9]</a>. 
-Further, along with [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), Milos Stanisavljevic worked on [Fire](Fire "Fire"), derived from [IvanHoe](IvanHoe "IvanHoe") and the [Ippolit](Ippolit "Ippolit") series of programs <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
-
-
-
 ## Selected Publications
 
 

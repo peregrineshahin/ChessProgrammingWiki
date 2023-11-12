@@ -10,20 +10,6 @@ a mainframe chess program by [Juha Kasanen](Juha_Kasanen "Juha Kasanen"), [Mika 
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 CHAOS](#chaos)
-	+ [1.2 Sfinks X](#sfinks-x)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### CHAOS
 
 

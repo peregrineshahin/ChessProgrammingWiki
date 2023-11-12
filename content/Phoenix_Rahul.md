@@ -15,27 +15,6 @@ After investigations by the original CuckooChess author, he found Phoenix played
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Namesake](#namesake)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-* [CuckooChess](CuckooChess "CuckooChess")
-* [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-
-
 ## Namesake
 
 

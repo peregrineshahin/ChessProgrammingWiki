@@ -12,28 +12,6 @@ an American applied mathematician, engineer, computer chess programmer and autho
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Harold Bogner](index.php?title=Harold_Bogner&action=edit&redlink=1 "Harold Bogner (page does not exist)")
-* [Peter Schreiner](Peter_Schreiner "Peter Schreiner")
-* [Berthold Seifriz](index.php?title=Berthold_Seifriz&action=edit&redlink=1 "Berthold Seifriz (page does not exist)")
-* [Martin Stamer](Martin_Stamer "Martin Stamer")
-* [Ossi Weiner](Ossi_Weiner "Ossi Weiner")
-* [WMCCC 1995](WMCCC_1995 "WMCCC 1995")
-
-
 ## Selected Publications
 
 

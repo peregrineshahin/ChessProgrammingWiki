@@ -13,30 +13,6 @@ a series of [UNIX](Unix "Unix") [workstations](https://en.wikipedia.org/wiki/Wor
 
 
 
-### Contents
-
-
-* [1 Sun 1](#sun-1)
-* [2 Sun 3](#sun-3)
-* [3 Sun 4](#sun-4)
-* [4 Chess Programs](#chess-programs)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-The **Sun-1**, launched in May 1982, was based on the [Stanford University](Stanford_University "Stanford University") [SUN workstation](https://en.wikipedia.org/wiki/SUN_workstation) designed by [Andy Bechtolsheim](Mathematician#ABechtolsheim "Mathematician"). The Sun 68000 board was a powerful single-board computer. It combined a 10 MHz [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000](68000 "68000") microprocessor, a Sun designed [memory management unit](https://en.wikipedia.org/wiki/Memory_management_unit) (MMU), 256 KB of zero wait state [memory](Memory "Memory") with parity, up to 32 KB of [EPROM memory](Memory#ROM "Memory"), two [serial ports](https://en.wikipedia.org/wiki/Serial_port), a 16-bit [parallel port](https://en.wikipedia.org/wiki/Parallel_port) and an [Intel](Intel "Intel") [Multibus](https://en.wikipedia.org/wiki/Multibus) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-=Sun 2= The second generation **Sun-2** in late 1983 featured a 10 MHz 68010 with a proprietary MMU to be the first Sun to run a full [virtual memory](Memory#Virtual "Memory"). Early Sun-2 models were based on the Multibus, with later models using [VMEbus](https://en.wikipedia.org/wiki/VMEbus), which continued to be used in the successor Sun-3 and Sun-4 families.
-
-
-
-
 ## Sun 3
 
 

@@ -12,32 +12,6 @@ a [Croatian Canadian](https://en.wikipedia.org/wiki/Croatian_Canadians) chess an
 
 
 
-### Contents
-
-
-* [1 Chute](#chute)
-* [2 Chess Player](#chess-player)
-* [3 Selected Games](#selected-games)
-	+ [3.1 Leonid Stein](#leonid-stein)
-	+ [3.2 David Levy](#david-levy)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1970 ...](#1970-...)
-	+ [4.2 1980 ...](#1980-...)
-	+ [4.3 1990 ...](#1990-...)
-	+ [4.4 2000 ...](#2000-...)
-	+ [4.5 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-In the 70s, along with his student [Michael Valenti](Michael_Valenti "Michael Valenti"), Zvonko Vranesic was co-author of [Chute](Chute "Chute") (CHess, University of Toronto, Engineering). He supervised Valenti's 1974 Masters Thesis <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and co-authored *Experiences with Chute* after the [WCCC 1977](WCCC_1977 "WCCC 1977") in the Proceedings of the 1977 annual [ACM](ACM "ACM") conference <a id="cite-note-5" href="#cite-ref-5">[5]</a> . 
-
-
-
 ## Chess Player
 
 

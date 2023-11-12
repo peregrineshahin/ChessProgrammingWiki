@@ -12,37 +12,6 @@ a Canadian computer scientist and professor at [Queen's University](https://en.w
 
 
 
-### Contents
-
-
-* [1 Quantum Chess](#quantum-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1977](#1977)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[Quantum Chess](index.php?title=Quantum_Chess&action=edit&redlink=1 "Quantum Chess (page does not exist)"), a variant of the chess game invented by Selim Akl, uses the weird properties of [quantum physics](https://en.wikipedia.org/wiki/Quantum_mechanics). Unlike the chess pieces of the conventional game, where a pawn is a pawn, and a rook is a rook, a quantum chess piece is a superposition of "states", each state representing a different conventional piece. In Quantum Chess, a player does not know the identity of a piece (that is, whether it is a pawn, a rook, a bishop, and so on) until the piece is selected for a move. Once a piece is selected it elects to behave as one of its constituent conventional pieces, but soon recovers its quantum state and returns to being a superposition of two or more pieces <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
- [](http://www.cbc.ca/technology/story/2010/09/02/quantum-chess-akl.html) 
-In the quantum chess computer game created by computer science student [Alice Wismath](index.php?title=Alice_Wismath&action=edit&redlink=1 "Alice Wismath (page does not exist)") (right),   
-
-a piece that should be a knight could simultaneously also be a queen, a pawn or something else.   
-
-Wismath based the game on an idea proposed by computer science professor Selim Akl <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

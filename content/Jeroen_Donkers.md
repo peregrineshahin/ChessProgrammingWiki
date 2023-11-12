@@ -14,24 +14,6 @@ Beside the development of a [Java](Java "Java") [Games](Games "Games") Research 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2005 ...](#2005-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 2000 ...
 
 

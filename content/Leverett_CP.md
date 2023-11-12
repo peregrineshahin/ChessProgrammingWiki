@@ -10,32 +10,6 @@ an early chess program written by [Bruce W. Leverett](Bruce_W._Leverett "Bruce W
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Games](#games)
-	+ [2.1 Round 1](#round-1)
-	+ [2.2 Round 2](#round-2)
-	+ [2.3 Round 3](#round-3)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-by [Peter Koretsky](http://www.thecrimson.com/writer/1200913/Peter__Koretsky/) on Leverett CP in 1972 <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-Leverett, who is concentrating in Physics and Chemistry at [Harvard](Harvard_University "Harvard University"), entered the tournament for the first time. His program finished in a tie for last place, and was labeled "the joke of the tournament" by International Master [David Levy](David_Levy "David Levy"), the tournament director. Leverett attributed his defeat to "poor programming" and vowed to scrap his program and start all over again. 
-
-```
-
 ## Games
 
 

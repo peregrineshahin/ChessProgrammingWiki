@@ -10,24 +10,6 @@ a Taiwanese computer scientist at Department of Computer Science and [Informatio
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2002 ...](#2002-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 2002 ...
 
 

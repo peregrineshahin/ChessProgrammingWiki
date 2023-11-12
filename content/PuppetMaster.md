@@ -10,29 +10,6 @@ an experimental chess playing entity by [Folkert van Heusden](Folkert_van_Heusde
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos & Games](#photos-.26-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Entity](#chess-entity)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/639-pt46-round-1) 
-PuppetMaster in action at [PT 46](PT_46 "PT 46") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Tournament Play
 
 

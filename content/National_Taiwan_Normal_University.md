@@ -10,33 +10,6 @@ title: National Taiwan Normal University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Programs](#programs)
-	+ [2.1 Chinese Chess](#chinese-chess)
-	+ [2.2 Chinese Dark Chess](#chinese-dark-chess)
-	+ [2.3 Connect6](#connect6)
-	+ [2.4 Go](#go)
-	+ [2.5 Outer-Open Gomoku](#outer-open-gomoku)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen")
-* [Shan-Tai Chen](Shan-Tai_Chen "Shan-Tai Chen")
-* [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen")
-* [Yu-Heng Chen](Yu-Heng_Chen "Yu-Heng Chen")
-* [Li-Te Huang](Li-Te_Huang "Li-Te Huang")
-* [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang")
-* [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin")
-
-
 ## Programs
 
 

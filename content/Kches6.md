@@ -10,21 +10,6 @@ an early chess program and [ACM 1974](ACM_1974 "ACM 1974") participant, written 
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Frankfort](#frankfort)
-	+ [1.2 San Diego](#san-diego)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 References](#references)
-
-
-
-
-
-
 ### Frankfort
 
 

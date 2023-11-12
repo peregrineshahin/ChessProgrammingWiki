@@ -10,23 +10,6 @@ an American early microcomputer chess programmer and author of the commercial ch
 
 
 
-### Contents
-
-
-* [1 Enhancement](#enhancement)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In his 1982 [ICCA Newsletter](ICGA_Journal#5_1 "ICGA Journal") article *An Enhancement to the Iterative, Alpha-Beta, Minimax Search Procedure* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, William Fink describes the implementation of a small [refutation table](Refutation_Table "Refutation Table") inside his [iterative](Iterative_Deepening "Iterative Deepening") [alpha-beta](Alpha-Beta "Alpha-Beta") framework - to keep two [moves](Moves "Moves") of the [variation](Principal_Variation "Principal Variation") for each [root](Root "Root") move, and to search those moves first accordingly during the next iteration.
-
-
-
 ## Selected Publications
 
 

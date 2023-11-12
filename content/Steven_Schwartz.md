@@ -15,24 +15,6 @@ with focus on [dedicated chess computers](Dedicated_Chess_Computers "Dedicated C
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Computer-Chess Club](https://groups.google.com/g/rec.games.chess.computer/c/Bd6-AZkuWU0) by Steven Schwartz, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 1997
-* [Moderator Nominees, The Vote, My Personal Thoughts...](https://www.stmintz.com/ccc/index.php?id=18712) by Steven Schwartz, [CCC](CCC "CCC"), May 15, 1998
-* [Moderator Voting Results Now Available...](https://www.stmintz.com/ccc/index.php?id=19714) by Steven Schwartz, [CCC](CCC "CCC"), June 01, 1998
-* [The Fidelity vs. ICD/Your Move Lawsuit... The Epic](https://www.stmintz.com/ccc/index.php?id=133998) by Steven Schwartz, [CCC](CCC "CCC"), October 19, 2000 » [Sidney Samole](Sidney_Samole "Sidney Samole"), [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"), [ICD Corporation](index.php?title=ICD_Corporation&action=edit&redlink=1 "ICD Corporation (page does not exist)")
-
-
 ## External Links
 
 

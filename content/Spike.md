@@ -12,35 +12,6 @@ a chess engine by [Ralf Schäfer](Ralf_Sch%C3%A4fer "Ralf Schäfer") and [Volker
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Javanizer](#javanizer)
-* [3 Description](#description)
-* [4 Tournaments](#tournaments)
-* [5 Photos](#photos)
-	+ [5.1 2006](#2006)
-	+ [5.2 2010](#2010)
-* [6 Games](#games)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-	+ [8.1 2004 ...](#2004-...)
-	+ [8.2 2010 ...](#2010-...)
-* [9 External Links](#external-links)
-	+ [9.1 Chess Engine](#chess-engine)
-	+ [9.2 Misc](#misc)
-* [10 References](#references)
-
-
-
-
-
-
-The program's name was coined by the [Spike character](https://en.wikipedia.org/wiki/Spike_%28Buffy_the_Vampire_Slayer%29) of the [Buffy the Vampire Slayer TV series](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) <a id="cite-note-2" href="#cite-ref-2">[2]</a> . 
-
-
-
 ## Javanizer
 
 

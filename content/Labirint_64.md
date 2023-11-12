@@ -10,21 +10,6 @@ a compact, selfmade [dedicated chess computer](Dedicated_Chess_Computers "Dedica
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Chess-Master](#chess-master)
-	+ [1.2 MicroMurks II](#micromurks-ii)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Chess-Master
 
 

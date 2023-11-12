@@ -11,27 +11,6 @@ He holds a [B.A.](https://en.wikipedia.org/wiki/Bachelor%27s_degree) from [Harva
 
 
 
-### Contents
-
-
-* [1 Reitman-Wilcox](#reitman-wilcox)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1960 ...](#1960-...)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1980 ...](#1980-...)
-	+ [2.4 1990 ...](#1990-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Two of Walter R. Reitman's students at the University of Michigan were [Rick Hayes-Roth](https://en.wikipedia.org/wiki/Rick_Hayes-Roth) and [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)"), who wrote the [MTS](https://en.wikipedia.org/wiki/Michigan_Terminal_System)/[LISP](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)") interpreter in order to write a [Go](Go "Go") playing program co-authored by his advisor <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The program has been described both as the *Reitman-Wilcox* Go program <a id="cite-note-4" href="#cite-ref-4">[4]</a> and the *INTERIM.2* Go program <a id="cite-note-5" href="#cite-ref-5">[5]</a>. After the research project was discontinued, Wilcox rewrote the INTERIM.2 program to produce the commercial Go program *Nemesis* <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Selected Publications
 
 

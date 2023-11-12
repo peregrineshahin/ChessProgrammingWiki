@@ -12,29 +12,6 @@ a chess program developed by [Jari Huikari](index.php?title=Jari_Huikari&action=
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1997 ...](#1997-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Caesar](Caesar "Caesar")
-* [Caligula](Caligula "Caligula")
-* [Vice vs Nero 6.1 - The first ever game!!](Vice#Nero "Vice")
-
-
 ## Forum Posts
 
 

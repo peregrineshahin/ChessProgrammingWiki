@@ -10,34 +10,6 @@ a chess program by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth") and at 
 
 
 
-### Contents
-
-
-* [1 Tournaments](#tournaments)
-* [2 Yokohama 2013](#yokohama-2013)
-* [3 Screenshot](#screenshot)
-* [4 Photos & Games](#photos-.26-games)
-	+ [4.1 2010](#2010)
-	+ [4.2 2011](#2011)
-* [5 Descriptions](#descriptions)
-	+ [5.1 1995](#1995)
-	+ [5.2 2010](#2010-2)
-* [6 See also](#see-also)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Engine](#chess-engine)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-Beside five [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, seven [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), three [World Chess Software Championships](World_Chess_Software_Championship "World Chess Software Championship"), Pandix played three [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") and various [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open"), [International CSVN Tournaments](International_CSVN_Tournament "International CSVN Tournament"), [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") and [Online Computer Chess Tournaments](Tournaments_and_Matches#online "Tournaments and Matches"). After more than a decade of recreation and abstinence from competing in tournaments, Gyula started a comeback at the [DOCCC 2008](DOCCC_2008 "DOCCC 2008"), and the [WCCC 2009](WCCC_2009 "WCCC 2009"). Pandix **Breakthrough**, now [UCI](UCI "UCI") compliant running under [Windows](Windows "Windows"), played a strong [WCCC 2010](WCCC_2010 "WCCC 2010"). In June 2011, Pandix won the [ICT 2011](ICT_2011 "ICT 2011") with 7 out of 7, and in July 2011 the [WCRCC 2011](WCRCC_2011 "WCRCC 2011") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Yokohama 2013
 
 

@@ -13,25 +13,6 @@ Purple Haze uses some features of [C++11](Cpp "Cpp"), so one needs [GCC >= 4.6](
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

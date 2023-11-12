@@ -14,27 +14,6 @@ KChess has its own [GUI](GUI "GUI") to run under [Windows](Windows "Windows"), *
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Kches6](Kches6 "Kches6")
-* [Turbo Chess](Turbo_Chess "Turbo Chess")
-
-
 ## Forum Posts
 
 

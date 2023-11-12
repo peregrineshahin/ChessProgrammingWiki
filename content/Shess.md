@@ -12,27 +12,6 @@ a chess program by [Ard van Bergen](Ard_van_Bergen "Ard van Bergen") written in 
 
 
 
-### Contents
-
-
-* [1 Tournaments](#tournaments)
-* [2 Games](#games)
-	+ [2.1 Cologne 1986](#cologne-1986)
-	+ [2.2 Leiden 1987](#leiden-1987)
-		- [2.2.1 Nona again](#nona-again)
-		- [2.2.2 Kallisto](#kallisto)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Shess played the [WCCC 1986](WCCC_1986 "WCCC 1986") in [Cologne](https://en.wikipedia.org/wiki/Cologne) on a [MicroVax II](VAX#MicroVAX "VAX"), and the [WCCC 1989](WCCC_1989 "WCCC 1989") in [Edmonton](https://en.wikipedia.org/wiki/Edmonton) (400 [nodes per second](Nodes_per_Second "Nodes per Second") on a [VAX 8800](VAX "VAX")), and eight [Dutch Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), from [1986](DOCCC_1986 "DOCCC 1986") until the [1993](DOCCC_1993 "DOCCC 1993"), best result was a third place at [DOCCC 1987](DOCCC_1987 "DOCCC 1987").
-
-
-
 ## Games
 
 

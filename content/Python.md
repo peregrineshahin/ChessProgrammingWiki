@@ -12,32 +12,6 @@ While used as [scripting language](https://en.wikipedia.org/wiki/Scripting_langu
 
 
 
-### Contents
-
-
-* [1 Python Engines](#python-engines)
-* [2 Python Chess Tools](#python-chess-tools)
-* [3 Python GUIs](#python-guis)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2007 ...](#2007-...)
-	+ [5.2 2010 ...](#2010-...)
-	+ [5.3 2015 ...](#2015-...)
-	+ [5.4 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-	+ [6.1 General Purpose](#general-purpose)
-	+ [6.2 Artificial Intelligence](#artificial-intelligence)
-	+ [6.3 Chess](#chess)
-* [7 References](#references)
-
-
-
-
-
-
-* [Category Python](Category:Python "Category:Python")
-
-
 ## Python Chess Tools
 
 

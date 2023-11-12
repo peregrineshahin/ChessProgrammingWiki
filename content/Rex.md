@@ -15,26 +15,6 @@ Rex played the [17th ACM Tournament](ACM_1986 "ACM 1986") 1986 in Dallas, the [5
 
 
 
-### Contents
-
-
-* [1 Images & Games](#images-.26-games)
-	+ [1.1 Awit - Rex](#awit---rex)
-	+ [1.2 Shess - Rex](#shess---rex)
-* [2 Quotes](#quotes)
-	+ [2.1 USOCCC 1987](#usoccc-1987)
-	+ [2.2 From Rex to Rexchess](#from-rex-to-rexchess)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
 ### Awit - Rex
 
 

@@ -12,24 +12,6 @@ a Finnish software engineer with a Master's degree in physics from [University o
 
 
 
-### Contents
-
-
-* [1 Stockfish](#stockfish)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2009, Joona Kiiski tweaked [Tord Romstad's](Tord_Romstad "Tord Romstad") [open source chess program](Category:Open_Source "Category:Open Source") [Glaurung](Glaurung "Glaurung") and called it [Smaug](Smaug "Smaug") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The derivations of Glaurung, notably [Stockfish](Stockfish "Stockfish") by [Marco Costalba](Marco_Costalba "Marco Costalba") and *Smaug* was controversial, and other chess programmers were annoyed with their original efforts over years <a id="cite-note-4" href="#cite-ref-4">[4]</a> , while Tord Romstad appreciated the development with his understanding and interpretation of the [open source](https://en.wikipedia.org/wiki/Open_source) idea in competitive computer chess. In 2009 they joint forces on Stockfish, Marco's initial branch of Glaurung's evolutionary tree <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## See also
 
 

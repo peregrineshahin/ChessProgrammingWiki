@@ -12,24 +12,6 @@ a chess playing entity by [TASC](TASC "TASC"), developed by [Marc Derksen](Marc_
 
 
 
-### Contents
-
-
-* [1 Circuit Board](#circuit-board)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.cbmhardware.de/misc/fc_pcb.jpg) 
-The Final Chesscard Circuit Board <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## See also
 
 

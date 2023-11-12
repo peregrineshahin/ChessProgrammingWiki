@@ -12,38 +12,6 @@ an idea to turn a [Depth-First](Depth-First "Depth-First") to a [Best-First](Bes
 
 
 
-### Contents
-
-
-* [1 NegaC\* Pseudo Code](#negac.2a-pseudo-code)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-
-```C++
-
-int negaCStar (int min, int max, int depth) {
-   int score = min;
-   while (min != max) {
-      alpha = (min + max) / 2;
-      score = failSoftAlphaBeta (alpha, alpha + 1, depth);
-      if ( score > alpha)
-         min = score;
-      else
-         max = score;
-   }
-   return score;
-}
-
-```
-
 ## See also
 
 

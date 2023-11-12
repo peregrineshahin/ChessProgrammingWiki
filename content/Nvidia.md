@@ -15,28 +15,6 @@ supported by their [CUDA](https://en.wikipedia.org/wiki/CUDA) (Compute Unified D
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Products](#products)
-	+ [4.2 Architectures](#architectures)
-	+ [4.3 Developer](#developer)
-* [5 References](#references)
-
-
-
-
-
-
-* [Deep Learning](Deep_Learning "Deep Learning")
-* [GPU](GPU "GPU")
-* [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-
-
 ## Publications
 
 

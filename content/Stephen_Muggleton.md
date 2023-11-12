@@ -15,29 +15,6 @@ Since July 2000, Muggleton is Editor-in-chief of the *Machine Intelligence Serie
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1986 ...](#1986-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 1995 ...](#1995-...)
-	+ [1.4 2000 ...](#2000-...)
-	+ [1.5 2005 ...](#2005-...)
-	+ [1.6 2010 ...](#2010-...)
-	+ [1.7 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 1986 ...
 
 

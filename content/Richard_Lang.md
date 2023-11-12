@@ -15,29 +15,6 @@ After first trials, Richard Lang started his computer chess programming career i
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Cyrus](#cyrus)
-* [3 Psion](#psion)
-* [4 Mephisto and Genius](#mephisto-and-genius)
-* [5 Quotes](#quotes)
-* [6 Resume](#resume)
-* [7 Publications](#publications)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
- [](http://www.ismenio.com/mephisto.html) 
-[Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Manfred Hegener](Manfred_Hegener "Manfred Hegener") and Richard Lang, [WMCCC 1985](WMCCC_1985 "WMCCC 1985") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Cyrus
 
 

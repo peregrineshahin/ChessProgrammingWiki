@@ -11,30 +11,6 @@ Slow Chess is written in [C++](Cpp "Cpp") with a little [inline assembly](Assemb
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Description](#description)
-* [3 Selected Games](#selected-games)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2004](#2004)
-	+ [4.2 2005 ...](#2005-...)
-	+ [4.3 2010 ...](#2010-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.3dkingdoms.com/chess/slow.htm) 
-Slow Chess, [Windows](Windows "Windows") [GUI](GUI "GUI") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Description
 
 

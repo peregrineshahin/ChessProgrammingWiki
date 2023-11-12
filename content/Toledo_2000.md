@@ -13,48 +13,6 @@ Toledo 2000 played a strong [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](htt
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Namesake](#namesake)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[WMCCC 1997](WMCCC_1997 "WMCCC 1997"), round 1, Toledo 2000 - [Hydra](Hydra_97 "Hydra 97") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1997"]
-[Site "Paris, France"]
-[Date "1997.10.26"]
-[Round "1"]
-[White "Toledo 2000"]
-[Black "Hydra 97"]
-[Result "1-0"]
-
-1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 
-9.a3 b4 10.Ne4 Nxe4 11.Bxe4 bxa3 12.bxa3 Bd6 13.Qc2 f5 14.Bxc6 Rc8 15.Bxd7+ Qxd7 
-16.Qd1 Qb5 17.Bd2 Be4 18.a4 Qb2 19.O-O Bxf3 20.gxf3 O-O 21.Rb1 Qa3 22.Qb3 Qxb3 
-23.Rxb3 Rc4 24.a5 Rc2 25.Rd1 Rfc8 26.Be1 R8c7 27.f4 Kf7 28.Rdb1 Kf6 29.Rb7 Ra2 
-30.Kg2 Ra1 31.Kf1 Rxb1 32.Rxb1 Kg6 33.f3 Ba3 34.Bd2 Kf6 35.Ke2 Bd6 36.e4 Ba3 
-37.Rb3 Bf8 38.Rb5 Ba3 39.d5 exd5 40.Rxd5 g6 41.Kd3 Rf7 42.a6 Rc7 43.Rb5 Ke6 
-44.h4 Bc5 45.Rb7 Rd7+ 46.Ke2 Re7 47.Be3 Bxe3 48.Kxe3 Rd7 49.h5 Ke7 50.hxg6 hxg6 
-51.e5 Ke6 52.Rxd7 1-0 
-
-```
-
 ## Namesake
 
 

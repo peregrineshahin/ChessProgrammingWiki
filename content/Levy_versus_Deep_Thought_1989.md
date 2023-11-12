@@ -13,31 +13,6 @@ While [International Master](https://en.wikipedia.org/wiki/FIDE_titles#Internati
 
 
 
-### Contents
-
-
-* [1 The End of an Era](#the-end-of-an-era)
-* [2 Quotes](#quotes)
-* [3 Games](#games)
-	+ [3.1 Game 1](#game-1)
-	+ [3.2 Game 2](#game-2)
-	+ [3.3 Game 3](#game-3)
-	+ [3.4 Game 4](#game-4)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-The match turned out to be the last one concerning the [Levy Bet](David_Levy#TheLevyBet "David Levy"). After his victories versus [Chess 4.7](Chess_(Program) "Chess (Program)") in [1978](Levy_versus_Chess_1978 "Levy versus Chess 1978") and [Cray Blitz](Cray_Blitz "Cray Blitz") in [1984](Advances_in_Computer_Chess_4#LevyCrayBlitz "Advances in Computer Chess 4"), and despite some preparation with [Danny Kopec](Danny_Kopec "Danny Kopec"), the still too "rusty" man made too many blunders and got crashed 0-4. Deep Thought won the [Omni](https://en.wikipedia.org/wiki/Omni_%28magazine%29) prize of $5,000, including $1,000 by Levy <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Quotes
 
 

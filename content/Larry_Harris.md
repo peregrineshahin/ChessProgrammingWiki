@@ -12,24 +12,6 @@ an American computer scientist and retired commercial [AI](Artificial_Intelligen
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 AI Entrepreneur](#ai-entrepreneur)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-During the 70s, as professor of computer science at [Dartmouth College](Dartmouth_College "Dartmouth College"), Larry Harris researched and published on heuristic [best-first](Best-First "Best-First") [search](Search "Search") based on [A\*](https://en.wikipedia.org/wiki/A*_search_algorithm) and introduced the [Bandwidth Search](index.php?title=Bandwidth_Search&action=edit&redlink=1 "Bandwidth Search (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He lead the team developing [Dartmouth CP](Dartmouth_CP "Dartmouth CP") and [Dart](Dart "Dart") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, competing at the [ACM 1973](ACM_1973 "ACM 1973") and [ACM 1974](ACM_1974 "ACM 1974") respectively. 
-
-
-
 ## AI Entrepreneur
 
 

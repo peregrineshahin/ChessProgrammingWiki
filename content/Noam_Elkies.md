@@ -12,27 +12,6 @@ an American chess player, [composer of chess studies](Chess_Problems,_Compositio
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1996 ...](#1996-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2005 ...](#2005-...)
-	+ [1.4 2010 ...](#2010-...)
-	+ [1.5 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1996 ...
 
 

@@ -12,30 +12,6 @@ an American electrical engineer, marketing innovator, and founder and CEO of *JS
 
 
 
-### Contents
-
-
-* [1 JS&A Chess Computer](#js.26a-chess-computer)
-	+ [1.1 Karpov Challenge](#karpov-challenge)
-	+ [1.2 Data Cash Systems vs. JS&A Group](#data-cash-systems-vs.-js.26a-group)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1978, Sugarman marketed the *JS&A chess computer*, a [Novag](Novag "Novag") licensees [Chess Champion MK I](Chess_Champion_MK_I "Chess Champion MK I").
-
-
-
- [](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) 
-JS&A Chess Computer <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### Karpov Challenge
 
 

@@ -13,43 +13,6 @@ a private [Chess Engine Communication Protocol](Chess_Engine_Communication_Proto
 
 
 
-### Contents
-
-
-* [1 Move Generation](#move-generation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Tinker uses an idiosyncratic [move generation](Move_Generation "Move Generation") approach for [sliding pieces](Sliding_Pieces "Sliding Pieces") based on [rook](Rook "Rook") and [bishop](Bishop "Bishop") [attacks on the otherwise empty board](On_an_empty_Board "On an empty Board"). While [serializing](Bitboard_Serialization "Bitboard Serialization") all those potential targets, it tests for legality inside the loop body, that is whether the [inbetween squares](Square_Attacked_By#InBetween "Square Attacked By") of [origin](Origin_Square "Origin Square") and [target](Target_Square "Target Square") are empty. This is not in the "real" bitboard spirit to determine attack sets in advance in the bitboard centric world rather than to test individual elements of a superset belonging to a set, but at least it allows traversing disjoint target sets i.e. for captures in [quiescence search](Quiescence_Search "Quiescence Search"). This is the slightly edited code posted by Brian in 2000 <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-```C++
-
-froms = tree->wbishopsqueens;
-while (froms) {
-   f = lastOne(froms);
-   tos= bishopto[f] & targets;
-   while (tos) {
-      t = lastOne(tos);
-      if ( (allpieces & nopieces[f][t]) == 0) {
-         gen_push(f, t);
-      }
-      clear(t, tos);
-   }
-   clear(f, froms);
-}
-
-```
-
 ## See also
 
 

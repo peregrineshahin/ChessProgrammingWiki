@@ -11,30 +11,6 @@ In 2002 Lokasoft took over the activities of [Schröder BV](Ed_Schroder "Ed Schr
 
 
 
-### Contents
-
-
-* [1 Products](#products)
-* [2 Former Products](#former-products)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [ChessPartner](ChessPartner "ChessPartner") by [Lex Loep](Lex_Loep "Lex Loep") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [SmarThink](SmarThink "SmarThink") by [Sergei Markoff](Sergei_Markoff "Sergei Markoff") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-* [Ktulu](Ktulu "Ktulu") by [Rahman Paidar](Rahman_Paidar "Rahman Paidar") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* [Chess Tiger](Chess_Tiger "Chess Tiger") by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-* [Rebel 12](Rebel "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
 ## Former Products
 
 

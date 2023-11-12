@@ -22,30 +22,6 @@ He was mentioned as co-author of [Sun Phoenix](Phoenix "Phoenix") at [ACM 1988](
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* [Subrata Dasgupta](https://en.wikipedia.org/wiki/Subrata_Dasgupta), Marius Olafsson (**1982**). *[Towards a family of languages for the design and implementation of machine architectures](https://dl.acm.org/doi/10.1145/1067649.801724)*. [ACM SIGARCH Computer Architecture News](ACM#SIGARCH "ACM"), Vol. 10, No. 3
-* Marius Olafsson, [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *Implementation of Virtual Tree Machines*. TR85-9, Computing Science Department, [University of Alberta](University_of_Alberta "University of Alberta")
-* Marius Olafsson, [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *[A UNIX Based Virtual Tree Machine](http://docplayer.net/95163278-A-unix-based-virtual-tree-machine.html)*. Proceedings of the 1985 CIPS/ACI Congress
-* [William Ward Armstrong](Mathematician#WWArmstrong "Mathematician"), [Tony Marsland](Tony_Marsland "Tony Marsland"), Marius Olafsson, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1985**). *[Solving Equations of Motion on a Virtual Tree Machine](https://dl.acm.org/doi/10.1137/0908013)*. Second Conference on Parallel Processing for Scientific Computing
-* [Tony Marsland](Tony_Marsland "Tony Marsland"), Marius Olafsson, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1986**). *Multiprocessor Tree-Search Experiments.* [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
-* [William Ward Armstrong](Mathematician#WWArmstrong "Mathematician"), [Tony Marsland](Tony_Marsland "Tony Marsland"), Marius Olafsson, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Steve Sutphen](index.php?title=Steve_Sutphen&action=edit&redlink=1 "Steve Sutphen (page does not exist)") (**1986**). *Large Grained Parallelism at the University of Alberta*. In Large Grained Parallelism Workshop
-
-
 ## External Links
 
 

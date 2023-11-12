@@ -10,34 +10,6 @@ title: Iterative Deepening
 
 
 
-### Contents
-
-
-* [1 How it Works](#how-it-works)
-* [2 History](#history)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1965 ...](#1965-...)
-	+ [4.2 1970 ...](#1970-...)
-	+ [4.3 1980 ...](#1980-...)
-	+ [4.4 1990 ...](#1990-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1988](#1988)
-	+ [5.2 1990 ...](#1990-...-2)
-	+ [5.3 2000 ...](#2000-...)
-	+ [5.4 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-It works as follows: the program starts with a [one ply](Ply "Ply") search, then increments the search [depth](Depth "Depth") and does another search. This process is repeated until the time allocated for the search is exhausted. In case of an unfinished search, the program always has the option to fall back to the move selected in the last iteration of the search. Yet if we make sure that this move is searched first in the next iteration, then overwriting the new move with the old one becomes unnecessary. This way, also the results from the partial search can be accepted - though in case of a severe drop of the score it is wise to allocate some more time, as the first alternative is often a bad capture, delaying the loss instead of preventing it. Iterative deepening, using a [transposition table](Transposition_Table "Transposition Table"), embed the [depth-first](Depth-First "Depth-First") algorithms like [alpha-beta](Alpha-Beta "Alpha-Beta") into a framework with [best-first](Best-First "Best-First") characteristics.
-
-
-
 ## History
 
 

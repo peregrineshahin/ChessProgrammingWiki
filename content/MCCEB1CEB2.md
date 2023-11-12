@@ -11,31 +11,6 @@ is a [Best-First search](Best-First "Best-First") algorithm based on [Monte-Carl
 
 
 
-### Contents
-
-
-* [1 Four Phases](#four-phases)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-MCαβ can be divided into four strategic phases, repeated as long as there is time left:
-
-
-
-1. In the Selection phase the tree is traversed from the [root node](Root "Root") until it selects a [leaf node](Leaf_Node "Leaf Node") that is not added to the tree yet
-2. The Expansion strategy adds the leaf node to the tree
-3. The Playout phase performs a shallow alpha-beta search
-4. The Backpropagation strategy propagates the results through the tree
-
-
 ## See also
 
 

@@ -12,32 +12,6 @@ an Austrian computer chess periodical published in 1993 and 1994 in German langu
 
 
 
-### Contents
-
-
-* [1 Selected Authors](#selected-authors)
-* [2 Selected Articles](#selected-articles)
-	+ [2.1 3/93](#3.2f93)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Bernhard Biberle](Bernhard_Biberle "Bernhard Biberle")
-* [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger")
-* [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling")
-* [Alex Kure](Alex_Kure "Alex Kure")
-* [Andreas Mader](Andreas_Mader "Andreas Mader")
-* [Thomas Mally](Thomas_Mally "Thomas Mally")
-* [Helmut Weigel](Helmut_Weigel "Helmut Weigel")
-* [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger")
-* [Wolfgang Zugrav](Wolfgang_Zugrav "Wolfgang Zugrav")
-
-
 ## Selected Articles
 
 

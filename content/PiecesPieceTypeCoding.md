@@ -14,44 +14,6 @@ In chess terminology the term Piece is a bit ambiguous and may have different me
 
 
 
-### Contents
-
-
-* [1 Piece Coding](#piece-coding)
-	+ [1.1 Piece-Type Coding](#piece-type-coding)
-	+ [1.2 Piece Type and Color](#piece-type-and-color)
-	+ [1.3 Disjoint Piece Flags](#disjoint-piece-flags)
-	+ [1.4 Encapsulation](#encapsulation)
-	+ [1.5 Samples](#samples)
-* [2 Value of Pieces](#value-of-pieces)
-* [3 Tactical Properties](#tactical-properties)
-* [4 Printing and Drawing](#printing-and-drawing)
-	+ [4.1 ASCII Art](#ascii-art)
-	+ [4.2 Unicode](#unicode)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-There are six types of pieces for each side, in total twelve different men. Since only one piece may occupy one [square](Squares "Squares") at a time, one usually expands the range of piece codes with the Nil-Piece aka empty square, often encoded as zero. Depending on the [board representation](Board_Representation "Board Representation"), some programmers introduce an artificial blocking piece, which surrounds the embedded [8x8 boards](8x8_Board "8x8 Board") inside a [10x12 board](10x12_Board "10x12 Board") for cheaper off the board tests in offset [move generation](Move_Generation "Move Generation").
-
-
-For cheaper extraction, most programmers prefer distinct coding of piece-types and the color of piece. Quite common is to use three bits to encode the piece-type plus one bit or [Two's Complement](General_Setwise_Operations#TheTwosComplement "General Setwise Operations") (not recommend for languages with zero based array indices, like [C](C "C"), [C++](Cpp "Cpp") or [Java](Java "Java")) for the color.
-
-
-Other programs distinguish not only piece-type and color, but enumerate all 32 pieces from their [initial position](Initial_Position "Initial Position"), which label or code does not change during the course of a game (even after a possible [promotion](Promotions "Promotions") of a pawn) and might be one-to-one associated with the bit-position of a 32-bit [piece set](Piece-Sets "Piece-Sets"), and/or are used to index a [piece list](Piece-Lists "Piece-Lists") containing the current [square](Squares "Squares") the piece resides on. 
-
-
-[Lachex](Lachex "Lachex") for instance used following enumeration scheme: the a1-rook was labeled with 1, b1-knight with 2, a2-pawn with 9, the a8-rook with 17 and the h7-pawn with 32. Beside a [bitboard board-definition](Bitboard_Board-Definition "Bitboard Board-Definition") using 12 piece [bitboards](Bitboards "Bitboards") and [occupancy](Occupancy "Occupancy") as union set, Lachex used a redundant [8x8 board array](8x8_Board "8x8 Board"), containing those 1..32 piece-codes, but zero for empty squares. Another piece-array contained the associated piece-types or zero if the piece is missing <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
-
 ### Piece-Type Coding
 
 

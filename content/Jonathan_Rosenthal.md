@@ -12,28 +12,6 @@ a Swiss chess [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Maste
 
 
 
-### Contents
-
-
-* [1 Winter](#winter)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2015](#2015)
-	+ [3.2 2016 ...](#2016-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess](#chess)
-	+ [4.2 Programming](#programming)
-* [5 References](#references)
-
-
-
-
-
-
-Jonathan Rosenthal's second chess programming approach started in 2016 as a group project in a university course on parallel computing along with Jonas Kuratli and Jonathan Maurer. Influenced by his [machine learning](Learning "Learning") experience in the domain of Go, after removing the parallel portion of the code, the project evolved to an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") called [Winter](Winter "Winter"), released on January 08, 2018 <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## Selected Publications
 
 

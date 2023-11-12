@@ -15,27 +15,6 @@ a set of [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 
 
 
-### Contents
-
-
-* [1 Improvements](#improvements)
-* [2 Versions](#versions)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Despite small improvements in various [game phases](Game_Phases "Game Phases") due to a tweaked [search](Search "Search") and [evaluation](Evaluation "Evaluation"), and an enhanced 60,000 ply [opening book](Opening_Book "Opening Book") with 7,000 variations, Mephisto Almeria was the first released Lang program using a [transposition table](Transposition_Table "Transposition Table"), in total up to 1 MiB of [RAM](Memory#RAM "Memory").
-
-
-
 ## Versions
 
 

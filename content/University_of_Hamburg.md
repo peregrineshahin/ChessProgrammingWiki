@@ -11,27 +11,6 @@ in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), [Germany](https://en.wikipe
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Cluster Toga](Cluster_Toga "Cluster Toga")
-* [GridChess](GridChess "GridChess")
-* [MicroMurks](MicroMurks "MicroMurks")
-* [Murks](Murks "Murks")
-* [N.N.](N.N. "N.N.")
-* [Schach MV 5,6](Schach_MV_5,6 "Schach MV 5,6")
-
-
 ## People
 
 

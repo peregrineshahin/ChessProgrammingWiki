@@ -13,29 +13,6 @@ SPOC stands for **S**elective **P**runing **O**ptimization **C**hess, claiming a
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-	+ [2.1 Awit](#awit)
-	+ [2.2 Ostrich](#ostrich)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-SPOC played the [ACM 1985](ACM_1985 "ACM 1985"), searching about 300 [nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, with a good result versus two Canadian programs where some [repetition](Repetitions "Repetitions") issues occurred, further losing from the third Canadian entry [Phoenix](Phoenix "Phoenix") and from [CHAOS](CHAOS "CHAOS"). 
-
-
-
 ## Selected Games
 
 

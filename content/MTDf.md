@@ -15,67 +15,6 @@ In order to work, MTD(f) needs a *first guess* as to where the minimax value wil
 
 
 
-### Contents
-
-
-* [1 Pascal Pseudo Code](#pascal-pseudo-code)
-* [2 C Pseudo Code](#c-pseudo-code)
-* [3 See Also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1994 ...](#1994-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1997 ...](#1997-...)
-	+ [5.2 2000 ...](#2000-...-2)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...-2)
-	+ [5.5 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Original [Pascal](Pascal "Pascal") pseudo code by [Aske Plaat](Aske_Plaat "Aske Plaat"):
-
-
-
-
-```C++
-
-function MTDF(root : node_type; f : integer; d : integer) : integer;
-      g := f;
-      upperbound := +INFINITY;
-      lowerbound := -INFINITY;
-      repeat
-            if g == lowerbound then beta := g + 1 else beta := g;
-            g := AlphaBetaWithMemory(root, beta - 1, beta, d);
-            if g < beta then upperbound := g else lowerbound := g;
-      until lowerbound >= upperbound;
-      return g;
-
-```
-
-Typically, one would call MTD(f) in an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework, the first guess the value of the previous iteration:
-
-
-
-
-```C++
-
-function iterative_deepening(root : node_type) : integer;
-
-      firstguess := 0;
-      for d = 1 to MAX_SEARCH_DEPTH do
-            firstguess := MTDF(root, firstguess, d);
-            if times_up() then break;
-      return firstguess;
-
-```
-
 ## C Pseudo Code
 
 

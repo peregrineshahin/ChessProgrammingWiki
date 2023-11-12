@@ -21,67 +21,6 @@ As of December 2011, Komodo became commercial with version **4** [[2]](#cite_not
 
 
 
-### Contents
-
-
-* [1 Further Versions](#Further_Versions)
-	+ [1.1 Komodo 5](#Komodo_5)
-	+ [1.2 Komodo 6](#Komodo_6)
-	+ [1.3 Komodo TCEC and 7](#Komodo_TCEC_and_7)
-	+ [1.4 Komodo 8](#Komodo_8)
-	+ [1.5 Komodo 9](#Komodo_9)
-	+ [1.6 Komodo 10](#Komodo_10)
-	+ [1.7 Komodo 11](#Komodo_11)
-	+ [1.8 Komodo 12](#Komodo_12)
-	+ [1.9 Komodo MCTS](#Komodo_MCTS)
-	+ [1.10 Komodo 13](#Komodo_13)
-	+ [1.11 Komodo 14](#Komodo_14)
-	+ [1.12 Dragon](#Dragon)
-* [2 Tournament Play](#Tournament_Play)
-	+ [2.1 TCEC](#TCEC)
-	+ [2.2 WCCC / WCSC / WCRCC](#WCCC_.2F_WCSC_.2F_WCRCC)
-		- [2.2.1 2015](#2015)
-		- [2.2.2 2016](#2016)
-		- [2.2.3 2017](#2017)
-		- [2.2.4 2018](#2018)
-		- [2.2.5 2019](#2019)
-* [3 Quotes](#Quotes)
-	+ [3.1 Promotions](#Promotions)
-	+ [3.2 Evaluation](#Evaluation)
-		- [3.2.1 Centered Point Values](#Centered_Point_Values)
-		- [3.2.2 Quality of Knowledge](#Quality_of_Knowledge)
-	+ [3.3 Lazy Evaluation](#Lazy_Evaluation)
-	+ [3.4 Node Counting](#Node_Counting)
-	+ [3.5 Parallel Search](#Parallel_Search)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-* [6 Forum Posts](#Forum_Posts)
-	+ [6.1 2010](#2010)
-	+ [6.2 2011](#2011)
-	+ [6.3 2012](#2012)
-	+ [6.4 2013](#2013)
-	+ [6.5 2014](#2014)
-	+ [6.6 2015](#2015_2)
-	+ [6.7 2016](#2016_2)
-	+ [6.8 2017](#2017_2)
-	+ [6.9 2018](#2018_2)
-	+ [6.10 2019](#2019_2)
-	+ [6.11 2020](#2020)
-	+ [6.12 Matches](#Matches)
-* [7 External Links](#External_Links)
-	+ [7.1 Chess Engine](#Chess_Engine)
-		- [7.1.1 Purchase](#Purchase)
-		- [7.1.2 Interviews](#Interviews)
-		- [7.1.3 Reports](#Reports)
-		- [7.1.4 Rating Lists](#Rating_Lists)
-	+ [7.2 Misc](#Misc)
-* [8 References](#References)
-
-
-
-
-
-
 ### Komodo 5
 
 

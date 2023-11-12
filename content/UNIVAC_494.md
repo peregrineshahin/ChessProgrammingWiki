@@ -12,24 +12,6 @@ a 30-bit [real-time](https://en.wikipedia.org/wiki/Real-time_computing) mainfram
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Manuals](#manuals)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [David](David "David")
-* [Frantz](Frantz "Frantz")
-
-
 ## See also
 
 

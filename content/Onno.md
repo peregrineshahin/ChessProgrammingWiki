@@ -14,29 +14,6 @@ The 32/64-bit [Windows](Windows "Windows") or 64-bit [Linux](Linux "Linux") exec
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Basics](#basics)
-	+ [1.2 Search](#search)
-		- [1.2.1 Parallel Search](#parallel-search)
-		- [1.2.2 Node Types](#node-types)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2009](#2009)
-	+ [3.2 2010](#2010)
-	+ [3.3 2011 ...](#2011-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
 ### Basics
 
 

@@ -18,30 +18,6 @@ available at [GitHub](https://en.wikipedia.org/wiki/GitHub), compliant to the [C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Move Generation](#move-generation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### [Move Generation](Move_Generation "Move Generation")
 
 

@@ -13,30 +13,6 @@ Chess programs usually need some remaining [depth](Depth "Depth") left from the 
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-* [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal): There are two types of sacrifices: correct ones and mine
-* [Rudolf Spielmann](https://en.wikipedia.org/wiki/Rudolf_Spielmann): A good sacrifice is one that is not necessarily sound but leaves your opponent dazed and confused
-* [Savielly Tartakower](https://en.wikipedia.org/wiki/Savielly_Tartakower): It's always better to sacrifice your opponent's men
-
-
 ## See also
 
 

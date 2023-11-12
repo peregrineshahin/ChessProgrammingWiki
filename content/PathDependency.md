@@ -8,29 +8,6 @@ title: PathDependency
 
 
 
-### Contents
-
-
-* [1 Typical Cases](#typical-cases)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* The position can be treated differently if there is a chance of [repetition](Repetitions "Repetitions") or hitting into a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule").
-* Different [move ordering](Move_Ordering "Move Ordering") can cause different result (different moves causing a cutoff), when it comes from the [hash table](Transposition_Table "Transposition Table") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-* Hf a program uses [search extensions](Extensions "Extensions"), search depth may be different (i.e. 1. d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 vs 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3, where only the latter triggers a [check extension](Check_Extensions "Check Extensions"))
-* History-dependent heuristics, like some versions of [LMR](index.php?title=Late_move_reductions&action=edit&redlink=1 "Late move reductions (page does not exist)") may prune different sub-trees.
-
-
 ## See also
 
 

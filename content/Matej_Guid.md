@@ -13,34 +13,6 @@ His research interests covers computer game-playing (especially chess), automate
 
 
 
-### Contents
-
-
-* [1 Computer Analysis](#computer-analysis)
-* [2 Progressive Chess](#progressive-chess)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2006 ...](#2006-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-	+ [3.4 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Along with [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), Matej Guid 
-[claimed to identify](https://en.wikipedia.org/wiki/Comparison_of_top_chess_players_throughout_history#Matej_Guid_and_Ivan_Bratko) the relative [playing strength](Playing_Strength "Playing Strength")
-of [World Chess Champions](https://en.wikipedia.org/wiki/World_Chess_Championship) by comparing their move choices with chess programs, in particular a modified version of [Crafty](Crafty "Crafty"),
-as published in [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal") in 2006 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>,
-further elaborated with [Aritz Pérez](Aritz_P%C3%A9rez "Aritz Pérez") in 2008 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Progressive Chess
 
 

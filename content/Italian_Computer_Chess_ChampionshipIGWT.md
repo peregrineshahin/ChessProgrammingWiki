@@ -5,56 +5,6 @@ title: Italian Computer Chess ChampionshipIGWT
 
 
 
-### Contents
-
-
-* [1 CIPS](#cips)
-* [2 Chess Computer Cup](#chess-computer-cup)
-* [3 Italian Open Chess Software Cup](#italian-open-chess-software-cup)
-* [4 International Gsei Tournaments](#international-gsei-tournaments)
-* [5 International Gsei Web Tournaments](#international-gsei-web-tournaments)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Campionato Italiano per Programmi Scacchistici (CIPS)
-<a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
-
-
-|  |  Edition
- |  Site
- |  Champion
- |
-| --- | --- | --- | --- |
-|  1st
- | [CIPS 2001](CIPS_2001 "CIPS 2001") | [Pisa](https://en.wikipedia.org/wiki/Pisa) | [Leila](Leila "Leila") |
-|  2nd
- | [CIPS 2002](CIPS_2002 "CIPS 2002") | [Pontedera](https://en.wikipedia.org/wiki/Pontedera) | [Delfi](Delfi "Delfi") |
-|  3rd
- | [CIPS 2003](CIPS_2003 "CIPS 2003") |  Pontedera
- | [Delfi](Delfi "Delfi") |
-|  4th
- | [CIPS 2004](CIPS_2004 "CIPS 2004") | [Rome](https://en.wikipedia.org/wiki/Rome) | [Delfi](Delfi "Delfi") |
-|  5th
- | [CIPS 2005](CIPS_2005 "CIPS 2005") | [Cutro](https://en.wikipedia.org/wiki/Cutro) | [Delfi](Delfi "Delfi") |
-|  6th
- | [CIPS 2006](CIPS_2006 "CIPS 2006") | [Como](https://en.wikipedia.org/wiki/Como) | [Delfi](Delfi "Delfi") |
-|  7th
- | [CIPS 2007](CIPS_2007 "CIPS 2007") | [Bologna](https://en.wikipedia.org/wiki/Bologna) | [Delfi](Delfi "Delfi") |
-
-
-
-
-
-
 ## Chess Computer Cup
 
 

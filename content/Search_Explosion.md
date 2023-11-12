@@ -10,36 +10,6 @@ A **Search Explosion** or node count explosion refers to a huge [effective branc
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Leonid's Positions](#leonid.27s-positions)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Check Extensions](Check_Extensions "Check Extensions")
-* [Extensions](Extensions "Extensions")
-* [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions")
-* [Odd-Even Effect](Odd-Even_Effect "Odd-Even Effect")
-* [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [Search Instability](Search_Instability "Search Instability")
-* [Time Management](Time_Management "Time Management")
-
-
-
-
-
-
 ## Leonid's Positions
 
 

@@ -12,43 +12,6 @@ a [popular science](https://en.wikipedia.org/wiki/Popular_science) magazine, fou
 
 
 
-### Contents
-
-
-* [1 Selected Authors](#selected-authors)
-* [2 Selected Articles](#selected-articles)
-	+ [2.1 1915](#1915)
-	+ [2.2 1950 ...](#1950-...)
-	+ [2.3 1960 ...](#1960-...)
-	+ [2.4 1970 ...](#1970-...)
-	+ [2.5 1980 ...](#1980-...)
-	+ [2.6 1990 ...](#1990-...)
-	+ [2.7 2000 ...](#2000-...)
-	+ [2.8 2010 ...](#2010-...)
-* [3 Online](#online)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman")
-* [Hans Berliner](Hans_Berliner "Hans Berliner")
-* [Alex Bernstein](Alex_Bernstein "Alex Bernstein")
-* [Murray Campbell](Murray_Campbell "Murray Campbell")
-* [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson")
-* [Martin Gardner](Martin_Gardner "Martin Gardner")
-* [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu")
-* [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk")
-* [Simon Portegies Zwart](Simon_Portegies_Zwart "Simon Portegies Zwart")
-* [Michael de V. Roberts](Michael_de_V._Roberts "Michael de V. Roberts")
-* [Claude Shannon](Claude_Shannon "Claude Shannon")
-* [Christopher Strachey](Christopher_Strachey "Christopher Strachey")
-* [Albert Zobrist](Albert_Zobrist "Albert Zobrist")
-
-
 ## Selected Articles
 
 

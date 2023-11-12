@@ -11,37 +11,6 @@ title: Search with Random Leaf Values
 
 
 
-### Contents
-
-
-* [1 The Beal Effect](#the-beal-effect)
-* [2 Setup](#setup)
-* [3 Further Experiments](#further-experiments)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 1985 ...](#1985-...)
-	+ [5.2 1990 ...](#1990-...)
-	+ [5.3 2000 ...](#2000-...)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1990 ...](#1990-...-2)
-	+ [6.2 1995 ...](#1995-...)
-	+ [6.3 2000 ...](#2000-...-2)
-	+ [6.4 2005 ...](#2005-...)
-	+ [6.5 2010 ...](#2010-...)
-	+ [6.6 2015 ...](#2015-...)
-	+ [6.7 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Random evaluation was first examined for the game of chess by [Don Beal](Don_Beal "Don Beal") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Martin C. Smith](Martin_C._Smith "Martin C. Smith") at the [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference at [University of Limburg](Maastricht_University "Maastricht University"), July 1993, published in the [ICCA Journal](ICGA_Journal#17_1 "ICGA Journal") and conference proceedings <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and further analyzed by [Mark Levene](Mark_Levene "Mark Levene") and [Trevor Fenner](Trevor_Fenner "Trevor Fenner") in 1995 <a id="cite-note-4" href="#cite-ref-4">[4]</a> and 2001 <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Although using [random numbers](https://en.wikipedia.org/wiki/Random_number) as "evaluation" results in random play with a one [ply](Ply "Ply") [search](Search "Search") (root-random), it was found that the [strength of play](Playing_Strength "Playing Strength") rises rapidly with increased [depth](Depth "Depth") (lookahead-random) using a full-width [minimax](Minimax "Minimax") search. While a natural assumption is that lookahead on random numbers would also result in a random choice at the [root](Root "Root") as well, random evaluation would create a statistical preference for positions with large [mobilty](Mobility "Mobility"), and thus likely strong [material](Material "Material") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Setup
 
 

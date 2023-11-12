@@ -17,24 +17,6 @@ For some years, Ingo Bauer maintained the [IPON](IPON "IPON") [rating list](Engi
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WCCC 2015](#wccc-2015)
-	+ [1.2 WCSC 2015](#wcsc-2015)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### WCCC 2015
 
 

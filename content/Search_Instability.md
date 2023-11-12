@@ -12,28 +12,6 @@ a search phenomenon in [alpha-beta](Alpha-Beta "Alpha-Beta") and enhancements, w
 
 
 
-### Contents
-
-
-* [1 Pragmatism](#pragmatism)
-* [2 Quotes](#quotes)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1994 ...](#1994-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Some programmers abandon aspiration windows <a id="cite-note-2" href="#cite-ref-2">[2]</a> , while others don't immediately return from a [PV-nodes](Node_Types#PV "Node Types") in case of sufficient [exact](Exact_Score "Exact Score") hits from transposition table <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Quotes
 
 

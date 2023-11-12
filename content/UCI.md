@@ -10,40 +10,6 @@ an open [communication protocol](https://en.wikipedia.org/wiki/Communication_pro
 
 
 
-### Contents
-
-
-* [1 Design Philosophy](#Design_Philosophy)
-* [2 Critique](#Critique)
-	+ [2.1 Contra](#Contra)
-	+ [2.2 Pro](#Pro)
-* [3 Engines](#Engines)
-* [4 GUIs](#GUIs)
-* [5 CLIs](#CLIs)
-* [6 Utilities](#Utilities)
-* [7 See also](#See_also)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 2000 ...](#2000_...)
-	+ [8.2 2005 ...](#2005_...)
-	+ [8.3 2010 ...](#2010_...)
-	+ [8.4 2015 ...](#2015_...)
-	+ [8.5 2020 ...](#2020_...)
-* [9 External Links](#External_Links)
-	+ [9.1 Interviews](#Interviews)
-	+ [9.2 Implementations](#Implementations)
-	+ [9.3 JavaScript](#JavaScript)
-* [10 Video Tutorials](#Video_Tutorials)
-* [11 References](#References)
-
-
-
-
-
-
-The UCI capable [GUI](GUI "GUI") is not only View and Controller of a chess [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), but also keeps the Model with its internal [game states](Chess_Game "Chess Game"). It is also an "arbiter" instance to decide about the outcome of the game, for instance in declaring a game to be drawn after a [threefold repetition](Repetitions "Repetitions") has occurred. The UCI GUI may choose and play moves from an [opening book](Opening_Book "Opening Book") and [endgame tablebase](Endgame_Tablebases "Endgame Tablebases").
-
-
-
 ## Critique
 
 

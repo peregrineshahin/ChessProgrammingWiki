@@ -12,23 +12,6 @@ an American computer scientist, programmer, consultant and author of books on [A
 
 
 
-### Contents
-
-
-* [1 Go and Chess](#go-and-chess)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Mark Watson is an avid Chess and [Go](Go "Go") player, and wrote the first commercial Go playing program, *Honninbo Warrior* for the [Apple II](Apple_II "Apple II") in the late 1970s <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He also wrote the free [Basic](Basic "Basic") chess program, [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") distributed on their Apple II demo cassette tape <a id="cite-note-3" href="#cite-ref-3">[3]</a>. [Mark Watson Chess](Mark_Watson_Chess "Mark Watson Chess") participated at the [Second West Coast Computer Faire Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") in March 1978 in the class C section <a id="cite-note-4" href="#cite-ref-4">[4]</a>. His [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") [programming](Programming "Programming") with [Java](Java "Java") textbook <a id="cite-note-5" href="#cite-ref-5">[5]</a>, accompanied with an associated [GitHub](https://en.wikipedia.org/wiki/GitHub) source code repository <a id="cite-note-6" href="#cite-ref-6">[6]</a>, comes with a Java chess program skeleton <a id="cite-note-7" href="#cite-ref-7">[7]</a> and much more AI-topics under the [Apache 2.0 License](https://en.wikipedia.org/wiki/Apache_License) or under the [GNU Lesser General Public License 3](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Selected Publications
 
 

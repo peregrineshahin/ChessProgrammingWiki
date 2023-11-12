@@ -10,30 +10,6 @@ title: University of Alberta
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 Internet Collegiate Chess League](#internet-collegiate-chess-league)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [Abyss](Abyss "Abyss") ([Chinese Chess](Chinese_Chess "Chinese Chess"))
-* [Awit](Awit "Awit")
-* [Faile](Faile "Faile")
-* [Parabelle](Parabelle "Parabelle")
-* [Phoenix](Phoenix "Phoenix")
-* [The Turk](The_Turk "The Turk")
-
-
 ## People
 
 

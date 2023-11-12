@@ -15,26 +15,6 @@ a set of [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 
 
 
-### Contents
-
-
-* [1 Improvements](#improvements)
-* [2 Versions](#versions)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Improvements of the Mephisto Lyon over the Portorose were due to an enhanced [selective](Selectivity "Selectivity") [search](Search "Search") with narrower but deeper [search trees](Search_Tree "Search Tree"), the application of [singular extensions](Singular_Extensions "Singular Extensions"), and [capture extensions](Capture_Extensions "Capture Extensions") if entering the [pawn endgame](Pawn_Endgame "Pawn Endgame"). Further, Mephisto Lyon has more knowledge to distinguish strong versus weak [passed pawns](Passed_Pawn "Passed Pawn"), and the [opening book](Opening_Book "Opening Book") was further extended to more than 100,000 moves within 13,000 variations <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Versions
 
 

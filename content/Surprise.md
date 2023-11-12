@@ -12,27 +12,6 @@ a [WinBoard](WinBoard "WinBoard") chess engine by [Sven Schüle](Sven_Sch%C3%BCl
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2004](#2004)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Jumbo](Jumbo "Jumbo")
-* [KnockOut](KnockOut "KnockOut")
-
-
 ## Forum Posts
 
 

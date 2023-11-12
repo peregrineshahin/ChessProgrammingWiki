@@ -15,28 +15,6 @@ engine and GUI compatible with the [Chess Engine Communication Protocol](Chess_E
 
 
 
-### Contents
-
-
-* [1 3D Board](#3d-board)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.naddei.it/uragano_3d/) 
-Uragano 3D board <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Games
 
 

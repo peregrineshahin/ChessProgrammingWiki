@@ -15,36 +15,6 @@ Inspired by the [rote learning](https://en.wikipedia.org/wiki/Rote_learning) as 
 
 
 
-### Contents
-
-
-* [1 Learning in Mouse](#learning-in-mouse)
-	+ [1.1 Transposition Table](#transposition-table)
-	+ [1.2 Algorithm](#algorithm)
-* [2 Learning in Bebe](#learning-in-bebe)
-	+ [2.1 Short Term Memory](#short-term-memory)
-	+ [2.2 Long Term Memory](#long-term-memory)
-	+ [2.3 Algorithm](#algorithm-2)
-* [3 Position Learning in Crafty](#position-learning-in-crafty)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1990 ...](#1990-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Slate's simple [brute-force](Brute-Force "Brute-Force") program *Mouse*, a [depth-first](Depth-First "Depth-First"), full-width [iterated](Iterative_Deepening "Iterative Deepening") [alpha-beta](Alpha-Beta "Alpha-Beta") searcher with an [evaluation](Evaluation "Evaluation") purely based on [material](Material "Material") was used as a learning [testbed](https://en.wikipedia.org/wiki/Testbed), only remembering positions where a significant [score](Score "Score") drop occurred at the root. 
-
-
-
 ### Transposition Table
 
 

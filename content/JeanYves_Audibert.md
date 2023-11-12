@@ -12,24 +12,6 @@ a French statistician, computer scientist, and lecturer at [École Normale Supé
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2004 ...](#2004-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 2004 ...
 
 

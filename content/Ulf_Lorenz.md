@@ -12,31 +12,6 @@ a German computer scientist and professor at the faculty of [business administra
 
 
 
-### Contents
-
-
-* [1 Paderborn](#paderborn)
-	+ [1.1 Chess Programs](#chess-programs)
-	+ [1.2 IPCCC](#ipccc)
-* [2 Darmstadt](#darmstadt)
-* [3 Photos](#photos)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1992 ...](#1992-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Until 2007, Ulf Lorenz was member of the research group of [Burkhard Monien](Burkhard_Monien "Burkhard Monien") at the [Paderborn University](Paderborn_University "Paderborn University"), where he researched on computer chess and in particular on [search algorithms](Search "Search"). He created the [Parallel Controlled Conspiracy Number Search](Conspiracy_Number_Search#PCCNS "Conspiracy Number Search") algorithm, topic of his Ph.D. thesis <a id="cite-note-3" href="#cite-ref-3">[3]</a>, also practically confirmed inside his unique chess program [P.ConNerS](P.ConNerS "P.ConNerS").
-
-
-
 ### Chess Programs
 
 

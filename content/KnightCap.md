@@ -13,31 +13,6 @@ To [tune](Automated_Tuning "Automated Tuning") it's [evaluation](Evaluation "Eva
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-		- [1.3.1 Conventional](#conventional)
-		- [1.3.2 TD Considerations](#td-considerations)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1997 ...](#1997-...)
-	+ [4.2 2000 ...](#2000-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1997 ...](#1997-...-2)
-	+ [5.2 2000 ...](#2000-...-2)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

@@ -14,24 +14,6 @@ he contributed to the engine by working on the interface code and various speedu
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.quarkchess.de/csvn2001/body_index.html) 
-Marcel Veldhuizen and [Johan Hutting](index.php?title=Johan_Hutting&action=edit&redlink=1 "Johan Hutting (page does not exist)"), team [31337/Celes](Celes "Celes") at [ICT 2001](ICT_2001 "ICT 2001") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

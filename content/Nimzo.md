@@ -12,36 +12,6 @@ a chess program by primary developer [Chrilly Donninger](Chrilly_Donninger "Chri
 
 
 
-### Contents
-
-
-* [1 Guernica](#guernica)
-* [2 Photos & Games](#photos-.26-games)
-* [3 Nimzo-3](#nimzo-3)
-* [4 CHE](#che)
-* [5 Commerce](#commerce)
-* [6 Description](#description)
-* [7 Forward Pruning in Nimzo 2.2.1](#forward-pruning-in-nimzo-2.2.1)
-* [8 See also](#see-also)
-* [9 Publications](#publications)
-* [10 Forum Posts](#forum-posts)
-	+ [10.1 1996 ...](#1996-...)
-	+ [10.2 2000 ...](#2000-...)
-* [11 External Links](#external-links)
-	+ [11.1 Chess Engine](#chess-engine)
-	+ [11.2 Misc](#misc)
-* [12 References](#references)
-
-
-
-
-
-
-[_julesvernex2.jpg)
-[Mural](https://en.wikipedia.org/wiki/Mural) of the painting [Guernica](https://en.wikipedia.org/wiki/Guernica_(Picasso)) by [Pablo Picasso](Category:Pablo_Picasso "Category:Pablo Picasso") made in tiles and full size <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Photos & Games
 
 

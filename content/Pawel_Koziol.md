@@ -13,22 +13,6 @@ Pawel Koziol has contributed to the [Chess Programming Wiki](Home "Home") mainly
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2007 ...](#2007-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-	+ [1.4 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2007 ...
 
 

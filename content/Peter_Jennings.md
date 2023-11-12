@@ -12,25 +12,6 @@ a Canadian (born in England) <a id="cite-note-2" href="#cite-ref-2">[2]</a> phys
 
 
 
-### Contents
-
-
-* [1 Chess](#chess)
-* [2 VisiCalc](#visicalc)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Peter Jennings is author of the first commercially successful chess program for microcomputers in 1976, [MicroChess](MicroChess "MicroChess") for the [KIM-1](KIM-1 "KIM-1") [6502](6502 "6502")-based microcomputer <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In 1977 MicroChess was ported to [8080](8080 "8080")/[Z80](Z80 "Z80")-based microcomputers <a id="cite-note-5" href="#cite-ref-5">[5]</a>, such as the [TRS-80](TRS-80 "TRS-80") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Based on MicroChess 1.5, Jennings further created the programs for the [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") [6504](6502 "6502") based [Commodore ChessMate](Commodore_ChessMate "Commodore ChessMate") (1978) and [Novag](Novag "Novag") [Chess Champion MK II](Chess_Champion_MK_II "Chess Champion MK II") (1979) <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## VisiCalc
 
 

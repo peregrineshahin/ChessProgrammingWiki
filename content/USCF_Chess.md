@@ -12,23 +12,6 @@ a commercial chess program running under [Windows 98](Windows "Windows") release
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Power Chess](Power_Chess "Power Chess")
-* [WChess](WChess "WChess")
-
-
 ## Forum Posts
 
 

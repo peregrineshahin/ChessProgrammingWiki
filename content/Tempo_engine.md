@@ -12,24 +12,6 @@ an experimental chess engine developed by [Mathieu Autonès](index.php?title=Mat
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Abstract](#abstract)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Tempo](Tempo "Tempo")
-
-
 ## Publications
 
 

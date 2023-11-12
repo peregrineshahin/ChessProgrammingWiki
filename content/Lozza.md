@@ -11,30 +11,6 @@ To play a [game of chess](Chess_Game "Chess Game") or to analyze a [position](Ch
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2014](#2014)
-	+ [2.2 2015 ...](#2015-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Lozza UI](#lozza-ui)
-	+ [3.3 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Lozza [represents the board](Board_Representation "Board Representation") using a 12x12 [mailbox](Mailbox "Mailbox") [array](Array "Array") and [lists](Piece-Lists "Piece-Lists") of white and black [pieces](Pieces "Pieces"). 
-The [principal variation search](Principal_Variation_Search "Principal Variation Search") inside the classical [iterative deepening](Iterative_Deepening "Iterative Deepening") framework features a [transposition table](Transposition_Table "Transposition Table") indexed by [Zobrist keys](Zobrist_Hashing "Zobrist Hashing") and state of the art [selectivity](Selectivity "Selectivity"), amongst others [null move pruning](Null_Move_Pruning "Null Move Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), and [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"). It has implemented the [simplified evaluation function](Simplified_Evaluation_Function "Simplified Evaluation Function") by [Tomasz Michniewski](Tomasz_Michniewski "Tomasz Michniewski") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Forum Posts
 
 

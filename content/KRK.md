@@ -22,36 +22,6 @@ the [King](King "King") and [Rook](Rook "Rook") versus King endgame is beside KQ
  |
 
 
-### Contents
-
-
-* [1 Heuristics](#heuristics)
-* [2 Testbed](#testbed)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1914](#1914)
-	+ [4.2 1960 ...](#1960-...)
-	+ [4.3 1970 ...](#1970-...)
-	+ [4.4 1980 ...](#1980-...)
-	+ [4.5 1990 ...](#1990-...)
-	+ [4.6 2000 ...](#2000-...)
-	+ [4.7 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Simple heuristics of a [mop-up evaluation](Mop-up_Evaluation "Mop-up Evaluation") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, only considering [Center Manhattan-distance](Center_Manhattan-Distance "Center Manhattan-Distance") of the losing king, and [Chebyshev distance](Distance "Distance") and/or [Manhattan distance](Manhattan-Distance "Manhattan-Distance") between both kings, along with a tiny [search](Search "Search"), should be sufficient to execute the mate. Further, the rook may receive a bonus to maximize the absolute difference of its [rank-](Ranks#RankDistance "Ranks") and [file-distances](Files#FileDistance "Files") to the losing king, to confine the king without becoming attacked. 
-
-
-Despite todays engines have no difficulty to win this easily even without [tablebases](Endgame_Tablebases "Endgame Tablebases"), deviation from optimal tablebase play, in particular in games with short time control, and most compact and efficient code considering symptoms of [search pathology](Search_Pathology "Search Pathology") remain interesting issues <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Testbed
 
 

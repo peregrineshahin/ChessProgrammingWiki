@@ -12,28 +12,6 @@ a former commercial chess program <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Tournaments](#tournaments)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Kallisto's [MS-DOS](MS-DOS "MS-DOS") [GUI](GUI "GUI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Tournaments
 
 

@@ -11,26 +11,6 @@ Much was written in [C](C "C"), and run on a [Sun-4](Sun#4 "Sun") [workstation](
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 Description](#description)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen")
-* [Harry Nefkens](Harry_Nefkens "Harry Nefkens")
-* [Tom Pronk](Tom_Pronk "Tom Pronk")
-* [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
-
-
 ## Description
 
 

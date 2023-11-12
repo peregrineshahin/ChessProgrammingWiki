@@ -14,25 +14,6 @@ Along with [David Forthoffer](David_Forthoffer "David Forthoffer") and [Lars Ras
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External LInks](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:PionTeam.jpg) 
-[Pion](Pion "Pion") team: <?>, [Jan Derksen](Jan_Derksen "Jan Derksen"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Harry Nefkens](Harry_Nefkens "Harry Nefkens") (center), [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen")   
-back of head of Sito Dekker sitting in front of the board <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

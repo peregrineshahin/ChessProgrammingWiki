@@ -12,26 +12,6 @@ a [multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Support_fo
 
 
 
-### Contents
-
-
-* [1 Chess Engines](#chess-engines)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2014 ...](#2014-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-	+ [3.1 General Purpose](#general-purpose)
-	+ [3.2 Chess](#chess)
-* [4 References](#references)
-
-
-
-
-
-
-* [Category Rust](Category:Rust "Category:Rust")
-
-
 ## Forum Posts
 
 

@@ -15,38 +15,6 @@ Pulse is a simple chess engine with didactic intentions in mind. The source code
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Only a couple of basic chess engine features are implemented to keep the source code clean and readable <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [Board Representation](Board_Representation "Board Representation")
-	+ [0x88](0x88 "0x88")
-	+ [Pseudo-Legal](Pseudo-Legal_Move "Pseudo-Legal Move") [Move Generation](Move_Generation "Move Generation")
-* [Search](Search "Search")
-	+ [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-	+ [Alpha-Beta](Alpha-Beta "Alpha-Beta")
-	+ [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [Evaluation](Evaluation "Evaluation")
-	+ [Material](Material "Material")
-	+ [Mobility](Mobility "Mobility")
-
-
 ## See also
 
 

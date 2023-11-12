@@ -15,33 +15,6 @@ and more recently with [Ryan Hayward](Ryan_Hayward "Ryan Hayward") on the game o
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1989](#1989)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 1995 ...](#1995-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2005 ...](#2005-...)
-	+ [2.6 2010 ...](#2010-...)
-	+ [2.7 2015 ...](#2015-...)
-	+ [2.8 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Martin Müller is co-author of two successful Go programs. The veteran program [Explorer](https://www.game-ai-forum.org/icga-tournaments/program.php?id=144) was developed along with [Anders Kierulf](Anders_Kierulf "Anders Kierulf") and [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen") and played eight [Computer Olympiads](Computer_Olympiad "Computer Olympiad") from 1989 until 2005, two times winning Gold medals. His new program [Fuego](https://www.game-ai-forum.org/icga-tournaments/program.php?id=535) <a id="cite-note-3" href="#cite-ref-3">[3]</a> , co-authored by [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Richard Segal](index.php?title=Richard_Segal&action=edit&redlink=1 "Richard Segal (page does not exist)"), [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") and [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)") (since 2010), won the Gold medal at the [14th Computer Olympia in 9x9 Go](14th_Computer_Olympiad#Go9x9 "14th Computer Olympiad"), as well the Silver medal in [19x19 Go](14th_Computer_Olympiad#Go "14th Computer Olympiad")
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>. He has further competed in [Amazons](Amazons "Amazons") and is member of the [Wolve](https://www.game-ai-forum.org/icga-tournaments/program.php?id=135) team in [Hex](Hex "Hex").
-
-
-
 ## Selected Publications
 
 

@@ -13,24 +13,6 @@ a German computer scientist with a Ph.D. on *The Characterization of Chance and 
 
 
 
-### Contents
-
-
-* [1 Monte-Carlo and UCT](#monte-carlo-and-uct)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") and [UCT](UCT "UCT") poster by Jakob Erdmann <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
- [](http://www.althofer.de/lange-nacht-jena.html) 
 ## Selected Publications
 
 

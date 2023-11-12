@@ -11,21 +11,6 @@ a Dutch computer chess expert, who published and maintained interesting chess <a
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Re: futility pruning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=59315&start=11) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), March 11, 2016 » [Futility Pruning](Futility_Pruning "Futility Pruning"), [Vector Attacks](Vector_Attacks "Vector Attacks"), [0x88](0x88 "0x88")
-
-
 ## External Links
 
 

@@ -15,26 +15,6 @@ He operated MChess during the [15th World Microcomputer Chess Championship](WMCC
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:WMCCC1995Winners.jpg) 
-A Tropism towards Trophies, [WMCCC 1995](WMCCC_1995 "WMCCC 1995"). The professional trophy awarded to [Chess Genius](Chess_Genius "Chess Genius") by [Richard Lang](Richard_Lang "Richard Lang"),   
-
-the absolute World Champion, [MChess Pro 5.0](MChess "MChess") represented by Peter Schreiner <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

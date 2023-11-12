@@ -13,29 +13,6 @@ More recently, Tom contributed to the [Stockfish](Stockfish "Stockfish") develop
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/gallery21.html) 
-[Bart Weststrate](Bart_Weststrate "Bart Weststrate"), ..., Tom Vijlbrief, [Hans Secelle](Hans_Secelle "Hans Secelle"), [DOCCC 2004](DOCCC_2004 "DOCCC 2004") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](http://www.csvn.nl/index.php?option=com_content&view=article&id=430%3Afotogalerij-7&catid=54%3Afotogalerij&Itemid=61&lang=en) 
-[Amir Ban](Amir_Ban "Amir Ban"), Tom, [Hans](Hans_Secelle "Hans Secelle"), [Gerd](Gerd_Isenberg "Gerd Isenberg"), Anke, [DOCCC 2007](DOCCC_2007 "DOCCC 2007") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Forum Posts
 
 

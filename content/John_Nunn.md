@@ -18,36 +18,6 @@ In 2013 <a id="cite-note-7" href="#cite-ref-7">[7]</a>, Nunn applied the 7-piece
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Games](#selected-games)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1978 ...](#1978-...)
-	+ [3.2 1980 ...](#1980-...)
-	+ [3.3 1990 ...](#1990-...)
-	+ [3.4 2000 ...](#2000-...)
-	+ [3.5 2010 ...](#2010-...)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 ChessBase](#chessbase)
-		- [5.1.1 2004 ...](#2004-...)
-		- [5.1.2 2010 ...](#2010-...-2)
-		- [5.1.3 2015 ...](#2015-...)
-	+ [5.2 Chess24](#chess24)
-* [6 References](#references)
-
-
-
-
-
-
-[
-The English team in [Dubai 1986](https://en.wikipedia.org/wiki/27th_Chess_Olympiad) ([Jonathan Speelman](https://en.wikipedia.org/wiki/Jonathan_Speelman), [Nigel Short](https://en.wikipedia.org/wiki/Nigel_Short), John Nunn, [Tony Miles](https://en.wikipedia.org/wiki/Tony_Miles)) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
 ## Selected Games
 
 

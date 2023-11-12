@@ -12,29 +12,6 @@ title: Piece Recognition
 
 
 
-### Contents
-
-
-* [1 Computer Vision](#computer-vision)
-* [2 Piece Recognition Boards](#piece-recognition-boards)
-* [3 Selected Systems](#selected-systems)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 2000 ...](#2000-...)
-	+ [5.2 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- Piece recognition is an interesting topic in [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [machine learning](Learning "Learning") and [pattern recognition](Pattern_Recognition "Pattern Recognition") using one or more [cameras](https://en.wikipedia.org/wiki/Camera) along with [digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing) and [object recognition](https://en.wikipedia.org/wiki/Outline_of_object_recognition), more recently supported by [deep learning](Deep_Learning "Deep Learning") techniques as demonstrated by [Daylen Yang](Daylen_Yang "Daylen Yang") with his *Chess ID* project <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and by [Richard Allbert](Richard_Allbert "Richard Allbert") with [Vice](Vice "Vice") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Piece Recognition Boards
 
 

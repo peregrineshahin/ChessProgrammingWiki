@@ -15,54 +15,6 @@ At [ICGA](ICGA "ICGA") [Computer Olympiads](Computer_Olympiad "Computer Olympiad
 
 
 
-### Contents
-
-
-* [1 XieXie's ICGA Tournaments](#xiexie.27s-icga-tournaments)
-* [2 Photos](#photos)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-
-
-|  Edition
- |  Ranking
- |  Participants
- |
-| --- | --- | --- |
-| [7th Computer Olympiad, Maastricht 2002](7th_Computer_Olympiad#ChineseChess "7th Computer Olympiad") |  3
- |  4
- |
-| [8th Computer Olympiad, Graz 2003](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad") |  2
- |  5
- |
-| [10th Computer Olympiad, Taipei 2005](10th_Computer_Olympiad#ChineseChess "10th Computer Olympiad") |  6
- |  14
- |
-| [11th Computer Olympiad, Turin 2006](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad") |  4
- |  5
- |
-| [12th Computer Olympiad, Amsterdam 2007](12th_Computer_Olympiad#ChineseChess "12th Computer Olympiad") |  3
- |  5
- |
-| [18th Computer Olympiad, Leiden 2015](18th_Computer_Olympiad#ChineseChess "18th Computer Olympiad") |  4
- |  6
- |
-| [19th Computer Olympiad, Leiden 2016](19th_Computer_Olympiad#ChineseChess "19th Computer Olympiad") |  2
- |  4
- |
-| [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#ChineseChess "20th Computer Olympiad") |  3
- |  5
- |
-
-
 ## Photos
 
 

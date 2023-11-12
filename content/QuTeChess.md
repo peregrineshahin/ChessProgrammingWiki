@@ -12,27 +12,6 @@ It reflects the author's dealings with Qt to implement UCI and [CLI](CLI "CLI") 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-QuTeChess is quasi [bitboard](Bitboards "Bitboards") based using [Tinker's](Tinker "Tinker") [approach](Sliding_Piece_Attacks#Tinker.27s_Approach "Sliding Piece Attacks") in [move generation](Move_Generation "Move Generation") of [sliding pieces](Sliding_Pieces "Sliding Pieces"). 
-Based on the [serialization](Bitboard_Serialization "Bitboard Serialization") of attacks on the otherwise empty board, it tests for [pseudo legality](Pseudo-Legal_Move "Pseudo-Legal Move") by looking whether squares [between](Square_Attacked_By#InBetween "Square Attacked By") [origin](Origin_Square "Origin Square") and [target](Target_Square "Target Square") are empty.
-Its [search](Search "Search") is plain [alpha-beta](Alpha-Beta "Alpha-Beta") without [transposition table](Transposition_Table "Transposition Table") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") loop. 
-The availability of *changegenes.cpp* suggests QuTeChess' 
-[piece values](Point_Value "Point Value") and a few random [evaluation](Evaluation "Evaluation") features could be [tuned](Automated_Tuning "Automated Tuning") by an [evolutionary computation](Genetic_Programming#EvolutionaryComputation "Genetic Programming") approach of [differential evolution](https://en.wikipedia.org/wiki/Differential_evolution) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Forum Posts
 
 

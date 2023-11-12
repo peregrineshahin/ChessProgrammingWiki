@@ -10,26 +10,6 @@ the first chess program by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") 
 
 
 
-### Contents
-
-
-* [1 SciSys & CXG](#scisys-.26-cxg)
-* [2 Lexibook](#lexibook)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-As 4K [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") program, LogiChess was ported to the [6800](6800 "6800") instruction set compatible [Hitachi](https://en.wikipedia.org/wiki/Hitachi_Ltd.) [HD6301V1](6800#6301 "6800") and Newcrest 6301 8-bit controllers. It was sold in approximately 200.000 units <a id="cite-note-3" href="#cite-ref-3">[3]</a> from [SciSys](Saitek "Saitek") as [SciSys Explorer](SciSys_Explorer "SciSys Explorer"), [SciSys Concord II](SciSys_Explorer#Concord "SciSys Explorer") and [SciSys Companion II](SciSys_Explorer#Companion "SciSys Explorer"), and from [RadioShack](https://en.wikipedia.org/wiki/RadioShack) as *Tandy 1650* <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Another 4K <a id="cite-note-5" href="#cite-ref-5">[5]</a> branch was realized for [Newcrest Technology](Newcrest_Technology "Newcrest Technology"), for the [CXG Computachess III](CXG_Sensor_Computachess#III "CXG Sensor Computachess") in 1984 <a id="cite-note-6" href="#cite-ref-6">[6]</a>, as well inside the [CXG Star Chess](CXG_Star_Chess "CXG Star Chess") of 1985 <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. According to its author, LogiChess is still the strongest 4K chess computer in the world <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
-
-
-
 ## Lexibook
 
 

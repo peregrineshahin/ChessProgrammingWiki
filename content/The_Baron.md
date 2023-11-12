@@ -12,36 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Tournaments](#tournaments)
-* [3 Chess960](#chess960)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2001](#2001)
-	+ [5.2 2002](#2002)
-	+ [5.3 2003](#2003)
-	+ [5.4 2004](#2004)
-	+ [5.5 2005 ...](#2005-...)
-	+ [5.6 2010 ...](#2010-...)
-	+ [5.7 2015 ...](#2015-...)
-* [6 External Links](#external-links)
-	+ [6.1 The Baron](#the-baron)
-	+ [6.2 Name Ancestors](#name-ancestors)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) 
-[Richard Pijl](Richard_Pijl "Richard Pijl") operating The Baron versus [Peter Svidler](https://en.wikipedia.org/wiki/Peter_Svidler), Chess Classic Mainz 2005 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Tournaments
 
 

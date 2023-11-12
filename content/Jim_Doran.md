@@ -14,27 +14,6 @@ During the 60s he became specialist in AI at the [University of Edinburgh](Unive
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Biography](#biography)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1966 ...](#1966-...)
-	+ [3.2 2000 ...](#2000-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.aiai.ed.ac.uk/events/ccs2002/CCS-early-british-ai-2.jpg) 
-[Austin Tate](Mathematician#ATate "Mathematician"), Jim Doran, [Aaron Sloman](Mathematician#ASloman "Mathematician") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Biography
 
 

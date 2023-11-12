@@ -10,31 +10,6 @@ title: MMX
 
 
 
-### Contents
-
-
-* [1 Register File](#register-file)
-* [2 MMX and 64-bit Windows](#mmx-and-64-bit-windows)
-* [3 Applications](#applications)
-	+ [3.1 East Fill](#east-fill)
-	+ [3.2 MMX Popcount](#mmx-popcount)
-* [4 See also](#see-also)
-* [5 Manuals](#manuals)
-	+ [5.1 Intel](#intel)
-	+ [5.2 AMD](#amd)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-MMX uses eight 64-bit registers **MM0** through **MM7**, treated each as vector of eight [bytes](Byte "Byte"), four [words](Word "Word"), two [double words](Double_Word "Double Word") or one [quad word](Quad_Word "Quad Word"). The eight registers were aliased for the existing [x87](https://en.wikipedia.org/wiki/X87) FPU stack registers, and are therefor implicitly saved and restored during [context switch](https://en.wikipedia.org/wiki/Context_switch) in existing operating systems. The drawback is, it is somewhat difficult to work with x87 floating point and MMX data in the same application, since the original [emms-instruction](http://msdn.microsoft.com/en-us/library/590b9ks9%28v=VS.100%29.aspx) to switch the register file was relatively slow.
-
-
-
 ## MMX and 64-bit Windows
 
 

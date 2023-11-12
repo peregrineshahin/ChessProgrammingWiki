@@ -12,59 +12,6 @@ was a Norwegian-Italian [psychologist](Category:Psychologist "Category:Psycholog
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Barricellian Symbioorganisms](#barricellian-symbioorganisms)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[Alex Bell](Alex_Bell "Alex Bell"), in 1962 at [Manchester University](University_of_Manchester "University of Manchester"), writes on his early collaboration with Barricelli <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-In 1954 Professor Nils Barricelli was visiting [Princeton University](https://en.wikipedia.org/wiki/Princeton_University). The University was then a leader in the new field of computing mainly due to the presence of [von Neumann](John_von_Neumann "John von Neumann") and his development of the (amongst others) [MANIAC](MANIAC_I "MANIAC I") machines.
-
-```
-
-
-```C++
-In a discussion with [Reuben Fine](https://en.wikipedia.org/wiki/Reuben_Fine), the well-known Grandmaster and psychologist, Barricelli said that he intended to program a machine in order to beat Fine in chess. Professor Fine replied that he was sure the machine would play a poor game. Whereupon we asked von Neumann of his opinion. He agreed with Professor Fine on the grounds that the machine was not even capable of translating from a foreign language into a decent English. I think that was a poor argument, but that was anyhow his opinion. 
-
-```
-
-
-```C++
-In 1962 Barricelli arrived at [Manchester University](University_of_Manchester "University of Manchester") in order to use the [Atlas computer](https://en.wikipedia.org/wiki/Atlas_Computer_%28Manchester%29), a machine with many new features and probably, at the time, the most powerful computer in the world. His intention was to write a chess program which would be used to study certain theories of evolution. I was at Manchester at the time having just finished a year of computer research. Having also just got married I had turned my attention to the mundane problems of earning a living and was told that a Dr. Barry Chelly was looking for someone to write a chess program for Atlas. My first job ever was to help write a list legal moves generator for any chess position on a machine which was barely operational.
-
-```
-
-
-```C++
-[Cooper](Dennis_Cooper "Dennis Cooper") and [Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki") have remarked that chess will persist, for the problem is so exciting that once a programmer gets involved there is virtually no way he can be stopped. Personally I do not agree but I do remember that working with Barricelli was an interesting experience which definitely sold me on a career in computing although Manchester was an exciting place for computer users in almost any subject at the time.
-
-```
-
-
-```C++
-The legal-move generator had to be as fast as possible because it would be used by symbio-organisms - numerical patterns in the machine which could reproduce and mutate - to test evolutionary theories. In order to survive and grow these organisms had to learn how to play chess; this was their test in their battle for survival. 
-
-```
-
-
-
-
-
 ## Barricellian Symbioorganisms
 
 

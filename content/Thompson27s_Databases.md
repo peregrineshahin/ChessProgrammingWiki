@@ -12,31 +12,6 @@ a set of up to 5-men and pawnless 6-man databases created by [Ken Thompson](Ken_
 
 
 
-### Contents
-
-
-* [1 Four CDs](#four-cds)
-* [2 Issues](#issues)
-* [3 Index Scheme](#index-scheme)
-* [4 Applications](#applications)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-	+ [6.1 1986 ...](#1986-...)
-	+ [6.2 1990 ...](#1990-...)
-	+ [6.3 2000 ...](#2000-...)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-As soon as [CD-ROM](https://en.wikipedia.org/wiki/CD-ROM) technology became affordable, Thompson made his entire set of 5-men databases publicly available on 4 CDs, starting in 1991, containing a compressed, [Huffman-encoded](https://en.wikipedia.org/wiki/Huffman_coding) [file](https://en.wikipedia.org/wiki/Computer_file) for each material configuration where the materially weaker and hence potentially losing side enjoys the right to move. 
-
-
-
 ## Issues
 
 

@@ -14,29 +14,6 @@ and provides a [CMake](https://en.wikipedia.org/wiki/CMake) implementation to ta
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Quote](#quote)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-The program features a [principal variation search](Principal_Variation_Search "Principal Variation Search") with [transposition table](Transposition_Table "Transposition Table"), and a basic [material](Material "Material") and [mobility](Mobility "Mobility") [evaluation](Evaluation "Evaluation"), considering [middlegame](Middlegame "Middlegame") and [endgame](Endgame "Endgame") [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [tapered](Tapered_Eval "Tapered Eval") by current [game stage](Game_Phases "Game Phases"). 
-The [board is represented](Board_Representation "Board Representation") as [array](Array "Array") of 64 [pointers](https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29) to [piece](Pieces "Pieces") [objects](https://en.wikipedia.org/wiki/Object_%28computer_science%29). A piece is an [abstract class](https://en.wikipedia.org/wiki/Abstract_type) with [pure virtual](https://en.wikipedia.org/wiki/Virtual_function#Abstract_classes_and_pure_virtual_functions) *PieceValue* and *GenerateMoves* methods, 
-implemented in the concrete, derived piece classes including NoPiece for empty squares. 
-
-
-
 ## Quote
 
 

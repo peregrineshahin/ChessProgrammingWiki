@@ -10,28 +10,6 @@ a Russian chess player and programmer from [Orenburg](https://en.wikipedia.org/w
 
 
 
-### Contents
-
-
-* [1 7-man EGTBs](#7-man-egtbs)
-* [2 EGTB records](#egtb-records)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 2005 Yakov Konoval started to collaborate with [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") on constructing 7-man EGTBs. Yakov wrote the generator and Marc a verification program and some utilities for extracting the data. Marc also does the generation of 7-man EGTB on his home computers.
-
-
-Quote by [Guy Haworth](Guy_Haworth "Guy Haworth") from [CCRL](CCRL "CCRL") [Discussion Board Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), May 17, 2007 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-Yakov Konoval has a new super-fast code that computes 7-man EGTs to the DTC(onversion) metric. Marc Bourzutschky has production-run this code to create several P-less endgames' EGTs and a few P-ful ones too.
-I think that further development of the code, to create P-ful endgames' EGT to the DTZ metric, P-slice by P-slice, is on the back-burner at the moment, but maybe there's some more production-running going on.
-
-
-
 ## EGTB records
 
 

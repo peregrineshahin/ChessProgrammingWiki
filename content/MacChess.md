@@ -16,22 +16,6 @@ MacChess competed the [DOCCC 1995](DOCCC_1995 "DOCCC 1995"), the [DOCCC 1996](DO
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [McTobber](McTobber "McTobber")
-
-
 ## Forum Posts
 
 

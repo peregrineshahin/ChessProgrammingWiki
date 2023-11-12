@@ -10,31 +10,6 @@ title: University of Southern California
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Bruce Abramson](Bruce_Abramson "Bruce Abramson")
-* [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman")
-* [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson")
-* [Alvin M. Despain](Alvin_M._Despain "Alvin M. Despain")
-* [Dave Gomboc](Dave_Gomboc "Dave Gomboc")
-* [Chih-Wen Hsueh](Chih-Wen_Hsueh "Chih-Wen Hsueh")
-* [Charles Kalme](Charles_Kalme "Charles Kalme")
-* [Albert Xin Jiang](Albert_Xin_Jiang "Albert Xin Jiang")
-* [Peter Norvig](Peter_Norvig "Peter Norvig")
-* [Albert Zobrist](Albert_Zobrist "Albert Zobrist")
-
-
 ## Chess Programs
 
 

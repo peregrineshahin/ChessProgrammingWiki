@@ -13,21 +13,6 @@ and is mentioned on various sites related to puzzles <a id="cite-note-3" href="#
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2000](#2000)
-	+ [1.2 2001](#2001)
-	+ [1.3 2002 ...](#2002-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2000
 
 

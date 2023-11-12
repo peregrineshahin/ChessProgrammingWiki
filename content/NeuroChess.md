@@ -10,36 +10,6 @@ an experimental program which [learns](Learning#Programs "Learning") to play che
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Conclusion](#conclusion)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Using the raw [board representaion](Board_Representation "Board Representation") as input representation of a neural network is a poor choice, since small changes on the board can cause huge differences in value contrasting the smooth nature of neural network representations. Therefore NeuroChess maps its internal board into a set of 175 carefully designed features. A specially trained, but otherwise conventional three layer feed forward neural network (V) with one final output maps the feature vector to an [evaluation score](Score "Score").
-
-
-The evaluation network V was trained by [backpropagation](Neural_Networks#Backpropagation "Neural Networks") and the [temporal difference method](Temporal_Difference_Learning "Temporal Difference Learning") (TD(0)), utilizing a second neural network, an explanation based neural network (EBNN) dubbed the chess model M, which maps 175 inputs via 165 hidden units to 175 outputs, and aims to predict the (important) board features two plies ahead. This network M is trained independently prior to V to incorporate supervised domain knowledge.
-
-
-
- [](File:NeuroChess.jpg) 
-**Learning an evaluation function in NeuroChess**. Boards are mapped into a high-dimensional Feature vector, which forms the input 
-for both the evaluation network V and the chess model M. The evaluation network is trained by [Backpropagation](Neural_Networks#Backpropagation "Neural Networks") and the [TD(O)](Temporal_Difference_Learning "Temporal Difference Learning") procedure. 
-Both networks are employed for analyzing training example in order to derive target slopes for V. <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Conclusion
 
 

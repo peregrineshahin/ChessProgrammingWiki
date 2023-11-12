@@ -9,33 +9,6 @@ A **Move List** is a data structure inside a chess program with the aim to colle
 
 
 
-### Contents
-
-
-* [1 Game List](#game-list)
-	+ [1.1 Sample Layout](#sample-layout)
-	+ [1.2 Signature List](#signature-list)
-	+ [1.3 Parallel Search Considerations](#parallel-search-considerations)
-* [2 Search Lists](#search-lists)
-	+ [2.1 Sample Layout](#sample-layout-2)
-	+ [2.2 Processing the Move List](#processing-the-move-list)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
-The game list keeps [moves](Moves "Moves") of the game already played from the [initial](Initial_Position "Initial Position") up to the current [root](Root "Root") [position](Chess_Position "Chess Position") of the search, plus the current path or variation actually searching. A global game object maintains an index of the root position, initialized with zero after the game starts. When a move was found and played after search, or a move was entered by the opponent player, it is stored under the [post incremented](http://en.wiktionary.org/wiki/post-increment) index. 
-
-
-Despite the length of the game may vary, one usually takes a once allocated fixed sized array for a maximum number of half moves to occur in the game, considering [MAX\_PLY](Depth#MaxPly "Depth") of a deep trailing search. Despite the theoretical maximum length of a chess game of 11797 half moves, as limited by the [Fifty-move Rule](Fifty-move_Rule "Fifty-move Rule") <a id="cite-note-1" href="#cite-ref-1">[1]</a><a id="cite-note-2" href="#cite-ref-2">[2]</a>, 1024 (or even less) halfmoves should practically suffice <a id="cite-note-3" href="#cite-ref-3">[3]</a>. On the other hand, it is not a big deal to [reallocate](https://en.wikipedia.org/wiki/Malloc#realloc) the list rarely.
-
-
-
 ### Sample Layout
 
 

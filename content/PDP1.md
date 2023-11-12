@@ -15,31 +15,6 @@ Based on the [TX-0](https://en.wikipedia.org/wiki/TX-0) and [TX-2](https://en.wi
 
 
 
-### Contents
-
-
-* [1 Hardware](#hardware)
-* [2 Assembly](#assembly)
-* [3 PDP-1 Chess](#pdp-1-chess)
-* [4 Spacewar!](#spacewar.21)
-* [5 See also](#see-also)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The processor consists of discrete [germanium transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor#Germanium_transistors) logic in form of [System Building Block modules](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation#Digital_modules), inserting 25 of them into a 5-1/4 inch section of a custom [19-inch rack](https://en.wikipedia.org/wiki/19-inch_rack).
-
-
-
-[
-System Building Block 1103 - hex-inverter card <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Assembly
 
 

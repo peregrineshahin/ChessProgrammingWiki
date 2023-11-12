@@ -15,25 +15,6 @@ Pascal Tang is primary author of the the world class [Chinese Chess](Chinese_Che
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.yss-aya.com/photo/graz2003/1126/Htmls/PICT1282.html) 
-[Graz 2003](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad"), [Xiangqi](Chinese_Chess "Chinese Chess") winners: Pascal Tang, [Zhi-Jian Tu](index.php?title=Zhi-Jian_Tu&action=edit&redlink=1 "Zhi-Jian Tu (page does not exist)") and [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Selected Publications
 
 

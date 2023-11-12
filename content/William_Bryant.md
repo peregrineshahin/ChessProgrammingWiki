@@ -12,20 +12,6 @@ soon superseded by his own engine for the Macintosh chess program [Screamer](Scr
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1997 ...](#1997-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1997 ...
 
 

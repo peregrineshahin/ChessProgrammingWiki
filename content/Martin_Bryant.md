@@ -15,36 +15,6 @@ In 1983, White Knight was bought by [BBC](https://en.wikipedia.org/wiki/BBC) for
 
 
 
-### Contents
-
-
-* [1 Checkers](#checkers)
-* [2 Colossus Chess UCI](#colossus-chess-uci)
-* [3 Photos](#photos)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2002 ...](#2002-...)
-	+ [5.2 2010 ...](#2010-...)
-	+ [5.3 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-**Colossus Draughts** won the [2nd Computer Olympiad](2nd_Computer_Olympiad#Checkers "2nd Computer Olympiad"), [London](https://en.wikipedia.org/wiki/London) 1990 in [Checkers](Checkers "Checkers") with [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. competing as well. Colossus was well prepared, since Checkers expert Martin Bryant recognized a weak opening move by Chinook played against another program one round before - which nevertheless could not find the refutation and lost, 
-and added the winning refutation inside Colossus' opening book <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Martin Bryant later accepted the offer to trade Colossus' huge opening book for Chinook's six-piece databases and therefore helped Chinook to become *The World Man-Machine Checkers Champion*, and subsequently the offer to join the Chinook development team <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Martin Bryant about his win at the 2nd Computer Olympiad <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
-
-
-
-
-```C++
-[Paul](Paul_Lu "Paul Lu") was not playing against a group of old men who'd never seen a computer play in a competitive tournament before, but a "seasoned professional" of computer chess tournaments, where it is common practice to watch your opponents in early rounds hoping to catch them on a repeated mistake later. This has been documented to happen in computer chess tournaments so why shouldn't it happen in draughts? However, in Colossus' defense, even though I had "booked up" on the winning line, it may have been capable of finding the winning moves "across the board" anyway. After winning the game I thought to myself that it was remarkably stupid and arrogant (in the nicest possible way) of Jonathan and his team to enter a tournament with an operator who hardly knew the notation, let alone being able to recognize when his program had walked into and out of a loss! I had heard all these press "claims" by Jonathan that he'd beat the world champion in one year and solve the game in two! I had grown to love the game and knew that wasn't going to happen and so was very happy to "prove" to the world that the Chinook team still had a lot to learn about draughts.
-
-```
-
 ## Colossus Chess UCI
 
 

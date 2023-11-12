@@ -11,29 +11,6 @@ He holds a [Bachelor of Technology](https://en.wikipedia.org/wiki/Bachelor_of_Te
 
 
 
-### Contents
-
-
-* [1 Engines](#engines)
-* [2 Selected Publications](#selected-publications)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Mridul is author of following chess engines:
-
-
-
-* [Ceng](index.php?title=Ceng&action=edit&redlink=1 "Ceng (page does not exist)")
-* [MessChess](MessChess "MessChess") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-* [Witchess](Witchess "Witchess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
 ## Selected Publications
 
 

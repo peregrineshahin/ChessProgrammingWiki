@@ -14,40 +14,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Tournaments](#tournaments)
-* [2 OSA](#osa)
-* [3 Saitek Galileo](#saitek-galileo)
-* [4 Saitek Renaissance](#saitek-renaissance)
-* [5 See also](#see-also)
-* [6 Modules](#modules)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-	+ [9.1 Chess Computers](#chess-computers)
-		- [9.1.1 Leonardo](#leonardo)
-		- [9.1.2 Galileo](#galileo)
-		- [9.1.3 Renaissance](#renaissance)
-	+ [9.2 OSA](#osa-2)
-	+ [9.3 Modules](#modules-2)
-	+ [9.4 Misc](#misc)
-		- [9.4.1 Leonardo](#leonardo-2)
-		- [9.4.2 Galileo](#galileo-2)
-		- [9.4.3 Renaissance](#renaissance-2)
-* [10 References](#references)
-
-
-
-
-
-
-SciSys Leonardo played the [Aegon 1986](Aegon_1986 "Aegon 1986") with two wins and a draw, and the [Aegon 1987](Aegon_1987 "Aegon 1987") where it drew two games out of six.
-
-
-
-
 ## OSA
 
 

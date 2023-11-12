@@ -13,26 +13,6 @@ By determining the patterns present on the board, and restricted to the same sho
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chunking](Chunking "Chunking")
-* [Cognition](Cognition "Cognition")
-* [EPAM](EPAM "EPAM")
-* [MAPP](MAPP "MAPP")
-* [Psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)")
-
-
 ## Selected Publications
 
 

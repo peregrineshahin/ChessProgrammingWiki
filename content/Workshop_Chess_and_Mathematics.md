@@ -13,41 +13,6 @@ title: Workshop Chess and Mathematics
  Fakultät Mathematik und Naturwissenschaften Institut für Numerische Mathematik
  **Workshop Chess and Mathematics** <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
  [Dresden](https://en.wikipedia.org/wiki/Dresden), November 21st and 22nd, 2008
-### Contents
-
-
-* [1 Chess Olympiad 2008](#chess-olympiad-2008)
-* [2 Programme Committee](#programme-committee)
-* [3 Public Lecture](#public-lecture)
-	+ [3.1 Schach und Mathematik](#schach-und-mathematik)
-		- [3.1.1 German Abtract](#german-abtract)
-		- [3.1.2 English Abtract](#english-abtract)
-* [4 Invited and Contributed Lectures](#invited-and-contributed-lectures)
-	+ [4.1 Multi-Cut](#multi-cut)
-	+ [4.2 General Game Playing](#general-game-playing)
-	+ [4.3 Optimal Line-Ups](#optimal-line-ups)
-	+ [4.4 Combinatorics](#combinatorics)
-	+ [4.5 Spielstärkeprognosen](#spielst.c3.a4rkeprognosen)
-	+ [4.6 Solving Chess](#solving-chess)
-	+ [4.7 Information of Chess Positions](#information-of-chess-positions)
-	+ [4.8 Bitoptimiertes Speichern](#bitoptimiertes-speichern)
-	+ [4.9 Endgame Databases](#endgame-databases)
-	+ [4.10 Sliding Pieces Attacks](#sliding-pieces-attacks)
-	+ [4.11 Valuation Equilibrium](#valuation-equilibrium)
-	+ [4.12 Problem Chess and Mathematics](#problem-chess-and-mathematics)
-	+ [4.13 Databases for Chess Problems](#databases-for-chess-problems)
-	+ [4.14 Die Schachwelt im Internet](#die-schachwelt-im-internet)
-* [5 References](#references)
-
-
-
-
-
-
-The Workshop Chess and Mathematics was side event of the [Chess Olympiad, Dresden 2008](https://en.wikipedia.org/wiki/38th_Chess_Olympiad), the Public Lecture took place at the [Congress Center](http://www.dresden-congresscenter.de/eng/eng_1.htm), the Invited and Contributed Lectures on Saturday at the [TU Dresden](https://en.wikipedia.org/wiki/Dresden_University_of_Technology).
-
-
-
 ## Programme Committee
 
 

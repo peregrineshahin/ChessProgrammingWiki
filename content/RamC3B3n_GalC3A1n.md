@@ -14,24 +14,6 @@ In their 2005 paper, *Bitboards: A New Approach* <a id="cite-note-2" href="#cite
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2000 ...
 
 

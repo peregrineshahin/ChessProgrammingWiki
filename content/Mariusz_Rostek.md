@@ -16,21 +16,6 @@ Sierżant is also subject of Mariusz' thesis.
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* Mariusz Rostek (**2008**). *[Program grający w szachy](http://strony.toya.net.pl/~sierzant29/nowosci.html)*. (Chess playing programs) Engineering Thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), advisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
-
-
 ## External Links
 
 

@@ -19,22 +19,6 @@ Since version 2.17 released in August 1999, InmiChess is able to probe [Nalimov 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1998](#1998)
-	+ [1.2 1999](#1999)
-	+ [1.3 2000](#2000)
-	+ [1.4 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1998
 
 

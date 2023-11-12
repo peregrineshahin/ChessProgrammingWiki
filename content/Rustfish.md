@@ -12,24 +12,6 @@ a [port](Stockfish#ports "Stockfish") of Stockfish written in [Rust](Rust "Rust"
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [asmFish](AsmFish "AsmFish")
-* [CFish](CFish "CFish")
-* [Portfish](Portfish "Portfish")
-
-
 ## Forum Posts
 
 

@@ -13,31 +13,6 @@ In 2020, John Stanback played with tiny [neural networks](Neural_Networks "Neura
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-	+ [1.3 Misc](#misc)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2016 ...](#2016-...)
-	+ [3.2 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### [Search](Search "Search")
 
 

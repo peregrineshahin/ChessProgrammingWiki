@@ -14,22 +14,6 @@ The program featured [CGA graphics](https://en.wikipedia.org/wiki/Color_Graphics
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Turbo Chess](Turbo_Chess "Turbo Chess")
-
-
 ## Forum Posts
 
 

@@ -10,40 +10,6 @@ The **Kasparov versus Deep Junior Match 2003** between at that time world No. 1 
 
 
 
-### Contents
-
-
-* [1 Man vs Machine World Championship](#man-vs-machine-world-championship)
-	+ [1.1 Game 1](#game-1)
-	+ [1.2 Game 2](#game-2)
-	+ [1.3 Game 3](#game-3)
-	+ [1.4 Game 4](#game-4)
-	+ [1.5 Game 5](#game-5)
-	+ [1.6 Game 6](#game-6)
-* [2 Man vs Machine Symposium](#man-vs-machine-symposium)
-	+ [2.1 Talks](#talks)
-	+ [2.2 Fotos & Games](#fotos-.26-games)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 Symposium](#symposium)
-	+ [4.2 Match](#match)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 FIDE](#fide)
-	+ [6.2 ChessBase](#chessbase)
-	+ [6.3 Video](#video)
-* [7 References](#references)
-
-
-
-
-
-
-The match was sanctioned by the [FIDE](FIDE "FIDE") and [ICGA](ICGA "ICGA") as **Man vs. Machine World Championship** <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-The six games match ended 3-3, Garry Kasparov winning game 1, Deep Junior winning game 3, and four remaining draws, most spectacular the bishop sacrifice by Deep Junior in game 5.
-
-
-
 ### Game 1
 
 

@@ -13,45 +13,6 @@ Magellan competed at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WMCCC 1993](WMCCC_1993 "WMCCC 1993"), round 9, Magellan - [Gandalf](Gandalf "Gandalf")
-
-
-
-
-```
-
-[Event "WMCCC 1993"]
-[Site "Munich, Germany"]
-[Date "1993.11.07"]
-[Round "9"]
-[White "Magellan"]
-[Black "Gandalf"]
-[Result "1/2-1/2"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.d6 Bg4 7.Bxf7+ Kd7 8.f3 Bf5 9.Bb3 Nh5 
-10.h4 Ng3 11.Rh2 Nxb3 12.axb3 Ke8 13.Ne4 Bxe4 14.fxe4 Qf6 15.d7+ Kd8 16.Qf3 Qf4 17.Nc3 
-Qxf3 18.gxf3 Nh5 19.d3 Bd6 20.Ke2 Ng3+ 21.Kf2 Nh5 22.Be3 a6 23.Nb5 Bb4 24.c3 Be7 25.Na3 
-Kxd7 26.Nc4 Ke6 27.d4 exd4 28.cxd4 Rhf8 29.d5+ Kd7 30.Ra5 g6 31.e5 Rad8 32.Bg5 Bxg5 
-33.hxg5 Rf4 34.e6+ Kc8 35.Ke3 Rdf8 36.Rh3 Kd8 37.Rc5 R4f5 38.Na5 Kc8 39.Nc4 Kd8 40.Ke4 
-Rf4+ 41.Ke3 R4f5 42.Na5 Kc8 43.Nc4 Kd8 44.Ke4 Rf4+ 45.Ke3 1/2-1/2
-
-```
-
 ## See also
 
 

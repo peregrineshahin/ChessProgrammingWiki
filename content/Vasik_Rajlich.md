@@ -15,56 +15,6 @@ Vasik Rajlich's interpretation of [nodes](Node "Node") and [depth](Depth "Depth"
 
 
 
-### Contents
-
-
-* [1 Interview](#interview)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2004 ...](#2004-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Quotes from an *uciengines.de* Interview with Vasik Rajlich, December 20, 2005 <a id="cite-note-27" href="#cite-ref-27">[27]</a>, *a new age in Computerchess?* Two questions by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"):
-
-
-20. ***Alexander Schmidt***:
-The increase in playing strength of the latest chess engines is unbelieveable. We have since some time with Fruit 2.1 by Fabien Letouzey a very strong open source engine. Do you see a relation between the published sources of such a strong engine and the increase of strength in computer chess in general? How much influence do the ideas of Fruit have on the future of computerchess?
-
-
-***Vasik Rajlich***:
-Yes, the publication of Fruit 2.1 was huge. Look at how many engines took a massive jump in its wake: Rybka, Hiarcs, Fritz, Zappa, Spike, List, and so on. I went through the Fruit 2.1 source code forwards and backwards and took many things.
-
-
-It is a bit of a pity that Rybka won't make the same contribution to the computer chess community, but at the moment I must also think about protecting my secrets. It's the eternal struggle for a computer chess programmer.
-
-
-21. ***Alexander Schmidt***:
-We had our first contact when I had questions about a [similarity](Engine_Similarity "Engine Similarity") to Fruit in the search, others found similarities in the evaluation. Some people where a little bit suspicious that Rybka could be a clone of the open source engine. In the meantime it is clear that Rybka is no clone but you used ideas of Fruit (I guess all other serious engine programmers had a look at Fruit too). How strong would Rybka actually be if the Fruit code would have never been published?
-
-
-***Vasik Rajlich***:
-It's a good question. I don't want to get too specific about which ideas from Fruit I think are really useful, but they fall into two categories:
-
-
-1) Very specific tricks, mostly related to search.
-2) Philosophy of the engine (and in particular of the search).
-
-
-Fruit could really hardly be more useful along both of these dimensions. Fabien is a very good engineer, and also has a very clear and simple conception of how his search should behave.
-
-
-Anyway, if I really had to give a number - my wild guess is that Rybka would be 20 rating points weaker had Fruit not appeared.
-
-
-
 ## See also
 
 

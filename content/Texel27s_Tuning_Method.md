@@ -12,66 +12,6 @@ by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") as applied to [Te
 
 
 
-### Contents
-
-
-* [1 Method](#Method)
-* [2 Advantages](#Advantages)
-* [3 Concerns](#Concerns)
-* [4 Results](#Results)
-* [5 Future improvements](#Future_improvements)
-* [6 Pseudo Code](#Pseudo_Code)
-* [7 See also](#See_also)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 2009](#2009)
-	+ [8.2 2014](#2014)
-	+ [8.3 2015 ...](#2015_...)
-	+ [8.4 2020 ...](#2020_...)
-* [9 External Links](#External_Links)
-* [10 References](#References)
-
-
-
-
-
-
-Take 64000 [games](Chess_Game "Chess Game") played at a fast [time control](Time_Management "Time Management") (such as 1s+0.08s/move) between the current and/or previous versions of the engine. Extract all [positions](Chess_Position "Chess Position") from those games, except positions within the [opening book](Opening_Book "Opening Book") and positions where the engine found a [mate score](Score#MateScores "Score") during the game. This typically gives about 8.8 million positions which are stored as [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") strings in a text file.
-
-
-Define the average [evaluation](Evaluation "Evaluation") [error](https://en.wikipedia.org/wiki/Mean_squared_error) E [[8]](#cite_note-8) [[9]](#cite_note-9):
-
-
-
- [](File:TexelTuneMathE.jpg) 
-where:
-
-
-
-* N is the number of test positions.
-* Ri is the result of the game corresponding to position i; 0 for black win, **0.5** for draw and **1** for white win.
-* qi or qScore corresponding to position i, is the white relative [score](Score "Score") from the [quiescence search](Quiescence_Search "Quiescence Search"). The algorithm assumes the qScore function is [deterministic](https://en.wikipedia.org/wiki/Deterministic_system). If [transposition tables](Transposition_Table "Transposition Table") or the [history heuristic](History_Heuristic "History Heuristic") is used in the qScore function this may not be the case.
- * [](File:TexelTuneMathSigmoid.jpg) [](http://wolfr.am/1al3d5B) 
-
-
- [[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12) [[13]](#cite_note-13)
-* K is a scaling constant.
-
-
-Compute the K that minimizes E. K is never changed again by the algorithm [[14]](#cite_note-14) [[15]](#cite_note-15).
-
-
-If needed, [refactor](https://en.wikipedia.org/wiki/Code_refactoring) the source code so that the qScore function depends on a set of evaluation function [parameters](https://en.wikipedia.org/wiki/Parameter)
-
-
-
- [](File:TexelTuneMathParams.jpg) 
-The average error E is now a function of the M parameters. Find parameter values such that E is a [local minimum](https://en.wikipedia.org/wiki/Maxima_and_minima) in [parameter space](https://en.wikipedia.org/wiki/Parameter_space). The exact [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization) method is not that important. It could for example use [local search](https://en.wikipedia.org/wiki/Local_search_%28optimization%29) varying one parameter at a time, the [Gauss-Newton method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm), the [conjugate gradient method](https://en.wikipedia.org/wiki/Conjugate_gradient_method), or a hybrid approach mixing those methods.
-
-
-If the evaluation function parameters are all of integer type with finite range (which they typically are in a chess engine), the local search method is guaranteed to eventually terminate since there is only a finite number of elements in the parameter space. Also in this case the conventional [gradient](https://en.wikipedia.org/wiki/Gradient) isn't mathematically defined, but you can use [difference quotients](https://en.wikipedia.org/wiki/Difference_quotient) instead of the "real" gradient in the GN and CG methods.
-
-
-
 ## Advantages
 
 

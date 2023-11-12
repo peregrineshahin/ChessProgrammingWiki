@@ -13,30 +13,6 @@ Version 1.0.0 was the first public release in August 2006. In 2007, Warrior play
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

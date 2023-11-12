@@ -16,28 +16,6 @@ and had its tournament debut at the [Hungarian Sakkprogramok Versenye 2008](MASP
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Namesake](#namesake)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Tigran is a [bitboard](Bitboards "Bitboards") engine and applies [kindergarten bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). 
-The [search](Search "Search") is [PVS](Principal_Variation_Search "Principal Variation Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning") and [late move reductions](Late_Move_Reductions "Late Move Reductions") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. 
-Beside the dominating [material](Material "Material") term, the basic [evaluation](Evaluation "Evaluation") considers [king safety](King_Safety "King Safety"), [mobility](Mobility "Mobility") and [pawn structure](Pawn_Structure "Pawn Structure").
-
-
-
 ## Namesake
 
 

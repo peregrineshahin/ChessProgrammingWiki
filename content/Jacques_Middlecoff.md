@@ -10,26 +10,6 @@ an American mathematician and computer scientist with more than 40 years experie
 
 
 
-### Contents
-
-
-* [1 Chess programmer](#chess-programmer)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1970 ...](#1970-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the 80s, while associated with [Cypress](https://en.wikipedia.org/wiki/Cypress_Semiconductor), [San Jose, California](https://en.wikipedia.org/wiki/San_Jose,_California), he developed two chess programs. [SPOC](SPOC "SPOC") played the [ACM 1985](ACM_1985 "ACM 1985") in [Denver](https://en.wikipedia.org/wiki/Denver%2C_Colorado) on an [IBM PC](IBM_PC "IBM PC") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. It's successor, dubbed [Chess Monster](Chess_Monster "Chess Monster"), participated at the [Halloween](https://en.wikipedia.org/wiki/Halloween) event of the [WMCCC 1986](WMCCC_1986 "WMCCC 1986") in [Dallas](https://en.wikipedia.org/wiki/Dallas) running on a [Compaq 386](https://en.wikipedia.org/wiki/Compaq#Compaq_DeskPro_386) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

@@ -12,40 +12,6 @@ was a Russian chess [Grandmaster](https://en.wikipedia.org/wiki/Grandmaster_%28c
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-	+ [1.1 Pioneer](#pioneer)
-	+ [1.2 CC Sapiens](#cc-sapiens)
-* [2 Photos](#photos)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 Computer Chess](#computer-chess-2)
-		- [4.1.1 1968 ...](#1968-...)
-		- [4.1.2 1970 ...](#1970-...)
-		- [4.1.3 1980 ...](#1980-...)
-		- [4.1.4 1990 ...](#1990-...)
-	+ [4.2 Misc](#misc)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1993 ...](#1993-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Botvinnik’s interest in Computer Chess started in the 50s, favouring chess algorithms based on [Shannon's](Claude_Shannon "Claude Shannon") selective [type B strategy](Type_B_Strategy "Type B Strategy"), as discussed along with [Max Euwe](Max_Euwe "Max Euwe") 1958 in Dutch Television <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Botvinnik served as a consultant to Soviet computer chess developers who developed the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") at [Moscow's](https://en.wikipedia.org/wiki/Moscow) [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") (ITEP) which won a [correspondence chess match](Stanford-ITEP_Match "Stanford-ITEP Match") against the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") led by [John McCarthy](John_McCarthy "John McCarthy") in 1967. Later he advised the team that created the chess program [Kaissa](Kaissa "Kaissa") at Moscow’s [Institute of Control Sciences](Institute_of_Control_Sciences "Institute of Control Sciences") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-However, Botvinnik had his own ideas to model a Chess Master's Mind. After publishing and discussing his early ideas on [attack maps](Attack_and_Defend_Maps "Attack and Defend Maps") and [trajectories](Trajectory "Trajectory") at [Moscow Central Chess Club](https://en.wikipedia.org/wiki/Chess_Centres) <a id="cite-note-6" href="#cite-ref-6">[6]</a> in 1966, with the skeptical [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and others attending, he found [Vladimir Butenko](index.php?title=Vladimir_Butenko&action=edit&redlink=1 "Vladimir Butenko (page does not exist)") as supporter and collaborator. Butenko first implemented the [15x15 vector attacks](Vector_Attacks "Vector Attacks") board representation on a [M-20](M-20 "M-20") computer, [determining trajectories](Distance#15x15 "Distance"). After Botvinnik introduced the concept of Zones in 1970, Butenko refused further cooperation and began to write his own program, dubbed [Eureka](index.php?title=Eureka&action=edit&redlink=1 "Eureka (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-
-
-
 ### Pioneer
 
 

@@ -12,27 +12,6 @@ title: MLChess
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1995 ...](#1995-...)
-	+ [3.2 2000 ...](#2000-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-MLChess uses [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") with a [search depth](Depth "Depth") of 2, 3 or 4 [plies](Ply "Ply") for three different levels, [captures](Captures "Captures") are [extented](Capture_Extensions "Capture Extensions") up to 4 additional plies. 
-The [evaluation](Evaluation "Evaluation") is based on a few heuristic rules, most are simplified versions of heuristics taken from [GNU Chess](GNU_Chess "GNU Chess"). On level 2, the program will always find a [mate-in-one](Checkmate "Checkmate"), and on level 3 the program will always avoid a mate-in-one by the opponent if it is possible <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-
 ## See also
 
 

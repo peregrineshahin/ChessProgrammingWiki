@@ -12,28 +12,6 @@ and later worked with [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") et
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1986 ...](#1986-...)
-	+ [2.2 1990 ...](#1990-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 
-[Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), Mike Browne and [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk"),  
-
-after winning the [Fredkin Intermediate Prize](Edward_Fredkin#Prize "Edward Fredkin") for Deep Thought's Grandmaster-level performance. <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ## Selected Publications
 
 

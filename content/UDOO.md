@@ -12,23 +12,6 @@ an [open source hardware](https://en.wikipedia.org/wiki/Open_source_hardware) [s
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The UDOO is suitable to run [Linux](Category:Linux "Category:Linux") or [Android compliant chess engines](Category:Android "Category:Android") and to control [Sensory boards](Sensory_Board "Sensory Board") to build own [Dedicated Chess Computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden") ran [PuppetMaster](PuppetMaster "PuppetMaster") aka [DeepBrutePos](DeepBrutePos "DeepBrutePos") in "puppet master" mode on the UDOO, requesting best moves from external [UCI](UCI "UCI") or [XBoard](XBoard "XBoard") engines, each running on one of seven [Raspberry Pi](Raspberry_Pi "Raspberry Pi") nodes <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## See also
 
 

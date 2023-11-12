@@ -14,28 +14,6 @@ In their 2005 paper, *Bitboards: A New Approach* <a id="cite-note-2" href="#cite
 
 
 
-### Contents
-
-
-* [1 BITSCAN](#bitscan)
-* [2 GRAPH](#graph)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2005 ...](#2005-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Pablo San Segundo has released BITSCAN, an efficient [C++ library](Cpp#Libraries "Cpp") for bitstrings which is optimized for scanning bit vectors of any size, and which he used to implement BBMC (BB-MaxClique), a state of the art [maximum clique algorithm](https://en.wikipedia.org/wiki/Clique_problem) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-BBMC encodes the graph problem as bitstrings and uses bitmasks to implement the basic computations in the search. BITSCAN is publicly available a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## GRAPH
 
 

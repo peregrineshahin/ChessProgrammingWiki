@@ -13,33 +13,6 @@ a French [Go](Go "Go") player <a id="cite-note-2" href="#cite-ref-2">[2]</a> and
 
 
 
-### Contents
-
-
-* [1 A googolplex of Go games](#a-googolplex-of-go-games)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In *A googolplex of Go games* in 2016, Matthieu Walraet elaborated on the number of possible Go games on a 19x19 board. Inspired by the work of [John Tromp](John_Tromp "John Tromp") on the number of legal Go positions and John Tromp and [Gunnar Farnebäck](Gunnar_Farneb%C3%A4ck "Gunnar Farnebäck") on the number of possible Go games on a board less than 19x19, who already established lower and upper bounds of 
-
-
-
- [](File:Googleplex1.png) 
-Using properties of binary [Gray code](https://en.wikipedia.org/wiki/Gray_code), Matthieu Walraet narrowed the huge gap to a lower bound of 
-
-
-
- [](File:Googleplex2.png) 
-well above a [googolplex](https://en.wikipedia.org/wiki/Googolplex) by subdividing the board and iterating over all legal sub-board positions. A revised version of his paper was presented along with John Tromp at the [CG 2016](CG_2016 "CG 2016") conference <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

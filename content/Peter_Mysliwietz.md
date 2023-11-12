@@ -12,33 +12,6 @@ a German computer scientist, games researcher and programmer. Until 1997 Peter M
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1986 ...](#1986-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](Alpha_I "Alpha I") 
-*You cannot beat Alpha for a Mark*  
-[Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner") and Peter Mysliwietz in [Nightmare](Nightmare_GER "Nightmare GER") vs. [Alpha I](Alpha_I "Alpha I"), [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), Round 6 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-  
-
-
-
-
 ## Selected Publications
 
 

@@ -12,21 +12,6 @@ a German physicist, who graduated from [University of Dortmund](University_of_Do
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Aegon 1997](#aegon-1997)
-	+ [1.2 ICT 2002](#ict-2002)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Aegon 1997
 
 

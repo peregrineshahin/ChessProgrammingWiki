@@ -12,24 +12,6 @@ Igor is moderator of the [Kasparov computer chess forum](Computer_Chess_Forums "
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.sdchess.ru/febr_march_08.htm) 
-[Jury Osipov](Jury_Osipov "Jury Osipov"), [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), Igor Korshunov, [Sergei Nefedov](Sergei_Nefedov "Sergei Nefedov") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Forum Posts
 
 

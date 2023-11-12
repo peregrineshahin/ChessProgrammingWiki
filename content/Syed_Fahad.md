@@ -10,21 +10,6 @@ a computer chess programmer from [Indian-administrated region](https://en.wikipe
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2014](#2014)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020](#2020)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2014
 
 

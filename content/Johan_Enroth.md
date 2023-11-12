@@ -12,23 +12,6 @@ was a Swedish entrepreneur and computer chess official. In 1979, he founded the 
 
 
 
-### Contents
-
-
-* [1 Systemhuset](#systemhuset)
-* [2 Photos](#photos)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-As owner of the *Systemhuset* aka *System Integrierung* company <a id="cite-note-6" href="#cite-ref-6">[6]</a>, Johan Enroth worked with Swedish chess programmers, in particular [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") with his [Princhess](Princhess "Princhess") program, in 1981 incorporated inside the dedicated [Conchess](Conchess "Conchess") computer of the German [Consumenta](index.php?title=Consumenta&action=edit&redlink=1 "Consumenta (page does not exist)") company. In 1983, after Consumenta went bankrupt, he continued the Conchess brand with a rather successful [WMCCC 1984](WMCCC_1984 "WMCCC 1984"), but the [WMCCC 1985](WMCCC_1985 "WMCCC 1985"), when Princhess as well as three instances of the new [Plymate](Plymate "Plymate") program for the Conchess co-authored by [Lars Hjörth](Lars_Hj%C3%B6rth "Lars Hjörth"), finished way behind [Richard Lang's](Richard_Lang "Richard Lang") [Mephistos](Mephisto_Amsterdam "Mephisto Amsterdam"), yielded more or less in the cessation of Conchess computer manufacturing and Enroth's engagement in that field. 
-
-
-
 ## Photos
 
 

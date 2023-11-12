@@ -11,25 +11,6 @@ Other sources name Michael Borgstädt alone <a id="cite-note-3" href="#cite-ref-
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-	+ [1.1 Fake](#fake)
-	+ [1.2 Chess Publisher](#chess-publisher)
-	+ [1.3 E-mail client](#e-mail-client)
-* [2 Photos & Games](#photos-.26-games)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Inter](#inter)
-* [5 References](#references)
-
-
-
-
-
-
 ### Fake
 
 

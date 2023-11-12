@@ -13,39 +13,6 @@ Patron of the event was chess lover and at that time [German Minister of Finance
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Panel Discussion](#panel-discussion)
-	+ [1.2 Mate in One](#mate-in-one)
-	+ [1.3 Opening Phase](#opening-phase)
-* [2 Games](#games)
-	+ [2.1 Game 1](#game-1)
-	+ [2.2 Game 2](#game-2)
-	+ [2.3 Game 3](#game-3)
-	+ [2.4 Game 4](#game-4)
-	+ [2.5 Game 5](#game-5)
-	+ [2.6 Game 6](#game-6)
-* [3 Quotes](#quotes)
-	+ [3.1 Strongest Program?](#strongest-program.3f)
-	+ [3.2 Overchampion](#overchampion)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 ChessBase](#chessbase)
-		- [7.1.1 2006](#2006)
-		- [7.1.2 2020 ...](#2020-...)
-	+ [7.2 Spiegel](#spiegel)
-	+ [7.3 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
 ### Panel Discussion
 
 

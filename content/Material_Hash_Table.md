@@ -9,37 +9,6 @@ A **Material Hash Table** is used to cache once calculated material values for c
 
 
 
-### Contents
-
-
-* [1 Chess 4.5](#chess-4.5)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-The Material Hash Table was first described by [David Slate](David_Slate "David Slate") and [Larry Atkin](Larry_Atkin "Larry Atkin") as used in [Chess 4.5](Chess_(Program) "Chess (Program)") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Chess had following fairly complicated function of only the number of each type of piece on the board, to modify the material difference by a "trade down" bonus that encourages the winning side to trade pieces but no pawns:
-
-
-
- [](File:ChessMaterial1.jpg) 
-and
-
-
-
- [](File:ChessMaterial2.jpg) 
-with MD as material difference computed by adding the [standard values](Point_Value "Point Value") {100, 325, 350, 500, 900} of each piece and subtracting the total of the side with the least material from the side with the most, the winning side. PA is the number of pawns of the winning side, MT is the total material on the board. 
-
-
-The hash function must have three desired characteristics. First, it should be obviously faster than the function it is replacing. Second, it should distribute the positions that are likely occur in a single search, and third, it should be symmetric with respect to Black and White. [Chess 4.5](Chess_(Program) "Chess (Program)") had a material signature word, containing five [nibble counters](Nibble "Nibble") per piece type for each side, interpreted as 20-bit number each and also stored inside the hash entry to verify material signature when probing. The hash function used is the sum of the white side and black side, exclusive ored with the absolute value of their difference, folded over by further exclusive or to get a 7-bit number, the hash.
-
-
-
 ## See also
 
 

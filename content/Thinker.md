@@ -16,40 +16,6 @@ Thinker utilize [bitboards](Bitboards "Bitboards") and is written in [C++](Cpp "
 
 
 
-### Contents
-
-
-* [1 Complaints](#complaints)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2008 ...](#2008-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[ICGA](ICGA "ICGA") President [David Levy](David_Levy "David Levy"), May 09, 2014 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
-
-```C++
-The ICGA has received formal complaints against the Chess programs [LOOP](Loop_(Program) "Loop (Program)") and THINKER, both of which have participated in the World Computer Chess Championship. LOOP was entered by Fritz Reul into the [2007 WCCC](WCCC_2007 "WCCC 2007") in Amsterdam. THINKER was entered into the [2010 WCCC](WCCC_2010 "WCCC 2010") in Kanazawa.
-...
-Here we present extracts from the first section of each of [Mark Watkins](Mark_Watkins "Mark Watkins") reports.
-...
-**Thinker** “The versions examined here are Thinker 5.4d Inert (March 2009), and Thinker 5.5.4, entered into [Leo Dijksman’s](Leo_Dijksman "Leo Dijksman") [WBEC](WBEC "WBEC") tournament in January 2011. The first appears to derive from [Strelka 2](Strelka "Strelka") (thus [Rybka 1](Rybka "Rybka"), and relating to [Fruit 2.1](Fruit "Fruit")). The second appears to derive from [IvanHoe](IvanHoe "IvanHoe") (thus partially Rybka 3).”
-...
-Based on the above mentioned reports by Mark Watkins the ICGA is convinced that, at the very least, both Fritz Reul and [Kerwin Medina](Kerwin_Medina "Kerwin Medina") have a case to answer. Depending on how Reul and/or Medina respond to these allegations the ICGA might decide to conduct further investigations and/or take some form of strong sanctioning action against the programmers.  However, the ICGA does not intend to proceed further along the route to strong sanctions for the time being, in order to give these programmers more time in which to make contact with the ICGA President and present their defence to the allegations. If either or both of these programmers fail to do so by December 31st 2014, or refuses to do so, the ICGA will disqualify them from all their results in ICGA events.  In the meantime the ICGA has decided to suspend both Fritz Reul and Kerwin Medina from participation in all ICGA events until such time as they have made contact and offered a defence. 
-
-```
-
 ## See also
 
 

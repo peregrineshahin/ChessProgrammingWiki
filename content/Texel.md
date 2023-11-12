@@ -15,33 +15,6 @@ Texel applies many of the standard methods for computer chess programs, such as 
 
 
 
-### Contents
-
-
-* [1 Version History](#version-history)
-	+ [1.1 Texel 1.00](#texel-1.00)
-	+ [1.2 Texel 1.01](#texel-1.01)
-	+ [1.3 Texel 1.02](#texel-1.02)
-	+ [1.4 Texel 1.03](#texel-1.03)
-	+ [1.5 Texel 1.04](#texel-1.04)
-	+ [1.6 Texel 1.05](#texel-1.05)
-	+ [1.7 Texel 1.06](#texel-1.06)
-	+ [1.8 Texel 1.07](#texel-1.07)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2012 ...](#2012-...)
-	+ [3.2 2015 ...](#2015-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Texel](#texel)
-* [5 References](#references)
-
-
-
-
-
-
 ### Texel 1.00
 
 

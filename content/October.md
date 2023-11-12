@@ -12,29 +12,6 @@ a chess program by [Henk Kuyer](Henk_Kuyer "Henk Kuyer"), which competed at the 
 
 
 
-### Contents
-
-
-* [1 Full Pro's](#full-pro.27s)
-* [2 Games](#games)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[Dap Hartmann](Dap_Hartmann "Dap Hartmann") on the [DOCCC 1988](DOCCC_1988 "DOCCC 1988") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-In this years field, there were three full pro's ([Frans Morsch](Frans_Morsch "Frans Morsch") [[Quest](Quest "Quest")]), [Ed Schroeder](Ed_Schroder "Ed Schroder") [[Rebel](Rebel "Rebel")] and [Henk Kuyer](Henk_Kuyer "Henk Kuyer") [October]), and two participants that have commercial aspirations ([Bart Weststrate](Bart_Weststrate "Bart Weststrate") [[Kallisto](Kallisto "Kallisto")] and [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap") [[Zen](Zen "Zen")]), which made almost the half of the field. 
-
-```
-
 ## Games
 
 

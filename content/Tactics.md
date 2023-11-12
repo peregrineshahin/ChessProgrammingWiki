@@ -13,46 +13,6 @@ The concepts of [strategy](Strategy "Strategy") and tactics in chess and other s
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Tactical Positions](#tactical-positions)
-* [3 Tactics in Chess Programs](#tactics-in-chess-programs)
-	+ [3.1 Search Control](#search-control)
-	+ [3.2 Evaluation](#evaluation)
-* [4 Terms and Motives](#terms-and-motives)
-* [5 Related](#related)
-* [6 Tactical Pattern Programs](#tactical-pattern-programs)
-* [7 See also](#see-also)
-* [8 Publications](#publications)
-	+ [8.1 Chess](#chess)
-		- [8.1.1 1980 ...](#1980-...)
-		- [8.1.2 1990 ...](#1990-...)
-		- [8.1.3 2000 ...](#2000-...)
-	+ [8.2 Computer Chess](#computer-chess)
-	+ [8.3 1960 ...](#1960-...)
-	+ [8.4 2000 ...](#2000-...-2)
-* [9 Forum Posts](#forum-posts)
-* [10 External Links](#external-links)
-	+ [10.1 Wikipedia](#wikipedia)
-	+ [10.2 Misc](#misc)
-* [11 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a><a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [Richard Teichmann](https://en.wikipedia.org/wiki/Richard_Teichmann): *Chess is 99 percent tactics*. <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Gerald Abrahams](https://en.wikipedia.org/wiki/Gerald_Abrahams): *The tactician knows what to do when there is something to do; whereas the strategian knows what to do when there is nothing to do*.
-* [Max Euwe](Max_Euwe "Max Euwe"): *Strategy requires thought, tactics require observation*.
-
-
 ## Tactical Positions
 
 

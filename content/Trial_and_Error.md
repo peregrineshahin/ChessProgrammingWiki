@@ -10,31 +10,6 @@ title: Trial and Error
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Automated Tuning](Automated_Tuning "Automated Tuning")
-* [Backtracking](Backtracking "Backtracking")
-* [Book Learning](Book_Learning "Book Learning")
-* [Brute-Force](Brute-Force "Brute-Force")
-* [Genetic Programming](Genetic_Programming "Genetic Programming")
-* [Learning](Learning "Learning")
-* [Looking for Magics](Looking_for_Magics "Looking for Magics")
-* [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
-* [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning")
-* [Simulated Annealing](Simulated_Annealing "Simulated Annealing")
-
-
 ## Selected Publications
 
 

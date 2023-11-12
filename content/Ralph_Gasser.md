@@ -10,25 +10,6 @@ a Swiss computer scientist and software engineer at [Google](index.php?title=Goo
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 1995 ...](#1995-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 1990 ...
 
 

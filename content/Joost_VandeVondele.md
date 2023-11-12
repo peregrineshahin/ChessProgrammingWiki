@@ -22,30 +22,6 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 
 
 
-### Contents
-
-
-* [1 Stockfish](#stockfish)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 Postings](#postings)
-	+ [3.1 2019](#2019)
-	+ [3.2 2020 ...](#2020-...-2)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2016, Joost VandeVondele started to contribute to the [Stockfish](Stockfish "Stockfish") project <a id="cite-note-4" href="#cite-ref-4">[4]</a>. As of January 2020, he has accepted to take the role of the maintainer <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
-and was involved in merging [NNUE](NNUE "NNUE") [evaluation](Evaluation "Evaluation") into the [master branch](https://en.wikipedia.org/wiki/Git#Conventions) of the official Stockfish [GitHub](https://en.wikipedia.org/wiki/GitHub) repository for [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-
-
-
 ## Selected Publications
 
 

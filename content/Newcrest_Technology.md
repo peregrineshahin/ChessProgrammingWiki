@@ -12,26 +12,6 @@ a [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) based manufacturer of [co
 
 
 
-### Contents
-
-
-* [1 Cassia](#cassia)
-* [2 CXG](#cxg)
-* [3 Selected Computers](#selected-computers)
-* [4 Associated Programmers](#associated-programmers)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The first dedicated chess computer of Cassia was the [Cassia Chess Mate](Cassia_Chess_Mate "Cassia Chess Mate") in 1979, a [clone](Category:Clone "Category:Clone") of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Chess Challenger 10](Chess_Challenger "Chess Challenger") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, also shipped as *Toytronic Chess Electronics* <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, and *CXG Computachess I* <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## CXG
 
 

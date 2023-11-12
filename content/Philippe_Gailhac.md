@@ -12,24 +12,6 @@ which won the Bronze medal at the [4th Computer Olympiad 1992](4th_Computer_Olym
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Question](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=31007) by Philippe Gailhac, [CCC](CCC "CCC"), December 09, 2009
-* [Pawn Hash](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=32509) by Philippe Gailhac, [CCC](CCC "CCC"), February 10, 2010 » [Pawn Hash Table](Pawn_Hash_Table "Pawn Hash Table")
-* [Re: Philou 3.7 problem ...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=42099&start=9) by Philippe Gailhac, [CCC](CCC "CCC"), January 31, 2012
-* [Re: Final Standings](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=51199&start=12) by Philippe Gailhac, [CCC](CCC "CCC"), February 24, 2014
-
-
 ## External Links
 
 

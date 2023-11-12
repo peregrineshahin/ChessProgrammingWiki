@@ -12,37 +12,6 @@ one of [Novag's](Novag "Novag") first [dedicated chess computer](Dedicated_Chess
 
 
 
-### Contents
-
-
-* [1 128 Byte Challenge](#128-byte-challenge)
-* [2 Invalid Castling](#invalid-castling)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-David Kittinger had to solve a similar challenge than [Mark Taylor](Mark_Taylor "Mark Taylor") with [Mini Chess](Mini_Chess "Mini Chess") to write a chess program with such less RAM. Accordingly, the program was not that strong, and had 8 levels to [search](Search "Search") one to eight [plies](Ply "Ply") deep. It took 110 minutes to solve that mate in three <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
-
-
-
-
-
-|  |
-| --- |
-|                                                                                              ♚         ♗    ♔                ♗                          ♜   |
-
-
-2k5/4B3/1K6/8/2B5/8/8/5r2 w - - 
-
-
-
-
 ## Invalid Castling
 
 

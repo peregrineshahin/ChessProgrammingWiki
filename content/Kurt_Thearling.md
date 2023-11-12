@@ -12,33 +12,6 @@ an American electrical engineer, analytics and data science executive with focus
 
 
 
-### Contents
-
-
-* [1 StarTech](#startech)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1988 ...](#1988-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Roger E. Frye contributed to the [StarTech](StarTech "StarTech") project, as mentioned by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") in his thesis acknowledgments <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-```C++
-[Mark Bromley](Mark_Bromley "Mark Bromley"), [Roger Frye](Roger_Frye "Roger Frye"), and Kurt Thearling provided important design and programming help in getting StarTech running on the [CM-5](Connection_Machine "Connection Machine"). 
-
-
-```
-
 ## Selected Publications
 
 

@@ -16,30 +16,6 @@ and most recently, the UCI compliant [open source chess engine](Category:Open_So
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
-* Stefan Edlich (**1993**). *[Software Cooperation with the Share-Kit: Influences of Semantic Levels on the Working Efficiency](https://link.springer.com/chapter/10.1007/3-540-57312-7_71)*. [VCHCI 1993](https://dblp.uni-trier.de/db/conf/vchci/vchci1993.html)
-* Stefan Edlich (**1995**). *Kooperationsmechanismen synchroner Groupwaresysteme*. Ph.D. thesis, [TU Berlin](https://en.wikipedia.org/wiki/Berlin_Institute_of_Technology) (German)
-* Stefan Edlich (**2009**). *B, C, C++ und D 2.0! Programmieren mit dem C/C++ Nachfolger*. Entwickler Magazin (German)
-* Stefan Edlich, [Achim Friedland](https://github.com/ahzf), [Jens Hampe](https://www.goodreads.com/author/show/4197615.Jens_Hampe), [Benjamin Brauer](https://www.uni-goettingen.de/en/dr.+benjamin+brauer/66392.html) (**2010**). *[NoSQL - Einstieg in die Welt nichtrelationaler Web 2.0 Datenbanken](https://www.heise.de/developer/artikel/NoSQL-Einstieg-in-die-Welt-nichtrelationaler-Web-2-0-Datenbanken-1246710.html)*. [Carl Hanser Verlag](https://en.wikipedia.org/wiki/Carl_Hanser_Verlag) (German)
-* [Eduard Bergen](https://dblp.uni-trier.de/pers/hd/b/Bergen:Eduard), Stefan Edlich (**2017**). *Post-Debugging in Large Scale Big Data Analytic Systems*. [BTW 2017](https://dblp.uni-trier.de/db/conf/btw/btw2017w.html)
-
-
 ## Forum Posts
 
 

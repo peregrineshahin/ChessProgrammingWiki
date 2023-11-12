@@ -12,41 +12,6 @@ an open source framework for tuning [evaluation function](Evaluation "Evaluation
 
 
 
-### Contents
-
-
-* [1 Method](#method)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-The function to minimize the [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error) of the prediction is:
-
-
-
- [](File:TexelTuneMathE.jpg) 
-where:
-
-
-
-* N is the number of test positions.
-* Ri is the result of the game corresponding to position i; **-1** for black win, **0** for draw and **+1** for white win.
-* qi is corresponding to position i, the [value](Score "Score") returned by the chess engine evaluation function. (Computing the gradient on the [QS](Quiescence_Search "Quiescence Search") is a waste of time - it is much faster to run the QS saving the [PV](Principal_Variation "Principal Variation") and then compute the gradient using the evaluation function of the end-of-PV position - and not worry too much about the fact that tweaking the evaluation function could result in a different position being picked <a id="cite-note-6" href="#cite-ref-6">[6]</a>).
-* [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) is implemented by [hyperbolic tangent](https://en.wikipedia.org/wiki/Hyperbolic_function) to convert [centipawn scores](Centipawns "Centipawns") into an expected result in [-1,1].
-
-
-
-```C++
-Sigmoid(s) = tanh(0.0043s)
-
-```
-
 ## See also
 
 

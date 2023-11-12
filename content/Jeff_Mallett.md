@@ -14,24 +14,6 @@ Jeff is author of the computer chess program [Innovation](Innovation "Innovation
 
 
 
-### Contents
-
-
-* [1 Zillions of Games](#zillions-of-games)
-* [2 Mallett Chess](#mallett-chess)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Along with [Mark Lefler](Mark_Lefler "Mark Lefler"), Jeff Mallett is co-author of the [general game playing](General_Game_Playing "General Game Playing") program [Zillions of Games](Zillions_of_Games "Zillions of Games"), first released in 1998 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He is also co-founder of the *Zillions Development Corporation* <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Mallett Chess
 
 

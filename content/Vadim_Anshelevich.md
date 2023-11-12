@@ -14,34 +14,6 @@ Vadim Anshelevich has been fascinated by the game of [Hex](Hex "Hex") since [Mar
 
 
 
-### Contents
-
-
-* [1 Hexy](#hexy)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1970 ...](#1970-...)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In his 2002 paper *A hierarchical approach to computer Hex*, Anshelevich acknowledged [Claude Shannon](Claude_Shannon "Claude Shannon"), who build an analogue Hex-playing machine using electrical [resistor](https://en.wikipedia.org/wiki/Resistor) circuits <a id="cite-note-6" href="#cite-ref-6">[6]</a> , which was model in Anshelevich program 
-<a id="cite-note-7" href="#cite-ref-7">[7]</a> :
-
-
-
-
-```C++
-A Hex-playing machine was built by Shannon and Moore. Shannon associated a two-dimensional electrical charge distribution with any given Hex position. This machine made decisions based on properties of the corresponding potential field. We acknowledge that our work is greatly inspired by the beauty of Shannon’s original idea. 
-
-```
-
 ## Selected Publications
 
 

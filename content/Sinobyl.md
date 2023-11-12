@@ -17,29 +17,6 @@ released in 2014 as [NoraGrace](NoraGrace "NoraGrace"), dedicated to *Nora Grace
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-*based on Latista 1.5* <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

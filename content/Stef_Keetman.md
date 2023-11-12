@@ -14,26 +14,6 @@ where he applies techniques of [AI](Artificial_Intelligence "Artificial Intellig
 
 
 
-### Contents
-
-
-* [1 Draughts](#draughts)
-* [2 Improving Chinook](#improving-chinook)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the late 80s and early 90s, while affiliated with the [University of Limburg](Maastricht_University "Maastricht University") and its upcoming *Games and AI Group* headed by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), also as [Draughts](Draughts "Draughts") player <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-he wrote the Draughts program [Truus](https://www.game-ai-forum.org/icga-tournaments/program.php?id=346)
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, winner of the Silver medal at the [1st Computer Olympiad, London 1989](1st_Computer_Olympiad#Draughts "1st Computer Olympiad"), and the Gold medal at the [3rd Computer Olympiad, Maastricht 1991](3rd_Computer_Olympiad#Draughts "3rd Computer Olympiad"). 
-Along with [Ard van Bergen](Ard_van_Bergen "Ard van Bergen"), he developed the Draughts engine for [Oxford Softworks'](Oxford_Softworks "Oxford Softworks") *Intelligent Strategy Games 10* <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Improving Chinook
 
 

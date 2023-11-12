@@ -11,24 +11,6 @@ His research interests include [machine learning](Learning "Learning"), and comp
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2002 ...](#2002-...)
-	+ [1.2 2005 ...](#2005-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 2002 ...
 
 

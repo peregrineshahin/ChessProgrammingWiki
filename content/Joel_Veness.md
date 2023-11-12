@@ -12,28 +12,6 @@ an Australian games programmer, mathematician and computer scientist with a Ph.D
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2006 ...](#2006-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### 2006 ...
 
 

@@ -12,36 +12,6 @@ a dedicated chess computer project developed and maintained by [Jean-Francois Ro
 
 
 
-### Contents
-
-
-* [1 Engines](#engines)
-* [2 See also](#see-also)
-* [3 Postings](#postings)
-	+ [3.1 2012 ...](#2012-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* [Stockfish 8](Stockfish "Stockfish") by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Gary Linscott](Gary_Linscott "Gary Linscott")
-* [Texel 1.07](Texel "Texel") by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund")
-* [Arasan 20.3](Arasan "Arasan") by [Jon Dart](Jon_Dart "Jon Dart")
-* [Rodent III](Rodent "Rodent") by [Pawel Koziol](Pawel_Koziol "Pawel Koziol")
-* [Zurichess Neuchatel](Zurichess#Neuchatel "Zurichess") by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi")
-* [WyldChess](WyldChess "WyldChess") by [Manik Charan](Manik_Charan "Manik Charan")
-* [Galjoen 0.37.2](Galjoen "Galjoen") by [Werner Taelemans](index.php?title=Werner_Taelemans&action=edit&redlink=1 "Werner Taelemans (page does not exist)")
-* [Sayuri 2017.12.16](Sayuri "Sayuri") by [Hironori Ishibashi](Hironori_Ishibashi "Hironori Ishibashi")
-
-
 ## See also
 
 

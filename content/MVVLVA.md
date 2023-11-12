@@ -10,32 +10,6 @@ is a simple heuristic to [generate](Move_Generation "Move Generation") or sort [
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1995 ...](#1995-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-* [3 External links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Belle | Hardware Move Generation](Belle#Hardware "Belle")
-* [Mater](Mater "Mater")
-* [Move Generation](Move_Generation "Move Generation")
-* [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [SEE - The Swap Algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") with [Bitboards](Bitboards "Bitboards")
-* [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
-
-
 ## Forum Posts
 
 

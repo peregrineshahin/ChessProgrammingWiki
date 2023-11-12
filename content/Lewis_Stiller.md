@@ -14,25 +14,6 @@ Lewis Stiller holds a Ph.D. on *Parallel Algorithms in AI* from [Johns Hopkins U
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1988 ...](#1988-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 1988 ...
 
 

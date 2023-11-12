@@ -14,26 +14,6 @@ Its [evaluation](Evaluation "Evaluation") uses a [pawn hash table](Pawn_Hash_Tab
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[Madeleine](https://en.wikipedia.org/wiki/Madeleine_%28name%29) and Madeline are forms of [Magdalene](https://en.wikipedia.org/wiki/Magdalene_%28given_name%29), which is well known as a name because of [Saint Mary Magdalene](https://en.wikipedia.org/wiki/Mary_Magdalene). Mary Magdalene's name is thought to be derived from [Magdala](https://en.wikipedia.org/wiki/Magdala) – a village on the sea of [Galilee](https://en.wikipedia.org/wiki/Galilee). In [Aramaic](https://en.wikipedia.org/wiki/Aramaic_language), "magdala" means "tower" or "elevated, great, magnificent".<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## See also
 
 

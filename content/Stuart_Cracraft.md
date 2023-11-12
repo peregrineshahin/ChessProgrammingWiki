@@ -12,35 +12,6 @@ an American computer scientist and [cloud](https://en.wikipedia.org/wiki/Cloud_c
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1985](#1985)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 1995 ...](#1995-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2005 ...](#2005-...)
-	+ [2.6 2010 ...](#2010-...)
-	+ [2.7 2015 ...](#2015-...)
-	+ [2.8 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
-* Stuart Cracraft (**1984**). *Bitmap move generation in Chess*. [ICCA Journal, Vol. 7, No. 3](ICGA_Journal#7_3 "ICGA Journal")
-* Stuart Cracraft (**1987**). *Microcomputer Chess: Has It Reached a New Milestone?* [ICCA Journal, Vol. 10, No. 1](ICGA_Journal#10_1 "ICGA Journal") » [Novag Expert](Novag_Expert "Novag Expert"), [Novag Forte](Novag_Forte "Novag Forte"), [Super Constellation](Super_Constellation "Super Constellation")
-
-
 ## Forum Posts
 
 

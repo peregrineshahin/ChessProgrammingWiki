@@ -11,28 +11,6 @@ was originally a [Windows](Windows "Windows") [protocol](Protocols "Protocols") 
 
 
 
-### Contents
-
-
-* [1 USI2WB / UCI2WB](#usi2wb-.2f-uci2wb)
-* [2 Engines](#engines)
-* [3 GUIs](#guis)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 Pfister](#pfister)
-	+ [5.2 Muller](#muller)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-In about 2009, [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") started to develop an **USI2WB** adapter to support [Shogi](Shogi "Shogi") engines using the [USI](USI "USI") protocol <a id="cite-note-2" href="#cite-ref-2">[2]</a>. USI2WB was then generalized to became a new UCI2WB cross [variant](Games#ChessVariants "Games") protocol adapter for [UCI](UCI "UCI") dialect engines (UCI, USI, UCCI, UCI-Cyclone, Arena960) to play with [WinBoard](WinBoard "WinBoard") or [XBoard](XBoard "XBoard"), first released with WinBoard 4.4 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. UCI2WB is open source, licensed under the [GPL Version 3](Free_Software_Foundation#GPL "Free Software Foundation"). As of 2018, [WinBoard](WinBoard "WinBoard") no longer contains [PolyGlot](PolyGlot "PolyGlot") and relies on the variant agnostic UCI2WB <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Engines
 
 

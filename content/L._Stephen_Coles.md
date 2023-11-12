@@ -14,30 +14,6 @@ L. Stephen Coles died on December 3, 2014 of [pancreatic cancer](https://en.wiki
 
 
 
-### Contents
-
-
-* [1 Biography](#biography)
-* [2 Computer Chess](#computer-chess)
-* [3 The Drosophila of AI](#the-drosophila-of-ai)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1967 ...](#1967-...)
-	+ [4.2 1970 ...](#1970-...)
-	+ [4.3 1990 ...](#1990-...)
-	+ [4.4 2000 ...](#2000-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-L. Stephen Coles received a B.Sc. in [electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) from [Rensselaer Polytechnic Institute](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute) in [Troy, New York](https://en.wikipedia.org/wiki/Troy,_New_York), a M.Sc. in mathematics from the [Carnegie Institute of Technology](https://en.wikipedia.org/wiki/Carnegie_Institute_of_Technology), and a Ph.D. in [systems science](https://en.wikipedia.org/wiki/Systems_science) and [communication sciences](https://en.wikipedia.org/wiki/Communication_sciences) from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in 1969 on [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-He researched on [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [robots](Robots "Robots") and [biorobotics](https://en.wikipedia.org/wiki/Biorobotics) at [Stanford Research Institute](https://en.wikipedia.org/wiki/SRI_International) and the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), focused on [medicine](https://en.wikipedia.org/wiki/Medicine) at the [Stanford University School of Medicine](https://en.wikipedia.org/wiki/Stanford_University_School_of_Medicine) and completed his [medical intern](https://en.wikipedia.org/wiki/Internship_%28medicine%29) in [obstetrics](https://en.wikipedia.org/wiki/Obstetrics) and [gynaecology](https://en.wikipedia.org/wiki/Gynaecology) at the [Leonard M. Miller School of Medicine](https://en.wikipedia.org/wiki/Leonard_M._Miller_School_of_Medicine) at [University of Miami](https://en.wikipedia.org/wiki/University_of_Miami), and served as lecturer and visiting scholar and researcher at [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), [Stanford University](Stanford_University "Stanford University"), [Harvard University](Harvard_University "Harvard University") and UCLA <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Computer Chess
 
 

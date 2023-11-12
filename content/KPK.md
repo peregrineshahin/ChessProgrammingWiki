@@ -8,36 +8,6 @@ A very common pattern in chess games is to be up exactly one [pawn](Pawn "Pawn")
 
 
 
-### Contents
-
-
-* [1 Bitbase](#bitbase)
-* [2 Perfect Heuristics](#perfect-heuristics)
-* [3 Imperfect Heuristics](#imperfect-heuristics)
-	+ [3.1 KPK is drawn](#kpk-is-drawn)
-	+ [3.2 KPK is won](#kpk-is-won)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1970 ...](#1970-...)
-	+ [5.2 1980 ...](#1980-...)
-	+ [5.3 1990 ...](#1990-...)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2005 ...](#2005-...)
-	+ [6.2 2010 ...](#2010-...)
-	+ [6.3 2015 ...](#2015-...)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Since only 3 pieces are involved, it can be handled easily by a 12 KByte per side, pre-calculated [bit table](Endgame_Bitbases "Endgame Bitbases") that returns the status of this ending from any of the 64\*64\*4\*6 = 98304 distinct configurations for the pawn on one wing. It is always a win or [draw](Draw "Draw") for the side with the pawn. Boolean win or not information requires some distance heuristics though to ensure progress.
-
-
-
 ## Perfect Heuristics
 
 

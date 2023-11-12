@@ -20,30 +20,6 @@ along with the **Digilogue Collection** [YouTube](https://en.wikipedia.org/wiki/
 
 
 
-### Contents
-
-
-* [1 Selected Publication](#selected-publication)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2009](#2009)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
-* Vlad Stamate (**2004**). *Reduction of lighting calculations using Spherical Harmonics*. in [ShaderX3 - Advanced Rendering Techniques](http://www.shaderx3.com/Tables%20of%20Content.htm)
-* Vlad Stamate (**2005**). *Real-time damage deformation methods*. in [ShaderX4 - Advanced Rendering Techniques](http://www.shaderx4.com/TOC.html)
-* Vlad Stamate (**2008**). *Real Time Photon Mapping Approximation on the GPU*. in [ShaderX6 - Advanced Rendering Techniques](http://shaderx6.com/TOC.html) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
 ## Forum Posts
 
 

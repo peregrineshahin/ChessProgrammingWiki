@@ -12,41 +12,6 @@ a chess engine by [Fritz Reul](Fritz_Reul "Fritz Reul"), written in [C](C "C"). 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 WCCC 2003](#wccc-2003)
-* [3 List 5.12](#list-5.12)
-* [4 Loop List](#loop-list)
-* [5 Selected Games](#selected-games)
-* [6 See also](#see-also)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 2002](#2002)
-	+ [7.2 2003](#2003)
-	+ [7.3 2004](#2004)
-	+ [7.4 2005 ...](#2005-...)
-	+ [7.5 2010 ...](#2010-...)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Engine](#chess-engine)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-List **4.6x** is a 32-bit engine operating on [10x8 boards](Mailbox "Mailbox"). It uses a [recursive](Recursion "Recursion") [fail-soft](Fail-Soft "Fail-Soft") [alpha-beta search](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table") and [quiescence search](Quiescence_Search "Quiescence Search") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") frame with [aspiration](Aspiration_Windows "Aspiration Windows"), and performs [fractional extensions](Extensions#FractionalExtensions "Extensions"), [depth](Depth "Depth") dependent [razoring](Razoring "Razoring") and [null move search](Null_Move "Null Move") with [fail-high reductions](Fail-High_Reductions "Fail-High Reductions"), and [IDD](Internal_Iterative_Deepening "Internal Iterative Deepening") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . [Dann Corbit](Dann_Corbit "Dann Corbit"), who had seen some bit of List's [C](C "C") source code in 2002, on the origin of List's name <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
-
-
-
-
-```C++
-The program uses many [piece-lists](Piece-Lists "Piece-Lists") internally, which is where the name comes from, I think. I have seen the [evaluation function](Evaluation_Function "Evaluation Function"), which uses separate lists for each piece type. 
-
-```
-
 ## WCCC 2003
 
 

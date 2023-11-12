@@ -8,24 +8,6 @@ title: Make Move
 
 
 
-### Contents
-
-
-* [1 Operations](#operations)
-* [2 Update](#update)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-
-
-
-
-
-
-The general arithmetical and/or bitwise-logical operations to convert a node to its child are either reversible (even for [irreversible moves](Irreversible_Moves "Irreversible Moves")), by [inverse](https://en.wikipedia.org/wiki/Inverse_function) (e.g. addition and subtraction) or [own inverse](https://en.wikipedia.org/wiki/Involution_%28mathematics%29) ([exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations")) operations, or are irreversible, for instance a sequence of addition and conjunction (add, and) of move aspects, to update [ep state](En_passant "En passant"), [castling rights](Castling_Rights "Castling Rights") and the [halfmove clock](Halfmove_Clock "Halfmove Clock").
-
-
-
 ## Update
 
 

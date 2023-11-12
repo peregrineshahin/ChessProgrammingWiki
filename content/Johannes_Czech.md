@@ -17,25 +17,6 @@ Johannes Czech continued the development in porting the engine to [C++](Cpp "Cpp
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2019](#2019)
-	+ [1.2 2020 ...](#2020-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2019
 
 

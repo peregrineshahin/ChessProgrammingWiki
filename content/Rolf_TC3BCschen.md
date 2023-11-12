@@ -11,22 +11,6 @@ Rolf Tüschen is vehement critic of the [ICGA](ICGA "ICGA") [decision process](R
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1996 ...](#1996-...)
-	+ [1.2 Computerchess Misc](#computerchess-misc)
-	+ [1.3 2000 ...](#2000-...)
-	+ [1.4 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1996 ...
 
 

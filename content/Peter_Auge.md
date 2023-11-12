@@ -12,34 +12,6 @@ a German toy manufacturer, distributor and entrepreneur. As founder of [Novag In
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Sugar Pellet Toys](#sugar-pellet-toys)
-* [3 Chess Computers](#chess-computers)
-	+ [3.1 Chess Champion MK I](#chess-champion-mk-i)
-	+ [3.2 Kittinger](#kittinger)
-* [4 Associated People](#associated-people)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](File:AugeSamole1983.jpg) 
-[WMCCC 1983](WMCCC_1983 "WMCCC 1983"), [Budapest](https://en.wikipedia.org/wiki/Budapest): Friendly President Match, Peter Auge of [Novag](Novag "Novag") vs. [Sidney Samole](Sidney_Samole "Sidney Samole") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](File:FriedelAuge1986.JPG) 
-[Frederic Friedel](Frederic_Friedel "Frederic Friedel") and Peter Auge at [Nuremberg International Toy Fair](https://en.wikipedia.org/wiki/Nuremberg_International_Toy_Fair), 1986 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Sugar Pellet Toys
 
 

@@ -12,25 +12,6 @@ a Dutch computer scientist and software developer. In 2006, he defended his Mast
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Chess Software](#chess-software)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Jeroen Carolus (**2006**). *Alpha-Beta with Sibling Prediction Pruning in Chess*. Master's thesis, [pdf](http://homepages.cwi.nl/%7Epaulk/theses/Carolus.pdf)
-
-
- **Abstract**
- A lot of computation time of chess computers is spent in evaluating leafs of the game tree. Time is wasted on bad positions. In this research, a method that predicts the maximum evaluation result of sibling chess positions is defined. The idea is to prune brothers of a bad position without information loss.
- The resulting algorithm is a forward pruning method on leafs of the game tree, which gives correct minimax results. A maximum positional difference of the evaluation function on siblings must be correctly measured or assessed for the algorithm to work properly. The results of this thesis cannot be generalized because of the dependencies on the evaluation function, but are intended as a proof of concept and show that it is worthwhile to investigate Sibling Prediction Pruning Alpha-Beta in a broader context. 
 ## Chess Software
 
 

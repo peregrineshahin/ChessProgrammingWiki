@@ -14,35 +14,6 @@ and further a [H8/3687](H8 "H8") processor at 20 MHz running a [David Kittinger]
 
 
 
-### Contents
-
-
-* [1 Supported Programs](#supported-programs)
-* [2 Supported GUIs](#supported-guis)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2007 ...](#2007-...)
-	+ [4.2 2010 ...](#2010-...)
-	+ [4.3 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-* [Fritz](Fritz "Fritz") 1, 2, 3, 5.16, 5.32, 6
-* [HIARCS](HIARCS "HIARCS") 6, 7.32
-* [Genius](Chess_Genius "Chess Genius") 3
-* [Rebel](Rebel "Rebel") 7, 8, 10
-* [WChess](WChess "WChess")
-
-
 ## Supported GUIs
 
 

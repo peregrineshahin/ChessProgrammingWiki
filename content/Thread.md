@@ -13,45 +13,6 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 
 
 
-### Contents
-
-
-* [1 See also](#See_also)
-* [2 Publications](#Publications)
-	+ [2.1 1994 ...](#1994_...)
-	+ [2.2 2000 ...](#2000_...)
-	+ [2.3 2010 ...](#2010_...)
-* [3 Forum Posts](#Forum_Posts)
-	+ [3.1 1999](#1999)
-	+ [3.2 2000 ...](#2000_..._2)
-	+ [3.3 2005 ...](#2005_...)
-	+ [3.4 2010 ...](#2010_..._2)
-	+ [3.5 2015 ...](#2015_...)
-	+ [3.6 2020 ...](#2020_...)
-* [4 External Links](#External_Links)
-	+ [4.1 Thread](#Thread)
-	+ [4.2 Multithreading](#Multithreading)
-	+ [4.3 Posix](#Posix)
-	+ [4.4 Windows](#Windows)
-	+ [4.5 C++](#C.2B.2B)
-	+ [4.6 Java](#Java)
-	+ [4.7 GPU](#GPU)
-* [5 References](#References)
-
-
-
-
-
-
-* [Cilk](Cilk "Cilk")
-* [Lazy SMP](Lazy_SMP "Lazy SMP")
-* [NUMA](NUMA "NUMA")
-* [Parallel Search](Parallel_Search "Parallel Search")
-* [Process](Process "Process")
-* [Shared Hash Table](Shared_Hash_Table "Shared Hash Table")
-* [SMP](SMP "SMP")
-
-
 ## Publications
 
 

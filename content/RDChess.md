@@ -13,26 +13,6 @@ RDChess comes with an own [Windows](Windows "Windows") [GUI](GUI "GUI"), written
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### Board Representation
 
 

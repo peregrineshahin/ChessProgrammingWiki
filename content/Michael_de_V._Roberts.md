@@ -11,23 +11,6 @@ an American [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [History of Computer Chess](History "History")
-* [The Bernstein Chess Program](The_Bernstein_Chess_Program "The Bernstein Chess Program")
-
-
 ## Publications
 
 

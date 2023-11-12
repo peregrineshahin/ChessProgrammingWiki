@@ -18,33 +18,6 @@ The same technique can be used for a more subtle evaluation terms, instead of on
 
 
 
-### Contents
-
-
-* [1 Multiple Tables](#multiple-tables)
-* [2 Pre-processing](#pre-processing)
-* [3 Examples](#examples)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1996 ...](#1996-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-	+ [6.4 2015 ...](#2015-...)
-	+ [6.5 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Most modern programs, influenced by [Fruit](Fruit "Fruit"), use two sets of tables. One for the [opening](Opening "Opening") of the game and another for the [endgame](Endgame "Endgame"). The final evaluation is then [interpolated](Tapered_Eval "Tapered Eval") between these two based on [game stage](Game_Phases "Game Phases") (often [material](Material "Material") on the board). This allows for changes in material as well, since the material part of the evaluation can also be stored in these tables. Using two tables also lets pieces change in evaluation as the game proceeds. For example, [pawns](Pawn "Pawn") can gain in value in the endgame using this method.
-
-
-
-
 ## Pre-processing
 
 

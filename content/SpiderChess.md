@@ -14,45 +14,6 @@ When the code has become rather messy, Martin started his second approach from s
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[CCT6](CCT6 "CCT6"), Round 1, [Rybka](Rybka "Rybka") - SpiderChess <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "CCT6"]
-[Site "Internet Chess Club"]
-[Date "2004.01.31"]
-[Round "1"]
-[White "Rybka"]
-[Black "SpiderChess"]
-[Result "0-1"]
-
-1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.Rc1 Bb7 
-9.Be2 dxc4 10.Bxc4 Nbd7 11.O-O c5 12.Qe2 a6 13.a4 Ne4 14.Nxe4 Bxe4 15.Bxe7 
-Qxe7 16.Bxa6 Bxf3 17.gxf3 cxd4 18.exd4 Qh4 19.Rfd1 Nf6 20.b3 Nd5 21.Bb5 Nf4 
-22.Qe5 Rfd8 23.Bc6 Ra5 24.d5 exd5 25.b4 Ra7 26.Kh1 Re7 27.Qf5 Ne2 28.Rxd5 
-Rxd5 29.Qc8  Kh7 30.Bxd5 Nxc1 31.Qxc1 Re5 32.Bb3 Qh3 0-1
-
-```
-
 ## See also
 
 

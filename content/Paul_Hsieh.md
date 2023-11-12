@@ -14,22 +14,6 @@ Paul Hsieh further maintains his *A zillion monkeys* <a id="cite-note-4" href="#
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Paul Hsieh (**1996**). *Deep Blue - Deep Thought 2*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol 5, No 3+4, pp. 45 [Deep Blue](Deep_Blue "Deep Blue"), [Deep Thought](Deep_Thought "Deep Thought")
-
-
 ## Forum Posts
 
 

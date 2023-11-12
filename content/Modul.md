@@ -10,29 +10,6 @@ a computer chess periodical published from 1988 until 1992 in German language by
 
 
 
-### Contents
-
-
-* [1 Selected Authors](#selected-authors)
-* [2 Selected Articles](#selected-articles)
-* [3 Interviews](#interviews)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Bernhard Biberle](Bernhard_Biberle "Bernhard Biberle")
-* [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger")
-* [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling")
-* [Andreas Mader](Andreas_Mader "Andreas Mader")
-* [Thomas Mally](Thomas_Mally "Thomas Mally")
-* [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen")
-* [Helmut Weigel](Helmut_Weigel "Helmut Weigel")
-
-
 ## Selected Articles
 
 

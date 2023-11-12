@@ -12,30 +12,6 @@ a French chess player, computer scientist and computer chess programmer. Along w
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Échec](%C3%89chec "Échec")
-* [Cumulus](Cumulus "Cumulus")
-* [Écume](%C3%89cume "Écume")
-* [Joker](Joker "Joker")
-* [Frenchess](Frenchess "Frenchess") with [Jean-Luc Seret](Jean-Luc_Seret "Jean-Luc Seret") and [Michel Gondran](Michel_Gondran "Michel Gondran")
-* [Virtua Chess](Virtua_Chess "Virtua Chess")
-* [Virtual Chess](Virtual_Chess "Virtual Chess")
-* [Virtual Kasparov](Virtual_Kasparov "Virtual Kasparov")
-
-
 ## Selected Publications
 
 

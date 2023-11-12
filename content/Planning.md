@@ -12,67 +12,6 @@ the process of applying knowledge, [thinking](https://en.wikipedia.org/wiki/Thou
 
 
 
-### Contents
-
-
-* [1 Terms of Planning](#Terms_of_Planning)
-* [2 Long-range Planning](#Long-range_Planning)
-* [3 Search and Evaluation](#Search_and_Evaluation)
-* [4 Oracle Approaches](#Oracle_Approaches)
-* [5 Chess Quotes](#Chess_Quotes)
-* [6 Chess Programs](#Chess_Programs)
-* [7 See also](#See_also)
-* [8 Publications](#Publications)
-	+ [8.1 1946 ...](#1946_...)
-	+ [8.2 1950 ...](#1950_...)
-	+ [8.3 1960 ...](#1960_...)
-	+ [8.4 1970 ...](#1970_...)
-	+ [8.5 1980 ...](#1980_...)
-	+ [8.6 1985 ...](#1985_...)
-	+ [8.7 1990 ...](#1990_...)
-	+ [8.8 1995 ...](#1995_...)
-	+ [8.9 2000 ...](#2000_...)
-	+ [8.10 2005 ...](#2005_...)
-	+ [8.11 2010 ...](#2010_...)
-	+ [8.12 2015 ...](#2015_...)
-	+ [8.13 2020 ...](#2020_...)
-* [9 Forum Posts](#Forum_Posts)
-* [10 External Links](#External_Links)
-* [11 References](#References)
-
-
-
-
-
-
-In 1997, [Jan van Reek](Jan_van_Reek "Jan van Reek") [[2]](#cite_note-2) categorized planning in chess to three main characteristics, [tactics](Tactics "Tactics"), positional play, and [strategy](Strategy "Strategy"), where positional play serves as guideline for planning of a strategy [[3]](#cite_note-3): 
-
-
-
-
-
-|  |  Terms of Planning
- |  Aim
- |  Dominating abstraction
- |
-| --- | --- | --- | --- |
-|  Tactics
- |  Short
- |  To gain material or to mate
- |  Matter
- |
-|  Positional play
- |  Medium
- |  To improve the position
- |  Space
- |
-|  Strategy
- |  Long
- |  To swing the balance
- |  Time
- |
-
-
 ## Long-range Planning
 
 

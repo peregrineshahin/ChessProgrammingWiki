@@ -13,28 +13,6 @@ After some trials with [MTD(f)](MTD(f) "MTD(f)") <a id="cite-note-3" href="#cite
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 See](#see)
-	+ [5.3 Decapod](#decapod)
-* [6 References](#references)
-
-
-
-
-
-
-SEE had its tournament debut at the [NC3 2003](NC3_2003 "NC3 2003") [Australasian National Computer Chess Championship](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), under the name **Decapod**. It further played, the [NC3 2004](NC3_2004 "NC3 2004"), [NC3 2005](NC3_2005 "NC3 2005") and [NC3 2006](NC3_2006 "NC3 2006"), still referred as Decapod in the entry lists, and the [CCT6](CCT6 "CCT6") and [CCT7](CCT7 "CCT7") [CCT Tournaments](CCT_Tournaments "CCT Tournaments") in 2004 and 2005.
-
-
-
 ## Selected Games
 
 

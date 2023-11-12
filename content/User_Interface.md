@@ -10,31 +10,6 @@ The **User Interface** is the space where [Human-computer interaction](https://e
 
 
 
-### Contents
-
-
-* [1 Dedicated](#dedicated)
-* [2 The Game Loop](#the-game-loop)
-* [3 MVC](#mvc)
-	+ [3.1 CLI](#cli)
-	+ [3.2 Event driven GUIs](#event-driven-guis)
-* [4 UI Topics](#ui-topics)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
- [Dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") have their own proprietary [Input/output](https://en.wikipedia.org/wiki/Input/output) systems and programs, a [robot](Robots "Robots"), a mechanical [intelligent agent](https://en.wikipedia.org/wiki/Intelligent_agent), may interact like an human player, recognizing the moves either by incorporating a [sensory board](Sensory_Board "Sensory Board"), or more sophisticated by [computer vision](https://en.wikipedia.org/wiki/Computer_vision) <a id="cite-note-7" href="#cite-ref-7">[7]</a> and [real-time](https://en.wikipedia.org/wiki/Real-time) video [image processing](https://en.wikipedia.org/wiki/Image_processing), and moving [pieces](Pieces "Pieces") with a [mechatronical](https://en.wikipedia.org/wiki/Mechatronics) [actuator](https://en.wikipedia.org/wiki/Actuator) and [end effector](https://en.wikipedia.org/wiki/Robot_end_effector). 
-
-
-
-
 ## The Game Loop
 
 

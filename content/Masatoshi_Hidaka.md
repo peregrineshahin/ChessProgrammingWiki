@@ -11,36 +11,6 @@ He is co-author of **WebDNN**, an open source software framework for executing [
 
 
 
-### Contents
-
-
-* [1 Shogi](#shogi)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Masatoshi Hidaka is author and co-author of various [Shogi](Shogi "Shogi") playing programs, and member of their corresponding development teams.
-In 2016, his first Shogi programming involvement was with *Tanuki no Mori* as member of the *Tanuki no Mori Production Committee* along with [Hisayori Noda](Hisayori_Noda "Hisayori Noda"), [Jun Okabe](Jun_Okabe "Jun Okabe"), and [Takahiro Suzuki](index.php?title=Takahiro_Suzuki&action=edit&redlink=1 "Takahiro Suzuki (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-Subsequent teams were *The Minstrel's Ballad: Tanuki's Reign* with [Yu Nasu](Yu_Nasu "Yu Nasu") and at times [Akio Kono](index.php?title=Akio_Kono&action=edit&redlink=1 "Akio Kono (page does not exist)") joining
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>,
-and *Ziosoft Computer Shogi Club*, with the [World Computer Shogi Championship](World_Computer_Shogi_Championship "World Computer Shogi Championship") entries of *Shouten Gensou Knights of Tanuki* ([2017](index.php?title=WCSC27&action=edit&redlink=1 "WCSC27 (page does not exist)"), derived from *Yaneura King* by [Motohiro Isozaki](Motohiro_Isozaki "Motohiro Isozaki") aka Yaneurao) 
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>, 
-*the end of genesis T.N.K.evolution turbo type D* ([2018](index.php?title=WCSC28&action=edit&redlink=1 "WCSC28 (page does not exist)")) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-<a id="cite-note-10" href="#cite-ref-10">[10]</a>
-and [Tanu-King](index.php?title=Tanu-King&action=edit&redlink=1 "Tanu-King (page does not exist)") at the [WCSC29](index.php?title=WCSC29&action=edit&redlink=1 "WCSC29 (page does not exist)") <a id="cite-note-11" href="#cite-ref-11">[11]</a>. 
-He is further author of the [AlphaZero](AlphaZero "AlphaZero") like approach *NeneShogi* <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>,
-combining [deep learning](Deep_Learning "Deep Learning") with [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>,
-and the related *TensorrtShogi* <a id="cite-note-16" href="#cite-ref-16">[16]</a> using [Nvidia's](Nvidia "Nvidia") *TensorRT 7* <a id="cite-note-17" href="#cite-ref-17">[17]</a>.
-
-
-
 ## Selected Publications
 
 

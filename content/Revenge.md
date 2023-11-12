@@ -14,40 +14,6 @@ Revenge is available for [Windows](Windows "Windows") [x86-64](X86-64 "X86-64"),
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* Pure [Neural Network](Neural_Networks "Neural Networks") [Evaluation](Evaluation "Evaluation") (Improved from Pedone)
-* [Chess960](Chess960 "Chess960")
-* [MultiPV](Principal_Variation#MultiPV "Principal Variation") for Analysis
-* [Parallel Search](Parallel_Search "Parallel Search")
-	+ [Reverse Futility Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning") (Tuned)
-	+ [History Reductions](Late_Move_Reductions "Late Move Reductions") (New)
-	+ [ProbCut](ProbCut "ProbCut") (Improved)
-* [Skill Levels](Playing_Strength "Playing Strength") (Improved)
-* [Large/Huge Pages](Memory#HugePages "Memory")
-* [Internal 4men Tablebases](Endgame_Tablebases "Endgame Tablebases")
-* [Syzygy Bases](Syzygy_Bases "Syzygy Bases") Support
-* [Polyglot Book](PolyGlot "PolyGlot") Support
-
-
 ## See also
 
 

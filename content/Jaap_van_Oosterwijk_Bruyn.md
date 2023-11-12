@@ -12,26 +12,6 @@ was a Dutch mathematician, [actuarial scientist](https://en.wikipedia.org/wiki/A
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://oudzuylenutrecht.nl/drs-j-j-van-oosterwijk-bruyn/) 
-Een foto uit het Soester-toernooi van 1944, van de ‘aspirant-meesters’, groep A. Met   
-
-helemaal links Jan Visser, en direct naast hem J.J. van Oosterwijk Bruyn <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

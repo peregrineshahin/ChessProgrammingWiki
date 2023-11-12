@@ -10,28 +10,6 @@ a program by [Kevin J. Gilmartin](Kevin_J._Gilmartin "Kevin J. Gilmartin") and [
 
 
 
-### Contents
-
-
-* [1 Schematic Representation](#schematic-representation)
-* [2 Perception](#perception)
-* [3 Reconstruction](#reconstruction)
-* [4 See also](#see-also)
-* [5 Publicatons](#publicatons)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://snitkof.com/cg156/chesschunkingtheory.php) 
-A schematic representation of the principle components of MAPP shows the learning and performance   
-
-processes used to reconstruct a chess position <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Perception
 
 

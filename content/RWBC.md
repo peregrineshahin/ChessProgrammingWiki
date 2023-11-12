@@ -12,24 +12,6 @@ stands for **Regensburg WinBoard Circuit**, an [Engine](Engines "Engines") ratin
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [WinBoard Engines](Category:WinBoard "Category:WinBoard")
-* [XBoard Engines](Category:XBoard "Category:XBoard")
-* [UCI Engines](Category:UCI "Category:UCI")
-
-
 ## Forum Posts
 
 

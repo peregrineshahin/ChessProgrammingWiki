@@ -17,31 +17,6 @@ His research interests include the fields of [artificial intelligence](Artificia
 
 
 
-### Contents
-
-
-* [1 Essentials of AI](#essentials-of-ai)
-* [2 Games](#games)
-	+ [2.1 GIB](#gib)
-	+ [2.2 Dr.Fill](#dr.fill)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1985 ...](#1985-...)
-	+ [4.2 1990 ...](#1990-...)
-	+ [4.3 2000 ...](#2000-...)
-	+ [4.4 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-While affiliated with Stanford University in the early 90s, Matthew Ginsberg authored *Essentials of Artificial Intelligence* <a id="cite-note-7" href="#cite-ref-7">[7]</a> offering introductory [AI](Artificial_Intelligence "Artificial Intelligence") courses at the [graduate](https://en.wikipedia.org/wiki/Graduate) and [undergraduate](https://en.wikipedia.org/wiki/Undergraduate_education) levels.
-
-
-
 ## Games
 
 

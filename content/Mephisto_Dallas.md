@@ -15,26 +15,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 68020 vs 68000](#68020-vs-68000)
-* [2 Selected Games](#selected-games)
-* [3 UCI Engine](#uci-engine)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Dallas was Lang's second coup with Mephisto, like its competitors with three incarnations playing at the [WMCCC 1986](WMCCC_1986 "WMCCC 1986") in [Dallas](https://en.wikipedia.org/wiki/Dallas%2C_Texas) - all three on a [68020](68020 "68020") processor at 30 MHz <a id="cite-note-3" href="#cite-ref-3">[3]</a> - **Mephisto 3** won the title with 6/7, only losing the last round vs. [Rebel](Rebel "Rebel") aka Recom Deventer A. Another 68020 Mephisto also played in the evening at the simultaneous scheduled [ACM 1986](ACM_1986 "ACM 1986") only a foot walk far away <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Opposed to the Amsterdam, where a 68020 version which actually won the title was not sold, but only a 68000 module with World Champ button, the Dallas 68020 version was released with a 14 MHz 32-bit CPU, beside the cheaper 12 MHz 68000 module with only 16 Kib of [RAM](Memory#RAM "Memory"), both with the same World Champ 1986 button. However, at [Aegon 1987](Aegon_1987 "Aegon 1987") Mephisto Dallas 68000 became best computer - 3rd with 4½/6, followed by Mephisto Dallas 68020, 4th with 4/6 .
-
-
-
 ## Selected Games
 
 

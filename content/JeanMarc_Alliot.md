@@ -12,30 +12,6 @@ a French mathematician, computer scientist and head of the optimization and high
 
 
 
-### Contents
-
-
-* [1 Who is the Master?](#who-is-the-master.3f)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1992 ...](#1992-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 Forum Discussions](#forum-discussions)
-* [5 External Links](#external-links)
-	+ [5.1 Jean-Marc Alliot](#jean-marc-alliot)
-	+ [5.2 Who is the Master?](#who-is-the-master.3f-2)
-* [6 References](#references)
-
-
-
-
-
-
-As a chess lover <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Jean-Marc Alliot proposed a novel approach based on a [Markovian interpretation](https://en.wikipedia.org/wiki/Markov_chain) of the game that would rank the greatest chess masters more fairly than the [Elo system](https://en.wikipedia.org/wiki/Elo_rating_system) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In his study, elaborated and published in the April 2017 [ICGA Journal](ICGA_Journal#39_1 "ICGA Journal") under the title **Who is the Master?** <a id="cite-note-5" href="#cite-ref-5">[5]</a>, 26,000 games (over 2 million positions) played at regular time control by all [world champions](https://en.wikipedia.org/wiki/World_Chess_Championship) since [Wilhelm Steinitz](https://en.wikipedia.org/wiki/Wilhelm_Steinitz) have been analyzed using [Stockfish 190915](Stockfish "Stockfish") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, running on a [cluster](https://en.wikipedia.org/wiki/Computer_cluster) of 640 [AMD](AMD "AMD") [6262 HE](https://en.wikipedia.org/wiki/List_of_AMD_Opteron_microprocessors) [Opteron](X86-64 "X86-64") processors in 62000 CPU hours with [multiPV](Principal_Variation#MultiPV "Principal Variation") 2 and 4GB [hash](Transposition_Table "Transposition Table") for each instance, in order to create [Markov matrices](https://en.wikipedia.org/wiki/Stochastic_matrix) for each year a player was active based on the conformance of his moves. For each position, the model estimates the probability of making a mistake, and the magnitude of the mistake by comparing the two best moves calculated at an average of 2 minutes by move (26 [plies](Ply "Ply") on average) with the move actually played, starting from move number 10 <a id="cite-note-7" href="#cite-ref-7">[7]</a>. By using classical [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra) methods on these matrices, the outcome of games between any players can be predicted, and this prediction is shown to be at least as good as the Elo prediction for players who actually played each other.
-
-
-
 ## See also
 
 

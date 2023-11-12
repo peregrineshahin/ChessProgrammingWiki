@@ -11,25 +11,6 @@ with interests in all aspects of [chess engines](Engines "Engines"), [tournament
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1996 ...](#1996-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2005 ...](#2005-...)
-	+ [1.4 2010 ...](#2010-...)
-	+ [1.5 2015 ...](#2015-...)
-	+ [1.6 2020 ...](#2020-...)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### 1996 ...
 
 

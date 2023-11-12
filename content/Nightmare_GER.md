@@ -12,41 +12,6 @@ a chess program by [Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner") and [
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-	+ [2.1 WMCCC 1990](#wmccc-1990)
-	+ [2.2 WMCCC 1996](#wmccc-1996)
-* [3 Namesake](#namesake)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-given in 1995 <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
-
-```C++
-Completely written in [C](C "C"), work on Nightmare started in 1989 as a non-commercial project. It is a [brute force](Brute-Force "Brute-Force") program searching up to 7-ply in the middle-game with a selective search depth of up to 40 ply. Modified [null-move searches](Null_Move_Pruning "Null Move Pruning"), modified [singular extensions](Singular_Extensions "Singular Extensions"), [part-ply extensions](Extensions#FractionalExtensions "Extensions") and a new idea of hashing related meaningful subtrees are special features of Nightmare.
-
-```
-
-
-```C++
-The program also uses well known techniques like [killer-moves](Killer_Heuristic "Killer Heuristic"), [history heuristic](History_Heuristic "History Heuristic"), [principal variation search](Principal_Variation_Search "Principal Variation Search") and [hash tables](Transposition_Table "Transposition Table") of 64,000 entries per side. The tournament [opening book](Opening_Book "Opening Book") consists of about 40,000 moves. Endgame databases are NOT used. Last year, Nightmare was transferred to 32-bit under extended [DOS](MS-DOS "MS-DOS") and it can now search 12,000 moves per second. The program's rating is about 2000ELO (German) on a [486-50](X86 "X86"). 
-
-```
-
 ## Selected Games
 
 

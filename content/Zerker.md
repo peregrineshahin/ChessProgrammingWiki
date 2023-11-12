@@ -12,23 +12,6 @@ an announced chess entity developed by [James Testa](James_Testa "James Testa"),
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Zerker is elated to or synonym <a id="cite-note-6" href="#cite-ref-6">[6]</a> of Berzerker or [Berserker](https://en.wikipedia.org/wiki/Berserker), [Norse](https://en.wikipedia.org/wiki/Vikings) [warriors](https://en.wikipedia.org/wiki/Warrior) who are reported in the [Old Norse literature](https://en.wikipedia.org/wiki/Old_Norse_literature) to have fought in a nearly uncontrollable, [trance-like](https://en.wikipedia.org/wiki/Battle_trance) fury, a characteristic which later gave rise to the English word berserk. The name berserker arose from their reputed habit of wearing a kind of shirt or coat ([Old Norse](https://en.wikipedia.org/wiki/Old_Norse): serkr) <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## See also
 
 

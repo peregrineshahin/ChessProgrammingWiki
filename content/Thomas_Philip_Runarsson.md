@@ -14,24 +14,6 @@ His research interests include [evolutionary computation](Genetic_Programming#Ev
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 2000 ...
 
 

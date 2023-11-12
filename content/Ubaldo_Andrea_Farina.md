@@ -12,21 +12,6 @@ an Italian computer chess programmer. Author of the chess engines [Fauce](index.
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WCCC 2006](#wccc-2006)
-	+ [1.2 1st Italian Open Chess Software Cup](#1st-italian-open-chess-software-cup)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### WCCC 2006
 
 

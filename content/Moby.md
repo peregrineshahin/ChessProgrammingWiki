@@ -12,27 +12,6 @@ a [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing) chess program 
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 Description](#description)
-* [3 Selected Games](#selected-games)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [David Levy](David_Levy "David Levy")
-* [Mark Taylor](Mark_Taylor "Mark Taylor")
-* [Greg Wilson](Greg_Wilson "Greg Wilson")
-
-
 ## Description
 
 

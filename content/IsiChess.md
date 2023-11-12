@@ -16,38 +16,6 @@ In the following years IsiChess evolved to a pure [fill based](Fill_Algorithms "
 
 
 
-### Contents
-
-
-* [1 Screenshots](#screenshots)
-	+ [1.1 MS-DOS](#ms-dos)
-		- [1.1.1 Multiple Boards](#multiple-boards)
-		- [1.1.2 Book Editor](#book-editor)
-	+ [1.2 Windows](#windows)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1999](#1999)
-	+ [2.2 2007](#2007)
-* [3 Tournaments](#tournaments)
-* [4 Photos & Games](#photos-.26-games)
-	+ [4.1 WCCC 2004](#wccc-2004)
-	+ [4.2 WCCC 2005](#wccc-2005)
-	+ [4.3 WCCC 2006](#wccc-2006)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1999](#1999-2)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Program](#chess-program)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
 ### MS-DOS
 
 

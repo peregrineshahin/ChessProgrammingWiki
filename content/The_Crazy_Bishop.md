@@ -13,28 +13,6 @@ The WCCC 2005 Ramat Gan version TCB0052 <a id="cite-note-4" href="#cite-ref-4">[
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Description](#description)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.ludochess.com/fccc2002/tournoi.php3) 
-[FCCC 2002](FCCC_2002 "FCCC 2002"), The Crazy Bishop vs [Chess Tiger](Chess_Tiger "Chess Tiger"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), background: [Bruno Lucas](Bruno_Lucas "Bruno Lucas"), [Franck Zibi](Franck_Zibi "Franck Zibi") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Description
 
 

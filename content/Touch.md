@@ -12,31 +12,6 @@ a chess program by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), written in [C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-from [Mark Uniacke's](Mark_Uniacke "Mark Uniacke") report on the [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-```C++
-[Search techniques](Search "Search") used are [minimal-window](Null_Window "Null Window"), [alpha-beta](Alpha-Beta "Alpha-Beta") with [extensions](Extensions "Extensions") for [check evasion](Check_Extensions "Check Extensions"), [mate threats](Mate_Threat_Extensions "Mate Threat Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions") and forced moves. [Move ordering](Move_Ordering "Move Ordering") is by [history heuristic](History_Heuristic "History Heuristic"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [countermove heuristic](Countermove_Heuristic "Countermove Heuristic") and [transposition](Hash_Move "Hash Move") and [refutation-table moves](Refutation_Move "Refutation Move"). Positional values may range up to +/- 1 Pawn. Development time is 3 years on a part time basis. The program was created to test AI ideas rather than be tuned for chess competitions. 
-
-```
-
 ## Selected Games
 
 

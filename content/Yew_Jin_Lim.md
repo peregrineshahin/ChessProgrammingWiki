@@ -15,25 +15,6 @@ His research interests include [game AI](Artificial_Intelligence "Artificial Int
 
 
 
-### Contents
-
-
-* [1 Tigers and Goats](#tigers-and-goats)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt"), Yew Jin Lim solved the ancient Nepali board game [Bagh-Chal](https://en.wikipedia.org/wiki/Bagh-Chal), also known as *Tigers and Goats* by [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") and various optimzation techniques <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Selected Publications
 
 

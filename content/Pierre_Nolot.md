@@ -10,25 +10,6 @@ a French chess player and official, computer chess expert, writer and journalist
 
 
 
-### Contents
-
-
-* [1 Two Positions](#two-positions)
-	+ [1.1 Nikolic - Fischer](#nikolic---fischer)
-	+ [1.2 Gusev - Auerbach](#gusev---auerbach)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In an article in *Échec & Mat* magazine from October-November-December 2009, Nolot gives two further positions hard to solve for programs <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### Nikolic - Fischer
 
 

@@ -12,30 +12,6 @@ was a Soviet and Russian outstanding computer pioneer, applied mathematician, sc
 
 
 
-### Contents
-
-
-* [1 Biography](#biography)
-* [2 Strela](#strela)
-* [3 M-20](#m-20)
-* [4 Computer Chess](#computer-chess)
-* [5 Quotes](#quotes)
-	+ [5.1 Bitsets](#bitsets)
-	+ [5.2 Computerized Chess](#computerized-chess)
-* [6 See also](#see-also)
-* [7 Selected Publications](#selected-publications)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-Mikhail R. Shura-Bura studied at the Institute of Mathematics at [Moscow State University](Moscow_State_University "Moscow State University") under the guidance of [Pavel Alexandrov](Mathematician#PAlexandrov "Mathematician"), where he researched on [general topology](https://en.wikipedia.org/wiki/General_topology) and submitted a [candidate dissertation](https://en.wikipedia.org/wiki/Candidate_of_Sciences) thesis in 1947 on *Projection Spectra of Bicompact Spaces*, and in 1952 he defended a [doctoral dissertation](https://en.wikipedia.org/wiki/Thesis) on *The Questions of Solving Mathematical Problems Involving a Large Number of Operations* <a id="cite-note-3" href="#cite-ref-3">[3]</a> . In 1952, he co-authored the first Soviet textbook on programming <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Mikhail R. Shura-Bura was head of the [Keldysh Institute of Applied Mathematics](https://en.wikipedia.org/wiki/Keldysh_Institute_of_Applied_Mathematics), [Moscow Academy of Sciences](https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences), and professor of the department of system programming, Moscow State University, head of its Software Engineering Chair, and since 1994 Professor Emeritus at MSU. Two times Mikhail Romanovich Shura-Bura was awarded with the [USSR State Prize](https://en.wikipedia.org/wiki/USSR_State_Prize), in 1955 for his contribution in the [Soviet atomic bomb project](https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project), and in 1978 for the development of computer software <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-
 ## Strela
 
 

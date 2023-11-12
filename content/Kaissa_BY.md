@@ -23,26 +23,6 @@ Investigator [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&r
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2002 ...](#2002-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Kaissa](Kaissa "Kaissa")
-
-
 ## See also
 
 

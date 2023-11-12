@@ -10,25 +10,6 @@ a British financial, pensions, and business journalist. His areas of expertise i
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1982](#1982)
-	+ [1.2 1983](#1983)
-	+ [1.3 1984](#1984)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 1982
 
 

@@ -12,44 +12,6 @@ a [knowledge](Knowledge "Knowledge") based chess program by [Helmut Horacek](Hel
 
 
 
-### Contents
-
-
-* [1 Pattern Matching](#pattern-matching)
-* [2 Evaluation](#evaluation)
-	+ [2.1 Partial](#partial)
-	+ [2.2 Global](#global)
-* [3 Search](#search)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 References](#references)
-
-
-
-
-
-
-A pattern is composed of three boards, a **fixed-board**, a **not-board**, and a **variable-board**. In the pawn endgame, a [quad-bitboard](Quad-Bitboards "Quad-Bitboards") for pawns and kings of both sides is sufficient. For a pattern match, the fixed-board must be subset of the current board, the intersection of the current board with the not-board must be empty, with the variable-board not empty.
-
-
-
-
-```C++
-
-bool QBB::match(const QBB & fix, const QBB & not, const QBB & var) const {
-  if ((*this & fix) != *this)  return false;
-  if ((*this & not) != QBB(0)) return false;
-  if ((*this & var) == QBB(0)) return false;
-  return true;
-}
-
-```
-
-The pattern match generally is performed for both sides (with appropriate changes for the black side) as well as various parts of the board (shifting the pattern by some ranks and files). Finally, some important pawns and key squares of a successfully matched pattern are given identities for further reference by piece paths and evaluation. A square can receive several identities, e.g. a pawn can be both [passed](Passed_Pawn "Passed Pawn") and [protected](Protected_Passed_Pawn "Protected Passed Pawn"). However, instead of such generalized pattern matching, it seems appropriate to predetermine set-wise instances of [passed pawns](Passed_Pawns_(Bitboards) "Passed Pawns (Bitboards)"), [candidates](Candidates_(Bitboards) "Candidates (Bitboards)"), [backward pawns](Backward_Pawns_(Bitboards) "Backward Pawns (Bitboards)") etc. with the help of [pawn-](Pawn_Spans "Pawn Spans") and [attack spans](Attack_Spans "Attack Spans").
-
-
-
 ## Evaluation
 
 

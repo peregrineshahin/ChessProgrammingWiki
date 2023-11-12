@@ -10,28 +10,6 @@ title: Maastricht University
 
 
 
-### Contents
-
-
-* [1 Important UM Dates](#important-um-dates)
-* [2 People](#people)
-* [3 Chess Programs and Authors](#chess-programs-and-authors)
-* [4 Tournaments](#tournaments)
-* [5 Conferences](#conferences)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* Until 1996 the University of Limburg in Maastricht <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-* In 1996 name change to 'Universiteit Maastricht' <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-* 11 January 2008: Name change to 'Maastricht University'
-* Until 2008 associated with the Editorial Board of the [ICGA Journal](ICGA_Journal "ICGA Journal") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
 ## People
 
 

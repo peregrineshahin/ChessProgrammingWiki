@@ -9,60 +9,6 @@ is a technique to speed up the common traversal of [pieces](Pieces "Pieces") wit
 
 
 
-### Contents
-
-
-* [1 Prologue](#prologue)
-* [2 GNU Chess](#gnu-chess)
-	+ [2.1 Inspired by Hardware](#inspired-by-hardware)
-	+ [2.2 Butterfly Tables](#butterfly-tables)
-* [3 Further Implementations](#further-implementations)
-	+ [3.1 Ferret](#ferret)
-	+ [3.2 Diep](#diep)
-* [4 Conditional Linked List](#conditional-linked-list)
-	+ [4.1 Data Structure](#data-structure)
-	+ [4.2 Control Structure](#control-structure)
-	+ [4.3 Captures vs Quiet](#captures-vs-quiet)
-	+ [4.4 Dense Index List](#dense-index-list)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1998 ...](#1998-...)
-	+ [7.2 2000 ...](#2000-...)
-	+ [7.3 2010 ...](#2010-...)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-The classical technique in sliding piece move generation with [square centric board arrays](Mailbox "Mailbox"), is to loop over all [ray-directions](Direction#RayDirections "Direction"), and per ray-direction from the next closest square (if any) to the farthest square of that [ray](Rays "Rays") until either the target square is occupied by an own piece, or occupied by opponent piece which requires a [capture](Captures "Captures") generation. The control structure, its code size, number of local and register variables, and conditional branches on ray-termination, that is on piece-code combined with farthest square or off-the board tests, were the driving force in designing efficient board representations like [0x88](0x88 "0x88") and [mailbox](Mailbox "Mailbox") in conjunction with appropriate piece coding. One example is the [piece coding](Gambiet#PieceCoding "Gambiet") in [Gambiet](Gambiet "Gambiet") to conditionally branch on several [Z80](Z80 "Z80") processor flags, set by only one shift instruction. For a [8x8 board](8x8_Board "8x8 Board") there was already a proposal by [Alex Bell](Alex_Bell "Alex Bell") as used in [Atlas](Atlas "Atlas") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, to lookup ray-increments per ray-direction and terminal squares per ray-direction and origin - sample code in [C++](Cpp "Cpp") pseudo code:
-
-
-
-
-```C++
-
-for (all directions[piece_kind] -> dir) {
-  delta  = delta_table[dir];
-  lastsq = lastsq_table[dir][fromsq];
-  if ( fromsq != lastsq ) {
-    for (tosq = fromsq + delta; board[tosq].isNotPieceOf(side2move); tosq += delta) {
-      generateMove( fromsq, tosq );
-      if ( board[tosq].isPiece() || tosq == lastsq )
-        break; /* next direction after capture or last square */
-    }
-  }
-}
-
-```
-
-
-
-
-
 ## GNU Chess
 
 

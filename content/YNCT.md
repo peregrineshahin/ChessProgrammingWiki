@@ -10,27 +10,6 @@ a chess program by [Luuk de Vries](index.php?title=Luuk_de_Vries&action=edit&red
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Games](#selected-games)
-	+ [2.1 Chess 0.5X](#chess-0.5x)
-	+ [2.2 Gambiet 82](#gambiet-82)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[](File:YNCTLuukdeVries.jpg)
-YNCT 1.0 on a [Sharp MZ-80](https://en.wikipedia.org/wiki/Sharp_MZ#MZ-80K_group) operated by [Luuk de Vries](index.php?title=Luuk_de_Vries&action=edit&redlink=1 "Luuk de Vries (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Games
 
 

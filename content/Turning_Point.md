@@ -14,23 +14,6 @@ According to [Ed Schröder](Ed_Schroder "Ed Schroder"), Turning Point searches m
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Program](#chess-program)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer) <a id="cite-note-3" href="#cite-ref-3">[3]</a>: *The turning point in my career came with the realization that Black should play to win instead of just steering for equality*.
-
-
 ## External Links
 
 

@@ -8,29 +8,6 @@ title: Pawn Race
 
 
 
-### Contents
-
-
-* [1 Considerations](#considerations)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-
-
-
-
-
-
-To asses such positions correctly, program should take several factors into account:
-
-
-
-* [Distance](Distance "Distance") to the [promotion square](Promotion_Square "Promotion Square")
-* Do promoted queens give [check](Check "Check")?
-* Are [front spans](Pawn_Spans "Pawn Spans") obstructed by own king?
-* Can the opponent king use the [rule of the square](Rule_of_the_Square "Rule of the Square") to its advantage?
-
-
 ## See also
 
 

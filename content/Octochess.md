@@ -13,43 +13,6 @@ Octochess is [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) with
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2012 ...](#2012-...)
-	+ [2.2 2015 ...](#2015-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [Multi-threaded](Thread "Thread") [Search](Parallel_Search "Parallel Search")
-* Tweakable [Evaluation](Evaluation "Evaluation")
-* [Magic Bitboards](Magic_Bitboards "Magic Bitboards") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Principal Variation Search](Principal_Variation_Search "Principal Variation Search")
-* [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
-* [Lockless Transposition Hash Table](Shared_Hash_Table#Lockless "Shared Hash Table")
-* [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
-* [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
-* [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
-* [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
-* [Futility Pruning](Futility_Pruning "Futility Pruning")
-* [Razoring](Razoring "Razoring")
-
-
 ## Forum Posts
 
 

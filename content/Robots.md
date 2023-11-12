@@ -13,49 +13,6 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 
 
 
-### Contents
-
-
-* [1 Dedicated Chess Robots](#Dedicated_Chess_Robots)
-* [2 Publications](#Publications)
-	+ [2.1 1900 ...](#1900_...)
-	+ [2.2 1910 ...](#1910_...)
-	+ [2.3 1960 ...](#1960_...)
-	+ [2.4 1970 ...](#1970_...)
-	+ [2.5 1980 ...](#1980_...)
-	+ [2.6 2000 ...](#2000_...)
-	+ [2.7 2005 ...](#2005_...)
-	+ [2.8 2010 ...](#2010_...)
-	+ [2.9 2015 ...](#2015_...)
-* [3 Forum Posts](#Forum_Posts)
-* [4 External Links](#External_Links)
-	+ [4.1 Control](#Control)
-	+ [4.2 Sensor](#Sensor)
-	+ [4.3 Robots in SF](#Robots_in_SF)
-	+ [4.4 Chess Playing Robots](#Chess_Playing_Robots)
-* [5 References](#References)
-
-
-
-
-
-
-[[5]](#cite_note-5)
-
-
-
-* [Boris Handroid](Boris#Handroid "Boris")
-* [El Ajedrecista](El_Ajedrecista "El Ajedrecista")
-* [Excalibur Mirage](Excalibur_Mirage "Excalibur Mirage")
-* [Excalibur Phantom Force](Excalibur_Phantom_Force "Excalibur Phantom Force")
-* [Fidelity Phantom](Fidelity_Phantom "Fidelity Phantom")
-* [Milton Bradley Phantom](Milton_Bradley_Phantom "Milton Bradley Phantom")
-* [Novag 2Robot](index.php?title=Novag_2Robot&action=edit&redlink=1 "Novag 2Robot (page does not exist)")
-* [Raspberry Turk](Raspberry_Turk "Raspberry Turk")
-* [Robot Adversary](Robot_Adversary "Robot Adversary")
-* [Square Off](index.php?title=Square_Off&action=edit&redlink=1 "Square Off (page does not exist)")
-
-
 ## Publications
 
 

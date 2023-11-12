@@ -10,44 +10,6 @@ title: National Taiwan University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Programs](#programs)
-	+ [2.1 Chinese Chess](#chinese-chess)
-	+ [2.2 Chinese Dark Chess](#chinese-dark-chess)
-	+ [2.3 Go](#go)
-	+ [2.4 Connect6](#connect6)
-* [3 Events](#events)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Chia-Hui Chang](Chia-Hui_Chang "Chia-Hui Chang")
-* [Hung-Jui Chang](Hung-Jui_Chang "Hung-Jui Chang")
-* [Bo-Nian Chen](Bo-Nian_Chen "Bo-Nian Chen")
-* [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen")
-* [Haw-ren Fang](Haw-ren_Fang "Haw-ren Fang")
-* [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu")
-* [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu")
-* [Chih-Wen Hsueh](Chih-Wen_Hsueh "Chih-Wen Hsueh")
-* [Yi-Fan Ke](Yi-Fan_Ke "Yi-Fan Ke")
-* [Richard C. T. Lee](Richard_C._T._Lee "Richard C. T. Lee")
-* [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin")
-* [Pangfeng Liu](Pangfeng_Liu "Pangfeng Liu")
-* [Tai-Ming Parng](Tai-Ming_Parng "Tai-Ming Parng")
-* [Bing-Jie Shen](Bing-Jie_Shen "Bing-Jie Shen")
-* [Chun-Hung Tzeng](Chun-Hung_Tzeng "Chun-Hung Tzeng")
-* [I-Chen Wu](I-Chen_Wu "I-Chen Wu")
-* [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu")
-* [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen")
-
-
 ## Programs
 
 

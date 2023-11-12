@@ -8,45 +8,6 @@ title: Pawn Spans
 
 
 
-### Contents
-
-
-* [1 Type of Spans](#type-of-spans)
-	+ [1.1 Front- and Rearspans](#front--and-rearspans)
-	+ [1.2 Interspans](#interspans)
-* [2 Stop and Telestop](#stop-and-telestop)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-
-
-
-
-
-
-Every pawn has a **frontspan** with [stop](Stop_Square "Stop Square") - and **telestop** squares, and a **rearspan**. Further the pawn has a **lee**- and **luff**-side, while rook-pawns miss the lee-side.
-
-
-
-
-```C++
-
-white pawn d5:
-. . . f . . . .
-. . . r . . . .    movement
-. . . o . . . .      ^
-l e e P l u f f      |
-. . . r . . . .
-. . . e . . . .
-. . . a . . . .
-. . . r . . . .
-
-```
-
-A span of each individual pawn reflects either its [distance](Distance "Distance") to promotion (frontspan), or distance to its back rank (rearspan).
-
-
-
-
 ### Front- and Rearspans
 
 

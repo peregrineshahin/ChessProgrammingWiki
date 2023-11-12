@@ -20,26 +20,6 @@ Iota performs [alpha-beta](Alpha-Beta "Alpha-Beta"), and considers [material](Ma
  | Ιώτα <a id="cite-note-5" href="#cite-ref-5">[5]</a> |
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Gaviota](Gaviota "Gaviota")
-* [Micro-Max](Micro-Max "Micro-Max")
-* [Toledo Nanochess](Toledo "Toledo")
-
-
 ## Forum Posts
 
 

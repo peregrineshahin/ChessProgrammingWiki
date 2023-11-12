@@ -12,50 +12,6 @@ also called Null Move Heuristic (**NMH**), is a method based on the [Null Move O
 
 
 
-### Contents
-
-
-* [1 History](#History)
-	+ [1.1 Mater II](#Mater_II)
-	+ [1.2 Kaissa](#Kaissa)
-	+ [1.3 Beal's NMQS](#Beal.27s_NMQS)
-	+ [1.4 Schaeffer](#Schaeffer)
-	+ [1.5 Goetsch and Campbell](#Goetsch_and_Campbell)
-	+ [1.6 Morsch and Donninger](#Morsch_and_Donninger)
-* [2 Schemes](#Schemes)
-	+ [2.1 Adaptive Null Move Pruning](#Adaptive_Null_Move_Pruning)
-	+ [2.2 Restrictions on use](#Restrictions_on_use)
-	+ [2.3 Zugzwang Verification](#Zugzwang_Verification)
-	+ [2.4 Double Null Move](#Double_Null_Move)
-	+ [2.5 Variable NM Bound](#Variable_NM_Bound)
-* [3 Threat Detection](#Threat_Detection)
-	+ [3.1 Mate Threats](#Mate_Threats)
-	+ [3.2 Botvinnik-Markoff Extension](#Botvinnik-Markoff_Extension)
-	+ [3.3 Influence on Move Ordering](#Influence_on_Move_Ordering)
-* [4 Test Results](#Test_Results)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1966](#1966)
-	+ [6.2 1975](#1975)
-	+ [6.3 1980 ...](#1980_...)
-	+ [6.4 1990 ...](#1990_...)
-	+ [6.5 2000 ...](#2000_...)
-	+ [6.6 2010 ...](#2010_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1995 ...](#1995_...)
-	+ [7.2 2000 ...](#2000_..._2)
-	+ [7.3 2005 ...](#2005_...)
-	+ [7.4 2010 ...](#2010_..._2)
-	+ [7.5 2015 ...](#2015_...)
-	+ [7.6 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-* [9 References](#References)
-
-
-
-
-
-
 ### Mater II
 
 

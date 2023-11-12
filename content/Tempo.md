@@ -8,28 +8,6 @@ In [chess](Chess "Chess"), a **tempo** refers to a "turn" or single move. When a
 
 
 
-### Contents
-
-
-* [1 Force, Space and Time](#force.2c-space-and-time)
-* [2 Tempo Bonus](#tempo-bonus)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1997 ...](#1997-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[Tarrasch's](https://en.wikipedia.org/wiki/Siegbert_Tarrasch) concept of force, [space](Space "Space") and time <a id="cite-note-1" href="#cite-ref-1">[1]</a> and their equivalence (to some extend) is considered by [material](Material "Material") (force), [piece placement](Piece-Square_Tables "Piece-Square Tables") and [center control](Center_Control "Center Control") (space) and roughly by [mobility](Mobility "Mobility") (space and time) inside the [evaluation](Evaluation "Evaluation") of a chess program. Whether gaining three tempos in a [gambit opening](index.php?title=Gambit&action=edit&redlink=1 "Gambit (page does not exist)") is worth a [pawn](Pawn "Pawn"), is a matter of considering [piece development](Development "Development") and [king safety](King_Safety "King Safety") issues related to center [pawn structure](Pawn_Structure "Pawn Structure") (open/close, [lever](Pawn_Levers_(Bitboards) "Pawn Levers (Bitboards)") options) and [castling](Castling "Castling") abilities, f.i. estimating number of moves to castle, and certain long term deficiencies. Also, some programs better rely more or less on the [opening book](Opening_Book "Opening Book") to play gambits well.
-
-
-
 ## Tempo Bonus
 
 

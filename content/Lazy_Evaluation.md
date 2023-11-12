@@ -12,30 +12,6 @@ In the chess programming sense of the phrase <a id="cite-note-2" href="#cite-ref
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1995 ...](#1995-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [CPW-Engine\_eval](CPW-Engine_eval "CPW-Engine eval")
-* [Evaluation in Rookie 2.0](Rookie#Evaluation "Rookie")
-* [Futility Pruning](Futility_Pruning "Futility Pruning")
-* [Lazy SMP](Lazy_SMP "Lazy SMP")
-* [Razoring](Razoring "Razoring")
-
-
 ## Forum Posts
 
 

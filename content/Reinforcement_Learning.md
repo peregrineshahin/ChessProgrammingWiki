@@ -15,46 +15,6 @@ Reinforcement learning is indebted to the idea of [Markov decision processes](ht
 
 
 
-### Contents
-
-
-* [1 Q-Learning](#Q-Learning)
-* [2 Temporal Difference Learning](#Temporal_Difference_Learning)
-* [3 See also](#See_also)
-* [4 Selected Publications](#Selected_Publications)
-	+ [4.1 1954 ...](#1954_...)
-	+ [4.2 1960 ...](#1960_...)
-	+ [4.3 1970 ...](#1970_...)
-	+ [4.4 1980 ...](#1980_...)
-	+ [4.5 1990 ...](#1990_...)
-	+ [4.6 1995 ...](#1995_...)
-	+ [4.7 2000 ...](#2000_...)
-	+ [4.8 2005 ...](#2005_...)
-	+ [4.9 2010 ...](#2010_...)
-	+ [4.10 2015 ...](#2015_...)
-	+ [4.11 2020 ...](#2020_...)
-* [5 Postings](#Postings)
-	+ [5.1 1995 ...](#1995_..._2)
-	+ [5.2 2000 ...](#2000_..._2)
-	+ [5.3 2010 ...](#2010_..._2)
-	+ [5.4 2020 ...](#2020_..._2)
-* [6 External Links](#External_Links)
-	+ [6.1 Reinforcement Learning](#Reinforcement_Learning)
-	+ [6.2 MDP](#MDP)
-	+ [6.3 Q-Learning](#Q-Learning_2)
-	+ [6.4 Courses](#Courses)
-	+ [6.5 GitHub](#GitHub)
-* [7 References](#References)
-
-
-
-
-
-
-Q-Learning, introduced by [Chris Watkins](index.php?title=Chris_Watkins&action=edit&redlink=1 "Chris Watkins (page does not exist)") in 1989, is a simple way for [agents](https://en.wikipedia.org/wiki/Intelligent_agent) to learn how to act optimally in controlled Markovian domains [[2]](#cite_note-2). It amounts to an incremental method for dynamic programming which imposes limited computational demands. It works by successively improving its evaluations of the quality of particular actions at particular states. Q-learning converges to the optimum action-values with probability 1 so long as all actions are repeatedly sampled in all states and the action-values are represented discretely [[3]](#cite_note-3). Q-learning has been successfully applied to [deep learning](Deep_Learning "Deep Learning") by a [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") team in playing some [Atari 2600](Atari_8-bit "Atari 8-bit") [games](https://en.wikipedia.org/wiki/List_of_Atari_2600_games) as published in [Nature](https://en.wikipedia.org/wiki/Nature_%28journal%29), 2015, dubbed *deep reinforcement learning* or *deep Q-networks* [[4]](#cite_note-4), soon followed by the spectacular [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero") breakthroughs. 
-
-
-
 ## Temporal Difference Learning
 
 

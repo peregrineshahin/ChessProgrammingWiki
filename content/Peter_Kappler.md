@@ -16,21 +16,6 @@ Peter Kappler was computer chess consultant for [Andrew Bujalski's](https://en.w
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1995 ...](#1995-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1995 ...
 
 

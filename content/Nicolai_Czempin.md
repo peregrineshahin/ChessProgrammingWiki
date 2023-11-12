@@ -13,21 +13,6 @@ Since around 1996 he has specialized on [Java](Java "Java"). As avocational ches
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1989](#1989)
-	+ [1.2 2006](#2006)
-	+ [1.3 2007](#2007)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1989
 
 

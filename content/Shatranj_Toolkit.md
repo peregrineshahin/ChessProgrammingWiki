@@ -17,23 +17,6 @@ where execution speed becomes less important then code clarity and expressive po
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [python-chess](Python-chess "Python-chess")
-* [Shatranj](Shatranj "Shatranj") (Chess Variant)
-
-
 ## Selected Publications
 
 

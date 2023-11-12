@@ -10,25 +10,6 @@ The **University of Manchester** in [Manchester](https://en.wikipedia.org/wiki/M
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Freedom](Freedom "Freedom")
-* [Mate-in-two](Mate-in-two "Mate-in-two")
-* [Turochamp](Turochamp "Turochamp")
-* [White Knight](White_Knight "White Knight")
-
-
 ## People
 
 

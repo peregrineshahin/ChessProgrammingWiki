@@ -10,27 +10,6 @@ a Chinese computer scientist and professor at School of Information Science and 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[](File:XinheXu2006.JPG)
-Xinhe Xu strikes a pose, [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") takes a photo of [Sacra di San Michele](https://en.wikipedia.org/wiki/Sacra_di_San_Michele) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ## Selected Publications
 
 

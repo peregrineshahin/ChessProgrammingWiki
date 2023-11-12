@@ -13,31 +13,6 @@ Neptune was the forerunner of [Morgoth](Morgoth "Morgoth"), which was a complete
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-by [Don Beal](Don_Beal "Don Beal") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```C++
-Written by Matthew Craighead, age 11 years, from Minnesota. Matthew is a prodigy (his father refers to him as a "different" child). He began writing computer programs in [Basic](Basic "Basic") at age 4, reading computer manuals as well as biology and anatomy books. From 5 he read his father's biochemistry books. 3 years ago he read about computer chess, and subsequently decided to write his own program. His first one was in [Pascal](Pascal "Pascal"), but he later realised the advantages of the [C](C "C") language, and re-wrote it. He is currently taking university classes in maths (calculus) as well as attending school. Neptune is not expected to win against the experienced and professional programs in this tournament, but what if he keeps working on it... 
-
-```
-
 ## See also
 
 

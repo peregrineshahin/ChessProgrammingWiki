@@ -12,27 +12,6 @@ a Japanese computer scientist, and associate professor at Graduate School of the
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-	+ [2.5 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [P-GPP](Shu_Yokoyama#PGPP "Shu Yokoyama")
-
-
 ## Selected Publications
 
 

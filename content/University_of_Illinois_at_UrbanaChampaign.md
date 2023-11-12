@@ -12,24 +12,6 @@ is a public [research university](https://en.wikipedia.org/wiki/Research_univers
 
 
 
-### Contents
-
-
-* [1 NCSA](#ncsa)
-* [2 People](#people)
-* [3 Chess Programs](#chess-programs)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-The university hosts the [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications) (NCSA) and is home to the fastest supercomputer on a university campus, such as the [Connection Machine-5/512](Connection_Machine "Connection Machine") in the 90s <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-
-
-
 ## People
 
 

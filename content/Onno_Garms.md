@@ -13,29 +13,6 @@ As former youth chess player and autodidact programmer, he developed the chess e
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* Onno Garms, [Ralf Heckmann](https://www.fraunhofer-innovisions.de/experten/ralf-heckmann/), [Stefan Rank](https://www.linkedin.com/in/stefan-rank-1737833/) (**2004**). *[Contpack - Maximising the Volume Utilisation of Containers](https://www.ercim.eu/publication/Ercim_News/enw56/garms.html)*. [ERCIM News, No. 56](https://www.ercim.eu/publication/Ercim_News/enw56/)
-* Onno Garms (**2006**). *[Periodische Verschachtelungsprobleme in R x [0,w]](http://publica.fraunhofer.de/documents/N-61990.html)*. Ph.D. thesis, [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)
-
-
 ## Forum Posts
 
 

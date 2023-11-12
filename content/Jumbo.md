@@ -13,31 +13,6 @@ Based on a [mailbox](Mailbox "Mailbox") [board representation](Board_Representat
 
 
 
-### Contents
-
-
-* [1 Jumbo Twins](#jumbo-twins)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2016](#2016)
-	+ [3.2 2017](#2017)
-	+ [3.3 2018](#2018)
-	+ [3.4 2019](#2019)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[ Jumbo in Advertisement <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-Jumbo **0.5.3**, released in September 2017 comes with an additional, [conditional compiled](https://en.wikipedia.org/wiki/Conditional_compilation) [bitboard](Bitboards "Bitboards") representation, both are built from the same source tree as 32-bit and 64-bit programs <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## See also
 
 

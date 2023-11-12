@@ -8,40 +8,6 @@ title: Portable Game Notation
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Blog & Forum Posts](#blog-.26-forum-posts)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-	+ [2.5 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-	+ [3.1 PGN](#pgn)
-	+ [3.2 PGN Utilities](#pgn-utilities)
-	+ [3.3 Open Source Utilities](#open-source-utilities)
-	+ [3.4 PGN Collections](#pgn-collections)
-* [4 References](#references)
-
-
-
-
-
-
-* [Algebraic Chess Notation](Algebraic_Chess_Notation "Algebraic Chess Notation")
-
-
- [SAN](Algebraic_Chess_Notation#SAN "Algebraic Chess Notation") 
-* [Chess Artist](Ferdinand_Mosca#ChessArtist "Ferdinand Mosca") by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
-* [Chess Query Language](Chess_Query_Language "Chess Query Language") (CQL)
-* [Extended Position Description](Extended_Position_Description "Extended Position Description") (EPD)
-* [Forsyth-Edwards Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") (FEN)
-* [Chess.jl](Chess.jl "Chess.jl")
-* [python-chess](Python-chess "Python-chess")
-
-
 ## Blog & Forum Posts
 
 

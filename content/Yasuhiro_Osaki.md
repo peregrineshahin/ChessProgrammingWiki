@@ -12,23 +12,6 @@ a Japanese software engineer and computer scientist at [Sony](https://en.wikiped
 
 
 
-### Contents
-
-
-* [1 TD(λ)-MC](#td.28.ce.bb.29-mc)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Yasuhiro Osaki's research was about [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and the application of [TD(λ)](Temporal_Difference_Learning#TDLamba "Temporal Difference Learning") based on [Monte-Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method) in computer games. The program committee of the [12th Game Programming Workshop 2007](Conferences#GPW12 "Conferences") gave the best presentation award to Yasuhiro Osaki on **TD(λ)-MC**, a reinforcement learning approach with Monte-carlo simulations <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Selected Publications
 
 

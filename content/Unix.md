@@ -10,26 +10,6 @@ a [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking), [multi-us
 
 
 
-### Contents
-
-
-* [1 Components](#components)
-* [2 Philosophy](#philosophy)
-* [3 Unix-Systems](#unix-systems)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Unix consists of a [Kernel](https://en.wikipedia.org/wiki/Kernel_%28computing%29), a [Shell](https://en.wikipedia.org/wiki/Unix_shell) that provides a traditional [command-line user interface](https://en.wikipedia.org/wiki/Command-line_interface) as well as a [scripting language](https://en.wikipedia.org/wiki/Scripting_language), and [Utility programs](https://en.wikipedia.org/wiki/List_of_Unix_utilities). [Graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) for Unix, such as [GNOME](https://en.wikipedia.org/wiki/GNOME), [KDE](https://en.wikipedia.org/wiki/KDE), and [Xfce](https://en.wikipedia.org/wiki/Xfce) based on the [X Window System](https://en.wikipedia.org/wiki/X_Window_System) <a id="cite-note-2" href="#cite-ref-2">[2]</a> are called visual or graphical shells.
-
-
-
 ## Philosophy
 
 

@@ -12,31 +12,6 @@ a chess engine by [Munjong](Munjong_Kolss "Munjong Kolss") and [Muntsin Kolss](M
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Description](#description)
-* [3 Photos & Games](#photos-.26-games)
-	+ [3.1 IPCCC 2002](#ipccc-2002)
-	+ [3.2 IPCCC 2005 b](#ipccc-2005-b)
-	+ [3.3 WCCC 2006](#wccc-2006)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Engine](#engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Ikarus played three [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), the [WCCC 2002](WCCC_2002 "WCCC 2002") in [Maastricht](https://en.wikipedia.org/wiki/Maastricht), and the [WCCC 2006](WCCC_2006 "WCCC 2006") in [Turin](https://en.wikipedia.org/wiki/Turin), where Ikarus managed to win the Blitz tournament, awarded by the title of *World Computer Speed-Chess Champion*. Able to play [Chess960](Chess960 "Chess960"), Ikarus participated at the two open [Livingston Chess960 Computer World Championships](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship"), fifth place in [2005](Chess960CWC_2005 "Chess960CWC 2005") and even third in [2006](Chess960CWC_2006 "Chess960CWC 2006"), and was qualified to play the [Chess960CWC 2009](Chess960CWC_2009 "Chess960CWC 2009") where only four engines competed in the final <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-Ikarus regularly played the [International Paderborn Computer Chess Championships](IPCCC "IPCCC"). The debut in [1999](IPCCC_1999 "IPCCC 1999") with a shared second place was already promising. Further, Ikarus played various [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), and except one occasion at [CCT6](CCT6 "CCT6") with severe internet access problems due to a dying router <a id="cite-note-7" href="#cite-ref-7">[7]</a>, it most often played for the top rankings. 
-
-
-
 ## Description
 
 

@@ -12,27 +12,6 @@ a Dutch [theorecial physicist](https://en.wikipedia.org/wiki/Theoretical_physics
 
 
 
-### Contents
-
-
-* [1 HEPGAME](#hepgame)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Jos Vermaseren proposed the HEPGAME <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, to solve extremely complicated equations in [high energy physics](https://en.wikipedia.org/wiki/Particle_physics) urgently needed to make optimal use of upcoming experimental data from the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) at [CERN](https://en.wikipedia.org/wiki/CERN) in [Geneva](https://en.wikipedia.org/wiki/Geneva), awarded by the [European Research Council](https://en.wikipedia.org/wiki/European_Research_Council) with the ERC advanced grant in 2012. The idea is to use insights from [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") like [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") and [UCT](UCT "UCT"), worked out in collaboration with [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Aske Plaat](Aske_Plaat "Aske Plaat") at [Leiden University](Leiden_University "Leiden University"). The grant will fund two postdoc positions for a duration of five years at Nikhef, and in addition two Ph.D. positions at [Leiden University](Leiden_University "Leiden University") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

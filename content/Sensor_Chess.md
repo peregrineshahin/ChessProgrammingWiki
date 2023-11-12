@@ -13,23 +13,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Move Generation](#move-generation)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-How to [generate moves](Move_Generation "Move Generation") with 256 bytes RAM or less? Clearly, generation in chunks with [move lists](Move_List "Move List") for each [ply](Ply "Ply") is not possible. One idea is to use the last move generated of each ply (if any), which needs to be saved on the ply [stack](Stack "Stack") for [unmake](Unmake_Move "Unmake Move") anyway, as state of the generator, which implies [target square](Target_Square "Target Square"), [source square](Origin_Square "Origin Square") and [direction](Direction "Direction"), and with the help of the [board array](8x8_Board "8x8 Board") or [piece list](Piece-Lists "Piece-Lists"), the possible [captured piece](Captures "Captures"), and the moving piece. One may consider one [killer](Killer_Move "Killer Move") or [PV-move](PV-Move "PV-Move") and [MVV-LVA](MVV-LVA "MVV-LVA") for reasonable [move ordering](Move_Ordering "Move Ordering"), to otherwise use nested loops over target pieces/squares, directions, and source squares and pieces until the next move is found or no more are available.
-
-
-
 ## See also
 
 

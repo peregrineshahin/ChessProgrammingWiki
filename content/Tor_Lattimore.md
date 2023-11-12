@@ -16,25 +16,6 @@ As a chess player, and former computer chess programmer, Tor Lattimore is author
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2010 ...](#2010-...)
-	+ [1.2 2015 ...](#2015-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2010 ...
 
 

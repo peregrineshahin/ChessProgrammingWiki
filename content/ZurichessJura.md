@@ -12,47 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 A-B](#a-b)
-	+ [1.2 Fribourg](#fribourg)
-	+ [1.3 Geneva](#geneva)
-	+ [1.4 Glarus](#glarus)
-	+ [1.5 Graubuenden](#graubuenden)
-	+ [1.6 Jura](#jura)
-	+ [1.7 Luzern](#luzern)
-	+ [1.8 Neuchâtel](#neuch.c3.a2tel)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2015](#2015)
-	+ [3.2 2016](#2016)
-	+ [3.3 2017](#2017)
-	+ [3.4 2018 ...](#2018-...)
-	+ [3.5 2019](#2019)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-		- [4.2.1 Aargau](#aargau)
-		- [4.2.2 Appenzell](#appenzell)
-		- [4.2.3 Basel](#basel)
-		- [4.2.4 Bern](#bern)
-		- [4.2.5 Fribourg](#fribourg-2)
-		- [4.2.6 Geneva](#geneva-2)
-		- [4.2.7 Glarus](#glarus-2)
-		- [4.2.8 Graubünden](#graub.c3.bcnden)
-		- [4.2.9 Jura](#jura-2)
-		- [4.2.10 Luzern](#luzern-2)
-		- [4.2.11 Neuchâtel](#neuch.c3.a2tel-2)
-		- [4.2.12 Zurich](#zurich)
-* [5 References](#references)
-
-
-
-
-
-
 ### A-B
 
 

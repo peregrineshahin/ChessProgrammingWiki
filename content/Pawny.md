@@ -15,26 +15,6 @@ Pawny's board was initially [represented](Board_Representation "Board Representa
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2009](#2009)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

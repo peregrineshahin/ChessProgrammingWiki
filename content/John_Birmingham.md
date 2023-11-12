@@ -12,33 +12,6 @@ a British computer scientist and programmer from [Harwell Atomic Energy Research
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[Alex Bell](Alex_Bell "Alex Bell") about John Birmingham <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-This change from centre control to actively hunting the opponent's king was very noticeable. At this point a very energetic programmer from Harwell Atomic Energy Research Establishment, John Birmingham, became interested. He translated the program, plus all the new improvements, into [PL/l](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") in about 6 weeks of his spare time and also extended the depth of the search. I would say at this point that England at last had a program comparable to MACHACK and we ambitiously christened it MASTER-Minimax Algorithm teSTER; if nothing else we had the patent on a good name. 
-
-```
-
-
-
-
-
 ## Selected Publications
 
 

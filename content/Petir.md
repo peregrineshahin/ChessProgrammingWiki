@@ -13,24 +13,6 @@ Petir had its tournament debut at [CCT7](CCT7 "CCT7") in 2005 (3/8), and further
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Blitz](Blitz "Blitz")
-
-
 ## Forum Posts
 
 

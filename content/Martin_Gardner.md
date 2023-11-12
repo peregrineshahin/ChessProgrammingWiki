@@ -12,29 +12,6 @@ was an American polymath, [recreational mathematics](https://en.wikipedia.org/wi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1950 ...](#1950-...)
-	+ [1.2 1960 ...](#1960-...)
-	+ [1.3 1970 ...](#1970-...)
-	+ [1.4 1980 ...](#1980-...)
-	+ [1.5 1990 ...](#1990-...)
-	+ [1.6 2000 ...](#2000-...)
-	+ [1.7 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-
-
-
 ### 1950 ...
 
 

@@ -13,21 +13,6 @@ and researched and published along with his thesis advisor [Marvin Solomon](Marv
 
 
 
-### Contents
-
-
-* [1 Algorithm ER](#algorithm-er)
-	+ [1.1 Abstract](#abstract)
-	+ [1.2 Pseudo Code](#pseudo-code)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Abstract
 
 

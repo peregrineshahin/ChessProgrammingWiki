@@ -10,23 +10,6 @@ an American [real estate](https://en.wikipedia.org/wiki/Real_estate) developer a
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1997](#1997)
-	+ [1.2 1998](#1998)
-	+ [1.3 1999](#1999)
-	+ [1.4 2000 ...](#2000-...)
-	+ [1.5 2005 ...](#2005-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1997
 
 

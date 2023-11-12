@@ -19,27 +19,6 @@ By predicting those node types, he managed to improve [pruning](Pruning "Pruning
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Parrot played the [ACCA 2010](ACCA_2010 "ACCA 2010"), [ACCA 2011](ACCA_2011 "ACCA 2011"), [ACCA 2012](ACCA_2012 "ACCA 2012"), [WCRCC 2011](WCRCC_2011 "WCRCC 2011"), [WCRCC 2012](WCRCC_2012 "WCRCC 2012"), [WCRCC 2013](WCRCC_2013 "WCRCC 2013") and the [CCT14](CCT14 "CCT14"). 
-
-
-
 ## Selected Games
 
 

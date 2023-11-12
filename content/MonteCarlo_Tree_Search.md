@@ -13,54 +13,6 @@ MCTS is based on randomized explorations of the [search space](Search_Space "Sea
 
 
 
-### Contents
-
-
-* [1 Four Phases](#Four_Phases)
-* [2 Pure Monte-Carlo search](#Pure_Monte-Carlo_search)
-* [3 UCT](#UCT)
-* [4 Playouts by NN](#Playouts_by_NN)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1987](#1987)
-	+ [6.2 1990 ...](#1990_...)
-	+ [6.3 2000 ...](#2000_...)
-	+ [6.4 2005 ...](#2005_...)
-	+ [6.5 2010 ...](#2010_...)
-	+ [6.6 2015 ...](#2015_...)
-	+ [6.7 2020 ...](#2020_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 2010 ...](#2010_..._2)
-	+ [7.2 2015 ...](#2015_..._2)
-	+ [7.3 2020 ...](#2020_..._2)
-* [8 External Links](#External_Links)
-	+ [8.1 Monte Carlo Tree Search](#Monte_Carlo_Tree_Search)
-	+ [8.2 Monte Carlo Misc](#Monte_Carlo_Misc)
-* [9 References](#References)
-
-
-
-
-
-
-MCTS consists of four strategic phases, repeated as long as there is time left [[13]](#cite_note-13) : 
-
-
-
-1. In the **Selection** phase the tree is traversed from the [root node](Root "Root") until it selects a [leaf node](Leaf_Node "Leaf Node") that is not added to the tree yet
-2. The **Expansion** strategy adds the leaf node to the tree
-3. The **Simulation** strategy plays moves in self-play until the end of the game. The result is either 1, 0 ,-1
-4. The **Backpropagation** strategy propagates the results through the tree
-
-
-[.svg)
-Steps of Monte Carlo Tree Search [[14]](#cite_note-14)
-
-
-
-
-
-
 ## Pure Monte-Carlo search
 
 

@@ -12,33 +12,6 @@ a designer and manufacturer of consumer electronics and [dedicated chess compute
 
 
 
-### Contents
-
-
-* [1 Novag / SciSys](#novag-.2f-scisys)
-* [2 Philidor Software](#philidor-software)
-* [3 Kaplan](#kaplan)
-* [4 Fall of Computer Chess Era](#fall-of-computer-chess-era)
-* [5 Programmers](#programmers)
-* [6 Selected Computers](#selected-computers)
-	+ [6.1 Philidor Software](#philidor-software-2)
-	+ [6.2 Heuristic Software](#heuristic-software)
-	+ [6.3 Kaare Danielsen](#kaare-danielsen)
-	+ [6.4 Frans Morsch](#frans-morsch)
-	+ [6.5 Saitek Misc](#saitek-misc)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-As partner of [Peter Auge](Peter_Auge "Peter Auge") and his Hong Kong based company [Novag](Novag "Novag"), Winkler was already involved in designing and manufacturing dedicated chess computers since 1978, which became also SciSys' primary business after the Novag / SciSys split in 1979, when SciSys' first manufactured dedicated unit was the [Chess Champion Super System III](Chess_Champion_Super_System_III "Chess Champion Super System III") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , with a [6502](6502 "6502") CPU and a program developed by [Mike Johnson](Mike_Johnson "Mike Johnson") and [David Levy](David_Levy "David Levy"), and marketed by Novag but also as *ChessMaster* by SciSys.
-
-
-
 ## Philidor Software
 
 

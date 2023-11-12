@@ -13,56 +13,6 @@ Using the [transposition table](Transposition_Table "Transposition Table") is es
 
 
 
-### Contents
-
-
-* [1 Considerations](#considerations)
-* [2 Pawn Endgame Programs](#pawn-endgame-programs)
-* [3 Pawn Endgame Positions](#pawn-endgame-positions)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 Chess](#chess)
-	+ [5.2 Computer Chess](#computer-chess)
-	+ [5.3 1977 ...](#1977-...)
-	+ [5.4 1980 ...](#1980-...)
-	+ [5.5 1990 ...](#1990-...)
-	+ [5.6 2000 ...](#2000-...)
-	+ [5.7 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1997 ...](#1997-...)
-	+ [6.2 2000 ...](#2000-...-2)
-	+ [6.3 2010 ...](#2010-...-2)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-* [Backward Pawn](Backward_Pawn "Backward Pawn")
-* [Blockage Detection](Blockage_Detection "Blockage Detection")
-* [Candidate Passed Pawn](Candidate_Passed_Pawn "Candidate Passed Pawn")
-* [Capture Extensions](Capture_Extensions "Capture Extensions")
-* [Connected Passed Pawns](Connected_Passed_Pawns "Connected Passed Pawns")
-* [Corresponding Squares](Corresponding_Squares "Corresponding Squares")
-* [Hidden Passed Pawn](Hidden_Passed_Pawn "Hidden Passed Pawn")
-* [King Pawn Tropism](King_Pawn_Tropism "King Pawn Tropism")
-* [KPK](KPK "KPK") database/rules
-* [Opposition](Opposition "Opposition")
-* [Outside Passed Pawn](Outside_Passed_Pawn "Outside Passed Pawn")
-* [Pawns Breakthrough](Pawns_Breakthrough "Pawns Breakthrough")
-* [Pawn Race](Pawn_Race "Pawn Race")
-* [Passed Pawn](Passed_Pawn "Passed Pawn")
-* [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions")
-* [Protected Passed Pawn](Protected_Passed_Pawn "Protected Passed Pawn")
-* [Rule of the Square](Rule_of_the_Square "Rule of the Square")
-* [Stalemate](Stalemate "Stalemate")
-* [Tempo](Tempo "Tempo")
-* [Triangulation](Triangulation "Triangulation")
-* [Zugzwang](Zugzwang "Zugzwang")
-
-
 ## Pawn Endgame Programs
 
 

@@ -14,29 +14,6 @@ He defended his Ph.D. at [Darmstadt University of Technology](Darmstadt_Universi
 
 
 
-### Contents
-
-
-* [1 Endspiel](#endspiel)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1963 ...](#1963-...)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1980 ...](#1980-...)
-	+ [2.4 1990 ...](#1990-...)
-	+ [2.5 1995 ...](#1995-...)
-	+ [2.6 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Wilhelm Barth is author of the rule based [Windows](Windows "Windows") chess program and explanation tool [Endspiel](Endspiel "Endspiel") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, which applies techniques as elaborated along with [Heinz Herbeck](Heinz_Herbeck "Heinz Herbeck") in [ICCA Journal](ICGA_Journal#19_2 "ICGA Journal"). Endspiel applies an algorithms to gather information about the [principal variation](Principal_Variation "Principal Variation") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") [alpha-beta](Alpha-Beta "Alpha-Beta") framework, giving the user hints why a move was chosen and what happens after a series of moves <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Selected Publications
 
 

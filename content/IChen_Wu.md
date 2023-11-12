@@ -12,29 +12,6 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 
 
 
-### Contents
-
-
-* [1 Programs](#Programs)
-* [2 See also](#See_also)
-* [3 Selected Publications](#Selected_Publications)
-	+ [3.1 1990 ...](#1990_...)
-	+ [3.2 2005 ...](#2005_...)
-	+ [3.3 2010 ...](#2010_...)
-	+ [3.4 2015 ...](#2015_...)
-	+ [3.5 2020 ...](#2020_...)
-* [4 External Links](#External_Links)
-* [5 References](#References)
-
-
-
-
-
-
-I-Chen Wu is inventor of [Connect6](Connect6 "Connect6") [[4]](#cite_note-4), as presented at [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11") in 2005 [[5]](#cite_note-5) , and co-author of the gold medal winning programs [NCTU6](https://www.game-ai-forum.org/icga-tournaments/program.php?id=231) and [NCTU6-Lite](https://www.game-ai-forum.org/icga-tournaments/program.php?id=585), as well as co-author of the [Chinese Chess](Chinese_Chess "Chinese Chess") program [Chimo](index.php?title=Chimo&action=edit&redlink=1 "Chimo (page does not exist)"). More recently, he co-authored and supervised the [2048](https://en.wikipedia.org/wiki/2048_%28video_game%29) bot [CGI-2048](Kun-Hao_Yeh#CGI-2048 "Kun-Hao Yeh") [[6]](#cite_note-6), and the [Go](Go "Go") playing program [CGI](https://www.game-ai-forum.org/icga-tournaments/program.php?id=800) [[7]](#cite_note-7) .
-
-
-
 ## See also
 
 

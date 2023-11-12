@@ -10,35 +10,6 @@ programs and scripts, often incorporated in [user Interfaces](User_Interface "Us
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 References](#references)
-
-
-
-
-
-
-* [Amoeba Tournament Manager](Amoeba#TournamentManager "Amoeba")
-* [Arena](Arena "Arena")
-* [Banksia](Banksia "Banksia")
-* [c-chess-cli](C-chess-cli "C-chess-cli")
-* [CETSA](index.php?title=CETSA&action=edit&redlink=1 "CETSA (page does not exist)") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-* [ChessGUI](ChessGUI "ChessGUI")
-* [Cute Chess](Cute_Chess "Cute Chess")
-* [Cutechess-cli](Cutechess-cli "Cutechess-cli")
-* [FSTM](index.php?title=FSTM&action=edit&redlink=1 "FSTM (page does not exist)")
-* [LittleBlitzer](LittleBlitzer "LittleBlitzer")
-* [Lucas Chess](Lucas_Chess "Lucas Chess")
-* [Scid vs. PC](Scid_vs._PC "Scid vs. PC")
-* [WinBoard](WinBoard#TournamentManager "WinBoard")
-* [XBoard](XBoard#TournamentManager "XBoard")
-
-
 ## See also
 
 

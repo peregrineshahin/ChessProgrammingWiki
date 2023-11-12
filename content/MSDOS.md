@@ -12,30 +12,6 @@ and its rebranded version [IBM PC-DOS](https://en.wikipedia.org/wiki/PC-DOS) wer
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Manuals](#manuals)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1993 ...](#1993-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Operating System](#operating-system)
-	+ [4.2 Chess](#chess)
-* [5 References](#references)
-
-
-
-
-
-
-* [CLI](CLI "CLI")
-* [Windows](Windows "Windows")
-* [Dos Engines](Category:DosEngine "Category:DosEngine")
-
-
 ## Manuals
 
 

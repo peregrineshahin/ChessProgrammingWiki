@@ -12,40 +12,6 @@ a chess program originally developed by [George Arnold](George_Arnold "George Ar
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos & Games](#photos-.26-games)
-	+ [3.1 1972](#1972)
-	+ [3.2 WCCC 1974](#wccc-1974)
-	+ [3.3 ACM 1979](#acm-1979)
-	+ [3.4 ACM 1982](#acm-1982)
-* [4 Description 1975](#description-1975)
-	+ [4.1 Data Structures](#data-structures)
-	+ [4.2 Search](#search)
-		- [4.2.1 Search Control](#search-control)
-		- [4.2.2 Gamma-Algorithm](#gamma-algorithm)
-	+ [4.3 Evaluation](#evaluation)
-* [5 Description 1981](#description-1981)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-	+ [9.1 Chess Program](#chess-program)
-	+ [9.2 Misc](#misc)
-* [10 References](#references)
-
-
-
-
-
-
-The program was named Ostrich because of its cowardly "[head in the sand when in a crisis](https://en.wikipedia.org/wiki/Ostrich_effect)" style of play <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Tournament Play
 
 

@@ -12,23 +12,6 @@ a French computer scientist and chess programmer. Along with [Raphael Grundrich]
 
 
 
-### Contents
-
-
-* [1 PicoChess](#picochess)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Jean-François Romang's project [PicoChess](PicoChess "PicoChess") is a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") based on [Stockfish](Stockfish "Stockfish") and [DGT Board](DGT_Board "DGT Board"), in the meantime supported by [Shivkumar Shivaji](index.php?title=Shivkumar_Shivaji&action=edit&redlink=1 "Shivkumar Shivaji (page does not exist)") and [Jürgen Précour](index.php?title=J%C3%BCrgen_Pr%C3%A9cour&action=edit&redlink=1 "Jürgen Précour (page does not exist)"). 
-
-
-
 ## Forum Posts
 
 

@@ -14,26 +14,6 @@ The [SPARCstation 20](https://en.wikipedia.org/wiki/SPARCstation_20) as last mod
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-SPARCstations were used by severel chess programs during the early 90s, in particular at the [DOCCC 1992](DOCCC_1992 "DOCCC 1992") and the [WCCC 1992](WCCC_1992 "WCCC 1992"). SPARCstations were also used for the software development of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") with [SPARC](SPARC "SPARC") processors, such as the [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc") by [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen").
-
-
-
-* [Category:SPARCstation](Category:SPARCstation "Category:SPARCstation")
-
-
 ## See also
 
 

@@ -5,38 +5,6 @@ title: Tournaments and MatchesOnline Computer Chess Tournaments
 
 
 
-### Contents
-
-
-* [1 World Championships](#world-championships)
-* [2 Major Computer Chess Tournaments](#major-computer-chess-tournaments)
-* [3 Online Computer Chess Tournaments](#online-computer-chess-tournaments)
-* [4 Microcomputer Chess Tournaments](#microcomputer-chess-tournaments)
-* [5 Various Tournaments](#various-tournaments)
-* [6 Computer-Computer Matches](#computer-computer-matches)
-* [7 Man Computer Tournaments](#man-computer-tournaments)
-* [8 Man Computer Matches](#man-computer-matches)
-* [9 Computer Games Tournaments](#computer-games-tournaments)
-* [10 See also](#see-also)
-* [11 Publications](#publications)
-* [12 Forum Posts](#forum-posts)
-* [13 External Links](#external-links)
-	+ [13.1 Tournaments](#tournaments)
-	+ [13.2 Swiss System](#swiss-system)
-* [14 References](#references)
-
-
-
-
-
-
-* [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship")
-* [World Chess Software Championship](World_Chess_Software_Championship "World Chess Software Championship")
-* [World Microcomputer Chess Championship](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship")
-* [Livingston Chess960 Computer World Championship](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship")
-* [ACCA World Computer Rapid Chess Championship](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship")
-
-
 ## Major Computer Chess Tournaments
 
 

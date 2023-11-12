@@ -10,29 +10,6 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") licen
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-MinkoChess' [move generation](Move_Generation "Move Generation") is based on [Toga II](Toga "Toga"), its [search](Search "Search") and [evaluation](Evaluation "Evaluation") based on [Toga II](Toga "Toga") and [Stockfish](Stockfish "Stockfish") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

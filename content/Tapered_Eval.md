@@ -12,30 +12,6 @@ a technique used in evaluation to make a smooth transition between the [phases o
 
 
 
-### Contents
-
-
-* [1 History](#history)
-* [2 Implementation example](#implementation-example)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2005 ...](#2005-...)
-	+ [5.2 2010 ...](#2010-...)
-	+ [5.3 2015 ...](#2015-...)
-	+ [5.4 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Though Tapered Eval has been used for many years (for example [The King](The_King "The King"), as [described](The_King#Description "The King") in 1991 <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Phalanx](Phalanx "Phalanx")), and was already mentioned by [Hans Berliner](Hans_Berliner "Hans Berliner") in 1979 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, the technique gained massive popularity only during the past few years, with the release of [Fruit](Fruit "Fruit") and the growing awareness among programmers of the sensitivity of the evaluation function to discontinuity. <a id="cite-note-5" href="#cite-ref-5">[5]</a>. [Zurichess](Zurichess "Zurichess") by [Alexandru Moșoi](Alexandru_Mosoi "Alexandru Mosoi") uses the [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) library for [automated tuning](Automated_Tuning "Automated Tuning") - in a two layers [neural network](Neural_Networks "Neural Networks"), the second layer is for phasing endgame and middlegame scores <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Implementation example
 
 

@@ -11,28 +11,6 @@ A **Legal Move** is a [pseudo-legal move](Pseudo-Legal_Move "Pseudo-Legal Move")
 
 
 
-### Contents
-
-
-* [1 Legality Test](#legality-test)
-	+ [1.1 Not in Check](#not-in-check)
-	+ [1.2 King in Check](#king-in-check)
-		- [1.2.1 Double Check](#double-check)
-		- [1.2.2 Single Check](#single-check)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Beside the pseudo-legal condition which might already be sufficient for a subset of chess programs, there are several conditions to test, dependent whether the king is in check or not. 
-
-
-
 ### Not in Check
 
 

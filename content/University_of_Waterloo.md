@@ -12,28 +12,6 @@ a [public](https://en.wikipedia.org/wiki/Public_university) [research university
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Phoenix](Phoenix "Phoenix")
-* [Planner](Planner "Planner")
-* [Prodigy](Prodigy "Prodigy")
-* [Ribbit](Ribbit "Ribbit")
-* [Treefrog](Treefrog "Treefrog")
-
-
 ## People
 
 

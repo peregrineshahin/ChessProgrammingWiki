@@ -15,27 +15,6 @@ Satana further played the [IGT 2014](IGT_2014 "IGT 2014"), [IGT 2015](IGT_2015 "
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2011 ...](#2011-...)
-	+ [2.2 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Diablo](Diablo "Diablo")
-* [Sabrina](Sabrina "Sabrina")
-
-
 ## Forum Posts
 
 

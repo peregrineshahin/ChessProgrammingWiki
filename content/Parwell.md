@@ -10,25 +10,6 @@ a chess program by [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche"), [Elmar Hen
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 Parawell](#parawell)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Parwell participated at the [Second European Computer Chess Championship](ECCC_1979 "ECCC 1979"), 1979, in [London](https://en.wikipedia.org/wiki/London) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, to qualify for the [Third World Computer Chess Championship](WCCC_1980 "WCCC 1980"), 1980, in [Linz](https://en.wikipedia.org/wiki/Linz) <a id="cite-note-6" href="#cite-ref-6">[6]</a>, where it finished with 1½/4. 
-
-
-
 ## Selected Games
 
 

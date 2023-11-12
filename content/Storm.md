@@ -12,21 +12,6 @@ a chess program by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 IGM](#igm)
-	+ [1.2 Usurpator II](#usurpator-ii)
-* [2 Namesake](#namesake)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### IGM
 
 

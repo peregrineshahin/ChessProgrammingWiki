@@ -15,51 +15,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-At the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https://en.wikipedia.org/wiki/Munich), the Wundermaschine won the [Manufacturers Group](WMCCC_1993#Manufacturers "WMCCC 1993") with [TASC R30](TASC_R30 "TASC R30") and [RISC 2500](RISC_2500 "RISC 2500") competing, and further the playoff versus Software Champion [HIARCS](HIARCS "HIARCS") for the title of the World Micro Absolute Champion. Thus, the Wundermaschine was the last dedicated world champion.
-
-
-
- [](http://www.thorstenczub.de/hiarcs.html) 
-Playoff Wundermaschine vs. [HIARCS](HIARCS "HIARCS"), [Richard Lang](Richard_Lang "Richard Lang"), [David Levy](David_Levy "David Levy"), Mark's father and [Mark Uniacke](Mark_Uniacke "Mark Uniacke") <a id="cite-note-5" href="#cite-ref-5">[5]</a> 10 ... h4 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1993"]
-[Site "Munich, Germany"]
-[Date "1993.11.07"]
-[Round "Playoff 2"]
-[White "Mephisto Genius 2"]
-[Black "Hiarcs"]
-[Result "1-0"]
-
-1.Nf3 d5 2.d4 Bg4 3.Bg5 f6 4.Bf4 g5 5.Bg3 c6 6.e3 Qb6 7.b3 Bf5 8.Be2 Na6 
-9.O-O h5 10.h3 h4 11.Bh2 e6 12.c4 Rd8 13.a3 dxc4 14.b4 Rd7 15.Nc3 g4 16.hxg4 
-Bxg4 17.Nd2 Bxe2 18.Qxe2 h3 19.Nxc4 Qd8 20.Qg4 hxg2 21.Qg6+ Rf7 22.Rfe1 Ke7 
-23.Bd6+ Ke8 24.Bg3 Qd7 25.Kxg2 Rh6 26.Qe4 Rfh7 27.Rh1 Rg7 28.Qf3 Rhg6 29.Rh4 
-Nc7 30.Rah1 Nb5 31.Nxb5 cxb5 32.Nd2 Qc6 33.Qxc6+ bxc6 34.Kf1 a5 35.bxa5 Ra7 
-36.Nb3 Rgg7 37.Ke2 Bxa3 38.Ra1 Bf8 39.a6 Kd7 40.Bb8 Ra8 41.a7 Bd6 42.Rh8 Bb4 
-43.Ra6 Rg1 44.Bg3 e5 45.dxe5 fxe5 46.Bxe5 Re1+ 47.Kf3 Rg1 48.Nd4 Rg6 49.Nxb5 
-Bc5 50.Rh7+ Ne7 51.Nd4 Bxd4 52.Bxd4 Kd6 53.Ra5 Kd7 54.Bc5 1-0
-
-```
-
 ## See also
 
 

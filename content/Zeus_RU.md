@@ -15,24 +15,6 @@ Zeus had its over the board debut at the [CCCCISC 2008](CCCCISC_2008 "CCCCISC 20
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Zeus](Zeus "Zeus") by [Gerardo Castaño Recio](Gerardo_Casta%C3%B1o_Recio "Gerardo Castaño Recio")
-
-
 ## Forum Posts
 
 

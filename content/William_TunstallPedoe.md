@@ -13,28 +13,6 @@ In October 2012, Evi was acquired by [Amazon](https://en.wikipedia.org/wiki/Amaz
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 AI Software](#ai-software)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-William Tunstall-Pedoe graduated from [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) in 1991 - he wrote a CST Part II Dissertation describing [ACPP](ACPP "ACPP"), his advanced chess playing program, 
-which was research vehicle in [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") and [automated tuning](Automated_Tuning "Automated Tuning") of [evaluation](Evaluation "Evaluation") weights and [search](Search "Search") parameters, 
-as elaborated in his [ICCA Journal](ICGA_Journal#14_3 "ICGA Journal") paper <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-In 1992/93 he developed a complete commercial chess-playing program from scratch including a high quality chess engine, animated graphics, sound effects and a full state-of-the-art user interface. 
-The product was marketed as [Cyber Chess](Cyber_Chess "Cyber Chess") and published by [The Fourth Dimension](https://en.wikipedia.org/wiki/The_Fourth_Dimension_%28company%29) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## AI Software
 
 

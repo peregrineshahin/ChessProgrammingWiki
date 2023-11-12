@@ -11,22 +11,6 @@ under development approximately since 2003. MatMoi 7.15.0, which played the [CCT
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2005 ...](#2005-...)
-	+ [1.3 2010 ...](#2010-...)
-	+ [1.4 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2000 ...
 
 

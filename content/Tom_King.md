@@ -13,28 +13,6 @@ Tom is author of the [Chess Engine Communication Protocol](Chess_Engine_Communic
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1997 ...](#1997-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-	+ [2.6 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Tom King (**2000**). *Shredder wins the 17th World Microcomputer Chess Championship*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal") » [Shredder](Shredder "Shredder"), [WMCCC 2000](WMCCC_2000 "WMCCC 2000")
-
-
 ## Forum Posts
 
 

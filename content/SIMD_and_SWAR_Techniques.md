@@ -13,57 +13,6 @@ title: SIMD and SWAR Techniques
 
 
 
-### Contents
-
-
-* [1 SIMD Instruction Sets](#simd-instruction-sets)
-* [2 SWAR Arithmetic](#swar-arithmetic)
-* [3 Samples](#samples)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 1987 ...](#1987-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2010 ...](#2010-...)
-* [6 Manuals](#manuals)
-	+ [6.1 AMD](#amd)
-	+ [6.2 NXP Semiconductors](#nxp-semiconductors)
-	+ [6.3 Intel](#intel)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1999](#1999)
-	+ [7.2 2000 ...](#2000-...-2)
-	+ [7.3 2010 ...](#2010-...-2)
-	+ [7.4 2020 ...](#2020-...)
-* [8 External Links](#external-links)
-	+ [8.1 x86/x86-64](#x86.2fx86-64)
-	+ [8.2 Other](#other)
-	+ [8.3 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-* [MMX](MMX "MMX") on [x86](X86 "X86") and [x86-64](X86-64 "X86-64")
-* [SSE2](SSE2 "SSE2"), [SSE3](SSE3 "SSE3"), [SSSE3](SSSE3 "SSSE3") and [SSE4](SSE4 "SSE4") on [x86](X86 "X86") and [x86-64](X86-64 "X86-64")
-* [SSE5](SSE5 "SSE5") by [AMD](AMD "AMD") (proposed but not implemented, replaced by [XOP](XOP "XOP") <a id="cite-note-3" href="#cite-ref-3">[3]</a>)
-* [AltiVec](AltiVec "AltiVec") on [PowerPC G4](PowerPC#G4 "PowerPC"), [PowerPC G5](PowerPC#G5 "PowerPC") resp. VMX since  [POWER6](index.php?title=POWER&action=edit&redlink=1 "POWER (page does not exist)")
-* [VSX](https://en.wikipedia.org/wiki/AltiVec#VSX_(Vector_Scalar_Extension)) since  [POWER7](index.php?title=POWER&action=edit&redlink=1 "POWER (page does not exist)")
-* [Helium](index.php?title=Helium&action=edit&redlink=1 "Helium (page does not exist)") by [ARM](index.php?title=ARM&action=edit&redlink=1 "ARM (page does not exist)")
-* [NEON](index.php?title=NEON&action=edit&redlink=1 "NEON (page does not exist)") by [ARM](index.php?title=ARM&action=edit&redlink=1 "ARM (page does not exist)")
-* [SVE](index.php?title=SVE&action=edit&redlink=1 "SVE (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [SVE2](index.php?title=SVE2&action=edit&redlink=1 "SVE2 (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a> by [ARM](index.php?title=ARM&action=edit&redlink=1 "ARM (page does not exist)")
-* [AVX](AVX "AVX") by [Intel](Intel "Intel")
-* [AVX2](AVX2 "AVX2") by [Intel](Intel "Intel")
-* [AVX-512](AVX-512 "AVX-512") by [Intel](Intel "Intel")
-* [XOP](XOP "XOP") by [AMD](AMD "AMD")
-* [VIS](index.php?title=VIS&action=edit&redlink=1 "VIS (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> since [SPARC](SPARC "SPARC") v9
-* [RISC-V](index.php?title=RISC-V&action=edit&redlink=1 "RISC-V (page does not exist)") vector-set extension <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
-
-
-
 ## SWAR Arithmetic
 
 

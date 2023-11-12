@@ -12,28 +12,6 @@ a Norwegian algebraic geometer by education, and as chess and games programmer a
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier) 
-Winners [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005"): Tord Romstad, [Johannes Zwanzger](Johannes_Zwanzger "Johannes Zwanzger"), [Volker Böhm](Volker_B%C3%B6hm "Volker Böhm") and [Ralf Schäfer](Ralf_Sch%C3%A4fer "Ralf Schäfer") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Forum Posts
 
 

@@ -17,20 +17,6 @@ As avocational software developer and programmer, Torsten Linß is involved in d
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 Mathematics](#mathematics)
-	+ [1.2 Chess](#chess)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### Mathematics
 
 

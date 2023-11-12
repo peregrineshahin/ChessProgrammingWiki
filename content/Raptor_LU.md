@@ -14,46 +14,6 @@ Raptor further participated at the [ICGA](ICGA "ICGA") [WCCC 2016](WCCC_2016 "WC
 
 
 
-### Contents
-
-
-* [1 Photos and Games](#photos-and-games)
-* [2 Namesake](#namesake)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:WCCC2016RaptorGridGinkgo.JPG) 
-[WCCC 2016](WCCC_2016 "WCCC 2016") round 10, Raptor with [Mascot](https://en.wikipedia.org/wiki/Mascot) and its [operator's](Wolfgang_Zugrav "Wolfgang Zugrav") hand versus [GridGinkgo](GridGinkgo "GridGinkgo") operated by [Timo Haupt](Timo_Haupt "Timo Haupt") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "WCCC 2016"]
-[Site "Leiden"]
-[Date "2016.07.01"]
-[Round "10.2"]
-[White "Raptor"]
-[Black "GridGinkgo"]
-[Result "1/2-1/2"]
-
-1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3 Nc6 5.cxd4 exd4 6.Nxd4 Bb4+ 7.Bd2 Qe7 8.Nb5 d5 9.Be2 dxe4 
-10.Bxb4 Nxb4 11.Nd6+ Kf8 12.O-O Nf6 13.Nc3 h5 14.a3 Nc6 15.Qd2 Bg4 16.Bxg4 Rd8 17.Bf5 Rxd6 
-18.Qf4 g6 19.Bxe4 Nxe4 20.Qxe4 Rd4 21.Qxe7+ Kxe7 22.Rfe1+ Kf6 23.Ne4+ Kg7 24.Rac1 Rhd8 
-25.Nc5 Na5 26.b4 b6 27.bxa5 bxc5 28.Rxc5 R8d5 29.Rxd5 Rxd5 30.h4 Rxa5 31.Re3 Kf6 32.g3 Ra6 
-33.Kg2 Kf5 34.Rf3+ Ke6 35.Re3+ Kf6 1/2-1/2
-
-```
-
 ## Namesake
 
 

@@ -12,26 +12,6 @@ an early chess program written in [APL](index.php?title=APL&action=edit&redlink=
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 The Fox](#the-fox)
-	+ [3.3 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-The Fox played the 4th [ACM 1973](ACM_1973 "ACM 1973") on an [IBM 370/145](IBM_370 "IBM 370") with a win against [Tech 2](Tech#Tech2 "Tech") in the first round, but suffered from too many users on their [timesharing system](https://en.wikipedia.org/wiki/Time-sharing) on Monday, where they lost both games due to time forfeit.
-
-
-
 ## Selected Games
 
 

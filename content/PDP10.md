@@ -13,30 +13,6 @@ The PDP-10 was the foundation of the DECsystem-10 and the [DECSYSTEM-20](https:/
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Leverett CP](Leverett_CP "Leverett CP")
-* [Mac Hack](Mac_Hack "Mac Hack") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-* [Paradise](Paradise "Paradise")
-* [Patsoc](Patsoc "Patsoc")
-* [Schach MV 5,6](Schach_MV_5,6 "Schach MV 5,6")
-* [Tech 2](Tech#Tech2 "Tech") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Tyro](Tyro "Tyro")
-
-
 ## See also
 
 

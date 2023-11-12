@@ -15,30 +15,6 @@ During [World War II](https://en.wikipedia.org/wiki/World_War_II), Bellman worke
 
 
 
-### Contents
-
-
-* [1 Retrograde Analysis](#retrograde-analysis)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1947](#1947)
-	+ [2.2 1950 ...](#1950-...)
-	+ [2.3 1960 ...](#1960-...)
-	+ [2.4 1970 ...](#1970-...)
-	+ [2.5 1980 ...](#1980-...)
-	+ [2.6 2000 ...](#2000-...)
-	+ [2.7 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The dynamic programming methodology which defined the field of [retrograde endgame analysis](Retrograde_Analysis "Retrograde Analysis") was discovered by Bellman in 1965 <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Bellman had considered [game theory](https://en.wikipedia.org/wiki/Game_theory) from a classical perspective as well <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>, but his work came to fruition in his 1965 paper, where he observed that the entire [state-space](https://en.wikipedia.org/wiki/State_space_%28dynamical_system%29) could be stored and that dynamic programming techniques could then be used to compute whether either side could win any position <a id="cite-note-10" href="#cite-ref-10">[10]</a>. 
-
-
-
 ## Selected Publications
 
 

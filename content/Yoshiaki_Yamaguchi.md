@@ -10,25 +10,6 @@ a Japanese computer scientist affiliated with the [University of Tokyo](https://
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Infinite Connect Four](#infinite-connect-four)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
-[](https://icga.org/?page_id=1431)
-[Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14"): [Ryan Hayward](Ryan_Hayward "Ryan Hayward") announcing Yoshiaki Yamaguchi <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
 ## Infinite Connect Four
 
 

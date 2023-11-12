@@ -14,27 +14,6 @@ Bledsoe was interested in Computer Chess and published tournament reports on the
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1953 ...](#1953-...)
-	+ [1.2 1960 ...](#1960-...)
-	+ [1.3 1970 ...](#1970-...)
-	+ [1.4 1980 ...](#1980-...)
-	+ [1.5 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1953 ...
 
 

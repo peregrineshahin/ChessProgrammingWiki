@@ -10,23 +10,6 @@ a German software developer and chess programmer, who with age 16 <a id="cite-no
 
 
 
-### Contents
-
-
-* [1 Toga](#toga)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 2004/2005, Thomas Gaksch used the [Fruit 2.0](Fruit "Fruit") source code by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), already under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), to make some tweaks and modifications, to distribute the executable under the name [Toga](Toga "Toga") to some testers, soon causing [clone](Category:Clone "Category:Clone") suspicions and announcements <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Thomas Gaksch apologized immediately <a id="cite-note-6" href="#cite-ref-6">[6]</a>, Toga and its successor Toga II with [multi-processor support](Parallel_Search "Parallel Search") were declared based on Fruit, fulfilling its license as published with sources under the GPL <a id="cite-note-7" href="#cite-ref-7">[7]</a>. As "official" Fruit derivative <a id="cite-note-8" href="#cite-ref-8">[8]</a> Toga II was used by [Kai Himstedt](Kai_Himstedt "Kai Himstedt") as primary engine for his [GridChess](GridChess "GridChess") and [Cluster Toga](Cluster_Toga "Cluster Toga") entities, competing the [WCCC 2007](WCCC_2007 "WCCC 2007") and [WCCC 2008](WCCC_2008 "WCCC 2008") with Fabien Letouzey and Thomas Gaksch mentioned as co-authors.
-
-
-
 ## Forum Posts
 
 

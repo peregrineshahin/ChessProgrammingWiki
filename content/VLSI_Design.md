@@ -16,33 +16,6 @@ which resulted in many university and industry researchers learning and improvin
 
 
 
-### Contents
-
-
-* [1 VLSI in Computer Chess](#vlsi-in-computer-chess)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1979](#1979)
-	+ [3.2 1980 ...](#1980-...)
-	+ [3.3 1990 ...](#1990-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Inspired by the hardware move generator design of [Belle](Belle "Belle") and motivated by the Mead-Conway innovations, several universities researched on VLSI Design in computer chess.
-Most notable and successful was the [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") headed by [Hsiang-Tsung Kung](Mathematician#Kung "Mathematician") along with [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), who introduced [systolic arrays](https://en.wikipedia.org/wiki/Systolic_array) suited for VLSI design.
-The primary protagonists of the rival chess programs of [HiTech](HiTech "HiTech") and [ChipTest](ChipTest "ChipTest"), which later evolved to [Deep Thought](Deep_Thought "Deep Thought") and [Deep Blue](Deep_Blue "Deep Blue"), were [Hans Berliner](Hans_Berliner "Hans Berliner"), [Carl Ebeling](Carl_Ebeling "Carl Ebeling") and [Andrew James Palay](Andrew_James_Palay "Andrew James Palay") et al., versus [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") and [Murray Campbell](Murray_Campbell "Murray Campbell"). 
-A team around [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") worked at the [University of Waterloo](University_of_Waterloo "University of Waterloo") on VLSI chess chips <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-while [James Testa](James_Testa "James Testa") and [Alvin M. Despain](Alvin_M._Despain "Alvin M. Despain") from the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley") build the [Berkeley Chess Microprocessor](Berkeley_Chess_Microprocessor "Berkeley Chess Microprocessor").
-At the [University of Hamburg](University_of_Hamburg "University of Hamburg") a team around [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") and [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") build [MicroMurks](MicroMurks "MicroMurks") in 1981/82, a [68000](68000 "68000") based system 
-with own chips and VLSI layout <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## See also
 
 

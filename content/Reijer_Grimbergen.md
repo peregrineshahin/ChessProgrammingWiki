@@ -12,28 +12,6 @@ a Dutch computer scientist, Ph.D. in [cognitive science](Cognition "Cognition").
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1996 ...](#1996-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm) 
-[Jeff Rollason](Jeff_Rollason "Jeff Rollason") and Reijer Grimbergen, [Kisarazu](https://en.wikipedia.org/wiki/Kisarazu,_Chiba), [Japan](https://en.wikipedia.org/wiki/Japan), May 2008 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

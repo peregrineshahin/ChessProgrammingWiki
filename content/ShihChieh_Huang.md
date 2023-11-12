@@ -15,29 +15,6 @@ Aja Huang was postdoc at [University of Alberta](University_of_Alberta "Universi
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2007 ...](#2007-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 Postings](#postings)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:Turin2006ChinesChess.JPG) 
-[11th Computer Olympiad 2006](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad"), [Chinese Chess](Chinese_Chess "Chinese Chess") , [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") , [Pascal Tang](Pascal_Tang "Pascal Tang") and Aja Huang <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## See also
 
 

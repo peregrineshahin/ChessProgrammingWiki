@@ -12,25 +12,6 @@ a Canadian [neuroscientist](https://en.wikipedia.org/wiki/Neuroscientist) an [AI
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2014](#2014)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 2014
 
 

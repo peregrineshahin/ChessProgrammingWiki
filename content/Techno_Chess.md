@@ -15,46 +15,6 @@ Techno Chess played the the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](htt
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[WMCCC 1997](WMCCC_1997 "WMCCC 1997"), Round 4, Techno Chess - [IsiChess](IsiChess "IsiChess") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1997"]
-[Site "Paris, France"]
-[Date "1997.10.28"]
-[Round "4"]
-[White "Techno Chess"]
-[Black "IsiChess"]
-[Result "1-0"]
-
-1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 Nc6 5.Bc2 Bg4 6.d3 e6 7.Nbd2 Be7 8.h3 Bh5 9.Nf1 d5 
-10.Ng3 Bg6 11.exd5 Qxd5 12.Qe2 O-O-O 13.Ne4 Ne5 14.Nxe5 Qxe5 15.O-O Nxe4 16.dxe4 h6 
-17.Qc4 Bh5 18.Be3 Qc7 19.f3 Bg6 20.Rfd1 b6 21.Bd3 Bd6 22.a4 a5 23.Qa6+ Qb7 24.b4 Qxa6 
-25.Bxa6+ Kc7 26.Rab1 axb4 27.cxb4 cxb4 28.Rdc1+ Kd7 29.Bxb6 Rb8 30.Bb5+ Ke7 31.Bc7 
-Rbc8 32.Bxd6+ Kxd6 33.Rd1+ Ke5 34.Rxb4 Rc2 35.a5 Ra2 36.a6 Rc8 37.Bc4 Ra3 38.Rd7 Kf6 
-39.a7 Ra8 40.Rbb7 Ra5 41.f4 Ra1+ 42.Kf2 Bh5 43.g4 g5 44.e5+ 1-0 
-
-```
-
 ## See also
 
 

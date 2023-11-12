@@ -18,24 +18,6 @@ In 1979, Greenblatt founded [Lisp Machines, Inc.](https://en.wikipedia.org/wiki/
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:2-4.Greenblatt-Richard_Knight.1978.L02645385.MIT.lg.jpg) 
-[Tom Knight](Mathematician#TKnight "Mathematician") and Richard Greenblatt (right) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

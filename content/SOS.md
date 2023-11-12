@@ -12,28 +12,6 @@ a chess program developed and written by [Rudolf Huber](Rudolf_Huber "Rudolf Hub
 
 
 
-### Contents
-
-
-* [1 Tournaments](#tournaments)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1995](#1995)
-	+ [2.2 1999](#1999)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-SOS has its debut at [Don Beal's](Don_Beal "Don Beal") [1993 QMW Uniform-Platform Computer Chess Championship](UPCCC_1993 "UPCCC 1993"). It further played various [World Microcomputer Chess](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") and [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), [WCCC 1995](WCCC_1995 "WCCC 1995"), [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), [WCCC 1999](WCCC_1999 "WCCC 1999"), and the [WMCCC 2000](WMCCC_2000 "WMCCC 2000"), where SOS won the title of the Amateur World Microcomputer Chess Champion. [ParSOS](ParSOS "ParSOS") continued playing the [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), [WCCC 2002](WCCC_2002 "WCCC 2002"), [WCCC 2003](WCCC_2003 "WCCC 2003"), [WCCC 2004](WCCC_2004 "WCCC 2004") and the [WCCC 2006](WCCC_2006 "WCCC 2006"). SOS played most [IPCCCs](IPCCC "IPCCC"), and also competed at [International CSVN Tournaments](International_CSVN_Tournament "International CSVN Tournament"). 
-
-
-
 ## Descriptions
 
 

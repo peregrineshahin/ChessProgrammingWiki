@@ -10,23 +10,6 @@ an American mathemantician and computer scientist, in the 50s and 60s affiliated
 
 
 
-### Contents
-
-
-* [1 MANIAC](#maniac)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the 50s, at Los Alamos National Laboratory around [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [Paul Stein](Paul_Stein "Paul Stein") and [John Pasta](John_Pasta "John Pasta"), William Walden was involved in the development of the [chess-playing program](MANIAC_I "MANIAC I") to play [Los Alamos Chess](index.php?title=Los_Alamos_Chess&action=edit&redlink=1 "Los Alamos Chess (page does not exist)") with the [MANIAC I](https://en.wikipedia.org/wiki/MANIAC_I) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Publications
 
 

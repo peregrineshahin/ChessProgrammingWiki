@@ -12,25 +12,6 @@ was a British mathematician and along with [Alan Turing](Alan_Turing "Alan Turin
 
 
 
-### Contents
-
-
-* [1 Machiavelli](#machiavelli)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In [1947-48](Timeline#1948 "Timeline"), along with Michie, Wylie designed [Machiavelli](Machiavelli "Machiavelli"), a rival of Turing's [Turochamp](Turochamp "Turochamp") program <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-Turing began programming both at [Manchester](University_of_Manchester "University of Manchester") but never completed them and they never played each other <a id="cite-note-6" href="#cite-ref-6">[6]</a> . 
-
-
-
 ## See also
 
 

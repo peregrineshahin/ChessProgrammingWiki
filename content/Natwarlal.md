@@ -13,44 +13,6 @@ The name of the engine was inspired by [Mithilesh Kumar Srivastava](https://en.w
 
 
 
-### Contents
-
-
-* [1 Credits](#credits)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-	+ [2.4 Misc](#misc)
-* [3 Selected Games](#selected-games)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2004](#2004)
-	+ [4.2 2005](#2005)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc-2)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") for [MSCP](MSCP "MSCP") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-* [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") for [TSCP](TSCP "TSCP")
-* [Colin Frayn](Colin_Frayn "Colin Frayn") for [Beowulf](Beowulf "Beowulf") and his [chess programming theory site](Colin_Frayn#Theory "Colin Frayn")
-* [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš") for [Phalanx](Phalanx "Phalanx")
-* [Bruce Moreland](Bruce_Moreland "Bruce Moreland") for [Gerbil](Gerbil "Gerbil") and his [chess programming topics](Bruce_Moreland#Topics "Bruce Moreland")
-* [Adrien Regimbald](Adrien_Regimbald "Adrien Regimbald") for [Faile](Faile "Faile")
-* [Robert Hyatt](Robert_Hyatt "Robert Hyatt") for [Crafty](Crafty "Crafty")
-* [Olivier Deville](Olivier_Deville "Olivier Deville") for Natwarlal's [Opening Book](Opening_Book "Opening Book")
- * Gaurav Nawani for Natwarlal's Logo [](File:Natwarlal_logo.jpg) 
-
-
 ## Features
 
 

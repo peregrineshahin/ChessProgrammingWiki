@@ -13,20 +13,6 @@ Scott is author of the [open source chess programs](Category:Open_Source "Catego
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1998 ...](#1998-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1998 ...
 
 

@@ -10,26 +10,6 @@ an early microprocessor chess program, written by [Mike Johnson](Mike_Johnson "M
 
 
 
-### Contents
-
-
-* [1 Achievements](#achievements)
-* [2 Photos & Games](#photos-.26-games)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Mike surprised by winning the [First PCW Microcomputer Chess Championship](PCW-MCC_1978 "PCW-MCC 1978"), [London](https://en.wikipedia.org/wiki/London), September 1978, ahead of three commercial American programs, and even after loosing the first round from [Fafner](index.php?title=Fafner&action=edit&redlink=1 "Fafner (page does not exist)") in a winning position due to a [voltage](https://en.wikipedia.org/wiki/Voltage) slip down to 220 while the machine required 240 volts <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Mike further played the [ACM 1978](ACM_1978 "ACM 1978"), the [PCW-MCC 1979](PCW-MCC_1979 "PCW-MCC 1979"), and the [WMCCC 1980](WMCCC_1980 "WMCCC 1980") (Mike 3), which was already mentioned as debut of Mike's successor [Advance](Advance "Advance") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
-
 ## Photos & Games
 
 

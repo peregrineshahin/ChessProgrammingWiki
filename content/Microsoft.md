@@ -17,31 +17,6 @@ co-developed by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov") <a id="cite-no
 
 
 
-### Contents
-
-
-* [1 Bill Gates on AI](#bill-gates-on-ai)
-* [2 Chess Programs](#chess-programs)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Remark by [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) on the [17. IJCAI 2001](Conferences#IJCAI2001 "Conferences"), [Seattle](https://en.wikipedia.org/wiki/Seattle), [Washington](https://en.wikipedia.org/wiki/Washington), USA, August 7, 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-Microsoft was founded about 25 years ago, and I can remember at the time thinking, "Well, if I go out and do this really commercial stuff, I’m going to miss these big advances in [AI](Artificial_Intelligence "Artificial Intelligence") that will be coming very soon." (Laughter.) And so I come from the school of AI optimist. You know, I can remember being at [Harvard](Harvard_University "Harvard University") and back then AI was the [Greenblatt Chess Program](Mac_Hack "Mac Hack") and [Maxima](https://en.wikipedia.org/wiki/Maxima_%28software%29) and [Eliza](https://en.wikipedia.org/wiki/ELIZA) and people literally felt that within five to ten years that some of these tough problems would be solved. 
-
-```
-
 ## Chess Programs
 
 

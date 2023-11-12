@@ -17,22 +17,6 @@ he is author of the [Chess Engine Communication Protocol](Chess_Engine_Communica
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [NagaSkaki](NagaSkaki "NagaSkaki")
-* [Shifted Bitboards](Shifted_Bitboards "Shifted Bitboards")
-
-
 ## External Links
 
 

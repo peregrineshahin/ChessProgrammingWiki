@@ -10,30 +10,6 @@ a chess game web broadcast [server](https://en.wikipedia.org/wiki/Server_(comput
 
 
 
-### Contents
-
-
-* [1 Server](#server)
-* [2 Clients](#clients)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2003](#2003)
-	+ [4.2 2004](#2004)
-	+ [4.3 2005 ...](#2005-...)
-	+ [4.4 2010 ...](#2010-...)
-	+ [4.5 2015 ...](#2015-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The TLCS server is a [Windows](Windows "Windows") [console application](https://en.wikipedia.org/wiki/Console_application) written in [PowerBASIC](Basic#PowerBASIC "Basic"), configured by a "server.ini" file. It does not directly interfere with WinBoard or Arena, but monitors and parses its **debug file** <a id="cite-note-1" href="#cite-ref-1">[1]</a> to prepare and transmit new information to all connected viewers <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-
-
-
 ## Clients
 
 

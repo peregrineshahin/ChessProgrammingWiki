@@ -20,28 +20,6 @@ and [Lyapunov stability](https://en.wikipedia.org/wiki/Lyapunov_stability) <a id
 
 
 
-### Contents
-
-
-* [1 Pawn Endgames](#pawn-endgames)
-* [2 LG in Arimaa](#lg-in-arimaa)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1999](#1999)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2007, Zvi Retchkiman Königsberg introduced a combinatorial game mathematical strategy [planning](Planning "Planning") procedure for certain [pawn endgames](Pawn_Endgame "Pawn Endgame") concerning [zugzwang](Zugzwang "Zugzwang") and [tempo](Tempo "Tempo")
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## LG in Arimaa
 
 

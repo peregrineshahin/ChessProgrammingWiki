@@ -12,55 +12,6 @@ an 64-bit [x86](X86 "X86")-extension, designed by [AMD](AMD "AMD") as Hammer- or
 
 
 
-### Contents
-
-
-* [1 Register File](#Register_File)
-	+ [1.1 General Purpose](#General_Purpose)
-	+ [1.2 MMX](#MMX)
-	+ [1.3 SSE/SSE\*](#SSE.2FSSE.2A)
-	+ [1.4 AVX, AVX2/XOP](#AVX.2C_AVX2.2FXOP)
-	+ [1.5 AVX-512](#AVX-512)
-* [2 Instructions](#Instructions)
-	+ [2.1 General Purpose](#General_Purpose_2)
-	+ [2.2 Bit-Manipulation](#Bit-Manipulation)
-	+ [2.3 SSE2](#SSE2)
-* [3 Software](#Software)
-	+ [3.1 Operating Systems](#Operating_Systems)
-	+ [3.2 Development](#Development)
-		- [3.2.1 Assembly](#Assembly)
-		- [3.2.2 C-Compiler](#C-Compiler)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-* [6 Manuals](#Manuals)
-	+ [6.1 Agner Fog](#Agner_Fog)
-	+ [6.2 AMD](#AMD)
-		- [6.2.1 Instructions](#Instructions_2)
-		- [6.2.2 Optimization Guides](#Optimization_Guides)
-	+ [6.3 Intel](#Intel)
-		- [6.3.1 Instructions](#Instructions_3)
-		- [6.3.2 Optimization Guides](#Optimization_Guides_2)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 2003 ...](#2003_...)
-	+ [7.2 2010 ...](#2010_...)
-	+ [7.3 2015 ...](#2015_...)
-	+ [7.4 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-	+ [8.1 AMD](#AMD_2)
-	+ [8.2 Intel](#Intel_2)
-	+ [8.3 Instruction Sets](#Instruction_Sets)
-	+ [8.4 Security Vulnerability](#Security_Vulnerability)
-* [9 References](#References)
-
-
-
-
-
-
-x86-64 doubles the number of [x86](X86 "X86") general purpose- and XMM registers.
-
-
-
 ### General Purpose
 
 

@@ -9,29 +9,6 @@ A **Pin** is a [X-ray](X-ray "X-ray") related situation where a [sliding piece](
 
 
 
-### Contents
-
-
-* [1 Types](#types)
-	+ [1.1 Absolute Pin](#absolute-pin)
-	+ [1.2 Partial Pin](#partial-pin)
-	+ [1.3 Relative Pin](#relative-pin)
-	+ [1.4 Cross Pin](#cross-pin)
-	+ [1.5 Situational Pin](#situational-pin)
-* [2 Considering Pins](#considering-pins)
-	+ [2.1 Move Generation](#move-generation)
-	+ [2.2 Evaluation](#evaluation)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000 ...](#2000-...)
-	+ [4.2 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-
-
-
-
-
-
 ### Absolute Pin
 
 

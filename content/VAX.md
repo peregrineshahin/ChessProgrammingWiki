@@ -14,26 +14,6 @@ DEC's VAX strategy was formulated by [Gordon Bell](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 Registers](#registers)
-* [2 Instructions](#instructions)
-* [3 MicroVAX](#microvax)
-* [4 Chess Programs](#chess-programs)
-* [5 See also](#see-also)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-VAX has 16 32-bit [registers](https://en.wikipedia.org/wiki/Processor_register), R0-R15. R0-R11 general purpose, R12/AP the argument pointer, R13/FP the frame pointer, R14/SP the stack pointer, and R15/PC the program counter or instruction pointer.
-
-
-
 ## Instructions
 
 

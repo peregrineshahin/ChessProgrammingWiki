@@ -10,30 +10,6 @@ title: PascalTurboPascal
 
 
 
-### Contents
-
-
-* [1 UCSD Pascal](#ucsd-pascal)
-* [2 Turbo Pascal](#turbo-pascal)
-	+ [2.1 Inline Assembly](#inline-assembly)
-	+ [2.2 Source Sample](#source-sample)
-* [3 See also](#see-also)
-* [4 Pascal Engines](#pascal-engines)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-A notable Pascal system was [UCSD-Pascal](https://en.wikipedia.org/wiki/UCSD_Pascal) from [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego) that ran on a machine-independent operating system, the UCSD p-System portable. In the early 1980s, UCSD Pascal was ported to [Apple II](Apple_II "Apple II") computers to provide a structured alternative to the [Basic](Basic "Basic") interpreters that came with the machines.
-
-
-
-
 ## Turbo Pascal
 
 

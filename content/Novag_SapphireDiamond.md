@@ -15,26 +15,6 @@ Sapphire and Diamond both support the [Novag Universal Electronic Chess Board](N
 
 
 
-### Contents
-
-
-* [1 Novag Sapphire II](#novag-sapphire-ii)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Computers](#chess-computers)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-The Novag **Sapphire II** and **Novag Diamond II**, released in 1997 used faster clock frequency and a improved [WChess](WChess "WChess") software in 160 KiB [ROM](Memory#ROM "Memory") in almost the same housing.
-
-
-
 ## See also
 
 

@@ -12,51 +12,6 @@ a private chess engine by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Mura
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Witch](#witch)
-	+ [4.3 Witchcraft](#witchcraft)
-	+ [4.4 Which-cult](#which-cult)
-	+ [4.5 Witch-hunt and trial](#witch-hunt-and-trial)
-	+ [4.6 Chess](#chess)
-	+ [4.7 Fiction](#fiction)
-	+ [4.8 Fish](#fish)
-	+ [4.9 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[CCT7](CCT7 "CCT7"), round 8, Witchess - [Arasan](Arasan "Arasan") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-
-```
-
-[Event "CCT7"]
-[Site "chessclub.com"]
-[Date "2005.02.13"]
-[Round "8"]
-[White "Witchess"]
-[Black "Arasan 9.0"]
-[Result "1-0"]
-
-1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.Nf3 Nxe4 5.Nxe4 d5 6.Bd3 dxe4 7.Bxe4 Ne7 8.c3 f5 
-9.Bc2 e4 10.Ne5 Qd5 11.f4 exf3 12.Nxf3 Qe6+ 13.Kf2 Qb6+ 14.d4 Be6 15.Ba4+ c6 
-16.Re1 Bd5 17.Bb3 O-O-O 18.Bg5 Qc7 19.Bxd5 cxd5 20.Qe2 Qb6 21.c4 Rd7 22.cxd5 Kb8 
-23.Qe5+ Ka8 24.d6 Rxd6 25.Bxe7 Bxe7 26.Qxe7 Rc8 27.Kg1 Rg8 28.Rac1 Rdd8 1-0
-
-```
-
 ## See also
 
 

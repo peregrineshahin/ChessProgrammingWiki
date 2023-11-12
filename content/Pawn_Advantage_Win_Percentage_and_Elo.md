@@ -8,43 +8,6 @@ An examination by [Sune Fischer](Sune_Fischer "Sune Fischer") and [Pradu Kannan]
 
 
 
-### Contents
-
-
-* [1 Relationship](#relationship)
-* [2 Data Acquisition](#data-acquisition)
-* [3 Data Reduction and Modeling](#data-reduction-and-modeling)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Postings](#postings)
-	+ [6.1 1999](#1999)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-	+ [6.4 2015 ...](#2015-...)
-	+ [6.5 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-It was found that the the approximate relationship between the winning [probability](https://en.wikipedia.org/wiki/Probability) W and the pawn advantage P is
-
-
-
- [](File:PawnWinELOFormula1.jpg) 
-The inverse relationship can be given as
-
-
-
- [](File:PawnWinELOFormula2.jpg) 
-From the above, the relationship between the equivalent Elo rating advantage R and the pawn advantage P can be given as
-
-
-
- [](File:PawnWinELOFormula3.jpg) 
 ## Data Acquisition
 
 

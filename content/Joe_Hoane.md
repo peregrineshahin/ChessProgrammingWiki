@@ -13,29 +13,6 @@ Already affiliated with [IBM Research](index.php?title=IBM&action=edit&redlink=1
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd1d41b) 
-Joe Hoane and [Garry Kasparov](Garry_Kasparov "Garry Kasparov") at the 1991 [CeBIT](https://en.wikipedia.org/wiki/CeBIT) show in [Hannover](https://en.wikipedia.org/wiki/Hannover), Germany <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b) 
-The core [Deep Blue](Deep_Blue "Deep Blue") team, Joe Hoane, [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), and [Murray Campbell](Murray_Campbell "Murray Campbell") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

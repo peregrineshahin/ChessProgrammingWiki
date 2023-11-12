@@ -10,24 +10,6 @@ an American physicist and researcher in the field of [Retrograde Analysis](Retro
 
 
 
-### Contents
-
-
-* [1 EGTB records](#egtb-records)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In October 2005, Marc Bourzutschky and Yakov Konoval announced that a position in the ending of a KRRNkrr requires 290 moves to convert to a simpler winning endgame <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The old record was 243 moves from a position in a rook and knight versus two knights endgame, discovered by [Lewis Stiller](Lewis_Stiller "Lewis Stiller") in 1991 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In March 2006, the wizards of 7-men endgames, Marc Bourzutschky and Yakov Konoval found a 330 moves win in KQBNkqb <a id="cite-note-5" href="#cite-ref-5">[5]</a> and in May 2006 a 517 moves win in KQNkrbn <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Selected Publications
 
 

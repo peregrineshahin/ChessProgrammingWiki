@@ -11,35 +11,6 @@ Sjaak was first released in January 2011, not to confused with [Ronald de Man's]
 
 
 
-### Contents
-
-
-* [1 SjaakII](#sjaakii)
-* [2 Variants](#variants)
-* [3 Description](#description)
-	+ [3.1 Board Representation](#board-representation)
-	+ [3.2 Search](#search)
-	+ [3.3 Evaluation](#evaluation)
-* [4 Namesake](#namesake)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2011 ...](#2011-...)
-	+ [6.2 2015 ...](#2015-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-The further extended **SjaakII**, released in early 2015, supports even more variants and [protocols](Protocols "Protocols"), and runs best under [XBoard](XBoard "XBoard")/[WinBoard](WinBoard "WinBoard"), version 4.8 (or better) 
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Variants
 
 

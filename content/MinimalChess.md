@@ -13,28 +13,6 @@ The game playing entity consists of the library *MinimalChess*, and using that l
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

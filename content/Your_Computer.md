@@ -12,26 +12,6 @@ a British computer magazine published monthly from 1981 to 1988 with focus on [h
 
 
 
-### Contents
-
-
-* [1 Selected Authors](#selected-authors)
-* [2 Selected Articles](#selected-articles)
-	+ [2.1 1981](#1981)
-	+ [2.2 1982](#1982)
-	+ [2.3 1983](#1983)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [John F. White](John_F._White "John F. White")
-* [David Horne](David_Horne "David Horne")
-
-
 ## Selected Articles
 
 

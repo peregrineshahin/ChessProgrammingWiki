@@ -14,25 +14,6 @@ Walter Ravenek started in the early 90s in developing his chess program [Arthur]
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:EowynCTDIpc2008.jpg) 
-[ICT 2008](ICT_2008 "ICT 2008") round 1, Walter Ravenek and [Richard Pijl](Richard_Pijl "Richard Pijl") in [Eowyn](Eowyn "Eowyn") vs. [Crashtest Dummy](Crashtest_Dummy "Crashtest Dummy") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Publications
 
 

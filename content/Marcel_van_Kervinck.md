@@ -13,28 +13,6 @@ Marcel van Kervinck passed away on May 25, 2020 <a id="cite-note-9" href="#cite-
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1994 ...](#1994-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.csvn.nl/index.php?option=com_content&view=article&id=487%3A30th-odccc-final-results&catid=51%3Atoernooien&Itemid=28&lang=en) 
-Marcel van Kervinck receives the Programmer's Prize <a id="cite-note-10" href="#cite-ref-10">[10]</a> by [CSVN](CSVN "CSVN") chairman [Cock de Gorter](Cock_de_Gorter "Cock de Gorter"), [DOCCC 2010](DOCCC_2010 "DOCCC 2010")
-
-
-
 ## Selected Publications
 
 

@@ -12,28 +12,6 @@ an experimental chess engine by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-
 
 
 
-### Contents
-
-
-* [1 Stoofvlees II](#stoofvlees-ii)
-* [2 Selected Games](#selected-games)
-	+ [2.1 Fight of the ANNs](#fight-of-the-anns)
-	+ [2.2 TCEC Season 18](#tcec-season-18)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-In 2019, an updated version dubbed **Stoofvlees II** was announced to play chess at [CEGT](CEGT "CEGT"), with [neural networks](Neural_Networks "Neural Networks") instantiated on [Nvidia](Nvidia "Nvidia") [GPUs](GPU "GPU") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-Stoofvlees II hat its [TCEC](TCEC "TCEC") debut at [Season 16](TCEC_Season_16 "TCEC Season 16") starting in July 2019, where it became runner up at the [qualifier](TCEC_Season_16#Third "TCEC Season 16"), to win three following divisions, the [second division](TCEC_Season_16#Second "TCEC Season 16"), the [first division](TCEC_Season_16#First "TCEC Season 16") and the [playoff](TCEC_Season_16#Playoff1 "TCEC Season 16") for the [premier division](TCEC_Season_16#Premier "TCEC Season 16"), finally finishing as strong fifth, and establishing as top contender in that [top league](TCEC_Season_17#Premier "TCEC Season 17") in subsequent seasons.
-
-
-
 ## Selected Games
 
 

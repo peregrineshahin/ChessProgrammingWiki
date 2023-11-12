@@ -14,27 +14,6 @@ He is further contributor on the [Polish Wikipedia](https://pl.wikipedia.org/wik
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Articles](#articles)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* Wojciech Muła, [Nathan Kurz](https://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-* Wojciech Muła, [Daniel Lemire](https://github.com/lemire) (**2017**). *Faster Base64 Encoding and Decoding Using AVX2 Instructions*. [arXiv:1704.00605](https://arxiv.org/abs/1704.00605)
-
-
 ## Articles
 
 

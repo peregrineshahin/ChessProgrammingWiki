@@ -13,39 +13,6 @@ The concepts of strategy and tactics in chess and other sports are derived from 
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Steinitz's Four Rules of Strategy](#steinitz.27s-four-rules-of-strategy)
-* [3 Search Strategy](#search-strategy)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 1970 ...](#1970-...)
-	+ [5.2 1980 ...](#1980-...)
-	+ [5.3 1990 ...](#1990-...)
-	+ [5.4 2000 ...](#2000-...)
-	+ [5.5 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a><a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [Gerald Abrahams](https://en.wikipedia.org/wiki/Gerald_Abrahams): *The tactician knows what to do when there is something to do; whereas the strategian knows what to do when there is nothing to do*.
-* [Mikhail Chigorin](https://en.wikipedia.org/wiki/Mikhail_Chigorin): *Even a poor plan is better than no plan at all*.
-* [Max Euwe](Max_Euwe "Max Euwe"): *Strategy requires thought, tactics require observation*.
-* [Emanuel Lasker](https://en.wikipedia.org/wiki/Emanuel_Lasker): *A bad plan is better than no plan at all*. <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch): *First restrain, next blockade, lastly destroy*.
-
-
 ## Steinitz's Four Rules of Strategy
 
 

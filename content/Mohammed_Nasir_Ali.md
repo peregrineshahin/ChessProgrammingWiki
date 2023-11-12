@@ -16,21 +16,6 @@ His interest in chess and computer chess led to his involvement in the [Hydra](H
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Christian Donninger](Chrilly_Donninger "Chrilly Donninger"), Muhammad N. Ali, [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes"), [Christopher Lutz](Christopher_Lutz "Christopher Lutz") (**2020**). *Hydra: Report and technical overview*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
-
-
 ## External Links
 
 

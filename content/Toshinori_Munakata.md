@@ -17,26 +17,6 @@ Since coming to the US in 1967, Toshinori Munakata research has spanned many of 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1979 ...](#1979-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-	+ [1.4 2010](#2010)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 1979 ...
 
 

@@ -13,28 +13,6 @@ His none professional interests include chess and chess programming, in particul
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1993 ...](#1993-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### 1993 ...
 
 

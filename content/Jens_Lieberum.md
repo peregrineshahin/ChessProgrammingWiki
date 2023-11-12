@@ -18,24 +18,6 @@ and the [Skein relation](https://en.wikipedia.org/wiki/Skein_relation), publicat
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1997 ...](#1997-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1997 ...
 
 

@@ -16,27 +16,6 @@ an American information technology and services professional <a id="cite-note-2"
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) 
-[ACCA 2008](ACCA_2008 "ACCA 2008"): [Bob Hyatt](Robert_Hyatt "Robert Hyatt"), [Charles Roberson](Charles_Roberson "Charles Roberson"), [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Brian Richardson](Brian_Richardson "Brian Richardson") and Ted Summers <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

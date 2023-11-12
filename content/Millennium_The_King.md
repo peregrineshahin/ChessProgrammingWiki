@@ -14,27 +14,6 @@ while the **The King Performance** released in late 2019 has an own [sensory boa
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2018](#2018)
-	+ [2.2 2019](#2019)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Millennium ChessGenius](Millennium_ChessGenius "Millennium ChessGenius")
-* [TASC R30](TASC_R30 "TASC R30")
-* [TASC R40](TASC_R40 "TASC R40")
-
-
 ## Forum Posts
 
 

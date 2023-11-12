@@ -10,20 +10,6 @@ an Australian consultant, chess player <a id="cite-note-1" href="#cite-ref-1">[1
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2002](#2002)
-	+ [1.2 2003](#2003)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2002
 
 

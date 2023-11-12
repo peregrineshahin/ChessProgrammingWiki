@@ -12,33 +12,6 @@ a [WinBoard](WinBoard "WinBoard") and [UCI](UCI "UCI") compliant chess engine by
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2001 ...](#2001-...)
-	+ [5.2 2005 ...](#2005-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Pharaoh](#pharaoh)
-* [7 References](#references)
-
-
-
-
-
-
-Pharaon incorporates [object oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigms, and relies on [bitboards](Bitboards "Bitboards") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, in particular [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). 
-It is a [PV searcher](Principal_Variation_Search "Principal Variation Search") with [iterative deepening](Iterative_Deepening "Iterative Deepening") and [aspiration windows](Aspiration_Windows "Aspiration Windows"), using a [transposition table](Transposition_Table "Transposition Table") with multiple probes, [pawn-](Pawn_Hash_Table "Pawn Hash Table") and [king safety](King_Safety "King Safety") [hash tables](Hash_Table "Hash Table"), [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") for [move ordering](Move_Ordering "Move Ordering") and [pruning](Pruning "Pruning"), [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning") with [R](Depth_Reduction_R "Depth Reduction R") = 2,3, and heavily prunes not only in [quiescence search](Quiescence_Search "Quiescence Search"). 
-Move ordering considers [hash-table move](Hash_Move "Hash Move"), winning [captures](Captures "Captures") by SEE, [killer heuristic](Killer_Heuristic "Killer Heuristic"), [counter move heuristic](Countermove_Heuristic "Countermove Heuristic"), and [history heuristic](History_Heuristic "History Heuristic") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-[Chess960](Chess960 "Chess960") support was introduced with version 3.3 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and subsequent "deep" versions with a [parallel search](Parallel_Search "Parallel Search") have [tablebase](Endgame_Tablebases "Endgame Tablebases") support, a [persistent hash table](Persistent_Hash_Table "Persistent Hash Table") for [position learning](Learning "Learning") as well as [book learning](Book_Learning "Book Learning") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Tournament Play
 
 

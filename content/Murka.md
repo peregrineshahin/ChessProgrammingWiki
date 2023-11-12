@@ -14,31 +14,6 @@ In July 2013, the significant improved Murka 3.0 was released <a id="cite-note-3
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Bitboard Infrastructure](#bitboard-infrastructure)
-	+ [1.2 Move Generation](#move-generation)
-	+ [1.3 Search](#search)
-	+ [1.4 Evaluation Features](#evaluation-features)
-* [2 Etymology](#etymology)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### Bitboard Infrastructure
 
 

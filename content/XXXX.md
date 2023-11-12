@@ -12,32 +12,6 @@ a chess program written in [C](C "C") by [Martin Zentner](Martin_Zentner "Martin
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Photos & Games](#photos-.26-games)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-given in 1999 from the [ICGA](ICGA "ICGA") site <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
-
-```
-XXXX II is a conventional chess program that is not too fast and not too slow. Therefore against other computers it's actually stronger in longer games than in blitz games, which is rather uncommon for todays programs. And XXXX II is always good for a surprising move avoiding a tiring draw. It has quite a bit of knowledge, which can lead the program to interesting positions. Many opponents have said, that XXXX II is rather human-like in it's style of play: Sometimes it plays mistakes, sometimes it plays real beauties. The developer would like to see more beauties of course. :-) 
-
-```
-
 ## Photos & Games
 
 

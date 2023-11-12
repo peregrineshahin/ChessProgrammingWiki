@@ -12,26 +12,6 @@ a Japanese computer scientist, [Shogi](Shogi "Shogi") programmer and associate p
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2005 ...](#2005-...)
-	+ [1.3 2010 ...](#2010-...)
-	+ [1.4 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2000 ...
 
 

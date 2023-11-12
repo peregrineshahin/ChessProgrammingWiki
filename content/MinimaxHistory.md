@@ -13,39 +13,6 @@ an algorithm used to determine the [score](Score "Score") in a [zero-sum](https:
 
 
 
-### Contents
-
-
-* [1 History](#history)
-* [2 Implementation](#implementation)
-* [3 Negamax](#negamax)
-* [4 See also](#see-also)
-	+ [4.1 Search](#search)
-	+ [4.2 People](#people)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1920 ...](#1920-...)
-	+ [5.2 1940 ...](#1940-...)
-	+ [5.3 1950 ...](#1950-...)
-	+ [5.4 1960 ...](#1960-...)
-	+ [5.5 1970 ...](#1970-...)
-	+ [5.6 1980 ...](#1980-...)
-	+ [5.7 1990 ...](#1990-...)
-	+ [5.8 2000 ...](#2000-...)
-	+ [5.9 2010 ...](#2010-...)
-	+ [5.10 2020 ...](#2020-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-[Jaap van den Herik's](Jaap_van_den_Herik "Jaap van den Herik") thesis (1983) <a id="cite-note-2" href="#cite-ref-2">[2]</a> contains a detailed account of the known publications on that topic. It concludes that although [John von Neumann](John_von_Neumann "John von Neumann") is usually associated with that concept ([1928](Timeline#1928 "Timeline")) <a id="cite-note-3" href="#cite-ref-3">[3]</a> , [primacy](https://en.wikipedia.org/wiki/Primacy_of_mind) probably belongs to [Émile Borel](Mathematician#Borel "Mathematician"). Further there is a conceivable claim that the first to credit should go to [Charles Babbage](Mathematician#Babbage "Mathematician") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The original minimax as defined by Von Neumann is based on exact values from [game-terminal positions](Terminal_Node "Terminal Node"), whereas the minimax search suggested by [Norbert Wiener](Norbert_Wiener "Norbert Wiener") <a id="cite-note-5" href="#cite-ref-5">[5]</a> is based on [heuristic evaluations](Evaluation "Evaluation") from positions a few moves distant, and far from the end of the game.
-
-
-
 ## Implementation
 
 

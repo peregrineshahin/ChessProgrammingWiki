@@ -14,45 +14,6 @@ Storm played the first two [CCT Tournaments](CCT_Tournaments "CCT Tournaments"),
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Namesake](#namesake)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[CCT2](CCT2 "CCT2"), round 3, Storm - [LambChop](LambChop "LambChop") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "CCT-2 45 10"]
-[Site "Internet Chess Club"]
-[Date "2000.11.04"]
-[Round "3"]
-[White "Storm"]
-[Black "LambChop"]
-[Result "1-0"]
-
-1.d4 d5 2.c4 dxc4 3.e3 e5 4.Nc3 exd4 5.exd4 Qe7+ 6.Be2 Nc6 7.Nf3 Bg4 
-8.O-O O-O-O 9.d5 Nf6 10.Be3 Bxf3 11.Bxf3 Ne5 12.Bxa7 b6 13.a4 Qb4 
-14.a5 Qxb2 15.axb6 Qxc3 16.b7+ Kxb7 17.Qa4 Kc8 18.Rab1 Nxf3+ 19.gxf3 
-Qb3 20. Qa6+ Kd7 21.Rxb3 cxb3 22.Qc6+ Kc8 23.Bb6 Nxd5 24.Qa8+ Kd7 
-1-0
-
-```
-
 ## Namesake
 
 

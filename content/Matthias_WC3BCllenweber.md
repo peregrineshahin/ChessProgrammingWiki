@@ -19,22 +19,6 @@ by Wüllenweber and Journalist [Frederic Friedel](Frederic_Friedel "Frederic Fri
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* Matthias Wüllenweber (**2002**). *The Match from Fritz' View Point*. [ICGA Journal, Vol. 25, No. 4](ICGA_Journal#25_4 "ICGA Journal") » [Kramnik versus Deep Fritz 2002](Kramnik_versus_Deep_Fritz_2002 "Kramnik versus Deep Fritz 2002")
-* Matthias Wüllenweber, [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [Mathias Feist](Mathias_Feist "Mathias Feist") (**2006**). *Kramnik vs. Deep Fritz 10: Computer wins match by 4-2*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal") » [Kramnik versus Deep Fritz 2006](Kramnik_versus_Deep_Fritz_2006 "Kramnik versus Deep Fritz 2006")
-
-
 ## External Links
 
 

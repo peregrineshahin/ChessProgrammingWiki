@@ -12,24 +12,6 @@ was an American chess and computer chess promoter and businessmen, owner of [Fid
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WMCCC 1983](#wmccc-1983)
-	+ [1.2 USOCCC 1986](#usoccc-1986)
-* [2 Quotes](#quotes)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
 ### WMCCC 1983
 
 

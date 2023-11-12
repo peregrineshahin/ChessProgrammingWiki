@@ -13,26 +13,6 @@ The engine and graphics was developed by [Heuristic Software](Heuristic_Software
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 History](#history)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.mobygames.com/game/dos/kasparovs-gambit/screenshots) 
-Kasparov kibitzing <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## History
 
 

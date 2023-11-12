@@ -12,32 +12,6 @@ a German mathematician and computer scientist, former computer chess programmer,
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Math42](#math42)
-* [3 Fat Fritz](#fat-fritz)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.thorstenczub.de/thomas.html) 
-Thomas Nitsche, [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Lars Hjörth](Lars_Hj%C3%B6rth "Lars Hjörth"), [WMCCC 1984](WMCCC_1984 "WMCCC 1984") Glasgow <a id="cite-note-3" href="#cite-ref-3">[3]</a><a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
- [](http://www.ismenio.com/mephisto.html) 
-Thomas Nitsche operating Mephisto III versus [Susan](https://en.wikipedia.org/wiki/Susan_Polgar) and [Sofia Polgar](https://en.wikipedia.org/wiki/Sofia_Polgar) 1985 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Math42
 
 

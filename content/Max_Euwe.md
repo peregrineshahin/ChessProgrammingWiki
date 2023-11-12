@@ -15,28 +15,6 @@ As friend of [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot"), Euwe suppo
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 World Chess Championship 1948](#world-chess-championship-1948)
-	+ [1.2 Euwe and Botvinnik](#euwe-and-botvinnik)
-* [2 Prouhet–Thue–Morse Sequence](#prouhet.e2.80.93thue.e2.80.93morse-sequence)
-* [3 Computer Science](#computer-science)
-* [4 Euratom](#euratom)
-* [5 Euwe vs Chess 3](#euwe-vs-chess-3)
-* [6 CSVN](#csvn)
-* [7 Max Euweplein](#max-euweplein)
-* [8 Selected Publications](#selected-publications)
-* [9 Forum Posts](#forum-posts)
-* [10 External Links](#external-links)
-* [11 References](#references)
-
-
-
-
-
-
 ### World Chess Championship 1948
 
 

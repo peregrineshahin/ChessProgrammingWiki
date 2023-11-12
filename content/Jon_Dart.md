@@ -12,24 +12,6 @@ an American software developer, software architect, and independent [IT consulta
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1994 ...](#1994-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2005 ...](#2005-...)
-	+ [1.4 2010 ...](#2010-...)
-	+ [1.5 2015 ...](#2015-...)
-	+ [1.6 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1994 ...
 
 

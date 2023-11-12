@@ -13,26 +13,6 @@ Queen applies [principal variation search](Principal_Variation_Search "Principal
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [RedQueen](RedQueen "RedQueen")
-* [Queen](Queen "Queen") (Chess Piece)
-* [Senior Chess](index.php?title=Senior_Chess&action=edit&redlink=1 "Senior Chess (page does not exist)")
-
-
 ## Forum Posts
 
 

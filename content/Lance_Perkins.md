@@ -15,21 +15,6 @@ and wrote his first private program with an own [GUI](GUI "GUI"), and many years
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2004](#2004)
-	+ [1.2 2005 ...](#2005-...)
-	+ [1.3 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2004
 
 

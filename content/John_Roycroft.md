@@ -13,27 +13,6 @@ Since then, the [Dutch-Flemish](https://en.wikipedia.org/wiki/Flemish) ARVES, th
 
 
 
-### Contents
-
-
-* [1 Endgame Tablebases](#endgame-tablebases)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1970 ...](#1970-...)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-John Roycroft advised [Ken Thompson](Ken_Thompson "Ken Thompson") in [endgame tablebases](Endgame_Tablebases "Endgame Tablebases") generation with four and five pieces. 
-For queen and pawn against queen he published some results in 1986, years ahead of full tablebase output on CD <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
-
-
-
 ## Selected Publications
 
 

@@ -13,41 +13,6 @@ or differing in not having a defined starting position, **Reversi**, is a [two-p
 
 
 
-### Contents
-
-
-* [1 Othello Programming](#Othello_Programming)
-	+ [1.1 Search](#Search)
-	+ [1.2 Evaluation](#Evaluation)
-	+ [1.3 Bitboards](#Bitboards)
-* [2 Solving Othello](#Solving_Othello)
-* [3 Computer Olympiads](#Computer_Olympiads)
-* [4 Photos](#Photos)
-* [5 Othello Programs](#Othello_Programs)
-* [6 See also](#See_also)
-* [7 Publications](#Publications)
-	+ [7.1 1979](#1979)
-	+ [7.2 1980 ...](#1980_...)
-	+ [7.3 1985 ...](#1985_...)
-	+ [7.4 1990 ...](#1990_...)
-	+ [7.5 1995 ...](#1995_...)
-	+ [7.6 2000 ...](#2000_...)
-	+ [7.7 2005 ...](#2005_...)
-	+ [7.8 2010 ...](#2010_...)
-	+ [7.9 2015 ...](#2015_...)
-* [8 Forum Posts](#Forum_Posts)
-* [9 External Links](#External_Links)
-* [10 References](#References)
-
-
-
-
-
-
-Writing an Othello program [[2]](#cite_note-2) is an appealing and interesting challenge. Beside the dedicated Othello programmers [Gunnar Andersson](Gunnar_Andersson "Gunnar Andersson"), [Michael Buro](Michael_Buro "Michael Buro"), [Mark Brockington](Mark_Brockington "Mark Brockington"), [Paul Hsieh](Paul_Hsieh "Paul Hsieh"), and [Andrea Zinno](index.php?title=Andrea_Zinno&action=edit&redlink=1 "Andrea Zinno (page does not exist)"), to name a few, many chess programmers were and are busy in this domain as well. Already in 1981 [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") wrote a commercial Reversi program, marketed as *Reversi Sensory Challenger* [[3]](#cite_note-3) by [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"). [Larry Atkin](Larry_Atkin "Larry Atkin") and [Peter W. Frey](Peter_W._Frey "Peter W. Frey") wrote the commercial program [Odin](Peter_W._Frey#Odin "Peter W. Frey") in the early 80s as well [[4]](#cite_note-4). Other programmers to mention are [Aart Bik](Aart_Bik "Aart Bik"), [Bruno Bras](Bruno_Bras "Bruno Bras"), [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Joost Buijs](Joost_Buijs "Joost Buijs"), [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Steve Maughan](Steve_Maughan "Steve Maughan"), and [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill"). 
-
-
-
 ### Search
 
 

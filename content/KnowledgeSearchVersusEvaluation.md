@@ -14,69 +14,6 @@ Inside a chess program, knowledge is manifested either as [procedural](https://e
 
 
 
-### Contents
-
-
-* [1 Search versus Knowledge](#Search_versus_Knowledge)
-	+ [1.1 In Practice](#In_Practice)
-	+ [1.2 HiTech versus LoTech](#HiTech_versus_LoTech)
-	+ [1.3 Ed Schröder's Conclusion](#Ed_Schr.C3.B6der.27s_Conclusion)
-	+ [1.4 Search versus Evaluation](#Search_versus_Evaluation)
-* [2 Knowing](#Knowing)
-* [3 Declarative Knowledge](#Declarative_Knowledge)
-	+ [3.1 A Priori](#A_Priori)
-	+ [3.2 Heuristic Knowledge](#Heuristic_Knowledge)
-	+ [3.3 Empirical Knowledge](#Empirical_Knowledge)
-	+ [3.4 Perfect Knowledge](#Perfect_Knowledge)
-		- [3.4.1 Interior Node Recognizer](#Interior_Node_Recognizer)
-		- [3.4.2 Endgame Databases](#Endgame_Databases)
-* [4 Procedural Knowledge](#Procedural_Knowledge)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1970 ...](#1970_...)
-	+ [6.2 1975 ...](#1975_...)
-	+ [6.3 1980 ...](#1980_...)
-	+ [6.4 1985 ...](#1985_...)
-	+ [6.5 1990 ...](#1990_...)
-	+ [6.6 1995 ...](#1995_...)
-	+ [6.7 2000 ...](#2000_...)
-	+ [6.8 2005 ...](#2005_...)
-	+ [6.9 2010 ...](#2010_...)
-	+ [6.10 2020 ...](#2020_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1996 ...](#1996_...)
-	+ [7.2 2000 ...](#2000_..._2)
-	+ [7.3 2005 ...](#2005_..._2)
-	+ [7.4 2010 ...](#2010_..._2)
-	+ [7.5 2015 ...](#2015_...)
-* [8 External Links](#External_Links)
-	+ [8.1 Knowledge](#Knowledge)
-	+ [8.2 Related Topics](#Related_Topics)
-	+ [8.3 Types of Knowledge](#Types_of_Knowledge)
-	+ [8.4 Musicvideos](#Musicvideos)
-* [9 References](#References)
-
-
-
-
-
-
-The trade-offs of [search](Search "Search") versus Knowledge [[2]](#cite_note-2)
-
-
-
-
-
-|  |  |
-| --- | --- |
-| [KnowledeSearch.JPG](File:KnowledeSearch.JPG) |  Curves A and B represent a fixed performance level, say 2000 for B and 2200 for A. The curves indicate that there are many ways to archive that level of performance, either by little knowledge and lot of search, or vice versa. If a program has archived point P on curve B, it may improve between search only (point S) or knowledge only (point K).
- |
-
-
-
-
-
-
 ### In Practice
 
 

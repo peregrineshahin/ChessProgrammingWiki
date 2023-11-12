@@ -16,23 +16,6 @@ which was never published <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Re: Arena GUI 0.78 Beta 4 by Martin Blume is available!](https://www.stmintz.com/ccc/index.php?id=219912) by Martin Blume, [CCC](CCC "CCC"), March 27, 2002
-* [Re: Question for Martin Blume](https://www.stmintz.com/ccc/index.php?id=399984) by Martin Blume, [CCC](CCC "CCC"), December 10, 2004
-* [An open letter to Martin Blume](https://www.stmintz.com/ccc/index.php?id=400061) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), December 10, 2004
-
-
 ## External Links
 
 

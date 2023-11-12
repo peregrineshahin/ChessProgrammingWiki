@@ -12,27 +12,6 @@ a Japanese doctor of engineering and assistant professor at Department of Commun
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2005 ...](#2005-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.iis.sinica.edu.tw/cgforum2010/photo/Ito/IMG_4757.JPG) 
-Takeshi Ito at Forum of Computer Games 2010 - The Challenge of Computer Shogi <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
 ## Selected Publications
 
 

@@ -10,30 +10,6 @@ a Swiss computer scientist and mathematician affiliated with the [University of 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Guy Haworth](Guy_Haworth "Guy Haworth"), Rafael B. Andrist (**2003**). *[Model Endgame Analysis](http://centaur.reading.ac.uk/4548/)*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10")
-* Rafael B. Andrist, [Guy Haworth](Guy_Haworth "Guy Haworth") (**2005**). *[Deeper model endgame analysis](http://centaur.reading.ac.uk/4523/)*. [Theoretical Computer Science](https://en.wikipedia.org/wiki/Theoretical_Computer_Science_%28journal%29), Vol. 349, No. 2
-* Rafael B. Andrist (**2008**). *[Stein Spaces Characterized by their Endomorphisms](http://paperstatistics.appspot.com/0809.3919)*. <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-* Rafael B. Andrist, [Erlend Fornæss Wold](http://www.mn.uio.no/math/english/people/aca/erlendfw/index.html) (**2011**). *[Riemann surfaces in Stein manifolds with density property](http://paperstatistics.appspot.com/1106.4416)*. <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* Rafael B. Andrist (**2011**). *Topics in Complex Geometry*. Ph.D. thesis, [University of Bern](https://en.wikipedia.org/wiki/University_of_Bern), advisor [W. Frank Kutzschebauch](Mathematician#Kutzschebauch "Mathematician")
-
-
 ## Forum Posts
 
 

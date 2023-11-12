@@ -12,21 +12,6 @@ PICcolino had its over the board debut at the [IGT 2017](IGT_2017 "IGT 2017") an
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Uragano 3D](#uragano-3d)
-	+ [1.2 PICcolino](#piccolino)
-* [2 Postings](#postings)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Uragano 3D
 
 

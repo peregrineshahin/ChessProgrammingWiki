@@ -13,20 +13,6 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2019](#2019)
-	+ [1.2 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2019
 
 

@@ -12,28 +12,6 @@ an Austrian mathematician, computer scientist, mechanical engineer, artist, [com
 
 
 
-### Contents
-
-
-* [1 Computer Chess Supporter](#computer-chess-supporter)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1978 ...](#1978-...)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-DePauli-Schimanovich-Göttig is not only inventor of various games and puzzles, but also did the game programming to run the games on a computer. At [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") in the early 80s he was along with [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") supporter of the [Merlin](Merlin "Merlin") team around [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Helmut Horacek](Helmut_Horacek "Helmut Horacek") and [Marcus Wagner](Marcus_Wagner "Marcus Wagner"), and gives some details on this time in his sixth issue of his work *Europolis* <a id="cite-note-3" href="#cite-ref-3">[3]</a> . 
-
-
-
 ## Selected Publications
 
 

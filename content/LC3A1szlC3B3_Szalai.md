@@ -13,22 +13,6 @@ As computer chess programmer, László is author of the [Chess Engine Communicat
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 ICT 2001](#ict-2001)
-	+ [1.2 MASPV 2002](#maspv-2002)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### ICT 2001
 
 

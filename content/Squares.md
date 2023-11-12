@@ -16,56 +16,6 @@ In [bitboards](Bitboards "Bitboards") the address of a square correspondents to 
 
 
 
-### Contents
-
-
-* [1 Square by Rank and File](#square-by-rank-and-file)
-* [2 Algebraic Square Notation](#algebraic-square-notation)
-* [3 Square Definition](#square-definition)
-* [4 Square Properties](#square-properties)
-* [5 Multiple Squares](#multiple-squares)
-	+ [5.1 Lines](#lines)
-	+ [5.2 Two squares](#two-squares)
-	+ [5.3 Areas](#areas)
-	+ [5.4 The whole Board](#the-whole-board)
-* [6 Pawn Squares](#pawn-squares)
-* [7 See also](#see-also)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-A Square, like a point inside a [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinates), can be determined by x- and y-coordinates, here the labels of [files](Files "Files") and [ranks](Ranks "Ranks"). Since each rank and file has eight squares, the mentioned rank-file mapping implies following formulas to determine the the square address:
-
-
-
-
-```C++
-
-square = 8*rank + file;
-square = (rank << 3) + file;
-
-```
-
-with the obvious relation to calculate rank- and file-indices from the square index:
-
-
-
-
-```C++
-
-rank = square >> 3; // div 8
-file = square  & 7; // modulo 8
-
-```
-
-
-
-
-
 ## Algebraic Square Notation
 
 

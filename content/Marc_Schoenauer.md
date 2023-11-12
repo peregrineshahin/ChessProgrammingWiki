@@ -15,26 +15,6 @@ Schoenauer has been working in the field of [evolutionary computation](Genetic_P
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2010 ...](#2010-...)
-	+ [1.4 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1990 ...
 
 

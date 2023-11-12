@@ -12,24 +12,6 @@ a French computer scientist and research engineer at [Google](index.php?title=Go
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2017 ...](#2017-...)
-	+ [1.2 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 2017 ...
 
 

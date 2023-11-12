@@ -14,51 +14,6 @@ with Bitboards covers [knight](Knight "Knight") [attacks](Attacks "Attacks") of 
 
 
 
-### Contents
-
-
-* [1 Knight Attacks](#knight-attacks)
-	+ [1.1 by Lookup](#by-lookup)
-	+ [1.2 by Calculation](#by-calculation)
-* [2 Multiple Knight Attacks](#multiple-knight-attacks)
-* [3 Knight Fill](#knight-fill)
-* [4 Knight Forks](#knight-forks)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-The [Knight](Knight "Knight") attacks the [target squares](Target_Square "Target Square") independently from other pieces around. The compass rose of all eight attacking [directions](Direction "Direction") associated with the to - from square differences from an [8x8 board](8x8_Board "8x8 Board"):
-
-
-
-
-```C++
-
-        noNoWe    noNoEa
-            +15  +17
-             |     |
-noWeWe  +6 __|     |__+10  noEaEa
-              \   /
-               >0<
-           __ /   \ __
-soWeWe -10   |     |   -6  soEaEa
-             |     |
-            -17  -15
-        soSoWe    soSoEa
-
-```
-
-
-
-
-
 ### by Lookup
 
 

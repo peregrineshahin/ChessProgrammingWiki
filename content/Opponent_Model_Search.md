@@ -11,36 +11,6 @@ title: Opponent Model Search
 
 
 
-### Contents
-
-
-* [1 Speculative Play](#Speculative_Play)
-* [2 Cross-Disciplinary Aspects](#Cross-Disciplinary_Aspects)
-* [3 Further Research](#Further_Research)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-	+ [5.1 BCE ...](#BCE_...)
-	+ [5.2 1500 ...](#1500_...)
-	+ [5.3 1980 ...](#1980_...)
-	+ [5.4 1990 ...](#1990_...)
-	+ [5.5 1995 ...](#1995_...)
-	+ [5.6 2000 ...](#2000_...)
-	+ [5.7 2005 ...](#2005_...)
-	+ [5.8 2015 ...](#2015_...)
-	+ [5.9 2020 ...](#2020_...)
-* [6 Forum Posts](#Forum_Posts)
-* [7 External Links](#External_Links)
-* [8 References](#References)
-
-
-
-
-
-
-In the late 80s, [Deep Thought](Deep_Thought "Deep Thought") co-developer [Peter Jansen](Peter_Jansen "Peter Jansen") investigated dynamic features of a standard search algorithm to asses the difficulty of a chess position, which were used to classify human errors into several types of mistakes [[6]](#cite_note-6) . In his 1992 Ph.D. thesis *Using Knowledge about the Opponent in Game-Tree Search* [[7]](#cite_note-7) , Jansen elaborates on opponent modeling, specially in KQKR, relaxing [Shannon's](Claude_Shannon "Claude Shannon") assumptions of symmetry, identity and optimality, where he mentioned the paradox in computer chess, when a program gives material to avoid mate which could not possibly found by the opponent.
-
-
-
 ## Cross-Disciplinary Aspects
 
 

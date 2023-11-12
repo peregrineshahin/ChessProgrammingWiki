@@ -10,35 +10,6 @@ title: Promotions
 
 
 
-### Contents
-
-
-* [1 Piece counts](#piece-counts)
-* [2 Queening versus Minor Promotions](#queening-versus-minor-promotions)
-* [3 Minor Generation](#minor-generation)
-* [4 GUI Issues](#gui-issues)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1989](#1989)
-	+ [7.2 1990 ...](#1990-...)
-	+ [7.3 2000 ...](#2000-...)
-	+ [7.4 2010 ...](#2010-...)
-	+ [7.5 2015 ...](#2015-...)
-	+ [7.6 2020 ...](#2020-...)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-Since theoretical each pawn may promote, the number of pawns, eight, per side defines the maximum number of pieces, that is one side may have up to nine queens, or ten knights, as well as bishops or rooks. The maximum sum of these pieces, seven of the [initial position](Initial_Position "Initial Position"), is fifteen.
-
-
-
-
 ## Queening versus Minor Promotions
 
 

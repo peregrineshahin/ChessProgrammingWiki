@@ -13,29 +13,6 @@ He obtained a Bachelor degree in mathematics from [University of Indonesia](http
 
 
 
-### Contents
-
-
-* [1 Recognition by the ICGA](#recognition-by-the-icga)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Excerpt from [ICGA](ICGA "ICGA") president [Tony Marsland's](Tony_Marsland "Tony Marsland") *Recognition of Local Participation* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-There is no token that can adequately express the International Chess Community's appreciation for the host University, Gunadarma. While one can recognize the founder, Professor Suryadi Harmanto's love of chess and wisdom in building an institution whose programs are bound so tightly with the importance of Information Technology, one can only be impressed by his courage in taking on the challenge of revising the GUNDA-1 chess program to give it local character, while risking all in a competition like this one. The computer-chess community is delighted to accept him into its ranks as a programmer and, hopefully, as a long-time continuing participant in ICCA events. The world needs more risk takers with such vision. 
-
-```
-
 ## Selected Publications
 
 

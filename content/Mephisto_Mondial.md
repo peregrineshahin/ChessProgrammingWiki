@@ -10,27 +10,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Computer](#chess-computer)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) 
-[Frans Morsch](Frans_Morsch "Frans Morsch") with [Nona](Nona "Nona") aka Mephisto Mondial, HCC <a id="cite-note-6" href="#cite-ref-6">[6]</a> days in [Utrecht](https://en.wikipedia.org/wiki/Utrecht) <a id="cite-note-7" href="#cite-ref-7">[7]</a> 
-|
-
-
-
 ## See also
 
 

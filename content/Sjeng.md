@@ -10,30 +10,6 @@ an [open source engine](Category:Open_Source "Category:Open Source") written by 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Etymology](#etymology)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000 ...](#2000-...)
-	+ [4.2 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Chess Variants](#chess-variants)
-	+ [5.3 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-In it's [suicide and loser's](Losing_Chess "Losing Chess") mode, Sjeng applies [proof-number search](Proof-Number_Search "Proof-Number Search"). Otherwise it uses [alpha-beta](Alpha-Beta "Alpha-Beta") with [aspiration window](Aspiration_Windows "Aspiration Windows") and [PVS](Principal_Variation_Search "Principal Variation Search"), [history heuristic](History_Heuristic "History Heuristic"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [transposition tables](Transposition_Table "Transposition Table"), [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") for [move ordering](Move_Ordering "Move Ordering") and [pruning](Pruning "Pruning"), [selective extensions](Extensions "Extensions"), [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning"), [extended futility pruning](Futility_Pruning#Extendedfutilitypruning "Futility Pruning"), [limited razoring](Razoring#LimitedRazoring "Razoring"), and [opening book learning](Book_Learning "Book Learning") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Sjeng is the engine of [Apple's](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") chess application as shipped in [MacOS X 10.4](Mac_OS "Mac OS") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
-
-
-
 ## Etymology
 
 

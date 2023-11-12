@@ -11,25 +11,6 @@ a Polish mathematician, computer scientist and assistant professor at [Universit
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2006 ...](#2006-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 2006 ...
 
 

@@ -13,32 +13,6 @@ James Gillogly was the primary author of the [The Technology Chess Program](Tech
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* James Gillogly (**1970**). *[MAX : A FORTRAN Chess Player](http://www.rand.org/pubs/papers/P4428/)*. [RAND](https://en.wikipedia.org/wiki/RAND) paper
-* James Gillogly (**1971**). *[The Technology Chess Program](http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=AD0736043)*. [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), CS-71-109, [pdf](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2974&context=compsci)
-* James Gillogly (**1972**). *[The Technology Chess Program](http://www.sciencedirect.com/science/article/pii/0004370272900458)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 3, pp. 145-163, reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-* [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), James Gillogly (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](http://shelf2.library.cmu.edu/Tech/17700646.pdf)
-* James Gillogly (**1978**). *Performance Analysis of the Technology Chess Program*. Ph.D. Thesis. Tech. Report CMU-CS-78-189, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [CMU-CS-77 pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/scan/CMU-CS-77-gillogly.pdf)
-* James Gillogly (**1989**). *Transposition Table Collisions*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
-* James Gillogly (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal") » [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
-
-
 ## Forum Posts
 
 

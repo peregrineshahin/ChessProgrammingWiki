@@ -12,24 +12,6 @@ a German computer scientist, alumnus of the [Chemnitz University of Technology](
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1993 ...](#1993-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 1993 ...
 
 

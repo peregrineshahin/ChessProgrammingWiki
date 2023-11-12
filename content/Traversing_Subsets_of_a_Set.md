@@ -10,28 +10,6 @@ title: Traversing Subsets of a Set
 
 
 
-### Contents
-
-
-* [1 Enumerating All Subsets](#enumerating-all-subsets)
-	+ [1.1 All Subsets of the Universal Set](#all-subsets-of-the-universal-set)
-	+ [1.2 All Subsets of any Set](#all-subsets-of-any-set)
-* [2 Subsets with equal Cardinality](#subsets-with-equal-cardinality)
-	+ [2.1 Snoobing the Universe](#snoobing-the-universe)
-		- [2.1.1 Modified Snoob](#modified-snoob)
-		- [2.1.2 Reverse Snoob](#reverse-snoob)
-	+ [2.2 Snoobing any Sets](#snoobing-any-sets)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
 ### All Subsets of the Universal Set
 
 

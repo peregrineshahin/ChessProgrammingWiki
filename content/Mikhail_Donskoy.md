@@ -15,54 +15,6 @@ From 1982 Mikhail Donskoy was the chief system programmer for the INES [DBMS](ht
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Quotes](#quotes)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1975 ...](#1975-...)
-	+ [4.2 1980 ...](#1980-...)
-	+ [4.3 1990 ...](#1990-...)
-	+ [4.4 2000 ...](#2000-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> :
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd8d8f4) 
-Misha Donskoy at the [World Computer Chess Championship](WCCC_1974 "WCCC 1974") in Stockholm 1974 
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd92710) 
-[Alan Baisley](Alan_Baisley "Alan Baisley") (left) faces Mikhail Donskoy, Round 2 [WCCC 1974](WCCC_1974 "WCCC 1974"), [Tech 2](Tech "Tech") vs [Kaissa](Kaissa "Kaissa")
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdc3450) 
-[Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") and Donskoy at the [3rd World Computer Chess Championship](WCCC_1980 "WCCC 1980") 1980 in Linz 
-
-
-
- [](http://www.chessbase.com/newsdetail.asp?newsid=5153) 
-[A. Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [B. Stilman](Boris_Stilman "Boris Stilman"), M. Donskoy, [M. Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Monty & Amy Newborn](Monroe_Newborn "Monroe Newborn") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd75253) 
-[Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Ken Thompson](Ken_Thompson "Ken Thompson") and Mikhail Donskoy 1992 
-
-
-
 ## Quotes
 
 

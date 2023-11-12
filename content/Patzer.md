@@ -10,35 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1997](#1997)
-	+ [2.2 1999](#1999)
-* [3 Photos](#photos)
-* [4 See also](#see-also)
-* [5 Namesake](#namesake)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1998 ...](#1998-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-Patzer played the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in [Jakarta](https://en.wikipedia.org/wiki/Jakarta), the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris), the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), and the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") and [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006") in [Mainz](https://en.wikipedia.org/wiki/Mainz). Further, Patzer was active over the board at [IPCCCs](IPCCC "IPCCC"), the [5th Spanish Open Computer Chess Championship](SCCC_1998 "SCCC 1998"), [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), [International CSVN Tournaments](International_CSVN_Tournament "International CSVN Tournament"), and the [BELCT 2001](BELCT_2001 "BELCT 2001").
-
-
-
 ## Descriptions
 
 

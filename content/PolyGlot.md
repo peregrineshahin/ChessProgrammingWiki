@@ -14,31 +14,6 @@ an adapter <a id="cite-note-2" href="#cite-ref-2">[2]</a> that allows [UCI](UCI 
 
 
 
-### Contents
-
-
-* [1 Retirement](#retirement)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2004](#2004)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-	+ [3.5 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess adapter](#chess-adapter)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-As far as [XBoard](XBoard "XBoard")/[WinBoard](WinBoard "WinBoard") is concerned since 2018, Polyglot is scheduled for retirement. The latest beta package of WinBoard did not contain any Polyglot, but relied on [UCI2WB](UCI2WB "UCI2WB") instead, which is variant agnostic, and supports all UCI dialects (USI, UCCI, UCI-Cyclone, Arena960). Polyglot is useless for anything other than ordinary Chess <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## See also
 
 

@@ -10,31 +10,6 @@ a chess program by [Lex Loep](Lex_Loep "Lex Loep"), which played the [WCCC 1995]
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-given in 1995 from the [ICGA](ICGA "ICGA") page <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
-
-```C++
-The first version of LChess was written in 1987. In 1988 it participated for the first time in the Dutch Computer Chess Championship, ending 13th in a field of 16; the best result was in 1990 when it ended on a shared 3rd place. Lex Loep has steadily worked on the chess engine and the version which is playing in the WCCC has been ported to Windows NT. Techniques used by the chess engine include [alpha-beta](Alpha-Beta "Alpha-Beta") search, [iterative deepening](Iterative_Deepening "Iterative Deepening"), [PVS](Principal_Variation_Search "Principal Variation Search"), [null moves](Null_Move "Null Move") for [pruning](Null_Move_Pruning "Null Move Pruning") and [thread detection](Null_Move_Pruning#ThreatDetection "Null Move Pruning"), [history tables](History_Heuristic "History Heuristic"), [killer heuristics](Killer_Heuristic "Killer Heuristic"), [transposition tables](Transposition_Table "Transposition Table") and [refutation tables](Refutation_Table "Refutation Table"). Tactically the program plays very well, and is particularly good in finding mate threads. Positionally there is still a lot of work to do. On the Reinfeld test set it scores more than 80% with 1 minute CPU time on a [Pentium 90](X86 "X86"). Search speed is 30,000 - 50,000 [nodes/second](Nodes_per_Second "Nodes per Second"). [Ger Neef](index.php?title=Ger_Neef&action=edit&redlink=1 "Ger Neef (page does not exist)") wrote the user interface. 
-
-```
-
 ## Selected Games
 
 

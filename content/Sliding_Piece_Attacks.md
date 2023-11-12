@@ -10,45 +10,6 @@ This is basically about how to calculate [attack-sets](Attacks "Attacks") of [sl
 
 
 
-### Contents
-
-
-* [1 Move targets](#move-targets)
-* [2 Single Sliding Piece Attacks](#single-sliding-piece-attacks)
-	+ [2.1 On an empty Board](#on-an-empty-board)
-	+ [2.2 Tinker's Approach](#tinker.27s-approach)
-	+ [2.3 By Calculation](#by-calculation)
-	+ [2.4 By Occupancy Lookup](#by-occupancy-lookup)
-	+ [2.5 Miscellaneous](#miscellaneous)
-* [3 Multiple Sliding Pieces](#multiple-sliding-pieces)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1999](#1999)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Move target sets from attack-sets require [intersection](General_Setwise_Operations#Intersection "General Setwise Operations")
-
-
-
-* with opponent pieces for [captures](Captures "Captures")
-* with all empty squares for [quiet moves](Quiet_Moves "Quiet Moves")
-
-
-
-
-
-
 ## Single Sliding Piece Attacks
 
 

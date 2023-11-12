@@ -12,34 +12,6 @@ a Belgian mathematician, Ph.D. in 1985 and [Habilitation](https://en.wikipedia.o
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1980 ...](#1980-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2008 ...](#2008-...)
-	+ [3.2 2010 ...](#2010-...-2)
-	+ [3.3 2015 ...](#2015-...)
-	+ [3.4 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 General](#general)
-	+ [4.2 Computer Chess](#computer-chess-2)
-* [5 References](#references)
-
-
-
-
-
-
-Michel Van den Bergh's professional interests in mathematics is supplemented by chess and computer chess programming. He worked on [Toga II](Toga "Toga") [Posix](https://en.wikipedia.org/wiki/POSIX) ports, on [icsdrone](index.php?title=Icsdrone&action=edit&redlink=1 "Icsdrone (page does not exist)"), an interface between an ICS ([Internet Chess Server](Chess_Server "Chess Server")) and a chess engine supporting the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"), and made an attempt to transform [GNU Chess](GNU_Chess "GNU Chess") into a modern Chess Engine Communication Protocol compliant engine. He is in the process to improve version 5 with various [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") based [pruning](Pruning "Pruning") techniques and optimizations, where SEESign is faster to determine if the SEE value is below some threshold than computing its actual value <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and further applied [parameter tuning](Automated_Tuning "Automated Tuning") using [Rémi Coulom's](R%C3%A9mi_Coulom "Rémi Coulom") [CLOP](CLOP "CLOP"), Confident Local Optimization for Noisy Black-Box Parameter Tuning <a id="cite-note-4" href="#cite-ref-4">[4]</a>. More recently, Michel Van den Bergh is engaged in [match statistics](Match_Statistics "Match Statistics") and [sequential probability ratio test](Match_Statistics#SPRT "Match Statistics").
-
-
-
 ## Selected Publications
 
 

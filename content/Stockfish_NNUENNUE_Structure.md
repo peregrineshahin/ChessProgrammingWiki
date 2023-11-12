@@ -22,46 +22,6 @@ In August 2020, [Fishtest](Stockfish#Fishtest "Stockfish") revealed Stockfish NN
 
 
 
-### Contents
-
-
-* [1 NNUE Structure](#NNUE_Structure)
-	+ [1.1 HalfKP](#HalfKP)
-	+ [1.2 HalfKA](#HalfKA)
-* [2 Network](#Network)
-* [3 Hybrid](#Hybrid)
-* [4 Strong Points](#Strong_Points)
-	+ [4.1 For Users](#For_Users)
-	+ [4.2 For Developers](#For_Developers)
-* [5 Elo gain](#Elo_gain)
-* [6 Suggestions](#Suggestions)
-* [7 See also](#See_also)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 2020 ...](#2020_...)
-		- [8.1.1 January ...](#January_...)
-		- [8.1.2 July](#July)
-		- [8.1.3 August](#August)
-		- [8.1.4 September](#September)
-		- [8.1.5 October](#October)
-	+ [8.2 2021 ...](#2021_...)
-* [9 External Links](#External_Links)
-	+ [9.1 Basics](#Basics)
-	+ [9.2 Source](#Source)
-	+ [9.3 Networks](#Networks)
-	+ [9.4 Rating](#Rating)
-	+ [9.5 Misc](#Misc)
-* [10 References](#References)
-
-
-
-
-
-
-The [neural network](Neural_Networks "Neural Networks") consists of four layers. The input layer is heavily overparametrized, feeding in the [board representation](Board_Representation "Board Representation") for all king placements per side
-[[17]](#cite_note-17). 
-
-
-
 ### HalfKP
 
 

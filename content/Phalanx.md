@@ -12,29 +12,6 @@ an [open source chess engine](Category:Open_Source "Category:Open Source"), orig
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Quotes](#quotes)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1997 ...](#1997-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Phalanx's board is [represented](Board_Representation "Board Representation") by a [10x12 mailbox](10x12_Board "10x12 Board") with [piece-lists](Piece-Lists "Piece-Lists"). The [search](Search "Search") uses [PVS](Principal_Variation_Search "Principal Variation Search") with [transposition table](Transposition_Table "Transposition Table") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") centiply framework for [fractional extensions](Extensions#FractionalExtensions "Extensions") and [reductions](Reductions "Reductions") without [aspiration windows](Aspiration_Windows "Aspiration Windows"), performing state of the art [null move pruning](Null_Move_Pruning "Null Move Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions") and [futility pruning](Futility_Pruning "Futility Pruning") near the tips. Phalanx pioneered in [tapered eval](Tapered_Eval "Tapered Eval") and speculatively computes both [endgame](Endgame "Endgame") and [middlegame](Middlegame "Middlegame") [scores](Score "Score") to balance them by total [material](Material "Material"). This prevents [evaluation discontinuity](Evaluation_Discontinuity "Evaluation Discontinuity") when searching a position on the edge of middlegame and endgame. The [static evaluation](Evaluation "Evaluation") first extracts knowledge and prepares a [color flipped](Color_Flipping "Color Flipping") board, and applies that knowledge in a second pass using the flipped board to do stuff for both sides with the same color independent code.
-
-
-
 ## Quotes
 
 

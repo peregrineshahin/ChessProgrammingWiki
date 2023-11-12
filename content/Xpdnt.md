@@ -12,30 +12,6 @@ the last recent update appeared in October 2009 <a id="cite-note-2" href="#cite-
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2005 ...](#2005-...)
-	+ [3.2 2008 ...](#2008-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

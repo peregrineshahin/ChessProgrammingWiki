@@ -10,35 +10,6 @@ title: Search Pathology
 
 
 
-### Contents
-
-
-* [1 Decision vs Evaluation](#decision-vs-evaluation)
-* [2 Random Evaluations](#random-evaluations)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1979](#1979)
-	+ [4.2 1980 ...](#1980-...)
-	+ [4.3 1985 ...](#1985-...)
-	+ [4.4 1990 ...](#1990-...)
-	+ [4.5 1995 ...](#1995-...)
-	+ [4.6 2000 ...](#2000-...)
-	+ [4.7 2005 ...](#2005-...)
-	+ [4.8 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Independently, pathology in game trees was coined by [Dana S. Nau](Dana_S._Nau "Dana S. Nau"), who discovered pathology to exist in a large class of games <a id="cite-note-3" href="#cite-ref-3">[3]</a> under the assumption of independence of sibling values of trees with low branching factor (i.e. binary trees) with game theoretic leaf values of win and loss {1, -1}. In a simulation, Nau introduced strong dependencies between sibling nodes and discovered that this can cause search-depth pathology to disappear. While Nau was primarily concerned with decision accuracy, Beal <a id="cite-note-4" href="#cite-ref-4">[4]</a>, as well as [Bratko](Ivan_Bratko "Ivan Bratko") and [Gams](Matja%C5%BE_Gams "Matjaž Gams") <a id="cite-note-5" href="#cite-ref-5">[5]</a> were concerned with evaluation accuracy.
-
-
-
-
 ## Random Evaluations
 
 

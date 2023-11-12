@@ -16,32 +16,6 @@ PocketGrandmaster features an own [GUI](GUI "GUI") with [UCI](UCI "UCI") like pr
 
 
 
-### Contents
-
-
-* [1 Engines](#engines)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2001 ...](#2001-...)
-	+ [3.2 2005 ...](#2005-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Anaconda](Anaconda "Anaconda") (successor of [GromitChess](Gromit "Gromit"))
-* [Naum 4](Naum "Naum")
-* [Toga II](Toga "Toga")
-* [Fruit 2.1](Fruit "Fruit")
-* [SOS](SOS "SOS")
-* [Ruffian 1.0.4](Ruffian "Ruffian") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
 ## See also
 
 

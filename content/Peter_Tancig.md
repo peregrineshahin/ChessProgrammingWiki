@@ -15,23 +15,6 @@ In the early 80s, he collaborated with [Ivan Bratko](Ivan_Bratko "Ivan Bratko") 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chunking](Chunking "Chunking")
-* [Cognition](Cognition "Cognition")
-
-
 ## Selected Publications
 
 

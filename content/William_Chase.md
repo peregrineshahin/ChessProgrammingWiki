@@ -13,31 +13,6 @@ was an American [psychologist](Category:Psychologist "Category:Psychologist") an
 
 
 
-### Contents
-
-
-* [1 Perception in Chess](#perception-in-chess)
-	+ [1.1 Criticism](#criticism)
-	+ [1.2 Defense](#defense)
-	+ [1.3 Neil Charness](#neil-charness)
-	+ [1.4 Questioning](#questioning)
-* [2 Quotes](#quotes)
-	+ [2.1 Herbert Simon](#herbert-simon)
-	+ [2.2 Hans Berliner](#hans-berliner)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-William Chase and [Herbert Simon](Herbert_Simon "Herbert Simon") <a id="cite-note-3" href="#cite-ref-3">[3]</a> tested chess player's memories of [positions](Chess_Position "Chess Position") of [games](Chess_Game "Chess Game") versus random positions. In all game positions, performance on this test declined as the player's chess rating declined. At random positions, all levels of players did approximately the same, while more recent research conclusion is that chess masters do slightly better with random positions than weaker players as well. However, this suggests that the higher-ranked players are able to use some form of [chunking](Chunking "Chunking") that allows them to rapidly encode macro features of the positions. For instance, even a mediocre player would be able to encode the six pieces comprising a [castled](Castling "Castling") king and rook, [fianchettoed bishop](Fianchetto "Fianchetto") and three surrounding pawns as a set, while a beginner would be forced to remember these separately.
-
-
-
 ### Criticism
 
 

@@ -10,20 +10,6 @@ an Austrian computer chess programmer, and author of the [freeware](https://en.w
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1996 ...](#1996-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1996 ...
 
 

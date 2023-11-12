@@ -13,51 +13,6 @@ Jamboree was used in the massive parallel chess programs [StarTech](StarTech "St
 
 
 
-### Contents
-
-
-* [1 Pseudo Code](#pseudo-code)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```C++
-
-int jamboree(CNode n, int α, int β) {
-   if (n is leaf) return static_eval(n);
-   c[] = the childen of n;
-   b = -jamboree(c[0], -β, -α); 
-   if (b >= β) return b;
-   if (b >  α) α = b;
-   In Parallel: for (i=1; i < |c[]|; i++) {
-      s = -jamboree(c[i], -α - 1, -α);
-      if (s >  b) b = s;
-      if (s >= β) abort_and_return s;
-      if (s >  α) {
-          /* Wait for completion of all previous iterations of the parallel loop */
-          s = -jamboree(c[i], -β, -α);
-          if (s >= β) abort_and_return s;
-          if (s >  α) α = s;
-          if (s >  b) b = s;
-      }
-      /* Note the completion of the ith iteration of the parallel loop */
-   }
-   return b;
-}
-
-```
-
 ## See also
 
 

@@ -12,27 +12,6 @@ a Swiss mathematician and computer scientist. Jürg Nievergelt has been full Pro
 
 
 
-### Contents
-
-
-* [1 Selected Papers](#selected-papers)
-	+ [1.1 1965 ...](#1965-...)
-	+ [1.2 1970 ...](#1970-...)
-	+ [1.3 1980 ...](#1980-...)
-	+ [1.4 1990 ...](#1990-...)
-	+ [1.5 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1965 ...
 
 

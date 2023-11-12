@@ -10,25 +10,6 @@ title: University of Toronto
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chute](Chute "Chute")
-* [King of Kings](index.php?title=King_of_Kings&action=edit&redlink=1 "King of Kings (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-* [Maia Chess](Maia_Chess "Maia Chess")
-* [Rajah](Rajah "Rajah") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
 ## People
 
 

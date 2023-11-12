@@ -18,50 +18,6 @@ If we think about an [arithmetical operation](General_Setwise_Operations#Arithme
  |
 
 
-### Contents
-
-
-* [1 How it Works](#how-it-works)
-* [2 o^(o-2r)](#o.5e.28o-2r.29)
-* [3 See also](#see-also)
-* [4 References](#references)
-
-
-
-
-
-
-*Again, we write [bytes](Byte "Byte") ([ranks](Ranks "Ranks")) [little-endian-wise](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations"), LSB (A-file) is left not right.*
-
-
-
-
-```C++
-
-    00000010 blocking piece
-  - 01000000 rook
-    01111100 piece(s) - rook
-
-```
-
-The difference is already like an [occluded-fill](Dumb7Fill "Dumb7Fill"), including the rook (slider) but excluding the blocker. Therefor, also considering no or multiple blockers - or even multiple sliders, the [xor difference](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") with the [union](General_Setwise_Operations#Union "General Setwise Operations") of both blocking and sliding sets determines the bit-changes, ...
-
-
-
-
-```C++
-
-    01000010 occupied = piece(s) | rook
-xor 01111100 piece(s) - rook
-=   00111110
-
-```
-
-... yielding exactly the attack set of the rook(s) in positive rank direction, from left to right (from whites point of view) or A- to H-file.
-
-
-
-
 ## o^(o-2r)
 
 

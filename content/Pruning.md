@@ -12,44 +12,6 @@ a name for every heuristic that removes completely certain branches of the [sear
 
 
 
-### Contents
-
-
-* [1 Backward pruning](#backward-pruning)
-* [2 Forward pruning techniques](#forward-pruning-techniques)
-	+ [2.1 Returning Beta](#returning-beta)
-	+ [2.2 Returning Alpha](#returning-alpha)
-	+ [2.3 Skipping Moves](#skipping-moves)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1960 ...](#1960-...)
-	+ [4.2 1970 ...](#1970-...)
-	+ [4.3 1980 ...](#1980-...)
-	+ [4.4 1990 ...](#1990-...)
-	+ [4.5 2000 ...](#2000-...)
-	+ [4.6 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1995 ...](#1995-...)
-	+ [5.2 2000 ...](#2000-...-2)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...-2)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-sound pruning, not affecting the search result
-
-
-
-* [Mate Distance Pruning](Mate_Distance_Pruning "Mate Distance Pruning")
-
-
 ## Forward pruning techniques
 
 

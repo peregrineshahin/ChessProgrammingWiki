@@ -12,43 +12,6 @@ a [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) based algorith
 
 
 
-### Contents
-
-
-- [Quotes](#quotes)
-- [Applications](#applications)
-- [Algorithm](#algorithm)
-  - [Description](#description)
-  - [Animation](#animation)
-  - [Pseudo Code](#pseudo-code)
-- [See also](#see-also)
-- [Selected Publications](#selected-publications)
-  - [1948 ...](#1948-)
-  - [1950 ...](#1950-)
-  - [1970 ...](#1970-)
-  - [1980 ...](#1980-)
-  - [1990 ...](#1990-)
-  - [2000 ...](#2000-)
-  - [2010 ...](#2010-)
-- [Forum Posts](#forum-posts)
-- [External Links](#external-links)
-  - [Simulated Annealing](#simulated-annealing)
-  - [Related Topics](#related-topics)
-  - [Misc](#misc)
-- [References](#references)
-
-
-
-
-
-
-The annealing algorithm is an adaptation of the [Metropolis–Hastings algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) to generate sample states of a [thermodynamic system](https://en.wikipedia.org/wiki/Thermodynamic_system), invented by [Marshall Rosenbluth](Mathematician#MRosenbluth "Mathematician") and published by [Nicholas Metropolis](https://en.wikipedia.org/wiki/Nicholas_Metropolis) et al. in 1953 [[3]](#cite_note-3) [[4]](#cite_note-4) , later generalized by [W. Keith Hastings](Mathematician#WKHastings "Mathematician") at [University of Toronto](University_of_Toronto "University of Toronto") [[5]](#cite_note-5). According to [Roy Glauber](Mathematician#RJlauber "Mathematician") and [Emilio Segrè](Mathematician#ESegre "Mathematician"), the original algorithm was invented by [Enrico Fermi](Mathematician#EFermi "Mathematician") and reinvented by [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam") [[6]](#cite_note-6). 
-
-
-SA was independently described by [Scott Kirkpatrick](Mathematician#SKirkpatrick "Mathematician"), [C. Daniel Gelatt](Mathematician#CDGelatt "Mathematician") and Mario P. Vecchi in 1983 [[7]](#cite_note-7), at that time affiliated with [IBM Thomas J. Watson Research Center, Yorktown Heights](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center), and by Vlado Černý from [Comenius University](https://en.wikipedia.org/wiki/Comenius_University), [Bratislava](https://en.wikipedia.org/wiki/Bratislava) in 1985 [[8]](#cite_note-8).
-
-
-
 ## Quotes
 
 

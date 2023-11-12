@@ -11,24 +11,6 @@ Along with *Richard Arnstein*, Robert was executive of the companies *Device Ori
 
 
 
-### Contents
-
-
-* [1 8080 Chess](#8080-chess)
-* [2 External Links](#external-links)
-	+ [2.1 Adventures](#adventures)
-* [3 References](#references)
-
-
-
-
-
-
-Robert Arnstein is author of [8080 Chess](8080_Chess "8080 Chess") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, a chess program for [S-100 bus](https://en.wikipedia.org/wiki/S-100_bus) [microcomputers](https://en.wikipedia.org/wiki/Microcomputer), consisted of the pins of the [Intel](Intel "Intel") [8080](8080 "8080") run out onto the [backplane](https://en.wikipedia.org/wiki/Backplane). 
-8080 Chess was the first microcomputer to participate in an [ACM North American Computer Chess Championship](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), the [ACM 1977](ACM_1977 "ACM 1977") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Robert Arnstein has an own [ICGA](ICGA "ICGA") tournament page, but with no program mentioned <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-
-
-
 ## External Links
 
 

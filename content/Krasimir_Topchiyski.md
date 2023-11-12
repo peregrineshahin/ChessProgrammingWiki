@@ -13,28 +13,6 @@ He holds B.Sc. and M.Sc. degrees in computer science from [Sofia University St. 
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Postings](#postings)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Concerning chess programming, Krasimir Topchiyski is author of the [open source chess engine](Category:Open_Source "Category:Open Source") [Bagatur](Bagatur "Bagatur"), written in [Java](Java "Java") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
-the Java [API](https://en.wikipedia.org/wiki/API) to probe [Gaviota Tablebases](Gaviota_Tablebases "Gaviota Tablebases") <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
- and the Java **Chess Board Scanner**, which converts [2D chess board](2D_Graphics_Board "2D Graphics Board") image into [Forsyth-Edwards Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-Bagatur, as well the Chess Board Scanner feature [neural networks](Neural_Networks "Neural Networks") using [Neuroph](https://en.wikipedia.org/wiki/Neuroph) and [Deeplearning4j](https://en.wikipedia.org/wiki/Deeplearning4j) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-and are both incorporated inside the [Android](Android "Android") app [Chess Art For Kids](index.php?title=Chess_Art_For_Kids&action=edit&redlink=1 "Chess Art For Kids (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-The Chess Board Scanner further comes as own app <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Postings
 
 

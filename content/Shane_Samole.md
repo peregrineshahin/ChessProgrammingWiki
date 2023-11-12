@@ -17,24 +17,6 @@ Until 2009, Shane Samole was owner and president of the [World Chess Hall of Fam
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Excalibur Electronics](Excalibur_Electronics "Excalibur Electronics").
-* [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics")
-* [Ron Nelson](Ron_Nelson "Ron Nelson")
-* [Sidney Samole](Sidney_Samole "Sidney Samole")
-
-
 ## External Links
 
 

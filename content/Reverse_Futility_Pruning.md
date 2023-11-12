@@ -10,24 +10,6 @@ postpones a [extended futility pruning](Futility_Pruning#Extendedfutilitypruning
 
 
 
-### Contents
-
-
-* [1 Pseudo Code](#pseudo-code)
-	+ [1.1 EFP](#efp)
-	+ [1.2 RFP](#rfp)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2008 ...](#2008-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 References](#references)
-
-
-
-
-
-
 ### EFP
 
 

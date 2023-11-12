@@ -14,24 +14,6 @@ and is member of the editorial board of the International Journal *Web Journal o
 
 
 
-### Contents
-
-
-* [1 Lomonosov Tablebases](#lomonosov-tablebases)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Victor Zakharov](Victor_Zakharov "Victor Zakharov") and [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin"), Michael G. Malkovsky published on [compression](https://en.wikipedia.org/wiki/Data_compression) of the [7-piece](Endgame_Tablebases#7-men "Endgame Tablebases") [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases"), whose algorithms are based on data reordering before compression, the [RE-PAIR](https://en.wikipedia.org/wiki/Grammar-based_code#Practical_algorithms) compression algorithm , and use of the so-called under-determined value method <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-<a id="cite-note-7" href="#cite-ref-7">[7]</a> . 
-
-
-
 ## Selected Publications
 
 

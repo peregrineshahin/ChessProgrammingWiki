@@ -15,29 +15,6 @@ He has written various tools and scripts for DNA data and [FASTA format](https:/
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2003 ...](#2003-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Likely due to the common [dynamic programming](Dynamic_Programming "Dynamic Programming") roots of MSA and [retrograde analysis](Retrograde_Analysis "Retrograde Analysis"), Kirill Kryukov's professional and recreational activities intersect.
-His computer chess related interests include [endgame tablebases](Endgame_Tablebases "Endgame Tablebases"), [Minichess](https://en.wikipedia.org/wiki/Minichess), and further [engine testing](Engine_Testing "Engine Testing") and [match statistics](Match_Statistics "Match Statistics"). 
-In 2004, Kirill [solved](https://en.wikipedia.org/wiki/Solved_game) [3x3 Chess](https://en.wikipedia.org/wiki/Minichess#3%C3%973_and_3%C3%974_boards) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and in 2010, 3x4 Chess <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He further maintains the [KCEC](KCEC "KCEC") [engine rating list](Engine_Rating_Lists "Engine Rating Lists") (*Kirr's Chess Engine Comparison*) <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and is administrator of the Russian [KasparovChess computer chess forum](Computer_Chess_Forums "Computer Chess Forums"). 
-
-
-
 ## Selected Publications
 
 

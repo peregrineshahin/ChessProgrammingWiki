@@ -10,49 +10,6 @@ a family of commercial chess programs, developed by [Chris Whittington](Chris_Wh
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Screenshots](#screenshots)
-	+ [2.1 ZX81](#zx81)
-	+ [2.2 Spectrum](#spectrum)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 ZX81](#zx81-2)
-	+ [5.2 Spectrum](#spectrum-2)
-	+ [5.3 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Excerpts from the **Superchess II** version **2.1** technical information screen <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-* [Tree Search](Search "Search")
-	+ [Depth first](Depth-First "Depth-First") [alpha-beta](Alpha-Beta "Alpha-Beta") search
-	+ [Killer heuristic](Killer_Heuristic "Killer Heuristic")
-	+ [Look ahead](Depth "Depth") is level + one with one [ply](Ply "Ply") more if [check](Check "Check")
-
-
-* [Positional weighting factors](Evaluation "Evaluation")
-	+ [Piece safety](Hanging_Piece "Hanging Piece")
-	+ [Mobility](Mobility "Mobility") and development
-	+ [King safety](King_Safety "King Safety") in [middlegame](Middlegame "Middlegame")
-	+ [Centre control](Center_Control "Center Control")
-	+ [Pawn position](Pawn_Structure "Pawn Structure")
-	+ [Strong squares](Square_Control "Square Control") for [knights](Knight "Knight")
-	+ Good [diagonals](Diagonals "Diagonals") for [bishops](Bishop "Bishop")
-	+ [Rooks on the seventh rank](Rook_on_Seventh "Rook on Seventh")
-	+ Advanced [pawns](Pawn "Pawn") in the [endgame](Endgame "Endgame")
-	+ [King activity](King_Centralization "King Centralization") in the endgame
-
-
 ## Screenshots
 
 

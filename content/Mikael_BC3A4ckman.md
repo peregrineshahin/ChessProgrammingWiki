@@ -12,21 +12,6 @@ in particular working on and establishing [Lazy SMP](Lazy_SMP "Lazy SMP") <a id=
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2003 ...](#2003-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2003 ...
 
 

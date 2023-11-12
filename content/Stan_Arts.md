@@ -12,27 +12,6 @@ a Dutch computer game and chess programmer, who already started programming with
 
 
 
-### Contents
-
-
-* [1 Chess Programming](#chess-programming)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2002 ...](#2002-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 2002, Stan Arts became interested in chess programming, starting with an [8x8 Board](8x8_Board "8x8 Board") and re-inventing [Minimax](Minimax "Minimax"). Stan discovered chess programming in the Internet, learned about [alpha-beta](Alpha-Beta "Alpha-Beta") and met [José Lauro Strapasson](index.php?title=Jos%C3%A9_Lauro_Strapasson&action=edit&redlink=1 "José Lauro Strapasson (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, author of [PreChess](index.php?title=PreChess&action=edit&redlink=1 "PreChess (page does not exist)"), who pointed him the [Free-Pascal](https://en.wikipedia.org/wiki/Free_Pascal) compiler and taught him the [WinBoard](WinBoard "WinBoard") protocol <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-Already in summer 2002 Stan was able to publish his first WinBoard compatible chess engine dubbed [Stan's Chess](index.php?title=Stan%27s_Chess&action=edit&redlink=1 "Stan's Chess (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, soon also with an own [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") [GUI](GUI "GUI"), later evolving to [Neurosis](Neurosis "Neurosis"). 
-His recent program [Nemeton](Nemeton "Nemeton"), also written in Pascal, had its debut at the [PT 47](PT_47 "PT 47") in 2014, and was released soon after <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## Forum Posts
 
 

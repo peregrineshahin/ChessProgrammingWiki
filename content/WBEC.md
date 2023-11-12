@@ -12,24 +12,6 @@ was a private chess engine rating list and chess engine news and tournament site
 
 
 
-### Contents
-
-
-* [1 Conditions](#conditions)
-* [2 Forum Posts](#forum-posts)
-* [3 WBEC Links](#wbec-links)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Time Control](Time_Management "Time Management"): 40/40
-* [Ponder](Pondering "Pondering"): on
-
-
 ## Forum Posts
 
 

@@ -13,24 +13,6 @@ It has its own [GUI](GUI "GUI") and additionally supports the [Chess Engine Comm
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Namesake](#namesake)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-SharpChess uses the [0x88](0x88 "0x88") board representation to utilize [PVS](Principal_Variation_Search "Principal Variation Search") within an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. The [transposition table](Transposition_Table "Transposition Table") is indexed and verified by [Zobrist keys](Zobrist_Hashing "Zobrist Hashing"), [move ordering](Move_Ordering "Move Ordering") considers [hash move](Hash_Move "Hash Move"), [MVV/LVA](MVV-LVA "MVV-LVA"), [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), [killer heuristic](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), and beside [quiescence search](Quiescence_Search "Quiescence Search"), [selectivity](Selectivity "Selectivity") is applied by [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning") and [extending](Extensions "Extensions") on [checks](Check_Extensions "Check Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions") of pieces with same value, [single replies](One_Reply_Extensions "One Reply Extensions"), and [pawn pushes to the seventh rank](Passed_Pawn_Extensions "Passed Pawn Extensions").
-
-
-
 ## Namesake
 
 

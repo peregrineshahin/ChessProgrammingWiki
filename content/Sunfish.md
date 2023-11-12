@@ -13,31 +13,6 @@ Without the code lines of the [piece-square tables](Piece-Square_Tables "Piece-S
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Etymology](#etymology)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Postings](#postings)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Sunfish applies MTD-bi, the binary search version of [MTD(f)](MTD(f) "MTD(f)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-also known as [NegaC\*](NegaC* "NegaC*") as proposed by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") in 1990 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, which is based on [C\*](NegaC* "NegaC*"), introduced by [Kevin Coplan](Kevin_Coplan "Kevin Coplan") in 1981 at [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-MTD-bi is embedded inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. Its [fail-soft](Fail-Soft "Fail-Soft") [scout](Scout "Scout") originally lacked the [quiescence search](Quiescence_Search "Quiescence Search"), which made it blunder pretty badly in some positions <a id="cite-note-7" href="#cite-ref-7">[7]</a>, but a version of this was later added <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-The rudimentary [evaluation](Evaluation "Evaluation") considers [point values](Point_Value "Point Value") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") - an aggregated [score](Score "Score") is [incremental updated](Incremental_Updates "Incremental Updates") during [make move](Make_Move "Make Move").
-
-
-
 ## Etymology
 
 

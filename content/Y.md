@@ -14,25 +14,6 @@ a chess program written by primary author [Ulf Rathsman](Ulf_Rathsman "Ulf Raths
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Description](#description)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[](File:WMCCC88YNot.jpg)
-[Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") and [Sandro Necchi](Sandro_Necchi "Sandro Necchi") of Y!88 at the [WMCCC 1988](WMCCC_1988 "WMCCC 1988") in [Almería](https://en.wikipedia.org/wiki/Almer%C3%ADa) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Description
 
 

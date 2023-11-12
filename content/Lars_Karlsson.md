@@ -16,23 +16,6 @@ while Karlsson moved to DIAB's subsidiary in the US and devoted himself to devel
 
 
 
-### Contents
-
-
-* [1 Rook](#rook)
-* [2 Quotes](#quotes)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Starting in 1977, within about one [man-year](https://en.wikipedia.org/wiki/Man-hour#Similar_units), Karlsson wrote a chess program in [Z80](Z80 "Z80") [assembly](Assembly "Assembly") for the *Data Board 4680* card computer, dubbed [Rook](Rook_(Program) "Rook (Program)"). Rook **4.0** played a strong [WMCCC 1980](WMCCC_1980 "WMCCC 1980"), and Rook **4.5** lost from [Boris Spassky](https://en.wikipedia.org/wiki/Boris_Spassky) during his [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition) at the 1981 [CeBIT](https://en.wikipedia.org/wiki/CeBIT) fair in [Hanover](https://en.wikipedia.org/wiki/Hanover), Germany <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Quotes
 
 

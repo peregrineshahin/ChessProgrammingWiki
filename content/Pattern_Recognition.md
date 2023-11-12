@@ -12,46 +12,6 @@ title: Pattern Recognition
 
 
 
-### Contents
-
-
-* [1 Chess Pattern](#Chess_Pattern)
-* [2 Chess Programs](#Chess_Programs)
-* [3 See also](#See_also)
-* [4 Publications](#Publications)
-	+ [4.1 1950 ...](#1950_...)
-	+ [4.2 1960 ...](#1960_...)
-	+ [4.3 1970 ...](#1970_...)
-	+ [4.4 1980 ...](#1980_...)
-	+ [4.5 1990 ...](#1990_...)
-	+ [4.6 2000 ...](#2000_...)
-	+ [4.7 2010 ...](#2010_...)
-	+ [4.8 2020 ...](#2020_...)
-* [5 Forum Posts](#Forum_Posts)
-* [6 External Links](#External_Links)
-* [7 References](#References)
-
-
-
-
-
-
-Chess pattern range from simple properties of [squares](Squares "Squares") and [pieces](Pieces "Pieces") concerning [occupancy](Occupancy "Occupancy") and [control](Square_Control "Square Control"), to a more complex interrelated sets of features. Recognizers are implemented with [decision trees](https://en.wikipedia.org/wiki/Decision_tree), [neural networks](Neural_Networks "Neural Networks"), and [fuzzy logics](https://en.wikipedia.org/wiki/Fuzzy_logic). In his [ICCA Journal](ICGA_Journal "ICGA Journal") paper *Fuzzy Production Rules in Chess*, [Peter W. Frey](Peter_W._Frey "Peter W. Frey") [[3]](#cite_note-3) proposed feature strings or sets of three types. Type-A features must match completely, type-B feature strings represent features which are usually but not always present, while type-C features are present occasionally but are highly diagnostic when available. Those features were intended to use at the root for an [oracle](Oracle "Oracle") approach.
-
-
-
-* [Evaluation Patterns](Evaluation_Patterns "Evaluation Patterns")
-	+ [Fianchetto](Fianchetto "Fianchetto")
-	+ [Outposts](Outposts "Outposts")
-	+ [Returning Bishop](Returning_Bishop "Returning Bishop")
-	+ [Trapped Pieces](Trapped_Pieces "Trapped Pieces")
-* [King Pattern](King_Pattern "King Pattern")
-	+ [King Safety Pattern](King_Safety#Patterns "King Safety")
-	+ [Mate at a Glance](Mate_at_a_Glance "Mate at a Glance")
-* [Knight Pattern](Knight_Pattern "Knight Pattern")
-* [Pawn Pattern and Properties](Pawn_Pattern_and_Properties "Pawn Pattern and Properties")
-
-
 ## Chess Programs
 
 

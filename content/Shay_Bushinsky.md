@@ -12,31 +12,6 @@ an Israeli computer scientist and chess programmer. Together with [Amir Ban](Ami
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/wk2002.html) 
-[WCCC 2002](WCCC_2002 "WCCC 2002"): [Boris Alterman](index.php?title=Boris_Alterman&action=edit&redlink=1 "Boris Alterman (page does not exist)"), [Alex Kure](Alex_Kure "Alex Kure"), Shay Bushinsky, [Amir Ban](Amir_Ban "Amir Ban"), [Tony Marsland](Tony_Marsland "Tony Marsland") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](File:LAmiJunior2006.JPG) 
-[WCCC 2006](WCCC_2006 "WCCC 2006") [Turin](https://en.wikipedia.org/wiki/Turin): [Erwin l'Ami](https://en.wikipedia.org/wiki/Erwin_l%27Ami) sparring [Junior](Junior "Junior") operated by Shay Bushinsky  
-
-[Ljubomir Ljubojević](https://en.wikipedia.org/wiki/Ljubomir_Ljubojevi%C4%87) (standing), [Jeroen Piket](https://en.wikipedia.org/wiki/Jeroen_Piket) and [Joop van Oosterom](https://en.wikipedia.org/wiki/Joop_van_Oosterom) watching <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

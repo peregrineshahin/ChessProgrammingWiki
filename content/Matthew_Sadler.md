@@ -15,26 +15,6 @@ Since [TCEC Season 14](TCEC_Season_14 "TCEC Season 14") in 2019, Matthew Sadler 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 Books](#books)
-	+ [1.2 Reports and Papers](#reports-and-papers)
-		- [1.2.1 2019](#2019)
-		- [1.2.2 2020](#2020)
-		- [1.2.3 2021](#2021)
-* [2 External Links](#external-links)
-	+ [2.1 Blog Posts](#blog-posts)
-	+ [2.2 Videos](#videos)
-	+ [2.3 AlphaZero vs. Stockfish](#alphazero-vs.-stockfish)
-* [3 References](#references)
-
-
-
-
-
-
 ### Books
 
 

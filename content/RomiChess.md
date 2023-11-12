@@ -12,34 +12,6 @@ a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Michael Sherwin](M
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Learning](#learning)
-* [3 Tournament Play](#tournament-play)
-* [4 Selected Games](#selected-games)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2005 ...](#2005-...)
-	+ [5.2 2010 ...](#2010-...)
-	+ [5.3 2015 ...](#2015-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-RomiChess is famous for its [learning approach](Learning "Learning") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
-and uses [bitboards](Bitboards "Bitboards") as basic data structure, in particular [Sherwin Bitboards](Sherwin_Bitboards "Sherwin Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-Its [search](Search "Search") is [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning") and [LMR](Late_Move_Reductions "Late Move Reductions") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows"). 
-Romi's [evaluation](Evaluation "Evaluation") features an [oracle](Oracle "Oracle") approach of [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") [piece-square tables](Piece-Square_Tables "Piece-Square Tables") at the [root](Root "Root") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Learning
 
 

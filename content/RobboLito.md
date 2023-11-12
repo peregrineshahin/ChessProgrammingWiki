@@ -12,23 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine of the [Ippolit](Ippolit "Ippolit") s
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Igorrit](Igorrit "Igorrit")
-* [IvanHoe](IvanHoe "IvanHoe")
-
-
 ## Forum Posts
 
 

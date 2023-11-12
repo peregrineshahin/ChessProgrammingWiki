@@ -16,38 +16,6 @@ Three [dedicated machines](Dedicated_Chess_Computers "Dedicated Chess Computers"
 
 
 
-### Contents
-
-
-* [1 Software Group](#Software_Group)
-	+ [1.1 Final Standing](#Final_Standing)
-	+ [1.2 Participants](#Participants)
-* [2 Manufacturers Group](#Manufacturers_Group)
-	+ [2.1 Final Standing](#Final_Standing_2)
-	+ [2.2 Participants](#Participants_2)
-* [3 Playoff](#Playoff)
-* [4 Titles](#Titles)
-* [5 Photos](#Photos)
-* [6 Notable Games](#Notable_Games)
-	+ [6.1 Nimzo's White-Black Bug](#Nimzo.27s_White-Black_Bug)
-	+ [6.2 Desperado](#Desperado)
-	+ [6.3 Broken Interface](#Broken_Interface)
-* [7 Tournament Directors](#Tournament_Directors)
-* [8 Cartoon](#Cartoon)
-* [9 Publications](#Publications)
-* [10 Forum Posts](#Forum_Posts)
-* [11 External Links](#External_Links)
-* [12 References](#References)
-
-
-
-
-
-
-[[4]](#cite_note-4)
-
-
-
 ### Final Standing
 
 

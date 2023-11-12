@@ -11,68 +11,6 @@ the [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-	+ [1.1 Computational Intelligence & Games](#computational-intelligence-.26-games)
-	+ [1.2 Computational Intelligence Magazine](#computational-intelligence-magazine)
-	+ [1.3 Symposium Series on Computational Intelligence](#symposium-series-on-computational-intelligence)
-	+ [1.4 Computer](#computer)
-	+ [1.5 Computer Graphics and Applications](#computer-graphics-and-applications)
-	+ [1.6 Computer Society Press](#computer-society-press)
-	+ [1.7 Control Systems Letter](#control-systems-letter)
-	+ [1.8 Design & Test](#design-.26-test)
-	+ [1.9 Expert / Intelligent Systems](#expert-.2f-intelligent-systems)
-	+ [1.10 Journal of Solid-state Circuits](#journal-of-solid-state-circuits)
-	+ [1.11 Micro](#micro)
-	+ [1.12 Potentials](#potentials)
-	+ [1.13 Proceedings](#proceedings)
-	+ [1.14 Security & Privacy](#security-.26-privacy)
-	+ [1.15 Spectrum](#spectrum)
-	+ [1.16 Transactions on Acoustics, Speech and Signal Processing](#transactions-on-acoustics.2c-speech-and-signal-processing)
-	+ [1.17 Transactions on Aerospace and Electronic Systems](#transactions-on-aerospace-and-electronic-systems)
-	+ [1.18 Transactions on Affective Computing](#transactions-on-affective-computing)
-	+ [1.19 Transactions on Automatic Control](#transactions-on-automatic-control)
-	+ [1.20 Transactions on Circuits and Systems](#transactions-on-circuits-and-systems)
-	+ [1.21 Transactions on Communication](#transactions-on-communication)
-	+ [1.22 Transactions on Computational Intelligence and AI in Games](#transactions-on-computational-intelligence-and-ai-in-games)
-	+ [1.23 Transactions on Computer-Aided Design of Integrated Circuits and Systems](#transactions-on-computer-aided-design-of-integrated-circuits-and-systems)
-	+ [1.24 Transactions on Computers](#transactions-on-computers)
-	+ [1.25 Transactions on Evolutionary Computation](#transactions-on-evolutionary-computation)
-	+ [1.26 Transactions on Games](#transactions-on-games)
-	+ [1.27 Transactions on Information Technology in Biomedicine](#transactions-on-information-technology-in-biomedicine)
-	+ [1.28 Transactions on Information Theory](#transactions-on-information-theory)
-	+ [1.29 Transactions on Knowledge and Data Engineering](#transactions-on-knowledge-and-data-engineering)
-	+ [1.30 Transactions on Medical Imaging](#transactions-on-medical-imaging)
-	+ [1.31 Transactions on Neural Networks](#transactions-on-neural-networks)
-	+ [1.32 Transactions on Parallel and Distributed Systems](#transactions-on-parallel-and-distributed-systems)
-	+ [1.33 Transactions on Pattern Analysis and Machine Intelligence](#transactions-on-pattern-analysis-and-machine-intelligence)
-	+ [1.34 Transactions on Robotics](#transactions-on-robotics)
-	+ [1.35 Transactions on Signal Processing](#transactions-on-signal-processing)
-	+ [1.36 Transactions on Software Engineering](#transactions-on-software-engineering)
-	+ [1.37 Transactions on Systems, Man, and Cybernetics](#transactions-on-systems.2c-man.2c-and-cybernetics)
-	+ [1.38 Transactions on Systems Science and Cybernetics](#transactions-on-systems-science-and-cybernetics)
-	+ [1.39 Transactions on Very Large Scale Integration (VLSI) Systems](#transactions-on-very-large-scale-integration-.28vlsi.29-systems)
-	+ [1.40 IEEE Annals](#ieee-annals)
-* [2 Society & Awards](#society-.26-awards)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [List of Institute of Electrical and Electronics Engineers publications, from Wikipedia](https://en.wikipedia.org/wiki/List_of_Institute_of_Electrical_and_Electronics_Engineers_publications)
-* [IEEE Xplore from Wikipedia](https://en.wikipedia.org/wiki/IEEE_Xplore)
-* [IEEE Xplore - Home](http://ieeexplore.ieee.org/Xplore/guesthome.jsp)
-
-
-
-
-
-
 ### Computational Intelligence & Games
 
 

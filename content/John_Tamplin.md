@@ -16,23 +16,6 @@ an American software engineer at [Square](https://en.wikipedia.org/wiki/Square_%
 
 
 
-### Contents
-
-
-* [1 Endgame Tablebases](#endgame-tablebases)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-John Tamplin collaborated with [Guy Haworth](Guy_Haworth "Guy Haworth"), [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), and [Peter Karrer](Peter_Karrer "Peter Karrer") on [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") with Depth to Mate (DTM) and Depth to Conversion (DTC) metrics. Data on percentage results, maximals and [mutual zugzwangs](Zugzwang "Zugzwang"), has been filed and made available on the web, as have the DTM EGTs <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Selected Publications
 
 

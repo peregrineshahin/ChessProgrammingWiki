@@ -20,29 +20,6 @@ and architect and principal engineer on *CloneDR* <a id="cite-note-8" href="#cit
 
 
 
-### Contents
-
-
-* [1 Software Dynamics](#software-dynamics)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1977 ...](#1977-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Involved with computing since 1966, Ira Baxter started *Software Dynamics* in 1976, a [systems software house](https://en.wikipedia.org/wiki/Software_house), where he designed [compilers](https://en.wikipedia.org/wiki/Compiler), [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) and [distributed network](https://en.wikipedia.org/wiki/Computer_network) [operating systems](https://en.wikipedia.org/wiki/Operating_system), 
-and the chess program [SD Chess](SD_Chess "SD Chess") written in compiled [Basic](Basic "Basic") to run on a [6800](6800 "6800") based microcomputer <a id="cite-note-9" href="#cite-ref-9">[9]</a>, A program called **Chess D** by Ira Baxter was on the Stand-By list of the [WCCC 1983](WCCC_1983 "WCCC 1983") in [New York](https://en.wikipedia.org/wiki/New_York_City) <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
-
-
-
 ## Selected Publications
 
 

@@ -15,25 +15,6 @@ It was never released, effectively superseded by the [Superstar 28K](Superstar "
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Saitek President](Saitek_President "Saitek President")
-* [Sensor Chess](Sensor_Chess "Sensor Chess")
-* [Superstar](Superstar "Superstar")
-* [Turbostar](Turbostar "Turbostar")
-
-
 ## Forum Posts
 
 

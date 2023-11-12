@@ -12,30 +12,6 @@ a [UCI](UCI "UCI") compliant chess engine by [Fabio Gobbato](Fabio_Gobbato "Fabi
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2014](#2014)
-	+ [3.2 2015 ...](#2015-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Pedone has a compact [quad-bitboard](Quad-Bitboards "Quad-Bitboards") board representation <a id="cite-note-4" href="#cite-ref-4">[4]</a> , suited for a [copy-make](Copy-Make "Copy-Make") approach, and further applies [magic bitboards](Magic_Bitboards "Magic Bitboards") for [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") and [move generation](Move_Generation "Move Generation"). Its search is [PVS](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") and [quiescence search](Quiescence_Search "Quiescence Search") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. The [evaluation](Evaluation "Evaluation") function was [tuned](Automated_Tuning "Automated Tuning") with a similar approach to the [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method") <a id="cite-note-5" href="#cite-ref-5">[5]</a> until version 1.0. Some evaluation bonuses of versions 1.3 and 1.4 were tuned with [TD Learning](Temporal_Difference_Learning "Temporal Difference Learning"). Since **1.0**, released in December 2014, Pedone performs a [parallel search](Parallel_Search "Parallel Search") using multiple [threads](Thread "Thread") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , with **1.4** in April 2016, dubbed [Lazy SMP](Lazy_SMP "Lazy SMP") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. The further improved Pedone **1.6** released in June 2017 can use up to 128 threads and comes with an executable for [Android](Android "Android") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Since 2018, Pedone **1.8** is able to play [Chess960](Chess960 "Chess960").
-Pedone **3.0**, released in January 2021, uses a pure [neural network](Neural_Networks "Neural Networks") evaluation <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
-
-
-
 ## See also
 
 

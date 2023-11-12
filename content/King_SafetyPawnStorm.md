@@ -11,39 +11,6 @@ Good evaluation of the **king safety** is one of the most challenging tasks in w
 
 
 
-### Contents
-
-
-* [1 Pawn Shield](#pawn-shield)
-* [2 Pawn Storm](#pawn-storm)
-* [3 King Tropism](#king-tropism)
-* [4 Virtual Mobility](#virtual-mobility)
-* [5 Scaling](#scaling)
-* [6 Attacking King Zone](#attacking-king-zone)
-	+ [6.1 Square Control](#square-control)
-	+ [6.2 Attack Units](#attack-units)
-* [7 Patterns](#patterns)
-* [8 See also](#see-also)
-* [9 Forums Posts](#forums-posts)
-	+ [9.1 1998 ...](#1998-...)
-	+ [9.2 2000 ...](#2000-...)
-	+ [9.3 2005 ...](#2005-...)
-	+ [9.4 2010 ...](#2010-...)
-	+ [9.5 2015 ...](#2015-...)
-	+ [9.6 2020 ...](#2020-...)
-* [10 External Links](#external-links)
-* [11 References](#references)
-
-
-
-
-
-
-When the king has castled, it is important to preserve pawns next to it, in order to protect it against the assault. Generally speaking, it is best to keep the pawns unmoved or possibly moved up one square. The lack of a shielding pawn deserves a penalty, even more so if there is an [open file](Open_File "Open File") next to the king.
-
-
-
-
 ## Pawn Storm
 
 

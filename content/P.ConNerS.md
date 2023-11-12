@@ -11,27 +11,6 @@ a parallel chess program by [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"). P.ConNerS use
 
 
 
-### Contents
-
-
-* [1 Descriptions](#descriptions)
-	+ [1.1 ICGA](#icga)
-	+ [1.2 P.ConNerS](#p.conners)
-* [2 Achievements](#achievements)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1998 ...](#1998-...)
-	+ [6.2 2000 ...](#2000-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
 ### ICGA
 
 

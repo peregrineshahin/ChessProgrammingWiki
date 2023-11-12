@@ -12,30 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Bitboards](#bitboards)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2010](#2010)
-	+ [5.2 2011](#2011)
-	+ [5.3 2012 ...](#2012-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
 ### Bitboards
 
 

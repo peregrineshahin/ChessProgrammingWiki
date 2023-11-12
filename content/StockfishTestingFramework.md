@@ -19,68 +19,6 @@ A synergy effect with the [Shogi](Shogi "Shogi") community led to the promising 
 
 
 
-### Contents
-
-
-* [1 Science versus Commerce?](#Science_versus_Commerce.3F)
-* [2 Platforms](#Platforms)
-* [3 Fishtest](#Fishtest)
-* [4 Evaluation Guide](#Evaluation_Guide)
-* [5 Tournament Play](#Tournament_Play)
-* [6 GM+Rybka vs. Stockfish](#GM.2BRybka_vs._Stockfish)
-* [7 Selected Features](#Selected_Features)
-	+ [7.1 Board Representation](#Board_Representation)
-	+ [7.2 Search](#Search)
-	+ [7.3 Evaluation](#Evaluation)
-	+ [7.4 Misc](#Misc)
-* [8 Release Dates](#Release_Dates)
-	+ [8.1 2008](#2008)
-	+ [8.2 2009](#2009)
-	+ [8.3 2010 ...](#2010_...)
-	+ [8.4 2015 ...](#2015_...)
-	+ [8.5 2020 ...](#2020_...)
-* [9 Ports](#Ports)
-* [10 Derivatives](#Derivatives)
-* [11 Authors](#Authors)
-	+ [11.1 Founders of the Stockfish project and Fishtest infrastructure](#Founders_of_the_Stockfish_project_and_Fishtest_infrastructure)
-	+ [11.2 Authors and inventors of NNUE, training, NNUE port](#Authors_and_inventors_of_NNUE.2C_training.2C_NNUE_port)
-	+ [11.3 All other authors of the code](#All_other_authors_of_the_code)
-* [12 Elo Progress](#Elo_Progress)
-* [13 See also](#See_also)
-* [14 Publications](#Publications)
-* [15 Forum Posts](#Forum_Posts)
-	+ [15.1 2008 ...](#2008_...)
-	+ [15.2 2010 ...](#2010_..._2)
-	+ [15.3 2015 ...](#2015_..._2)
-	+ [15.4 2020 ...](#2020_..._2)
-* [16 Blog Posts](#Blog_Posts)
-	+ [16.1 2014](#2014)
-	+ [16.2 2015 ...](#2015_..._3)
-	+ [16.3 2020 ...](#2020_..._3)
-* [17 External Links](#External_Links)
-	+ [17.1 Chess Engine](#Chess_Engine)
-	+ [17.2 Issues](#Issues)
-	+ [17.3 Pull Requests](#Pull_Requests)
-	+ [17.4 Testing](#Testing)
-	+ [17.5 Rating Lists](#Rating_Lists)
-	+ [17.6 Matches](#Matches)
-	+ [17.7 Interviews](#Interviews)
-	+ [17.8 Videos](#Videos)
-	+ [17.9 Misc](#Misc_2)
-* [18 References](#References)
-
-
-
-
-
-
-There is a wide range of opinions about strong open source chess engines affecting commercial and competitive interests, as well as monetary interests from computer chess users, who obtain a top engine for free. The scientific and social value of strong open-source programs is indisputable. The [teamwork](https://en.wikipedia.org/wiki/Teamwork) effort to share ideas and knowledge to write one of the strongest programs, which everybody may follow and share to learn and play for free, is definitely a challenging and motivating task, gathering both admiration and enviousness. Obviously, professional programmers of commercial chess programs are not that enthusiastic about the development and need to improve further and/or focus more on secondary features or other business concepts like online play and/or [user interface](GUI "GUI") issues rather than on pure playing strength.
-
-
-Also, many hobbyist chess programmers feel in the antagonism as well, not only caused by Stockfish with its highly respected authors, and before by [Fruit](Fruit "Fruit") and slightly [Crafty](Crafty "Crafty"), but from [Ippolit](Ippolit "Ippolit") and all its successors by pseudonymous authors and disputed origin. The implications on commercial and competitive computer chess are not quite clear, but presumably, the decrease in the number of participants of over the board [tournaments](Tournaments_and_Matches "Tournaments and Matches") will progress and [clone](Category:Clone "Category:Clone") suspicions may float like a [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles) over the scene, whether programmers took ideas too literally or not.
-
-
-
 ## Platforms
 
 

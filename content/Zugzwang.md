@@ -8,33 +8,6 @@ title: Zugzwang
 
 
 
-### Contents
-
-
-* [1 Zugzwang and Null Move](#zugzwang-and-null-move)
-* [2 Mutual Zugzwang](#mutual-zugzwang)
-* [3 Trébuchet](#tr.c3.a9buchet)
-* [4 See Also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1999](#1999)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-	+ [7.1 Zugzwang](#zugzwang)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-Zugzwang positions are known cause the [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") go wrong. For that reason most programs do not use null move in the late endings. As far as [middlegame](Middlegame "Middlegame") positions are concerned, programmers either assume that they happen too rarely to bother with them, or use some sort of [verification](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning") pruning.
-
-
-
-
 ## Mutual Zugzwang
 
 

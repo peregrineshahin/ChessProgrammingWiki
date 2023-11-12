@@ -12,28 +12,6 @@ an [UCI](UCI "UCI") compatible chess engine by [Julien Marcel](Julien_Marcel "Ju
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Predateur 0.1.1 : 1498](http://www.talkchess.com/forum/viewtopic.php?t=21239) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), May 19, 2008
-* [Prédateur 0.1.3b2](http://www.talkchess.com/forum/viewtopic.php?t=21238) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), May 19, 2008
-* [Prédateur 2.0 Released (+400 Elo?) - Merry Christmas to all!](http://www.talkchess.com/forum/viewtopic.php?t=37260) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), December 23, 2010
-* [Sargon III (10mn/move) vs Prédateur (5mn/move)](http://www.talkchess.com/forum/viewtopic.php?t=40678) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), October 08, 2011 » [Sargon](Sargon "Sargon")
-* [Prédateur 2.2 Released](http://www.talkchess.com/forum/viewtopic.php?t=41793) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), January 04, 2012
-* [Prédateur 2.2.1 "Bugfix" released (now with PPC)](http://www.talkchess.com/forum/viewtopic.php?t=42389) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), February 08, 2012
-
-
 ## External Links
 
 

@@ -12,30 +12,6 @@ a Dutch chess programmer and chess player, author of the chess program [Diep](Di
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 2004](#2004)
-	+ [1.2 Vincent and the Geyser](#vincent-and-the-geyser)
-* [2 Quotes](#quotes)
-	+ [2.1 Vincent](#vincent)
-		- [2.1.1 1997](#1997)
-		- [2.1.2 1999](#1999)
-	+ [2.2 Bruce](#bruce)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1995 ...](#1995-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### 2004
 
 

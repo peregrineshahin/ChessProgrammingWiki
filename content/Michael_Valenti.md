@@ -10,21 +10,6 @@ a Canadian [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engine
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1974 ...](#1974-...)
-	+ [1.2 1978](#1978)
-	+ [1.3 1979](#1979)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1974 ...
 
 

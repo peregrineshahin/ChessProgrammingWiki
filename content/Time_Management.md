@@ -13,42 +13,6 @@ title: Time Management
 
 
 
-### Contents
-
-
-* [1 Time Controls](#time-controls)
-	+ [1.1 Sudden Death](#sudden-death)
-	+ [1.2 Regular Time Controls](#regular-time-controls)
-	+ [1.3 Time Control with Increment](#time-control-with-increment)
-		- [1.3.1 Fischer Time](#fischer-time)
-		- [1.3.2 Bronstein Time](#bronstein-time)
-* [2 Enhancements](#enhancements)
-	+ [2.1 Considerations](#considerations)
-	+ [2.2 Premature Termination](#premature-termination)
-	+ [2.3 Extra Time](#extra-time)
-* [3 Losing on Time](#losing-on-time)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1993 ...](#1993-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-	+ [6.5 2015 ...](#2015-...)
-	+ [6.6 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-[Fast chess](https://en.wikipedia.org/wiki/Fast_chess) is usually played with an immediate [sudden death](https://en.wikipedia.org/wiki/Sudden_death_%28sport%29#Board_games) time control, while others may have one or more regular time controls before the sudden death control applies there as well.
-
-
-
-
 ### Sudden Death
 
 

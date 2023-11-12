@@ -11,23 +11,6 @@ His research interests in the field of computerchess covers [search algorithms](
 
 
 
-### Contents
-
-
-* [1 C\*](#c.2a)
-* [2 Virgo](#virgo)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
-In his 1982 contribution *A Special-Purpose Machine for an Improved Search Algorithm for Deep Chess Combinations* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Kevin Coplan introduced the [C\*](NegaC* "NegaC*") algorithm <a id="cite-note-3" href="#cite-ref-3">[3]</a>, to utilize [Null Window](Null_Window "Null Window") searches of [Fail-Soft](Fail-Soft "Fail-Soft") [Alpha-Beta](Alpha-Beta "Alpha-Beta") in a bisection scheme.
-
-
-
 ## Virgo
 
 

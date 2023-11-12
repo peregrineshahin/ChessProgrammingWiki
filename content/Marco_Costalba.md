@@ -10,26 +10,6 @@ an Italian software developer and proponent of [open source](https://en.wikipedi
 
 
 
-### Contents
-
-
-* [1 Stockfish](#stockfish)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2008 ...](#2008-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Based on [Tord Romstad's](Tord_Romstad "Tord Romstad") [open source chess program](Category:Open_Source "Category:Open Source") [Glaurung](Glaurung "Glaurung") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), he started a branch called [Stockfish](Stockfish "Stockfish") in 2008 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which in the meantime has become the main branch of Glaurung, further supported by Tord Romstad and [Joona Kiiski](Joona_Kiiski "Joona Kiiski") as development team <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Forum Posts
 
 

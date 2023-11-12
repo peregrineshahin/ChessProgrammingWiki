@@ -15,27 +15,6 @@ In 2001 Raúl Rojas hosted the [First Berliner Emanuel-Lasker Computerchess-Tour
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1980 ...](#1980-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Alan Turing webcast](Heinz_Nixdorf_MuseumsForum#AlanTuring "Heinz Nixdorf MuseumsForum") from [Heinz Nixdorf MuseumsForum](Heinz_Nixdorf_MuseumsForum "Heinz Nixdorf MuseumsForum")
-* [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
-
-
 ## Selected Publications
 
 

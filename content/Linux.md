@@ -12,55 +12,6 @@ a [Unix](Unix "Unix") compatible [operating system](https://en.wikipedia.org/wik
 
 
 
-### Contents
-
-
-* [1 Chess GUIs](#chess-guis)
-* [2 Chess Engines](#chess-engines)
-* [3 User Interfaces](#user-interfaces)
-* [4 Development](#development)
-	+ [4.1 OS Internals](#os-internals)
-	+ [4.2 IDE](#ide)
-	+ [4.3 C/C++](#c.2fc.2b.2b)
-		- [4.3.1 Libs](#libs)
-		- [4.3.2 Compiler](#compiler)
-		- [4.3.3 Calling Conventions](#calling-conventions)
-	+ [4.4 Other Languages](#other-languages)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-	+ [6.1 1999](#1999)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 2000 ...](#2000-...-2)
-	+ [7.2 2005 ...](#2005-...)
-	+ [7.3 2010 ...](#2010-...-2)
-	+ [7.4 2015 ...](#2015-...)
-	+ [7.5 2020 ...](#2020-...)
-* [8 Further Links](#further-links)
-	+ [8.1 Distribution](#distribution)
-	+ [8.2 Chess GUIs](#chess-guis-2)
-	+ [8.3 Chess Databases](#chess-databases)
-* [9 References](#references)
-
-
-
-
-
-
-* [Arena](Arena "Arena")
-* [Banksia GUI](Banksia_GUI "Banksia GUI")
-* [ChessX](ChessX "ChessX")
-* [Cute Chess](Cute_Chess "Cute Chess")
-* [EBoard](index.php?title=EBoard&action=edit&redlink=1 "EBoard (page does not exist)")
-* [glChess](index.php?title=GlChess&action=edit&redlink=1 "GlChess (page does not exist)")
-* [GNOME Chess](index.php?title=GNOME_Chess&action=edit&redlink=1 "GNOME Chess (page does not exist)")
-* [PyChess](PyChess "PyChess") - Versatile chess program.
-* [Scid vs. PC](Scid_vs._PC "Scid vs. PC") - Polished, user-friendly fork of [SCID](SCID "SCID").
-* [Shredder](Shredder "Shredder") - Polished commercial product, with a 30 day trial.
-* [XBoard](XBoard "XBoard")
-
-
 ## Chess Engines
 
 

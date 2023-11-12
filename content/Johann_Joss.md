@@ -12,23 +12,6 @@ a Swiss mathematician and Ph.D in mathematics from the [ETH Zurich](ETH_Zurich "
 
 
 
-### Contents
-
-
-* [1 Tit for Tat](#tit-for-tat)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Johann Joss also researched on the [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) and [Tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat) and participated in [Robert Axelrod's](Mathematician#RAxelrod "Mathematician") [tournaments](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation#Axelrod.27s_Tournaments) <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> on the topic of [evolution of cooperation](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation).
-
-
-
 ## Selected Publications
 
 

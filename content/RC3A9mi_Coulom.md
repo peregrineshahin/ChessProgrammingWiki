@@ -18,31 +18,6 @@ Rémi is further co-author of [Erica](https://www.game-ai-forum.org/icga-tournam
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 The Crazy Bishop](#the-crazy-bishop)
-	+ [1.2 Gold with Crazy Stone](#gold-with-crazy-stone)
-* [2 Open Source](#open-source)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1997 ...](#1997-...)
-	+ [4.2 2000 ...](#2000-...-2)
-	+ [4.3 2005 ...](#2005-...-2)
-	+ [4.4 2010 ...](#2010-...-2)
-	+ [4.5 2015 ...](#2015-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### The Crazy Bishop
 
 

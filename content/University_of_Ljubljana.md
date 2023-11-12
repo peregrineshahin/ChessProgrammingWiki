@@ -12,32 +12,6 @@ title: University of Ljubljana
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 External Links](#external-links)
-	+ [2.1 University](#university)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Ivan Bratko](Ivan_Bratko "Ivan Bratko")
-* [Matjaž Gams](Matja%C5%BE_Gams "Matjaž Gams"), [Jožef Stefan Institute](https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan_Institute)
-* [Matej Guid](Matej_Guid "Matej Guid")
-* [Igor Kononenko](Igor_Kononenko "Igor Kononenko")
-* [Jana Krivec](Jana_Krivec "Jana Krivec"), [Jožef Stefan Institute](https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan_Institute)
-* [Mitja Luštrek](Mitja_Lu%C5%A1trek "Mitja Luštrek"), [Jožef Stefan Institute](https://en.wikipedia.org/wiki/Jo%C5%BEef_Stefan_Institute)
-* [Martin Možina](Martin_Mo%C5%BEina "Martin Možina")
-* [Aleksander Sadikov](Aleksander_Sadikov "Aleksander Sadikov")
-* [Peter Tancig](Peter_Tancig "Peter Tancig")
-* [Simona Tancig](Simona_Tancig "Simona Tancig")
-
-
 ## External Links
 
 

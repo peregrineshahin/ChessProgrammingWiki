@@ -10,26 +10,6 @@ an [USI](USI "USI") compliant [open source](Category:Open_Source "Category:Open 
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Bitboards](#bitboards)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-YaneuraOu applies a Shogi adaptation of [Stockfish's](Stockfish "Stockfish") search, and can be combined with third party [evaluations](Evaluation "Evaluation"), such as [Elmo](index.php?title=Elmo&action=edit&redlink=1 "Elmo (page does not exist)") and [Apery](Apery "Apery") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-At the [WCSC29](index.php?title=WCSC29&action=edit&redlink=1 "WCSC29 (page does not exist)"), it used a [NNUE](NNUE "NNUE") type of evaluation developed by [Tanu-King](index.php?title=Tanu-King&action=edit&redlink=1 "Tanu-King (page does not exist)") team member [Yu Nasu](Yu_Nasu "Yu Nasu") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. One of the characteristics of the NNUE type is that the number of parameters of the evaluation function is smaller than [Bonanza's](Bonanza "Bonanza") [KPPT](Bonanza#Description "Bonanza") type. Since the number of training phases required for [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") is considered to be approximately proportional to the number of parameters 
-of the evaluation function, the NNUE type should require fewer training phases than the KPPT type.
-
-
-
 ## Bitboards
 
 

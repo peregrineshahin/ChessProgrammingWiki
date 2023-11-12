@@ -16,29 +16,6 @@ TechMate has an own [GUI](GUI "GUI") with [2D Graphics Board](2D_Graphics_Board 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 The Technology Curve](#the-technology-curve)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-TechMate was derived from [Tech 3](Tech#Tech3 "Tech"), Alex Szabo's 1984 thesis program written in [Fortran](Fortran "Fortran") and [IBM 370](IBM_370 "IBM 370") [Assembly](Assembly "Assembly") to run on an [Amdahl 470V/8](Amdahl_470 "Amdahl 470") of the [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia). 
-Tech 3 was developed in the spirit of the original [Tech](Tech "Tech") program by [James Gillogly](James_Gillogly "James Gillogly"), with [knowledge](Knowledge "Knowledge") applied at the top of the [search tree](Search_Tree "Search Tree") as positional presort rather than at the [leaf nodes](Leaf_Node "Leaf Node") using complex [evaluation](Evaluation "Evaluation")
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-MateTech performs an [alpha-beta search](Alpha-Beta "Alpha-Beta") with [quiescence](Quiescence_Search "Quiescence Search") and [iterative deepening](Iterative_Deepening "Iterative Deepening") with [aspiration windows](Aspiration_Windows "Aspiration Windows") , using a [transposition table](Transposition_Table "Transposition Table") with [Zobrist hashing](Zobrist_Hashing "Zobrist Hashing"). 
-The pure [material](Material "Material") based rudimentary [evaluation](Evaluation "Evaluation") of Tech 3 was extended by a strategic component <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-
-
-
-
 ## The Technology Curve
 
 

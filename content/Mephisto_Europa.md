@@ -19,26 +19,6 @@ Mephisto Europa played the [First International Chess-Computer Tournament in the
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Computer](#chess-computer)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Mephisto Mondial](Mephisto_Mondial "Mephisto Mondial")
-* [Saitek Brute Force](Saitek_Brute_Force "Saitek Brute Force")
-* [Zeus](Zeus "Zeus") by [Gerardo Castaño Recio](Gerardo_Casta%C3%B1o_Recio "Gerardo Castaño Recio")
-* [Zeus](Zeus_RU "Zeus RU") by [Vadim Bykov](Vadim_Bykov "Vadim Bykov")
-
-
 ## External Links
 
 

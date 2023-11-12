@@ -16,29 +16,6 @@ and a [Stockfish](Stockfish "Stockfish") fork with [Cerebellum](index.php?title=
 
 
 
-### Contents
-
-
-* [1 Selected Articles](#selected-articles)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1997 ...](#1997-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Michael Byrne (**1996**). *My Personal Evaluations*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 67
-* Michael Byrne (**1996**). *Hiarcs Mac vs. IBM's Top Chess Playing Guns*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 84
-* Michael Byrne (**1996**). *M-Chess Pro 5.0 Book Learning Feature*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 85
-* Michael Byrne (**1996**). *M-Chess Pro 5.0 'Hidden Book"*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 86
-
-
 ## Forum Posts
 
 

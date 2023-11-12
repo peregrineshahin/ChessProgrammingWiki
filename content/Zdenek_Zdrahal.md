@@ -12,32 +12,6 @@ a Czech British electrical engineer, computer scientist and Senior Research fell
 
 
 
-### Contents
-
-
-* [1 CLESS](#cless)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1980 ...](#1980-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1979/80 as visiting researcher at the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh"), Zdenek Zdrahal worked with [Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Alen Shapiro](Alen_Shapiro "Alen Shapiro") on [Pattern Recognition](Pattern_Recognition "Pattern Recognition") applied to Chess. In fact they used [Bitboards](Bitboards "Bitboards"), called [cellular](https://en.wikipedia.org/wiki/Cellular_automaton) 8x8 [arrays](Array "Array"), to implement their *Cellular logic processing emulator for chess* (CLESS) <a id="cite-note-4" href="#cite-ref-4">[4]</a> . CLESS used three kinds of instructions to recognize simple and more complex chess patterns: 
-
-
-
-1. [bitwise boolean operations](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations") without any interactions between squares
-2. [shifts](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations") as expand instructions
-3. [fill-like](Fill_Algorithms "Fill Algorithms") propagation instructions, internally using the first two kinds of instructions and conditions in loops
-
-
 ## Selected Publications
 
 

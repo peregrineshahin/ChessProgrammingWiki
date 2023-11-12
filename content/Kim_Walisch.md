@@ -10,50 +10,6 @@ a software engineer from Luxembourg, and avocational expert in [prime number](ht
 
 
 
-### Contents
-
-
-* [1 Bitscan](#bitscan)
-* [2 Population Count](#population-count)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In October 2012, Kim Walisch proposed an improved [bitscan routine](BitScan#KimWalisch "BitScan"), multiplying the [De Bruijn Sequence](De_Bruijn_Sequence "De Bruijn Sequence") with a 0-1 mask [separated](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") by the [least significant one bit](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations") of a scanned integer or [bitboard](Bitboards "Bitboards"). The mask separation is cheaper than the [bit isolation](General_Setwise_Operations#LS1BIsolation "General Setwise Operations") due to the [x86](X86 "X86") lea instruction, performing the decrement of a source register into another target register, not affecting processor flags. This is a 32-bit bitscan forward routine:
-
-
-
-
-```C++
-
-const int index32[32] = {
-    0,  9,  1, 10, 13, 21,  2, 29, 
-   11, 14, 16, 18, 22, 25,  3, 30,
-    8, 12, 20, 28, 15, 17, 24,  7,
-   19, 27, 23,  6, 26,  5,  4, 31
-};
-
-/**
- * bitScanForward
- * @author Kim Walisch (2012)
- * @param v 32-bit set
- * @precondition v != 0
- * @return index (0..31) of least significant one bit
- */
-int bitScanForward(unsigned int v) {
-   return index32[((v ^ (v - 1)) * 0x07C4ACDDU) >> 27];
-}
-
-```
-
-
-
-
-
 ## Population Count
 
 

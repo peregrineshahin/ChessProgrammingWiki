@@ -12,24 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [ChessMachine](ChessMachine "ChessMachine")
-* [TASC R30](TASC_R30 "TASC R30")
-* [The King](The_King "The King")
-
-
 ## Forum Posts
 
 

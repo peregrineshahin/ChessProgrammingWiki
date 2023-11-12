@@ -15,24 +15,6 @@ Jellyfish played the [TCEC Season 9](TCEC_Season_9 "TCEC Season 9").
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Jellyfish GUI](index.php?title=Jellyfish_GUI&action=edit&redlink=1 "Jellyfish GUI (page does not exist)")
-
-
 ## Forum Posts
 
 

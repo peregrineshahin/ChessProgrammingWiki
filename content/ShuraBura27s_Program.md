@@ -10,23 +10,6 @@ an early Soviet chess program developed by a group of scientists at the [Steklov
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

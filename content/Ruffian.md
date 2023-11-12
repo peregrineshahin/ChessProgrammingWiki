@@ -10,35 +10,6 @@ a chess engine developed by [Perola Valfridsson](Perola_Valfridsson "Perola Valf
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Photos](#photos)
-* [3 Achievements](#achievements)
-* [4 Free Ruffian](#free-ruffian)
-* [5 Commercial Ruffian](#commercial-ruffian)
-* [6 See also](#see-also)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 2002](#2002)
-	+ [7.2 2003](#2003)
-	+ [7.3 2004](#2004)
-	+ [7.4 2005 ...](#2005-...)
-	+ [7.5 2015 ...](#2015-...)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Engine](#chess-engine)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-With portability and performance in mind, Ruffian was written in [C](C "C"), and used a hybrid [board representation](Board_Representation "Board Representation") of [bitboard](Bitboards "Bitboards") and [8x8 board](8x8_Board "8x8 Board"). It performs [PVS](Principal_Variation_Search "Principal Variation Search") with [null move pruning](Null_Move_Pruning "Null Move Pruning") and other [forward pruning](Pruning "Pruning") techniques as well as a few own algorithms and tricks <a id="cite-note-2" href="#cite-ref-2">[2]</a>. One of the major [evaluation](Evaluation "Evaluation") terms is [mobility](Mobility "Mobility") based on pre-calculated tables considering various patterns <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Photos
 
 

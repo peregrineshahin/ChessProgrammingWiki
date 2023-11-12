@@ -15,21 +15,6 @@ and primary author of [Vitruvius](Vitruvius "Vitruvius") [[1]](#cite-note-about-
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2010 ...](#2010-...)
-	+ [1.2 2012 ...](#2012-...)
-	+ [1.3 2014 ...](#2014-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2010 ...
 
 

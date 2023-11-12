@@ -12,28 +12,6 @@ a series of 16-bit [minicomputers](https://en.wikipedia.org/wiki/Minicomputer) m
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Orthogonal Instruction Set](#orthogonal-instruction-set)
-* [3 Unibus](#unibus)
-* [4 Chess Programs](#chess-programs)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-[_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg)
-[Ken Thompson](Ken_Thompson "Ken Thompson") (sitting) and [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) working together at a PDP-11, ca 1972 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Orthogonal Instruction Set
 
 

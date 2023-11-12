@@ -13,27 +13,6 @@ Levente Kocsis is member of the *Machine Learning Research Group* of the [Hungar
 
 
 
-### Contents
-
-
-* [1 UCT](#uct)
-* [2 Photos](#photos)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2006, along with [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári"), Levente Kocsis introduced [UCT](UCT "UCT") (Upper Confidence bounds applied to Trees), a new algorithm that applies [bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) ideas to guide [Monte-Carlo planning](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. UCT accelerated the Monte-Carlo revolution in computer [Go](Go "Go") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and other domains.
-
-
-
 ## Photos
 
 

@@ -12,26 +12,6 @@ a family of [microcontrollers](https://en.wikipedia.org/wiki/Microcontroller) (M
 
 
 
-### Contents
-
-
-* [1 PIC24](#pic24)
-* [2 Chess Engines](#chess-engines)
-* [3 See also](#see-also)
-* [4 Manuals](#manuals)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The PIC24 is a 16-bit MCU. It has 16 16-bit working registers (W0-W15). W0-W3 act as div and mul result registers, W15 operates as a software stack pointer for interrupts and calls. The data space can be addressed as 32 Ki words or 64 KiB. Beside move ([memory mapped I/O](https://en.wikipedia.org/wiki/Memory-mapped_I/O)), [arithmetical](https://en.wikipedia.org/wiki/Instruction_set_architecture#Arithmetic_and_logic_operations), [bitwise logical](https://en.wikipedia.org/wiki/Bitwise_operation) and [shift/rotate](https://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts), [control flow](https://en.wikipedia.org/wiki/Control_flow) and stack instructions, PIC24 has bit instructions along with [bitscan](BitScan "BitScan") aka "Find first one from left (MSb) side" (FF1L) and "Find first one from right (LSb) side" (FF1R), i.e. for [piece set](Piece-Sets "Piece-Sets") traversal <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Chess Engines
 
 

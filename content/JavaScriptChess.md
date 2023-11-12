@@ -16,27 +16,6 @@ which implements the [graphical user interface](GUI "GUI"), to [render](https://
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Publication](#publication)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

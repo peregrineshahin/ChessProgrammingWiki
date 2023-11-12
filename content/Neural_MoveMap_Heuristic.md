@@ -12,28 +12,6 @@ a move ordering heuristic introduced by [Levente Kocsis](Levente_Kocsis "Levente
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Butterfly Boards](Butterfly_Boards "Butterfly Boards")
-* [Chessmaps Heuristic](Chessmaps_Heuristic "Chessmaps Heuristic")
-* [Guard Heuristic](Guard_Heuristic "Guard Heuristic")
-* [History Heuristic](History_Heuristic "History Heuristic")
-* [Neural Networks](Neural_Networks "Neural Networks")
-* [Temporal Difference Learning](Temporal_Difference_Learning "Temporal Difference Learning")
-
-
 ## Publications
 
 

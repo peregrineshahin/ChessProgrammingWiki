@@ -12,25 +12,6 @@ a chess [module](Module "Module") for the [Philips](https://en.wikipedia.org/wik
 
 
 
-### Contents
-
-
-* [1 Manual](#manual)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Philips](https://en.wikipedia.org/wiki/Philips), Videopac C 7010, French Manual, [pdf](http://www.6502man.com/tempo/VIDEOPAC%20CHESS%20%20C7010.pdf)
-
-
- © 1982 [N.V. Philips Gloeilampenfabrieken](https://en.wikipedia.org/wiki/Philips#History) - Holland
- © 1982 [Wim Rens](Wim_Rens "Wim Rens"), [Microtrend International](Microtrend "Microtrend") - Holland
 ## See also
 
 

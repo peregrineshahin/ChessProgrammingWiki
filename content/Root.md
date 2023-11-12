@@ -8,35 +8,6 @@ The **Root** of the [Search Tree](Search_Tree "Search Tree") is the initial [pos
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1997 ...](#1997-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-	+ [2.6 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-
-
-
-
-
-
-* [Conspiracy Numbers](Conspiracy_Numbers "Conspiracy Numbers")
-* [Fail-Low](Fail-Low "Fail-Low")
-* [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-* [Move Ordering - Root Node Considerations](Move_Ordering#Root "Move Ordering")
-* [Multi-PV](Principal_Variation#MultiPV "Principal Variation")
-* [Oracle](Oracle "Oracle")
-* [Piece-Square Tables - Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables")
-* [Scoring Root Moves](Ronald_de_Man#ScoringRootMoves "Ronald de Man") by [Ronald de Man](Ronald_de_Man "Ronald de Man")
-* [Time Management](Time_Management "Time Management")
-
-
 ## Forum Posts
 
 

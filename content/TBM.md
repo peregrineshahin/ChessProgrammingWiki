@@ -11,49 +11,6 @@ More recent [AMD Jaguar](https://en.wikipedia.org/wiki/Jaguar_(microarchitecture
 
 
 
-### Contents
-
-
-* [1 Instructions](#instructions)
-	+ [1.1 Least Significant One Bit](#least-significant-one-bit)
-		- [1.1.1 BLSFILL](#blsfill)
-		- [1.1.2 BLSIC](#blsic)
-		- [1.1.3 TZMSK](#tzmsk)
-	+ [1.2 Least Significant Zero Bit](#least-significant-zero-bit)
-		- [1.2.1 BLCFILL](#blcfill)
-		- [1.2.2 BLCI](#blci)
-		- [1.2.3 BLCIC](#blcic)
-		- [1.2.4 BLCMSK](#blcmsk)
-		- [1.2.5 BLCS](#blcs)
-		- [1.2.6 T1MSKC](#t1mskc)
-	+ [1.3 Misc](#misc)
-		- [1.3.1 BEXTR](#bextr)
-* [2 See also](#see-also)
-* [3 Manuals](#manuals)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-TBM offers various bit-manipulations based on the [least significant one](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations") or [zero bit](General_Setwise_Operations#TheLeastSignificantZeroBitLS0B "General Setwise Operations"). In general they combine two or three [operations](General_Setwise_Operations "General Setwise Operations") on 32- or 64-bit general purpose registers, expanding the [BMI](BMI1 "BMI1") type of operations of [BLSI](BMI1#BLSI "BMI1"), [BLSMSK](BMI1#BLSMSK "BMI1"), [BLSR](BMI1#BLSR "BMI1"). In [C](C "C") and [C++](Cpp "Cpp"), these instructions should be emitted by an optimizing compiler for this target platform, rather than using intrinsics. Instructions are given with [mnemonics](https://en.wikipedia.org/wiki/Assembly_language#Opcode_mnemonics_and_extended_mnemonics) with 64-bit destination and source register according to [Intel Syntax](Assembly#x86Syntax "Assembly"), [C](C "C") like definition, and some arbitrary [bitboard](Bitboards "Bitboards") diagrams with [little-endian rank-file mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations") (least significant bit 0 as square a1 bottom-left) to illustrate the operations. 
-
-
-
-
-
-|  |  |
-| --- | --- |
-| [Cpwmappinghint.JPG](Square_Mapping_Considerations "Square Mapping Considerations")  | *Code samples and bitboard diagrams rely on [Little endian file and rank mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations")*.
- |
-
-
-
-
-
-
 ### Least Significant One Bit
 
 

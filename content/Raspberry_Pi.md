@@ -13,47 +13,6 @@ a credit-card-sized [single-board computer](https://en.wikipedia.org/wiki/Single
 
 
 
-### Contents
-
-
-* [1 Pi 2](#pi-2)
-* [2 Pi 3](#pi-3)
-* [3 Pi 4](#pi-4)
-* [4 Chess Projects](#chess-projects)
-	+ [4.1 Gavon](#gavon)
-	+ [4.2 Jaguatirica](#jaguatirica)
-	+ [4.3 PicoChess](#picochess)
-	+ [4.4 PuppetMaster](#puppetmaster)
-	+ [4.5 Embla Board](#embla-board)
-	+ [4.6 DGT Pi](#dgt-pi)
-	+ [4.7 Raspberry Turk](#raspberry-turk)
-	+ [4.8 Caddell Chess](#caddell-chess)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2011 ...](#2011-...)
-	+ [6.2 2015 ...](#2015-...)
-	+ [6.3 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 Raspberry Pi](#raspberry-pi)
-	+ [7.2 Development](#development)
-		- [7.2.1 C, C++](#c.2c-c.2b.2b)
-		- [7.2.2 Java](#java)
-	+ [7.3 Applications](#applications)
-	+ [7.4 Computer Chess](#computer-chess)
-	+ [7.5 Raspberry](#raspberry)
-	+ [7.6 Pi](#pi)
-* [8 References](#references)
-
-
-
-
-
-
-The **Raspberry Pi 2** Model B is the second generation Raspberry Pi released in February 2015. Compared to the Pi 1 it has a 900MHz [quad-core](https://en.wikipedia.org/wiki/Multi-core_processor) [ARM Cortex-A7](https://en.wikipedia.org/wiki/ARM_Cortex-A7) CPU and 1GB RAM <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
-
 ## Pi 3
 
 

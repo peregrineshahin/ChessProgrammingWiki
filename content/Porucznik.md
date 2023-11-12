@@ -15,49 +15,6 @@ Porucznik played the [IOPCCC 2008](IOPCCC_2008 "IOPCCC 2008") and the [PCCC 2009
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[PCCC 2009](PCCC_2009 "PCCC 2009"), round 2, [Armageddon](Armageddon "Armageddon") - Porucznik <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```
-
-[Event "8th PCCC 2009"]
-[Site "Lodz"]
-[Date "2009.09.26"]
-[Round "2"]
-[White "Armageddon"]
-[Black "Porucznik 11"]
-[Result "0-1"]
-
-1.c4 Nf6 2.Nc3 c5 3.Nf3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d4 cxd4 8.Qxd4 d6 
-9.Rd1 a6 10.b3 Nbd7 11.e4 Qc7 12.Qe3 O-O 13.Nd4 Rac8 14.Bb2 g6 15.Nc2 Rfd8 
-16.h3 Nh5 17.g4 Ng7 18.Rab1 h5 19.Qh6 Bf8 20.Qd2 hxg4 21.hxg4 Be7 22.Qh6 Ne5 
-23.Ne3 Bf8 24.Qh3 Be7 25.f4 Nd7 26.Ba3 g5 27.fxg5 Ne5 28.Qh6 b5 29.Kh1 Rd7 
-30.Bb4 Qd8 31.Qh2 Nc6 32.Nc2 Nxb4 33.Nxb4 bxc4 34.bxc4 Bxg5 35.Rd3 Bf6 
-36.Qh6 Ne8 37.Rh3 Bg7 38.Qe3 a5 39.Nc2 Rxc4 40.Rb3 Rdc7 41.Qe1 Qc8 42.Nb5 
-Rxc2 43.Nxc7 Qxc7 44.Rb1 Rxa2 45.Bf3 Rc2 46.g5 a4 47.Bd1 Rc1 48.Rxc1 Qxc1 
-49.Re3 Bd4 50.Rd3 Bf2 51.Qe2 Ba6 52.Qd2 Qc4 53.Qxf2 Qxd3 54.Bc2 Qh3+ 55.Qh2 
-Qc3 56.Qf2 a3 0-1
-
-```
-
 ## See also
 
 

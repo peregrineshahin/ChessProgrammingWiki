@@ -13,21 +13,6 @@ He is author of the program [IGM](IGM "IGM") (I'm Going to be Mated), which comp
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Dap Hartmann](#dap-hartmann)
-	+ [1.2 Jaap van den Herik](#jaap-van-den-herik)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Dap Hartmann
 
 

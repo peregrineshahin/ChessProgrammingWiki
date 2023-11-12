@@ -15,25 +15,6 @@ and provides an text based [user interface](User_Interface "User Interface") wit
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [BBC](BBC "BBC")
-* [BMCP](BMCP "BMCP")
-* [Micro-Max](Micro-Max "Micro-Max")
-* [Nibble](Nibble "Nibble")
-
-
 ## Forum Posts
 
 

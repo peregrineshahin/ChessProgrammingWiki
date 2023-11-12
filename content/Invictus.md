@@ -15,30 +15,6 @@ Invictus r324 had its tournament debut at [TCEC Season 21](TCEC_Season_21 "TCEC 
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-[[3]](#cite-note-readme-3)
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

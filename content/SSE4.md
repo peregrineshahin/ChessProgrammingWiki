@@ -8,28 +8,6 @@ title: SSE4
 
 
 
-### Contents
-
-
-* [1 Intel](#intel)
-	+ [1.1 SSE4.1](#sse4.1)
-	+ [1.2 SSE4.2](#sse4.2)
-		- [1.2.1 STTNI](#sttni)
-		- [1.2.2 ATAI](#atai)
-* [2 AMD SSE4a](#amd-sse4a)
-	+ [2.1 SIMD](#simd)
-	+ [2.2 Advanced Bit Manipulation](#advanced-bit-manipulation)
-* [3 See also](#see-also)
-* [4 Manuals](#manuals)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
 ### SSE4.1
 
 

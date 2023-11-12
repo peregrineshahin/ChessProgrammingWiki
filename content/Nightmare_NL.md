@@ -15,25 +15,6 @@ Nightmare had its official tournament debut at the [3rd Dutch Computer Chess Cha
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 DOCCC 1983](#doccc-1983)
-	+ [1.2 WCRCC 2013](#wcrcc-2013)
-* [2 Namesake](#namesake)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### DOCCC 1983
 
 

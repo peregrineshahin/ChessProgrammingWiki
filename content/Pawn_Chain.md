@@ -9,52 +9,6 @@ A **Pawn chain** consists of pawns placed on the same diagonal, without interrup
 
 
 
-### Contents
-
-
-* [1 Chain Direction](#chain-direction)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2014](#2014)
-	+ [3.2 2015](#2015)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-As pointed out by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), the direction of a [rammed pawn](Pawn_Rams_(Bitboards) "Pawn Rams (Bitboards)") at least triple chain with its peak pretends the wing concerning piece attacks and [king safety](King_Safety "King Safety") issues <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In the left diagram, omitting pieces but assuming [middlegame](Middlegame "Middlegame"), the black king should receive a penalty, in the [color flipped](Color_Flipping "Color Flipping") position on the right, the white king accordantly <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                                                                                              ♚      ♟      ♟      ♟♙     ♟♙      ♙                   ♔  |
-
- | 
-
-|  |
-| --- |
-|                                                                                              ♚           ♟       ♙♟       ♙♟       ♙        ♙        ♔  |
-
- |
-|  6k1/5p2/4p3/3pP3/2pP4/2P5/8/6K1 w - -
- |  6k1/8/2p5/2Pp4/3Pp3/4P3/5P2/6K1 b - -
- |
-
-
-Further, an [open](Open_Pawns_(Bitboards) "Open Pawns (Bitboards)") [backward](Backward_Pawn "Backward Pawn") [straggler](Backward_Pawns_(Bitboards)#Straggler "Backward Pawns (Bitboards)") is a [weak](Weak_Pawns "Weak Pawns") base of the chain.
-
-
-
 ## See also
 
 

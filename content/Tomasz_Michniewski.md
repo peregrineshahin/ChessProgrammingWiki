@@ -14,25 +14,6 @@ Tomasz Michniewski studied mathematics, computing and mechanics at the [Universi
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://mpps.maciej.szmit.info/mpps-2/) 
-[PCCC 2003](PCCC_2003 "PCCC 2003") double Champion: Tomasz Michniewski with [Tytan](Tytan "Tytan") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## See also
 
 

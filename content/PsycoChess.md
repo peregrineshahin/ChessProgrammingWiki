@@ -15,25 +15,6 @@ The rudimentary [Evaluation](Evaluation "Evaluation") considers [material](Mater
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Psycho](Psycho "Psycho")
-* [Psycho-Chess](index.php?title=Psycho-Chess&action=edit&redlink=1 "Psycho-Chess (page does not exist)")
-
-
 ## Forum Posts
 
 

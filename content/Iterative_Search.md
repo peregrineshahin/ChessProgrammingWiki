@@ -10,37 +10,6 @@ The more common search structure is the [recursive](Recursion "Recursion") [dept
 
 
 
-### Contents
-
-
-* [1 Introduction](#introduction)
-* [2 Considerations](#considerations)
-	+ [2.1 Parallel Search](#parallel-search)
-* [3 Implementations](#implementations)
-	+ [3.1 Goto](#goto)
-	+ [3.2 Switch](#switch)
-* [4 See also](#see-also)
-* [5 Forums Posts](#forums-posts)
-	+ [5.1 2005 ...](#2005-...)
-	+ [5.2 2010 ...](#2010-...)
-	+ [5.3 2015 ...](#2015-...)
-* [6 References](#references)
-
-
-
-
-
-
-[Knuth](Donald_Knuth "Donald Knuth") and Moore already introduced an [iterative solution](Knuth-iterative "Knuth-iterative") of [Alpha-Beta](Alpha-Beta "Alpha-Beta") in 1975 <a id="cite-note-2" href="#cite-ref-2">[2]</a>: 
-
-
-
-
-```C++
-It is interesting to convert this recursive procedure to an iterative (non-recursive) form by a sequence of mechanical transformations, and to apply simple optimizations which preserve program correctness. The resulting procedure is surprisingly simple, but not as easy to prove correct as the recursive form.
-
-```
-
 ## Considerations
 
 

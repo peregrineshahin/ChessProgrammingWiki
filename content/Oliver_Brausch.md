@@ -13,31 +13,6 @@ Oliver's stance to mobility was likely due to his background in [statistical phy
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Oliver Brausch (**2001**). *Rayleigh-Bénard Konvektion in verschiedenen isotropen und anisotropen Systemen*. Ph.D. thesis, Institute of Physics, [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth), advisor [Werner Pesch](http://www.pesch.physik.uni-bayreuth.de/de/index.html) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* [A. V. Getling](http://www.scholarpedia.org/article/User:A._V._Getling), Oliver Brausch (**2003**). *Cellular flow patterns and their evolutionary scenarios in three-dimensional Rayleigh–Bénard convection*. DOI: 10.1103/PhysRevE.67.046313, [pdf](http://brausch.org/home/PRE_046313_v67_2003.pdf)
-* [Karen E. Daniels](https://scholar.google.com/citations?user=-sRK_ysAAAAJ&hl=en), Oliver Brausch, [Werner Pesch](http://www.pesch.physik.uni-bayreuth.de/de/index.html), [Eberhard Bodenschatz](https://en.wikipedia.org/wiki/Eberhard_Bodenschatz) (**2007**). *[Competition and bistability of ordered undulations and undulation chaos in inclined layer convection](http://arxiv.org/abs/nlin/0702006v1)*. [pdf](http://arxiv.org/PS_cache/nlin/pdf/0702/0702006v1.pdf)
-
-
 ## Forum Posts
 
 

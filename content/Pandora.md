@@ -14,30 +14,6 @@ Pandora opened the box and played two times the [Hungarian Chessprogram Open](Hu
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Hector & Pandora](#hector-.26-pandora)
-	+ [2.1 Hector's Defeat](#hector.27s-defeat)
-	+ [2.2 Hector's Revenge](#hector.27s-revenge)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.talkchess.com/forum/viewtopic.php?t=50874&start=1) 
-Pandora [GUI](GUI "GUI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
 ## Hector & Pandora
 
 

@@ -11,26 +11,6 @@ Shane is further author of the chess engine [Scidlet](index.php?title=Scidlet&ac
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* Shane Hudson (**1995**). *Dynamic Inverted Files for Full-text Retrieval*. [Second New Zealand Research Students Conference](https://www.cs.waikato.ac.nz/~stever/rsc.html), [University of Waikato](https://en.wikipedia.org/wiki/University_of_Waikato)
-
-
 ## Forum Posts
 
 

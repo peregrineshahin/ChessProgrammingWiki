@@ -13,46 +13,6 @@ Two positions are considered same or equal, if all occupied squares and kind of 
 
 
 
-### Contents
-
-
-* [1 Assigning Draw Score](#Assigning_Draw_Score)
-* [2 Rules](#Rules)
-	+ [2.1 Fide Rule](#Fide_Rule)
-	+ [2.2 Since July 01, 2014](#Since_July_01.2C_2014)
-	+ [2.3 Former Rule](#Former_Rule)
-* [3 Repetition of Positions](#Repetition_of_Positions)
-	+ [3.1 Transposition Table](#Transposition_Table)
-	+ [3.2 List of Keys](#List_of_Keys)
-	+ [3.3 Dedicated Hash Table](#Dedicated_Hash_Table)
-* [4 Repetition of Moves](#Repetition_of_Moves)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1929](#1929)
-	+ [6.2 1980 ...](#1980_...)
-	+ [6.3 1990 ...](#1990_...)
-	+ [6.4 2000 ...](#2000_...)
-	+ [6.5 2010 ...](#2010_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1990 ...](#1990_..._2)
-	+ [7.2 1995 ...](#1995_...)
-	+ [7.3 2000 ...](#2000_..._2)
-	+ [7.4 2005 ...](#2005_...)
-	+ [7.5 2010 ...](#2010_..._2)
-	+ [7.6 2015 ...](#2015_...)
-	+ [7.7 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-* [9 References](#References)
-
-
-
-
-
-
-Threefold repetition implies a position occurred thrice, that is repeated twice. When to score the position as a draw, however, is an entirely different matter. Most programs do this on the first repetition, no matter whether the first occurrence of the repeated position appears in the current search space, or not. Other programs consider that fact, they avoid [cycles](https://en.wikipedia.org/wiki/Cycle_%28graph_theory%29) inside the current [search tree](Search_Tree "Search Tree") to make it a [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG), but allow a one-fold repetition, if the first occurrence appears in the game history before the current [root](Root "Root"). Anyway, to wait for the second repetition one has its pros and cons. The Repetition score is either zero or the [contempt factor](Contempt_Factor "Contempt Factor").
-
-
-
 ## Rules
 
 

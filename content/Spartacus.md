@@ -12,24 +12,6 @@ a chess engine by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") bas
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Joker](Joker_NL "Joker NL")
-* [KingSlayer](index.php?title=KingSlayer&action=edit&redlink=1 "KingSlayer (page does not exist)")
-* [Usurpator](Usurpator "Usurpator")
-
-
 ## Forum Posts
 
 

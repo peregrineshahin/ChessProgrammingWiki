@@ -12,37 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2003](#2003)
-		- [3.1.1 February ...](#february-...)
-		- [3.1.2 April ...](#april-...)
-		- [3.1.3 June ...](#june-...)
-		- [3.1.4 August ...](#august-...)
-	+ [3.2 2004](#2004)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

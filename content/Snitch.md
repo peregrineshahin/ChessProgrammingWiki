@@ -14,29 +14,6 @@ as well as [legal move generation](Move_Generation "Move Generation").
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-	+ [1.3 Misc](#misc)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### [Search](Search "Search")
 
 

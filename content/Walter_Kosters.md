@@ -12,25 +12,6 @@ a Dutch computer scientist and mathematician, and associate professor of CS at L
 
 
 
-### Contents
-
-
-* [1 Nonograms](#nonograms)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Joost Batenburg](Joost_Batenburg "Joost Batenburg"), Walter Kosters researches on [Nonograms](Nonogram "Nonogram") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, picture logic puzzles where a pixel grid has to be filled with black and white pixels, based on a description that indicates the lengths of the consecutive black segments for each row and column. In this puzzle type, the numbers are a form of [discrete tomography](https://en.wikipedia.org/wiki/Discrete_tomography) that measures how many unbroken lines of filled-in squares there are in any given row or column. While the Nonograms that can be found in puzzle books can typically be solved by applying a series of highly local reasoning steps regarding single rows and columns, the general Nonogram problem is [NP-hard](https://en.wikipedia.org/wiki/NP-hard).
-
-
-
 ## Selected Publications
 
 

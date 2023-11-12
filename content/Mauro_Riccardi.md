@@ -15,28 +15,6 @@ where he researched on [quantum mechanics](https://en.wikipedia.org/wiki/Quantum
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2007 ...](#2007-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.g-sei.org/i-g-t-2013/) 
-[IGT 2013](IGT_2013 "IGT 2013"), Group photo with arbiter [Alberto Collobiano](http://ratings.fide.com/card.phtml?event=854840), [Luca Lissandrello](Luca_Lissandrello "Luca Lissandrello") (3rd), Mauro Riccardi (1st),  
-[Edoardo Manino](Edoardo_Manino "Edoardo Manino") (2nd) and [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato") (4th) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

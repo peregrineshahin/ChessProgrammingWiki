@@ -10,35 +10,6 @@ title: University of Michigan
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Mike Alexander](Mike_Alexander "Mike Alexander")
-* [David E. Goldberg](David_E._Goldberg "David E. Goldberg")
-* [Mark Hersey](Mark_Hersey "Mark Hersey")
-* [James Kister](James_Kister "James Kister")
-* [Ed Northam](Ed_Northam "Ed Northam")
-* [Jack O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe")
-* [Shaul Markovitch](Shaul_Markovitch "Shaul Markovitch")
-* [Judith Spencer Olson](index.php?title=Judith_Spencer_Olson&action=edit&redlink=1 "Judith Spencer Olson (page does not exist)")
-* [Walter R. Reitman](Walter_R._Reitman "Walter R. Reitman")
-* [Fred Swartz](Fred_Swartz "Fred Swartz")
-* [Yizao Wang](Yizao_Wang "Yizao Wang")
-* [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)")
-* [Joe Winograd](Joe_Winograd "Joe Winograd")
-
-
 ## Chess Programs
 
 

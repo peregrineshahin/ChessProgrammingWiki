@@ -12,23 +12,6 @@ an American computer scientist, currently doing freelance custom programming. In
 
 
 
-### Contents
-
-
-* [1 CHAOS](#chaos)
-* [2 Team](#team)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-While working at Sperry Univac in the early 70s, he became team member of the early chess program [CHAOS](CHAOS "CHAOS") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , along with [Fred Swartz](Fred_Swartz "Fred Swartz"), [Victor Berman](Victor_Berman "Victor Berman"), [Ira Ruben](Ira_Ruben "Ira Ruben") and [William Toikka](William_Toikka "William Toikka") (before the program became affiliated with the Computing Center of the [University of Michigan](University_of_Michigan "University of Michigan"), where some fluctuation of the CHAOS team occurred<a id="cite-note-3" href="#cite-ref-3">[3]</a> ). 
-
-
-
 ## Team
 
 

@@ -12,35 +12,6 @@ was a Dutch computer chess expert, early [opening book author](Category:Opening_
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 First Dutch Championship](#first-dutch-championship)
-	+ [2.1 Dutch](#dutch)
-	+ [2.2 English Translation](#english-translation)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:JanLouwmanTest.JPG) 
-Jan Louwman in his computer chess test laboratory <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](http://old.csvn.nl/gallery17.html) 
-[ICT 2002](ICT_2002 "ICT 2002"): [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [Johan de Koning](Johan_de_Koning "Johan de Koning"), Jan Louwman (operator
-of [Insomniac](Insomniac "Insomniac")), [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [Mathias Feist](Mathias_Feist "Mathias Feist") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
 ## First Dutch Championship
 
 

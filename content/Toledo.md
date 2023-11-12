@@ -16,26 +16,6 @@ In January 2015, Óscar Toledo G. released Toledo **Atomchess**, a chess program
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Post](#forum-post)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engines](#chess-engines)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-* [Toledo 2000](Toledo_2000 "Toledo 2000") by [Gerardo Castaño Recio](Gerardo_Casta%C3%B1o_Recio "Gerardo Castaño Recio")
-
-
 ## See also
 
 

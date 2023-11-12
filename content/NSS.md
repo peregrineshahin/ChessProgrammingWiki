@@ -12,31 +12,6 @@ an early chess program developed in the the late 1950s by [Carnegie Mellon Unive
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Description](#description)
-* [3 Quotes](#quotes)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) 
-In the late 1950s, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") researchers [Allen Newell](Allen_Newell "Allen Newell") (r) and [Herbert Simon](Herbert_Simon "Herbert Simon") (l),   
-
-together with [Cliff Shaw](Cliff_Shaw "Cliff Shaw") (not shown) at the [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), were early pioneers in the field of  
-
-artificial intelligence and chess software. The NSS program ran on the [Johnniac](https://en.wikipedia.org/wiki/JOHNNIAC) computer ... <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Description
 
 

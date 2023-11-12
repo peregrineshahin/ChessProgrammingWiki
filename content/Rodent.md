@@ -16,31 +16,6 @@ Rodent may be regarded as a beefed up [bitboard](Bitboards "Bitboards") version 
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Misc](#misc)
-* [2 Selected Games](#selected-games)
-* [3 OpenTal](#opental)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2011 ...](#2011-...)
-	+ [5.2 2015 ...](#2015-...)
-	+ [5.3 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc-2)
-* [7 References](#references)
-
-
-
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

@@ -16,20 +16,6 @@ He has also contributed to the [On-Line Encyclopedia of Integer Sequences](https
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2000 ...
 
 

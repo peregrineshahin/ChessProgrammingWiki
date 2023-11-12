@@ -23,33 +23,6 @@ With opponent pieces left, programs usually perform the default passer evaluatio
  |
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Candidate Passed Pawn](Candidate_Passed_Pawn "Candidate Passed Pawn")
-* [KPK](KPK "KPK")
-* [Hidden Passed Pawn](Hidden_Passed_Pawn "Hidden Passed Pawn")
-* [Outside Passed Pawn](Outside_Passed_Pawn "Outside Passed Pawn")
-* [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions")
-* [Pawn Race](Pawn_Race "Pawn Race")
-* [Réti Endgame Study](R%C3%A9ti_Endgame_Study "Réti Endgame Study")
-* [Rule of the Square](Rule_of_the_Square "Rule of the Square")
-* [Set-wise Rule of the Square](King_Pattern#SetwiseRuleoftheSquare "King Pattern")
-* [Szén Position](Chunker#SzenPosition "Chunker")
-* [Tarrasch Rule](Tarrasch_Rule "Tarrasch Rule")
-* [Tempo](Tempo "Tempo")
-
-
 ## Forum Posts
 
 

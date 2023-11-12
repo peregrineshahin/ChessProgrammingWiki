@@ -14,26 +14,6 @@ His research interests include [analysis of time series](https://en.wikipedia.or
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Maciej Szmit organized the [Polish Computer Chess Championships](Polish_Computer_Chess_Championship "Polish Computer Chess Championship"), and is author of the [Akiba](index.php?title=Akiba&action=edit&redlink=1 "Akiba (page does not exist)") chess program and *WBUnit*, a [Delphi](Delphi "Delphi") unit for [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") support <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-
-
-
 ## Selected Publications
 
 

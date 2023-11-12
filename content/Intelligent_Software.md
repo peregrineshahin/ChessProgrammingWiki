@@ -10,30 +10,6 @@ a British computer chess and AI games developing and trading company with focus 
 
 
 
-### Contents
-
-
-* [1 Enterprise](#enterprise)
-* [2 Close Down](#close-down)
-* [3 Photos](#photos)
-	+ [3.1 Founders](#founders)
-	+ [3.2 Programming Team](#programming-team)
-* [4 Associated People](#associated-people)
-* [5 Programs & Products](#programs-.26-products)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-In late 1982, Intelligent Software was commissioned to develop a [home computer](https://en.wikipedia.org/wiki/Home_computer), the [Z80](Z80 "Z80") based [Enterprise](https://en.wikipedia.org/wiki/Enterprise_%28computer%29) with 64 resp. 128 KiB of [bank switched](https://en.wikipedia.org/wiki/Bank_switching) [RAM](Memory#RAM "Memory"), and a [Basic](Basic "Basic") interpreter in [ROM](Memory#ROM "Memory"). Announced in September 1983 with a advised release date of April 1984, the Enterprise did not ship until 1985 <a id="cite-note-4" href="#cite-ref-4">[4]</a> . In Germany, the computer was distributed by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") as *Mephisto PHC 64*.
-
-
-
 ## Close Down
 
 

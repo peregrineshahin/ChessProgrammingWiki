@@ -7,14 +7,6 @@ title: Michael Chaly
 
 Michael Chaly, also known as Vizvezdenec, is a prominent contributor to the [Stockfish](Stockfish.md) development community. Born and currently residing in Sevastopol, has made significant contributions to the [Stockfish](Stockfish.md) development community. Demonstrating exceptional mathematical skills, he secured third place in the Ukrainian School Math Olympics in 2004 and 2005. Graduating at the age of 15, he pursued higher education at Moscow Institute of Physics and Technology and St. Petersburg State University before completing his studies at Moscow State University in 2013, specializing in engineering mathematics and physics. His impactful contributions continue to shape the field of [Stockfish](Stockfish.md) development.
 
-### Contents
-
-* 1 [Chess](#chess)
-* 2 [Stockfish](#stockfish)
-	+ [2.1 Stockfish Development](#stockfish_development)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
 ## Chess
 Michael Chaly's journey into the intricacies of the game began with casual matches against a co-worker, whose level of expertise closely mirrored his own. This initial engagement sparked his curiosity about the competitive chess scene, prompting him to delve deeper into the world of professional chess. Inspired by a colleague's admiration for Magnus Carlsen, Chaly's interest was further kindled, leading him to explore the evolving landscape of the sport.
 

@@ -12,30 +12,6 @@ a didactic [open source chess engine](Category:Open_Source "Category:Open Source
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-So far, Tinman is quite rudimentary and lacks state of the art [search](Search "Search") techniques and [evaluation](Evaluation "Evaluation") terms - and has therefore huge potential to improve further.
-It [represents the board](Board_Representation "Board Representation") with a [little-endian file-rank mapped](Square_Mapping_Considerations#LittleEndianFileRankMapping "Square Mapping Considerations") [bitboard definition](Bitboard_Board-Definition "Bitboard Board-Definition"),
-and applies [Hyperbola Quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-Search is plain [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [check extension](Check_Extensions "Check Extensions") and [quiescence](Quiescence_Search "Quiescence Search") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
-considering [material](Material "Material") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") as evaluation terms at the [leaves](Leaf_Node "Leaf Node") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## See also
 
 

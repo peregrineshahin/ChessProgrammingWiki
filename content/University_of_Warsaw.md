@@ -10,28 +10,6 @@ title: University of Warsaw
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Adam Kujawski](Adam_Kujawski "Adam Kujawski")
-* [Łukasz Lew](index.php?title=%C5%81ukasz_Lew&action=edit&redlink=1 "Łukasz Lew (page does not exist)")
-* [Bartłomiej Macieja](index.php?title=Bart%C5%82omiej_Macieja&action=edit&redlink=1 "Bartłomiej Macieja (page does not exist)")
-* [Tomasz Michniewski](Tomasz_Michniewski "Tomasz Michniewski")
-* [Arkadiusz Paterek](Arkadiusz_Paterek "Arkadiusz Paterek")
-* [Jakub Pawlewicz](Jakub_Pawlewicz "Jakub Pawlewicz")
-* [Michal Rudolf](Michal_Rudolf "Michal Rudolf")
-
-
 ## Chess Programs
 
 

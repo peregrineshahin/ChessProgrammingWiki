@@ -13,27 +13,6 @@ Since version **3** in November 2016, Tarrasch provides sophisticated [Database]
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess GUI](#chess-gui)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](https://triplehappy.com/Home.html) 
-Tarrasch GUI <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## See also
 
 

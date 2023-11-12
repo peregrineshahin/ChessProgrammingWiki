@@ -10,24 +10,6 @@ a German chess player and aficionado, open source software developer <a id="cite
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2015 ...](#2015-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Niklas Fiekas (**2020**). *[The Hashtable Packing Problem](https://backscattering.de/chess/hashtable-packing/)*. (Draft)
-
-
 ## Forum Posts
 
 

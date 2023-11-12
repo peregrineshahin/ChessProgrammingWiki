@@ -12,25 +12,6 @@ a [Portuguese American](https://en.wikipedia.org/wiki/Portuguese_American) elect
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 1990 ...
 
 

@@ -12,26 +12,6 @@ a Danish mathematician at School of Electronic Engineering and Computer Science 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1993 ...](#1993-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 1993 ...
 
 

@@ -14,53 +14,6 @@ The various ray-,line- and piece sets are foundation of further attack calculati
 
 
 
-### Contents
-
-
-* [1 Ray Attacks](#ray-attacks)
-	+ [1.1 Rays by Line](#rays-by-line)
-	+ [1.2 Positive Rays](#positive-rays)
-		- [1.2.1 By Lookup](#by-lookup)
-		- [1.2.2 Initialization](#initialization)
-		- [1.2.3 By Calculation](#by-calculation)
-	+ [1.3 Negative Rays](#negative-rays)
-		- [1.3.1 By Lookup](#by-lookup-2)
-		- [1.3.2 Initialization](#initialization-2)
-		- [1.3.3 By Calculation](#by-calculation-2)
-* [2 Line Attacks](#line-attacks)
-	+ [2.1 By Lookup](#by-lookup-3)
-	+ [2.2 By Calculation](#by-calculation-3)
-* [3 Piece Attacks](#piece-attacks)
-	+ [3.1 By Lookup](#by-lookup-4)
-	+ [3.2 By Calculation](#by-calculation-4)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
-
-```C++
-
-  northwest    north   northeast
-  noWe         nort         noEa
-          +7    +8    +9
-              \  |  /
-  west    -1 <-  0 -> +1    east
-              /  |  \
-          -9    -8    -7
-  soWe         sout         soEa
-  southwest    south   southeast
-
-```
-
-
-
-
-
 ### Rays by Line
 
 

@@ -13,32 +13,6 @@ further the [BELCT 2001](BELCT_2001 "BELCT 2001") as *Lokalmatador* <a id="cite-
 
 
 
-### Contents
-
-
-* [1 Versions](#versions)
-* [2 Screenshot](#screenshot)
-* [3 Games](#games)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-The first version, Matator **I**, developed in 1996, was written in [Visual Basic 5.0](Basic#VB "Basic"), had an own [GUI](GUI "GUI"), used a [10x12 Board](10x12_Board "10x12 Board"), 
-performing [PVS](Principal_Variation_Search "Principal Variation Search") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [quiescence search](Quiescence_Search "Quiescence Search"), 
-and some kind of [check extensions](Check_Extensions "Check Extensions") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-Matador **II** in 1998 was written in [C](C "C") and compliant with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). 
-In 2002, Matador **III** was a major rewrite using [bitboards](Bitboards "Bitboards") as board representation, and supported [UCI](UCI "UCI"), while Matador **IV** started to play chess in 2004 
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Screenshot
 
 

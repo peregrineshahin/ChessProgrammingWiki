@@ -15,32 +15,6 @@ Jabba 1.0 is able to play [Knightmate Chess](Knightmate_Chess "Knightmate Chess"
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2009](#2009)
-	+ [5.2 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Jabba uses a hybrid board representation of a [0x88](0x88 "0x88") mailbox and [bitboards](Bitboards "Bitboards") for pawns <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-It applies [PVS](Principal_Variation_Search "Principal Variation Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework along with [null move pruning](Null_Move_Pruning "Null Move Pruning"). 
-It [extends](Extensions "Extensions") [checks](Check_Extensions "Check Extensions"), [pawn moves to the 7th rank](Passed_Pawn_Extensions "Passed Pawn Extensions"), and transitions to [pawn endings](Pawn_Endgame "Pawn Endgame"). Jabba's [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluation "Lazy Evaluation") and considers [material imbalances](Material "Material") based on material analyses using statistics, [mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety") and various [piece terms](Evaluation_of_Pieces "Evaluation of Pieces").
-
-
-
 ## Tournament Play
 
 

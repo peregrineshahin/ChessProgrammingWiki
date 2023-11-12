@@ -10,27 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-LarsenVB has a [Mailbox](Mailbox "Mailbox") board representation, and features most "classics" algorithms like [alpha-beta](Alpha-Beta "Alpha-Beta"), [iterative deepening](Iterative_Deepening "Iterative Deepening"), and [quiescence search](Quiescence_Search "Quiescence Search"), while it still lacks a [transposition table](Transposition_Table "Transposition Table") and [null move pruning](Null_Move_Pruning "Null Move Pruning"). The [evaluation function](Evaluation "Evaluation") is quite simple and considers [pawn structure](Pawn_Structure "Pawn Structure"), [basic centralization](Center_Control "Center Control") of minor pieces and [King](King_Centralization "King Centralization") (in the [endgame](Endgame "Endgame")), basic [King safety](King_Safety "King Safety") related to [castling](Castling "Castling"), pawn structure and [open files](Open_File "Open File") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Selected Games
 
 

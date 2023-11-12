@@ -16,26 +16,6 @@ Waxman's name resembles the Russian word for chess [Шахмат](http://bg.wiki
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Waxman 1.2 [Windows](Windows "Windows") Screen 
-
-
-
 ## Forum Posts
 
 

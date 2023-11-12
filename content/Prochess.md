@@ -12,21 +12,6 @@ At the WCCC 1992, with 10-15K [nodes per second](Nodes_per_Second "Nodes per Sec
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-	+ [1.1 Utrecht 1991](#utrecht-1991)
-	+ [1.2 Madrid 1992](#madrid-1992)
-* [2 Namesake](#namesake)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Utrecht 1991
 
 

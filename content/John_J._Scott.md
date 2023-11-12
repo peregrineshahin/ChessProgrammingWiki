@@ -13,21 +13,6 @@ Scott's program was further sparring partner of [Alex Bell's](Alex_Bell "Alex Be
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Games Playing with Computers](#games-playing-with-computers)
-	+ [1.2 Master at IFIPS](#master-at-ifips)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Games Playing with Computers
 
 

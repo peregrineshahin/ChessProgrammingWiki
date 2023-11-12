@@ -16,33 +16,6 @@ a minimalist [open source](Category:Open_Source "Category:Open Source") chess pr
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Dedicated μ-Max](#dedicated-.ce.bc-max)
-	+ [4.3 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.game-ai-forum.org/icga-tournaments/event_info.php?id=15) 
-[Deep Sjeng](Deep_Sjeng "Deep Sjeng") - micro-Max, [WCCC 2007](WCCC_2007 "WCCC 2007") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Gian-Carlo](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") amazed by [HGM's](Harm_Geert_Muller "Harm Geert Muller") source code <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
- [](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) 
-[Elektor](https://en.wikipedia.org/wiki/Elektor) Chess Computer with Micro-Max inside <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## See also
 
 

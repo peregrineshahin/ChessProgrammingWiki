@@ -12,43 +12,6 @@ Further, Pacque Expert played the [Massy 1999](index.php?title=Massy_1999&action
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WMCCC 2000](WMCCC_2000 "WMCCC 2000"), round 8, Pacque Expert - [Junior](Junior "Junior") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "WMCCC 2000"]
-[Site "London, United Kingdom"]
-[Date "2000.08.25"]
-[Round "8"]
-[White "Pacque Expert"]
-[Black "Junior"]
-[Result "0-1"]
-
-1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 dxc4 
-8.Qxc4 Nd7 9.e3 Qg6 10.b4 a5 11.bxa5 Rxa5 12.g3 Ra3 13.Kd2 Nb6 14.Qe2 
-Bb4 15.Kd1 Rxc3 16.Ne1 Na4 17.f4 e5 18.fxe5 Bg4 19.Qxg4 Qxg4+ 20.Nf3 
-Qxf3+ 21.Kd2 Rc5+ 22.Kd3 Nb2# 0-1 
-
-```
-
 ## Forum Posts
 
 

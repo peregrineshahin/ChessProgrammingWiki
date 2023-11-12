@@ -81,25 +81,6 @@ In 2010, [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") proposed a s
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Material Hash Table](Material_Hash_Table "Material Hash Table")
-* [Evaluation in Rookie 2.0](Rookie#Evaluation "Rookie")
-
-
 ## Forum Posts
 
 

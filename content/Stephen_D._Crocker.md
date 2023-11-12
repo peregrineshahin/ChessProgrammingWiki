@@ -17,24 +17,6 @@ and worked with [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") an
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1967 ...](#1967-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1967 ...
 
 

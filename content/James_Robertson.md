@@ -12,24 +12,6 @@ an American computer chess programmer and author of the chess program [Insomniac
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* James Robertson (**2002**). *The 10th World Computer-Chess Championship*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal") » [WCCC 2002](WCCC_2002 "WCCC 2002")
-
-
 ## Forum Posts
 
 

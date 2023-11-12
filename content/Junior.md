@@ -12,43 +12,6 @@ a chess engine by primary programmer [Amir Ban](Amir_Ban "Amir Ban") and [Shay B
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 WCCC 2006 Round 4](#wccc-2006-round-4)
-	+ [1.2 WCCC 2006 Shannon Trophy](#wccc-2006-shannon-trophy)
-* [2 Description](#description)
-* [3 Program Internals](#program-internals)
-	+ [3.1 C++](#c.2b.2b)
-	+ [3.2 Search Depth](#search-depth)
-	+ [3.3 Razoring](#razoring)
-* [4 Release Dates](#release-dates)
-* [5 Matches](#matches)
-* [6 Publications](#publications)
-	+ [6.1 1995 ...](#1995-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1995 ...](#1995-...-2)
-	+ [7.2 2000 ...](#2000-...-2)
-	+ [7.3 2010 ...](#2010-...-2)
-* [8 External Links](#external-links)
-	+ [8.1 Purchase](#purchase)
-	+ [8.2 Reports](#reports)
-	+ [8.3 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### WCCC 2006 Round 4
 
 

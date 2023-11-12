@@ -13,25 +13,6 @@ and the recent [CSVN Programmers Tournament](CSVN_Programmers_Tournament "CSVN P
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.csvnsupplementsite.nl/csvnp25.html) 
-Rob van Son with [Mephisto Milano](Mephisto_Milano "Mephisto Milano"), [Johan de Koning](Johan_de_Koning "Johan de Koning") watching, [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") in the background,  
-and back of [Cock de Gorter](Cock_de_Gorter "Cock de Gorter") operating [TASC R30](TASC_R30 "TASC R30") with Johan's program, 3rd CSVN Gebruikerstoernooi 2001 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Publications
 
 

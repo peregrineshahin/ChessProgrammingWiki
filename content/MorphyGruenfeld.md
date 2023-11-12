@@ -15,30 +15,6 @@ The trio played the commercial section of the [WMCCC 1981](WMCCC_1981 "WMCCC 198
 
 
 
-### Contents
-
-
-* [1 Gruenfeld](#gruenfeld)
-* [2 Morphy Edition](#morphy-edition)
-* [3 Capablanca](#capablanca)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[ [Grünfeld](https://en.wikipedia.org/wiki/Ernst_Gr%C3%BCnfeld) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-The *Gruenfeld Edition* (1981/1982) was a chess [opening](Opening "Opening") module for the [Great Game Machine](Great_Game_Machine "Great Game Machine"), [Chafitz Modular Game System](Chafitz_Modular_Game_System "Chafitz Modular Game System") and compatibles. It contained an [opening book](Opening_Book "Opening Book") by chess master [John Jacobs](index.php?title=John_Jacobs&action=edit&redlink=1 "John Jacobs (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a> and a control program by [David Slate](David_Slate "David Slate") and [Larry Atkin](Larry_Atkin "Larry Atkin") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-The Gruenfield opening cartridge was made available in June 1981, and covers openings up to move 20. When the book is exhausted, the system gives a signal, to remove and replace it with Morphy <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
-
-
-
 ## Morphy Edition
 
 

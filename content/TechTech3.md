@@ -12,32 +12,6 @@ abbreviated **Tech**, was one of the predecessors of modern chess programs, usin
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Abstract](#abstract)
-	+ [1.2 Chess and Technology](#chess-and-technology)
-	+ [1.3 Acknowledgments](#acknowledgments)
-* [2 Selected Games](#selected-games)
-* [3 Tech 2](#tech-2)
-* [4 Tech 3](#tech-3)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Program](#chess-program)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-Quotes from *The Technology Chess Program* by [James Gillogly](James_Gillogly "James Gillogly") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ### Abstract
 
 

@@ -16,36 +16,6 @@ a Canadian computer scientist and chess player <a id="cite-note-2" href="#cite-r
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Photos](#photos)
-* [3 Quotes](#quotes)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1980 ...](#1980-...)
-	+ [5.2 1985 ...](#1985-...)
-	+ [5.3 1990 ...](#1990-...)
-	+ [5.4 1995 ...](#1995-...)
-	+ [5.5 2000 ...](#2000-...)
-	+ [5.6 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Murray Campbell got hooked in computer chess at the [University of Alberta](University_of_Alberta "University of Alberta") in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), Canada, where he worked with [Tony Marsland](Tony_Marsland "Tony Marsland") on [parallel search](Parallel_Search "Parallel Search") and [principal variation search](Principal_Variation_Search "Principal Variation Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He left Canada to enroll at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (CMU) as a doctoral candidate in computer science. Supported by his advisor [Hans Berliner](Hans_Berliner "Hans Berliner"), he developed the [chunking](Chunking "Chunking") [pawn endgame](Pawn_Endgame "Pawn Endgame") program [Chunker](Chunker "Chunker"), and received his Ph.D. in 1987 for his work on *chunking as an abstraction mechanism in solving complex problems* <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Along with [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), he researched on the [null move heuristic](Null_Move_Pruning "Null Move Pruning") - none [recursively](Recursion "Recursion") with a modest [depth reduction](Depth_Reduction_R "Depth Reduction R") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-Campbell was member of the [HiTech](HiTech "HiTech") team around Berliner, while [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") were already developing [ChipTest](ChipTest "ChipTest"), the predecessor of [Deep Thought](Deep_Thought "Deep Thought"). In 1986, Murray Campbell joined the ChipTest team and in 1989, Campbell and Hsu joined [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") to develop [Deep Blue](Deep_Blue "Deep Blue"). Murray Campbell's main function in the Deep Blue team was the development of the [evaluation function](Evaluation_Function "Evaluation Function"). He worked closely with the team's chess consultant, [Joel Benjamin](https://en.wikipedia.org/wiki/Joel_Benjamin), in preparing the opening book <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-
-
-
 ## Photos
 
 

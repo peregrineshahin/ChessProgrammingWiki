@@ -14,24 +14,6 @@ he mentioned using machine code and a [Pascal](Pascal "Pascal")-like language of
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* Norman Whaland (**1978**). *[A Computer Chess Tutorial](https://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n167/mode/2up)*. [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-* Norman Whaland (**1980**). *What Chess Programs Don't Do (Part I)*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 82
-* Norman Whaland (**1980**). *What Chess Programs Don't Do (Part II)*. [Personal Computing, Vol. 4, No. 12](Personal_Computing#4_12 "Personal Computing"), pp. 77
-* Norman Whaland (**1981**). *TRS-80 - Konane*. [SoftSide Magazine, Vol. 5, No. 03 / Issue 24](http://www.trs-80.com/trs80-mag-softside-v5n3.htm), December, 1981 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## External Links
 
 

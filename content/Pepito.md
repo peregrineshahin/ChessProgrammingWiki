@@ -10,35 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Features](#features)
-* [3 Acknowledgments](#acknowledgments)
-* [4 Selected Games](#selected-games)
-* [5 Clones](#clones)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2000](#2000)
-	+ [6.2 2001](#2001)
-	+ [6.3 2002](#2002)
-	+ [6.4 2003](#2003)
-	+ [6.5 2004 ...](#2004-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
- [](http://www.behance.net/gallery/Pepito-Chess-engine/870970) 
-Pepito [GUI](GUI "GUI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Features
 
 

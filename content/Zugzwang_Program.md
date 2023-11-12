@@ -8,60 +8,6 @@ title: Zugzwang Program
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1995](#1995)
-	+ [2.2 1999](#1999)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[](http://www.thorstenczub.de/aegon.html)
-[Aegon 1997](Aegon_1997 "Aegon 1997"), [Ye Rongguang](https://en.wikipedia.org/wiki/Ye_Rongguang) vs. Zugzwang operated by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann")
-
-
-
-
-```
-
-[Event "12th AEGON Man-Mach"]
-[Site "The Hague NED"]
-[Date "1997.04.22"]
-[Round "05"]
-[White "Ye Rongguang"]
-[Black "ZUGZWANG"]
-[Result "1/2-1/2"]
-
-1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e3 a5 7.Nge2 Nf6 8.a3 O-O
-9.Rb1 Bg4 10.b4 axb4 11.axb4 e4 12.dxe4 Ne5 13.h3 Be6 14.f4 Nxc4 15.O-O Re8
-16.Nd4 c6 17.Qd3 d5 18.e5 Nd7 19.g4 Qb6 20.Kh1 Rad8 21.Nxe6 fxe6 22.h4 Ra8
-23.g5 Qc7 24.Bh3 Ndb6 25.Qc2 Qe7 26.Qb3 h5 27.Ne2 Qc7 28.Nd4 Qf7 29.Re1 Bf8
-30.Nf3 Ra4 31.Qc3 Ra2 32.e4 Bg7 33.exd5 cxd5 34.Ra1 Rxa1 35.Qxa1 Bf8
-36.Qb1 Nd7 37.Nd4 Nb8 38.Bf1 Nc6 39.Nxc6 bxc6 40.Bd3 Kh7 41.Bxc4 dxc4
-42.Rd1 Qb7 43.Qe4 c3 44.Rd4 Rb8 45.Kh2 c5 46.Qxb7+ Rxb7 47.bxc5 Bxc5
-48.Rc4 Rc7 49.Kg2 Bb6 50.Rb4 Rc6 51.Kf1 c2 52.Ke2 Ba5 53.Rb5 Bc7 54.Rb7 Kg8
-55.Ra7 Bb6 56.Rd7 Bc7 57.Kd3 Ba5 58.Ke2 Bc7 59.Rd3 Kf8 60.Ra3 Bb6
-61.Ra8+ Kg7 62.Ra2 Kf7 63.Ra1 Bc5 64.Ra4 Bg1 65.Ra3 Rc7 66.Rf3 Bd4
-67.Kd2 Bb6 68.Ke2 Ba5 69.Ra3 Bb4 70.Rb3 Bc3 71.Ra3 Kf8 72.Ra2 Bd4
-73.Ra4 Ba7 74.Ra6 Kf7 75.Rd6 Bc5 76.Rd8 Rc6 77.Rd7+ Kf8 78.Rd3 Be7
-79.Rb3 Bd8 80.Rb8 Ke7 81.Rb7+ Kf8 82.Ra7 Be7 83.Kd3 Bc5 84.Ra8+ Kf7
-85.Ke2 Kg7 86.Ra4 Bg1 87.Ra3 Rc8 88.Rg3 Bd4 89.Rd3 Bc3 90.Rd7+ Kf8
-91.Rd6 Ke7 92.Ra6 Rc7 93.Ra8 Bd4 94.Ra4 Bb6 95.Rb4 Rc6 96.Rb3 Kd7
-97.Ra3 Rc5 98.Rd3+ Ke7 99.Rd6 Ba5 100.Ra6 Kf7 101.Ra7+ Bc7 102.Kd3 Rc6
-103.Ra2 Bb6 104.Ra6 Ke7 105.Ke2 Kd8 106.Ra8+ Rc8 1/2-1/2
-
-```
-
 ## Descriptions
 
 

@@ -12,41 +12,6 @@ the ***S**mith **O**ne-**M**ove **A**nalyzer*, a chess program designed as one-p
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Material](#material)
-	+ [1.2 Square Control](#square-control)
-	+ [1.3 Swap-off Value](#swap-off-value)
-	+ [1.4 Misc](#misc)
-* [2 SOMA - Machiavelli](#soma---machiavelli)
-* [3 SOMA Algorithm](#soma-algorithm)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-[John Maynard Smith's](John_Maynard_Smith "John Maynard Smith") and [Donald Michie's](Donald_Michie "Donald Michie") description of SOMA's evaluation features and weights from their [1961](Timeline#1961 "Timeline") paper *Machines that play games*, excerpt <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
-
-```C++
- We will suppose that SOMA is playing the white pieces. All White's legal moves are considered in turn, and the value of White's position after each is calculated; the move played is that which maximizes this value. In calculating the value of a position, the following factors are taken into account: 
-
-```
-
-
-
-
-
 ### Material
 
 

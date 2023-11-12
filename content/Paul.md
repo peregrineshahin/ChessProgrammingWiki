@@ -14,33 +14,6 @@ The [evaluation](Evaluation "Evaluation") was a little bit ad hoc and not that w
 
 
 
-### Contents
-
-
-* [1 Scholarship](#scholarship)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-In 1989, both authors received the *Mephisto "Young Programmers" [Scholarship](https://en.wikipedia.org/wiki/Scholarship)* of $2,500 for programmers under 19 years of age who have written the best chess program, sponsored by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
-
-```C++
-The [ICCA](ICCA "ICCA") is pleased to congratulate Mr. Schmitt and Mr. Lutz for their success. Each of them receive $1,250 from Hegener & Glaser, sponsor of this scholarship, to be used at any college or university of their choice. Hegener & Glaser also kindly sponsored their travel costs to Portorož for the World Microcomputer Chess Championship in September. 
-
-```
-
 ## Selected Games
 
 

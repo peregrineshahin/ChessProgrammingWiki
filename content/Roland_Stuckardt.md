@@ -13,26 +13,6 @@ Roland Stuckard is author of the [Java-based](Java "Java") [UCI](UCI "UCI") ches
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1995 ...](#1995-...)
-	+ [1.2 2000 ..](#2000-..)
-	+ [1.3 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 1995 ...
 
 

@@ -25,45 +25,6 @@ Basically, the game plays with a typical Xiangqi board and pieces. The rules, th
 
 
 
-### Contents
-
-
-* [1 Pieces](#pieces)
-* [2 Jeiqi Notation](#jeiqi-notation)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chinese Chess](#chinese-chess)
-* [5 References](#references)
-
-
-
-
-
-
-Pieces are similar to Xiangqi except they have extra covered pieces.
-
-
-
-
-
-|  Images
- |  Name
- |  Notation <a id="cite-note-2" href="#cite-ref-2">[2]</a> |  Movement
- |
-| --- | --- | --- | --- |
-| [Jeiqipieces.svg](File:Jeiqipieces.svg) |  暗子
- | Covered piece
- |  X
- |  moves and captures as original pieces
- |
-
-
-  
-
-
-
-
 ## [Jeiqi Notation](Jeiqi_Notation "Jeiqi Notation")
 
 

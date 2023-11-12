@@ -12,40 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Acknowledgements](#acknowledgements)
-* [2 Selected Features](#selected-features)
-	+ [2.1 Search](#search)
-	+ [2.2 Evaluation](#evaluation)
-	+ [2.3 Misc](#misc)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2018](#2018)
-	+ [3.2 2019](#2019)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-Milos Tatarevic was inspired by [Garry Kasparov's](Garry_Kasparov "Garry Kasparov") book *Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins* <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, which evoked his childhood passion computer chess, wondering how hard it could be to develop an engine strong enough to suppress the legendary [Deep Blue](Deep_Blue "Deep Blue") - giving it a try. The [CPW](Home "Home") (Thank You) and following open source engines were mentioned as further inspiration in the author's acknowledgements <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
-
-
-
-* [Crafty](Crafty "Crafty")
-* [Demolito](Demolito "Demolito")
-* [Hakkapeliitta](Hakkapeliitta "Hakkapeliitta")
-* [Micro-Max](Micro-Max "Micro-Max")
-* [Senpai](Senpai "Senpai")
-* [Stockfish](Stockfish "Stockfish")
-* [Sunfish](Sunfish "Sunfish")
-
-
 ## Selected Features
 
 

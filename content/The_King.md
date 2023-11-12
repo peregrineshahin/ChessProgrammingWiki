@@ -19,38 +19,6 @@ The King, famous for "his" interesting and entertaining playing style, was comme
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Games & Photos](#games-.26-photos)
-	+ [2.1 DOCCC 1991](#doccc-1991)
-	+ [2.2 ICT 2013](#ict-2013)
-		- [2.2.1 Tao](#tao)
-		- [2.2.2 Fritz](#fritz)
-* [3 Commercial Spin-offs](#commercial-spin-offs)
-* [4 SSDF Ratings](#ssdf-ratings)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") report <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
-
-
-
-
-```C++
-Written by Johan de Koning, already known for his program which has competed for several years in [Dutch tournaments](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"). This latest version runs on the [ARM2](ARM2 "ARM2") RISC CPU and represents 2.5 man-years of development. The [evaluation function](Evaluation_Function "Evaluation Function") is complex and hence a little slow. Positional [scores](Score "Score") can "easily exceed several Pawns". Separate evaluation terms are used for [opening](Opening "Opening")/[middle](Middlegame "Middlegame")/[endgame](Endgame "Endgame") with [smooth transitions](Tapered_Eval "Tapered Eval") between them by using 3 weights which sum to 100%, giving a fuzzy definition of the [phases](Game_Phases "Game Phases"). The [search](Search "Search") techniques include [check extensions](Check_Extensions "Check Extensions") and chess-specific static rules for additional [extensions](Extensions "Extensions"). [Singular extensions](Singular_Extensions "Singular Extensions") are not used, but [lower bounds](Lower_Bound "Lower Bound") are computed to limit the search in the [selective](Selectivity "Selectivity") phase. [Best moves](Best_Move "Best Move") from earlier [iterations](Iterative_Deepening "Iterative Deepening"), [history heuristic](History_Heuristic "History Heuristic"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), priority to [captures](Captures "Captures"), and a [refutation table](Refutation_Table "Refutation Table") are all used to [order moves](Move_Ordering "Move Ordering"), which are [generated](Move_Generation "Move Generation") in the all-and-sort fashion. Specialized endgame knowledge is included and this is actively being expanded. 
-
-```
-
 ## Games & Photos
 
 

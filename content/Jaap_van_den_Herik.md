@@ -15,41 +15,6 @@ In 1980 Van den Herik was co-founder of the [CSVN](CSVN "CSVN") [[5]](#cite_note
 
 
 
-### Contents
-
-
-* [1 Photos](#Photos)
-* [2 Follower of Euwe and De Groot](#Follower_of_Euwe_and_De_Groot)
-* [3 See also](#See_also)
-* [4 Selected Publications](#Selected_Publications)
-	+ [4.1 1980 ...](#1980_...)
-	+ [4.2 1985 ...](#1985_...)
-	+ [4.3 1990 ...](#1990_...)
-	+ [4.4 1995 ...](#1995_...)
-	+ [4.5 2000 ...](#2000_...)
-	+ [4.6 2005 ...](#2005_...)
-	+ [4.7 2010 ...](#2010_...)
-	+ [4.8 2015 ...](#2015_...)
-	+ [4.9 2020 ...](#2020_...)
-* [5 External Links](#External_Links)
-* [6 References](#References)
-
-
-
-
-
-
- [](File:JaapTRS80.JPG) 
-Jaap van den Herik playing a [TRS-80](TRS-80 "TRS-80") program [[7]](#cite_note-7), is it [Gambiet](Gambiet "Gambiet")? 
-
-
-
- [](File:PionTeam.jpg) 
-[Pion](Pion "Pion") team: <?>, [Jan Derksen](Jan_Derksen "Jan Derksen"), Jaap van den Herik, [Harry Nefkens](Harry_Nefkens "Harry Nefkens") (center), [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen")  
-back of head of [Sito Dekker](Sito_Dekker "Sito Dekker") sitting in front of the board [[8]](#cite_note-8)
-
-
-
 ## Follower of Euwe and De Groot
 
 

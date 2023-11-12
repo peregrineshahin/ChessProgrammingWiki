@@ -13,22 +13,6 @@ a Hungarian mechanical and electrical engineer, pioneer in electronics and cyber
 
 
 
-### Contents
-
-
-* [1 Nemes' Chess Machine](#nemes.27-chess-machine)
-	+ [1.1 Wiring Diagram](#wiring-diagram)
-	+ [1.2 Block Diagram](#block-diagram)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### Wiring Diagram
 
 

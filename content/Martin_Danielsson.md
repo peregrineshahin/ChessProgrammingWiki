@@ -14,21 +14,6 @@ After ten years "out of business", Martin Danielsson restarted the development i
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2004 ...](#2004-...)
-	+ [1.2 2017 ...](#2017-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2004 ...
 
 

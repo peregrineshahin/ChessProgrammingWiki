@@ -13,27 +13,6 @@ It is named after the [bogeyman](https://en.wikipedia.org/wiki/Bogeyman) charact
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Design](#design)
-* [3 History](#history)
-* [4 Selected Games](#selected-games)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Stobor played two [World Microcomputer Chess Championship](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), the [WMCCC 1995](WMCCC_1995 "WMCCC 1995") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn) and the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris), and further the [IPCCC 1997](IPCCC_1997 "IPCCC 1997") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Design
 
 

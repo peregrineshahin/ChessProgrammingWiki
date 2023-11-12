@@ -12,20 +12,6 @@ a Hungarian electrical engineer <a id="cite-note-2" href="#cite-ref-2">[2]</a> a
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 1996](#1996)
-	+ [1.2 2010](#2010)
-* [2 Publications](#publications)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1996
 
 

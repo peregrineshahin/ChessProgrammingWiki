@@ -16,35 +16,6 @@ SCID can read [PGN](Portable_Game_Notation "Portable Game Notation") and [EPD](E
 
 
 
-### Contents
-
-
-* [1 GUI](#gui)
-* [2 Database Format](#database-format)
-* [3 SCID Forks](#scid-forks)
-* [4 See Also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1999](#1999)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The SCID [GUI](GUI "GUI"), written in [Tcl](index.php?title=Tcl-Tk&action=edit&redlink=1 "Tcl-Tk (page does not exist)"), evolved to a sophisticated multiple purpose [tabbed document interface](https://en.wikipedia.org/wiki/Tab_%28GUI%29), with game lists of databases and [game windows](GUI#GameWindow "GUI") with [board](GUI#BoardWindow "GUI") and tabbed [notation](GUI#NotationWindow "GUI"), [opening](Opening_Book "Opening Book") tree, and analyze panes as document views. 
-Database queries and [transactions](https://en.wikipedia.org/wiki/Database_transaction) are initiated via [modal](https://en.wikipedia.org/wiki/Modal_window) [dialog boxes](https://en.wikipedia.org/wiki/Dialog_box). 
-
-
-
-
-
-
 ## Database Format
 
 

@@ -12,24 +12,6 @@ a set-wise representation with one bit for each [piece](Pieces "Pieces") inside 
 
 
 
-### Contents
-
-
-* [1 Serialization](#serialization)
-* [2 Move Generation](#move-generation)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-Techniques to traverse piece-sets are similar to [bitboard serialization](Bitboard_Serialization "Bitboard Serialization"), but of course more 32-bit friendly. Same applies for [general set-wise operations](General_Setwise_Operations "General Setwise Operations").
-
-
-
 ## Move Generation
 
 

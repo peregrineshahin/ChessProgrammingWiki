@@ -12,51 +12,6 @@ a Hash table or [Transposition table](Transposition_Table "Transposition Table")
 
 
 
-### Contents
-
-
-* [1 Parallel Search](#Parallel_Search)
-	+ [1.1 ABDADA](#ABDADA)
-	+ [1.2 Lazy SMP](#Lazy_SMP)
-* [2 Concurrent Access](#Concurrent_Access)
-	+ [2.1 Locks](#Locks)
-		- [2.1.1 CilkChess](#CilkChess)
-		- [2.1.2 Granularity](#Granularity)
-	+ [2.2 Lock-less](#Lock-less)
-		- [2.2.1 Xor](#Xor)
-		- [2.2.2 Checksum](#Checksum)
-		- [2.2.3 SSE2](#SSE2)
-* [3 Allocation](#Allocation)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-	+ [5.1 1980 ...](#1980_...)
-	+ [5.2 1990 ...](#1990_...)
-	+ [5.3 2000 ...](#2000_...)
-	+ [5.4 2010 ...](#2010_...)
-* [6 Forum Posts](#Forum_Posts)
-	+ [6.1 1997 ...](#1997_...)
-	+ [6.2 2000 ...](#2000_..._2)
-	+ [6.3 2005 ...](#2005_...)
-	+ [6.4 2010 ...](#2010_..._2)
-	+ [6.5 2015 ...](#2015_...)
-	+ [6.6 2020 ...](#2020_...)
-* [7 External Links](#External_Links)
-	+ [7.1 Shared Memory](#Shared_Memory)
-	+ [7.2 Cache](#Cache)
-	+ [7.3 Concurrency and Synchronization](#Concurrency_and_Synchronization)
-	+ [7.4 Distributed memory](#Distributed_memory)
-	+ [7.5 Misc](#Misc)
-* [8 References](#References)
-
-
-
-
-
-
-Almost all [parallel search](Parallel_Search "Parallel Search") algorithms on [SMP](SMP "SMP")- or [NUMA](NUMA "NUMA") systems profit from probing hash entries written by other instances of the search, in its most simple form by instances of a sequential search algorithm which simultaneously search the same root position. The gains come from the effect of nondeterminism. Each processor will finish the various subtrees in varying amounts of time, and as the search continues, these effects grow making the search trees diverge. The [speedup](https://en.wikipedia.org/wiki/Speedup) is then based on how many nodes the main processor is able to skip from transposition table entries. It had the reputation of little speedup on a mere 2 processors, and to scale quite badly after this. However, the [NPS](Nodes_per_Second "Nodes per Second") scaling is nearly perfect.
-
-
-
 ### ABDADA
 
 

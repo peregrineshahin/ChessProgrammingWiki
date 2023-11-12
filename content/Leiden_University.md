@@ -10,44 +10,6 @@ title: Leiden University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs and Authors](#chess-programs-and-authors)
-* [3 Events](#events)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Joost Batenburg](Joost_Batenburg "Joost Batenburg")
-* [Aart Bik](Aart_Bik "Aart Bik")
-* [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
-* [Daniel Dimov](index.php?title=Daniel_Dimov&action=edit&redlink=1 "Daniel Dimov (page does not exist)")
-* [Dap Hartmann](Dap_Hartmann "Dap Hartmann")
-* [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons")
-* [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
-* [Hendrik Jan Hoogeboom](Hendrik_Jan_Hoogeboom "Hendrik Jan Hoogeboom")
-* [Walter Kosters](Walter_Kosters "Walter Kosters")
-* [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven")
-* [Alex B. Meijer](index.php?title=Alex_B._Meijer&action=edit&redlink=1 "Alex B. Meijer (page does not exist)")
-* [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani")
-* [Aske Plaat](Aske_Plaat "Aske Plaat")
-* [Jan van Rijn](Jan_van_Rijn "Jan van Rijn")
-* [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)")
-* [Martin Schijf](index.php?title=Martin_Schijf&action=edit&redlink=1 "Martin Schijf (page does not exist)")
-* [Krzysztof Siewicz](index.php?title=Krzysztof_Siewicz&action=edit&redlink=1 "Krzysztof Siewicz (page does not exist)")
-* [Joaquin Vanschoren](index.php?title=Joaquin_Vanschoren&action=edit&redlink=1 "Joaquin Vanschoren (page does not exist)")
-* [Jonathan K. Vis](index.php?title=Jonathan_K._Vis&action=edit&redlink=1 "Jonathan K. Vis (page does not exist)")
-* [Alex de Voogt](Alex_de_Voogt "Alex de Voogt")
-* [Hui Wang](Hui_Wang "Hui Wang")
-
-
 ## Chess Programs and Authors
 
 

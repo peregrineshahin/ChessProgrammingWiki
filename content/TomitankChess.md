@@ -18,28 +18,6 @@ tomitankChess is available as [mobile app](https://en.wikipedia.org/wiki/Mobile_
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2017 ...](#2017-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

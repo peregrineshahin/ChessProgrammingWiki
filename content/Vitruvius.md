@@ -14,27 +14,6 @@ Vitruvius won the [3rd Italian Open Chess Software Cup 2012](IOCSC_2012 "IOCSC 2
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Deep Saros](Deep_Saros "Deep Saros")
-* [Elektro](Elektro "Elektro")
-* [Ippolit](Ippolit "Ippolit")
-* [IvanHoe](IvanHoe "IvanHoe")
-
-
 ## Forum Posts
 
 

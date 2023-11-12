@@ -13,28 +13,6 @@ His research interests include [data mining](https://en.wikipedia.org/wiki/Data_
 
 
 
-### Contents
-
-
-* [1 Move Choices](#move-choices)
-* [2 Modulo Bitboards](#modulo-bitboards)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1990 ...](#1990-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Along with [Judit Bar-Ilan](Judit_Bar-Ilan "Judit Bar-Ilan"), Mark Levene published on move choices of chess engines in particular of [Fritz](Fritz "Fritz") and [Junior](Junior "Junior") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
-and further compared typical opening move choices made by humans and engines using [nonparametric association measures](https://en.wikipedia.org/wiki/Non-parametric_statistics), a weighted version of [Spearman's rank correlation coefficients](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), and the [Jensen-Shannon divergence](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence) (JSD) nonparametric measure, which allows to measure the similarity between two distributions <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Modulo Bitboards
 
 

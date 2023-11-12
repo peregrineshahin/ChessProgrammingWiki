@@ -14,42 +14,6 @@ but negotiations between Rybka and Junior teams broke down due to disputes over 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Games](#games)
-	+ [2.1 Game 1](#game-1)
-	+ [2.2 Game 2](#game-2)
-	+ [2.3 Game 3](#game-3)
-	+ [2.4 Game 4](#game-4)
-	+ [2.5 Game 5](#game-5)
-	+ [2.6 Game 6](#game-6)
-	+ [2.7 Game 7](#game-7)
-	+ [2.8 Game 8](#game-8)
-	+ [2.9 Game 9](#game-9)
-	+ [2.10 Game 10](#game-10)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[](http://la-morsa.blogspot.com/2007/09/rybka-y-zappa-luchan-en-mxico.html)
-Start of [round 2](#game2), [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [Dagh Nielsen](index.php?title=Dagh_Nielsen&action=edit&redlink=1 "Dagh Nielsen (page does not exist)"), [Susan Polgar](https://en.wikipedia.org/wiki/Susan_Polgar), [David Levy](David_Levy "David Levy"), [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-[](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3)
-Final press conference, [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [David Levy](David_Levy "David Levy") and [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Games
 
 

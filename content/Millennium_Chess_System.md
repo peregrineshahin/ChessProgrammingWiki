@@ -13,30 +13,6 @@ The [Winboard](Chess_Engine_Communication_Protocol "Chess Engine Communication P
 
 
 
-### Contents
-
-
-* [1 Native Engines](#native-engines)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1998 ...](#1998-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chess Genius](Chess_Genius "Chess Genius") 6 and 6.5
-* [Nimzo 2000](Nimzo "Nimzo")
-* [Shredder](Shredder "Shredder") 3 and 4
-* [SOS 2000](SOS "SOS") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-* [WChess 2000](WChess "WChess")
-* [Zarkov](Zarkov "Zarkov") 5.0 and 5.01
-
-
 ## Selected Publications
 
 

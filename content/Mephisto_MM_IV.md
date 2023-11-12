@@ -14,27 +14,6 @@ Only H&G's intervention could retain their desired order <a id="cite-note-5" hre
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Mephisto MM II](Mephisto_MM_II "Mephisto MM II")
-* [Mephisto MM V](Mephisto_MM_V "Mephisto MM V")
-* [Mephisto Polgar](Mephisto_Polgar "Mephisto Polgar")
-* [Mephisto Rebell](Mephisto_Rebell "Mephisto Rebell")
-* [Mephisto RISC](Mephisto_RISC "Mephisto RISC")
-* [Rebel](Rebel "Rebel")
-
-
 ## Forum Posts
 
 

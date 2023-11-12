@@ -12,28 +12,6 @@ a Taiwanese computer scientist affiliated with the Computer Games and Intelligen
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Postings](#postings)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* [Ting-Fu Liao](Ting-Fu_Liao "Ting-Fu Liao"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Guan-Wun Chen](Guan-Wun_Chen "Guan-Wun Chen"), [Chung-Chin Shih](index.php?title=Chung-Chin_Shih&action=edit&redlink=1 "Chung-Chin Shih (page does not exist)"), [Po-Ya Kang](index.php?title=Po-Ya_Kang&action=edit&redlink=1 "Po-Ya Kang (page does not exist)"), [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang"), [Ting-Chu Ho](index.php?title=Ting-Chu_Ho&action=edit&redlink=1 "Ting-Chu Ho (page does not exist)"), Ti-Rong Wu (**2014**). *A Study of Software Framework for Parallel Monte Carlo Tree Search*. [GPW-2014](Conferences#GPW19 "Conferences")
-* Ti-Rong Wu, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Guan-Wun Chen](Guan-Wun_Chen "Guan-Wun Chen"), [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [Tung-Yi Lai](index.php?title=Tung-Yi_Lai&action=edit&redlink=1 "Tung-Yi Lai (page does not exist)"), [Hung-Chun Wu](index.php?title=Hung-Chun_Wu&action=edit&redlink=1 "Hung-Chun Wu (page does not exist)"), [Li-Cheng Lan](index.php?title=Li-Cheng_Lan&action=edit&redlink=1 "Li-Cheng Lan (page does not exist)") (**2017**). *Multi-Labelled Value Networks for Computer Go*. [arXiv:1705.10701](https://arxiv.org/abs/1705.10701)
-* [Hsiao-Chung Hsieh](index.php?title=Hsiao-Chung_Hsieh&action=edit&redlink=1 "Hsiao-Chung Hsieh (page does not exist)"), Ti-Rong Wu, [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu") (**2019**). *Net2Net Extension for the AlphaGo Zero Algorithm*. [Advances in Computer Games 16](Advances_in_Computer_Games_16 "Advances in Computer Games 16")
-
-
 ## Postings
 
 

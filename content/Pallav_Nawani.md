@@ -15,24 +15,6 @@ He is author of the [Chess Engine Communication Protocol](Chess_Engine_Communica
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [New chess engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46915) by Pallav Nawani, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 16, 2004
-* [Re: copying evaluation of other programs](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2456&p=11816#p11736) by Pallav Nawani, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 12, 2005
-* [Re: how much open source code did you read and understand?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2877&p=14199#p14199) by Pallav Nawani, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 30, 2005
-* [Re: Piece-list representation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3110&p=15091#p15091) by Pallav Nawani, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 17, 2005 » [Piece-Lists](Piece-Lists "Piece-Lists")
-
-
 ## External Links
 
 

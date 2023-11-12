@@ -16,27 +16,6 @@ and the [helpmate](https://en.wikipedia.org/wiki/Helpmate) [problem solving prog
 
 
 
-### Contents
-
-
-* [1 Selected Articles](#selected-articles)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2011](#2011)
-	+ [2.2 2012](#2012)
-	+ [2.3 2013](#2013)
-	+ [2.4 2014](#2014)
-	+ [2.5 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Jens Bæk Nielsen (**1988**). *Warum S e2? - Experimente mit dem Super C*. [Modul](Modul "Modul"), 1988, [part 1](http://www.jens-musik.dk/modul1.jpg), [part 2](http://www.jens-musik.dk/modul2.jpg), [part 3](http://www.jens-musik.dk/modul3.jpg) (German), revised and translated from [PLY](PLY_(Magazine) "PLY (Magazine)") 1/86 » [Super Constellation](Super_Constellation "Super Constellation")
-
-
 ## Forum Posts
 
 

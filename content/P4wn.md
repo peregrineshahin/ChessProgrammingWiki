@@ -17,23 +17,6 @@ p4wn plays by all the rules, though it never claims a [draw](Draw "Draw"), just 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [JSUCI 1.0 - connect javascript chess engines to UCI](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=51763) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 28, 2014 » [UCI](UCI "UCI")
-* [ChessGUI (current version) and JavaScript engines part I](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=64969) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), August 23, 2017 » [ChessGUI](ChessGUI "ChessGUI")
-* [Arena GUI and rules infraction by P4wn Chess - JSUCI](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=65667) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), November 08, 2017 » [Arena](Arena "Arena")
-
-
 ## External Links
 
 

@@ -15,62 +15,6 @@ This page gives a brief summary of the different types. SMP algorithms are class
 
 
 
-### Contents
-
-
-* [1 Distributed Search](#Distributed_Search)
-* [2 Shared Hash Table](#Shared_Hash_Table)
-	+ [2.1 Lazy SMP](#Lazy_SMP)
-	+ [2.2 ABDADA](#ABDADA)
-* [3 Parallel Alpha-Beta](#Parallel_Alpha-Beta)
-	+ [3.1 Principal Variation Splitting (PVS)](#Principal_Variation_Splitting_.28PVS.29)
-	+ [3.2 YBWC and Jamboree](#YBWC_and_Jamboree)
-	+ [3.3 Dynamic Tree Splitting (DTS)](#Dynamic_Tree_Splitting_.28DTS.29)
-* [4 Other Approaches](#Other_Approaches)
-* [5 Taxonomy](#Taxonomy)
-* [6 Other Considerations](#Other_Considerations)
-	+ [6.1 Memory Design](#Memory_Design)
-	+ [6.2 Semaphores](#Semaphores)
-	+ [6.3 Threads vs. Processes](#Threads_vs._Processes)
-* [7 Didactic Programs](#Didactic_Programs)
-* [8 See also](#See_also)
-* [9 Publications](#Publications)
-	+ [9.1 1950 ...](#1950_...)
-	+ [9.2 1970 ...](#1970_...)
-	+ [9.3 1980 ...](#1980_...)
-	+ [9.4 1985 ...](#1985_...)
-	+ [9.5 1990 ...](#1990_...)
-	+ [9.6 1995 ...](#1995_...)
-	+ [9.7 2000 ...](#2000_...)
-	+ [9.8 2005 ...](#2005_...)
-	+ [9.9 2010 ...](#2010_...)
-	+ [9.10 2015 ...](#2015_...)
-* [10 Forum Posts](#Forum_Posts)
-	+ [10.1 1995 ...](#1995_..._2)
-	+ [10.2 2000 ...](#2000_..._2)
-	+ [10.3 2005 ...](#2005_..._2)
-	+ [10.4 2010 ...](#2010_..._2)
-	+ [10.5 2015 ...](#2015_..._2)
-	+ [10.6 2020 ...](#2020_...)
-* [11 External Links](#External_Links)
-	+ [11.1 Parallel Search](#Parallel_Search)
-	+ [11.2 Parallel Computing](#Parallel_Computing)
-	+ [11.3 Scalability](#Scalability)
-	+ [11.4 Shared Memory](#Shared_Memory)
-	+ [11.5 Cache](#Cache)
-	+ [11.6 Concurrency and Synchronization](#Concurrency_and_Synchronization)
-	+ [11.7 Misc](#Misc)
-* [12 References](#References)
-
-
-
-
-
-
-A subtype of [parallel algorithms](https://en.wikipedia.org/wiki/Parallel_algorithm), [distributed algorithms](https://en.wikipedia.org/wiki/Distributed_algorithms) are algorithms designed to work in [cluster computing](https://en.wikipedia.org/wiki/Cluster_computing) and [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) environments, where additional concerns beyond the scope of "classical" parallel algorithms need to be addressed. 
-
-
-
 ## Shared Hash Table
 
 

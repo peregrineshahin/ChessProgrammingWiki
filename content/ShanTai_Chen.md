@@ -16,23 +16,6 @@ and more recently, on a [data mining](https://en.wikipedia.org/wiki/Data_mining)
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2004](#2004)
-	+ [1.2 2005 ...](#2005-...)
-* [2 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 2004
 
 

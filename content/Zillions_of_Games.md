@@ -12,53 +12,6 @@ a commercial [general game playing](General_Game_Playing "General Game Playing")
 
 
 
-### Contents
-
-
-* [1 Zillions Rules Language](#zillions-rules-language)
-* [2 Selected Games](#selected-games)
-	+ [2.1 Chess & Variants](#chess-.26-variants)
-	+ [2.2 Board Games](#board-games)
-	+ [2.3 Puzzles](#puzzles)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The game rules are specified by the Zillons rules language, persistant in [ASCII](https://en.wikipedia.org/wiki/ASCII) readable Zillion rules files with the extension **zrf** <a id="cite-note-3" href="#cite-ref-3">[3]</a>, based on [Lisp](index.php?title=Lisp&action=edit&redlink=1 "Lisp (page does not exist)") like [S-expressions](https://en.wikipedia.org/wiki/S-expression):
-
-
-
-
-```C++
-
-(game
-  (title "...") 
-  (players ...) ; up to 32
-  (turn-order ... )
-  (board .... )
-  (piece ... ; up to 32
-    (moves ...)
-  ) 
-  (board-setup ...)
-  (draw-condition ...)
-  (win-condition ...)
- )
-)
-(game ...)
-
-```
-
-Besides defining how pieces move, Zillions can define how pieces may be dropped. All piece and board graphics referred in the rule files, are required in Windows [BMP format](https://en.wikipedia.org/wiki/BMP_file_format).
-
-
-
 ## Selected Games
 
 

@@ -10,26 +10,6 @@ a [chess variant](Chess#Variants "Chess") in which the objective of each player 
 
 
 
-### Contents
-
-
-* [1 Solving](#solving)
-* [2 Engines](#engines)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Since late 2011 [Mark Watkins](Mark_Watkins "Mark Watkins") worked on his long-term goal to [weakly solve](https://en.wikipedia.org/wiki/Solved_game#Weak) the game of Losing Chess, presumably by showing that 1. e3 wins for White. As of summer 2014 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, leaving b6 and c5 as the remaining Black responses <a id="cite-note-3" href="#cite-ref-3">[3]</a>, all other responses to 1.e3 are indeed White wins, along with earlier work done by [Ben Nye](index.php?title=Ben_Nye&action=edit&redlink=1 "Ben Nye (page does not exist)") and others, as demonstrated by [Proof-Number Search](Proof-Number_Search "Proof-Number Search") combined with [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"). On February 02, 2015, 1. e3 c5 was announced solved, on October 10, 2016, 1. e3 b6, proving 1.e3 wins <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Engines
 
 

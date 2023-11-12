@@ -19,26 +19,6 @@ Kristallweizen may also used with *Dolphin*, also based on YaneuraOu's (version 
 
 
 
-### Contents
-
-
-* [1 Hefeweizen](#hefeweizen)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Shogi Engine](#shogi-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Kristallweizen's forerunner, the more unfiltered **Hefeweizen** uses an [Apery](Apery "Apery") type of KPP/KKP indexed [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables") approach, initially introduced by [Bonanza](Bonanza "Bonanza"). 
-Hefeweizen won the [WCSC28](index.php?title=WCSC28&action=edit&redlink=1 "WCSC28 (page does not exist)") in 2018, also on the [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud) with [multi ponder](Pondering "Pondering") <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
-
-
-
 ## Forum Posts
 
 

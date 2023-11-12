@@ -10,21 +10,6 @@ title: TRS80
 
 
 
-### Contents
-
-
-* [1 Display](#display)
-	+ [1.1 Layout of Characters and Pixels](#layout-of-characters-and-pixels)
-	+ [1.2 Chess Programs](#chess-programs)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Layout of Characters and Pixels
 
 

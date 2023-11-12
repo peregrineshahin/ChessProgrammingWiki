@@ -15,30 +15,6 @@ It is a comparatively weak engine, having a primary focus of being a reasonable 
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* [10x12 array](10x12_Board "10x12 Board") based board structure with [pseudo legal](Move_Generation#PseudoLegal "Move Generation") [move generation](Move_Generation "Move Generation")
-* [Alpha-beta search](Alpha-Beta "Alpha-Beta") with [iterative deepening](Iterative_Deepening "Iterative Deepening") and [limited quiesence](Quiescence_Search "Quiescence Search")
-* Simple [evaluation](Evaluation "Evaluation") including [material](Material "Material"), [game phase](Game_Phases "Game Phases") [piece-square tables](Piece-Square_Tables "Piece-Square Tables") and basic [endgame](Endgame "Endgame") knowledge
-
-
 ## Forum Posts
 
 

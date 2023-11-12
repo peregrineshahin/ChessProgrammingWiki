@@ -10,44 +10,6 @@ The **Principal variation** (PV) is a [sequence of moves](Move_List "Move List")
 
 
 
-### Contents
-
-
-* [1 Transposition Table](#transposition-table)
-* [2 Collection during search](#collection-during-search)
-	+ [2.1 Triangular PV-Table](#triangular-pv-table)
-	+ [2.2 PV-List on the Stack](#pv-list-on-the-stack)
-* [3 Separate PV TT](#separate-pv-tt)
-* [4 Multiple PVs](#multiple-pvs)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1995 ...](#1995-...)
-	+ [7.2 2000 ...](#2000-...)
-	+ [7.3 2005 ...](#2005-...)
-	+ [7.4 2010 ...](#2010-...)
-	+ [7.5 2015 ...](#2015-...)
-	+ [7.6 2020 ...](#2020-...)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-The [best moves](Best_Move "Best Move") from the [exact](Exact_Score "Exact Score") entries of the [Transposition table](Transposition_Table "Transposition Table") may reveal the PV without (much) extra effort.
-
-
-
-* **Pro**: implementation without extra effort
-* **Contra**: dependent on the replacement scheme, TT-overwrites may shorten the PV
-
-
-
-
-
-
 ## Collection during search
 
 

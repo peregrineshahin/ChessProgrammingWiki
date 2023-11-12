@@ -8,48 +8,6 @@ The **PCW Microcomputer Chess Championship** was held six times from 1978 to 198
 
 
 
-### Contents
-
-
-* [1 Editions](#editions)
-* [2 Recruiting Ground](#recruiting-ground)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-
-
-|  Edition
- |  Event
- |  Participants
- |  Champion
- |
-| --- | --- | --- | --- |
-|  1st
- | [PCW-MCC 1978](PCW-MCC_1978 "PCW-MCC 1978") |  6
- | [Mike](Mike "Mike") |
-|  2nd
- | [PCW-MCC 1979](PCW-MCC_1979 "PCW-MCC 1979") |  9
- | [Sargon](Sargon "Sargon") |
-|  3rd
- | [PCW-MCC 1980](WMCCC_1980 "WMCCC 1980") |  14
- | [Chess Challenger](Chess_Challenger "Chess Challenger") |
-|  4th
- | [PCW-MCC 1981](European_MCC_1981 "European MCC 1981") |  12
- | [Cyrus](Cyrus "Cyrus") |
-|  5th
- | [PCW-MCC 1982](European_MCC_1982 "European MCC 1982") |  12
- | [Advance 2.4](Advance "Advance") |
-|  6th
- | [PCW-MCC 1983](European_MCC_1983 "European MCC 1983") |  14
- | [Advance 3.0](Advance "Advance") |
-
-
 ## Recruiting Ground
 
 

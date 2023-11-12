@@ -11,33 +11,6 @@ Yace is famous for its enormous [endgame](Endgame "Endgame") [knowledge](Knowled
 
 
 
-### Contents
-
-
-* [1 Learning](#learning)
-* [2 Search Tuning](#search-tuning)
-* [3 Tablebases](#tablebases)
-* [4 Tournament Play](#tournament-play)
-* [5 Photos & Games](#photos-.26-games)
-	+ [5.1 IPCCC 2001](#ipccc-2001)
-	+ [5.2 IPCCC 2003](#ipccc-2003)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2000 ...](#2000-...)
-	+ [6.2 2005 ...](#2005-...)
-	+ [6.3 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Within its [positional learning](Learning#Learning_inside_a_Chess_Program "Learning"), Yace stores positions inside a text file when a significant score drop occurs some moves after leaving the [opening book](Opening_Book "Opening Book"). It tries to avoid these positions in games played later, preparing the [search](Search "Search").
-Additionally, since version 0.99.50 in June 2001 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Yace also features [Book Learning](Book_Learning "Book Learning").
-
-
-
 ## Search Tuning
 
 

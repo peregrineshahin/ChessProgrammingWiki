@@ -12,37 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Schooner 2](#schooner-2)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-	+ [2.4 Misc](#misc)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2015](#2015)
-	+ [4.2 2016 ...](#2016-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc-2)
-* [6 References](#references)
-
-
-
-
-
-
-Schooner **2** (Schooner II), released in October 2018 was a complete re-write in [C](C "C") with a huge performance boost of over 500 [CCRL 40/4](CCRL "CCRL") rating points <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-[Staged move generation](Move_Generation#Staged "Move Generation") and a simpler [evaluation](Evaluation "Evaluation") inspired by [Xiphos](Xiphos "Xiphos") <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
-a lot of [testing](Engine_Testing "Engine Testing") and [tuning](Automated_Tuning "Automated Tuning") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and 
-using [GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) v7.2.0 were explicitly mentioned as a possible explanation for that improvement <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-Schooner 2 further supports a subset of [UCI](UCI "UCI") to automatically play games without [pondering](Pondering "Pondering").
-
-
-
 ## Features
 
 

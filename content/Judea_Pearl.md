@@ -12,30 +12,6 @@ an Israeli American computer scientist and pioneer in [artificial intelligence](
 
 
 
-### Contents
-
-
-* [1 Scout](#scout)
-* [2 Biography](#biography)
-* [3 Awards](#awards)
-* [4 Daniel Pearl](#daniel-pearl)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1980 ...](#1980-...)
-	+ [5.2 1990 ...](#1990-...)
-	+ [5.3 2000 ...](#2000-...)
-	+ [5.4 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-In 1980 Judea Pearl researched on search algorithms and introduced the concept of [Null Window](Null_Window "Null Window") [Alpha-Beta](Alpha-Beta "Alpha-Beta") search with the boolean ­procedure TEST of the [Scout Algorithm](Scout "Scout"), which was the foundation of [NegaScout](NegaScout "NegaScout"), [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), [NegaC\*](NegaC* "NegaC*") and [MTD(f)](MTD(f) "MTD(f)"). 
-
-
-
 ## Biography
 
 

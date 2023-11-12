@@ -12,22 +12,6 @@ a commercial chess program released in 1984 for the [ZX Spectrum](ZX_Spectrum "Z
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Turbo Chess](Turbo_Chess "Turbo Chess") by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen")
-
-
 ## See also
 
 

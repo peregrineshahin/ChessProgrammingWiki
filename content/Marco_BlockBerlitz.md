@@ -13,26 +13,6 @@ He is member of the Artificial Intelligence Group <a id="cite-note-2" href="#cit
 
 
 
-### Contents
-
-
-* [1 Archaeonautic](#archaeonautic)
-* [2 FUSc#](#fusc.23)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2003 ...](#2003-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Marco Block-Berlitz' current research interests is in [computer vision](https://en.wikipedia.org/wiki/Computer_vision) and [computational archaeology](https://en.wikipedia.org/wiki/Computational_archaeology), in particular using [UAVs](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) equipped with [video cameras](https://en.wikipedia.org/wiki/Video_camera) and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") in [cultural heritage management](https://en.wikipedia.org/wiki/Cultural_heritage_management) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## FUSc#
 
 

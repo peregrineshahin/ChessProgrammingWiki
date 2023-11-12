@@ -17,30 +17,6 @@ So then, a specific proposal is take a number of "control" engines (say 10), and
 
 
 
-### Contents
-
-
-* [1 Whether this process is useful](#whether-this-process-is-useful)
-* [2 Choice of engines](#choice-of-engines)
-* [3 How to enumerate features](#how-to-enumerate-features)
-* [4 How to compare features](#how-to-compare-features)
-* [5 See also](#see-also)
-
-
-
-
-
-
-Before embarking on such an endeavor it seems wise to discuss its scope and applicability.
-
-
-For instance, one argument is that the choice of evaluation features, even when quite specific, is at best no more important than the weighting of such features. Other arguments might involve whether "evaluation features" can really be measured in any quasi-precise sense. I think that **now** is the time to raise/discuss any such issues, prior to any of the gruntwork being done.
-
-
-I explain the proposed methodology below, and I hope it sounds sufficiently close to "scientific" that the methodology itself would not *ex post facto* come under attack.
-
-
-
 ## Choice of engines
 
 

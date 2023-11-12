@@ -17,25 +17,6 @@ In 2001, Thomas A. Throop, Senior passed along the role of managing the company 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1960 ...](#1960-...)
-	+ [1.2 1980 ...](#1980-...)
-	+ [1.3 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ### 1960 ...
 
 

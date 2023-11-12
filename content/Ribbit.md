@@ -12,33 +12,6 @@ a computer chess program written at the [University of Waterloo](University_of_W
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 See also](#see-also)
-* [3 Photos](#photos)
-* [4 Quotes](#quotes)
-	+ [4.1 Jonathan Schaeffer](#jonathan-schaeffer)
-	+ [4.2 Alejandro López-Ortiz](#alejandro-l.c3.b3pez-ortiz)
-	+ [4.3 George Atkinson](#george-atkinson)
-* [5 Games vs Chess](#games-vs-chess)
-	+ [5.1 WCCC 1974](#wccc-1974)
-	+ [5.2 ACM 1974](#acm-1974)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [Gary Calnek](Gary_Calnek "Gary Calnek")
-* [Russell Crook](Russell_Crook "Russell Crook")
-* [Ron Hansen](Ron_Hansen "Ron Hansen")
-* [Jim Parry](Jim_Parry "Jim Parry")
-
-
 ## See also
 
 

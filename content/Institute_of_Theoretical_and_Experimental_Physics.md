@@ -12,31 +12,6 @@ the Institute of Theoretical and Experimental Physics (ITEP or ITEF), located in
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Program](#chess-program)
-* [3 Matches](#matches)
-* [4 Photos](#photos)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky")
-* [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov")
-* [Alexander Bitman](Alexander_Bitman "Alexander Bitman")
-* [Alexander Brudno](Alexander_Brudno "Alexander Brudno")
-* [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy")
-* [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod")
-* [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov")
-* [Alexander Zhivotovsky](Alexander_Zhivotovsky "Alexander Zhivotovsky")
-
-
 ## Chess Program
 
 

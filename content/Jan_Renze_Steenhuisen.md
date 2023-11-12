@@ -14,34 +14,6 @@ His 2005 Master's thesis was about [Parallel Search](Parallel_Search "Parallel S
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2003](#2003)
-	+ [2.2 2004](#2004)
-	+ [2.3 2005](#2005)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Jan Renze Steenhuisen (**2003**). *Report on the 10th Advances in Computer Games Conference*. [ICGA Journal, Vol. 26, No. 4](ICGA_Journal#26_4 "ICGA Journal") » [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10")
-* Jan Renze Steenhuisen (**2005**). *New Results in Deep-Search Behaviour*. [ICGA Journal, Vol. 28, No. 4](ICGA_Journal#28_4 "ICGA Journal"), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.104.9527)
-* Jan Renze Steenhuisen (**2005**). *Transposition-Driven Scheduling in Parallel Two-Player State-Space Search*. Master's thesis, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.96.174)
-* Jan Renze Steenhuisen, [Cees Witteveen](https://dblp.uni-trier.de/pers/hd/w/Witteveen:Cees), [Yingqian Zhan](https://dblp.uni-trier.de/pers/hd/z/Zhang:Yingqian) (**2007**). *[Plan-Coordination Mechanisms and the Price of Autonomy](https://link.springer.com/chapter/10.1007/978-3-540-88833-8_1)*. [CLIMA VIII](https://dblp.uni-trier.de/db/conf/clima/clima2007.html), Invited Paper
-* Jan Renze Steenhuisen, [Cees Witteveen](https://dblp.uni-trier.de/pers/hd/w/Witteveen:Cees) (**2009**). *[Plan decoupling of agents with qualitatively constrained task](https://content.iospress.com/articles/multiagent-and-grid-systems/mgs00138)*. [Multiagent and Grid Systems](https://www.iospress.nl/journal/multiagent-and-grid-systems/), Vol. 5, No. 4
-* Jan Renze Steenhuisen (**2013**). *Coordinated Multi-Agent Planning and Scheduling*. Ph.D. thesis, [TU Delft](Delft_University_of_Technology "Delft University of Technology")
-
-
 ## Forum Posts
 
 

@@ -10,60 +10,6 @@ Because finding or guessing a [good move](Best_Move "Best Move") in a [chess pos
 
 
 
-### Contents
-
-
-* [1 Shannon's Types](#Shannon.27s_Types)
-* [2 The Search Tree](#The_Search_Tree)
-* [3 Search Algorithms](#Search_Algorithms)
-	+ [3.1 Depth-First Search](#Depth-First_Search)
-	+ [3.2 Alpha-Beta Enhancements](#Alpha-Beta_Enhancements)
-		- [3.2.1 Obligatory](#Obligatory)
-		- [3.2.2 Selectivity](#Selectivity)
-		- [3.2.3 Scout and Friends](#Scout_and_Friends)
-		- [3.2.4 Alpha-Beta goes Best-First](#Alpha-Beta_goes_Best-First)
-	+ [3.3 Best-First Search](#Best-First_Search)
-* [4 Opponent Model](#Opponent_Model)
-* [5 Parallel Search](#Parallel_Search)
-* [6 Using Time](#Using_Time)
-* [7 Related Issues](#Related_Issues)
-* [8 See also](#See_also)
-* [9 Publications](#Publications)
-	+ [9.1 1960 ...](#1960_...)
-	+ [9.2 1970 ...](#1970_...)
-	+ [9.3 1980 ...](#1980_...)
-	+ [9.4 1990 ...](#1990_...)
-	+ [9.5 2000 ...](#2000_...)
-	+ [9.6 2010 ...](#2010_...)
-	+ [9.7 2015 ...](#2015_...)
-	+ [9.8 2020 ...](#2020_...)
-* [10 Forum Posts](#Forum_Posts)
-	+ [10.1 1999](#1999)
-	+ [10.2 2000 ...](#2000_..._2)
-	+ [10.3 2005 ...](#2005_...)
-	+ [10.4 2010 ...](#2010_..._2)
-	+ [10.5 2015 ...](#2015_..._2)
-	+ [10.6 2020 ...](#2020_..._2)
-* [11 External Links](#External_Links)
-* [12 References](#References)
-
-
-
-
-
-
-[Claude Shannon](Claude_Shannon "Claude Shannon") categorized searches into two types [[2]](#cite_note-2) :
-
-
-
-* [Type A](Type_A_Strategy "Type A Strategy") - a [brute-force search](Brute-Force "Brute-Force") looking at every variation to a given [depth](Depth "Depth")
-* [Type B](Type_B_Strategy "Type B Strategy") - a [selective search](Selectivity "Selectivity") looking at "important" branches only
-
-
-Inspired by the experiments of [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") [[3]](#cite_note-3) , Shannon and early programmers favored Type B strategy. Type B searches use some type of static heuristics in order to only look at branches that look important - with some risk to oversee some serious tactics not covered by the plausible move selector. Type B was most popular until the 1970's, when Type A programs had enough processing power and more efficient brute force algorithms to become stronger. Today most programs are closer to Type A, but have some characteristics of a Type B as mentioned in [selectivity](Selectivity "Selectivity").
-
-
-
 ## The Search Tree
 
 

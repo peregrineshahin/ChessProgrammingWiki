@@ -12,30 +12,6 @@ an American [psychologist](Category:Psychologist "Category:Psychologist"), compu
 
 
 
-### Contents
-
-
-* [1 Brute-force and AI](#brute-force-and-ai)
-* [2 Chess 0.5](#chess-0.5)
-* [3 Odin](#odin)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1976 ...](#1976-...)
-	+ [5.2 1980 ...](#1980-...)
-	+ [5.3 1990 ...](#1990-...)
-	+ [5.4 2000 ...](#2000-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-During the 70s and 80s, Peter W. Frey researched and wrote on computer chess with further impact on the development. In disagreement with the AI-establishment and their decreasing interest in ([brute force](Brute-Force "Brute-Force")) computer chess as the former [Drosophila](https://en.wikipedia.org/wiki/Drosophila) of [AI](Artificial_Intelligence "Artificial Intelligence") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and unlike perhaps his colleagues [De Groot](Adriaan_de_Groot "Adriaan de Groot") and [Gobet](Fernand_Gobet "Fernand Gobet"), he was an advocate of brute force [Shannon Type-A](Type_A_Strategy "Type A Strategy") programs. His suggestion to [Slate](David_Slate "David Slate") and [Atkin](Larry_Atkin "Larry Atkin") triggered some thoughts on the matter, and as a result they dumped selective searching in 1973 in favor of full-width searching in [Chess 4.0](Chess_(Program) "Chess (Program)") <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-
 ## Chess 0.5
 
 

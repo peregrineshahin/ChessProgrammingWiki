@@ -14,26 +14,6 @@ Along with his twin brother [Munjong](Munjong_Kolss "Munjong Kolss"), Muntsin is
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2004 ...](#2004-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:MuntsinMunjongKolss2006.JPG) 
-Muntsin and [Munjong Kolss](Munjong_Kolss "Munjong Kolss"), [WCCC 2006](WCCC_2006 "WCCC 2006") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Publications
 
 

@@ -12,27 +12,6 @@ prior to 1983 labeled the *VEB Funkwerk Erfurt*, was a [people-owned enterprise]
 
 
 
-### Contents
-
-
-* [1 Chess Computers](#chess-computers)
-* [2 Photos](#photos)
-	+ [2.1 Erfurt Computer Chess Team](#erfurt-computer-chess-team)
-	+ [2.2 Honorary names](#honorary-names)
-	+ [2.3 U80701](#u80701)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In the 80s *VEB Funkwerk Erfurt* and *VEB Mikroelektronik Erfurt* manufactured various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") based on their own produced [Z80](Z80 "Z80") clone [U880](https://en.wikipedia.org/wiki/U880) <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>, notably the [SC 1](SC_1 "SC 1") and [SC 2](SC_2 "SC 2"), which in turn were [clones](Category:Clone "Category:Clone") <a id="cite-note-7" href="#cite-ref-7">[7]</a> of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Chess Challenger](Chess_Challenger "Chess Challenger") programs, manufactured by [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"), and since 1983/84 the [Chess-Master](Chess-Master "Chess-Master") models with programs by [Dieter Schultze](Dieter_Schultze "Dieter Schultze"), [Rüdiger Worbs](R%C3%BCdiger_Worbs "Rüdiger Worbs") and [Wolfgang Pähtz](Wolfgang_P%C3%A4htz "Wolfgang Pähtz"). However, Chess-Master was a clone of the [Sargon 2.5](Chafitz_ARB_Sargon_2.5 "Chafitz ARB Sargon 2.5") [6502](6502 "6502") program by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Photos
 
 

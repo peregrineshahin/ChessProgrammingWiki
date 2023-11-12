@@ -11,24 +11,6 @@ Smith co-authored with [Don Beal](Don_Beal "Don Beal") on various computer chess
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1994](#1994)
-	+ [1.2 199´5 ...](#199.c2.b45-...)
-	+ [1.3 2000 ...](#2000-...)
-* [2 References](#references)
-
-
-
-
-
-
-<a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 1994
 
 

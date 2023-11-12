@@ -17,30 +17,6 @@ Krakauer maintaines a blog with interesting stories about chess, Mac Hack IV, th
 
 
 
-### Contents
-
-
-* [1 Mac Hack VI GUI](#mac-hack-vi-gui)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-	+ [3.1 Chess](#chess)
-	+ [3.2 PDP-6](#pdp-6)
-	+ [3.3 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-
-
-|  |  |  |
-| --- | --- | --- |
-| [Machackdisplay02.jpg](http://ljkrakauer.com/LJK/60s/resign.htm) |  | [Dec340b.jpg](http://ljkrakauer.com/LJK/60s/chess1.htm) |
-| [Mac Hack VI](Mac_Hack "Mac Hack") [GUI](GUI "GUI") ... <a id="cite-note-7" href="#cite-ref-7">[7]</a> |  |  ... for the DEC 340 display <a id="cite-note-8" href="#cite-ref-8">[8]</a> |
-
-
 ## Publications
 
 

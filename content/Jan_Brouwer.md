@@ -13,20 +13,6 @@ calculated the relative [jump](https://en.wikipedia.org/wiki/Branch_(computer_sc
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2007 ...](#2007-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2007 ...
 
 

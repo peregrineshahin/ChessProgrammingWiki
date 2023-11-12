@@ -10,56 +10,6 @@ Chess programs often look up the positions at the [beginning of the game](Openin
 
 
 
-### Contents
-
-
-* [1 Purposes](#Purposes)
-* [2 Types](#Types)
-	+ [2.1 Text](#Text)
-	+ [2.2 Binary](#Binary)
-* [3 Generation](#Generation)
-	+ [3.1 Handcrafted](#Handcrafted)
-	+ [3.2 From game collection](#From_game_collection)
-	+ [3.3 By computing](#By_computing)
-* [4 Book Building Tools](#Book_Building_Tools)
-* [5 Book Playing](#Book_Playing)
-* [6 Quotes](#Quotes)
-* [7 Formats](#Formats)
-* [8 Classification of Chess Openings](#Classification_of_Chess_Openings)
-* [9 Book Issues](#Book_Issues)
-* [10 See also](#See_also)
-* [11 Selected Publications](#Selected_Publications)
-	+ [11.1 1974 ...](#1974_...)
-	+ [11.2 1980 ...](#1980_...)
-	+ [11.3 1990 ...](#1990_...)
-	+ [11.4 2000 ...](#2000_...)
-	+ [11.5 2005 ...](#2005_...)
-	+ [11.6 2010 ...](#2010_...)
-	+ [11.7 2015 ...](#2015_...)
-* [12 Forum Posts](#Forum_Posts)
-	+ [12.1 1990 ...](#1990_..._2)
-	+ [12.2 1995 ...](#1995_...)
-	+ [12.3 2000 ...](#2000_..._2)
-	+ [12.4 2005 ...](#2005_..._2)
-	+ [12.5 2010 ...](#2010_..._2)
-	+ [12.6 2015 ...](#2015_..._2)
-	+ [12.7 2020 ...](#2020_...)
-* [13 External Links](#External_Links)
-	+ [13.1 Engine Books](#Engine_Books)
-	+ [13.2 Online Opening Tree](#Online_Opening_Tree)
-	+ [13.3 Misc](#Misc)
-* [14 References](#References)
-
-
-
-
-
-
-* Save time: Chess programs could use [search](Search "Search") from the beginning and look through all possible continuations in detail to find the best next move, but as this is quite time-consuming. In contrast, opening books can play opening moves almost instantly without searching nor heavy computing and help to save time.
-* Provide a higher quality of play: Searching even with large depths can't see deep tactics, strategy, compensation. It may lose temporarily material for long term advantage.
-* Provide variety: there already exists a lot of [literature](https://en.wikipedia.org/wiki/Chess_opening_book_%28literature%29) about different opening lines. As book moves can be chosen [randomly](Pseudorandom_Number_Generator "Pseudorandom Number Generator"), whereas searches are more or less deterministic.
-
-
 ## Types
 
 

@@ -10,25 +10,6 @@ a Belgian computer scientist <a id="cite-note-1" href="#cite-ref-1">[1]</a>, com
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/ict4tour.html) 
-[ICT 2004](ICT_2004 "ICT 2004") winners: [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") ([Hydra](Hydra "Hydra") 2nd), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") ([Shredder](Shredder "Shredder") 1st),  
-Johan Havegheer ([Ruffian](Ruffian "Ruffian") 3rd), [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") ([Diep](Diep "Diep") 3rd) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Forum Posts
 
 

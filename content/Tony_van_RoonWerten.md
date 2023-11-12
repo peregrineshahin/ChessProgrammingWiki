@@ -16,24 +16,6 @@ a Dutch computer scientist, application manager and chess programmer. Tony is au
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/gallery17.html) 
-[ICT 2002](ICT_2002 "ICT 2002"): [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), Tony van Roon-Werten ([XiniX](XiniX "XiniX"): 6th!), [Elke van Roon](Elke_van_Roon "Elke van Roon") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Forum Posts
 
 

@@ -15,46 +15,6 @@ The computer's name apparently was devoted to [strongman](https://en.wikipedia.o
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Aegon 1994](Aegon_1994 "Aegon 1994"), Round 4, [Ada van der Giessen](https://nl.wikipedia.org/wiki/Ada_van_der_Giessen) - Milobarus <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```
-
-[Event "Aegon 1994"]
-[Site "The Hague NED"]
-[Date "1994.05.04"]
-[Round "?"]
-[White "Ada van der Giessen"]
-[Black "Milobarus"]
-[Result "1/2-1/2"]
-
-1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.f4 Bb4+ 5.c3 Bd6 6.fxe5 Bxe5 7.Nf3 Bc7 8.Bg5 h6
-9.Bh4 g5 10.Bf2 d5 11.exd5 Qe7+ 12.Qe2 Qxe2+ 13.Kxe2 cxd5 14.Bb3 Nc6 15.Na3 
-O-O 16.Rae1 Bg4 17.h3 Rae8+ 18.Kd2 Bxf3 19.gxf3 Bf4+ 20.Kc2 Rxe1 21.Rxe1 Rc8 
-22.Kd1 Kg7 23.Nb5 a6 24.Nd4 Kg6 25.Bc2 Nxd4 26.Bxd4 Bg3 27.Re2 Nh5 28.Be5 Bf4 
-29.d4+ f5 30.Bxf4 Nxf4 31.Re7 b5 32.Rd7 Rf8 33.Bb3 Nxh3 34.Bxd5 Nf4 35.Bb7 Rf6 
-36.d5 Nd3 37.Rc7 Nxb2+ 38.Ke2 g4 39.Rc6 gxf3+ 40.Kxf3 a5 41.Ba6 Nc4 42.Rxf6+ 
-Kxf6 43.Bxb5 Nd6 44.Bd3 Ke5 45.c4 Kd4 46.Bf1 h5 47.Kg3 a4 48.Kh4 f4 49.Kxh5 f3 
-50.Kg4 f2 51.Kf3 Nxc4 52.Bxc4 Kxc4 1/2-1/2
-
-```
-
 ## See also
 
 

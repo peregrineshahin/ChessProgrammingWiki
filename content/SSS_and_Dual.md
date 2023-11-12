@@ -18,68 +18,6 @@ However, it turned out the algorithmic overhead was too big to pay off the saved
 
 
 
-### Contents
-
-
-* [1 SSS\*](#sss.2a)
-	+ [1.1 Pseudo C-Code](#pseudo-c-code)
-* [2 Dual\*](#dual.2a)
-* [3 RecSSS\* and RecDual\*](#recsss.2a-and-recdual.2a)
-	+ [3.1 Pseudo C-Code](#pseudo-c-code-2)
-* [4 SSS\* and Dual\* as MT](#sss.2a-and-dual.2a-as-mt)
-	+ [4.1 Pseudo C-Code](#pseudo-c-code-3)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-	+ [6.1 1979](#1979)
-	+ [6.2 1980 ...](#1980-...)
-	+ [6.3 1990 ...](#1990-...)
-	+ [6.4 2000 ...](#2000-...)
-	+ [6.5 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-[Aske Plaat](Aske_Plaat "Aske Plaat") et al. about **SSS**\*:
-
-
-
-
-```C++
-In 1979 Stockman introduced SSS*, which looked like a radically different approach from Alpha-Beta for searching fixed-depth minimax trees. It builds a tree in a so-called best-first fashion by visiting the most promising nodes first. Alpha-Beta, in contrast, uses a depth-first, left-to-right traversal of the tree. Intuitively, it would seem that a best-first strategy should prevail over a rigidly ordered depth-first one. Stockman proved that SSS* dominated Alpha-Beta; it would never evaluate more leaf nodes than Alpha-Beta. Numerous simulations have shown that on average SSS* evaluates considerably fewer leaf nodes. Why, then, has the algorithm been shunned by practitioners?
-
-```
-
-[Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") has a good answer, and explanation of **SSS**\* in his Lecture <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
-
-
-
-
-```C++
-SSS* maintains an OPEN list with descriptors of the active nodes. Descriptors are sorted in decreasing order of their merit (h values). A **descriptor (n, s, h)** consists of
-
-```
-
-* `a node identifier` **n**
-* `a status` **s**
-	+ `LIVE: n is still unexpanded and h is an upper bound on the true value`
-	+ `SOLVED: h is the true value`
-* `a merit` **h**
-
-
-
-```C++
-**SSS\*'s** two search phases:
-
-```
-
-1. `Node Expansion Phase: Top down expansion of a MIN strategy.`
-2. `Solution Phase: Bottom up search for the best MAX strategy.`
-
-
 ### Pseudo C-Code
 
 

@@ -13,45 +13,6 @@ Jupiter participated at the [First Spanish Computer Chess Championship](SCCC_199
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[SCCC 1993](SCCC_1993 "SCCC 1993"), Jupiter- [Killer](Killer "Killer") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```
-
-[Event "SCCC 1993"]
-[Site "Barcelona"]
-[Date "1993.10.??"]
-[Round "?"]
-[White "Jupiter"]
-[Black "Killer"]
-[Result "0-1"]
-
-1.e4 d5 2.exd5 Qxd5 3.Nc3 Qe6+ 4.Nge2 Nf6 5.d4 Qb6 6.Bf4 Bf5 7.Rc1 Qxb2 8.Bxc7 Nc6 
-9.Rb1 Qxc2 10.Qxc2 Bxc2 11.Rxb7 e6 12.Nf4 Bb4 13.Rxb4 Nxb4 14.Bc4 g5 15.Be5 gxf4 
-16.a3 Nd3+ 17.Bxd3 Bxd3 18.Bxf6 Rg8 19.Kd2 Bf5 20.Rg1 f3 21.g3 a5 22.Ke3 Rg6 23.Be5 
-f6 24.Bf4 O-O-O 25.Ne4 Bxe4 26.Kxe4 h5 27.Be3 e5 28.dxe5 fxe5 29.Re1 Rf8 30.h3 a4 
-31.Bc5 Rf7 32.Kd5 Rd7+ 33.Ke4 Rc7 34.Kd5 e4 35.Bd4 Rd7+ 36.Kxe4 Re6+ 37.Be5 Rxe5+
-38.Kxe5 Re7+ 39.Kd4 Rxe1 40.Kc4 Kd7 41.Kc5 Rb1 42.Kd5 Rb3 43.g4 hxg4 44.hxg4 Rxa3 
-45.Kc5 Rb3 46.Kc4 Kd6 47.g5 Ke5 48.g6 Kf6 49.g7 Kxg7 50.Kc5 a3 51.Kc4 Rb1 52.Kc5 a2 
-53.Kc4 a1=Q 54.Kc5 Qc3+ 55.Kd5 Rd1+ 0-1
-
-```
-
 ## See also
 
 

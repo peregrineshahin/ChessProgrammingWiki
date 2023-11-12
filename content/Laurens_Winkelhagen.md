@@ -13,28 +13,6 @@ As computer chess programmer, Laurens Winkelhagen is author of the chess engines
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2004 ...](#2004-...)
-	+ [2.2 2018 ...](#2018-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Laurens Winkelhagen, [Mehdi Dastani](https://scholar.google.co.uk/citations?user=rvG4n98AAAAJ&hl=en), [Jan Broersen](https://scholar.google.com/citations?user=6AUsknwAAAAJ&hl=en) (**2005**). *[Beliefs in Agent Implementation](https://link.springer.com/chapter/10.1007/11691792_1)*. [DALT 2005](https://dblp.uni-trier.de/db/conf/dalt/dalt2005.html)
-
-
 ## Forum Posts
 
 

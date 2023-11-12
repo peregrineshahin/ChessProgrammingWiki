@@ -12,36 +12,6 @@ the [University of Southern California](University_of_Southern_California "Unive
 
 
 
-### Contents
-
-
-* [1 The USC Chess Program](#the-usc-chess-program)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-Abstract from *The USC chess program*, 1973 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```C++
-Much attention has been given recently to the “linguistic” approach to [pattern recognition](Pattern_Recognition "Pattern Recognition"). The basics ingredients of this approach are a set of primitive picture parts and a grammar whose rules compose the primitive parts into a class of pictures. 
-
-```
-
-
-```C++
-The basic idea of linguistic pattern recognition is to generalize string grammars to two dimensions. This requires a generalization of “concatenation” to two dimensions. Several applications have resulted from the definition of simple picture grammars. This field should properly be called structural pattern recognition since its basic goal is to study the processing of the structure of pictures. From this viewpoint, one may ask whether simple grammars and the present concatenation schemes are adequate for the processing of complex scenes, or whether other approaches should be sought. These questions may be answered in the affirmative by considering the case of chess. The structure of a chessboard appears to be incredibly complex, yet humans seem to recognize familiar situations by means of structural organization of the board. Thus, chess seems to be an ideal paradigm case for complex structural pattern recognition. The USC chess program was produced from these studies. The remainder of this report will give a brief description of the chess program itself. 
-
-```
-
 ## See also
 
 

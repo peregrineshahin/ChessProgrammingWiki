@@ -16,28 +16,6 @@ also affiliated with the *Inside Chess* project focusing on [web development](ht
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Quark and Leiden](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=33797) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 18, 2001 » [ICT 2001](ICT_2001 "ICT 2001"), [Quark](Quark "Quark")
-* [Futility + WAC](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34982) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2001 » [Futility Pruning](Futility_Pruning "Futility Pruning"), [Win at Chess](Win_at_Chess "Win at Chess")
-* [wacnew.epd & single search improvements](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43019) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 16, 2003
-* [wacnew.epd & single search improvements (nullmove)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43033) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 17, 2003 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
-* [wacnew.epd & single search improvements (extensions)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43060) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 19, 2003 » [Extensions](Extensions "Extensions"), [Win at Chess](Win_at_Chess "Win at Chess") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* [Testposition of Matador-Alarm CCT6](https://www.stmintz.com/ccc/index.php?id=346731) by Stefan Knappe, [CCC](CCC "CCC"), February 03, 2004 » [CCT6](CCT6 "CCT6")
-* [Re: Beowulf curve calibration results for depth = 5 plies](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47806&start=1) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 08, 2004 » [Beowulf](Beowulf "Beowulf")
-* [Polyglot & log-file](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=1610) by Stefan Knappe, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 10, 2005
-
-
 ## External Links
 
 

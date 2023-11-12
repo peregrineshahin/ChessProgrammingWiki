@@ -10,33 +10,6 @@ title: JAIST
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Events](#events)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Alessandro Cincotti](index.php?title=Alessandro_Cincotti&action=edit&redlink=1 "Alessandro Cincotti (page does not exist)")
-* [Junichi Hashimoto](Junichi_Hashimoto "Junichi Hashimoto")
-* [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto")
-* [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida")
-* [Kokolo Ikeda](Kokolo_Ikeda "Kokolo Ikeda")
-* [Taichi Ishitobi](index.php?title=Taichi_Ishitobi&action=edit&redlink=1 "Taichi Ishitobi (page does not exist)")
-* [Julien Kloetzer](index.php?title=Julien_Kloetzer&action=edit&redlink=1 "Julien Kloetzer (page does not exist)")
-* [Jun Nagashima](Jun_Nagashima "Jun Nagashima")
-* [Toru Ueda](index.php?title=Toru_Ueda&action=edit&redlink=1 "Toru Ueda (page does not exist)")
-* [Takanari Shishido](index.php?title=Takanari_Shishido&action=edit&redlink=1 "Takanari Shishido (page does not exist)")
-* [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka")
-* [Simon Viennot](Simon_Viennot "Simon Viennot")
-
-
 ## Events
 
 

@@ -12,22 +12,6 @@ was the first complete chess program, developed around [1957](Timeline#1957 "Tim
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 McCorduck](#mccorduck)
-	+ [1.2 McCarthy](#mccarthy)
-* [2 Shannon Type B](#shannon-type-b)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### McCorduck
 
 

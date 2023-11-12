@@ -12,24 +12,6 @@ He is further author of the [PC](IBM_PC "IBM PC") chess program [EGA Chess](EGA_
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:USOCCC88SamoleLank.jpg) 
-[USOCCC 1988](USOCCC_1988 "USOCCC 1988"): [Sidney Samole](Sidney_Samole "Sidney Samole") and Lloyd L. Lank in [Excel Mach III](Excel "Excel") vs. [EGA Chess](EGA_Chess "EGA Chess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Chess Programs
 
 

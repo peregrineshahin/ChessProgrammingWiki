@@ -12,31 +12,6 @@ a [wargame](https://en.wikipedia.org/wiki/War_Game) based [chess variant](https:
 
 
 
-### Contents
-
-
-* [1 Computer Olympiads](#computer-olympiads)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1997 ...](#1997-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Kriegspiel](#kriegspiel)
-	+ [4.2 Wargame](#wargame)
-	+ [4.3 War](#war)
-* [5 References](#references)
-
-
-
-
-
-
-* [11th Computer Olympiad, Turin 2006](11th_Computer_Olympiad#KriegSpiel "11th Computer Olympiad")
-* [14th Computer Olympiad, Pamplona 2009](14th_Computer_Olympiad#KriegSpiel "14th Computer Olympiad")
-
-
 ## See also
 
 

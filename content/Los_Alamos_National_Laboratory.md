@@ -9,36 +9,6 @@ title: Los Alamos National Laboratory
 
 
 [ Aerial view of Los Alamos National Laboratory <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs and People](#chess-programs-and-people)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman")
-* [Ralph Brickner](index.php?title=Ralph_Brickner&action=edit&redlink=1 "Ralph Brickner (page does not exist)")
-* [J. Doyne Farmer](Mathematician#JDFarmer "Mathematician")
-* [Rajan Gupta](index.php?title=Rajan_Gupta&action=edit&redlink=1 "Rajan Gupta (page does not exist)")
-* [James Kister](James_Kister "James Kister")
-* [John Pasta](John_Pasta "John Pasta")
-* [Mikhail Shashkov](http://cnls.lanl.gov/~shashkov/)
-* [Lewis Stiller](Lewis_Stiller "Lewis Stiller")
-* [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam")
-* [John von Neumann](John_von_Neumann "John von Neumann")
-* [Paul Stein](Paul_Stein "Paul Stein")
-* [William Walden](William_Walden "William Walden")
-* [Tony Warnock](Tony_Warnock "Tony Warnock")
-* [Mark Wells](Mark_Wells "Mark Wells")
-* [Burton Wendroff](Burton_Wendroff "Burton Wendroff")
-
-
 ## Chess Programs and People
 
 

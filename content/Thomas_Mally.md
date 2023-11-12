@@ -15,25 +15,6 @@ On January 07, 2013, at the beginning of a long and snowy midwinter period, Mall
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1989](#1989)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 1989
 
 

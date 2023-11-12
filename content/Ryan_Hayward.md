@@ -12,31 +12,6 @@ a Canadian mathematician, computer scientist, and professor at Department of Com
 
 
 
-### Contents
-
-
-* [1 Hex Programs](#hex-programs)
-	+ [1.1 Wolve](#wolve)
-	+ [1.2 MoHex](#mohex)
-	+ [1.3 MoHex-CNN](#mohex-cnn)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-	+ [2.5 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-After early trials with [Mongoose](https://www.game-ai-forum.org/icga-tournaments/program.php?id=276), the Hex programs [Wolve](https://www.game-ai-forum.org/icga-tournaments/program.php?id=135) ([2008](13th_Computer_Olympiad#Hex "13th Computer Olympiad")) and [MoHex](https://www.game-ai-forum.org/icga-tournaments/program.php?id=555) ([2009](14th_Computer_Olympiad#Hex "14th Computer Olympiad"), [2010](15th_Computer_Olympiad#Hex "15th Computer Olympiad"), [2011](16th_Computer_Olympiad#Hex "16th Computer Olympiad"), [2013](17th_Computer_Olympiad#Hex "17th Computer Olympiad"), [2015](18th_Computer_Olympiad#Hex "18th Computer Olympiad") and [2017](20th_Computer_Olympiad#Hex "20th Computer Olympiad")) won Gold Medals in Hex at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad"). 
-
-
-
 ### Wolve
 
 

@@ -15,37 +15,6 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 
 
 
-### Contents
-
-
-* [1 Max Euwe](#Max_Euwe)
-* [2 Selected Publications](#Selected_Publications)
-	+ [2.1 1985 ...](#1985_...)
-	+ [2.2 1990 ...](#1990_...)
-	+ [2.3 1995 ...](#1995_...)
-	+ [2.4 2000 ...](#2000_...)
-	+ [2.5 2005 ...](#2005_...)
-	+ [2.6 2010 ...](#2010_...)
-	+ [2.7 2015 ...](#2015_...)
-	+ [2.8 2020 ...](#2020_...)
-* [3 External Links](#External_Links)
-* [4 References](#References)
-
-
-
-
-
-
-Jos Uiterwijk talk on [Max Euwe](Max_Euwe "Max Euwe"), *Euwe and the Development of Computer Chess*, November 16, 2011 [[6]](#cite_note-6) [[7]](#cite_note-7) [[8]](#cite_note-8):
-
-
-
-
-```C++
-Uiterwijk returned to the fifties of the previous century when the pioneers of [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence"), like [Turing](Alan_Turing "Alan Turing") and [Shannon](Claude_Shannon "Claude Shannon"), published their first speculations on how a computer could play chess. He showed how in less than fifty years the computer has turned into a [chess monster](Deep_Blue "Deep Blue"), [beating the world champion in 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"). Present day chess computers have an ELO rating ranking above 3000, a [strength](Playing_Strength "Playing Strength") of which chess players of flesh and blood can only dream. Max Euwe was very sceptical about how strong chess computers could become. He was very much interested in the development of computer chess, especially in the underlying mathematical principles. Euwe was involved in the foundation of the [Computer Chess Federation of The Netherlands](CSVN "CSVN"). He challenged researchers to prove him wrong and thus stimulated computer chess studies. 
-
-```
-
 ## Selected Publications
 
 

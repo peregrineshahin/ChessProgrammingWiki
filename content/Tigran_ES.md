@@ -13,43 +13,6 @@ Tigran played the First [Spanish Computer Chess Championship](Spanish_Computer_C
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Namesake](#namesake)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[SCCC 1993](SCCC_1993 "SCCC 1993"), Tigran versus later tournament winner [Betsabe](Betsabe "Betsabe") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-```
-
-[Event "SCCC 1993"]
-[Site "Barcelona"]
-[Date "1993.10.??"]
-[Round "?"]
-[White "Tigran"]
-[Black "Betsabe"]
-[Result "0-1"]
-
-1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e4 b5 5.Ne5 Nf6 6.f3 e6 7.Nc3 c5 8.d5 exd5 
-9.Nxd5 Nxe4 10.fxe4 Qh4+ 11.g3 Qxe4+ 12.Kf2 Qxe5 13.Qf3 Ra7 14.Kg1 Bd6 
-15.a4 Qd4+ 16.Ne3 Bb7 17.Qf2 Bxh1 18.Bd2 Bb7 19.axb5 O-O 20.b6 Ra8 
-21.Bxc4 Qxb2 22.Ra2 Qxb6 23.Nd5 Qb1+ 24.Qf1 Qe4 25.Nc3 Qd4+ 26.Be3 
-Qxe3+ 27.Rf2 Qxc3 28.g4 Qe3 29.Bxf7+ Rxf7 30.Qe2 Bxh2+ 31.Kf1 Bg2+ 
-32.Kxg2 Qg3+ 33.Kh1 Qg1# 0-1
-
-```
-
 ## Namesake
 
 

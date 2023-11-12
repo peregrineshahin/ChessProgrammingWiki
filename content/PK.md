@@ -15,24 +15,6 @@ PK80 already played the first [DOCCC 1981](DOCCC_1981 "DOCCC 1981"), running on 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) 
-[A.R.D. van Bergen](Ard_van_Bergen "Ard van Bergen") with PK83 at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## See also
 
 

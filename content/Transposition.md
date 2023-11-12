@@ -8,44 +8,6 @@ A **transposition** in chess is a sequence of [moves](Moves "Moves") that result
 
 
 
-### Contents
-
-
-* [1 Different Number of Moves](#different-number-of-moves)
-* [2 Color Flip](#color-flip)
-* [3 Retrograde Analysis](#retrograde-analysis)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Due to both sides may lose [tempo](Tempo "Tempo"), more or less forced but often plausible transpositions with different number of moves may occur. A common example is this position from the [Sveshnikov Variation](https://en.wikipedia.org/wiki/Sicilian_Defence#Sveshnikov_Variation:_4...Nf6_5.Nc3_e5) in the Sicilian, which regularly appears after seven or eight moves:
-
-
-
-
-
-|  |
-| --- |
-|                                                                   ♜ ♝♛♚♝ ♜♟♟   ♟♟♟  ♞♟ ♞   ♘  ♟ ♗     ♙     ♘     ♙♙♙  ♙♙♙♖  ♕♔♗ ♖ |
-
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e5 7. Ndb5  
-
-1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8. Bg5
-
-
-  
-
-
-
-
 ## Color Flip
 
 

@@ -12,33 +12,6 @@ a [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) memory design
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1997 ...](#1997-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010](#2010)
-	+ [3.5 2015](#2015)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [ABDADA](ABDADA "ABDADA")
-* [Dynamic Tree Splitting](Dynamic_Tree_Splitting "Dynamic Tree Splitting")
-* [Lazy SMP](Lazy_SMP "Lazy SMP")
-* [NUMA](NUMA "NUMA")
-* [Parallel Search](Parallel_Search "Parallel Search")
-* [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept")
-
-
 ## Publications
 
 

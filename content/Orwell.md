@@ -12,26 +12,6 @@ a chess program by [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") developed i
 
 
 
-### Contents
-
-
-* [1 Micro-Orwell](#micro-orwell)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 George Orwell](#george-orwell)
-* [5 References](#references)
-
-
-
-
-
-
-At the [WMCCC 1984](WMCCC_1984 "WMCCC 1984") in Glasgow, while winning the shared title with [Mephisto III A](Mephisto_(H) "Mephisto (H)"), [Elmar Henne](Elmar_Henne "Elmar Henne") and Thomas Nitsche further competed with an experimental program with the Orwell brand-name, running on a [68000](68000 "68000") processor of a [NDR-Klein-Computer](https://en.wikipedia.org/wiki/NDR-Klein-Computer) <a id="cite-note-5" href="#cite-ref-5">[5]</a> interfaced with a [Mephisto Modular](Mephisto_Module_Systems#Modular "Mephisto Module Systems") board. When [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") abandoned the collaboration with Henne and Nitsche short later, to work with [Richard Lang](Richard_Lang "Richard Lang"), Henne and Nitsche competed a last time at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") with three entries of Orwell, running on [68020](68020 "68020") processors. 
-
-
-
 ## Selected Games
 
 

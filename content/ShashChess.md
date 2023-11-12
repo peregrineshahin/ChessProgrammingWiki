@@ -15,44 +15,6 @@ and various [learning](Learning "Learning") techniques utilizing a [persistent h
 
 
 
-### Contents
-
-
-* [1 Personalities](#personalities)
-* [2 Q-Learning](#q-learning)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2018 ...](#2018-...)
-	+ [3.2 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Based on static [evaluation](Evaluation "Evaluation") [score](Score "Score") ranges derivered from [pawn](Pawn "Pawn") endgame [point value](Point_Value "Point Value") (PawnValueEg = 208), ShashChess classifies the position with five personalities of three former [World Chess Champions](https://en.wikipedia.org/wiki/World_Chess_Championship),
-[Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) for negative scores,
-[José Raúl Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) for balanced scores,
-and [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal) for positive scores <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
-
-
-
-
-```C++
-
-if      (eval < -74) personality =  Petosian;
-else if (eval < -31) personality =  Petosian | Capablanca;
-else if (eval <  31) personality =             Capablanca;
-else if (eval <  74) personality =             Capablanca | Tal;
-else                 personality =                          Tal; 
-
-```
-
-These personalities are considered in various [search selectivity](Selectivity "Selectivity") thresholds, along with multiple dynamic evaluation score adjustments. 
-
-
-
 ## Q-Learning
 
 

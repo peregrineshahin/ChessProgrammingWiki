@@ -13,68 +13,6 @@ a method in [game theory](https://en.wikipedia.org/wiki/Game_theory) to solve [g
 
 
 
-### Contents
-
-
-* [1 History](#History)
-* [2 Algorithm](#Algorithm)
-* [3 See also](#See_also)
-* [4 Selected Publications](#Selected_Publications)
-	+ [4.1 1910 ...](#1910_...)
-	+ [4.2 1920 ...](#1920_...)
-	+ [4.3 1940 ...](#1940_...)
-	+ [4.4 1960 ...](#1960_...)
-	+ [4.5 1970 ...](#1970_...)
-	+ [4.6 1980 ...](#1980_...)
-	+ [4.7 1990 ...](#1990_...)
-	+ [4.8 2000 ...](#2000_...)
-	+ [4.9 2005 ...](#2005_...)
-	+ [4.10 2010 ...](#2010_...)
-	+ [4.11 2015 ...](#2015_...)
-	+ [4.12 2020 ...](#2020_...)
-* [5 Forum Posts](#Forum_Posts)
-	+ [5.1 1995 ...](#1995_...)
-	+ [5.2 2000 ...](#2000_..._2)
-	+ [5.3 2005 ...](#2005_..._2)
-	+ [5.4 2010 ...](#2010_..._2)
-	+ [5.5 2015 ...](#2015_..._2)
-	+ [5.6 2020 ...](#2020_..._2)
-* [6 External Links](#External_Links)
-	+ [6.1 Retrograde Analysis](#Retrograde_Analysis)
-	+ [6.2 GitHub](#GitHub)
-	+ [6.3 Programs](#Programs)
-	+ [6.4 Induction](#Induction)
-	+ [6.5 Retrograde](#Retrograde)
-	+ [6.6 Analysis](#Analysis)
-* [7 References](#References)
-
-
-
-
-
-
-History based on [Lewis Stiller](Lewis_Stiller "Lewis Stiller"), *Multilinear Algebra and Chess Endgames* [[2]](#cite_note-2)
-
-
-
-
-```C++
-The mathematical justification for the retrograde analysis algorithm was already implicit in the 1912 paper of [Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") [[3]](#cite_note-3). Additional theoretical work was done by [John von Neumann](John_von_Neumann "John von Neumann") and [Oskar Morgenstern](https://en.wikipedia.org/wiki/Oskar_Morgenstern) [[4]](#cite_note-4). 
-
-The contemporary [dynamic programming](Dynamic_Programming "Dynamic Programming") methodology, which defines the field of retrograde endgame analysis, was discovered by [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") in 1965 [[5]](#cite_note-5). Bellman had considered game theory from a classical perspective as well [[6]](#cite_note-6) [[7]](#cite_note-7), but his work came to fruition in his 1965 paper, where he observed that the entire [state-space](https://en.wikipedia.org/wiki/State_space_%28dynamical_system%29) could be stored and that dynamic programming techniques could then be used to compute whether either side could win any position. 
-
-```
-
-
-```C++
-Bellman also sketched how a combination of [forward search](Search "Search"), dynamic programming, and [heuristic evaluation](Evaluation "Evaluation") could be used to solve much larger state spaces than could be tackled by either technique alone. He predicted that [Checkers](Checkers "Checkers") could be solved by his techniques, and the utility of his algorithms for solving very large state spaces has been validated by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. in the domain of Checkers [[8]](#cite_note-8), [Ralph Gasser](Ralph_Gasser "Ralph Gasser") in the domain of [Nine Men’s Morris](Nine_Men%E2%80%99s_Morris "Nine Men’s Morris") [[9]](#cite_note-9), and [John Romein](John_Romein "John Romein") with [Henri Bal](Henri_Bal "Henri Bal") in the domain of [Awari](Awari "Awari") [[10]](#cite_note-10). The first retrograde analysis implementation was due to [Thomas Ströhlein](Thomas_Str%C3%B6hlein "Thomas Ströhlein"), whose important 1970 dissertation described the solution of several pawnless 4-piece endgames [[11]](#cite_note-11).
-
-```
-
-
-
-
-
 ## Algorithm
 
 

@@ -12,34 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Álvaro Begué](%C3%81lvaro_Begu%
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-	+ [2.4 Misc](#misc)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2013 ...](#2013-...)
-	+ [4.2 2017](#2017)
-	+ [4.3 2018](#2018)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc-2)
-* [6 References](#references)
-
-
-
-
-
-
-The name is the [Spanish procounciation](https://en.wikipedia.org/wiki/Spanish_phonology) of "Ruy 2", meaning the second program in the [Ruy-López](Ruy_Lopez "Ruy Lopez") saga. It is also a [homophone](https://en.wikipedia.org/wiki/Homophone) of the Spanish word "[ruidos](https://es.wikipedia.org/wiki/Ruido)", which means "[noises](https://en.wikipedia.org/wiki/Noise)".
-
-
-
 ## Features
 
 

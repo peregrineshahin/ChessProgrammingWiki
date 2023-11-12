@@ -12,27 +12,6 @@ a German [FIDE-Master](https://en.wikipedia.org/wiki/FIDE_Master) in chess, and 
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* [Hendrik Schaffer](https://plus.google.com/104175240058823208048/about), Oliver Uwira (**2008**). *Limit Texas Hold’em - Einführung in Konzepte menschlicher Strategie*. [pdf](http://www.ke.tu-darmstadt.de/lehre/archiv/ss08/challenge/Ausarbeitungen/Schaffer_Uwira.pdf) (German
-* [Hendrik Schaffer](https://plus.google.com/104175240058823208048/about), Oliver Uwira (**2008**). *TUD Poker Challenge - Einführung in menschliche Strategien*. [sildes as pdf](http://www.ke.tu-darmstadt.de/lehre/archiv/ss08/challenge/Folien/Folien-Schaffer_Uwira.pdf) (German)
-
-
 ## Forum Posts
 
 

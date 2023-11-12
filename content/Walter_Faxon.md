@@ -10,50 +10,6 @@ an American chess player, computer scientist, and [bit scan](BitScan "BitScan") 
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Magic BitScan](#magic-bitscan)
-* [3 Appeal](#appeal)
-* [4 No Go](#no-go)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2002 ...](#2002-...)
-	+ [5.2 2005 ...](#2005-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-During the 1970 [U.S. High School Championship](https://en.wikipedia.org/wiki/Scholastic_chess_in_the_United_States) at the [Hotel McAlpin](https://en.wikipedia.org/wiki/Hotel_McAlpin), [New York City](https://en.wikipedia.org/wiki/New_York_City),
-Walter Faxon from the winning team of [Brookline, Massachusetts](https://en.wikipedia.org/wiki/Brookline,_Massachusetts) scored 6-2. His game versus [Danny Kopec](Danny_Kopec "Danny Kopec"), representing [Jamaica High, N. Y.](https://en.wikipedia.org/wiki/Jamaica_High_School), was published in [Al Horowitz'](https://en.wikipedia.org/wiki/Israel_Albert_Horowitz) chess colum in [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times) <a id="cite-note-1" href="#cite-ref-1">[1]</a>:
-
-
-
-
-```
-
-[Event "U.S. High School championship"]
-[Site "New York City, NY"]
-[Date "1970.05.??"]
-[Round "?"]
-[White "Danny Kopec"]
-[Black "Walter Faxon"]
-[Result "1/2 - 1/2"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.c3 Nf6 5.Bb5+ Bd7 6.Bxd7+ Nbxd7 7.Qxd4 g6 
-8.O-O Bg7 9.Bg5 O-O 10.Qe3 h6 11.Bf4 Qb6 12.Qxb6 Nxb6 13.Nbd2 Rac8 14.Rfd1 
-Nc4 15.Nxc4 Rxc4 16.Nd2 Rcc8 17.f3 d5 18.Be3 b6 19.e5 Nd7 20.f4 e6 21.a4 f6 
-22.exf6 Nxf6 23.h3 Nh5 24.Rf1 Ng3 25.Rfe1 Nf5 26.Bf2 d4 27.Ne4 dxc3 28.Nxc3 
-Rxc3 29.bxc3 Bxc3 30.Rac1 Bxe1 31.Bxe1 Ne3 32.Rc7 Rf7 33.Rc8+ Rf8 34.Rc7 Rf7 
-35.Rc8+ Rf8 36.Rc6 Rxf4 37.Bd2 Re4 38.Rc8+ Kf7 39.Rc7+ Kf6 40.Rxa7 g5 41.Bc3+ 
-e5 42.Rd7 Rxa4 43.Rd6+ Kf5 1/2-1/2
-
-```
-
 ## Magic BitScan
 
 

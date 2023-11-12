@@ -12,47 +12,6 @@ one of Taiwan's leading public research universities located in [Hsinchu](https:
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Selected Programs](#selected-programs)
-	+ [2.1 Chinese Chess](#chinese-chess)
-	+ [2.2 Chinese Dark Chess](#chinese-dark-chess)
-	+ [2.3 Connect6](#connect6)
-	+ [2.4 Go](#go)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Yi-Chih Chan](Yi-Chih_Chan "Yi-Chih Chan")
-* [Guan-Wun Chen](Guan-Wun_Chen "Guan-Wun Chen")
-* [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang")
-* [Li-Kai Chuang](Li-Kai_Chuang "Li-Kai Chuang")
-* [Dei-Yen Huang](Dei-Yen_Huang "Dei-Yen Huang")
-* [Chun-Bin Hsu](Chun-Bin_Hsu "Chun-Bin Hsu")
-* [Chu-Hsuan Hsueh](Chu-Hsuan_Hsueh "Chu-Hsuan Hsueh")
-* [Wei-Lun Kao](Wei-Lun_Kao "Wei-Lun Kao")
-* [Ching-Hua Kuo](Ching-Hua_Kuo "Ching-Hua Kuo")
-* [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang")
-* [Xi Liang](Xi_Liang "Xi Liang")
-* [Ting-Fu Liao](Ting-Fu_Liao "Ting-Fu Liao")
-* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin")
-* [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin")
-* [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan")
-* [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun")
-* [Shi-Jie Tang](Shi-Jie_Tang "Shi-Jie Tang")
-* [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng")
-* [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei")
-* [I-Chen Wu](I-Chen_Wu "I-Chen Wu")
-* [Ti-Rong Wu](Ti-Rong_Wu "Ti-Rong Wu")
-* [Kun-Hao Yeh](Kun-Hao_Yeh "Kun-Hao Yeh")
-
-
 ## Selected Programs
 
 

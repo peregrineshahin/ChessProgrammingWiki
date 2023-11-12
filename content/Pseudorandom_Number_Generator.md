@@ -15,65 +15,6 @@ Games of chance, such as [Backgammon](Backgammon "Backgammon") and [EinStein wü
 
 
 
-### Contents
-
-
-* [1 Methods](#Methods)
-	+ [1.1 LCG](#LCG)
-	+ [1.2 RKISS](#RKISS)
-	+ [1.3 RANROT B3](#RANROT_B3)
-	+ [1.4 MT](#MT)
-	+ [1.5 ChaCha](#ChaCha)
-* [2 Applications](#Applications)
-* [3 See also](#See_also)
-* [4 Selected Publications](#Selected_Publications)
-	+ [4.1 1950 ...](#1950_...)
-	+ [4.2 1960 ...](#1960_...)
-	+ [4.3 1970 ...](#1970_...)
-	+ [4.4 1980 ...](#1980_...)
-	+ [4.5 1990 ...](#1990_...)
-	+ [4.6 2000 ...](#2000_...)
-	+ [4.7 2010 ...](#2010_...)
-* [5 Forum Posts](#Forum_Posts)
-	+ [5.1 1982 ...](#1982_...)
-	+ [5.2 1990 ...](#1990_..._2)
-	+ [5.3 1995 ...](#1995_...)
-	+ [5.4 2000 ...](#2000_..._2)
-	+ [5.5 2005 ...](#2005_...)
-	+ [5.6 2010 ...](#2010_..._2)
-	+ [5.7 2015 ...](#2015_...)
-	+ [5.8 2020 ...](#2020_...)
-* [6 External Links](#External_Links)
-	+ [6.1 Randomness](#Randomness)
-	+ [6.2 Methods](#Methods_2)
-	+ [6.3 Language Support](#Language_Support)
-		- [6.3.1 Basic](#Basic)
-		- [6.3.2 C](#C)
-		- [6.3.3 C++](#C.2B.2B)
-		- [6.3.4 C#](#C.23)
-		- [6.3.5 D](#D)
-		- [6.3.6 Fortran](#Fortran)
-		- [6.3.7 Go](#Go)
-		- [6.3.8 Java](#Java)
-		- [6.3.9 Lisp](#Lisp)
-		- [6.3.10 Pascal](#Pascal)
-		- [6.3.11 Python](#Python)
-	+ [6.4 Tests](#Tests)
-	+ [6.5 Misc](#Misc)
-* [7 References](#References)
-
-
-
-
-
-
-PRNGs maintain a state variable, a bitwise superset of the random number, initialized by a [random seed](https://en.wikipedia.org/wiki/Random_seed) - a constant for the same sequence each time, i.e. for Zobrist keys, otherwise, something like [system time](https://en.wikipedia.org/wiki/System_time) to produce varying pseudo randoms. Each call of the PRNG routine performs certain operations or [bit-twiddling](Bit-Twiddling "Bit-Twiddling") on that state, leaving the next pseudo random number. For various applications more or less important features are [randomness](https://en.wikipedia.org/wiki/Randomness), resolution, ([uniform](https://en.wikipedia.org/wiki/Equidistributed_sequence)) [distribution](https://en.wikipedia.org/wiki/Probability_distribution), and [periodicity](https://en.wikipedia.org/wiki/Periodicity) - topic of various [randomness tests](https://en.wikipedia.org/wiki/Randomness_tests) - and further performance, and [portability](https://en.wikipedia.org/wiki/Software_portability). 
-
-
-[Zobrist hashing](Zobrist_Hashing "Zobrist Hashing") with about 12\*64 keys has less issues with randomness and period, but with distribution, and requires [linear independence](https://en.wikipedia.org/wiki/Linear_independence) so that a small subset of all keys doesn't xor to zero. Despite selected hard-coded random constants used at compile time, many programs use an own PRNG based on [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation) in [GF(2)](https://en.wikipedia.org/wiki/GF%282%29) such as [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_twister) or [Xorshift](https://en.wikipedia.org/wiki/Xorshift). 
-
-
-
 ### LCG
 
 

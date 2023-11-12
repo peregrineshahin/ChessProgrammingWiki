@@ -12,29 +12,6 @@ a [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) proces
 
 
 
-### Contents
-
-
-* [1 De Bruijn Network](#de-bruijn-network)
-* [2 Chess Programs](#chess-programs)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Zugzwang's](Zugzwang_(Program) "Zugzwang (Program)") distributed [parallel search](Parallel_Search "Parallel Search") algorithm works for any underlying Transputer network, a [De Bruijn](De_Bruijn_Sequence#DeBruijnGraphs "De Bruijn Sequence") like connected network with maximum degree of 4 and a logarithmic [diameter](https://en.wikipedia.org/wiki/Distance_%28graph_theory%29) is well suited to serve a Transputer interconnection scheme <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
- [](File:DeBruijnTransputer.JPG) 
-A [De Bruijn](De_Bruijn_Sequence#DeBruijnGraphs "De Bruijn Sequence") like connected Transputer network of dimension three
-
-
-
 ## Chess Programs
 
 

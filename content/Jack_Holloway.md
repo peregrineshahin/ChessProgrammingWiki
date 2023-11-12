@@ -11,23 +11,6 @@ In 1981, Jack Holloway was one of the founders of the [Lisp machine](https://en.
 
 
 
-### Contents
-
-
-* [1 CHEOPS](#cheops)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At the end of the 70s, while affiliated with the [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") [Computer Science and Artificial Intelligence Laboratory](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory), along with [John Moussouris](John_Moussouris "John Moussouris") and [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), Jack Holloway was involved in the development of a dedicated chess processor, the *Chess-orientated Processing System* [CHEOPS](CHEOPS "CHEOPS") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Selected Publications
 
 

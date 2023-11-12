@@ -13,24 +13,6 @@ He holds a Ph.D. in 1997 from [University of Maryland, College Park](https://en.
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 1995 ...](#1995-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### 1990 ...
 
 

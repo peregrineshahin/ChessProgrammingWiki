@@ -17,36 +17,6 @@ The first version of Ktulu was written in early 2002 in [Turbo Pascal](Pascal#Tu
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-	+ [2.1 Ktulu - Hermann](#ktulu---hermann)
-	+ [2.2 Ktulu - Deep Sjeng](#ktulu---deep-sjeng)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2003](#2003)
-	+ [4.2 2004](#2004)
-	+ [4.3 2005 ...](#2005-...)
-	+ [4.4 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Ktulu/Cthulhu](#ktulu.2fcthulhu)
-		- [5.2.1 Cthulhu Mythos](#cthulhu-mythos)
-		- [5.2.2 Call of Cthulhu](#call-of-cthulhu)
-* [6 References](#references)
-
-
-
-
-
-
-Ktulu played four [CSVN](CSVN "CSVN") tournaments over the board, the [Leiden](https://en.wikipedia.org/wiki/Leiden) [DOCCC 2005](DOCCC_2005 "DOCCC 2005"), [DOCCC 2008](DOCCC_2008 "DOCCC 2008"), [ICT 2009](ICT_2009 "ICT 2009") and [DOCCC 2009](DOCCC_2009 "DOCCC 2009"), operated by [Hans Secelle](Hans_Secelle "Hans Secelle").
-Ktulu furher participated at the [CCT10](CCT10 "CCT10"), [CCT11](CCT11 "CCT11") and [CCT12](CCT12 "CCT12") online tournaments, and the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") - the first [ACCA World Computer Rapid Chess Championship](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship").
-
-
-
 ## Photos & Games
 
 

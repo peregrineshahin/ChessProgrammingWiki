@@ -13,24 +13,6 @@ As former avocational computer chess programmer, supported by co-author [Gaby vo
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.thorstenczub.de/hiarcs.html) 
-[Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), Reinhold Gellner and [Berthold Seifriz](index.php?title=Berthold_Seifriz&action=edit&redlink=1 "Berthold Seifriz (page does not exist)") at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Selected Publications
 
 

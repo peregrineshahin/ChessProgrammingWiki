@@ -12,23 +12,6 @@ an American electrical engineer, computer scientist, manager, pioneer in the dev
 
 
 
-### Contents
-
-
-* [1 CHAOS](#chaos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Victor Berman studied language design and electrical engineering in the interdisciplinary computer science graduate program at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), where he was also involved in the development of the chess program [CHAOS](CHAOS "CHAOS") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, along with [Mike Alexander](Mike_Alexander "Mike Alexander"), [Fred Swartz](Fred_Swartz "Fred Swartz"), [Ira Ruben](Ira_Ruben "Ira Ruben"), [William Toikka](William_Toikka "William Toikka"), [Joe Winograd](Joe_Winograd "Joe Winograd") and later [Mark Hersey](Mark_Hersey "Mark Hersey") and [Jack O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. CHAOS started at [RCA](https://en.wikipedia.org/wiki/RCA) Systems Programming division in [Cinnaminson, NJ](https://en.wikipedia.org/wiki/Cinnaminson_Township,_New_Jersey) with [Fred Swartz](Fred_Swartz "Fred Swartz") and Victor Berman as first authors, Berman working on the very sophisticated [evaluation](Evaluation "Evaluation"). [Mike Alexander](Mike_Alexander "Mike Alexander") and others joined the team later and CHAOS has been affiliated with the Computing Center of the [University of Michigan](University_of_Michigan "University of Michigan"). CHAOS was one of the strongest programs of its time, using an unique, knowledge based and selective [best-first](Best-First "Best-First"), iterative widening approach <a id="cite-note-7" href="#cite-ref-7">[7]</a>, keeping the [search tree](Search_Tree "Search Tree") in memory.
-
-
-
 ## Selected Publications
 
 

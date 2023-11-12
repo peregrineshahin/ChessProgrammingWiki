@@ -12,48 +12,6 @@ a chess engine by primary author [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"),
 
 
 
-### Contents
-
-
-* [1 Team](#Team)
-* [2 Versions](#Versions)
-* [3 Achievements](#Achievements)
-* [4 Program Internals](#Program_Internals)
-* [5 Release Dates](#Release_Dates)
-* [6 Controversies](#Controversies)
-	+ [6.1 Rybka 1.0 and Fruit](#Rybka_1.0_and_Fruit)
-	+ [6.2 Ippolit](#Ippolit)
-	+ [6.3 Open Letters](#Open_Letters)
-* [7 Pre-Beta Rybka and Crafty](#Pre-Beta_Rybka_and_Crafty)
-* [8 Disqualification](#Disqualification)
-* [9 See also](#See_also)
-* [10 Publications](#Publications)
-* [11 Forum Posts](#Forum_Posts)
-	+ [11.1 2004](#2004)
-	+ [11.2 2005](#2005)
-	+ [11.3 2006](#2006)
-	+ [11.4 2007](#2007)
-	+ [11.5 2008](#2008)
-	+ [11.6 2009](#2009)
-	+ [11.7 2010](#2010)
-	+ [11.8 2011](#2011)
-	+ [11.9 2012](#2012)
-	+ [11.10 2021](#2021)
-* [12 External Links](#External_Links)
-	+ [12.1 Rybka](#Rybka)
-	+ [12.2 Controversy](#Controversy)
-	+ [12.3 Misc](#Misc)
-* [13 References](#References)
-
-
-
-
-
-
-The Rybka team consists of primary author and [International Master](https://en.wikipedia.org/wiki/International_Master#International_Master_.28IM.29) [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), supported by [Grandmaster](https://en.wikipedia.org/wiki/Grandmaster_%28chess%29) and [evaluation](Evaluation "Evaluation") expert [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (Rybka 3), Rybka's main tester and [Women's GM (WGM)](https://en.wikipedia.org/wiki/International_Master#Woman_Grandmaster_.28WGM.29) and IM [Iweta Rajlich](index.php?title=Iweta_Rajlich&action=edit&redlink=1 "Iweta Rajlich (page does not exist)"), the [opening book authors](Category:Opening_Book_Author "Category:Opening Book Author") [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Dagh Nielsen](index.php?title=Dagh_Nielsen&action=edit&redlink=1 "Dagh Nielsen (page does not exist)"), [Jiří Dufek](index.php?title=Ji%C5%99%C3%AD_Dufek&action=edit&redlink=1 "Jiří Dufek (page does not exist)") and [Nick Carlin](index.php?title=Nick_Carlin&action=edit&redlink=1 "Nick Carlin (page does not exist)"), as well as Rybka primary tournament operator [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), hardware expert [Lukas Cimiotti](index.php?title=Lukas_Cimiotti&action=edit&redlink=1 "Lukas Cimiotti (page does not exist)") and Webmaster and Webdesigner *Felix* and *Christoph Kling* [[3]](#cite_note-3) .
-
-
-
 ## Versions
 
 

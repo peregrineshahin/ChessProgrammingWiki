@@ -15,21 +15,6 @@ In 2007, he introduced [Hashing Dictionaries](Hashing_Dictionaries "Hashing Dict
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* Sam Tannous (**2007**). *Avoiding Rotated Bitboards with Direct Lookup*. [ICGA Journal, Vol. 30, No. 2](ICGA_Journal#30_2 "ICGA Journal"), [arXiv:0704.3773](https://arxiv.org/abs/0704.3773) » [Hashing Dictionaries](Hashing_Dictionaries "Hashing Dictionaries")
-
-
 ## External Links
 
 

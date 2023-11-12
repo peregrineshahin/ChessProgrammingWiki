@@ -12,30 +12,6 @@ a [pawn endgame](Pawn_Endgame "Pawn Endgame") chess program written by [Monroe N
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Terminal Nodes](#terminal-nodes)
-	+ [1.2 Evaluator](#evaluator)
-* [2 Modified Rules](#modified-rules)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Supported by [Israel Gold](index.php?title=Israel_Gold&action=edit&redlink=1 "Israel Gold (page does not exist)") at Technion, and later by [International Master](https://en.wikipedia.org/wiki/FIDE_titles#International_Master_.28IM.29) [Leon Piasetski](index.php?title=Leon_Piasetski&action=edit&redlink=1 "Leon Piasetski (page does not exist)") at [McGill University](McGill_University "McGill University"), Peasant was implemented as conventional fixed [depth](Depth "Depth") [alpha-beta](Alpha-Beta "Alpha-Beta") searcher with evaluation and [pruning](Pruning "Pruning") heuristics tailored for pawn endings, using an [8x8 board](8x8_Board "8x8 Board") array as internal representation. [Moves](Moves "Moves") were [sorted](Move_Ordering "Move Ordering") so that [captures](Captures "Captures") and promotions came first - the [killer heuristic](Killer_Heuristic "Killer Heuristic") was used to further improve the effectiveness of alpha-beta. The ONEPAWN algorithm by Newborn and Piasetski evaluated [KPK](KPK "KPK") positions, TWOPAWN by Piasetski, KPPK. Peasant employed forward pruning of many king moves near the tips, reaching a search depth of around 10 [ply](Ply "Ply") with 3 or 4 pawns. Written in [Fortran IV](Fortran "Fortran") for the [IBM 360](IBM_360 "IBM 360")/[370](IBM_370 "IBM 370"), it searched around 18,000 [terminal positions](Terminal_Node "Terminal Node") per minute on a 370/158 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-In his 1978 B.Sc. thesis on [co-ordinate squares](Corresponding_Squares "Corresponding Squares") in pawn endings, reprinted 1988 in [David Levy's](David_Levy "David Levy") [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), [Kenneth W. Church](Kenneth_W._Church "Kenneth W. Church") mentions the [Lasker-Reichhelm Position](Lasker-Reichhelm_Position "Lasker-Reichhelm Position") (Fine #70) and Newborn's assessment solving it with Peasant would require 25,000 hours, and further gives a description of Peasant in a leading footnote <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Following list of terminal node conditions and static [evaluation](Evaluation "Evaluation") features are based on Church's note. 
-
-
-
 ### Terminal Nodes
 
 

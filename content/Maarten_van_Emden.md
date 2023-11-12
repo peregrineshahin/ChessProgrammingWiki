@@ -17,26 +17,6 @@ He further researched on [software verification](https://en.wikipedia.org/wiki/S
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Maarten van Emden](#maarten-van-emden)
-	+ [1.2 Alejandro López-Ortiz](#alejandro-l.c3.b3pez-ortiz)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1970 ...](#1970-...)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Maarten van Emden
 
 

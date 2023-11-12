@@ -14,27 +14,6 @@ In March 2013, Steve started a [blog](https://en.wikipedia.org/wiki/Blog) on the
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1999](#1999)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Steve Maughan (**1992**). *Are You Sure It's Better?* [Selective Search](Selective_Search "Selective Search") 40, pp. 21, [pdf](http://www.chesscomputeruk.com/SS_40.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters") » [Match Statistics](Match_Statistics "Match Statistics")
-
-
 ## Forum Posts
 
 

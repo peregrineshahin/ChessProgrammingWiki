@@ -12,26 +12,6 @@ a series of [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics)
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Photos](#photos)
-* [3 Chess Programs](#chess-programs)
-* [4 See also](#see-also)
-* [5 Manuals](#manuals)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The UNIVAC 1100 series was a [36-bit](https://en.wikipedia.org/wiki/36-bit) machine using [ones' complement](https://en.wikipedia.org/wiki/Ones%27_complement) integer arithmetic as well as single (1:8:27) and double precision (1:11:60) [floating point](https://en.wikipedia.org/wiki/Floating_point) arithmetic. 128 [registers](https://en.wikipedia.org/wiki/Processor_register) include 15 [index registers](https://en.wikipedia.org/wiki/Index_register) (X1 ... X15), 16 [accumulators](https://en.wikipedia.org/wiki/Accumulator_(computing)) (A0 ... A15), and 15 special function user registers (R1 .. R15), the last four index registers (X12 ... X15) and the first four accumulators (A0 ... A3) overlap. All instructions were one 36-bit word long. Early machines had [core memory](Memory#Core "Memory") and [plated wire memory](Memory#Plated "Memory"), until that was replaced with [semiconductor](https://en.wikipedia.org/wiki/Semiconductor_device) memory in 1975.
-
-
-
 ## Photos
 
 

@@ -12,24 +12,6 @@ title: Robot Adversary
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Robots](Robots "Robots")
-* [Milton Bradley Phantom](Milton_Bradley_Phantom "Milton Bradley Phantom")
-* [Novag 2Robot](index.php?title=Novag_2Robot&action=edit&redlink=1 "Novag 2Robot (page does not exist)")
-
-
 ## Forum Posts
 
 

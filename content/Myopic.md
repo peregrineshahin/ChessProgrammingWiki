@@ -12,25 +12,6 @@ a simple [open source chess program](Category:Open_Source "Category:Open Source"
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Download](#download)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The board is represented by a [vector of 64](8x8_Board "8x8 Board") chessmen including vacant square chessmen. Search is plain [alpha-beta](Alpha-Beta "Alpha-Beta") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop with [leaf evaluation](Evaluation "Evaluation") considering [material balance](Material "Material"), [pawn placement](Pawn_Structure "Pawn Structure"), [pinned pieces](Pin "Pin") and [piece mobility](Mobility "Mobility"), and scaled [king center distance](Center_Distance "Center Distance") as bonus in the [middlegame](Middlegame "Middlegame") and penalty in the [endgame](Endgame "Endgame").
-
-
-
 ## Download
 
 

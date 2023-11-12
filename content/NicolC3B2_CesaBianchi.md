@@ -12,26 +12,6 @@ an Italian computer scientist and professor at department of computer science, [
 
 
 
-### Contents
-
-
-* [1 Bandit Problems](#bandit-problems)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit) faces the tradeoff between [exploitation](https://en.wikipedia.org/wiki/Exploitation_%28disambiguation%29) of the [slot machine](https://en.wikipedia.org/wiki/Slot_machine) that has the highest expected payoff and [exploration](https://en.wikipedia.org/wiki/Exploration) to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also topic in [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The [gambler](https://en.wikipedia.org/wiki/Gambling) has to decide at time steps t = 1, 2, ... which of the finitely many available arms to pull. Each arm produces a [reward](https://en.wikipedia.org/wiki/Reward) in a [stochastic](https://en.wikipedia.org/wiki/Stochastic) manner. The goal is to maximize the reward accumulated over time. In 2002, along with [Peter Auer](Peter_Auer "Peter Auer") and [Paul Fischer](Paul_Fischer "Paul Fischer"), Nicolò Cesa-Bianchi introduced the **UCB1** (Upper Confidence Bounds) bandit algorithm <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which was applied as selection algorithm [UCT](UCT "UCT") to [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") as elaborated by [Levente Kocsis](Levente_Kocsis "Levente Kocsis") and [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") in 2006 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Selected Publications
 
 

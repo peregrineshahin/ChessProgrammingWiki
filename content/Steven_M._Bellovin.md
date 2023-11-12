@@ -12,35 +12,6 @@ an American computer scientist, researcher on [computer networking](https://en.w
 
 
 
-### Contents
-
-
-* [1 CCCP](#cccp)
-* [2 Usenet](#usenet)
-* [3 Photos](#photos)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1990 ...](#1990-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 Postings](#postings)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-From 1970 to 1971, as undergraduate student at Columbia, along with [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), and [Ben Yalow](Ben_Yalow "Ben Yalow"), he co-authored the chess program [CCCP](CCCP_(US) "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Andrew Koenig on the individual roles of [CCCP's](CCCP_(US) "CCCP (US)") programming team <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-[I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). Steve wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, [Ben](Ben_Yalow "Ben Yalow") did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and [Aron](Aron_Eisenpress "Aron Eisenpress") wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
-
-```
-
 ## Usenet
 
 

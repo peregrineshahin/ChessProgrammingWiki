@@ -15,30 +15,6 @@ Stefan Zipproth further wrote technical articles about computer chess programmin
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
-* Stefan Zipproth (**2000**). *Neuere Verfahren zur Wavelet-basierten Bildkompression mit Kantendetektion*. [Diplom thesis](http://www5.in.tum.de/persons/bungartz/teach_muc1), [Technical University of Munich](Technical_University_of_Munich "Technical University of Munich"), advisor [Hans-Joachim Bungartz](Mathematician#HJBungartz "Mathematician") (German)
-* Stefan Zipproth (**2002**). *Bitboards - Die Grundlage starker Schachprogramme Teil 1*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 4/2002 (German)
-* Stefan Zipproth (**2002**). *Bitboards - Die Grundlage starker Schachprogramme Teil 2*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 5/2002 (German)
-* Stefan Zipproth (**2003**). *Suchet, so werdet ihr finden*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2003, [pdf](https://computerschach.de/Files/2000/Suchet,%20so%20werdet%20ihr%20finden.pdf) (German)
-* Stefan Zipproth (**2004**). *UNIX, C und lange Pipelines*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2004 (German)
-
-
 ## Forum Posts
 
 

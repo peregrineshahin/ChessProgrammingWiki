@@ -12,29 +12,6 @@ a [WinBoard](WinBoard "WinBoard"), and since version 8, [UCI](UCI "UCI") complia
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-WildCat's [search](Search "Search") relies on [PVS](Principal_Variation_Search "Principal Variation Search") and [null move pruning](Null_Move_Pruning "Null Move Pruning") with [verification search](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), and [futility pruning](Futility_Pruning "Futility Pruning") and [razoring](Razoring "Razoring") at [frontier nodes](Frontier_Nodes "Frontier Nodes"). [Move ordering](Move_Ordering "Move Ordering") is considered by [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic") - the history table indexed by [piece-type](Pieces "Pieces") and [target square](Target_Square "Target Square"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") and [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"). 
-WildCat keeps two best moves in the [transposition table](Transposition_Table "Transposition Table"), and considers [checks](Check "Check") at the first [ply](Ply "Ply") of the [quiescence search](Quiescence_Search "Quiescence Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Tournament Play
 
 

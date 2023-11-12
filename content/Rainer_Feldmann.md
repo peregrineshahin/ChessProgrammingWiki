@@ -12,30 +12,6 @@ a German computer scientist, games researcher and former chess programmer. He wa
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1986 ...](#1986-...)
-	+ [3.2 1990 ...](#1990-...)
-	+ [3.3 1995 ...](#1995-...)
-	+ [3.4 2000 ...](#2000-...)
-	+ [3.5 2005 ...](#2005-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.thorstenczub.de/Paderborn.html) 
-[Chrilly](Chrilly_Donninger "Chrilly Donninger"), [Vincent](Vincent_Diepeveen "Vincent Diepeveen"), [Ulf](Ulf_Lorenz "Ulf Lorenz") (back) and Rainer, [IPCCC 1998](IPCCC_1998 "IPCCC 1998") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## See also
 
 

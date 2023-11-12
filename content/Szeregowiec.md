@@ -14,42 +14,6 @@ Szeregowiec applies pure [alpha-beta](Alpha-Beta "Alpha-Beta") using the [killer
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[PCCC 2003](PCCC_2003 "PCCC 2003"), [Tytan](Tytan "Tytan") - Szeregowiec <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "2nd PCCC 2003"]
-[Site "Lodz"]
-[Date "2003.08.??"]
-[Round "?"]
-[White "Tytan"]
-[Black "Szeregowiec"]
-[Result "1-0"]
-
-1.d4 d5 2.c4 dxc4 3.e4 c6 4.Bxc4 e6 5.Nf3 Nd7 6.O-O c5 7.d5 Qb6 8.Nc3 exd5 9.Nxd5 Qc6 
-10.Bb5 Qg6 11.Ne5 Qd6 12.Bf4 g5 13.Nxd7 Bxd7 14.Bxd6 Bxb5 15.Nc7+ Kd7 16.Nxb5 Nf6 
-17.Bxf8+ Kc6 18.Qd6+ Kxb5 19.a4+ Kc4 20.Qxc5+ Kd3 21.Qe3+ Kc2 22.Qc3# 1-0
-
-```
-
 ## See also
 
 

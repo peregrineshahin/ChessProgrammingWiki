@@ -12,33 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Bitboard Infrastructure](#bitboard-infrastructure)
-		- [1.1.1 Rotated Bitboards](#rotated-bitboards)
-		- [1.1.2 BitScan & PopCount](#bitscan-.26-popcount)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2005 ...](#2005-...)
-	+ [6.2 2010 ...](#2010-...)
-	+ [6.3 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
 ### Bitboard Infrastructure
 
 

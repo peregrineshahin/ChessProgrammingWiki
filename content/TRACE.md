@@ -14,27 +14,6 @@ The [evaluation function](Evaluation_Function "Evaluation Function") comprises o
 
 
 
-### Contents
-
-
-* [1 Tournaments](#tournaments)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-TRACE played four [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), where she was third at the [NC3 2003](NC3_2003 "NC3 2003"), fourth at the [NC3 2004](NC3_2004 "NC3 2004"), and two times runner-up in [NC3 2005](NC3_2005 "NC3 2005") and [NC3 2006](NC3_2006 "NC3 2006"), where she was very close to win the tournament with draws from [Bodo](Bodo "Bodo") and [KnightCap](KnightCap "KnightCap"), but lost the last round from [Chompster](Chompster "Chompster"). Further, TRACE played a strong [CCT9](CCT9 "CCT9") in 2007.
-
-
-
 ## Selected Games
 
 

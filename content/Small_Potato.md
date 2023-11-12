@@ -14,30 +14,6 @@ First released (as Unches) in December 2000, Small Potato participated at variou
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-After experience with [MTD(f)](MTD(f) "MTD(f)") and standard [alpha-beta](Alpha-Beta "Alpha-Beta"), 
-the Small Potato sticks with [NegaScout](NegaScout "NegaScout") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows"), 
-further utilizing [transposition table](Transposition_Table "Transposition Table"), [quiescence search](Quiescence_Search "Quiescence Search"), 
-[null move pruning](Null_Move_Pruning "Null Move Pruning") and [history move ordering](History_Heuristic "History Heuristic"). 
-[Move generation](Move_Generation "Move Generation") is implemented using a [0x88](0x88 "0x88") board. 
-
-
-
 ## Selected Games
 
 

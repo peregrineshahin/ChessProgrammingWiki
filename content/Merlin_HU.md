@@ -13,28 +13,6 @@ Since version 2.0, Merlin applies [TDLeaf(λ)](Temporal_Difference_Learning#TDLe
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 See also](#see-also)
-* [3 Namesake](#namesake)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Merlin played various [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open") tournaments, and won the [MASPV 2004](MASPV_2004 "MASPV 2004") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [MASPV 2007](MASPV_2007 "MASPV 2007") and [MASPV 2008](MASPV_2008 "MASPV 2008"), and was runner-up behind [Pandix](Pandix "Pandix") at [MASPV 2009](MASPV_2009 "MASPV 2009"). 
-Merlin courageously played the [WCCC 2013](WCCC_2013 "WCCC 2013") and [WCSC 2013](WCSC_2013 "WCSC 2013") in [Yokohama](https://en.wikipedia.org/wiki/Yokohama), and had a hard time in that strong field. 
-
-
-
 ## See also
 
 

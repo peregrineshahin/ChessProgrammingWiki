@@ -12,26 +12,6 @@ A [tapered eval](Tapered_Eval "Tapered Eval") interpolates between [opening](Ope
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 Namesake](#namesake)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-ProChess played the [IOCSC 2011](IOCSC_2011 "IOCSC 2011") and the [IOCSC 2012](IOCSC_2012 "IOCSC 2012") Italian Open Chess Software Cup, the latter as best Original program, and the [CCT15](CCT15 "CCT15") scoring 50%. At the [IGT 2013](IGT_2013 "IGT 2013"), ProChess lost the [final](IGT_2013#Final "IGT 2013") from [Chexa](Chexa "Chexa").
-
-
-
 ## Selected Games
 
 

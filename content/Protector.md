@@ -12,37 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-	+ [2.1 WCCC 2015](#wccc-2015)
-	+ [2.2 WCSC 2015](#wcsc-2015)
-* [3 Description](#description)
-	+ [3.1 Move Generation](#move-generation)
-	+ [3.2 Search](#search)
-	+ [3.3 Evaluation](#evaluation)
-* [4 Acknowledgment](#acknowledgment)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2009](#2009)
-	+ [6.2 2010 ...](#2010-...)
-	+ [6.3 2015 ...](#2015-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-Protector participated at the [TCEC Season 6](TCEC_Season_6 "TCEC Season 6"), the [TCEC Season 7](TCEC_Season_7 "TCEC Season 7"), and over the board the [WCCC 2015](WCCC_2015 "WCCC 2015") and [WCSC 2015](WCSC_2015 "WCSC 2015") in [Leiden](Leiden_University "Leiden University"), operated by [Timo Haupt](Timo_Haupt "Timo Haupt"), who was also responsible for the [book lines](Opening_Book "Opening Book"). At the WCCC, Protector played strongly and shared the third place with [HIARCS](HIARCS "HIARCS") with 5/8, only losing from [Komodo](Komodo "Komodo"). At the uniform hardware WCSC Protector also shared the third place, now with Komodo, both 4½/7, behind [Shredder](Shredder "Shredder") and [Ginkgo](Ginkgo "Ginkgo"). 
-
-
-
 ## Photos & Games
 
 

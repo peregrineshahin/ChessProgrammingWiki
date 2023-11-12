@@ -12,25 +12,6 @@ a university located in [Helsinki](https://en.wikipedia.org/wiki/Helsinki), [Fin
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Juha Kasanen](Juha_Kasanen "Juha Kasanen")
-* [Mika Korhonen](Mika_Korhonen "Mika Korhonen")
-* [Miikka Maki-Uuro](index.php?title=Miikka_Maki-Uuro&action=edit&redlink=1 "Miikka Maki-Uuro (page does not exist)")
-* [Timo Saari](Timo_Saari "Timo Saari")
-
-
 ## Chess Programs
 
 

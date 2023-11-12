@@ -13,35 +13,6 @@ Along with [Mika Korhonen](Mika_Korhonen "Mika Korhonen") and [Timo Saari](Timo_
 
 
 
-### Contents
-
-
-* [1 The Finnish Immortal?](#the-finnish-immortal.3f)
-* [2 Photos](#photos)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The following position likely appeared in a post mortem analysis after a blitz game played between Henri Koskinen <a id="cite-note-5" href="#cite-ref-5">[5]</a> and Juha Kasanen in 1967 
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>. Black, already two pieces down, further sacrifices the queen and a rook to deliver that beautiful finish. Of course, this mate in four is easy to spot for programs:
-
-
-
-
-
-|  |
-| --- |
-|                                                                       ♚♜ ♜           ♟  ♝♛♟ ♟ ♟        ♙♟ ♙♙ ♙♔ ♗ ♞♘♙♗♙♙     ♖♖♘  ♕    |
-
-
-kr1r4/7p/2bqp1p1/p7/1Pp1PP1P/K1B1nNPB/PP5R/RN2Q3 b - - 0 1 
-
-
-
 ## Photos
 
 

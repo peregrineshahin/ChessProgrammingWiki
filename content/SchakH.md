@@ -10,26 +10,6 @@ an early chess program by [Hans](index.php?title=Hans_van_der_Liet&action=edit&r
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:HenkvanderLietSchak-H.jpg) 
-Schak-H and [Henk van der Liet](index.php?title=Henk_van_der_Liet&action=edit&redlink=1 "Henk van der Liet (page does not exist)") (?) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Games
 
 

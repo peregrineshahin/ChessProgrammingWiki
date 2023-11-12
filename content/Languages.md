@@ -8,68 +8,6 @@ Chess programming is dominated by the [C](C "C") and [C++](Cpp "Cpp") languages.
 
 
 
-### Contents
-
-
-* [1 Classical Languages](#classical-languages)
-* [2 Scripting Languages](#scripting-languages)
-* [3 Chess Languages](#chess-languages)
-* [4 Game Languages](#game-languages)
-* [5 Publications](#publications)
-	+ [5.1 1950 ...](#1950-...)
-	+ [5.2 1960 ...](#1960-...)
-	+ [5.3 1970 ...](#1970-...)
-	+ [5.4 1980 ...](#1980-...)
-	+ [5.5 1990 ...](#1990-...)
-	+ [5.6 2000 ...](#2000-...)
-	+ [5.7 2010 ...](#2010-...)
-	+ [5.8 2020 ...](#2020-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 General](#general)
-	+ [7.2 Miscellaneous](#miscellaneous)
-* [8 References](#references)
-
-
-
-
-
-
-[Compiled](https://en.wikipedia.org/wiki/Compiler) and [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) languages.
-
-
-
-* [Ada](index.php?title=Ada&action=edit&redlink=1 "Ada (page does not exist)")
-* [Algol](Algol "Algol")
-* [Assembly](Assembly "Assembly")
-* [Basic](Basic "Basic")
-* [C](C "C")
-* [C#](C_sharp "C sharp")
-* [Cilk](Cilk "Cilk")
-* [C++](Cpp "Cpp")
-* [D](D_(Programming_Language) "D (Programming Language)")
-* [Delphi](Delphi "Delphi")
-* [Forth](Forth "Forth")
-* [Fortran](Fortran "Fortran")
-* [Go (Programming Language)](Go_(Programming_Language) "Go (Programming Language)")
-* [Haskell](index.php?title=Haskell&action=edit&redlink=1 "Haskell (page does not exist)")
-* [Java](Java "Java")
-* [Julia](index.php?title=Julia&action=edit&redlink=1 "Julia (page does not exist)")
-* [Lisp](index.php?title=Lisp&action=edit&redlink=1 "Lisp (page does not exist)")
-* [Modula-2](index.php?title=Modula-2&action=edit&redlink=1 "Modula-2 (page does not exist)")
-* [Nim (Programming Language)](Nim_(Programming_Language) "Nim (Programming Language)")
-* [OCaml](index.php?title=OCaml&action=edit&redlink=1 "OCaml (page does not exist)")
-* [OpenCL](OpenCL "OpenCL")
-* [Pascal](Pascal "Pascal")
-* [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)")
-* [Prolog](index.php?title=Prolog&action=edit&redlink=1 "Prolog (page does not exist)")
-* [Python](Python "Python")
-* [Ruby](index.php?title=Ruby&action=edit&redlink=1 "Ruby (page does not exist)")
-* [Rust](Rust "Rust")
-* [Scheme](index.php?title=Scheme&action=edit&redlink=1 "Scheme (page does not exist)")
-* [Simula](index.php?title=Simula&action=edit&redlink=1 "Simula (page does not exist)")
-
-
 ## Scripting Languages
 
 

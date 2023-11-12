@@ -15,31 +15,6 @@ Guy was chess player and composer of [chess endgame studies](Chess_Problems,_Com
 
 
 
-### Contents
-
-
-* [1 Winning Ways](#winning-ways)
-* [2 Le Problème](#le-probl.c3.a8me)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1956 ...](#1956-...)
-	+ [3.2 1960 ...](#1960-...)
-	+ [3.3 1970 ...](#1970-...)
-	+ [3.4 1980 ...](#1980-...)
-	+ [3.5 1990 ...](#1990-...)
-	+ [3.6 2000 ...](#2000-...)
-	+ [3.7 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Winning Ways for your Mathematical Plays](https://en.wikipedia.org/wiki/Winning_Ways_for_your_Mathematical_Plays) by [Elwyn Berlekamp](Elwyn_Berlekamp "Elwyn Berlekamp"), [John H. Conway](John_H._Conway "John H. Conway"), and Richard K. Guy is a compendium of information on [mathematical games](https://en.wikipedia.org/wiki/Mathematical_game), [first](#winningways1) published 1982 in two volumes, [second edition](#winningways2) published in four volumes from 2001 until 2004.
-
-
-
 ## Le Problème
 
 

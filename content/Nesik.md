@@ -10,41 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Marek Strejczek](Ma
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Selected Games](#selected-games)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-* [Alpha-Beta](Alpha-Beta "Alpha-Beta")
-* [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
-* [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-* [Bitboard](Bitboards "Bitboards") and [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") [Move Generation](Move_Generation "Move Generation")
-* [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
-* [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [Transposition Table](Transposition_Table "Transposition Table")
-* [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
-* [History Heuristic](History_Heuristic "History Heuristic")
-* [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
-* [Some (fractional) Extensions](Extensions#FractionalExtensions "Extensions")
-* [Pondering](Pondering "Pondering")
-* [Evaluation Function](Evaluation_Function "Evaluation Function")
-* [Opening Book](Opening_Book "Opening Book") (about 200,000 positions)
-
-
 ## Selected Games
 
 

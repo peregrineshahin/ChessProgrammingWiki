@@ -12,49 +12,6 @@ in [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh), [Scotland](https://en.w
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou")
-* [Ivan Bratko](Ivan_Bratko "Ivan Bratko")
-* [David Basin](Mathematician#DBasin "Mathematician")
-* [Alan Bundy](Mathematician#ABundy "Mathematician")
-* [Christopher Clark](Christopher_Clark "Christopher Clark")
-* [Kevin Coplan](Kevin_Coplan "Kevin Coplan")
-* [Peter Dayan](Peter_Dayan "Peter Dayan")
-* [Jim Doran](Jim_Doran "Jim Doran")
-* [Maarten van Emden](Maarten_van_Emden "Maarten van Emden")
-* [Ian Frank](Ian_Frank "Ian Frank")
-* [Alejandro González Romero](Alejandro_Gonz%C3%A1lez_Romero "Alejandro González Romero")
-* [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie")
-* [Eduardo F. Morales](Eduardo_F._Morales "Eduardo F. Morales")
-* [Danny Kopec](Danny_Kopec "Danny Kopec")
-* [David Levy](David_Levy "David Levy"), associated
-* [Donald Michie](Donald_Michie "Donald Michie")
-* [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton")
-* [Tim Niblett](Tim_Niblett "Tim Niblett")
-* [Gordon Plotkin](https://en.wikipedia.org/wiki/Gordon_Plotkin)
-* [Fred Popowich](Fred_Popowich "Fred Popowich")
-* [Alen Shapiro](Alen_Shapiro "Alen Shapiro")
-* [Amos Storkey](Amos_Storkey "Amos Storkey")
-* [Soei Tan](Soei_Tan "Soei Tan")
-* [Austin Tate](https://en.wikipedia.org/wiki/Austin_Tate)
-* [Chris J. Thornton](Chris_J._Thornton "Chris J. Thornton")
-* [Greg Wilson](Greg_Wilson "Greg Wilson")
-* [Zdenek Zdrahal](Zdenek_Zdrahal "Zdenek Zdrahal")
-
-
 ## Chess Programs
 
 

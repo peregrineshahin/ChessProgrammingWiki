@@ -12,24 +12,6 @@ a German [multimedia](https://en.wikipedia.org/wiki/Multimedia) chess program re
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**2000**). *Christomannos Jünger - Womit Schachprogrammierer ihr Geld verdienen*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 6, 2000, [pdf](https://brigitte-godot.com/wp-content/uploads/2018/03/Christomannos.pdf) (German) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## Forum Posts
 
 

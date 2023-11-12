@@ -12,25 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:LevyOConnell.JPG) Designers: [David Levy](David_Levy "David Levy") and [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") <a id="cite-note-2" href="#cite-ref-2">[2]</a> 
-Concept and design of Intelligent Chess were by [David Levy](David_Levy "David Levy") and [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell"). The 8 KiB [6502](6502 "6502") program was based on the [Chess Champion Super System III](Chess_Champion_Super_System_III "Chess Champion Super System III") by [Mike Johnson](Mike_Johnson "Mike Johnson") and the then latest version of the [Philidor](Philidor "Philidor") playing program, according to [Mike Watters](Mike_Watters "Mike Watters") mainly written by [Mark Taylor](Mark_Taylor "Mark Taylor") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The circuit design was by [Barry Savage](index.php?title=Barry_Savage&action=edit&redlink=1 "Barry Savage (page does not exist)"), inventor of the [Tolinka](index.php?title=Tolinka&action=edit&redlink=1 "Tolinka (page does not exist)") display system <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## See also
 
 

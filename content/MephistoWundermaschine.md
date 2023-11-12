@@ -13,30 +13,6 @@ It was in 1994 when [Eric Winkler](Eric_Winkler "Eric Winkler"), CEO of [Saitek 
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 ACM 1988](#acm-1988)
-	+ [1.2 ACM 1989](#acm-1989)
-	+ [1.3 WMCCC 1993](#wmccc-1993)
-* [2 Achievements](#achievements)
-* [3 Mephisto People](#mephisto-people)
-	+ [3.1 Programmers](#programmers)
-	+ [3.2 Business People](#business-people)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Computer](#chess-computer)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
 ### ACM 1988
 
 

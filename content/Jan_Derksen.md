@@ -11,26 +11,6 @@ Along with [Harry Nefkens](Harry_Nefkens "Harry Nefkens") and [Jaap van den Heri
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:PionTeam.jpg) 
-[Pion](Pion "Pion") team: <?>, Jan Derksen, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Harry Nefkens](Harry_Nefkens "Harry Nefkens") (center), [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen")   
-back of head of [Sito Dekker](Sito_Dekker "Sito Dekker") sitting in front of the board <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## See also
 
 

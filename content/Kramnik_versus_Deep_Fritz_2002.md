@@ -13,41 +13,6 @@ The Fritz team was represented by primary author [Frans Morsch](Frans_Morsch "Fr
 
 
 
-### Contents
-
-
-* [1 Course of the Match](#Course_of_the_Match)
-* [2 Prologue](#Prologue)
-* [3 Computer Qualifier](#Computer_Qualifier)
-* [4 Concession](#Concession)
-* [5 Games](#Games)
-	+ [5.1 Round 1](#Round_1)
-	+ [5.2 Round 2](#Round_2)
-	+ [5.3 Round 3](#Round_3)
-	+ [5.4 Round 4](#Round_4)
-	+ [5.5 Round 5](#Round_5)
-	+ [5.6 Round 6](#Round_6)
-	+ [5.7 Round 7](#Round_7)
-	+ [5.8 Round 8](#Round_8)
-* [6 See also](#See_also)
-* [7 Publications](#Publications)
-* [8 Forum Posts](#Forum_Posts)
-* [9 External Links](#External_Links)
-	+ [9.1 ChessBase](#ChessBase)
-	+ [9.2 Spiegel](#Spiegel)
-	+ [9.3 TIME](#TIME)
-	+ [9.4 Interviews](#Interviews)
-* [10 References](#References)
-
-
-
-
-
-
-The first half was dominated by Vladimir Kramnik, when he successfully applied an [anti-computer](index.php?title=Anti-Computerchess&action=edit&redlink=1 "Anti-Computerchess (page does not exist)") strategy and won [game 2](Kramnik_versus_Deep_Fritz_2002#2 "Kramnik versus Deep Fritz 2002") and [3](Kramnik_versus_Deep_Fritz_2002#3 "Kramnik versus Deep Fritz 2002") for a 3-1 lead [[8]](#cite_note-8). However, Deep Fritz fought back and could equalize due to a blunder of Kramnik in [game 5](#5) [[9]](#cite_note-9), and Kramnik's risky piece sacrifice [[10]](#cite_note-10) and with hindsight premature resignation in [game 6](Kramnik_versus_Deep_Fritz_2002#6 "Kramnik versus Deep Fritz 2002") [[11]](#cite_note-11).
-
-
-
 ## Prologue
 
 

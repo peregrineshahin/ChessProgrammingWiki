@@ -8,25 +8,6 @@ A **Pawn Push** is a [quiet](Quiet_Moves "Quiet Moves"), [irreversible](Irrevers
 
 
 
-### Contents
-
-
-* [1 Promotion](#promotion)
-* [2 Double Push](#double-push)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-A push from the seventh (second) rank is a [promotion](Promotions "Promotions").
-
-
-
-
 ## Double Push
 
 

@@ -14,27 +14,6 @@ Her research interests include [internet research](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 Move Choices](#move-choices)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Mark Levene](Mark_Levene "Mark Levene"), Judit Bar-Ilan published on move choices of chess engines in particular of [Fritz](Fritz "Fritz") and [Junior](Junior "Junior") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-and further compared typical opening move choices made by humans and engines using [nonparametric association measures](https://en.wikipedia.org/wiki/Non-parametric_statistics), a weighted version of [Spearman's rank correlation coefficients](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), and the [Jensen-Shannon divergence](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence) (JSD) nonparametric measure, which allows to measure the similarity between two distributions <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Publications
 
 

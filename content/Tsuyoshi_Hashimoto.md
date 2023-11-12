@@ -12,26 +12,6 @@ a Japanese computer scientist and lecturer at [Japan Advanced Institute of Scien
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1999](#1999)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2005 ...](#2005-...)
-	+ [1.4 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1999
 
 

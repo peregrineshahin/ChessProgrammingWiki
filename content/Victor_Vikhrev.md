@@ -15,26 +15,6 @@ a Russian physicist and since 1968 leading researcher at [Kurchatov Institute](h
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Photos](#photos)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-As former avocational computer chess programmer, Victor Vikhrev is primary author of the chess program [Centaur](Centaur "Centaur"), along with co-author [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin"). 
-He already started chess programming in 1971, his first chess program written in [Algol](Algol "Algol") played its first games on a [BESM-6](https://en.wikipedia.org/wiki/BESM-6). 
-Centaur was later re-written in [Pascal](Pascal "Pascal") to run on an [IBM PC](IBM_PC "IBM PC") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Photos
 
 

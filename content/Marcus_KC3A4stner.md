@@ -12,22 +12,6 @@ a German actor <a id="cite-note-2" href="#cite-ref-2">[2]</a> and lawyer <a id="
 
 
 
-### Contents
-
-
-* [1 Selected Articles](#selected-articles)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Marcus Kästner (**2000**). *[Interview with Ed Schröder](http://www.rebel.nl/marcus.htm)*. [ChessBits](ChessBits "ChessBits"), No. 8, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-
-
 ## Forum Posts
 
 

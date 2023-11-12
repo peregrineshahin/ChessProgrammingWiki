@@ -12,27 +12,6 @@ an Austrian mathematician, computer scientist, and [AI](Artificial_Intelligence 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1996 ...](#1996-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2010 ...](#2010-...)
-	+ [1.4 2020 ...](#2020-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1996 ...
 
 

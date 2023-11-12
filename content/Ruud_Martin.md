@@ -18,24 +18,6 @@ and is also long time participant of *Dedicated User Tournaments* such as the *C
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:Userswinners040.jpg "text-bottomn") 
-Winners of the [ICT 2007](ICT_2007 "ICT 2007") users tournament: [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis"), Ruud Martin, [Rob van Son](Rob_van_Son "Rob van Son") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

@@ -8,46 +8,6 @@ title: Unmake Move
 
 
 
-### Contents
-
-
-* [1 Negamax](#negamax)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1998 ...](#1998-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010 ...](#2010-...)
-	+ [3.5 2015 ...](#2015-...)
-
-
-
-
-
-
-This is how [make](Make_Move "Make Move") and Unmake Move are applied inside a [recursive](Recursion "Recursion") search routine, for simplicity [Negamax](Negamax "Negamax"):
-
-
-
-
-```C++
-
-int negaMax( int depth ) {
-    if ( depth == 0 ) return evaluate();
-    int max = -oo;
-    generateMoves(...);
-    while ( m = getNextMove(...) )  {
-        makeMove(m); 
-        score = -negaMax( depth - 1 );
-        unmakeMove(m); 
-        if( score > max )
-            max = score;
-    }
-    return max;
-}
-
-```
-
 ## See also
 
 

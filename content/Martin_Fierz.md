@@ -19,27 +19,6 @@ and the Checkers [GUI](GUI "GUI") *CheckerBoard* <a id="cite-note-4" href="#cite
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...-2)
-	+ [2.2 2016 ...](#2016-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 2000 ...
 
 

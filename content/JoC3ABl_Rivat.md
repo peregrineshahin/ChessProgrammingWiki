@@ -12,24 +12,6 @@ a French mathematician and computer scientist at [University of the Mediterranea
 
 
 
-### Contents
-
-
-* [1 Bitboards](#bitboards)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-As computer chess programmer, Joël Rivat is early [bitboard](Bitboards "Bitboards") proponent, and author of the chess engine [Chess Guru](Chess_Guru "Chess Guru"). He started chess programming in conjunction with C. Marche, G. Le Blanc in 1990, and rewrote everything using bitboards. After [Robert Hyatt](Robert_Hyatt "Robert Hyatt") started using bitboards too, discussions and sharing new ideas permitted to improve the technique considerably <a id="cite-note-3" href="#cite-ref-3">[3]</a> . 
-
-
-
 ## Selected Publications
 
 

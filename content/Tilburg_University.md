@@ -13,32 +13,6 @@ The university was founded in 1927 as the *Roman Catholic University of Commerce
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Events 2011](#events-2011)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Mohamed Abbadi](Mohamed_Abbadi "Mohamed Abbadi")
-* [Sander Bakkes](index.php?title=Sander_Bakkes&action=edit&redlink=1 "Sander Bakkes (page does not exist)")
-* [Max Euwe](Max_Euwe "Max Euwe")
-* [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons")
-* [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-* [Henk Koppelaar](Henk_Koppelaar "Henk Koppelaar")
-* [Aske Plaat](Aske_Plaat "Aske Plaat")
-* [Eric Postma](Eric_Postma "Eric Postma")
-* [Fritz Reul](Fritz_Reul "Fritz Reul")
-* [Pieter Spronck](Pieter_Spronck "Pieter Spronck")
-
-
 ## Events 2011
 
 

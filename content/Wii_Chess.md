@@ -15,23 +15,6 @@ Wii Chess was released on January 18, 2008 in Europe and on September 30, 2008 u
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Loop](Loop_(Program) "Loop (Program)")
-
-
 ## Publications
 
 

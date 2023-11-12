@@ -15,27 +15,6 @@ PLY was discontinued in 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
-### Contents
-
-
-* [1 Authors and Editors](#authors-and-editors)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Roald Berthelsen](index.php?title=Roald_Berthelsen&action=edit&redlink=1 "Roald Berthelsen (page does not exist)")
-* [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling")
-* [Tony Hedlund](Tony_Hedlund "Tony Hedlund")
-* [Thoralf Karlsson](index.php?title=Thoralf_Karlsson&action=edit&redlink=1 "Thoralf Karlsson (page does not exist)")
-* [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
-* [Hans Pahlén](index.php?title=Hans_Pahl%C3%A9n&action=edit&redlink=1 "Hans Pahlén (page does not exist)")
-
-
 ## See also
 
 

@@ -15,24 +15,6 @@ In 1981 Kittinger was hired by [Peter Auge](Peter_Auge "Peter Auge"), and MyChes
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Anatomy](#anatomy)
-	+ [1.2 Move Generation](#move-generation)
-* [2 Further Developments](#further-developments)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
 ### Anatomy
 
 

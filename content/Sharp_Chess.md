@@ -10,25 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess program](Category
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Namesake](#namesake)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-##Chess uses an [8x8 board](8x8_Board "8x8 Board") maintained by a [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") [search](Search "Search") with [transposition table](Transposition_Table "Transposition Table") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") loop. [Evaluation](Evaluation "Evaluation") is primarily due to [material balance](Material "Material") (MB) - a positional bonus based on [piece-square tables](Piece-Square_Tables "Piece-Square Tables") might be skipped by [lazy evaluation](Lazy_Evaluation "Lazy Evaluation") if MB is at least 50 [centipawns](Centipawns "Centipawns") outside the [alpha-beta window](Window "Window"). #Chess features a [peft](Perft "Perft") and [divide](Perft#Divide "Perft") command <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Namesake
 
 

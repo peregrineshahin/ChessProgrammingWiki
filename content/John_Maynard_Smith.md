@@ -12,24 +12,6 @@ was a British theoretical [evolutionary biologist](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 SOMA](#soma)
-* [2 ESS](#ess)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In [1961](Timeline#1961 "Timeline"), John Maynard Smith created a chess machine called [SOMA](SOMA "SOMA"), the Smith One-Move Analyzer, as a challenger of [Donald Michie's](Donald_Michie "Donald Michie") and [Shaun Wylie's](Shaun_Wylie "Shaun Wylie") early program [Machiavelli](Machiavelli "Machiavelli") from 1947-48 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, of whose method of working he was in ignorance <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Later John Maynard Smith built a SOMA-Machiavelli hybrid named SOMAC (SOMA with features taken from the Machiavelli) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. This machine, when allowed a lookahead of two, has a standard of play equal to that of a mediocre human player ... <a id="cite-note-6" href="#cite-ref-6">[6]</a><a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-
-
-
 ## ESS
 
 

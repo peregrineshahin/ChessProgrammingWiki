@@ -15,30 +15,6 @@ Karp introduced the now standard methodology for proving problems to be [NP-comp
 
 
 
-### Contents
-
-
-* [1 StarTech](#startech)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1959](#1959)
-	+ [2.2 1960 ...](#1960-...)
-	+ [2.3 1970 ...](#1970-...)
-	+ [2.4 1980 ...](#1980-...)
-	+ [2.5 1990 ...](#1990-...)
-	+ [2.6 2000 ...](#2000-...)
-	+ [2.7 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-According to primary [StarTech](StarTech "StarTech") author [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [Hans Berliner](Hans_Berliner "Hans Berliner"), Richard Karp, [David Slate](David_Slate "David Slate"), and [Lewis Stiller](Lewis_Stiller "Lewis Stiller") contributed to a mini-seminar on computer chess held at [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation) on August 12, 1991. In particular, Richard Karp suggested that StarTech should be based on Berliner’s serial program [HiTech](HiTech "HiTech") rather than [GNU Chess](GNU_Chess "GNU Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
-
-
-
 ## Selected Publications
 
 

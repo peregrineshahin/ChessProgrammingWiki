@@ -15,28 +15,6 @@ Peter Dayan obtained a B.Sc. in mathematics from [University of Cambridge](https
 
 
 
-### Contents
-
-
-* [1 Work](#work)
-* [2 Learning Go](#learning-go)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1990 ...](#1990-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Peter Dayan's work has been influential in several fields impinging on [cognitive science](Cognition "Cognition"), including [machine learning](Learning "Learning"), [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics), [neuroscience](https://en.wikipedia.org/wiki/Neuroscience) and [psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)") - he has articulated a view in which [neural computation](Neural_Networks "Neural Networks") is akin to a [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) process <a id="cite-note-6" href="#cite-ref-6">[6]</a>. His research centers around [self-supervised learning](Supervised_Learning "Supervised Learning"), [reinforcement learning](Reinforcement_Learning "Reinforcement Learning"), [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning"), [population coding](https://en.wikipedia.org/wiki/Neural_coding#Population_coding) and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"). He researched and published on [Q-learning](https://en.wikipedia.org/wiki/Q-learning) with [Chris Watkins](index.php?title=Chris_Watkins&action=edit&redlink=1 "Chris Watkins (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, 
-and provided a proof of convergence of [TD(λ)](Temporal_Difference_Learning#TDLamba "Temporal Difference Learning") for arbitrary λ <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Learning Go
 
 

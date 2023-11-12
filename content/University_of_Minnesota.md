@@ -12,26 +12,6 @@ a [public](https://en.wikipedia.org/wiki/Public_university) [research university
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Gary Boos](Gary_Boos "Gary Boos")
-* [Haw-ren Fang](Haw-ren_Fang "Haw-ren Fang")
-* [James Mundstock](James_Mundstock "James Mundstock")
-* [James R. Slagle](James_R._Slagle "James R. Slagle")
-* [Marvin L. Stein](Mathematician#MLStein "Mathematician")
-
-
 ## Chess Programs
 
 

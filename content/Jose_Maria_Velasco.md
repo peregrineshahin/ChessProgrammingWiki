@@ -10,21 +10,6 @@ a Spanish computer chess aficionado, programmer, and author of the [Ippolit](Ipp
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2011 ...](#2011-...)
-	+ [1.2 2013 ...](#2013-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2011 ...
 
 

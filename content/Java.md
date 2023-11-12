@@ -8,40 +8,6 @@ title: Java
 
 
 
-### Contents
-
-
-* [1 Advantages](#advantages)
-* [2 Disadvantages](#disadvantages)
-* [3 Java Engines](#java-engines)
-* [4 See also](#see-also)
-* [5 Books & Papers](#books-.26-papers)
-	+ [5.1 1995 ...](#1995-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1997 ...](#1997-...)
-	+ [6.2 2000 ...](#2000-...-2)
-	+ [6.3 2010 ...](#2010-...-2)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 Language](#language)
-	+ [7.2 Chess Libraries](#chess-libraries)
-	+ [7.3 Video Tutorials](#video-tutorials)
-* [8 References](#references)
-
-
-
-
-
-
-* The usage of a virtual machine makes Java chess programs able to **run on any OS** as [Windows](Windows "Windows") or [Linux](Linux "Linux").
-* Java uses [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)). So the programmer doesn't need to care of [memory allocation](https://en.wikipedia.org/wiki/Dynamic_memory_allocation) and freeing.
-* The Java **Ecosystem** is very big. There are millions of free tools as [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) ([Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)), [NetBeans](https://en.wikipedia.org/wiki/NetBeans)), TestTools, [Profilers](https://en.wikipedia.org/wiki/Profiler_(computer_science)), CodeCoverage, Error- and Architecture Checkers, automatic BuildSystems, and so on...
-* Java is a good **OO language** with lots of modern features and tools like embedded databases ([db4o](https://en.wikipedia.org/wiki/Db4o_(object_database)), [hsqldb](https://en.wikipedia.org/wiki/HSQLDB), [H2](https://en.wikipedia.org/wiki/H2_(DBMS)), etc.) that might be useful for chess openings.
-
-
 ## Disadvantages
 
 

@@ -11,26 +11,6 @@ a move path of a chess piece, a [pawn](Pawn_Spans "Pawn Spans"), a [king](King "
 
 
 
-### Contents
-
-
-* [1 Mathematical Projection](#mathematical-projection)
-* [2 Linguistic Geometry](#linguistic-geometry)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The concept of trajectories with the goal of winning [material](Material "Material") was formalized by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") in the 60s. Introduced in 1966 at [Moscow Central Chess Club](https://en.wikipedia.org/wiki/Chess_Centres) <a id="cite-note-2" href="#cite-ref-2">[2]</a> , with the skeptical [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and others attending, he found [Vladimir Butenko](index.php?title=Vladimir_Butenko&action=edit&redlink=1 "Vladimir Butenko (page does not exist)") as supporter and collaborator, who first implemented the [15x15 vector attacks](Vector_Attacks "Vector Attacks") board representation on a [M-20](M-20 "M-20") computer, to [determine trajectories](Distance#15x15 "Distance"). In Botvinnik's hierarchical Mathematical Projection (**MP**) of chess as a complex system, as apparently implemented in [Pioneer](Pioneer "Pioneer"), trajectories build the lowest level of the hierarchy. The concepts of zones as intermediate level of the MP consists of a network of main trajectories conform to attacking of defending plans determined elsewhere, negation trajectories, that is opponent's counter trajectories which may block or combat the primary trajectory in time, and own supporting counter-counter trajectories. The MP controls the growth of a [search tree](Search_Tree "Search Tree") inside a [best-first search](Best-First "Best-First"), and [prunes](Pruning "Pruning") all branches forward which could not reach a goal in time.
-
-
-
 ## Linguistic Geometry
 
 

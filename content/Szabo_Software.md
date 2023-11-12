@@ -12,22 +12,6 @@ primary business was developing and distribution of chess software, notably thei
 
 
 
-### Contents
-
-
-* [1 Products](#products)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [TechMate](TechMate "TechMate")
-
-
 ## Publications
 
 

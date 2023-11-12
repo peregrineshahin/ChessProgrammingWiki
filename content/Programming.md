@@ -8,34 +8,6 @@ This is about general purpose [programming](https://en.wikipedia.org/wiki/Comput
 
 
 
-### Contents
-
-
-* [1 Programming Topics](#programming-topics)
-	+ [1.1 Basics](#basics)
-	+ [1.2 Parallelism](#parallelism)
-	+ [1.3 Misc Programming](#misc-programming)
-	+ [1.4 GUI Programming](#gui-programming)
-* [2 Bug Hunting](#bug-hunting)
-* [3 Optimization](#optimization)
-* [4 Standards](#standards)
-	+ [4.1 Position](#position)
-	+ [4.2 Games](#games)
-	+ [4.3 Protocols](#protocols)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-	+ [8.1 Computation](#computation)
-	+ [8.2 Paradigms](#paradigms)
-	+ [8.3 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
 ### Basics
 
 

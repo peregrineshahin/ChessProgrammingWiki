@@ -14,30 +14,6 @@ According to Larry Wagner, Video Chess was developed as a direct result of a cus
 
 
 
-### Contents
-
-
-* [1 Venetian Blinds](#venetian-blinds)
-* [2 Atari Catalog 1981](#atari-catalog-1981)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The up to eight pieces per row exceeded the [sprite](https://en.wikipedia.org/wiki/Sprite_%28computer_graphics%29) limitations, 
-since the Atari 2600 was only able to display three sprites in a row. 
-Bob Whitehead developed a pioneering "venetian blinds" <a id="cite-note-5" href="#cite-ref-5">[5]</a> animation technique, 
-an algorithm that horizontally reused and vertically interlaced sprites several times while rendering each frame, 
-to give the illusion that the system had more than the maximum number of sprites allowed by the hardware <a id="cite-note-6" href="#cite-ref-6">[6]</a>. However, the computer could not show the position and calculate at the same time.
-
-
-
 ## Atari Catalog 1981
 
 

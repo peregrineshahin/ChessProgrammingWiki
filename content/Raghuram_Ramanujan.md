@@ -12,29 +12,6 @@ an [Indian American](https://en.wikipedia.org/wiki/Indian_Americans) electrical 
 
 
 
-### Contents
-
-
-* [1 UCT](#uct)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), and [Bart Selman](Bart_Selman "Bart Selman"), Raghuram Ramanujan researched on [Upper Confidence bounds applied to Trees](UCT "UCT") (UCT). Quote from their abstract *On Adversarial Search Spaces and Sampling-Based Planning* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-UCT has been shown to outperform traditional [minimax](Minimax "Minimax") based approaches in several challenging domains such as [Go](Go "Go") and [Kriegspiel](index.php?title=Kriegspiel&action=edit&redlink=1 "Kriegspiel (page does not exist)"), although minimax search still prevails in other domains such as [Chess](Chess "Chess"). This work provides insights into the properties of adversarial search spaces that play a key role in the success or failure of UCT and similar sampling-based approaches. We show that certain "early loss" or "shallow trap" configurations, while unlikely in Go, occur surprisingly often in games like Chess (even in grandmaster games). We provide evidence that UCT, unlike minimax search, is unable to identify such traps in Chess and spends a great deal of time exploring much deeper game play than needed. 
-
-```
-
 ## Selected Publications
 
 

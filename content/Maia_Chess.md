@@ -19,29 +19,6 @@ To play chess, Maia requires its models used in [Lc0](Leela_Chess_Zero "Leela Ch
 
 
 
-### Contents
-
-
-* [1 Model](#model)
-* [2 Dedicated Maia](#dedicated-maia)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-[Boards were represented](Board_Representation "Board Representation") as a 8×8×17 dimensional [array](Array "Array") with the 12 channels [encoding pieces](Pieces#PieceTypeCoding "Pieces"), 4 channels encoding [castling rights](Castling_Rights "Castling Rights"), and one encoding whether the [active player](Side_to_move "Side to move") is white.
-The [residual](Neural_Networks#Residual "Neural Networks") [CNN](Neural_Networks#Convolutional "Neural Networks") has 6 residual blocks with two set of 2D CNNs with 64 channels and a 3×3 kernel <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## Dedicated Maia
 
 

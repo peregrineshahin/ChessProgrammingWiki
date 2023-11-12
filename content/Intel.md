@@ -12,30 +12,6 @@ an American global technology company and the world's largest [semiconductor](ht
 
 
 
-### Contents
-
-
-* [1 Sponsoring](#sponsoring)
-* [2 Architectures](#architectures)
-* [3 SIMD Extensions](#simd-extensions)
-* [4 General Purpose Extensions](#general-purpose-extensions)
-* [5 Development](#development)
-* [6 Manuals](#manuals)
-	+ [6.1 Instructions](#instructions)
-	+ [6.2 Optimization Guides](#optimization-guides)
-* [7 See also](#see-also)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-* [WCCC 2004](WCCC_2004 "WCCC 2004") » [Intel Israel](http://www.intel.com/cd/corporate/europe/emea/heb/287256.htm) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## Architectures
 
 

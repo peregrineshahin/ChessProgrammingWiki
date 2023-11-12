@@ -11,39 +11,6 @@ One [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digit {'0'..'9', 'A
 
 
 
-### Contents
-
-
-* [1 Nibble as Type](#nibble-as-type)
-* [2 Signed Nibbles](#signed-nibbles)
-* [3 Array of Nibbles](#array-of-nibbles)
-* [4 SWAR Nibbles](#swar-nibbles)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-A nibble is appropriate to hold the value ranges of
-
-
-
-* [Pieces](Pieces "Pieces")
-* [Files](Files "Files") (3 bits, but see [0x88](0x88 "0x88"))
-* [Ranks](Ranks "Ranks") (3 bits, but see [0x88](0x88 "0x88"))
-* [Diagonals](Diagonals "Diagonals")
-* [Anti-Diagonals](Anti-Diagonals "Anti-Diagonals")
-* [Distance](Distance "Distance") (3 bits)
-* [Manhattan-Distance](Manhattan-Distance "Manhattan-Distance")
-* [Knight-Distance](Knight-Distance "Knight-Distance") (3 bits)
-* [Move Directions](Direction#MoveDirections "Direction")
-
-
 ## Signed Nibbles
 
 

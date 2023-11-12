@@ -12,65 +12,6 @@ a series of personal computers (PCs) designed, developed, and marketed by [Apple
 
 
 
-### Contents
-
-
-* [1 Timeline](#timeline)
-* [2 GUIs](#guis)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1990 ...](#1990-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2010 ...](#2010-...)
-	+ [5.4 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-
-|  Model
- |  Year
- |  Processor
- |
-| --- | --- | --- |
-| [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) |  1984
- | [68000](68000 "68000") |
-| [Macintosh II](https://en.wikipedia.org/wiki/Macintosh_II) |  1987
- | [68020](68020 "68020") |
-| [Macintosh IIx](https://en.wikipedia.org/wiki/Macintosh_IIx) |  1988
- | [68030](68030 "68030") |
-| [Macintosh Quadra](https://en.wikipedia.org/wiki/Macintosh_Quadra) |  1991
- | [68040](index.php?title=68040&action=edit&redlink=1 "68040 (page does not exist)") |
-| [Power Mac](https://en.wikipedia.org/wiki/Power_Macintosh) |  1994
- | [PowerPC](PowerPC "PowerPC") |
-| [iMac G3](https://en.wikipedia.org/wiki/IMac_G3) |  1998
- | [PowerPC](PowerPC "PowerPC") G3
- |
-| [iMac G4](https://en.wikipedia.org/wiki/IMac_G4) |  2002
- | [PowerPC](PowerPC "PowerPC") G4
- |
-| [iMac G5](https://en.wikipedia.org/wiki/IMac_G5) |  2004
- | [PowerPC](PowerPC "PowerPC") G5
- |
-| [iMac](https://en.wikipedia.org/wiki/IMac_%28Intel-based%29) ([Intel](Intel "Intel"))
- |  2006
- | [x86-64](X86-64 "X86-64") |
-| [Mac Pro](https://en.wikipedia.org/wiki/Mac_Pro) |  2006, 2013
- | [x86-64](X86-64 "X86-64") |
-| [MacBook Air](https://en.wikipedia.org/wiki/MacBook_Air)[Mac Mini](https://en.wikipedia.org/wiki/Mac_Mini) |  2020
- | [Apple M1](index.php?title=Apple_M1&action=edit&redlink=1 "Apple M1 (page does not exist)") |
-
-
 ## GUIs
 
 

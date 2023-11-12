@@ -13,24 +13,6 @@ As a chess player, Wil Sparreboom is active in the *Rotterdamse Schaakbond* (RSB
 
 
 
-### Contents
-
-
-* [1 TASC](#tasc)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the mid 80s, Wil Sparreboom, while affiliated with *Riska B.V. Home & Personal Computers*, had the idea to construct and realize an [expansion-cartridge](https://en.wikipedia.org/wiki/ROM_cartridge) for [Commodore 64](Commodore_64 "Commodore 64") and [Commodore 128](Commodore_128 "Commodore 128") home computers, the [The Final Cartridge III](https://en.wikipedia.org/wiki/The_Final_Cartridge_III) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, able to run computer games and applications much faster with an own, [WIMP](https://en.wikipedia.org/wiki/WIMP_%28computing%29) compliant user interface. 
-Based on the success of the card, and a chess program by [Marc Derksen](Marc_Derksen "Marc Derksen"), the The Final Cartridge III evolved to the [The Final Chesscard](The_Final_Chesscard "The Final Chesscard"), which in 1989 became the first product of the new founded company [TASC](TASC "TASC"). Under the direction of Wil Sparreboom, TASC raised until the end of the 90s <a id="cite-note-5" href="#cite-ref-5">[5]</a> with innovative chess products, such as the [ChessMachine](ChessMachine "ChessMachine") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, the [TASC Chess System](index.php?title=TASC_Chess_System&action=edit&redlink=1 "TASC Chess System (page does not exist)"), [TASC SmartBoard](TASC_SmartBoard "TASC SmartBoard"), [TascBase](TascBase "TascBase") and the [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") [TASC R30](TASC_R30 "TASC R30") and [TASC R40](TASC_R40 "TASC R40").
-
-
-
 ## Publications
 
 

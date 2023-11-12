@@ -11,45 +11,6 @@ SSSE3 instructions are not available for [AMD](AMD "AMD") processors until Bulld
 
 
 
-### Contents
-
-
-* [1 Instructions](#instructions)
-	+ [1.1 PH(ADD/SUB)W](#ph.28add.2fsub.29w)
-		- [1.1.1 Intrinsic](#intrinsic)
-		- [1.1.2 Pseudocode](#pseudocode)
-	+ [1.2 PMADDUBSW](#pmaddubsw)
-		- [1.2.1 Intrinsic](#intrinsic-2)
-		- [1.2.2 Pseudocode](#pseudocode-2)
-	+ [1.3 PMULHRSW](#pmulhrsw)
-		- [1.3.1 Intrinsic](#intrinsic-3)
-		- [1.3.2 Pseudocode](#pseudocode-3)
-	+ [1.4 PSHUFB](#pshufb)
-		- [1.4.1 Intrinsic](#intrinsic-4)
-		- [1.4.2 Pseudocode](#pseudocode-4)
-	+ [1.5 PSIGN](#psign)
-		- [1.5.1 Intrinsic](#intrinsic-5)
-		- [1.5.2 Pseudocode](#pseudocode-5)
-* [2 Applications](#applications)
-	+ [2.1 SSE3 Population Count](#sse3-population-count)
-	+ [2.2 Byte-wise Dot-Product](#byte-wise-dot-product)
-	+ [2.3 SSSE3 Hyperbola Quintessence](#ssse3-hyperbola-quintessence)
-		- [2.3.1 Intrinsic Version](#intrinsic-version)
-		- [2.3.2 Peshkov's Optimization](#peshkov.27s-optimization)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Some of the new instructions are quite interesting for computer chess, with applications in [evaluation](Evaluation "Evaluation") and byte shuffling of [bitboards](Bitboards "Bitboards").
-
-
-
-
 ### PH(ADD/SUB)W
 
 

@@ -12,31 +12,6 @@ The **SSDF** - **S**venska **s**chack**d**ator**f**öreningen, the Swedish Chess
 
 
 
-### Contents
-
-
-* [1 Board of the SSDF](#board-of-the-ssdf)
-	+ [1.1 2009](#2009)
-	+ [1.2 2015](#2015)
-* [2 Stockholm Micro Computer Chess Tournaments](#stockholm-micro-computer-chess-tournaments)
-* [3 Rating Calibration](#rating-calibration)
-* [4 See also](#see-also)
-* [5 Ratings](#ratings)
-	+ [5.1 1994 ...](#1994-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
 ### 2009
 
 

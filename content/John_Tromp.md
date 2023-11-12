@@ -14,69 +14,6 @@ His recreational interests include playing [Go](Go "Go") and [chess](Chess "Ches
 
 
 
-### Contents
-
-
-* [1 Number of Positions](#number-of-positions)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1989](#1989)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-John Tromp has researched on counting the number of legal positions in [Go](Go "Go") and reachable [chess positions](Chess_Position "Chess Position"), and gives an upper bound of 7728772977965919677164873487685453137329736522 (about 10^45.888 or ~ 2^152.437) on the number of chess positions, but states, like the bound of ~10^46.25 published by [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, that it requires better documentation to be considered verifiable <a id="cite-note-4" href="#cite-ref-4">[4]</a>. On January 20, 2016, the number of legal positions on a standard size Go board was determined to be <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
-
-```C++
-
-L19 = 208168199381979984699478633344862770286522453884530548425639456820927419612738015378525648451698519643907259916015628128546089888314427129715319317557736620397247064840935 
-
-```
-
-or more compact
-
-
-
-
-```C++
-
-2081681993819799846
-9947863334486277028
-6522453884530548425
-6394568209274196127
-3801537852564845169
-8519643907259916015
-6281285460898883144
-2712971531931755773
-6620397247064840935
-
-```
-
-The approximation
-
-
-
-
-```C++
-
-L19 ~ 2.081681994 * 10^170
-
-```
-
-has been known since 2006. So what took 10 years to nail it down to the last digit? <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

@@ -15,25 +15,6 @@ The [Fidelity Sensory Chess Challenger 9](Sensory_9 "Sensory 9") based program b
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Computer](#chess-computer)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Fidelity](Fidelity "Fidelity")
-* [Sensory 9](Sensory_9 "Sensory 9")
-
-
 ## Publications
 
 

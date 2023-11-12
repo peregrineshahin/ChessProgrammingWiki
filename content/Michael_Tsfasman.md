@@ -15,27 +15,6 @@ His research interests include [algebraic geometry](https://en.wikipedia.org/wik
 
 
 
-### Contents
-
-
-* [1 Pioneer](#pioneer)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1979](#1979)
-	+ [2.2 1980 ...](#1980-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the late 70s and early 80s, Michael Tsfasman worked along with [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Boris Stilman](Boris_Stilman "Boris Stilman"), [Alexander Yudin](Alexander_Yudin "Alexander Yudin"), and [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy") on the project [Pioneer](Pioneer "Pioneer") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## Selected Publications
 
 

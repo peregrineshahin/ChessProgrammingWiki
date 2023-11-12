@@ -10,44 +10,6 @@ the [parallel](Parallel_Search "Parallel Search") version of [Rudolf Huber's](Ru
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:RudolfHuberSteffenJacob.jpg) 
-[WCCC 2003](WCCC_2003 "WCCC 2003"), [Rudolf Huber](Rudolf_Huber "Rudolf Huber") and [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, round 4, ParSOS - [Hossa](Hossa "Hossa") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "WCCC 2003"]
-[Site "Graz"]
-[Date "2003.11.24"]
-[Round "4"]
-[White "ParSOS"]
-[Black "Hossa"]
-[Result "1-0"]
-
-1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.Nc3 Be7 8.d3 O-O 
-9.Be3 Be6 10.Rc1 Nd5 11.d4 exd4 12.Bxd4 Nxc3 13.Bxc3 Bxa2 14.Qa4 Be6 15.Rfd1 
-Qc8 16.Nd2 Rd8 17.Nc4 Bd7 18.Ne3 Bg5 19.f4 Be7 20.Kh1 Bc5 21.Nd5 Bd6 22.Qc2 
-Bf5 23.e4 Bg4 24.Rd2 Be6 25.e5 Bc5 26.Be4 Bxd5 27.Rxd5 Rxd5 28.Bxd5 Qd7 29.Rd1 
-Rd8 30.Qe4 Kh8 31.f5 Qe7 32.Rf1 Nb4 33.f6 gxf6 34.Bb3 c6 35.Rf5 Nd5 36.Rh5 f5 
-37.Qxf5 f6 38.exf6 1-0
-
-```
-
 ## Forum Posts
 
 

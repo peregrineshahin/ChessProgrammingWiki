@@ -16,27 +16,6 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy
 
 
 
-### Contents
-
-
-* [1 Kalah in AI](#kalah-in-ai)
-* [2 Jugend forscht](#jugend-forscht)
-* [3 Solving Kalah](#solving-kalah)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Kalah has a long history in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") research. First Kalah programs were already written in the 60s, [Alex Bell](Alex_Bell "Alex Bell") popularized Kalah programming in 1968 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In 1968, [James R. Slagle](James_R._Slagle "James R. Slagle") and [Philip Bursky](Philip_Bursky "Philip Bursky") used Kalah in [Theorem-Proving](James_R._Slagle#TheoremProving "James R. Slagle") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and in 1970, Slagle and [Dixon](John_K._Dixon "John K. Dixon") illustrated their [M & N search algorithm](James_R._Slagle#MNprocedure "James R. Slagle") with Kalah as well <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
-
 ## Jugend forscht
 
 

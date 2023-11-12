@@ -12,38 +12,6 @@ an instance with the fame of perfect knowledge, that is [evaluation](Evaluation 
 
 
 
-### Contents
-
-
-* [1 Pre-processing](#Pre-processing)
-* [2 Quotes](#Quotes)
-	+ [2.1 Bruce Wright](#Bruce_Wright)
-	+ [2.2 David Kittinger](#David_Kittinger)
-	+ [2.3 Peter Gillgasch](#Peter_Gillgasch)
-	+ [2.4 Chrilly Donninger](#Chrilly_Donninger)
-	+ [2.5 Don Dailey](#Don_Dailey)
-	+ [2.6 Ulrich Türke](#Ulrich_T.C3.BCrke)
-	+ [2.7 Amir Ban](#Amir_Ban)
-	+ [2.8 Don Dailey](#Don_Dailey_2)
-	+ [2.9 Vincent Diepeveen](#Vincent_Diepeveen)
-* [3 See also](#See_also)
-* [4 Publications](#Publications)
-* [5 Forum Posts](#Forum_Posts)
-* [6 External Links](#External_Links)
-* [7 References](#References)
-
-
-
-
-
-
-A so called oracle approach is a knowledge instance applied at the [root](Root "Root") or the [interior](Interior_Node "Interior Node") of the [tree](Search_Tree "Search Tree") with some [depth](Depth "Depth") left to the [horizon](Horizon_Node "Horizon Node"), which guides [search](Search "Search") and [leaf evaluation](Evaluation "Evaluation") for specific features or [pattern](index.php?title=Pattern&action=edit&redlink=1 "Pattern (page does not exist)"), relevant in particular chess positions, and not in others. This applies to first order evaluation terms by initializing [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables"), also dubbed **Pre Scan Heuristics** [[2]](#cite_note-2) as propagated by [David Kittinger](David_Kittinger "David Kittinger"), as well as second order terms if related pattern match as described by [Hans Berliner](Hans_Berliner "Hans Berliner") in *Some Innovations Introduced by [HiTech](HiTech "HiTech")* [[3]](#cite_note-3). 
-
-
-While [Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") seems somewhat outdated with todays [search depths](Depth "Depth") in conjunction with [transposition table](Transposition_Table "Transposition Table") anomalies and resulting [search instabilities](Search_Instability "Search Instability"), Oracle approaches may be used to control [time management](Time_Management "Time Management"), to [order moves](Move_Ordering "Move Ordering"), or, as proposed by [Ronald de Man](Ronald_de_Man "Ronald de Man") in [scoring root moves](Ronald_de_Man#ScoringRootMoves "Ronald de Man") by slightly shifting the [alpha-beta windows](Window "Window") [[4]](#cite_note-4).
-
-
-
 ## Quotes
 
 

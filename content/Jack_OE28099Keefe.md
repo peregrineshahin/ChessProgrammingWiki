@@ -12,23 +12,6 @@ was an American chess player and chess historian <a id="cite-note-3" href="#cite
 
 
 
-### Contents
-
-
-* [1 CHAOS](#chaos)
-* [2 Quotes](#quotes)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In the 70s and early 80s, along with [Mike Alexander](Mike_Alexander "Mike Alexander"), [Victor Berman](Victor_Berman "Victor Berman"), [Mark Hersey](Mark_Hersey "Mark Hersey") and [Fred Swartz](Fred_Swartz "Fred Swartz"), Jack O’Keefe was team member and chess consultant of the program [CHAOS](CHAOS "CHAOS") <a id="cite-note-5" href="#cite-ref-5">[5]</a> , at that time affiliated with the Computing Center of the [University of Michigan](University_of_Michigan "University of Michigan"). CHAOS was one of the strongest programs of its time, using an unique, knowledge based and selective [best-first](Best-First "Best-First"), iterative widening approach <a id="cite-note-6" href="#cite-ref-6">[6]</a>, keeping the [search tree](Search_Tree "Search Tree") in memory. 
-
-
-
 ## Quotes
 
 

@@ -12,30 +12,6 @@ a [general game playing](General_Game_Playing "General Game Playing") and [learn
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-* [2 Results](#results)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Game Player](#game-player)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-The rule of the game is defined by subroutines for [generating legal moves](Move_Generation#Legal "Move Generation"), as already provided for [Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe), [Connect Four](Connect_Four "Connect Four"), and [Chess](Chess "Chess") in the source files ttt.c, connect4.c, and chess.c. One of them, or an appropriate implementation of another game, needs to be copied to game.c for building SAL to play that game. 
-
-
-
 ### Search
 
 

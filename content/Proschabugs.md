@@ -11,26 +11,6 @@ The aim was not primarily to write a strong chess program but project and team w
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Game Play](#game-play)
-	+ [2.1 Volker Claus](#volker-claus)
-	+ [2.2 First GI Computer Chess](#first-gi-computer-chess)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-A formal [game theoretic](https://en.wikipedia.org/wiki/Game_theory) description based on a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine) and pseudo code of a [Minimax](Minimax "Minimax") implementation was given in [Hagen Huwig's](Hagen_Huwig "Hagen Huwig") project report <a id="cite-note-3" href="#cite-ref-3">[3]</a>, further elaborating on [quiescence](Quiescence_Search "Quiescence Search"), aspects of the [board representation](Board_Representation "Board Representation") using a [12x12 board](10x12_Board "10x12 Board"), [legal move generation](Move_Generation#Legal "Move Generation"), and [heuristic evaluation](Evaluation "Evaluation") considering [material](Material "Material") with [point values](Point_Value "Point Value") of {1,3,3,5,9,200}, [pawn structure](Pawn_Structure "Pawn Structure"), [center control](Center_Control "Center Control") and [king safety](King_Safety "King Safety"). [Alpha-beta](Alpha-Beta "Alpha-Beta") was not mentioned but [forward pruning](Pruning "Pruning") of a [Shannon Type B program](Type_B_Strategy "Type B Strategy") based on [swapoff](SOMA#Swapoff "SOMA") and king safety analysis. Largest piece of code was the legal move generator, the whole program consists of about 5000 PL/I statements.
-
-
-
 ## Game Play
 
 

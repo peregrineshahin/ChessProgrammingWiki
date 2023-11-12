@@ -12,21 +12,6 @@ was an American computer scientist, in the 60s affiliated with [Massachusetts In
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Alpha-Beta](#alpha-beta)
-	+ [1.2 LISP](#lisp)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
 ### Alpha-Beta
 
 

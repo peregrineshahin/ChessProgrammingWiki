@@ -12,26 +12,6 @@ a Russian computer scientist holding a Ph.D. in CS from [Lomonosov Moscow State 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Aquarium](Aquarium "Aquarium")
-* [Chess Assistant](Chess_Assistant "Chess Assistant")
-* [ChessOK](ChessOK "ChessOK")
-* [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases")
-
-
 ## Selected Publications
 
 

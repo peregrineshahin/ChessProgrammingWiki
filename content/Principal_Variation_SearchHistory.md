@@ -12,49 +12,6 @@ an enhancement to [Alpha-Beta](Alpha-Beta "Alpha-Beta"), based on [null- or zero
 
 
 
-### Contents
-
-
-* [1 The Idea](#The_Idea)
-* [2 History](#History)
-* [3 PVS and NegaScout](#PVS_and_NegaScout)
-	+ [3.1 Guido Schimmels](#Guido_Schimmels)
-	+ [3.2 Yngvi Björnsson](#Yngvi_Bj.C3.B6rnsson)
-	+ [3.3 Dennis Breuker](#Dennis_Breuker)
-* [4 Pseudo Code](#Pseudo_Code)
-* [5 PVS + ZWS](#PVS_.2B_ZWS)
-* [6 PVS and Aspiration](#PVS_and_Aspiration)
-* [7 See also](#See_also)
-* [8 Publications](#Publications)
-	+ [8.1 1980 ...](#1980_...)
-	+ [8.2 1985 ...](#1985_...)
-	+ [8.3 2000 ...](#2000_...)
-* [9 Forum Posts](#Forum_Posts)
-	+ [9.1 1995 ...](#1995_...)
-	+ [9.2 2000 ...](#2000_..._2)
-	+ [9.3 2005 ...](#2005_...)
-	+ [9.4 2010 ...](#2010_...)
-	+ [9.5 2015 ...](#2015_...)
-	+ [9.6 2020 ...](#2020_...)
-* [10 External Links](#External_Links)
-* [11 Video Tutorial](#Video_Tutorial)
-* [12 References](#References)
-
-
-
-
-
-
-In most of the [nodes](Node "Node") we need just a [bound](Bound "Bound"), proving that a move is unacceptable for us or for the opponent, and not the [exact score](Exact_Score "Exact Score"). This is needed only in so-called [principal variation](Principal_Variation "Principal Variation") - a sequence of moves acceptable for both players (i.e. not causing a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") anywhere in the path) which is expected to propagate down to the [root](Root "Root"). If a lower-depth search has already established such a sequence, finding a series of moves whose value is greater than [alpha](Alpha "Alpha") but lower than [beta](Beta "Beta") throughout the entire branch, the chances are that deviating from it will do us no good. So in a [PV-node](Node_Types#PV "Node Types") only the first move (the one which is deemed best by the previous iteration of an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework) is searched in the full window in order to establish the expected node value.
-
-
-When we already have a [PV-move](PV-Move "PV-Move") (defined as the move that raised alpha in a PV-node) we assume we are going to stick with it. To confirm our belief, a [null- or zero window](Null_Window "Null Window") search centered around alpha is conducted to test if a new move can be better. If so, with respect to the null window but not with respect to the full window, we have to do a re-search with the full normal window. Since null window searches are cheaper, with a good [move ordering](Move_Ordering "Move Ordering") we expect to save about 10% of a search effort.
-
-
-[Bruce Moreland's](Bruce_Moreland "Bruce Moreland") PVS implementation waits until a move is found that improves alpha, and then searches every move after that with a zero window around alpha [[2]](#cite_note-2) . The alpha improvement usually occurs at the first move, and always at the [leftmost nodes](Leftmost_Node "Leftmost Node") (assuming from left to right traversal) with a most open alpha-beta window of +-oo. In re-searches or with [aspiration-windows](Principal_Variation_Search#PVSandAspiration "Principal Variation Search") the first moves may rarely not improve alpha. As pointed out by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") [[3]](#cite_note-3) , it is recommend to only search the first move with an open window, and then every other move after that with a zero window. A further improvement (similar to that known from the [NegaScout](NegaScout "NegaScout") algorithm) is possible. Since there is not much to be gained in the last two plies of the normal search, one might disable PVS there, but programs respond differently to that change.
-
-
-
 ## History
 
 

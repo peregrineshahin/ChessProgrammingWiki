@@ -12,26 +12,6 @@ was the university in [Paris](https://en.wikipedia.org/wiki/Paris), [France](htt
 
 
 
-### Contents
-
-
-* [1 Organization](#organization)
-	+ [1.1 Humanities, Social Sciences, Economics](#humanities.2c-social-sciences.2c-economics)
-	+ [1.2 Law and Economics](#law-and-economics)
-	+ [1.3 Arts & Humanities](#arts-.26-humanities)
-	+ [1.4 Computer Science and AI](#computer-science-and-ai)
-* [2 People](#people)
-* [3 Chess Programs](#chess-programs)
-* [4 References](#references)
-
-
-
-
-
-
-* [University of Paris](https://en.wikipedia.org/wiki/University_of_Paris)
-
-
 ### Humanities, Social Sciences, Economics
 
 

@@ -13,30 +13,6 @@ Psion was the shared winner of the [WMCCC 1984](WMCCC_1984 "WMCCC 1984"), and al
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Namesakes](#namesakes)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Quote by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") from his [WMCCC 1987](WMCCC_1987 "WMCCC 1987") report <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```C++
-Clearly, Richard Lang has produced the strongest microcomputer program in the world. It searches 4-5 plies [brute force](Brute-Force "Brute-Force") plus up to 6-7 plies [selective search](Selectivity "Selectivity"). The program contains a lot of [chess knowledge](Knowledge "Knowledge"), which is used both in the [tree](Search_Tree "Search Tree") and to create [piece-value-tables](index.php?title=Piece-Square_tables&action=edit&redlink=1 "Piece-Square tables (page does not exist)"). The chess knowledge was obtained from chess masters, who analyzed games played by the program. The program has an [asymmetric evaluation](Asymmetric_Evaluation "Asymmetric Evaluation") function, which emphasis safety (has rules like 'do not start a wild attack, but worry a lot if the opponent does so'). The program searches about 4000 [nodes per second](Nodes_per_Second "Nodes per Second") on a 28 MHz [68020](68020 "68020"), but this includes a thorough analysis at every node, including a [swap-off evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") (static analysis of captures instead of a [capture search](Quiescence_Search "Quiescence Search")). 
-
-```
-
 ## Namesakes
 
 

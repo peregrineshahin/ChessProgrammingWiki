@@ -10,24 +10,6 @@ a Japanese [Shogi](Shogi "Shogi") player and computer scientist at [Shizuoka Uni
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[](File:Maastricht2001Shogi.jpg)
-[Jeff Rollason](Jeff_Rollason "Jeff Rollason") and Yoichiro Kajihara in [Shotest 5.6](index.php?title=Shotest&action=edit&redlink=1 "Shotest (page does not exist)") vs. [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)") at the [6th Computer Olympiad 2001](6th_Computer_Olympiad#Shogi "6th Computer Olympiad") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Publications
 
 

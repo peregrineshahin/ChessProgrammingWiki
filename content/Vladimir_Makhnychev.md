@@ -15,25 +15,6 @@ which were generated using the [Lomonosov Supercomputer](Lomonosov_Supercomputer
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Aquarium](Aquarium "Aquarium")
-* [ChessOK](ChessOK "ChessOK")
-* [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases")
-* [Lomonosov Moscow State University](Moscow_State_University "Moscow State University")
-
-
 ## Selected Publications
 
 

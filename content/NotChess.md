@@ -11,29 +11,6 @@ but was overtaken the request to enter it in [Don Beal's](Don_Beal "Don Beal") [
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-by [Andy Walker](Andy_Walker "Andy Walker") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```C++
-Notchess was originally written as a sort-of demo program for this module, but it was overtaken by events and a request to enter it in a tournament. Unsurprisingly, since it was only debugged a couple of days before the start, and it had been intended for clarity rather than speed, it came last. The following year, I again received a request to enter Notchess for the so-called `[Uniform Platform](UPCCC_1994 "UPCCC 1994")' competition, and it won one game and drew a couple, so at least avoided the [wooden spoon](https://en.wikipedia.org/wiki/Wooden_spoon_%28award%29). However, in the attempt to make it usable for the tournament, clarity suffered, and it is not a program I would commend for style. Some day, I'll get around to re-writing it twice, once for this module and once in an attempt to play well! 
-
-```
-
 ## Forum Posts
 
 

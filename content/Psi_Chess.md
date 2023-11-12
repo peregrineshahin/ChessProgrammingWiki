@@ -16,23 +16,6 @@ various playing modes, and is aware of all chess rules including [minor promotio
 
 
 
-### Contents
-
-
-* [1 Reviews](#reviews)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Program](#chess-program)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Gwyn Hughes](https://magazinesfromthepast.fandom.com/wiki/Gwyn_Hughes) (**1986**). *[Psi Chess](https://www.everygamegoing.com/larticle/Psi-Chess-000/32575/)*. [Your Sinclair](https://en.wikipedia.org/wiki/Your_Sinclair), No. 10, October 1986
-
-
 ## External Links
 
 

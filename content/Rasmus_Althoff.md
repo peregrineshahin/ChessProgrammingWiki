@@ -11,24 +11,6 @@ Fascinated by [dedicated chess computers](Dedicated_Chess_Computers "Dedicated C
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2016](#2016)
-	+ [2.2 2017 ...](#2017-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Rasmus Althoff, [Florian Keiler](https://www.tandfonline.com/author/Keiler%2C+Florian), [Udo Zölzer](https://www.hsu-hh.de/ant/en/team) (**1999**). *Extracting Sinusoids From Harmonic Signals*. COOST-G6 Workshop on [Digital Audio Effects](http://www.dafx.de/), [DAFx99](http://ant-s4.hsu-hh.de/dafx/paper-archive/search.php?years=1999), [pdf](https://ant-s4.unibw-hamburg.de/dafx/paper-archive/1999/althoff.pdf), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.9152)
-
-
 ## Forum Posts
 
 

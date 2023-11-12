@@ -12,47 +12,6 @@ A long time financial industry veteran, and founder of *The Financial Industry N
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:JohnGerd2004.jpg) 
-John Hamlen and [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2004](WCCC_2004 "WCCC 2004") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "12th World Computer Chess Championship"]
-[Site "Ramat-Gan, Israel"]
-[Date "2004.07.04"]
-[Round "1"]
-[White "WoodPusher 1997"]
-[Black "IsiChess"]
-[Result "1/2-1/2"]
-
-1.Nf3 d5 2.c4 c6 3.b3 Nf6 4.Bb2 g6 5.e3 Bg7 6.Be2 O-O 7.O-O Nbd7 8.cxd5 Nxd5
-9.Bxg7 Kxg7 10.Nc3 Nxc3 11.dxc3 Nf6 12.Qd4 Qc7 13.Qc5 Bf5 14.Nd4 Be4 15.f3 Bd5
-16.e4 b6 17.Qa3 e5 18.Nc2 Be6 19.Rad1 Rad8 20.Nb4 c5 21.Na6 Qc6 22.Qb2 b5
-23.Qa3 Qb6 24.Nxc5 Rxd1 25.Rxd1 Nd7 26.b4 Rc8 27.Qa6 Nxc5 28.Qxb6 axb6
-29.bxc5 Rxc5 30.Rd6 Rxc3 31.Bxb5 Rc1+ 32.Kf2 Rc2+ 33.Kg3 Rxa2 34.Rxb6 g5 35.Ba6 h5
-36.h3 h4+ 37.Kh2 Rd2 38.Bb7 Bc4 39.Kg1 Rd8 40.Rc6 Be6 41.Rc2 Rd7 42.Ba6 Rd1+
-43.Kf2 Rb1 44.Ke3 Rb6 45.Bd3 Rb3 46.Ke2 Kg6 47.Rc5 Rb2+ 48.Rc2 Rb6 49.Kf2 Rb3
-50.Ke3 Rb1 51.Rc5 Rb2 52.Be2 f6 53.Rc6 Ba2 54.Rd6 Bf7 55.Rd2 Rb3+ 56.Rd3 Rb7
-57.Rc3 Rb2 58.Kf2 Bb3 59.Ke3 Ba2 1/2-1/2
-
-```
-
 ## Selected Publications
 
 

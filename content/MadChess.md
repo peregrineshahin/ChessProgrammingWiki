@@ -12,31 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Move Generation](#move-generation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2012](#2012)
-	+ [3.2 2013](#2013)
-	+ [3.3 2014](#2014)
-	+ [3.4 2015 ...](#2015-...)
-	+ [3.5 2020 ...](#2020-...)
-* [4 Blog Posts](#blog-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### Move Generation
 
 

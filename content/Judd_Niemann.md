@@ -14,25 +14,6 @@ which - translated from C++ to [C#](C_sharp "C sharp") - was used by [David J. E
 
 
 
-### Contents
-
-
-* [1 Chess Engines](#chess-engines)
-* [2 External Links](#external-links)
-	+ [2.1 Chess](#chess)
-	+ [2.2 Music](#music)
-* [3 References](#references)
-
-
-
-
-
-
-* [JuddChess](index.php?title=JuddChess&action=edit&redlink=1 "JuddChess (page does not exist)")
-* [Juddperft](index.php?title=Juddperft&action=edit&redlink=1 "Juddperft (page does not exist)")
-* [Ceres](Ceres "Ceres")
-
-
 ## External Links
 
 

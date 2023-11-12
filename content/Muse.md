@@ -17,26 +17,6 @@ After an abstinence of 12 years from computer chess, Martin released the improve
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Muse!](https://www.stmintz.com/ccc/index.php?id=381373) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), August 08, 2004
-* [Muse 0.899](https://www.stmintz.com/ccc/index.php?id=392832) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), October 22, 2004
-* [Fafis and Muse may be elite engines](https://www.stmintz.com/ccc/index.php?id=393115) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 24, 2004
-* [Muse 0.95](http://www.talkchess.com/forum/viewtopic.php?t=59817) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 10, 2016
-
-
 ## External Links
 
 

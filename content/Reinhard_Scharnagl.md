@@ -15,27 +15,6 @@ He died soon later that month in August 2015 <a id="cite-note-4" href="#cite-ref
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015](#2015)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Reinhard Scharnagl (**2004**). *[Fischer-Random-Schach: (FRC/Chess 960)](https://books.google.com/books/about/Fischer_Random_Schach.html?id=DEatvtAx9RQC&redir_esc=y)*. Books on Demand (German) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* Reinhard Scharnagl (**2014**). *Chess960 / FRC: Des Schachspiels revolutionäre Zukunft*. [Amazon.de: Kindle Edition](https://www.amazon.de/Chess960-FRC-Schachspiels-revolution%C3%A4re-Zukunft-ebook/dp/B00L15GNO0) (German)
-
-
 ## Forum Posts
 
 

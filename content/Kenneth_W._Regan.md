@@ -12,31 +12,6 @@ an American chess player, mathematician, computer scientist and associate profes
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1980 ...](#1980-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-	+ [1.4 2010 ...](#2010-...)
-	+ [1.5 2015 ...](#2015-...)
-* [2 Forum & Blog Posts](#forum-.26-blog-posts)
-	+ [2.1 2008](#2008)
-	+ [2.2 2010 ...](#2010-...-2)
-	+ [2.3 2015 ...](#2015-...-2)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1980 ...
 
 

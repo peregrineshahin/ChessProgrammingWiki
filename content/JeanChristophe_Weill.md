@@ -12,34 +12,6 @@ a French computer scientist and computer chess and games programmer. He introduc
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Jean-Christophe Weill already had experience in programing [Othello](Othello "Othello"), when he decited to develop a chess program for the upcoming [1st Computer Olympiad](1st_Computer_Olympiad#Chess "1st Computer Olympiad") in 1989. He found his friend and chess player [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot"), who already made first trials in chess programming, to help him with the [positional evaluation](Evaluation "Evaluation") to start their successful collaboration with following chess programs <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-* [Échec](%C3%89chec "Échec")
-* [Cumulus](Cumulus "Cumulus")
-* [Écume](%C3%89cume "Écume")
-* [Joker](Joker "Joker")
-* [Frenchess](Frenchess "Frenchess"), with [Jean-Luc Seret](Jean-Luc_Seret "Jean-Luc Seret") and [Michel Gondran](Michel_Gondran "Michel Gondran")
-* [Virtua Chess](Virtua_Chess "Virtua Chess")
-* [Virtual Chess](Virtual_Chess "Virtual Chess")
-* [Virtual Kasparov](Virtual_Kasparov "Virtual Kasparov")
-
-
 ## Selected Publications
 
 

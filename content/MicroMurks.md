@@ -12,36 +12,6 @@ an [68000](68000 "68000") microcomputer port of the former program [Murks](Murks
 
 
 
-### Contents
-
-
-* [1 MC68000](#mc68000)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[MC68000](68000 "68000") microcomputer self-build from scratch, with **own**:
-
-
-
-* [Chips](https://en.wikipedia.org/wiki/Integrated_circuit)
-* [System Design](https://en.wikipedia.org/wiki/Systems_design)
-* [VLSI Layout](VLSI_Design "VLSI Design")
-* [Wire Wrapping](https://en.wikipedia.org/wiki/Wire_wrapping)
-* [Operating System](https://en.wikipedia.org/wiki/Operating_system)
-* [Assembler](Assembly "Assembly") Chess Program
-
-
-
-
-
-
 ## Selected Games
 
 

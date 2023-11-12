@@ -15,35 +15,6 @@ After a long break from 2005 with KnightX **1.92**, Christophe Jolly had his com
 
 
 
-### Contents
-
-
-* [1 Selected Features](#selected-features)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-	+ [1.3 Misc](#misc)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1999](#1999)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2005](#2005)
-	+ [4.4 2019](#2019)
-	+ [4.5 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc-2)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### [Search](Search "Search")
 
 

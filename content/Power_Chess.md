@@ -12,25 +12,6 @@ a commercial mass market chess program running under [Windows 95](Windows "Windo
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Power](#power)
-* [4 References](#references)
-
-
-
-
-
-
-* [WChess](WChess "WChess")
-* [USCF Chess](USCF_Chess "USCF Chess")
-
-
 ## Forum Posts
 
 

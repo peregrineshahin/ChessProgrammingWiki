@@ -15,51 +15,6 @@ PolarChess played the [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT5") tournaments.
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[CCT4](CCT4 "CCT4"), round 4, PolarChess - [Warlord](Warlord "Warlord") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "CCT4"]
-[Site "Internet Chess Club"]
-[Date "2002.01.20"]
-[Round "4"]
-[White "PolarChess"]
-[Black "Warlord Beta V1"]
-[Result "1-0"]
-
-1.e4 Nf6 2.e5 Ne4 3.d3 Nc5 4.d4 Ne6 5.d5 Nc5 6.Qd4 e6 7.d6 cxd6 8.exd6 Qb6 
-9.Qc3 a5 10.Bf4 f6 11.Na3 e5 12.Nb5 Bxd6 13.Nxd6+ Qxd6 14.Be3 b6 15.Rd1 Qc6 
-16.Bxc5 bxc5 17.Be2 Bb7 18.Bf3 e4 19.Be2 d5 20.Nh3 Qb6 21.Nf4 d4 22.Qh3 Nd7 
-23.Ng6 Rg8 24.Qxh7 Qe6 25.b3 Nf8 26.Bb5+ Kf7 27.Qh5 Nxg6 28.Bc4 Qxc4 29.bxc4 
-Rac8 30.Rb1 Ba8 31.Rb6 Rh8 32.Qf5 Rhe8 33.O-O Ne5 34.Ra6 Kg8 35.Rxa5 e3 
-36.fxe3 dxe3 37.Re1 Rcd8 38.Qh5 g6 39.Qh4 Rd2 40.Rxe3 Red8 41.Rxc5 Rxg2+ 
-42.Kf1 Rd1+ 43.Re1 Rxe1+ 44.Qxe1 Rxh2 45.Qb4 Rh1+ 46.Kf2 Rh2+ 47.Kg3 Rg2+ 
-48.Kh3 Kf7 49.Qa3 Be4 50.Rxe5 fxe5 51.Qe3 Bb7 52.Qxe5 Rxc2 53.Qc7+ Kf6 54.Qxb7 
-Rc3+ 55.Kg2 Rc2+ 56.Kf3 Rc3+ 57.Ke4 Rxc4+ 58.Kd3 Rh4 59.Qc6+ Kg7 60.Qc7+ Kh6 
-61.Qe5 Rh3+ 62.Ke4 Rh4+ 63.Kf3 Ra4 64.Qh8+ Kg5 65.Qd8+ Kh6 66.Qf8+ Kh5 67.Qf7 
-Ra3+ 68.Kf2 Ra4 69.Qd5+ Kh4 70.Qh1+ Kg4 71.Qd1+ 1-0
-
-```
-
 ## See also
 
 

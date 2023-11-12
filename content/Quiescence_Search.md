@@ -10,39 +10,6 @@ Most chess programs, at the end of the main search perform a more limited **quie
 
 
 
-### Contents
-
-
-* [1 Limiting Quiescence](#Limiting_Quiescence)
-* [2 Standing Pat](#Standing_Pat)
-* [3 Checks](#Checks)
-* [4 Pseudo Code](#Pseudo_Code)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1975](#1975)
-	+ [6.2 1980 ...](#1980_...)
-	+ [6.3 1990 ...](#1990_...)
-	+ [6.4 2000 ...](#2000_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1994 ...](#1994_...)
-	+ [7.2 2000 ...](#2000_..._2)
-	+ [7.3 2005 ...](#2005_...)
-	+ [7.4 2010 ...](#2010_...)
-	+ [7.5 2015 ...](#2015_...)
-	+ [7.6 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-* [9 References](#References)
-
-
-
-
-
-
-Despite the fact that quiescence searches are typically very short, about 50%-90% nodes are spent there, so it is worthwhile to apply some [pruning](Pruning "Pruning") there. Apart from not trying moves with the [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") < 0, [delta pruning](Delta_Pruning "Delta Pruning") can be used for that purpose.
-
-
-
-
 ## Standing Pat
 
 

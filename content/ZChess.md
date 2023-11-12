@@ -10,22 +10,6 @@ an early microcomputer chess program written by [Bill Miller](index.php?title=Bi
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [ZChess](ZChess "ZChess")
-
-
 ## Publications
 
 

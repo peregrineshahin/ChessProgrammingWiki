@@ -12,26 +12,6 @@ a computer chess program written at the [University of Waterloo](University_of_W
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Gary Calnek](Gary_Calnek "Gary Calnek")
-* [Russell Crook](Russell_Crook "Russell Crook")
-* [Ron Hansen](Ron_Hansen "Ron Hansen")
-
-
 ## See also
 
 

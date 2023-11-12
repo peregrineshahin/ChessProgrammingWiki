@@ -12,24 +12,6 @@ a German computer scientist and chess programmer. Ralf is author of the chess en
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier) 
-Winners [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005"): [Tord Romstad](Tord_Romstad "Tord Romstad"), [Johannes Zwanzger](Johannes_Zwanzger "Johannes Zwanzger"), [Volker Böhm](Volker_B%C3%B6hm "Volker Böhm") and Ralf Schäfer <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Forum Posts
 
 

@@ -12,26 +12,6 @@ in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán")
-* [Agustín Jiménez](Agust%C3%ADn_Jim%C3%A9nez "Agustín Jiménez")
-* [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía")
-* [Diego Rodríguez-Losada](Diego_Rodr%C3%ADguez-Losada "Diego Rodríguez-Losada")
-* [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo")
-
-
 ## See also
 
 

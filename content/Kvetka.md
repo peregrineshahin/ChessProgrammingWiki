@@ -23,22 +23,6 @@ Kvetka is bundled with [Stockfish](Stockfish "Stockfish") as default engine.
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Kvetka 1.0 beta...](http://www.talkchess.com/forum/viewtopic.php?t=20257) by [Dr.Wael Deeb](index.php?title=Dr.Wael_Deeb&action=edit&redlink=1 "Dr.Wael Deeb (page does not exist)"), [CCC](CCC "CCC"), March 20, 2008
-* [Re: testing combination of more than one program](http://www.talkchess.com/forum/viewtopic.php?t=43748&start=1) by Dimitri Yasenko, [CCC](CCC "CCC"), May 17, 2012
-
-
 ## External Links
 
 

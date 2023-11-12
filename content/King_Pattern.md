@@ -11,33 +11,6 @@ title: King Pattern
 
 
 
-### Contents
-
-
-* [1 King Attacks](#king-attacks)
-	+ [1.1 by Lookup](#by-lookup)
-	+ [1.2 by Calculation](#by-calculation)
-* [2 King Safety](#king-safety)
-	+ [2.1 Pawn-Shield Pattern](#pawn-shield-pattern)
-	+ [2.2 Vulnerable on distant Checks](#vulnerable-on-distant-checks)
-		- [2.2.1 Branchless](#branchless)
-		- [2.2.2 SSE4](#sse4)
-* [3 King and Pawns](#king-and-pawns)
-	+ [3.1 Set-wise Rule of the Square](#set-wise-rule-of-the-square)
-	+ [3.2 Flood Fill Algorithms](#flood-fill-algorithms)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The King [attacks](Attacks "Attacks") all squares in [Moore neighborhood](https://en.wikipedia.org/wiki/Moore_neighborhood), that is squares with a [Chebyshev distance](Distance "Distance") of one.
-
-
-
 ### by Lookup
 
 

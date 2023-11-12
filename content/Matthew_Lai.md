@@ -12,29 +12,6 @@ a Canadian electrical engineer and computer scientist, and further a [private pi
 
 
 
-### Contents
-
-
-* [1 Chess Engines](#chess-engines)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2008](#2008)
-	+ [3.2 2014](#2014)
-	+ [3.3 2015](#2015)
-	+ [3.4 2016](#2016)
-	+ [3.5 2018](#2018)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Brainless](Brainless "Brainless")
-* [Giraffe](Giraffe "Giraffe")
-
-
 ## Selected Publications
 
 

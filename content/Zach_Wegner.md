@@ -12,29 +12,6 @@ an American software engineer and computer chess programmer based in [Austin, TX
 
 
 
-### Contents
-
-
-* [1 Rybka Case](#rybka-case)
-* [2 Rondo](#rondo)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2002 ...](#2002-...)
-	+ [3.2 2004 ...](#2004-...)
-	+ [3.3 2006 ...](#2006-...)
-	+ [3.4 2008 ...](#2008-...)
-	+ [3.5 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Zach Wegner was skeptic by [Vasik Rajlich's](Vasik_Rajlich "Vasik Rajlich") statements on the origins of [Rybka 1.0 beta](Rybka "Rybka") and its influence from [Fruit](Fruit "Fruit") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, to investigate and compare disassembled Rybka with Fruit. He published some results on [evaluation](Evaluation "Evaluation") in 2010 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Rondo
 
 

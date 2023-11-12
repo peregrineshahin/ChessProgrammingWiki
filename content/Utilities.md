@@ -8,28 +8,6 @@ title: Utilities
 
 
 
-### Contents
-
-
-* [1 Toolkit/Libraries](#toolkit.2flibraries)
-* [2 Protocol Adapter](#protocol-adapter)
-* [3 Portable Game Notation](#portable-game-notation)
-* [4 Game Viewer](#game-viewer)
-* [5 See also](#see-also)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [Chess.jl](Chess.jl "Chess.jl")
-* [libchess](Libchess "Libchess")
-* [python-chess](Python-chess "Python-chess")
-* [Shatranj (Toolkit)](Shatranj_(Toolkit) "Shatranj (Toolkit)")
-
-
 ## Protocol Adapter
 
 

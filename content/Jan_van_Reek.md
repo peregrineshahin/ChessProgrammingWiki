@@ -15,54 +15,6 @@ and elaborated on [Strategy](Strategy "Strategy") and [Planning](Planning "Plann
 
 
 
-### Contents
-
-
-* [1 Planning](#planning)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1997, Jan van Reek <a id="cite-note-2" href="#cite-ref-2">[2]</a> categorized [Planning](Planning "Planning") in chess to three main characteristics, [Tactics](Tactics "Tactics"), positional play, and [Strategy](Strategy "Strategy"), 
-where positional play serves as guideline for planning of a strategy <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
-
-
-
-
-
-|  |  Terms of Planning
- |  Aim
- |  Dominating abstraction
- |
-| --- | --- | --- | --- |
-|  Tactics
- |  Short
- |  To gain material or to mate
- |  Matter
- |
-|  Positional play
- |  Medium
- |  To improve the position
- |  Space
- |
-|  Strategy
- |  Long
- |  To swing the balance
- |  Time
- |
-
-
-Long-term planning by human chess players is usually made on the basis of reasoning, experience, and [intuition](https://en.wikipedia.org/wiki/Intuition_%28knowledge%29), as investigated by [De Groot](Adriaan_de_Groot "Adriaan de Groot") in 1946 <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-
 ## Selected Publications
 
 

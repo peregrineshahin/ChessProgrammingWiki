@@ -8,39 +8,6 @@ A **Protocol** is a [formal description](https://en.wikipedia.org/wiki/Formal_me
 
 
 
-### Contents
-
-
-* [1 Computer Chess Protocols](#computer-chess-protocols)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000 ...](#2000-...)
-	+ [4.2 2005 ...](#2005-...)
-	+ [4.3 2010 ...](#2010-...)
-	+ [4.4 2015 ...](#2015-...)
-* [5 External Links](#external-links)
-	+ [5.1 Layers and Protocols](#layers-and-protocols)
-	+ [5.2 Related Standards](#related-standards)
-	+ [5.3 Misc](#misc)
-
-
-
-
-
-
-The aim of computer chess protocols is to define a standard to let a chess engine communicate with [user-](User_Interface "User Interface") or [graphical user interfaces](GUI "GUI") (GUI), including a game- or match controller to let engines play automatically on a computer, inside a [computer network](https://en.wikipedia.org/wiki/Computer_network) or over the [internet](https://en.wikipedia.org/wiki/Internet). Chess engines, usually instantiated as [child process](https://en.wikipedia.org/wiki/Child_process) of the GUI application, use [standard streams](https://en.wikipedia.org/wiki/Standard_streams) or [pipelines](https://en.wikipedia.org/wiki/Pipeline_%28Unix%29) to receive and respond [ASCII](https://en.wikipedia.org/wiki/ASCII) [strings](https://en.wikipedia.org/wiki/String_%28computer_science%29) as messages.
-
-
-
-* [Auto232](Auto232 "Auto232") (deprecated)
-* [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") as used by the [XBoard](XBoard "XBoard") or [WinBoard](WinBoard "WinBoard") [GUI](GUI "GUI")
-* [icsdrone](index.php?title=Icsdrone&action=edit&redlink=1 "Icsdrone (page does not exist)")
-* [TLCS/TLCV](TLCS-TLCV "TLCS-TLCV") ([Web Broadcast](Web_Broadcast "Web Broadcast"))
-* [Universal Chess Interface](UCI "UCI") (UCI)
-* [Universal Shogi Interface](USI "USI") (USI)
-
-
 ## See also
 
 

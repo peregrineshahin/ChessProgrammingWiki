@@ -12,37 +12,6 @@ a mainframe chess program of the 70s, developed by British scientists from [Atla
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Description](#description)
-	+ [2.1 Full Width Search](#full-width-search)
-	+ [2.2 SOMA](#soma)
-	+ [2.3 Feed-Over](#feed-over)
-* [3 Tournament Play](#tournament-play)
-	+ [3.1 Master at IFIPS](#master-at-ifips)
-	+ [3.2 Selected Games](#selected-games)
-		- [3.2.1 WCCC 1974](#wccc-1974)
-		- [3.2.2 WCCC 1977](#wccc-1977)
-		- [3.2.3 WCCC 1980](#wccc-1980)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Program](#chess-program)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) 
-Chess on the [360/195](IBM_360 "IBM 360"). [Alex Bell](Alex_Bell "Alex Bell"), Geoff Lambert, [Peter Kent](Peter_Kent "Peter Kent"), [John Birmingham](John_Birmingham "John Birmingham") and [John Waldron](John_Waldron "John Waldron") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Description
 
 

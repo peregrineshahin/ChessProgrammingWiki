@@ -12,28 +12,6 @@ was a French [AI](Artificial_Intelligence "Artificial Intelligence")-researcher 
 
 
 
-### Contents
-
-
-* [1 Pitrat's Chess Program](#pitrat.27s-chess-program)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1966 ...](#1966-...)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1980 ...](#1980-...)
-	+ [2.4 1990 ...](#1990-...)
-	+ [2.5 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In the 70s, Jacques Pitrat worked on a experimental chess program that tried to limit the width of the [tree](Search_Tree "Search Tree"), so that it can increase its [depth](Depth "Depth"). The idea is to generate a [node](Node "Node") if and only if there is a reason to do so. The program performs a very sophisticated analysis of the given [position](Chess_Position "Chess Position"), to generate a set of [plans](Planning "Planning"). Each plan consists of a sequence of [moves](Moves "Moves") considered by the [search](Search "Search").
-
-
-
 ## Selected Publications
 
 

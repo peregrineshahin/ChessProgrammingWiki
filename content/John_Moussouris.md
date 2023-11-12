@@ -13,23 +13,6 @@ He was an [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not ex
 
 
 
-### Contents
-
-
-* [1 CHEOPS](#cheops)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At the end of the 70s, while affiliated with the [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") [Computer Science and Artificial Intelligence Laboratory](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory), along with [Jack Holloway](Jack_Holloway "Jack Holloway") and [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), John Moussouris was involved in the development of a dedicated chess processor, the *Chess-orientated Processing System* [CHEOPS](CHEOPS "CHEOPS") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Selected Publications
 
 

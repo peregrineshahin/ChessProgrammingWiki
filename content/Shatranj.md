@@ -12,30 +12,6 @@ the Arabic and Persian precurser of [Western Chess](Chess "Chess") and one succe
 
 
 
-### Contents
-
-
-* [1 Pieces](#pieces)
-* [2 Rules](#rules)
-* [3 Engines](#engines)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [Shāh](https://en.wikipedia.org/wiki/Shah) ([King](King "King"))
-* [Fers](https://en.wikipedia.org/wiki/Ferz_%28chess%29) or [Wazīr](https://en.wikipedia.org/wiki/Vizier#Influence_on_chess) (General) - moves one square diagonally, often represented by a [Queen](Queen "Queen") symbol
-* Rukh ([Rook](Rook "Rook"))
-* [Pīl or Alfil](https://en.wikipedia.org/wiki/Alfil_%28chess%29) (Elephant) - a [(2,2) Leaper](https://en.wikipedia.org/wiki/Fairy_chess_piece#Leapers), often represented by a [Bishop](Bishop "Bishop") symbol
-* Faras or Asb ([Knight](Knight "Knight"))
-* Baidaq ([Pawn](Pawn "Pawn"))
-
-
 ## Rules
 
 

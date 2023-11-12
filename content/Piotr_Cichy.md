@@ -12,24 +12,6 @@ nanoSzachy won the [8th PCCC 2009](PCCC_2009 "PCCC 2009").
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://mpps.maciej.szmit.info/mpps-8/) 
-[PCCC 2009](PCCC_2009 "PCCC 2009") in [Łódź](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA), Tournament hall and winner Piotr Cichy <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Forum Posts
 
 

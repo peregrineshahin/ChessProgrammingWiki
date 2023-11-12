@@ -16,50 +16,6 @@ LTChess 2, released in December 2016, changed to [NegaMax](Negamax "Negamax"), a
 
 
 
-### Contents
-
-
-* [1 Code Sample](#code-sample)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-
-```C++
-
-ClearPVDisplay;
-GoToXY(51, 13);
-Write('I''m Thinking.......');
-
-FillChar(PV, SizeOf(PV), 0);
-FillChar(HistoryTable, SizeOf(HistoryTable), 0);
-FillChar(KillerMoves, SizeOf(KillerMoves), 0);
-InitTT;
-
-MaxDepth := 3; {-- do a 4 ply search first to fill history table etc }
-TimesUp := False;
-PVscore := 0;
-
-Time := StopWatch(Start);
-WHILE (MaxDepth < FixedDepth) AND NOT TimesUp AND (Abs(PVscore) < 30000) DO
-BEGIN
-    Inc(MaxDepth); {-- search the next ply...iterative deepening }
-    ShufflePV(MaxDepth); {-- so the PV is the correct order for the next ply }
-    SearchingPV := True; {-- we will search the PV moves first }
-    PVscore := AlphaBetaMinMax(MaxDepth); {-- call the search }
-    Time := StopWatch(Now);
-    WriteInfoToScreen;
-END;
-{-- now return the best move from the PV array }
-TheMove := PV[MaxDepth, MaxDepth];
-
-```
-
 ## Forum Posts
 
 

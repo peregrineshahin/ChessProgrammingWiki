@@ -12,32 +12,6 @@ title: Moscow State University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-	+ [1.1 Art](#art)
-	+ [1.2 Computer Science](#computer-science)
-	+ [1.3 Computer Chess](#computer-chess)
-	+ [1.4 Mathematics](#mathematics)
-	+ [1.5 Physics](#physics)
-	+ [1.6 Politics](#politics)
-	+ [1.7 Psychology](#psychology)
-* [2 Chess Programs](#chess-programs)
-* [3 Computers](#computers)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### Art
 
 

@@ -16,48 +16,6 @@ His [Calculating Space](https://en.wikipedia.org/wiki/Calculating_Space) <a id="
 
 
 
-### Contents
-
-
-* [1 Plankalkül and Chess](#plankalk.c3.bcl-and-chess)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1940 ...](#1940-...)
-	+ [3.2 1950 ...](#1950-...)
-	+ [3.3 1960 ...](#1960-...)
-	+ [3.4 1970 ...](#1970-...)
-	+ [3.5 1980 ...](#1980-...)
-	+ [3.6 1990 ...](#1990-...)
-	+ [3.7 2000 ...](#2000-...)
-	+ [3.8 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 ZIB](#zib)
-	+ [4.2 Bios](#bios)
-	+ [4.3 Schmidhuber](#schmidhuber)
-	+ [4.4 Museums](#museums)
-	+ [4.5 Misc](#misc)
-	+ [4.6 Computers](#computers)
-* [5 References](#references)
-
-
-
-
-
-
-Images from *Der Plankalkül, Kapitel 5, Schachtheorie* <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
- [](File:Pkadjacent.JPG) 
-[Plankalkül](https://en.wikipedia.org/wiki/Plankalk%C3%BCl), two [squares](Squares "Squares") (v0, v1) are adjacent, if they are not equal, and both absolute [rank](Ranks#RankDistance "Ranks") and [file distance](Files#FileDistance "Files") are less or equal than one (L), structural square indices written vertically 
-
-
-
- [](File:ZuseChessboard.JPG) 
-Zuse's [8x8 Board](8x8_Board "8x8 Board") with three bit file, rank coordinates: a1 = 000, 000; e2 = L00, 00L 
-
-
-
 ## See also
 
 

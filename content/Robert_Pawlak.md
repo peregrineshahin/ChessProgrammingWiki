@@ -12,23 +12,6 @@ an American electrical and electronics engineer, Ph.D. from [Columbus State Comm
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Michelle Kienholz, Robert Pawlak (**1995**). *[Cycling in Cyberspace](http://www.amazon.com/Cycling-Cyberspace-Bicycle-Related-Information-Services/dp/0933201753)*. Bicycle Books, ISBN-13: 978-0933201750
-* Robert J. Pawlak (**1999**). *[Chess Software Sourcebook](http://www.amazon.com/Chess-Software-Sourcebook-Robert-Pawlak/dp/0967384001)*. [Treehaus Books](http://www.treehaus1.com/), ISBN-13: 978-0967384009
-
-
 ## Forum Posts
 
 

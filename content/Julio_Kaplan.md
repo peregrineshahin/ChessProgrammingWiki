@@ -12,23 +12,6 @@ an Argentinean born, Puerto Rican chess player and [International Master](https:
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the late 70s, Julio Kaplan worked with [Larry Wagner](Larry_Wagner "Larry Wagner") at [Atari](https://en.wikipedia.org/wiki/Atari_Corporation) on [Computer Chess](Computer_Chess "Computer Chess") aka [Video Chess](Video_Chess "Video Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 1981, he started to write chess programs for [SciSys/Saitek's](Saitek "Saitek") [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and founded his own company [Heuristic Software](Heuristic_Software "Heuristic Software") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . His programs [Superstar](Superstar "Superstar") and [Turbostar](Turbostar "Turbostar"), written with co-author [Craig Barnes](Craig_Barnes "Craig Barnes"), competed at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") and [WMCCC 1985](WMCCC_1985 "WMCCC 1985") respectively. In 1990, Kaplan abandoned the cooperation with Saitek, and started to work with [Larry Kaufman](Larry_Kaufman "Larry Kaufman") and [Don Dailey](Don_Dailey "Don Dailey") on [Heuristic Alpha](Heuristic_Alpha "Heuristic Alpha") which later evolved to [Socrates](Socrates "Socrates") and [Kasparov's Gambit](Kasparov%27s_Gambit "Kasparov's Gambit"). 
-
-
-
 ## Publications
 
 

@@ -18,34 +18,6 @@ Unlike the [PDP-8](PDP-8 "PDP-8"), Nova was a [load/store architecture](https://
 
 
 
-### Contents
-
-
-* [1 Nova Line](#nova-line)
-	+ [1.1 SuperNOVA](#supernova)
-	+ [1.2 Nova 1200](#nova-1200)
-	+ [1.3 Nova 8x0](#nova-8x0)
-	+ [1.4 Nova 2](#nova-2)
-	+ [1.5 Eclipse](#eclipse)
-	+ [1.6 Nova 3](#nova-3)
-	+ [1.7 Nova 4](#nova-4)
-* [2 Chess Programs](#chess-programs)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 SuperNOVA](#supernova-2)
-	+ [4.2 Nova 1200](#nova-1200-2)
-	+ [4.3 Nova 8x0](#nova-8x0-2)
-	+ [4.4 Nova 2](#nova-2-2)
-	+ [4.5 Eclipse](#eclipse-2)
-	+ [4.6 Nova 3](#nova-3-2)
-	+ [4.7 Nova 4](#nova-4-2)
-* [5 References](#references)
-
-
-
-
-
-
 ### SuperNOVA
 
 

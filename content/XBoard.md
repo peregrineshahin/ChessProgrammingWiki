@@ -10,36 +10,6 @@ title: XBoard
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1990 ...](#1990-...)
-	+ [3.2 1995 ...](#1995-...)
-	+ [3.3 2000 ...](#2000-...)
-	+ [3.4 2005 ...](#2005-...)
-	+ [3.5 2010 ...](#2010-...)
-	+ [3.6 2015 ...](#2015-...)
-	+ [3.7 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Free Software Foundation](#free-software-foundation)
-	+ [4.2 Tim Mann & H.G. Muller](#tim-mann-.26-h.g.-muller)
-	+ [4.3 XBoard Misc](#xboard-misc)
-	+ [4.4 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[
-Xboard 4.2.7 running [GNU Chess](GNU_Chess "GNU Chess") on [KDE 4.2.2](https://en.wikipedia.org/wiki/KDE_Software_Compilation_4) desktop under [Fedora 10](Linux#Fedora "Linux")
-
-
-
 ## See also
 
 

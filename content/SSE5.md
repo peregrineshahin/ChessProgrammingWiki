@@ -10,26 +10,6 @@ was a [x86-64](X86-64 "X86-64") [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR T
 
 
 
-### Contents
-
-
-* [1 Instructions](#instructions)
-* [2 See Also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Some of the new instructions are quite interesting for computer chess, with applications in evaluation and byte shuffling of bitboards. Their XOP successors still work on 128-bit XMM registers <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and implicitly clear the upper 128 bit of a 256-bit YMM register. Some of the instructions, like [VPPERM](XOP#VPPERM "XOP"), have as many as 4 operands.
-
-
-
-* [XOP Instructions](XOP#Instructions "XOP")
-
-
 ## See Also
 
 

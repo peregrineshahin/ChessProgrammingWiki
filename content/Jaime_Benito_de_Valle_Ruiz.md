@@ -12,24 +12,6 @@ a Spanish computer chess programmer, and author of the [WinBoard](WinBoard "WinB
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/gallery23.html) 
-[Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker") and Jaime Benito, [DOCCC 2005](DOCCC_2005 "DOCCC 2005") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Forum Posts
 
 

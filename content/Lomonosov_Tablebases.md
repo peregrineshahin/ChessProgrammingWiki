@@ -10,25 +10,6 @@ title: Lomonosov Tablebases
 
 
 
-### Contents
-
-
-* [1 ChessOK](#chessok)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[Convekta Ltd.](ChessOK "ChessOK"), headed by Zakharov, announced the release of Lomonosov Tablebases - as of December 31, 2013, the tablebases are available online through [ChessOK](ChessOK "ChessOK") [products](ChessOK#Products "ChessOK") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## See also
 
 

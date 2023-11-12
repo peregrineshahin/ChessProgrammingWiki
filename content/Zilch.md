@@ -13,25 +13,6 @@ Zilch ran under [64-bit](X86-64 "X86-64") [Linux](Linux "Linux") <a id="cite-not
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Knightmare](Knightmare "Knightmare")
-* [Vapor](Vapor "Vapor")
-* [Tinman](Tinman "Tinman")
-
-
 ## External Links
 
 

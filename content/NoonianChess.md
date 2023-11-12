@@ -12,27 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-NoonianChess participated at the [WCCC 2002](WCCC_2002 "WCCC 2002") in [Maastricht](https://en.wikipedia.org/wiki/Maastricht) over the board, and further played multiple [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), the [ACCA 2007](ACCA_2007 "ACCA 2007") and [ACCA 2008](ACCA_2008 "ACCA 2008") [Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), and four times the [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), [WCRCC 2009](WCRCC_2009 "WCRCC 2009") and [WCRCC 2010](WCRCC_2010 "WCRCC 2010").
-
-
-
 ## Selected Games
 
 

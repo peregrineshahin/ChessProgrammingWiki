@@ -15,39 +15,6 @@ The further improved MMTO version of Bonanaza won the [WCSC23](index.php?title=W
 
 
 
-### Contents
-
-
-* [1 Move Adaptation](#move-adaptation)
-* [2 MMTO](#mmto)
-	+ [2.1 Objective Function](#objective-function)
-	+ [2.2 Optimization](#optimization)
-	+ [2.3 Grid-Adjacent Update](#grid-adjacent-update)
-	+ [2.4 Partial Derivative Approximation](#partial-derivative-approximation)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
-A chess program has an [linear evaluation function](Evaluation#Linear "Evaluation") **e(p,ω)**, where **p** is the [game position](Chess_Position "Chess Position") and **ω** the feature weight vector to be adjusted for optimal play. 
-The optimization procedure iterates over a set of selected positions from games assuming played by an [oracle](Oracle "Oracle") with a desired move given.
-All possible [moves](Moves "Moves") from this position are [made](Make_Move "Make Move") and the resulting position [evaluated](Evaluation "Evaluation").
-Each move obtaining a higher score than the desired move adds a penalty to the [objective function](https://en.wikipedia.org/wiki/Loss_function) to be minimized, for instance <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
- [](File:MmtoObjectiveFunction1.jpg) 
-Here, **p.m** is the position after move **m** in **p**, **dp** is the desired move in **p**, ℳ′p is the set of all legal moves in **p** excluding **dp**, 
-and **H(x)** is the [Heaviside step function](https://en.wikipedia.org/wiki/Heaviside_step_function). The numerical procedures to minimize such an objective function are complicated, 
-and the adjustment of a large-scale vector ω seemed to present practical difficulties considering [partial derivation](https://en.wikipedia.org/wiki/Partial_derivative) and local versus global [minima](https://en.wikipedia.org/wiki/Maxima_and_minima).
-
-
-
 ## MMTO
 
 

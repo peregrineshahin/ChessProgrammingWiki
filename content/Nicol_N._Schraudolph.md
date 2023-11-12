@@ -15,33 +15,6 @@ His previous research affiliations include [NICTA](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 Learning Go](#learning-go)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1991 ...](#1991-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Peter Dayan](Peter_Dayan "Peter Dayan") and his advisor, [Terrence J. Sejnowski](Terrence_J._Sejnowski "Terrence J. Sejnowski"), Nicol Schraudolph applied [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") to an [evaluation function](Evaluation "Evaluation") in the game of [Go](Go "Go"), as published in 1993 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and in 2001 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
- [](http://nic.schraudolph.org/bib2html/b2hd-SchDaySej94.html) 
-A modular network architecture that takes advantage of board symmetries,  
-
-translation invariance and localized reinforcement to evaluate Go positions <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Publications
 
 

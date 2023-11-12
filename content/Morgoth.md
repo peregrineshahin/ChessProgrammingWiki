@@ -12,23 +12,6 @@ a chess program by [Matt Craighead](Matt_Craighead "Matt Craighead") written in 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Gothmog](Gothmog "Gothmog")
-* [Neptune](Neptune "Neptune")
-
-
 ## Forum Posts
 
 

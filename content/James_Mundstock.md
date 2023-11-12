@@ -12,25 +12,6 @@ James Mundstock was co-author of the *MNF* (Minnesota Fortran) [Fortran](Fortran
 
 
 
-### Contents
-
-
-* [1 Chess Programmer](#chess-programmer)
-* [2 Ostrich Effect](#ostrich-effect)
-* [3 Publications](#publications)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Gary Boos](Gary_Boos "Gary Boos"), James Mundstock developed the chess programs [Mr. Turk](Mr._Turk "Mr. Turk") and [Iron Fish](Iron_Fish "Iron Fish"). 
-Mr Turk did not use [alpha-beta](Alpha-Beta "Alpha-Beta"), but a search based on a *Multipurpose, Theorem-Proving Heuristic Program* as described by [James R. Slagle](James_R._Slagle "James R. Slagle") and [Philip Bursky](Philip_Bursky "Philip Bursky") in 1968 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and competed at [ACM 1971](ACM_1971 "ACM 1971").
-Iron Fish played the [ACM 1975](ACM_1975 "ACM 1975").
-
-
-
 ## Ostrich Effect
 
 

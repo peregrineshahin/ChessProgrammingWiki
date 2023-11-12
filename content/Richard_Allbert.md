@@ -15,26 +15,6 @@ He was also involved with [BlueFeverSoft's](BlueFeverSoft "BlueFeverSoft") contr
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2005 ...](#2005-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [BlueFeverSoft](BlueFeverSoft "BlueFeverSoft")
-
-
 ## Forum Posts
 
 

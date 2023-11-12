@@ -12,33 +12,6 @@ a Hungarian-born American mathematician. Beside his contributions in a vast rang
 
 
 
-### Contents
-
-
-* [1 Chess](#chess)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1920 ...](#1920-...)
-	+ [3.2 1930 ...](#1930-...)
-	+ [3.3 1940 ...](#1940-...)
-	+ [3.4 1950 ...](#1950-...)
-	+ [3.5 1955 ...](#1955-...)
-	+ [3.6 1960 ...](#1960-...)
-	+ [3.7 2000 ...](#2000-...)
-	+ [3.8 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 List of Things ...](#list-of-things-...)
-* [5 References](#references)
-
-
-
-
-
-
-John von Neumann classified chess as two-player [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_(game_theory)) game with [perfect information](https://en.wikipedia.org/wiki/Perfect_information) and proved the [minimax](Minimax "Minimax") theorem in [1928](Timeline#1928 "Timeline"). Since 1943 von Neumann was member of the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project) at the [Los Alamos National Laboratory](Los_Alamos_National_Laboratory "Los Alamos National Laboratory"). In the early fifties von Neumann developed the [MANIAC I](http://de.wikipedia.org/wiki/MANIAC_I) computer. A group around [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [Paul Stein](Paul_Stein "Paul Stein"), [Mark Wells](Mark_Wells "Mark Wells") and [John Pasta](John_Pasta "John Pasta") developed the [MANIAC I chess program](MANIAC_I "MANIAC I"), which could play [Los Alamos chess](https://en.wikipedia.org/wiki/Los_Alamos_chess) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## See also
 
 

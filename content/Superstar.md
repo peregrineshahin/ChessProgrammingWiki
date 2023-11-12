@@ -12,25 +12,6 @@ a series of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Che
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Mephisto](#mephisto)
-	+ [1.2 Chess-Master](#chess-master)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Superstar Chess Computer](#superstar-chess-computer)
-	+ [5.2 Super & Star Misc](#super-.26-star-misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### Mephisto
 
 

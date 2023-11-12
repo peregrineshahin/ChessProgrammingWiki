@@ -12,34 +12,6 @@ a Dutch computer scientist, M.Sc. from [Delft University of Technology](Delft_Un
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) 
-Richard Pijl and [Peter Svidler](https://en.wikipedia.org/wiki/Peter_Svidler), Mainz 2005 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
- [](http://www.chesstigers.de/ccm9_index_news.php?id=684&rubrik=6&lang=0&kat=6) 
-Richard Pijl, [Mark Vogelgesang](http://chesstigers.de/index_news.php?id=622&rubrik=5) and [Levon Aronian](https://en.wikipedia.org/wiki/Levon_Aronian), [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](http://www.csvn.nl/index.php?option=com_content&view=article&id=437%3Afotos-dag-3-29e-odccc&catid=51%3Atoernooien&Itemid=28&lang=en) 
-[Cock de Gorter](Cock_de_Gorter "Cock de Gorter"), Richard Pijl, 3rd [DOCCC 2009](DOCCC_2009 "DOCCC 2009") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

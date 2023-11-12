@@ -15,29 +15,6 @@ He is author of *Street-Fighting Mathematics* <a id="cite-note-5" href="#cite-re
 
 
 
-### Contents
-
-
-* [1 Bill](#bill)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1986 ...](#1986-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the mid and late 80s, along with [Kai-Fu Lee](Kai-Fu_Lee "Kai-Fu Lee"), Sanjoy Mahajan co-authored the at that time world class [Othello](Othello "Othello") program *Bill* <a id="cite-note-7" href="#cite-ref-7">[7]</a>, 
-initially written in [Common Lisp](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)") at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in 1985, in 1986 rewritten in [C](C "C") and in 2005 released under the [GPL](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-*Bill 3.0* applied [Bayesian learning](https://en.wikipedia.org/wiki/Bayesian_inference) of [discriminant functions](https://en.wikipedia.org/wiki/Discriminant_function_analysis) that [automatically combines](Automated_Tuning "Automated Tuning") [evaluation](Evaluation "Evaluation") features <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
-
-
-
 ## Selected Publications
 
 

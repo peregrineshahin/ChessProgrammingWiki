@@ -17,28 +17,6 @@ adding [sound effects](https://en.wikipedia.org/wiki/Sound_effect) and [speech s
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Manual](#manual)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Computer](#chess-computer)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Excalibur Grandmaster](Excalibur_Grandmaster "Excalibur Grandmaster")
-* [Excalibur Igor](Excalibur_Igor "Excalibur Igor")
-* [Excalibur Mirage](Excalibur_Mirage "Excalibur Mirage")
-* [Ivan II The Conqueror](Ivan_II_The_Conqueror "Ivan II The Conqueror")
-
-
 ## Manual
 
 

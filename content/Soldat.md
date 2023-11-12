@@ -14,27 +14,6 @@ Soldat participated at the [International Gsei Tournament 2017](IGT_2017 "IGT 20
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Soldat <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-[represents the board](Board_Representation "Board Representation") as [0x88](0x88 "0x88") [mailbox](Mailbox "Mailbox"), and applies [PVS](Principal_Variation_Search "Principal Variation Search") with [aspiration windows](Aspiration_Windows "Aspiration Windows") within its [iterative deepening](Iterative_Deepening "Iterative Deepening") framework, enhanced by a [transposition table](Transposition_Table "Transposition Table") with [Zobrist hashing](Zobrist_Hashing "Zobrist Hashing"), [NMP](Null_Move_Pruning "Null Move Pruning") ([NMR](Null_Move_Reductions "Null Move Reductions") in the late [endgame](Endgame "Endgame")), [LMR](Late_Move_Reductions "Late Move Reductions"), [razoring](Razoring "Razoring"), [check extensions](Check_Extensions "Check Extensions") and [history heuristic](History_Heuristic "History Heuristic"). 
-The [evaluation](Evaluation "Evaluation") considers [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure"), [tempo](Tempo "Tempo") and [king safety](King_Safety "King Safety") in the [middlegame](Middlegame "Middlegame").
-
-
-
 ## Forum Posts
 
 

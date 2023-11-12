@@ -12,22 +12,6 @@ a Moldavian born, Romanian mathematician, computer scientist and creator of the 
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Ulrich Friedberg](index.php?title=Ulrich_Friedberg&action=edit&redlink=1 "Ulrich Friedberg (page does not exist)") (**1978**). *A Roumanian Rhapsody - Computer Felix C-256 Plays Chess*. [Personal Computing](Personal_Computing "Personal Computing"), [Vol. 2, No. 10](https://archive.org/stream/PersonalComputing197810/Personal%20Computing%201978-10#page/n71/mode/1up), pp. 76, October 1978
-
-
 ## Forum Posts
 
 

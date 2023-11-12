@@ -15,53 +15,6 @@ Along with [Joe Condon](Joe_Condon "Joe Condon"), Ken Thompson was creator of th
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Education](#education)
-* [3 Bell Labs](#bell-labs)
-	+ [3.1 Further Contributions](#further-contributions)
-	+ [3.2 Retirement](#retirement)
-* [4 Google](#google)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-	+ [6.1 1970 ...](#1970-...)
-	+ [6.2 1980 ...](#1980-...)
-	+ [6.3 1990 ...](#1990-...)
-	+ [6.4 2000 ...](#2000-...)
-* [7 Postings](#postings)
-* [8 External Links](#external-links)
-	+ [8.1 Oral History](#oral-history)
-	+ [8.2 Videos](#videos)
-* [9 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/collections/accession/102665753) 
-Chess pioneers in [Sacher Hotel Vienna](https://en.wikipedia.org/wiki/Hotel_Sacher), Austria 1980: [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Tony Marsland](Tony_Marsland "Tony Marsland"),   
-[Dave Slate](David_Slate "David Slate"), [David Levy](David_Levy "David Levy"), [Claude Shannon](Claude_Shannon "Claude Shannon"), Ken Thompson, Betty Shannon, [Tom Truscott](Tom_Truscott "Tom Truscott") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdcd092) 
-[Mittman](Ben_Mittman "Ben Mittman"), [Newborn](Monroe_Newborn "Monroe Newborn"), Thompson and [Hyatt](Robert_Hyatt "Robert Hyatt") (right) at [ACM 1982](ACM_1982 "ACM 1982") in Dallas, Texas, 1982 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) 
-[Beal](Don_Beal "Don Beal"), Thompson, [Newborn](Monroe_Newborn "Monroe Newborn"), and [Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") at [4th WCCC 1983](WCCC_1983 "WCCC 1983") in New York City <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd75253) 
-[Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), Ken Thompson and [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") 1992 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
 ## Education
 
 

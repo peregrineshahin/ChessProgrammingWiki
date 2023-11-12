@@ -12,21 +12,6 @@ a German software developer and as computer chess programmer author of the [Ches
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Aegon 1997](#aegon-1997)
-	+ [1.2 ICT 2001](#ict-2001)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Aegon 1997
 
 

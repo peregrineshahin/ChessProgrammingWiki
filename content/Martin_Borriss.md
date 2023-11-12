@@ -13,30 +13,6 @@ As computer chess programmer, Martin Borriss is author of the free [open source 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* Martin Borriss (**1994**). *Simulation von Warteschlangennetzen in BNETD*. Diploma thesis, [TU Dresden](https://en.wikipedia.org/wiki/TU_Dresden)
-* [Robert Baumgartl](https://www2.htw-dresden.de/~robge/), Martin Borriss, [Hermann Härtig](Mathematician#HHaertig "Mathematician"), et al. (**1998**). *Dresden Realtime Operating System*. [pdf](http://os.inf.tu-dresden.de/~reuther/publications/sda98.pdf)
-* Martin Borriss, [Uwe Dannowski](https://dblp.org/pers/hd/d/Dannowski:Uwe), [Hermann Härtig](Mathematician#HHaertig "Mathematician") (**1998**). *[TCP Performance over ATM on Linux and Windows NT](https://ieeexplore.ieee.org/document/688214)*. [ICATM'98](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5633)
-* Martin Borriss, [Hermann Härtig](Mathematician#HHaertig "Mathematician") (**1998**). *[Design and Implementation of a Real-Time ATM-Based Protocol Server](https://ieeexplore.ieee.org/document/739750)*. [RTSS 1998](https://dblp.org/db/conf/rtss/rtss1998.html) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-* Martin Borriss (**1998**). *Operating System Support for Predictable High-Speed Communication*. Ph.D. thesis, [TU Dresden](https://en.wikipedia.org/wiki/TU_Dresden), [amazon.ca](https://www.amazon.ca/Operating-Support-Predictable-High-speed-Communication/dp/3826568273)
-
-
 ## Forum Posts
 
 

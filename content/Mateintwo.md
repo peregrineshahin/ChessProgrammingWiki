@@ -12,27 +12,6 @@ was the very first chess playing program running on a general-purpose computer, 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Control Flow](#control-flow)
-	+ [1.2 Copy-Make](#copy-make)
-* [2 Performance](#performance)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The program was described by Prinz in 1952 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. It already introduced a [piece-list](Piece-Lists "Piece-Lists") in conjunction with a embedded [mailbox board representation](Mailbox "Mailbox"), albeit 10\*10, since a knight move was composed of two single step moves. [Move generation](Move_Generation "Move Generation") was done keeping a [ply](Ply "Ply")-indexed [array](Array "Array") of piece-list-index, [direction](Direction "Direction")- and step-counter. [Legal move](Legal_Move "Legal Move") detection was implemented somewhat inefficient - the king not to move was treated as a super-piece, and with the same technique as used in move generation, the board was scanned from the king's square looping over all directions and steps, to look whether an appropriate opponent piece to move may capture. The [iterative search](Iterative_Search "Iterative Search") process took up to four plies 0, 1, 2, 3. A mate in 2 was found, if after a ply-0-move, all ply-1-moves could be replied by at least one mate-in-one move, that is leave no legal moves at ply-3. There was no distinction between [checkmake](Checkmate "Checkmate") and [stalemate](Stalemate "Stalemate"), and [castling](Castling "Castling"), [double pawn push](Pawn_Push#DoublePush "Pawn Push"), [en passant](En_passant "En passant") and [promotions](Promotions "Promotions") were not implemented <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
-
-
-
 ### Control Flow
 
 

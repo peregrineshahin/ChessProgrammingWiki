@@ -15,31 +15,6 @@ After teaching at Carnegie Mellon, Thomas Anantharaman currently works as princi
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1988](#1988)
-	+ [2.2 1990](#1990)
-	+ [2.3 1991](#1991)
-	+ [2.4 1997](#1997)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 
-[Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), Thomas Anantharaman, [Mike Browne](Mike_Browne "Mike Browne") and [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk"),  
-
-after winning the [Fredkin Intermediate Prize](Edward_Fredkin#Prize "Edward Fredkin") for Deep Thought's Grandmaster-level performance. <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Selected Publications
 
 

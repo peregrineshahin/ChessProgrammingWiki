@@ -12,45 +12,6 @@ a [best-first](Best-First "Best-First") [and-or tree](https://en.wikipedia.org/w
 
 
 
-### Contents
-
-
-* [1 Algorithm](#Algorithm)
-	+ [1.1 Conspiracy Numbers](#Conspiracy_Numbers)
-	+ [1.2 Proof and Disproof Numbers](#Proof_and_Disproof_Numbers)
-	+ [1.3 Tree Sample](#Tree_Sample)
-* [2 Pseudo Code](#Pseudo_Code)
-	+ [2.1 Set Numbers](#Set_Numbers)
-	+ [2.2 Select](#Select)
-	+ [2.3 Expand](#Expand)
-	+ [2.4 Update Ancestors](#Update_Ancestors)
-* [3 Enhancements](#Enhancements)
-	+ [3.1 Pn²](#Pn.C2.B2)
-	+ [3.2 Depth First](#Depth_First)
-	+ [3.3 PDS](#PDS)
-	+ [3.4 PDS-PN](#PDS-PN)
-	+ [3.5 Parallel PNS](#Parallel_PNS)
-* [4 Applications](#Applications)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1988 ...](#1988_...)
-	+ [6.2 1990 ...](#1990_...)
-	+ [6.3 1995 ...](#1995_...)
-	+ [6.4 2000 ...](#2000_...)
-	+ [6.5 2005 ...](#2005_...)
-	+ [6.6 2010 ...](#2010_...)
-	+ [6.7 2015 ...](#2015_...)
-* [7 Forum Posts](#Forum_Posts)
-* [8 External Links](#External_Links)
-	+ [8.1 Proof](#Proof)
-	+ [8.2 Misc](#Misc)
-* [9 References](#References)
-
-
-
-
-
-
 ### Conspiracy Numbers
 
 

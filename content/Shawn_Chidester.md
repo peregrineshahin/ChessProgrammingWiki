@@ -15,20 +15,6 @@ Senjo simplifies the UCI protocol implementation of engines written in C++, as d
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2015](#2015)
-	+ [1.2 2016](#2016)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2015
 
 

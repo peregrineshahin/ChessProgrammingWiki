@@ -18,25 +18,6 @@ and started chess programming at age 8. His program [Neptune](Neptune "Neptune")
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [quiescence search problems](https://groups.google.com/g/rec.games.chess.computer/c/oCesDi-1iS4/m/D931c3n_wpwJ) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 01, 1995
-* [Need help with chess program!](https://groups.google.com/g/rec.games.chess.computer/c/QuJLUQGWEQw/m/o_DWHm5ZxNYJ) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 09, 1995
-* [More notes on program](https://groups.google.com/g/rec.games.chess.computer/c/jRvtYqQYI-A/m/gAi0rviOM-4J) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 10, 1995
-* [Unusual killer heuristic behavior](https://groups.google.com/g/rec.games.chess.computer/c/jlFU_HW-qSY/m/z7R0NOjZYOIJ) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 10, 1995
-* [Re: Multi-core vs. Single thread performance](https://www.realworldtech.com/forum/?threadid=88306&curpostid=88336) by Matt Craighead, [Real World Technologies - Forums](https://www.realworldtech.com/), November 17, 2008
-
-
 ## External Links
 
 

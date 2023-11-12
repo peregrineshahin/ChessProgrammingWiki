@@ -14,21 +14,6 @@ His research interests include [Torah and science](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 Chess Composer](#chess-composer)
-	+ [1.1 Bitboards](#bitboards)
-	+ [1.2 Abstract](#abstract)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Bitboards
 
 

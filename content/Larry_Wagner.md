@@ -12,23 +12,6 @@ an American computer scientist, programmer, inventor and entrepreneur, from 1959
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In March 1978, already affiliated with Atari, Larry Wagner served as tournament director of the [First Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") during the Second [West Coast Computer Faire](https://en.wikipedia.org/wiki/West_Coast_Computer_Faire) in [San Jose, California](https://en.wikipedia.org/wiki/San_Jose,_California). Soon later, he co-authored [Video Chess](Video_Chess "Video Chess") along with [Bob Whitehead](index.php?title=Bob_Whitehead&action=edit&redlink=1 "Bob Whitehead (page does not exist)"), released in 1979 for the [Atari 2600](Atari_8-bit "Atari 8-bit"), where Wagner wrote the game AI <a id="cite-note-4" href="#cite-ref-4">[4]</a> with the help of [Julio Kaplan](Julio_Kaplan "Julio Kaplan") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, a revised version for the [Atari 800](Atari_8-bit "Atari 8-bit") was released soon later as [Computer Chess](Computer_Chess "Computer Chess") (Atari Chess).
-
-
-
 ## Publications
 
 

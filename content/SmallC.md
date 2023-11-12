@@ -11,32 +11,6 @@ Small-C played many [French Computer Chess Championships](French_Computer_Chess_
 
 
 
-### Contents
-
-
-* [1 Despription](#despription)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-The author on Small-C <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
-
-```C++
-Small-C was born around 1990 and would compute 200 [nodes per second](Nodes_per_Second "Nodes per Second") at that time. It was intended as a joke. It is still a joke. Around year 2000, it came to take part to the French Championship in Massy where the program clearly established itself as one of the most heavily bugged ... Fortunately, it has been (seriously) improved since then, and evolved into Gibbon. 
-
-```
-
 ## Selected Games
 
 

@@ -12,24 +12,6 @@ a Papua New Guinean, Australian software developer and [roboticist](https://en.w
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Chess Olympiads](#chess-olympiads)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-As computer chess programmer, Shaun has written multiple chess programs, most notably [Vanilla Chess](Vanilla_Chess "Vanilla Chess") (VChess), [BChess](index.php?title=BChess&action=edit&redlink=1 "BChess (page does not exist)") and [Fencer](Fencer "Fencer"), and he organized <a id="cite-note-4" href="#cite-ref-4">[4]</a> the [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), where he also participated with his programs. 
-
-
-
 ## Chess Olympiads
 
 

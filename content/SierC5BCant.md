@@ -14,32 +14,6 @@ It is the successor of the weaker [Szeregowiec](Szeregowiec "Szeregowiec"), and 
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 Description](#description)
-	+ [3.1 Board Representation](#board-representation)
-	+ [3.2 Search](#search)
-	+ [3.3 Evaluation](#evaluation)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-As "house program" of the [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Sierżant was active in four consecutive [Polish Computer Chess Championships](Polish_Computer_Chess_Championship "Polish Computer Chess Championship"), the [PCCC 2004](PCCC_2004 "PCCC 2004"), [PCCC 2005](PCCC_2005 "PCCC 2005"), [PCCC 2006](PCCC_2006 "PCCC 2006") and the international [IOPCCC 2007](IOPCCC_2007 "IOPCCC 2007").
-
-
-
 ## Selected Games
 
 

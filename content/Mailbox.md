@@ -11,31 +11,6 @@ a square-centric board representation where the [encoding](Pieces#PieceCoding "P
 
 
 
-### Contents
-
-
-* [1 Implementations](#implementations)
-* [2 Pros & cons](#pros-.26-cons)
-	+ [2.1 Pros](#pros)
-	+ [2.2 Cons](#cons)
-* [3 Speed](#speed)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-* [8x8 Board](8x8_Board "8x8 Board")
-* [10x12 Board](10x12_Board "10x12 Board")
-* [Vector Attacks](Vector_Attacks "Vector Attacks")
-
-
- [0x88](0x88 "0x88")
 ## Pros & cons
 
 

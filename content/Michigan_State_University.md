@@ -10,26 +10,6 @@ title: Michigan State University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora")
-* [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.")
-* [Ed Northam](Ed_Northam "Ed Northam")
-* [George Stockman](George_Stockman "George Stockman")
-* [Wojciech Wieczorek](index.php?title=Wojciech_Wieczorek&action=edit&redlink=1 "Wojciech Wieczorek (page does not exist)")
-
-
 ## Chess Programs
 
 

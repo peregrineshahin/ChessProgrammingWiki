@@ -10,28 +10,6 @@ title: Novag
 
 
 
-### Contents
-
-
-* [1 The First Clone](#the-first-clone)
-* [2 The SciSys Split](#the-scisys-split)
-* [3 Kittinger](#kittinger)
-* [4 Novag Best-Publication Award](#novag-best-publication-award)
-* [5 Publications](#publications)
-* [6 Computers and Programs](#computers-and-programs)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-Novag's first chess computer, the [Chess Champion MK I](Chess_Champion_MK_I "Chess Champion MK I") appeared in September 1978 <a id="cite-note-2" href="#cite-ref-2">[2]</a> . It had a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-Bit processor running with 1.78 MHz, 2 KB [ROM](Memory#ROM "Memory"), and 256 bytes [RAM](Memory#RAM "Memory"). The program was a [clone](Category:Clone "Category:Clone") of the *Data Cash Systems Inc.* [CompuChess](CompuChess "CompuChess") program, which was developed by [David B. Goodrich](index.php?title=David_B._Goodrich&action=edit&redlink=1 "David B. Goodrich (page does not exist)") & Associates <a id="cite-note-3" href="#cite-ref-3">[3]</a> , while other sources assume [David Levy](David_Levy "David Levy") was involved in the development <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> . The Mk I was sold in the USA by [Joseph Sugarman's](Joseph_Sugarman "Joseph Sugarman") company *JS&A* <a id="cite-note-6" href="#cite-ref-6">[6]</a> , and in 1979 *Data Cash Systems* took legal action against *JS&A* for breach of copyright <a id="cite-note-7" href="#cite-ref-7">[7]</a> , which failed because it transpired that the copyright had not been adequately protected in terms of USA law <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
-
-
-
 ## The SciSys Split
 
 

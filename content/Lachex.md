@@ -12,28 +12,6 @@ an Acronym for [Los Alamos](Los_Alamos_National_Laboratory "Los Alamos National 
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 Description](#description)
-	+ [3.1 Board Representation](#board-representation)
-	+ [3.2 BCH Hashing](#bch-hashing)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Lachex played two [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the [WCCC 1986](WCCC_1986 "WCCC 1986") and [WCCC 1992](WCCC_1992 "WCCC 1992"), and four [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1985](ACM_1985 "ACM 1985"), [ACM 1986](ACM_1986 "ACM 1986"), [ACM 1987](ACM_1987 "ACM 1987") and [ACM 1991](ACM_1991 "ACM 1991"). It was runner up in 1986 only losing the eventual winner [Belle](Belle "Belle").
-
-
-
 ## Selected Games
 
 

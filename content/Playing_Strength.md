@@ -15,47 +15,6 @@ The ability to solve [test-positions](Test-Positions "Test-Positions"), that is,
 
 
 
-### Contents
-
-
-* [1 Measuring](#Measuring)
-* [2 Strength](#Strength)
-* [3 Computer Analysis of Human Players](#Computer_Analysis_of_Human_Players)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-	+ [5.1 1970 ...](#1970_...)
-	+ [5.2 1980 ...](#1980_...)
-	+ [5.3 1990 ...](#1990_...)
-	+ [5.4 2000 ...](#2000_...)
-	+ [5.5 2005 ...](#2005_...)
-	+ [5.6 2010 ...](#2010_...)
-	+ [5.7 2015 ...](#2015_...)
-* [6 Postings](#Postings)
-	+ [6.1 1982 ...](#1982_...)
-	+ [6.2 1990 ...](#1990_..._2)
-	+ [6.3 1995 ...](#1995_...)
-	+ [6.4 2000 ...](#2000_..._2)
-	+ [6.5 2005 ...](#2005_..._2)
-	+ [6.6 2010 ...](#2010_..._2)
-	+ [6.7 2015 ...](#2015_..._2)
-	+ [6.8 2020 ...](#2020_...)
-* [7 External Links](#External_Links)
-	+ [7.1 Chess Player](#Chess_Player)
-	+ [7.2 Chess Engines](#Chess_Engines)
-	+ [7.3 Analysis](#Analysis)
-	+ [7.4 Rating Systems](#Rating_Systems)
-	+ [7.5 Misc](#Misc)
-* [8 References](#References)
-
-
-
-
-
-
-A [statistical valid](https://en.wikipedia.org/wiki/Validity_(statistics)) method to measure playing strength within a defined [confidence interval](https://en.wikipedia.org/wiki/Confidence_interval) is to play an appropriate huge number of games with both sides versus a wide range of different opponents [[2]](#cite_note-2) with symmetric [time constraints](Time_Management#Time_Controls "Time Management"), and to apply [match statistics](Match_Statistics "Match Statistics"). Performance isn't measured absolutely; it is inferred from wins, losses, and draws against other players or engines. Players' rating depend on the ratings of their opponents, and the results scored against them [[3]](#cite_note-3). While relative playing strength of chess engines is not strictly transmissive over various time controls, the number of games played is more relevant than their duration, the todays de facto standard in measuring playing strength is parallel playing [fast chess](https://en.wikipedia.org/wiki/Fast_chess) with (ultra) short time control, such as [blitz](https://en.wikipedia.org/wiki/Fast_chess#Blitz), [bullet](https://en.wikipedia.org/wiki/Fast_chess#Bullet) or even [lightning](https://en.wikipedia.org/wiki/Fast_chess#Lightning) chess, as for instance used in the [Fishtest framework](Stockfish#TestingFramework "Stockfish") of [Stockfish](Stockfish "Stockfish") [[4]](#cite_note-4). 
-
-
-
 ## Strength
 
 

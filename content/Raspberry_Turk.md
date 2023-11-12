@@ -12,25 +12,6 @@ a [chess playing robot](Robots#Turk "Robots") developed and build by [Joey Meyer
 
 
 
-### Contents
-
-
-* [1 Chess Table](#chess-table)
-* [2 Game Loop](#game-loop)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The [chessboard](Chessboard "Chessboard") is placed or painted on a table with the mounted [actuator](https://en.wikipedia.org/wiki/Actuator) and [sensor](https://en.wikipedia.org/wiki/Sensor). Red and Green colored [pieces](Pieces "Pieces") were used for better [piece and move recognition](Piece_Recognition "Piece Recognition") using a [camera module](https://en.wikipedia.org/wiki/Camera_module) <a id="cite-note-4" href="#cite-ref-4">[4]</a> placed above the board <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The pieces incorporate small [metal](https://en.wikipedia.org/wiki/Metal) [dowels](https://en.wikipedia.org/wiki/Dowel) on top, so that a [electromagnet](https://en.wikipedia.org/wiki/Electromagnet) of a three [servo](https://en.wikipedia.org/wiki/Servo_control) controlled [Selective Compliance Articulated Robot Arm (SCARA)](https://en.wikipedia.org/wiki/SCARA) can lift and move them <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Game Loop
 
 

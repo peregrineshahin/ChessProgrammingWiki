@@ -10,24 +10,6 @@ an American electrical engineer, computer scientist, chess player and former che
 
 
 
-### Contents
-
-
-* [1 CHAOS](#chaos)
-* [2 Photos](#photos)
-	+ [2.1 Team](#team)
-	+ [2.2 ACM 1979](#acm-1979)
-* [3 References](#references)
-
-
-
-
-
-
-Along with [Fred Swartz](Fred_Swartz "Fred Swartz"), [Victor Berman](Victor_Berman "Victor Berman"), [Joe Winograd](Joe_Winograd "Joe Winograd"), [Mike Alexander](Mike_Alexander "Mike Alexander") and [Ira Ruben](Ira_Ruben "Ira Ruben"), William Toikka was co-author of the chess program [CHAOS](CHAOS "CHAOS") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , whose development started at [RCA](https://en.wikipedia.org/wiki/RCA) Systems Programming division in [Cinnaminson, NJ](https://en.wikipedia.org/wiki/Cinnaminson_Township,_New_Jersey). CHAOS was one of the strongest programs of the 70s and early 80s, using an unique, knowledge based and selective [best-first](Best-First "Best-First"), iterative widening approach <a id="cite-note-4" href="#cite-ref-4">[4]</a> , keeping the [search tree](Search_Tree "Search Tree") in memory. 
-
-
-
 ## Photos
 
 

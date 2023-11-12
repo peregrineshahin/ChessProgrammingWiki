@@ -13,35 +13,6 @@ One can generally use pondering time to seed the [transposition tables](Transpos
 
 
 
-### Contents
-
-
-* [1 Approaches](#approaches)
-	+ [1.1 Considering all Moves](#considering-all-moves)
-	+ [1.2 Considering predicted Move](#considering-predicted-move)
-	+ [1.3 Hybrid Approaches](#hybrid-approaches)
-* [2 Protocol Considerations](#protocol-considerations)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1995 ...](#1995-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The question is whether it is advantageous to search from opponent's point of view, considering all its moves, or to search from own point of view after premature making the predicted move. 
-
-
-
 ### Considering all Moves
 
 

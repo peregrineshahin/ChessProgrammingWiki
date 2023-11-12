@@ -10,30 +10,6 @@ an open standard for cross-platform, task-based as well as data-based parallel p
 
 
 
-### Contents
-
-
-* [1 Specifications](#specifications)
-* [2 OpenCL to Vulkan](#opencl-to-vulkan)
-* [3 Chess Projects](#chess-projects)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [OpenCL 1.2 Specification](https://www.khronos.org/registry/OpenCL/specs/opencl-1.2.pdf)
-* [OpenCL 1.2 Reference](https://www.khronos.org/registry/OpenCL//sdk/1.2/docs/man/xhtml/)
-* [OpenCL 2.0 Specification](https://www.khronos.org/registry/OpenCL/specs/opencl-2.0.pdf)
-* [OpenCL 2.0 C Language Specification](https://www.khronos.org/registry/OpenCL/specs/2.2/pdf/OpenCL_C.pdf)
-* [OpenCL 2.0 Reference](https://www.khronos.org/registry/OpenCL//sdk/2.0/docs/man/xhtml/)
-* [OpenCL 3.0 Specifications](https://www.khronos.org/registry/OpenCL/specs/3.0-unified/pdf/)
-
-
 ## OpenCL to Vulkan
 
 

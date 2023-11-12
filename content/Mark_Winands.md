@@ -12,30 +12,6 @@ a Dutch computer scientist, [games](Games "Games") researcher and associate prof
 
 
 
-### Contents
-
-
-* [1 Mark's Programs](#Mark.27s_Programs)
-* [2 Selected Publications](#Selected_Publications)
-	+ [2.1 2000 ...](#2000_...)
-	+ [2.2 2005 ...](#2005_...)
-	+ [2.3 2010 ...](#2010_...)
-	+ [2.4 2015 ...](#2015_...)
-	+ [2.5 2020 ...](#2020_...)
-* [3 External Links](#External_Links)
-* [4 References](#References)
-
-
-
-
-
-
-* [Lines of Action](Lines_of_Action "Lines of Action") program [MIA](https://www.game-ai-forum.org/icga-tournaments/program.php?id=116) [[8]](#cite_note-8), three times winner of the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
-* [Clobber](Clobber "Clobber") program [Mila](https://www.game-ai-forum.org/icga-tournaments/program.php?id=170)
-* [Draughts](Draughts "Draughts") program [Rocky](https://www.game-ai-forum.org/icga-tournaments/program.php?id=511)
-* [Surakarta](index.php?title=Surakarta&action=edit&redlink=1 "Surakarta (page does not exist)") program [SIA](https://www.game-ai-forum.org/icga-tournaments/program.php?id=524), gold medal winner from the Amsterdam 2007 [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
-
-
 ## Selected Publications
 
 

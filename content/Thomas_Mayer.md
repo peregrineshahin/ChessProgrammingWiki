@@ -12,18 +12,6 @@ a German computer scientist and software developer. He already started chess pro
 
 
 
-### Contents
-
-
-* [1 Mayer-Marx-Engels](#mayer-marx-engels)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
 ### Mayer-Marx-Engels
 
 

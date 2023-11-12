@@ -10,26 +10,6 @@ was an American electrical engineer, computer scientist and [AI](Artificial_Inte
 
 
 
-### Contents
-
-
-* [1 Research on Search](#research-on-search)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1973 ...](#1973-...)
-	+ [2.2 1980 ...](#1980-...)
-* [3 References](#references)
-
-
-
-
-
-
-Already in 1973, at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), along with [Samuel Fuller](Samuel_Fuller "Samuel Fuller") and [James Gillogly](James_Gillogly "James Gillogly"), Gaschnig analyzed the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-He received a B.Sc. from [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") and defended his Ph.D. in 1979 on performance measurement and analysis of certain [search](Search "Search") algorithms at Carnegie Mellon, under supervision of [Herbert Simon](Herbert_Simon "Herbert Simon") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-John Gaschnig further introduced the [backjumping technique](https://en.wikipedia.org/wiki/Backjumping) to reduce the search space in [backtracking algorithms](Backtracking "Backtracking") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## Selected Publications
 
 

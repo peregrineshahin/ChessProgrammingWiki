@@ -12,23 +12,6 @@ a pawn with no pawns of the same color on the neighboring [files](Files "Files")
 
 
 
-### Contents
-
-
-* [1 Examples](#examples)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-There is a whole class of [openings](Opening "Opening") characterized by the presence of an isolated queen's pawn. In exchange for this structural weakness the side with an IQP gets greater [mobility](Mobility "Mobility"), therefore this kind of positions can be used for balancing the evaluation functions parameters.
-
-
-
 ## See also
 
 

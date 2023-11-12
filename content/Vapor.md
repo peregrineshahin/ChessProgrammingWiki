@@ -12,30 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Mike Leany](Mike_Leany "Mike Lean
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Vapor is a rudimentary, didactic engine and lacks state of the art [search](Search "Search") techniques and [evaluation](Evaluation "Evaluation") terms.
-It [represents the board](Board_Representation "Board Representation") with a [little-endian file-rank mapped](Square_Mapping_Considerations#LittleEndianFileRankMapping "Square Mapping Considerations") [bitboard definition](Bitboard_Board-Definition "Bitboard Board-Definition"),
-and applies [Hyperbola Quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-Search is plain [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [check extension](Check_Extensions "Check Extensions") and [quiescence](Quiescence_Search "Quiescence Search") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
-considering [material](Material "Material") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") for [pawns](Pawn "Pawn") and [knights](Knight "Knight") as [evaluation](Evaluation "Evaluation") terms at the [leaves](Leaf_Node "Leaf Node") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## See also
 
 

@@ -12,34 +12,6 @@ was a Dutch computer scientist, computer chess and games programmer. Theo van de
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1985 ...](#1985-...)
-	+ [2.2 1995 ...](#1995-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2005 ...](#2005-...)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:Theo2000.jpg) 
-[DOCCC 2000](DOCCC_2000 "DOCCC 2000") Tournament Director Theo van der Storm <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
- [](http://old.csvn.nl/gallery22.html) 
-Theo van der Storm and [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") playing [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!") during [ICT 2005](ICT_2005 "ICT 2005") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> . 
-
-
-
 ## Selected Publications
 
 

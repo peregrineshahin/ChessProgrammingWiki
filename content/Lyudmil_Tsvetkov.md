@@ -14,28 +14,6 @@ Not a chess programmer by himself, Lyudmil contributed in [CCC](CCC "CCC") and k
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2010 ...](#2010-...)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2012](#2012)
-	+ [2.2 2013](#2013)
-	+ [2.3 2014](#2014)
-	+ [2.4 2015](#2015)
-	+ [2.5 2016 ...](#2016-...)
-	+ [2.6 2020 ...](#2020-...-2)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### 2010 ...
 
 

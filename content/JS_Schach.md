@@ -12,26 +12,6 @@ a didactic [open source chess program](Category:Open_Source "Category:Open Sourc
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-JS Schach features a [10x12 Board](10x12_Board "10x12 Board"), and an interesting but suboptimal [search](Search "Search") routine. 
-
-
-
 ### Search
 
 

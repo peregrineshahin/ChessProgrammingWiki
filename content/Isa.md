@@ -13,32 +13,6 @@ Since November 2018, Isa 2.0.64 is available as [Open Source](Category:Open_Sour
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2014](#2014)
-	+ [3.2 2015](#2015)
-	+ [3.3 2016](#2016)
-	+ [3.4 2017 ...](#2017-...)
-* [4 External Links](#external-links)
-	+ [4.1 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

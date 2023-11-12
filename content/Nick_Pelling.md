@@ -14,28 +14,6 @@ with a thesis on [knowledge](Knowledge "Knowledge") and [ideology](https://en.wi
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-* [2 Chess](#chess)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2016 ...](#2016-...)
-	+ [4.2 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Nick Pelling developed [computer games](https://en.wikipedia.org/wiki/Video_game) for most major [game platforms](https://en.wikipedia.org/wiki/Video_game_console) and [home computers](https://en.wikipedia.org/wiki/Home_computer) since the early 80s, 
-best known as author of [Arcadians](https://en.wikipedia.org/wiki/Arcadians_(video_game)) for [BBC Micro](BBC_Micro "BBC Micro") and [Acorn Electron](BBC_Micro#Electron "BBC Micro"), and [Frak!](https://en.wikipedia.org/wiki/Frak!), originally developed for the same platform, published by his own 'Aardvark' software label in 1984 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Chess
 
 

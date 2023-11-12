@@ -14,31 +14,6 @@ His recent research includes human and smart machine co-learning with the [Brain
 
 
 
-### Contents
-
-
-* [1 Co-Learning with BCI](#co-learning-with-bci)
-* [2 Photo](#photo)
-* [3 PFML-based BCI Agent](#pfml-based-bci-agent)
-* [4 Selected Publications](#selected-publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Abtract from *Human and Smart Machine Co-Learning with [Brain Computer Interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)* <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```C++
-[Machine learning](Learning "Learning") has become a very popular approach for [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) systems, and it has always been considered important research in the [Computational Intelligence area](https://en.wikipedia.org/wiki/Computational_intelligence). Nevertheless, when it comes to smart machines, it is not just about the methodologies. We need to consider systems and cybernetics as well as include human in the loop. The purpose of this article is as follows: (1) To integrate the open source Facebook AI Research (FAIR) [Darkforest](https://en.wikipedia.org/wiki/Darkforest) program of [Facebook](https://en.wikipedia.org/wiki/Facebook) with [Item Response Theory](https://en.wikipedia.org/wiki/Item_response_theory) (IRT), to the new open learning system, namely, [DDF](index.php?title=DDF&action=edit&redlink=1 "DDF (page does not exist)") learning system; (2) To integrate DDF Go with Robot namely Robotic DDF Go system; (3) To invite the professional [Go](Go "Go") players to attend the activity to play Go games on site with a smart machine. The research team will apply this technology to education, such as, playing games to enhance the children concentration on learning mathematics, languages, and other topics. With the detected [brainwaves](https://en.wikipedia.org/wiki/Neural_oscillation), the robot will be able to speak some words that are very much to the point for the students and to assist the teachers in classroom in the future.
-
-```
-
 ## Photo
 
 

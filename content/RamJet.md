@@ -13,28 +13,6 @@ IGT 2017 participant RamJet **0.14** was released afterwards as [open source eng
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 RamJet 0.11](#ramjet-0.11)
-	+ [1.2 RamJet 0.14](#ramjet-0.14)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-RamJet started as a [C](C "C") port of Edoardo's former [Visual Basic](Basic "Basic") engine [ProChess](ProChess_IT "ProChess IT") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, thus, RamJet applied a [0x88](0x88 "0x88") board representation, using [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") [PVS](Principal_Variation_Search "Principal Variation Search") with [iterative deepening](Iterative_Deepening "Iterative Deepening"), [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), and [futility pruning](Futility_Pruning "Futility Pruning"). 
-
-
-
 ### RamJet 0.11
 
 

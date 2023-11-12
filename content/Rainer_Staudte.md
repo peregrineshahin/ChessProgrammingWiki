@@ -12,26 +12,6 @@ a German mathematician and computer scientist, alumnus of the [Chemnitz Universi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1983](#1983)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 1995 ...](#1995-...)
-	+ [1.4 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1983
 
 

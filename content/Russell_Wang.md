@@ -12,26 +12,6 @@ a computer engineering student at the [University of Toronto](University_of_Toro
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Kuei Sun](https://dblp.org/pid/122/4854.html), [Daniel Fryer](https://dblp.org/pid/122/4836.html), Russell Wang, [Sagar Patel](https://dblp.org/pid/88/7407.html), [Joseph Chu](https://dblp.org/pid/214/5922.html), [Matthew Lakier](https://dblp.org/pid/180/8158.html), [Angela Demke Brown](https://scholar.google.ca/citations?user=xicy8QcAAAAJ&hl=en), [Ashvin Goel](https://scholar.google.ca/citations?user=_AUSgBQAAAAJ&hl=en) (**2020**). *[Spiffy: Enabling File-System Aware Storage Applications](https://dl.acm.org/doi/abs/10.1145/3386368)*. [ACM Transactions on Storage](ACM#TOS "ACM"), Vol. 16, No. 3
-* [Reid McIlroy-Young](Reid_McIlroy-Young "Reid McIlroy-Young"), Russell Wang, [Siddhartha Sen](Siddhartha_Sen "Siddhartha Sen"), [Jon Kleinberg](Jon_Kleinberg "Jon Kleinberg"), [Ashton Anderson](Ashton_Anderson "Ashton Anderson") (**2020**). *Learning Personalized Models of Human Behavior in Chess*. [arXiv:2008.10086](https://arxiv.org/abs/2008.10086)
-
-
 ## External Links
 
 

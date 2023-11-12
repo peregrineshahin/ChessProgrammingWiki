@@ -25,31 +25,6 @@ and the [FASTRA II](https://en.wikipedia.org/wiki/Fastra_II) desktop supercomput
 
 
 
-### Contents
-
-
-* [1 Nonograms](#nonograms)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2002 ...](#2002-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Walter Kosters](Walter_Kosters "Walter Kosters"), Joost Batenburg researches on [Nonograms](Nonogram "Nonogram"), picture logic puzzles where a pixel grid has to be filled with black and white pixels, 
-based on a description that indicates the lengths of the consecutive black segments for each row and column. 
-In this puzzle type, the numbers are a form of [discrete tomography](https://en.wikipedia.org/wiki/Discrete_tomography) 
-that measures how many unbroken lines of filled-in squares there are in any given row or column. 
-While the Nonograms that can be found in puzzle books can typically be solved by applying a series of highly local reasoning steps regarding single rows and columns, 
-the general Nonogram problem is [NP-hard](https://en.wikipedia.org/wiki/NP-hard).
-
-
-
 ## Selected Publications
 
 

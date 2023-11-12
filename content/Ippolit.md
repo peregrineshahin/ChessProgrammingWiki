@@ -12,39 +12,6 @@ an [UCI](UCI "UCI") compliant [open source engine](Category:Open_Source "Categor
 
 
 
-### Contents
-
-
-* [1 Legal Status](#legal-status)
-* [2 Origin](#origin)
-* [3 Derivatives](#derivatives)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2009](#2009)
-	+ [5.2 2010](#2010)
-	+ [5.3 2011](#2011)
-	+ [5.4 2012](#2012)
-* [6 External Links](#external-links)
-	+ [6.1 IPPOLIT](#ippolit)
-	+ [6.2 Hippolyte](#hippolyte)
-	+ [6.3 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-The authors of *Ippolit* call themselves [Comrades](https://en.wikipedia.org/wiki/Comrade) and keep pseudonymous. Head Comrade is *Yakov Petrovich Golyadkin* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Deputy Head Comrade *Igor Igorovich Igoronov*, Honorary Comrade *Vladimir Ilyich Lenin* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and further *Roberto Pescatore*, *Yusuf Ralf Weisskopf*, *Ivan Skavinsky Skavar* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and *Decembrists* <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-
-
-Ippolit pages were initially hosted by [Wikispaces.org](https://en.wikipedia.org/wiki/Wikispaces). Ippolit and its successor [RobboLito](RobboLito "RobboLito") <a id="cite-note-9" href="#cite-ref-9">[9]</a> were discussed in [Computer Chess Forums](Computer_Chess_Forums "Computer Chess Forums") from mid October 2009 <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>, and it is no longer appropriate to ignore them further. The source code is open and distributed. *Ippolit* and *RobboLito* are apparently as strong or even stronger than *Rybka 3* on a single processor. They are therefor likely to hurt interests of commercial chess program authors and companies as well as hobbyist computer chess programmers with all their original efforts over years, and finally the sportive aspects of computer chess, the competition.
-
-
-The legal status of *Ippolit* and its successors, and despite the [socialization](https://en.wikipedia.org/wiki/Socialization) of re-engineered knowledge from commercial engines should be matter of independent scientific research possibly under the aegis of the [ICGA](ICGA "ICGA").
-
-
-
 ## Origin
 
 

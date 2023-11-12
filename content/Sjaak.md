@@ -11,24 +11,6 @@ Sjaak has a [parallel SMP search](Parallel_Search "Parallel Search") <a id="cite
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Sjaak](Sjaak_(Glebbeek) "Sjaak (Glebbeek)") by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
 ## See also
 
 

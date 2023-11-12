@@ -11,34 +11,6 @@ Hydra won games 1, 2 and 7 while the five remaining games ended in a draw for a 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Games](#games)
-	+ [2.1 Game 1](#game-1)
-	+ [2.2 Game 2](#game-2)
-	+ [2.3 Game 3](#game-3)
-	+ [2.4 Game 4](#game-4)
-	+ [2.5 Game 5](#game-5)
-	+ [2.6 Game 6](#game-6)
-	+ [2.7 Game 7](#game-7)
-	+ [2.8 Game 8](#game-8)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:ShredderversusHydra.jpg) 
-[Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Games
 
 

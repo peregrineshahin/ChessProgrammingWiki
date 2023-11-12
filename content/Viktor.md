@@ -13,59 +13,6 @@ Viktor participated at the [First World Microcomputer Chess Championship](WMCCC_
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Namesake](#namesake)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WMCCC 1980](WMCCC_1980 "WMCCC 1980"), round 2, Viktor - [Chess Challenger](Chess_Challenger "Chess Challenger") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-Viktor missed the win at least with 33. Kh1 versus the later champion <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
-
-
-
-
-
-|  |
-| --- |
-|                                                                              ♜  ♛ ♜  ♟♟ ♞          ♚ ♝ ♟♙        ♘   ♙    ♙ ♕     ♙ ♙   ♖ ♖♔  |
-
-
-r2q1r2/pp1n4/6k1/b1pP4/4N3/P4P1Q/5P1P/3R1RK1 w - - 0 33 
-
-
-
-
-```
-
-[Event "WMCCC 1980"]
-[Site "London, United Kingdom"]
-[Date "1980.09.05"]
-[Round "2"]
-[White "Viktor"]
-[Black "Chess Challenger"]
-[Result "0-1"]
-
-1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.cxd5 exd5 7.Nf3 Be6
-8.Qa4+ c6 9.e4 dxe4 10.Nxe4 Be7 11.Bd3 O-O 12.Ng3 Nd7 13.O-O Re8 14.b4
-Bg4 15.Qc2 Bxf3 16.Bxh7+ Kh8 17.gxf3 g6 18.Bxg6 fxg6 19.Qxg6 Bxb4 20.Qh6+
-Kg8 21.Qg6+ Kf8 22.Qh6+ Kf7 23.Qh5+ Ke6 24.Qf5+ Kd6 25.a3 Ba5 26.Rad1 Rf8
-27.Ne4+ Ke7 28.Qg5+ Kf7 29.Qf5+ Kg7 30.Qg4+ Kh6 31.Qh3+ Kg6 32.d5 c5 {diagram}
-33.Rc1 b6 34.Qe6+ Nf6 35.Nxf6 Qxf6 36.Qe4+ Kh6 37.Rc4 Qxf3 38.Qe6+ Kh5
-39.Qe7 Rg8+ 40.Qg5+ Rxg5+ 0-1
-
-```
-
 ## Namesake
 
 

@@ -15,27 +15,6 @@ and lacks a main [transposition table](Transposition_Table "Transposition Table"
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Requiem (a WinBoard compatible engine) RELEASED!](https://www.stmintz.com/ccc/index.php?id=201192) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), December 09, 2001
-* [Requiem (a WinBoard compatible engine) RELEASED!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35261) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 09, 2001
-* [To Severi Salminen about Requiem](https://www.stmintz.com/ccc/index.php?id=207641) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), January 16, 2002
-* [Requiem v0.52 released](https://www.stmintz.com/ccc/index.php?id=212309) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), February 07, 2002
-* [Requiem v0.53 released](https://www.stmintz.com/ccc/index.php?id=254431) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), September 26, 2002
-
-
 ## External Links
 
 

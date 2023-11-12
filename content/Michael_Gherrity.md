@@ -10,29 +10,6 @@ an American computer scientist and AI-researcher from the [University of Califor
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Michael Gherrity (**1989**). *[A Learning Algorithm for Analog, Fully Recurrent Neural Networks](https://ieeexplore.ieee.org/document/118645)*. [IEEE IJCNN 1989](IEEE "IEEE")
-* [Richard K. Belew](https://scholar.google.com/citations?user=vqrY_hgAAAAJ&hl=en), Michael Gherrity (**1989**). *Back Propagation for the Classifier System*. [ICGA 1989](https://dblp.uni-trier.de/db/conf/icga/icga1989.html)
-* Michael Gherrity (**1993**). *A Game Learning Machine*. Ph.D. thesis, [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego), advisor [Paul Kube](Mathematician#PKube "Mathematician"), [pdf](http://www.gherrity.org/thesis.pdf), [pdf](http://www.top-5000.nl/ps/A%20game%20learning%20machine.pdf)
-* Michael Gherrity, [Paul Kube](Mathematician#PKube "Mathematician") (**1993**). *Quiescent Search is Beneficial.* Technical Report CS93-289, [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
-
-
 ## Forum Posts
 
 

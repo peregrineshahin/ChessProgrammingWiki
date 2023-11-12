@@ -10,28 +10,6 @@ A **Sequential Logic** is a [digital circuit](https://en.wikipedia.org/wiki/Digi
 
 
 
-### Contents
-
-
-* [1 Applications](#applications)
-* [2 Sequential Rook Attack](#sequential-rook-attack)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Sequential logic, that is [combinatorial logic](Combinatorial_Logic "Combinatorial Logic") combined with [memory](Memory "Memory"), is the base of [Finite-state machines](https://en.wikipedia.org/wiki/Finite_state_machine), [Turing machines](index.php?title=Turing_Machine&action=edit&redlink=1 "Turing Machine (page does not exist)") as well as digital [computers](https://en.wikipedia.org/wiki/Computer).
-
-
-
-
-
-
 ## Sequential Rook Attack
 
 

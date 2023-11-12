@@ -10,40 +10,6 @@ a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibitio
 
 
 
-### Contents
-
-
-* [1 Photos](#Photos)
-* [2 Quotes](#Quotes)
-* [3 Games](#Games)
-	+ [3.1 Hegener & Glaser](#Hegener_.26_Glaser)
-	+ [3.2 Fidelity Electronics](#Fidelity_Electronics)
-	+ [3.3 Novag](#Novag)
-	+ [3.4 SciSys](#SciSys)
-* [4 Reports](#Reports)
-* [5 Forum Posts](#Forum_Posts)
-* [6 External Links](#External_Links)
-* [7 References](#References)
-
-
-
-
-
-
-[[2]](#cite_note-2)
-
-
-
- [](https://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) 
-Garry vs [Mephisto](Mephisto "Mephisto"), [Richard Lang](Richard_Lang "Richard Lang") and [Ed Schröder](Ed_Schroder "Ed Schroder") operating their programs 
-
-
-
- [](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) 
-Garry Kasparov vs [Superstar 36K (32)](#32) just before 51.Dxg7. [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt") and [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger) kibitzing 
-
-
-
 ## Quotes
 
 

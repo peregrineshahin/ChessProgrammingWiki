@@ -16,31 +16,6 @@ More recently, Uri Blass contributed to the [Stockfish](Stockfish "Stockfish") d
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1990 ...](#1990-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...-2)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-	+ [2.6 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### 1990 ...
 
 

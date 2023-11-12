@@ -12,28 +12,6 @@ a free 32-bit [Windows](Windows "Windows") chess program with an own [GUI](GUI "
 
 
 
-### Contents
-
-
-* [1 Rabbit's Paradise](#rabbit.27s-paradise)
-* [2 Screenshot](#screenshot)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Rabbit](#rabbit)
-* [6 References](#references)
-
-
-
-
-
-
-[
-Where the Rabbit was born - Two of the [Paps of Jura](https://en.wikipedia.org/wiki/Paps_of_Jura) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Screenshot
 
 

@@ -14,23 +14,6 @@ and gained experience in [numerical](https://en.wikipedia.org/wiki/Numerical_ana
 
 
 
-### Contents
-
-
-* [1 Number of Chess Positions](#number-of-chess-positions)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1996, Shirish Chinchalkar determined 10^46.25 as upper bound for the number of reachable [chess positions](Chess_Position "Chess Position") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Publications
 
 

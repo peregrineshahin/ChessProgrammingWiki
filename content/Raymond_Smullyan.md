@@ -12,31 +12,6 @@ was an American mathematician, logician, philosopher, [magician](https://en.wiki
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1959](#1959)
-	+ [2.2 1960 ...](#1960-...)
-	+ [2.3 1970 ...](#1970-...)
-	+ [2.4 1980 ...](#1980-...)
-	+ [2.5 1990 ...](#1990-...)
-	+ [2.6 2000 ...](#2000-...)
-	+ [2.7 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-	+ [3.1 Smullyan](#smullyan)
-	+ [3.2 A Mathematical Mystery Tour](#a-mathematical-mystery-tour)
-* [4 References](#references)
-
-
-
-
-
-
-* [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis")
-
-
 ## Selected Publications
 
 

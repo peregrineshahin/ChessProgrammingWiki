@@ -13,43 +13,6 @@ a German computer scientist and Ph.D. from the [University of Hamburg](Universit
 
 
 
-### Contents
-
-
-* [1 Jugend forscht](#jugend-forscht)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](https://www.jugend-forscht.de/projektdatenbank/die-entwicklung-eines-schachprogramms-als-beispiel-fuer-eine-spezielle-form-der-kuenstlichen-intelligenz.html) Kai Himstedt, [Wolfgang Stahn](index.php?title=Wolfgang_Stahn&action=edit&redlink=1 "Wolfgang Stahn (page does not exist)"), Jugend forscht <a id="cite-note-5" href="#cite-ref-5">[5]</a> 
-As a teenager during the late 70s, Kai Himstedt already developed a chess program along with [Wolfgang Stahn](index.php?title=Wolfgang_Stahn&action=edit&redlink=1 "Wolfgang Stahn (page does not exist)") and participated at [Jugend forscht](https://en.wikipedia.org/wiki/Jugend_forscht), a German youth science competition, initiated in 1965 by [Henri Nannen](https://en.wikipedia.org/wiki/Henri_Nannen), then editor-in-chief of the [Stern magazine](https://en.wikipedia.org/wiki/Stern_%28magazine%29). In 1980, they won the second prize in the mathematics and computer science section <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
-
-
-
-
-```C++
-Inspired by the chess computer boom and not impressed by the programs offered at the time, the two young friends developed their own computer chess program. As a comparison, the modern American chess program [Chess 4.8](Chess_(Program) "Chess (Program)") was available, in which the two young mathematicians discovered certain weaknesses. 
-
-```
-
-
-```C++
-By using the [FORTRAN](Fortran "Fortran") programming language and the [TR 440](TR_440 "TR 440") computer, the two young mathematicians set about developing their new program. The considerations for the development took about four weeks. Then in April 1979, first games could been played, but were unsatisfactory in the eyes of young researchers. Further improvements of the program made it possible that one of the best micro-computer chess prograns, the [Chess Challenger 7](Chess_Challenger "Chess Challenger") could be beaten. 
-
-```
-
-
-```C++
-Their program proved to be so good that even the computer chess world champion Chess 4.8 could be beaten when using a suitable computer. A special feature of the new program is that an exchange of pieces with its effects on the overall course of the game was not completely calculated by search, but [evaluated statically](Static_Exchange_Evaluation "Static Exchange Evaluation"), yielding in a considerable shortening of the processing time. 
-
-```
-
 ## See also
 
 

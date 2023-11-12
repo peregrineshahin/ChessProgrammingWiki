@@ -14,30 +14,6 @@ Raffaela was likely the first Italian program able to play on the Internet <a id
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000 ...](#2000-...)
-	+ [4.2 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:RaffaelaGUI.jpg) 
-Raffaela [GUI](GUI "GUI")
-
-
-
 ## Selected Games
 
 

@@ -12,24 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-TASC R30 played the Manufacturers Group at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https://en.wikipedia.org/wiki/Munich) and became runner-up in a field of three computers by the smallest margin of ½ point behind the [Mephisto Genius 2](Mephisto "Mephisto"), dubbed the [Wundermachine](Mephisto_Wundermaschine "Mephisto Wundermaschine"). It further played the [Harvard Cup 1993](Harvard_Cup_1993 "Harvard Cup 1993"), and five [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") from [1993](Aegon_1993 "Aegon 1993") until [1997](Aegon_1997 "Aegon 1997"). 
-
-
-
 ## See also
 
 

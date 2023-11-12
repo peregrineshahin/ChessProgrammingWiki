@@ -16,52 +16,6 @@ He started again to work with [Don Dailey](Don_Dailey "Don Dailey") on his new p
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 Senior World Champion](#senior-world-champion)
-* [3 Quotes](#quotes)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1986 ...](#1986-...)
-	+ [4.2 1990 ...](#1990-...)
-	+ [4.3 1995 ...](#1995-...)
-	+ [4.4 2000 ...](#2000-...)
-	+ [4.5 2010 ...](#2010-...)
-	+ [4.6 2020 ...](#2020-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2010 ...](#2010-...-2)
-	+ [5.2 2015 ...](#2015-...)
-	+ [5.3 2020 ...](#2020-...-2)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Larry Kaufman was/is involved in the development of following chess programs <a id="cite-note-15" href="#cite-ref-15">[15]</a> :
-
-
-
-* [Mac Hack VI](Mac_Hack "Mac Hack")
-* [Rex](Rex "Rex")
-* [RexChess](RexChess "RexChess")
-* [Heuristic Alpha](Heuristic_Alpha "Heuristic Alpha")
-* [Titan](Titan "Titan")
-* [Socrates](Socrates "Socrates")
-* [Kasparov's Gambit](Kasparov%27s_Gambit "Kasparov's Gambit")
-* [Star Socrates](Star_Socrates "Star Socrates")
-* [Corel Chess](Corel_Chess "Corel Chess")
-* [Mini](Mini "Mini")
-* [Occam](Occam "Occam")
-* [Rybka](Rybka "Rybka")
-* [Doch](Doch "Doch")
-* [Komodo](Komodo "Komodo")
-* [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess")
-
-
 ## Senior World Champion
 
 

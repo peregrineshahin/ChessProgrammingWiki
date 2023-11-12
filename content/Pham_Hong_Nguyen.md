@@ -12,29 +12,6 @@ a Vietnamese scientist working on [AI](Artificial_Intelligence "Artificial Intel
 
 
 
-### Contents
-
-
-* [1 Chess](#chess)
-* [2 Chinese Chess (Xiangqi)](#chinese-chess-.28xiangqi.29)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2002](#2002)
-	+ [4.2 2015 ...](#2015-...)
-	+ [4.3 2020 ...](#2020-...)
-* [5 References](#references)
-
-
-
-
-
-
-* [Ax](Ax "Ax"): A so-so chess engine
-* [FirstChess](FirstChess "FirstChess"): a very simple chess (open source code) to help newbies to learn chess programming
-* [Banksia](Banksia "Banksia")
-* [Banksia GUI](Banksia_GUI "Banksia GUI")
-
-
 ## Chinese Chess (Xiangqi)
 
 

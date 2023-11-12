@@ -12,26 +12,6 @@ title: JeanBaptiste Hoock
 
 
 
-### Contents
-
-
-* [1 Mogo](#mogo)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2008 ...](#2008-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Since 2008 Jean-Baptiste Hoock is co-author of the [Go](Go "Go") playing program [Mogo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=515), using [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") which uses patterns in the simulations and improvements in [UCT](UCT "UCT") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . 
-
-
-
 ## Selected Publications
 
 

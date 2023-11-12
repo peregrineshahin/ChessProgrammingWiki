@@ -12,25 +12,6 @@ was an American computer scientist, known for his participation in the [Manhatta
 
 
 
-### Contents
-
-
-* [1 MANIAC I](#maniac-i)
-* [2 Quote](#quote)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-According to [John McCarthy's](John_McCarthy "John McCarthy") [quote](#quote), Pasta is considered as early chess programmer, co-developing the [MANIAC I chess program](MANIAC_I "MANIAC I"). 
-
-
-
 ## Quote
 
 

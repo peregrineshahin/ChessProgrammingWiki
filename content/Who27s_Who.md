@@ -8,26 +8,6 @@ title: Who27s Who
 
 
 
-### Contents
-
-
-* [1 The Secretariat Members](#the-secretariat-members)
-* [2 Panel Members](#panel-members)
-* [3 ICGA Board](#icga-board)
-* [4 WCCC Tournament Director](#wccc-tournament-director)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (author of [Crafty](Crafty "Crafty") and [Cray Blitz](Cray_Blitz "Cray Blitz"), World Computer Chess Champion in [1983](WCCC_1983 "WCCC 1983") and [1986](WCCC_1986 "WCCC 1986"))
-* [Mark Lefler](Mark_Lefler "Mark Lefler") (author of [Now](Now "Now"))
-* [Harvey Williamson](Harvey_Williamson "Harvey Williamson") (part of [HIARCS](HIARCS "HIARCS") Team)
-
-
 ## Panel Members
 
 

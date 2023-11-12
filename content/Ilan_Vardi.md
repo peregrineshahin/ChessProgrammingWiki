@@ -14,46 +14,6 @@ In the late 70s, as one of [Montreal's](https://en.wikipedia.org/wiki/Montreal) 
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.lix.polytechnique.fr/Labo/Ilan.Vardi/index.html) 
-Ilan Vardi losing to future grandmaster [Kevin Spraggett](https://en.wikipedia.org/wiki/Kevin_Spraggett) in the final round of the 1975 Montreal Open <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "Ch. Ouvert Montreal"]
-[Site "Montreal"]
-[Date "1975.??.??"]
-[Round "6"]
-[White "Ilan Vardi"]
-[Black "Kevin Spraggett"]
-[Result "0-1"]
-
-1.d4 f5 2.Bg5 Nf6 3.Nd2 d5 4.Bxf6 exf6 5.e3 c6 6.c4 g6 7.Qb3 Bh6 8.g3 dxc4 9.Bxc4 Qe7 
-10.Ngf3 Nd7 11.O-O Nb6 12.Bd3 Be6 13.Qc2 O-O 14.e4 fxe4 15.Nxe4 Bd5 16.Rfe1 Qc7 17.Nh4 Bg7
-18.Nc3 Bf7 19.Rad1 Rae8 20.Bf1 Qd8 21.Nf3 Kh8 22.Bg2 Nd5 23.a3 Nxc3 24.Qxc3 Qb6 25.Qb4 Qxb4
-26.axb4 a6 27.Rxe8 Rxe8 28.Re1 Bf8 29.Rxe8 Bxe8 30.Ne1 Bxb4 31.Nd3 Bd6 32.Nc5 b6 33.Nxa6 Kg7
-34.f4 Kf7 35.Kf2 Bd7 36.Ke3 Ke6 37.b3 Bc8 38.Bh3+ f5 39.Bf1 Bb7 40.Be2 Ba3 41.Bf1 Kd6 42.Be2
-Bc1+ 43.Kf2 Bd2 44.Bd3 Kd5 45.Ke2 Bc1 46.Nc7+ Kxd4 47.Ne6+ Kc3 48.Nf8 Kxb3 49.Nxh7 c5 50.Kd1
-Ba3 51.Bc2+ Kb2 52.Ng5 Bd5 0-1
-
-```
-
 ## Selected Publications
 
 

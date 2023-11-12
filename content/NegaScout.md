@@ -10,38 +10,6 @@ an [Alpha-Beta](Alpha-Beta "Alpha-Beta") enhancement and improvement of [Judea P
 
 
 
-### Contents
-
-
-* [1 NegaScout vs. PVS](#negascout-vs.-pvs)
-	+ [1.1 Guido Schimmels](#guido-schimmels)
-	+ [1.2 Yngvi Björnsson](#yngvi-bj.c3.b6rnsson)
-	+ [1.3 Dennis Breuker](#dennis-breuker)
-* [2 Smallest uniform Tree](#smallest-uniform-tree)
-* [3 Pseudo C Code](#pseudo-c-code)
-	+ [3.1 Original](#original)
-	+ [3.2 Alternative](#alternative)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-NegaScout works similar to [Tony Marsland's](Tony_Marsland "Tony Marsland") and [Murray Campbell's](Murray_Campbell "Murray Campbell") [PVS](Principal_Variation_Search "Principal Variation Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. NegaScout's [fail-soft](Fail-Soft "Fail-Soft") refinements always returns correct minimax scores at the two lowest levels, since it assumes that all [horizon nodes](Horizon_Node "Horizon Node") would have the same score for the (in that case redundant) re-search, which most programs can not guarantee due to possible [extensions](Extensions "Extensions") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and possible [bound](Bound "Bound") dependency of [quiescence search](Quiescence_Search "Quiescence Search") and [evaluation](Evaluation "Evaluation"). NegaScout just searches the first move with an open window, and then every move after that with a [zero window](Null_Window "Null Window"), whether [alpha](Alpha "Alpha") was already improved or not. Some PVS implementations wait until an alpha-improvement before using [zero window](Null_Window "Null Window") at [PV-Nodes](Node_Types#PV "Node Types") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-Reinefeld's original implementation introduces one additional variable on the [stack](Stack "Stack") (only b, since after a = alpha, alpha is not needed any longer), for a slightly simpler control structure than PVS. It has therefor set a new null window at the end of the loop (b = a + 1), but has to consider the move count for the re-search condition though. His implementation trusts the null-window score, even if the re-search doesn't confirm the alpha increase, possibly due to [search instability](Search_Instability "Search Instability"). 
-
-
-While re-searching, NegaScout uses the narrower window of {score, beta}, while other implementations dealing with search instability, re-search with {alpha, beta}. Practically, due to [Quiescence Search](Quiescence_Search "Quiescence Search"), and [fail-soft](Fail-Soft "Fail-Soft") implementations of PVS, the two algorithms are essentially equivalent to each other - they expand the same [search tree](Search_Tree "Search Tree") <a id="cite-note-6" href="#cite-ref-6">[6]</a><a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ### Guido Schimmels
 
 

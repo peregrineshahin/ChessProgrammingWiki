@@ -10,41 +10,6 @@ The **World Computer Chess Championship** (WCCC) is an annual event organized by
 
 
 
-### Contents
-
-
-* [1 History](#history)
-* [2 ICCA](#icca)
-* [3 Shannon Trophy](#shannon-trophy)
-* [4 Editions](#editions)
-* [5 Hardware Limit](#hardware-limit)
-* [6 World Chess Software Championship](#world-chess-software-championship)
-* [7 Rybka Disqualification 2011](#rybka-disqualification-2011)
-* [8 A New Format 2017](#a-new-format-2017)
-* [9 See also](#see-also)
-* [10 Publications](#publications)
-* [11 Postings](#postings)
-	+ [11.1 2008](#2008)
-	+ [11.2 2010 ...](#2010-...)
-	+ [11.3 2015 ...](#2015-...)
-	+ [11.4 2020 ...](#2020-...)
-* [12 External Links](#external-links)
-* [13 References](#references)
-
-
-
-
-
-
-The World Computer Chess Championship was created and organized by [David Levy](David_Levy "David Levy"), [Ben Mittman](Ben_Mittman "Ben Mittman") and [Monroe Newborn](Monroe_Newborn "Monroe Newborn") in 1974, as suggested by the Soviet programmers of [Kaissa](Kaissa "Kaissa") <a id="cite-note-1" href="#cite-ref-1">[1]</a> :
-
-
-
-
-```C++
-Since 1972 (1970 Editor) in the USA and Canada were hold the yearly championships of North America among the chess programs, organized by the ACM. The team of Kaissa directed the organizers of these tournaments to the thought to conduct a world championship, whose organization within the framework its regular congress took upon itself.
-```
-
 ## ICCA
 
 

@@ -12,31 +12,6 @@ and [music](https://en.wikipedia.org/wiki/Music) at [Boston Conservatory](https:
 
 
 
-### Contents
-
-
-* [1 Derivatives](#derivatives)
-* [2 ChessLogik](#chesslogik)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2008](#2008)
-	+ [3.2 2009](#2009)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2008, Norman Schmidt tried to distribute his *Fruit and Toga* derivative [xyclOps](index.php?title=XyclOps&action=edit&redlink=1 "XyclOps (page does not exist)") commercially <a id="cite-note-7" href="#cite-ref-7">[7]</a> until it was suspected as [clone](Category:Clone "Category:Clone") by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh") and others <a id="cite-note-8" href="#cite-ref-8">[8]</a>. After Norman Schmidt freely volunteered to refund his customers <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>, he announced *[Cyclone](Cyclone "Cyclone") based on Fruit and Toga* as [open source engine](Category:Open_Source "Category:Open Source") under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>. 
-Further derivative programs by Norman Schmidt were *TogaToy* <a id="cite-note-13" href="#cite-ref-13">[13]</a>, *Cyclops* <a id="cite-note-14" href="#cite-ref-14">[14]</a>, *Alderon*, [Demon](index.php?title=Demon&action=edit&redlink=1 "Demon (page does not exist)"), and *Crimson*, based on [Viper](Viper "Viper") <a id="cite-note-15" href="#cite-ref-15">[15]</a>,
-and more recently [Jinx](Fridolin#Jinx "Fridolin") based on [Fridolin](Fridolin "Fridolin") <a id="cite-note-16" href="#cite-ref-16">[16]</a>,
-[Tomcat](Bobcat#Tomcat "Bobcat") based on [Bobcat](Bobcat "Bobcat") <a id="cite-note-17" href="#cite-ref-17">[17]</a>, and [Seagull](Gull#SeaGull "Gull") based on [Gull](Gull "Gull") <a id="cite-note-18" href="#cite-ref-18">[18]</a>.
-
-
-
 ## ChessLogik
 
 

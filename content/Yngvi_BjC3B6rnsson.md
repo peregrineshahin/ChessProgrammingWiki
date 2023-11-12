@@ -15,35 +15,6 @@ Since 2004, Yngvi Björnsson is associate professor at the School of Computer Sc
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Chinook](#chinook)
-* [3 General Game Playing](#general-game-playing)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1996 ...](#1996-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[](http://spaz.ca/aaron/gallery/england2000/games.html)
-[First medals in LoA](5th_Computer_Olympiad#LOA "5th Computer Olympiad"): [Mark Winands](Mark_Winands "Mark Winands"), Yngvi Björnsson (Gold), and [Darse Billings](Darse_Billings "Darse Billings") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
-[](File:AnthonyWithShannonTrophy1.jpg)
-Yngvi Björnsson awards [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") with the [Shannon Trophy](Shannon_Trophy "Shannon Trophy"), [WCCC 2005, Reykjavík](WCCC_2005 "WCCC 2005")
-
-
-
 ## Chinook
 
 

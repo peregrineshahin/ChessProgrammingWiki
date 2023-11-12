@@ -10,32 +10,6 @@ title: Northwestern University
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs and Authors](#chess-programs-and-authors)
-* [3 Tournaments](#tournaments)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Larry Atkin](Larry_Atkin "Larry Atkin")
-* [William Blanchard](William_Blanchard "William Blanchard")
-* [Joe Condon](Joe_Condon "Joe Condon")
-* [Christina Enroth-Cugell](Mathematician#CEnrothCugell "Mathematician")
-* [Keith Gorlen](Keith_Gorlen "Keith Gorlen")
-* [Peter W. Frey](Peter_W._Frey "Peter W. Frey")
-* [Donald H. Mitchell](Donald_H._Mitchell "Donald H. Mitchell")
-* [Ben Mittman](Ben_Mittman "Ben Mittman")
-* [Judith Spencer Olson](index.php?title=Judith_Spencer_Olson&action=edit&redlink=1 "Judith Spencer Olson (page does not exist)")
-* [David Slate](David_Slate "David Slate")
-
-
 ## Chess Programs and Authors
 
 

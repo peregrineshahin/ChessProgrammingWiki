@@ -13,26 +13,6 @@ Alternatively, if needed more often, the [complement](General_Setwise_Operations
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Sliding Piece Attacks](Sliding_Piece_Attacks "Sliding Piece Attacks")
-
-
- [Obstruction Difference](Obstruction_Difference "Obstruction Difference")
- [Occupancy of any Line](Occupancy_of_any_Line "Occupancy of any Line")
- [Reverse Bitboards](Reverse_Bitboards "Reverse Bitboards")
- [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards")
 ## Forum Posts
 
 

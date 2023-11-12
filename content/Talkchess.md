@@ -11,41 +11,6 @@ The **Computer Chess Club** (CCC, Talkchess) is a [moderated](https://en.wikiped
 
 
 
-### Contents
-
-
-* [1 Discrimination](#discrimination)
-* [2 CCC Links](#ccc-links)
-* [3 CCC History](#ccc-history)
-	+ [3.1 The Founders](#the-founders)
-	+ [3.2 Moderators](#moderators)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1997](#1997)
-	+ [4.2 1998](#1998)
-	+ [4.3 1999](#1999)
-	+ [4.4 2000 ...](#2000-...)
-	+ [4.5 2010 ...](#2010-...)
-	+ [4.6 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Since May 19, 2020, the forum is [blocked](https://en.wikipedia.org/wiki/IP_address_blocking) for several [IP-ranges](https://en.wikipedia.org/wiki/IP_address) [outside the US](https://en.wikipedia.org/wiki/Geo-blocking) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Appeal by [Pawel Koziol](Pawel_Koziol "Pawel Koziol") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-* Please consider writing to the admins of the discriminatory site of Talkchess about the issue. Please ask them politely when and how they are going to fix this issue. Or please do away with the politeness and remind them that they participate in something utterly immoral. The choice is yours. Please do that often.
-* Please consider not posting there, because your content will be inaccessible in some parts of the world.
-* If you care for spreading information about computer chess, please look for other venue. Talkchess no longer guarantees that.
-* For Your own good, please backup any stuff you posted there, because you can lose access to it on a whim.
-* If you happen to posses technical ability, resources and spare time, please consider backing up technical information from Talkchess. Replacing links at Chessprogramming Wiki with actual quotes might be a good way to start. Reposting it somewhere else will work too.
-* All of the above is especially important if Your work is in any way connected with open source. The discriminatory site of Talkchess goes totally against that spirit
-
-
 ## CCC Links
 
 

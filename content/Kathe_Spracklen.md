@@ -12,36 +12,6 @@ an American mathematician, computer scientist and microcomputer chess pioneer. A
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Fidelity](#fidelity)
-* [3 Saitek](#saitek)
-* [4 Donald Michie](#donald-michie)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-	+ [6.1 1978 ...](#1978-...)
-	+ [6.2 1980 ...](#1980-...)
-	+ [6.3 2005](#2005)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd5cbb8) 
-Kathe Spracklen and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") (far right) at [ACM 1979](ACM_1979 "ACM 1979") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
- [](File:SpracklensNY1983.JPG) 
-Kathe Spracklen and [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), [WCCC 1983](WCCC_1983 "WCCC 1983") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Fidelity
 
 

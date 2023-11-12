@@ -12,20 +12,6 @@ an American graduated physicist from [University of Maryland, Baltimore County](
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2012 ...](#2012-...)
-	+ [1.2 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2012 ...
 
 

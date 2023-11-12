@@ -12,23 +12,6 @@ a chess engine by [Tom Hyer](index.php?title=Tom_Hyer&action=edit&redlink=1 "Tom
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Engine](#engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [New engine "Roc"](http://www.talkchess.com/forum/viewtopic.php?t=62856) by [Tom Hyer](index.php?title=Tom_Hyer&action=edit&redlink=1 "Tom Hyer (page does not exist)"), [CCC](CCC "CCC"), January 18, 2017
-
-
 ## External Links
 
 

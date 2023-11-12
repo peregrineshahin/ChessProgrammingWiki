@@ -14,28 +14,6 @@ Nova Chess is hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Int
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Namesake](#namesake)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Happy-Chess](Happy-Chess "Happy-Chess")
-* [Nova](Nova "Nova")
-* [Novag](Novag "Novag")
-* [Pawn (Program)](Pawn_(Program) "Pawn (Program)")
-
-
 ## Namesake
 
 

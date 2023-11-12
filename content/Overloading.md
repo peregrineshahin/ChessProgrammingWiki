@@ -11,46 +11,6 @@ Despite tactics is the domain of [search](Search "Search"), and static [evaluati
 
 
 
-### Contents
-
-
-* [1 Sample](#sample)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                                                                                            ♝ ♜ ♟♚♟      ♟                    ♞  ♘♙    ♗♙♙  ♖    ♔  |
-
- |  | 
-
-|  |
-| --- |
-|                                                                                            ♝ ♜ ♟♚♟      ♟                    ♞ ♘ ♙    ♗♙♙  ♖    ♔  |
-
- |
-|  8/1b1r1pkp/6p1/8/8/3n2NP/4BPP1/1R4K1 w - -
- |  |  8/1b1r1pkp/6p1/8/8/3n1N1P/4BPP1/1R4K1 w - -
- |
-
-
-Here, in the left diagram, White to move wins a piece with 1.Bxd3, since the black d7 rook is overloaded defending d3 and b7.
-However, in the right position it does not work as intended <a id="cite-note-1" href="#cite-ref-1">[1]</a>, since Black has the [Zwischenzug](Zwischenzug "Zwischenzug") 1... Bxf3, which also demonstrates the difficulty to evaluate chess tactics statically. White can exchange rook versus two minors with 1.Rxb7, but that seems not that simple winning either.
-
-
-
 ## See also
 
 

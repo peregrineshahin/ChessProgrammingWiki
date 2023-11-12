@@ -10,25 +10,6 @@ an American mathematician and Research Fellow at the [Information Sciences Group
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1980 ...](#1980-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 1980 ...
 
 

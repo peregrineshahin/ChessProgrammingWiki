@@ -13,43 +13,6 @@ Despite [Sebastian Thrun's](Sebastian_Thrun "Sebastian Thrun") remark, that usin
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Beginning in 1999, Octavius performed 284,552 [backpropagations](Neural_Networks#Backpropagation "Neural Networks") up to April 26, 2004, when it won its first game against his creator <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```
-
-[Event "Octavius Test"]
-[Site "Lukes Computer"]
-[Date "2004.04.26"]
-[Round "?"]
-[White "Luke Pellen"]
-[Black "Octavius P4Oct4.ann"]
-[Result "0-1"]
-
-1.e4 Nf6 2.Nc3 e5 3.Bb5 c6 4.Ba4 Bc5 5.Nf3 O-O 6.O-O d6 7.d3 Bg4 
-8.Bb3 Nh5 9.a3 Re8 10.Ba2 Qf6 11.Bg5 Qg6 12.b4 Bb6 13.Bh4 Nf4 
-14.Kh1 Nd7 15.g3 Nh3 16.Qe2 h5 17.Rae1 d5 18.exd5 cxd5 19.Nxd5 e4 
-20.dxe4 Rxe4 21.Qxe4 f5 22.Qe7 Bxf3# 0-1
-
-```
-
 ## See also
 
 

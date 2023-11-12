@@ -13,38 +13,6 @@ The underlying metric what has become known as [taxicab geometry](https://en.wik
 
 
 
-### Contents
-
-
-* [1 Definition](#definition)
-* [2 Application](#application)
-* [3 Routine](#routine)
-* [4 Lookup](#lookup)
-* [5 Lookup by 0x88 Difference](#lookup-by-0x88-difference)
-* [6 See also](#see-also)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-The Manhattan-Distance is the sum of the absolute [rank-distance](Ranks#RankDistance "Ranks") and [file-distance](Files#FileDistance "Files") of both squares.
-
-
-
-
-```C++
-Dtaxi = |r2 - r1| + |f2 - f1|
-
-```
-
-* The minimum square Manhattan-Distance is 0 (if both squares are equal)
-* The maximum square Manhattan-Distance is 14 (between the endpoints of the main-diagonals)
-
-
 ## Application
 
 

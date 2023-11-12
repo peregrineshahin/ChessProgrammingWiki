@@ -13,27 +13,6 @@ His interests apart from chess include [mathematical games](https://en.wikipedia
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 ChessBase Articles](#chessbase-articles)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.althofer.de/workshop-2008.html) 
-[Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Frank Schneider](Frank_Schneider "Frank Schneider"), [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), Karsten Müller <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Selected Publications
 
 

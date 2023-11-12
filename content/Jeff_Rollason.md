@@ -12,33 +12,6 @@ a British computer scientist and games programmer, author of the chess program [
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 AI Factory Articles](#ai-factory-articles)
-	+ [3.1 2005 ...](#2005-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:Maastricht2001Shogi.jpg) 
-Jeff Rollason and [Yoichiro Kajihara](Yoichiro_Kajihara "Yoichiro Kajihara") in [Shotest 5.6](https://www.game-ai-forum.org/icga-tournaments/program.php?id=223) vs. [Tacos](https://www.game-ai-forum.org/icga-tournaments/program.php?id=217) at the [6th Computer Olympiad 2001](6th_Computer_Olympiad#Shogi "6th Computer Olympiad") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
- [](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm) 
-Jeff Rollason and [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen"), [Kisarazu](https://en.wikipedia.org/wiki/Kisarazu,_Chiba), [Japan](https://en.wikipedia.org/wiki/Japan), May 2008 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Publications
 
 

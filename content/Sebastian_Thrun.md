@@ -12,29 +12,6 @@ an German computer scientits, robotics developer, research professor at [Stanfor
 
 
 
-### Contents
-
-
-* [1 NeuroChess](#neurochess)
-* [2 Online Education](#online-education)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1992 ...](#1992-...)
-	+ [3.2 1995 ...](#1995-...)
-	+ [3.3 2000 ...](#2000-...)
-	+ [3.4 2005 ...](#2005-...)
-	+ [3.5 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Sebastian Thrun applied [explanation-based](https://en.wikipedia.org/wiki/Explanation-based_learning) [neural networks](Neural_Networks "Neural Networks") (EBNN) to computer chess. His research chess program [NeuroChess](NeuroChess "NeuroChess") took its [search algorithm](Search "Search") from [GNU Chess](GNU_Chess "GNU Chess") and its [evaluation](Evaluation "Evaluation") was based on the neural network <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Online Education
 
 

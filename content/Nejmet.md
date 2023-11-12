@@ -14,34 +14,6 @@ Nejmet played the [FCCC 1998](FCCC_1998 "FCCC 1998"), the [FCCC 1999](FCCC_1999 
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000](#2000)
-	+ [4.2 2001](#2001)
-	+ [4.3 2002](#2002)
-	+ [4.4 2003](#2003)
-	+ [4.5 2004 ...](#2004-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Nejmet's name is dedicated to the [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) chess player, chess writer, and [checkers](Checkers "Checkers") player [Rachid Nejmetdinov](https://fr.wikipedia.org/wiki/Rachid_Nejmetdinov),
-who was a strong positional player <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-A further [epynom](https://en.wikipedia.org/wiki/Eponym) is *Queen Nejmet* from [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt). A page of her papyrus ([Nodjmet's](https://en.wikipedia.org/wiki/Nodjmet) [Book of the Dead](https://en.wikipedia.org/wiki/Book_of_the_Dead)) illustrates the final stage of the [Pharaoh's](https://en.wikipedia.org/wiki/Pharaoh) journey in the [Duat](https://en.wikipedia.org/wiki/Duat) <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Selected Games
 
 

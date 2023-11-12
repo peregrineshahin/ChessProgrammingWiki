@@ -13,42 +13,6 @@ an early chess program by [Johann Joss](Johann_Joss "Johann Joss"), who already 
 
 
 
-### Contents
-
-
-* [1 WCCC '74 game](#wccc-.2774-game)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Program](#chess-program)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-This sample game from the [WCCC 1974](WCCC_1974 "WCCC 1974"), [Freedom](Freedom "Freedom") versus Tell ended in a draw by [threefold repetition](Repetitions "Repetitions"), where Tell in an otherwise won position was likely not aware of:
-
-
-
-
-```
-
-[Event "WCCC 1974"]
-[Site "Stockholm, Sweden"]
-[Date "1974.08.08"]
-[Round "4"]
-[White "Freedom"]
-[Black "Tell"]
-[Result "1/2-1/2"]
-
-1.d4 d5 2.c4 dxc4 3.Nc3 Nc6 4.d5 Ne5 5.f4 Nd7 6.e4 Nb6 7.Be3 Qd6 8.e5 
-Qb4 9.e6 fxe6 10.dxe6 Bxe6 11.g3 Qxb2 12.Rc1 Rd8 13.Qe2 Qa3 14.Nb1 Qa5+ 
-15.Nc3 Bd5 16.Nf3 Na4 17.Bd4 Bxf3 18.Qxf3 Rxd4 19.Qxb7 Nxc3 20.Qc6+ Rd7 
-21.Qa8+ Rd8 22.Qc6+ Rd7 23.Qa8+ Rd8 24.Qc6+ Rd7 1/2-1/2 
-
-```
-
 ## External Links
 
 

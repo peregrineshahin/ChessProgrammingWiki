@@ -13,23 +13,6 @@ The Paragon was based on the Intel [i860](I860 "I860") [RISC](https://en.wikiped
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [\*Socrates](Star_Socrates "Star Socrates")
-
-
 ## See also
 
 

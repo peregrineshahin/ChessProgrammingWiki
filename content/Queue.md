@@ -10,37 +10,6 @@ A **Queue** is a [linear data structure](https://en.wikipedia.org/wiki/List_of_d
 
 
 
-### Contents
-
-
-* [1 Applications](#applications)
-	+ [1.1 Buffering](#buffering)
-	+ [1.2 Message Queue](#message-queue)
-	+ [1.3 Pipeline](#pipeline)
-	+ [1.4 Algorithms](#algorithms)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-	+ [4.1 C](#c)
-	+ [4.2 C++](#c.2b.2b)
-	+ [4.3 Java](#java)
-	+ [4.4 Perl](#perl)
-	+ [4.5 Python](#python)
-	+ [4.6 Ruby](#ruby)
-	+ [4.7 Tcl](#tcl)
-	+ [4.8 .NET](#.net)
-	+ [4.9 Middleware](#middleware)
-* [5 References](#references)
-
-
-
-
-
-
-While there are algorithmic applications within one thread, most queue application are related to [inter-process-](https://en.wikipedia.org/wiki/inter-process_communication) or inter-thread communication, and [buffering](https://en.wikipedia.org/wiki/Data_buffer) within [hard](Hardware "Hardware")- and [software](Software "Software").
-
-
-
 ### Buffering
 
 

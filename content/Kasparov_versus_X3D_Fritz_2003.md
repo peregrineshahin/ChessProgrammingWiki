@@ -13,36 +13,6 @@ The four games match, telecasted by [ESPN](https://en.wikipedia.org/wiki/ESPN), 
 
 
 
-### Contents
-
-
-* [1 World Championship?](#world-championship.3f)
-* [2 Games](#games)
-	+ [2.1 Round 1](#round-1)
-	+ [2.2 Round 2](#round-2)
-	+ [2.3 Round 3](#round-3)
-	+ [2.4 Round 4](#round-4)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 ChessBase](#chessbase)
-	+ [6.2 Videos](#videos)
-* [7 References](#references)
-
-
-
-
-
-
-Albeit in 2003 Kasparov was no longer [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship) <a id="cite-note-5" href="#cite-ref-5">[5]</a>, he was still undisputed No. 1. 
-This was not the case for [Fritz](Fritz "Fritz"), even if [ChessBase](ChessBase "ChessBase") claimed it was the most dominant chess program <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-[Junior](Junior "Junior") which already [drew Kasparov earlier this year](Kasparov_versus_Deep_Junior_2003 "Kasparov versus Deep Junior 2003"), was still the reigning [world champion](WCCC_2002 "WCCC 2002"), 
-and after discussions with many authors of chess programs other than Fritz, the [ICGA](ICGA "ICGA") choose not to sanction the commercial event as *Man vs. Machine World Championship* or *First World Chess Championship* in [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), 
-but a few days before the upcoming [WCCC 2003](WCCC_2003 "WCCC 2003") in [Graz](https://en.wikipedia.org/wiki/Graz), viewed the concept of the match as being very interesting for all chess lovers and the computer-chess community in particular <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-
-
-
 ## Games
 
 

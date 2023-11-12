@@ -15,32 +15,6 @@ The enhanced program was the work of [Heuristic Software](Heuristic_Software "He
 
 
 
-### Contents
-
-
-* [1 Kasparov's Endorsement](#kasparov.27s-endorsement)
-* [2 KSO](#kso)
-* [3 Selected Games](#selected-games)
-	+ [3.1 Kasparov Simul](#kasparov-simul)
-	+ [3.2 WMCCC 1985](#wmccc-1985)
-* [4 Turbostar 2600](#turbostar-2600)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-	+ [8.1 Turbostar Chess Computer](#turbostar-chess-computer)
-	+ [8.2 Turbo & Star Misc](#turbo-.26-star-misc)
-* [9 References](#references)
-
-
-
-
-
-
-With Turbostar, [Garry Kasparov](Garry_Kasparov "Garry Kasparov") started his cooperation with SciSys to endorse their products - Kasparov became additional brand name <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He was also engaged as [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"), applied as Kasparov Selected Openings (KSO) module.
-
-
-
 ## KSO
 
 

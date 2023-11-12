@@ -14,48 +14,6 @@ Rondo was declared [joint champion](Rybka_Controversy#2010 "Rybka Controversy") 
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[WCCC 2010](WCCC_2010 "WCCC 2010"), round 6, Rondo - [Shredder](Shredder "Shredder") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "WCCC 2010"]
-[Site "Kanazawa, Japan"]
-[Date "2010.09.??"]
-[Round "6"]
-[White "Rondo"]
-[Black "Shredder"]
-[Result "1-0"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Qc7 6.Bg5 e6 7.Bxf6 gxf6 8.Qf3 Be7 
-9.O-O-O a6 10.Qg3 Nc6 11.Qg7 Rf8 12.Nb3 Qb6 13.Rd2 Bd7 14.Kb1 O-O-O 15.Qh6 Rh8 
-16.Qh5 Rdg8 17.f4 Rg7 18.g3 Kb8 19.Be2 Rhg8 20.Rhd1 Qc7 21.Rd3 Nb4 22.Rd4 Nc6 
-23.R4d2 Be8 24.a3 Bd7 25.Bf3 Qb6 26.Rd3 Be8 27.Ne2 Na7 28.Ned4 Bd7 29.Nd2 Be8 
-30.f5 Qd8 31.Be2 Nc6 32.Nc4 Ne5 33.Rc3 Bd7 34.Rb3 Ba4 35.Rb4 Bd7 36.Nb6 Be8 
-37.Bxa6 Nc6 38.Nxc6+ Bxc6 39.Bc4 Qe8 40.Qf3 exf5 41.Bd5 fxe4 42.Qc3 e3 43.Qxe3 
-Rg4 44.Bxc6 Qxc6 45.Qxe7 Rxb4 46.Nd7+ Kc8 47.Nxf6 Rb6 48.Nxg8 Qc3 49.Qe8+ Kc7 
-50.Qxf7+ Kb8 51.b3 d5 52.Qxd5 Rc6 53.Qe4 Rc8 54.Ne7 1-0 
-
-```
-
 ## See also
 
 

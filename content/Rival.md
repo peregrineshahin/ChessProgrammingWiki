@@ -18,33 +18,6 @@ Further, Rival is able to play various [chess variants](Chess#Variants "Chess") 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-* [2 Sreenshots](#sreenshots)
-	+ [2.1 DOS & Windows](#dos-.26-windows)
-	+ [2.2 Android](#android)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Chess Programming](#chess-programming)
-	+ [4.3 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Rival is described in detail on the *redhotpawn* sites <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-Rival for Java uses [bitboards](Bitboards "Bitboards") with [big-endian rank-file](Bibob#BERF "Bibob") [mapping](Square_Mapping_Considerations "Square Mapping Considerations"). 
-It determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [magic bitboards](Magic_Bitboards "Magic Bitboards") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ### Search
 
 

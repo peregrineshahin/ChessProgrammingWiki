@@ -14,27 +14,6 @@ His Bayesian implementation of a sequential model-based optimization, dubbed **B
 
 
 
-### Contents
-
-
-* [1 Selcted Publications](#selcted-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Karlson Pfannschmidt, [Eyke Hüllermeier](https://de.wikipedia.org/wiki/Eyke_H%C3%BCllermeier), [Susanne Held](http://geb.uni-giessen.de/geb/volltexte/2014/10912/), [Reto Neiger](https://hunderunden.de/hunderunden-mit/reto-neiger) (**2016**). *[Evaluating Tests in Medical Diagnosis: Combining Machine Learning with Game-Theoretical Concepts](https://link.springer.com/chapter/10.1007/978-3-319-40596-4_38)*. [IPMU 2016](https://is.ieis.tue.nl/ipmu/) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* Karlson Pfannschmidt, [Pritha Gupta](https://www.uni-paderborn.de/person/54803/), [Eyke Hüllermeier](https://de.wikipedia.org/wiki/Eyke_H%C3%BCllermeier) (**2018**). *Deep Architectures for Learning Context-dependent Ranking Functions*. [arXiv:1803.05796](https://arxiv.org/abs/1803.05796)
-
-
 ## Forum Posts
 
 

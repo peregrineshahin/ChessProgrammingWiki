@@ -13,29 +13,6 @@ At recent [TCEC](TCEC "TCEC"), in conjunction with [Jeroen Noomen](Jeroen_Noomen
 
 
 
-### Contents
-
-
-* [1 Video Interviews](#video-interviews)
-* [2 Publications](#publications)
-	+ [2.1 2018](#2018)
-	+ [2.2 2019](#2019)
-	+ [2.3 2020](#2020)
-	+ [2.4 2021](#2021)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [A Conversation](Vasik_Rajlich#Conversation "Vasik Rajlich") with [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), December 2009, July 04, 2011
-* [Interview](TCEC_Season_10#interview "TCEC Season 10") with [Robert Houdart](Robert_Houdart "Robert Houdart"), [Mark Lefler](Mark_Lefler "Mark Lefler") and [GM Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [TCEC Season 10](TCEC_Season_10 "TCEC Season 10"), November 23, 2017
-* [Deus X, Interview](Deus_X#interview "Deus X") with [Albert Silver](Albert_Silver "Albert Silver"), [TCEC Season 13](TCEC_Season_13 "TCEC Season 13"), July 29, 2018
-
-
 ## Publications
 
 

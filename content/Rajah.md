@@ -10,26 +10,6 @@ a chess program by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manoha
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Search](#search)
-* [3 0x88](#0x88)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.thorstenczub.de/aegon.html) 
-[Peng Zhaoqin](https://en.wikipedia.org/wiki/Peng_Zhaoqin) facing Rajah by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [Aegon 1997](Aegon_1997 "Aegon 1997") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Search
 
 

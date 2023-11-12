@@ -10,28 +10,6 @@ an American mathemantician and computer scientist, since the 50s affiliated with
 
 
 
-### Contents
-
-
-* [1 MANIAC](#maniac)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1957 ...](#1957-...)
-	+ [2.2 1960 ...](#1960-...)
-	+ [2.3 1970 ...](#1970-...)
-	+ [2.4 1980 ...](#1980-...)
-	+ [2.5 1990 ...](#1990-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the 50s, at Los Alamos National Laboratory around [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [Paul Stein](Paul_Stein "Paul Stein") and [John Pasta](John_Pasta "John Pasta"), Mark Wells was involved in the development of the [chess-playing program](MANIAC_I "MANIAC I") to play [Los Alamos Chess](index.php?title=Los_Alamos_Chess&action=edit&redlink=1 "Los Alamos Chess (page does not exist)") with the [MANIAC I](https://en.wikipedia.org/wiki/MANIAC_I) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Mark Wells further launched the development of the MADCAP, a high-level programming language and compiler, which was a critical development because it provided a convenient way to communicate with the MANIAC <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Selected Publications
 
 

@@ -14,35 +14,6 @@ In one experiment, a set of [relative weights](Point_Value "Point Value") for di
 
 
 
-### Contents
-
-
-* [1 Experiments with Chess](#experiments-with-chess)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Excerpt from *A Unified Theory of Heuristic Evaluation functions and Its Applications to Learning.* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-As a serious test, we chose the game of chess and a simple evaluation function consisting only of [material](Material "Material") advantage. The experiment was to see if the learning program would approximate the classically accepted [weights](Point_Value "Point Value") for the pieces: 9 for the queen, 5 for the rook, 3 for the bishop, 3 for the knight, and 1 for the pawn.
-
-```
-
-
-```C++
-The chess program was implemented using a two-ply mini-max search with [alpha-beta pruning](Alpha-Beta "Alpha-Beta") and [quiescence](Quiescence_Search "Quiescence Search"). 1400 half moves were made between each regression. If neither side won during a game it was stopped after 100 half-moves and a new game was started. For purposes of the experiment, a win was assigned one more than the total initial material value, and the individual piece values were rounded off to the nearest 0.5. The pieces stabilized at: Queen, 8.0; rook, 4.0; bishop, 4.0; knight, 3.0; pawn 2.0. ... 
-
-```
-
 ## Selected Publications
 
 

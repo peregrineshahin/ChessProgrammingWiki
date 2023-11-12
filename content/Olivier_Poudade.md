@@ -16,23 +16,6 @@ which even fits in 256 bytes.
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Postings](#postings)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Baudsurfer/[Red Sector Inc](https://en.wikipedia.org/wiki/Tristar_and_Red_Sector_Incorporated) (**2016**). *Chesslin*. [2600: The Hacker Quarterly](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly), [Spring 2016](https://store.2600.com/collections/2010-2015/products/spring-2016)
-* Baudsurfer/[Red Sector Inc](https://en.wikipedia.org/wiki/Tristar_and_Red_Sector_Incorporated) (**2016**). *[Chesslin bis](http://www.phrack.org/issues/69/4.html#article)*. [Phrack Magazine](https://en.wikipedia.org/wiki/Phrack), Vol. 0x0f, No. 0x45
-
-
 ## Postings
 
 

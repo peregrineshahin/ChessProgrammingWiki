@@ -10,63 +10,6 @@ is a machine learning method applied to multi-step prediction problems. As a pre
 
 
 
-### Contents
-
-
-* [1 Prediction](#Prediction)
-* [2 TD(λ)](#TD.28.CE.BB.29)
-* [3 TDLeaf(λ)](#TDLeaf.28.CE.BB.29)
-* [4 Quotes](#Quotes)
-	+ [4.1 Don Beal](#Don_Beal)
-	+ [4.2 Bas Hamstra](#Bas_Hamstra)
-	+ [4.3 Don Dailey](#Don_Dailey)
-* [5 Chess Programs](#Chess_Programs)
-* [6 See also](#See_also)
-* [7 Publications](#Publications)
-	+ [7.1 1959](#1959)
-	+ [7.2 1970 ...](#1970_...)
-	+ [7.3 1980 ...](#1980_...)
-	+ [7.4 1990 ...](#1990_...)
-	+ [7.5 1995 ...](#1995_...)
-	+ [7.6 2000 ...](#2000_...)
-	+ [7.7 2005 ...](#2005_...)
-	+ [7.8 2010 ...](#2010_...)
-	+ [7.9 2015 ...](#2015_...)
-	+ [7.10 2020 ...](#2020_...)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 1995 ...](#1995_..._2)
-	+ [8.2 2000 ...](#2000_..._2)
-	+ [8.3 2010 ...](#2010_..._2)
-	+ [8.4 2015 ...](#2015_..._2)
-	+ [8.5 2020 ...](#2020_..._2)
-* [9 External Links](#External_Links)
-* [10 References](#References)
-
-
-
-
-
-
-Each prediction is a single number, derived from a formula using adjustable weights of features, for instance a [neural network](Neural_Networks "Neural Networks") most simply a single neuron [perceptron](Neural_Networks#Perceptron "Neural Networks"), that is a linear [evaluation](Evaluation "Evaluation") function ... 
-
-
-
- [](File:TDLForula1.jpg) 
- [](File:SigDeri.jpg) Sigmoid and Derivative 
-... with the [pawn advantage](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo") converted to a [winning probability](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo") by the standard [sigmoid squashing function](https://en.wikipedia.org/wiki/Sigmoid_function), also topic in [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") in the domain of [supervised learning](Supervised_Learning "Supervised Learning") and [automated tuning](Automated_Tuning "Automated Tuning"), ... 
-
-
-
- [](File:TDLForula2.jpg) 
-... which has the advantage of its simple [derivative](https://en.wikipedia.org/wiki/Derivative):
-
-
-
- [](File:TDLForula3.jpg) 
-
-
-
-
 ## TD(λ)
 
 

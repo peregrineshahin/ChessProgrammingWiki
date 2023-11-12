@@ -13,30 +13,6 @@ Samsung provides development tools, such as the Samsung Arrangeable Microcontrol
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Chess Programs](#chess-programs)
-* [3 Manuals](#manuals)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-RAM is organized in three banks, 0, 1 and 15 of 256 nibbles each. The lowest 32 nibbles of bank 0 (000H–01FH) are used as working [registers](https://en.wikipedia.org/wiki/Processor_register), 
-the remaining 224 nibbles can be used both as [stack area](https://en.wikipedia.org/wiki/Call_stack) and as general-purpose data memory, bank 1 for general-purpose use and bank 15 for [memory-mapped I/O](https://en.wikipedia.org/wiki/Memory-mapped_I/O).
-There are multiple [addressing modes](https://en.wikipedia.org/wiki/Addressing_mode), a 8-bit mode requires an even nibble address inside a pair of 4-bit registers.
-The register area is divided into four register banks 0 to 3 selected by the register bank selection instruction (SRB n), bank 0 for the main program, 1-3 for interrupt routines.
-Each of the register banks is subdivided into eight 4-bit registers A (lsn), E, L, H, X, W, Z, Y (msn) with EA, HL, WX, YZ as possible register pairs, as well as the cross mapped WL.
-With appropriate instructions, registers can be manipulated as 1-bit units, 4-bit units or, using paired registers, as 8-bit units, the latter also used as pointer for indirect addressing.
-Further the CPU has the obligatory 13- or 14-bit [program counter](https://en.wikipedia.org/wiki/Program_counter) and 8-bit [stack pointer](https://en.wikipedia.org/wiki/Call_stack#STACK-POINTER), a 16-bit sequential carrier (BSC) register, and status word.
-
-
-
 ## Chess Programs
 
 

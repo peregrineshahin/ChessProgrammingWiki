@@ -10,23 +10,6 @@ a British multiple author <a id="cite-note-1" href="#cite-ref-1">[1]</a>, comput
 
 
 
-### Contents
-
-
-* [1 Querg](#querg)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-As former chess programmer John F. White wrote a series of chess programs in the 80s, called by the generic name [Querg](Querg "Querg"), all implemented in [6502](6502 "6502") [assembly](Assembly "Assembly") to run on an 64K [Atari 130XE](Atari_8-bit "Atari 8-bit") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. In his second [ICCA Journal](ICGA_Journal#13_1 "ICGA Journal") article he describes how to store and retrieve moves of an [opening book](Opening_Book "Opening Book") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Selected Publications
 
 

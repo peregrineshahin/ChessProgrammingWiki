@@ -12,23 +12,6 @@ a Polish mathematician, known for his participation in the [Manhattan Project](h
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Fred Guterl](#fred-guterl)
-	+ [1.2 Aviezri Fraenkel](#aviezri-fraenkel)
-	+ [1.3 John McCarthy](#john-mccarthy)
-* [2 Selected Publications](#selected-publications)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### Fred Guterl
 
 

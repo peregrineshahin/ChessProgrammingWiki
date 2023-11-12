@@ -14,31 +14,6 @@ a free, [open source](Category:Open_Source "Category:Open Source") [chess GUI](G
 
 
 
-### Contents
-
-
-* [1 Chess Variants](#chess-variants)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Atomic Chess](Atomic_Chess "Atomic Chess")
-* [Capablanca Chess](index.php?title=Capablanca_Chess&action=edit&redlink=1 "Capablanca Chess (page does not exist)")
-* [Chess960](Chess960 "Chess960") or Fischer Random Chess (FRC)
-* [Crazyhouse](Crazyhouse "Crazyhouse")
-* [Makruk](index.php?title=Makruk&action=edit&redlink=1 "Makruk (page does not exist)"), the Thai version of Chess.
-* [Suicide Chess](Losing_Chess "Losing Chess") (Losing Chess)
-
-
- and more
 ## See also
 
 

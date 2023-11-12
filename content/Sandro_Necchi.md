@@ -16,26 +16,6 @@ In the 90s, he worked for [MChess](MChess "MChess") by [Marty Hirsch](Marty_Hirs
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Scotch Novelty](#scotch-novelty)
-* [3 Programs](#programs)
-* [4 Forums Posts](#forums-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:WMCCC88YNot.jpg) 
-[Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") and Sandro Necchi at the [WMCCC 1988](WMCCC_1988 "WMCCC 1988") in [Rebel vs. Y!88](WMCCC_1988#Rebel-Y.21 "WMCCC 1988") fighting versus 1.e3 e5 2.e4 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Scotch Novelty
 
 

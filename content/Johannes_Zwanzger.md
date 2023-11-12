@@ -12,49 +12,6 @@ a German mathematician with a Ph.D. from [University of Bayreuth](https://en.wik
 
 
 
-### Contents
-
-
-* [1 Jonny in Graz](#jonny-in-graz)
-* [2 Jonny in Leiden](#jonny-in-leiden)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2004 ...](#2004-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 Tournament Reports](#tournament-reports)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Honorable sportsmanship intended, Johannes was subject of a difficult and controversial TD-decision during the [WCCC 2003](WCCC_2003 "WCCC 2003") in Graz. In the last round game, [Shredder](Shredder "Shredder") versus Jonny, Shredder had a winning position, already about to announce mate in X. There would nothing wrong for Johannes to resign on behalf of Jonny. Apparently due to a bug, Shredder allowed a [threefold repetition](Repetitions "Repetitions"), still high plus score. Johannes, while his engine had a zero score, and the external GUI a "Threefold repetition" Infobox popped up, decided that Info is no draw-claim and continued the game by making the move over the board. TD [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") first miss understood, assuming Johannes would claim a draw rather than asking to continue <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
-
-
-
-
-```
-
-[Event "WCCC 2003"]
-[Site "Graz, Austria"]
-[Date "2003.11.29"]
-[Round "11"]
-[White "Shredder"]
-[Black "Jonny"]
-[Result "1-0"]
-
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Be7 7.f4 O-O 8.Qf3 e5
-9.Nf5 Bxf5 10.exf5 e4 11.Qh3 h6 12.Bh4 Qc7 13.g4 d5 14.g5 hxg5 15.fxg5 Nh5
-16.O-O-O Rc8 17.Bg3 Nf4 18.Bxf4 Qxf4+ 19.Kb1 Bxg5 20.f6 Nc6 21.fxg7 Kxg7
-22.Be2 d4 23.Rhf1 Qh4 24.Qf5 dxc3 25.Rg1 Kf8 26.Rxg5 Ne7 27.Qf6 Qh7
-28.Rd7 Ng6 29.Rxb7 Qg7 30.Qd6+ Kg8 31.Rxf7 Qxf7 32.Rxg6+ Kh7 33.Rg4 Rab8
-34.Rh4+ Kg8 35.Rg4+ Kh7 36.Rh4+ Kg8 37.Rg4+ Kh7 38.Bc4 Rxb2+ 39.Ka1 Rxc4
-40.Rh4+ Kg8 41.Qd8+ Qf8 42.Rg4+ Kf7 43.Qd7+ Qe7 44.Rf4+ Kg6 45.Qxe7 Rxa2+
-46.Kxa2 Ra4+ 47.Kb3 Rb4+ 48.Kxb4 a5+ 49.Kxc3 a4 50.Qf6+ Kh5 51.Rh4# 1-0
-
-```
-
 ## Jonny in Leiden
 
 

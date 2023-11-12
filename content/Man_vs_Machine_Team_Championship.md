@@ -11,69 +11,6 @@ The **Man vs Machine Team Championship**, October 6 to 9, [2004](Timeline#2004 "
 
 
 
-### Contents
-
-
-* [1 Man vs Machine Team Championship 2004](#man-vs-machine-team-championship-2004)
-* [2 People vs Computers World Chess Team Match 2005](#people-vs-computers-world-chess-team-match-2005)
-* [3 Publications](#publications)
-	+ [3.1 First](#first)
-	+ [3.2 Second](#second)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 2004](#2004)
-	+ [5.2 2005](#2005)
-	+ [5.3 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-[Hydra](Hydra "Hydra"), [Fritz 8](Fritz "Fritz") and [Deep Junior](Junior "Junior") played [Veselin Topalov](https://en.wikipedia.org/wiki/Veselin_Topalov), [Ruslan Ponomariov](https://en.wikipedia.org/wiki/Ruslan_Ponomariov) and [Sergey Karjakin](https://en.wikipedia.org/wiki/Sergey_Karjakin) <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-
-
-
-|  Silicon / Carbon
- |  Ponomariov
- |  Karjakin
- |  Topalov
- |  Sum Silicon
- |
-| --- | --- | --- | --- | --- |
-|  Hydra
- |  1w 1b
- |  1w
- |  ½b
- |  3½
- |
-|  Fritz 8
- |  ½b
- |  1w 1b
- |  1w
- |  3½
- |
-|  Deep Junior
- |  ½w
- |  0b
- |  ½w ½b
- |  1½
- |
-|  Sum Carbon
- |  1
- |  1
- |  1½
- |  8½ - 3½
- |
-
-
-
-
-
-
 ## People vs Computers World Chess Team Match 2005
 
 

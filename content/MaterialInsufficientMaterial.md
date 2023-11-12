@@ -12,38 +12,6 @@ a term determined by the sum of [piece values](Point_Value "Point Value") of eac
 
 
 
-### Contents
-
-
-* [1 Basic Piece Values](#basic-piece-values)
-* [2 Other Material Considerations](#other-material-considerations)
-* [3 Insufficient Material](#insufficient-material)
-* [4 Material Balance](#material-balance)
-* [5 Hashing and Tables](#hashing-and-tables)
-* [6 See also](#see-also)
-* [7 Related Publications](#related-publications)
-* [8 Forum Posts](#forum-posts)
-	+ [8.1 2000 ...](#2000-...)
-	+ [8.2 2005 ...](#2005-...)
-	+ [8.3 2010 ...](#2010-...)
-	+ [8.4 2015 ...](#2015-...)
-	+ [8.5 2020 ...](#2020-...)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-Piece relative values concerning their relative strength in potential exchanges based on human experience and [learning](Learning "Learning")
-
-
-
-* [Point Value](Point_Value "Point Value")
-* [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")
-
-
 ## Other Material Considerations
 
 

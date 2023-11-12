@@ -13,28 +13,6 @@ Scidb features multiple chess variants, such as [Chess960](Chess960 "Chess960"),
 
 
 
-### Contents
-
-
-* [1 File Formats](#file-formats)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2013 ...](#2013-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* Scidb .sci, .scv
-* [Scid](SCID "SCID") .si3, .si4
-* [ChessBase](ChessBase_(Database) "ChessBase (Database)") .cbh, .cbf (read-only)
-* [PGN](Portable_Game_Notation "Portable Game Notation") .pgn, .pgn.gz, .zip
-
-
 ## See also
 
 

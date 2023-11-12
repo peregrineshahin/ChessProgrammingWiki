@@ -12,30 +12,6 @@ Starting with a rough approximation of the root derived from the [Pell's equatio
 
 
 
-### Contents
-
-
-* [1 First CC Tournament Director](#first-cc-tournament-director)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At the [First United States Computer Chess Championship](ACM_1970 "ACM 1970") 1970 in [New York](https://en.wikipedia.org/wiki/New_York_City), Jacques Dutka served as tournament director <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
- [](File:ACM1970.JPG) 
-[ACM 1970](ACM_1970 "ACM 1970") round 1: [Chess 3.0](Chess_(Program) "Chess (Program)") - [Coko III](Coko "Coko"), from left: Jacques Dutka (Tournament Director), unknown,  
-
-[Keith Gorlen](Keith_Gorlen "Keith Gorlen") operating Chess 3.0, [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin") with phone, unknown back of head <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Publications
 
 

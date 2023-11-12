@@ -15,25 +15,6 @@ Initially, the computer consisted of a main section of 4160 4-core [Intel](Intel
 
 
 
-### Contents
-
-
-* [1 Performance](#performance)
-* [2 Lomonosov Tablebases](#lomonosov-tablebases)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-As of 2012, the Lomonosov Supercomputer has 52,168 [x86-64](X86-64 "X86-64") and 954,840 [GPU](GPU "GPU") cores <a id="cite-note-2" href="#cite-ref-2">[2]</a> with 92 [TiB](https://en.wikipedia.org/wiki/Tebibyte) of triple-channel [DDR3 SD](https://en.wikipedia.org/wiki/DDR3_SDRAM) [memory](Memory "Memory") modules, resulting in a peak performance of 1.7 [PFlops](https://en.wikipedia.org/wiki/FLOPS), and a [Linpack performance](https://en.wikipedia.org/wiki/LINPACK_benchmarks) of 901.9 TFlops. [Operating system](https://en.wikipedia.org/wiki/Operating_system) is the [Linux](Linux "Linux") based *ClustrX* <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The Lomonosov supercomputer includes a three-tier storage with high-speed [disks](https://en.wikipedia.org/wiki/Disk_storage) of 500 TB running under the [Lustre](https://en.wikipedia.org/wiki/Lustre_%28file_system%29) [parallel file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), a high-speed, highly-reliable 300TB disk storage, and a 1PB [robotic tape storage](https://en.wikipedia.org/wiki/Computer_data_storage#Robotic_storage).
-
-
-
 ## Lomonosov Tablebases
 
 

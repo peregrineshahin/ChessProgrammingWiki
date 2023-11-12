@@ -12,47 +12,6 @@ a [chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") [modul
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 The Game](#the-game)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-by [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), excerpt from their *Oral History* <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
-
-
-
-
-```C++
-When [Sid Samole](Sidney_Samole "Sidney Samole") was ready to retire, he sold [Fidelity](Fidelity_Electronics "Fidelity Electronics"). And he sold it to a [German chess manufacturer](Hegener_%26_Glaser "Hegener & Glaser") who had, at the time, the [then world champion program](Mephisto "Mephisto"). Our program had slipped into second place and so ... And that company had bought Fidelity and so we're saying, well, they've got the world champion program and we're number two. What's our future? They're a German company and we're in California, you know, where are things going? And, at the same time, we were approached by... [Eric Winkler](Eric_Winkler "Eric Winkler"). 
-
-```
-
-
-```C++
-And he asked us if we would come to work for him and create a chess program for him. And we did work for three years for [Saitek](Saitek "Saitek") and Eric Winkler had a dream of creating a chess program using the Sparc processor, a risc-based processor. And we did do that. We created it. We got [Sparc workstations](SPARCstation "SPARCstation") and we coded an entire chess engine in Sparc [Assembly](Assembly "Assembly") language.
-
-```
-
-
-```C++
-Well, Saitek hoped to win a [world championship](WCCC_1992 "WCCC 1992") and recapture the Royal Championship title and we took a program that almost won. We came very close to winning but... Yeah. We lost the final round... And did not win and so, at that point in time, Saitek said, "Oh, well, that was a good try. Good bye." 
-
-```
-
-
-
-
-
 ## The Game
 
 

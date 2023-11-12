@@ -15,55 +15,6 @@ While the attack generation per line is more or less only one [memory](Memory "M
 
 
 
-### Contents
-
-
-* [1 An Example](#an-example)
-* [2 Square Mapping](#square-mapping)
-	+ [2.1 by Hyatt](#by-hyatt)
-	+ [2.2 by Gillgasch and Heinz](#by-gillgasch-and-heinz)
-	+ [2.3 Quotes](#quotes)
-* [3 Table size](#table-size)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1995 ...](#1995-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-As example file-attacks of rook a5 with occupancy along the a-file. The 90-degree rotated bitboard has consecutive bits of that file along its 8th rank, which serves as an index to lookup the pre-calculated file-attacks:
-
-
-
-
-```C++
-
-  non-rotated           rotated             file_attacks[a5][rotated]
- ┌─┐                 ┌───────────────┐     ┌─┐
- │1│0 0 0 0 0 0 0    │1_0_0_1_R_0_1_1│════>│0│0 0 0 0 0 0 0
- │1│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │1│0 0 0 0 0 0 0
- │0│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │1│0 0 0 0 0 0 0
- │R│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │0│0 0 0 0 0 0 0
- │1│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │1│0 0 0 0 0 0 0
- │0│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │0│0 0 0 0 0 0 0
- │0│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │0│0 0 0 0 0 0 0
- │1│0 0 0 0 0 0 0     0 0 0 0 0 0 0 0      │0│0 0 0 0 0 0 0
- └─┘                                       └─┘
-
-```
-
-With a rook on the square marked 'R', an attack bitboard can be obtained with the array lookup file\_attacks[R][10011011].
-
-
-
 ## Square Mapping
 
 

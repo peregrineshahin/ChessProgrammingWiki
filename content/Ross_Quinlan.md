@@ -25,26 +25,6 @@ and further introduced the [first-order inductive learner](https://en.wikipedia.
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1968 ...](#1968-...)
-	+ [1.2 1970 ...](#1970-...)
-	+ [1.3 1980 ...](#1980-...)
-	+ [1.4 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ### 1968 ...
 
 

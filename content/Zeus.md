@@ -13,33 +13,6 @@ Zeus further participated at the [WCCC 1995](WCCC_1995 "WCCC 1995") in [Shatin](
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 Namesake](#namesake)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
-
-```
-Gerardo Castano works as a medical doctor and writes computer chess programs as a hobby. Zeus 1.0 was written in [Basic](Basic "Basic") and finished fifth out of seven in the [First Spanish Computer Chess Championship](SCCC_1993 "SCCC 1993") in 1993. The program was rewritten in [C](C "C") in 1994 and uses the standard techniques of [alpha-beta search](Alpha-Beta "Alpha-Beta"), [selective extensions](Extensions "Extensions"), [minimal PVS](Principal_Variation_Search "Principal Variation Search"), [transposition tables](Transposition_Table "Transposition Table"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [history heuristic](History_Heuristic "History Heuristic"), [null-move pruning](Null_Move_Pruning "Null Move Pruning") and [quiescence search](Quiescence_Search "Quiescence Search"). [Capturing moves](Captures "Captures"), [checks](Check "Check"), [promotions](Promotions "Promotions"), [mate threats](Threat_Move "Threat Move") are all considered in the search. Zeus 2.0 used 256KB hash tables and searched 3000 [nodes per second](Nodes_per_Second "Nodes per Second"). It won the [Second Spanish Computer Chess Championship](SCCC_1994 "SCCC 1994") in 1994 with a perfect score of 7/7. Zeus 3.0 uses massive hash tables (32MB), and contains extensive [chess knowledge](Knowledge "Knowledge") ([pawn structure](Pawn_Structure "Pawn Structure"), [strong squares](Square_Control "Square Control"), [bad bishop](Bad_Bishop "Bad Bishop") etc). The [opening book](Opening_Book "Opening Book") contains about 300,000 positions and recognizes move and color [transpositions](Transposition "Transposition"). The [endgame database](Endgame_Tablebases "Endgame Tablebases") is being developed and the [evaluation function](Evaluation "Evaluation"), although large, has thus far produced good results... 
-
-```
-
 ## Selected Games
 
 

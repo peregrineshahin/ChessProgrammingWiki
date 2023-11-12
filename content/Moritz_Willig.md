@@ -15,27 +15,6 @@ which started in summer 2018 as a [semester](https://en.wikipedia.org/wiki/Acade
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Johannes Czech](Johannes_Czech "Johannes Czech"), Moritz Willig, [Alena Beyer](Alena_Beyer "Alena Beyer"), [Kristian Kersting](Kristian_Kersting "Kristian Kersting"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2019**). *Learning to play the Chess Variant Crazyhouse above World Champion Level with Deep Neural Networks and Human Data*. [arXiv:1908.06660](https://arxiv.org/abs/1908.06660)
-* [Johannes Czech](Johannes_Czech "Johannes Czech"), Moritz Willig, [Alena Beyer](Alena_Beyer "Alena Beyer"), [Kristian Kersting](Kristian_Kersting "Kristian Kersting"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2020**). *[Learning to Play the Chess Variant Crazyhouse Above World Champion Level With Deep Neural Networks and Human Data](https://www.frontiersin.org/articles/10.3389/frai.2020.00024/full)*. [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence#)
-* Moritz Willig (**2020**). *Analysing and overcoming the dataset bias for optical flow backbone networks*. Master thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](https://moritz-willig.de/documents/flowBias_Willig_rev_1_0.pdf)
-
-
 ## External Links
 
 

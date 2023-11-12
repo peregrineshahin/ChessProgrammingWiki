@@ -13,26 +13,6 @@ a family of chess programs written [Larry Atkin](Larry_Atkin "Larry Atkin") in [
 
 
 
-### Contents
-
-
-* [1 Steinitz Edition 4](#steinitz-edition-4)
-* [2 Steinitz Encore](#steinitz-encore)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.flickr.com/photos/10261668@N05/858210787/sizes/o/in/set-72157600923816639/) Steinitz 4 <a id="cite-note-2" href="#cite-ref-2">[2]</a> 
-The Steinitz Edition appeared end of 1982 as successor and replacement for the [Morphy](Morphy "Morphy") module <a id="cite-note-3" href="#cite-ref-3">[3]</a> . It was derived from the [Capablanca](Morphy#Capablanca "Morphy") [endgame](Endgame "Endgame") module, adapted to play also [middlegame](Middlegame "Middlegame") and [opening](Opening "Opening") and likely is related to [Chess 7.0](Chess_7.0 "Chess 7.0") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-
-
 ## Steinitz Encore
 
 

@@ -13,37 +13,6 @@ Steven Edwards died on October 1, 2016 at age 59 at his home in [Raymond](https:
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 1995 ...](#1995-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2005 ...](#2005-...)
-	+ [2.5 2010 ...](#2010-...)
-	+ [2.6 2015 ...](#2015-...)
-* [3 Downloads](#downloads)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-12" href="#cite-ref-12">[12]</a>
-
-
-
-* Steven Edwards (**1995**). *Automated Communication for Computer Chess Events*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 22
-* Steven Edwards (**1995**). *ICCA Rules*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports"), pp. 22
-* Steven Edwards and the Editorial Board (**1995**). *An Examination of the Endgame KBNKN*. [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), [pdf](http://arno.uvt.nl/show.cgi?fid=106843)
-* Steven Edwards (**1995**). *Comments on Barth’s Article “Combining Knowledge and Search to Yield Infallible Endgame Programs.”* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
-* Steven Edwards (**1996**). *An Examination of the Endgame KBBKN.* [ICCA Journal, Vol. 19, No. 1](ICGA_Journal#19_1 "ICGA Journal")
-
-
 ## Forum Posts
 
 

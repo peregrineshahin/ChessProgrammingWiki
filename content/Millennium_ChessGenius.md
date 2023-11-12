@@ -12,61 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Models](#models)
-* [2 Sensory Board](#sensory-board)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2015 ...](#2015-...)
-	+ [4.2 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  Clock
- |  RAM
- |  Flash
- |  ROM
- |  Book
- |
-|  Model
- |  Controller
- |  [MHz]
- |  [KiB]
- |  Positions
- |
-|  ChessGenius
- | [ATSAM4N8B](http://www.microchip.com/wwwproducts/en/ATSAM4N8B) |  48
- |  64
- |  512
- |  8
- |  20,000
- |
-|  PRO
- | [ATSAM4SA16B](http://www.microchip.com/wwwproducts/en/ATSAM4SA16B) |  120
- |  160
- |  1024
- |  16
- |  100,000
- |
-|  Exclusive
- | [Cortex M7](http://www.atmel.com/technologies/cpu_core/arm/cortex-m7.aspx) |  300
- |  384
- |  2048
- |  |  300,000
- |
-
-
 ## Sensory Board
 
 

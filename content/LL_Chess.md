@@ -13,49 +13,6 @@ LL Chess represents the board as plain [8x8 mailbox](8x8_Board "8x8 Board"). The
 
 
 
-### Contents
-
-
-* [1 Positional Logic](#positional-logic)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The so called positional logic, the logic of material exchange between the two sides takes following [point values](Point_Value "Point Value") into account, as given in Leonid's *Chess Introduction* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-
-
-
-
-
-|  Piece
- |  Score
- |
-| --- | --- |
-|  Pawn
- |  2000
- |
-|  Knight
- |  4800
- |
-|  Bishop
- |  4825
- |
-|  Rook
- |  9100
- |
-|  Queen
- |  18000
- |
-|  King
- |  80000
- |
-
-
 ## Forum Posts
 
 

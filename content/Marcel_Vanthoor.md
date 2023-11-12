@@ -12,21 +12,6 @@ and started a chess programming comeback in 2020 with his didactic chess engine 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2019](#2019)
-	+ [1.2 2020](#2020)
-	+ [1.3 2021](#2021)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2019
 
 

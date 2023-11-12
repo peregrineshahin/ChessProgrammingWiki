@@ -12,36 +12,6 @@ for **K**eyboard **I**nput **M**onitor, was a [single board computer](https://en
 
 
 
-### Contents
-
-
-* [1 MicroChess](#microchess)
-* [2 Publications](#publications)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Peter Jennings](Peter_Jennings "Peter Jennings") originally developed [MicroChess](MicroChess "MicroChess") on a KIM-1 in 1976 <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Excerpt of his Oral History <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
-
-
-
-
-```C++
-But I think for me the key was more when the KIM-1 came out in that it was affordable, and 245 bucks was a lot of money in those days. And so that was-- and the [Altair](https://en.wikipedia.org/wiki/Altair_8800) had been a lot more than that and you knew you needed to buy more things to make it work, whereas the KIM-1, you got everything you need for that 245 bucks. So to me that seemed very real, and I mean I already knew before I bought it that I wanted to make it play chess, so I actually had thought about how one would start to program chess into a micro computer. 
-
-```
-
-
-```C++
-Well the idea was sort of floating in my head of I'd like to do that some time, and I guess it had been floating in my head for many years, and since the early things I'd done in high school, and there was a “[Scientific American](Scientific_American "Scientific American")” article on programming chess and I've been trying to find that and I'd like to find it 'cause it would help me put things in my own head as to when I read the article and where I was, but I'll have to go and find some back issues of “Scientific American.” And I knew I had that article cut out and I'd kept it and I'd look at it from time to time and think about the problem, and around that time with the [8080](8080 "8080"), and of course there were lots of articles starting to appear in the magazines, “[Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics),” etcetera, and then the KIM-1 ad came out in “Byte” with that first introductory article about it. I think Robert Tripp wrote the one page article, you’ve probably seen it, I've got it here in this stack somewhere anyway. And I started thinking about okay, well could the KIM-1 do some of these things, but I was never really sure what a microprocessor was capable of, but having access to a Sigma-9 I wrote a simulator for an 8080 and a simulator for a 6502 and I started to write some little chess move things in these simulators and decided 6502 was probably a much more fun processor to work with. And since the KIM-1 was cheap I went down to [Cleveland](https://en.wikipedia.org/wiki/Cleveland) for the computer show and came back with my KIM-1. ... 
-
-```
-
 ## Publications
 
 

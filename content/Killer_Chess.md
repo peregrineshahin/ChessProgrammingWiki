@@ -10,24 +10,6 @@ a minimalistic chess program written by [Andy Thomason](Andy_Thomason "Andy Thom
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Fafner](#fafner)
-	+ [1.2 Viktor](#viktor)
-* [2 See also](#see-also)
-* [3 Related Publications](#related-publications)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
 ### Fafner
 
 

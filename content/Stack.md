@@ -13,56 +13,6 @@ The stack is a natural structure to remember where to continue after some work w
 
 
 
-### Contents
-
-
-* [1 Software Stack](#software-stack)
-* [2 Hardware Stack](#hardware-stack)
-* [3 Applications](#applications)
-	+ [3.1 Stack Calculator](#stack-calculator)
-	+ [3.2 Depth-First Search](#depth-first-search)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 x86](#x86)
-	+ [7.2 x86-64](#x86-64)
-	+ [7.3 C++](#c.2b.2b)
-	+ [7.4 Java](#java)
-	+ [7.5 .NET](#.net)
-* [8 References](#references)
-
-
-
-
-
-
-A stack can be implemented through an [array](Array "Array") or a [linked list](Linked_List "Linked List"), for instance in [C](C "C")-like pseudo code with a fixed sized array in conjunction with typical pre-increment and post-decrement:
-
-
-
-
-```C++
-
-int tos = -1; // index top of stack
-int stack[STACKSIZE]; // fixed sized array
-
-void push (int element) {
-   if (tos == STACKSIZE - 1) throw stack overflow exception;
-   stack[++tos] = element;
-}
-
-int pop () {
-   if (tos == -1 ) throw stack underflow exception;
-   return stack[tos--];
-}
-
-```
-
-
-
-
-
 ## Hardware Stack
 
 

@@ -13,32 +13,6 @@ Beside static move properties and [SEE](Static_Exchange_Evaluation "Static Excha
 
 
 
-### Contents
-
-
-* [1 Excerpts](#excerpts)
-	+ [1.1 The Foundation of the Search Algorithm](#the-foundation-of-the-search-algorithm)
-	+ [1.2 The Measurement of "Interestingness"](#the-measurement-of-.22interestingness.22)
-	+ [1.3 Refinements](#refinements)
-	+ [1.4 The Second Generation of the SEX Algorithm](#the-second-generation-of-the-sex-algorithm)
-	+ [1.5 The SEX Horizon Effect](#the-sex-horizon-effect)
-	+ [1.6 Chipography](#chipography)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-	+ [3.1 Algorithm](#algorithm)
-	+ [3.2 Sex](#sex)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-from *The SEX Algorithm in Computer Chess* 1989 <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
-
-
-
 ### The Foundation of the Search Algorithm
 
 

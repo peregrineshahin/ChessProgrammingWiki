@@ -10,26 +10,6 @@ a Dutch [Draughts](Draughts "Draughts") and [Checkers](Checkers "Checkers") prog
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-	+ [2.4 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Bitboard Serialization - STL iterator](Bitboard_Serialization#STLIterator "Bitboard Serialization")
-
-
 ## Forum Posts
 
 

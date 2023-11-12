@@ -14,25 +14,6 @@ Features are the use of [Bitboards](Bitboards "Bitboards") and a simple [Evaluat
 
 
 
-### Contents
-
-
-* [1 Origins](#origins)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Evaluation](Evaluation "Evaluation") based on [Simplified Evaluation Function](Simplified_Evaluation_Function "Simplified Evaluation Function") by [Tomasz Michniewski](Tomasz_Michniewski "Tomasz Michniewski")
-* [Polyglot](PolyGlot "PolyGlot") [Book](Opening_Book "Opening Book") support and [Zobrist Hashes](Zobrist_Hashing "Zobrist Hashing") copied from [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-* [Opening Book](Opening_Book "Opening Book") by [Dann Corbit](Dann_Corbit "Dann Corbit")
-
-
 ## See also
 
 

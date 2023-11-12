@@ -12,22 +12,6 @@ for searching, manipulating and formatting [chess games](Chess_Game "Chess Game"
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Postings](#postings)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chess Databases](Databases "Databases")
-
-
 ## Postings
 
 

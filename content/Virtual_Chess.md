@@ -14,40 +14,6 @@ Virtual Chess participated at the [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), and bec
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1997 ...](#1997-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-given in 1999 from the [ICGA](ICGA "ICGA") site <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
-
-
-
-
-```C++
-Virtual Chess is the commercial version of the [Écume](%C3%89cume "Écume") and [Cumulus 2](Cumulus "Cumulus") chess programs. It holds the title of World Professional Computer Chess Program '97. Its most recent result: a 1.5/2 match win against GMI [Étienne Bacrot](https://en.wikipedia.org/wiki/%C3%89tienne_Bacrot) at the [Cap d'Agde](https://en.wikipedia.org/wiki/Cap_d%27Agde) tournament. It finished first (tied with [Vaisser](https://en.wikipedia.org/wiki/Anatoly_Vaisser) and [Chernin](https://en.wikipedia.org/wiki/Alexander_Chernin)) of the [1996 rapid Aubervilliers tournament](Aubervilliers_Rapid_Open#1996 "Aubervilliers Rapid Open").
-
-```
-
-
-```C++
-The chess engine is written in [C](C "C") and 32 bits [assembly](Assembly "Assembly"). It is based on [PVS](Principal_Variation_Search "Principal Variation Search"), uses [null move pruning](Null_Move_Pruning "Null Move Pruning") and includes dynamic [evaluation](Evaluation "Evaluation") of [king safety](King_Safety "King Safety") and [pawn structure](Pawn_Structure "Pawn Structure"). The evaluation function attempts to build plans whenever it recognizes important features in a position. It runs on a [PC](IBM_PC "IBM PC") with [Windows](Windows "Windows") (95, 98 or NT), with a splendid [graphical](GUI "GUI") interface written by the French firm [Titus Interactive](index.php?title=Titus&action=edit&redlink=1 "Titus (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> . 
-
-```
-
 ## Selected Games
 
 

@@ -12,27 +12,6 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https:/
 
 
 
-### Contents
-
-
-* [1 Rules](#rules)
-* [2 Computer Olympiad](#computer-olympiad)
-* [3 It's a Draw](#it.27s-a-draw)
-* [4 Photos](#photos)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Nine Men’s Morris is played on a board with 24 spots where men may be placed. The game begins with an empty board and both players, White and Black start with nine men each. The object of the game is to leave the opposing player with fewer than three pieces or, as in [checkers](Checkers "Checkers"), with no legal moves. During the opening phase Players alternately place men on an empty spot. After all men are placed, players slide stones to adjacent vacant point. When closing a mill (three-in-a-row), any opponent's piece which is not part of a mill may be removed. If all the opponent's men are part of mills, any may be removed. Removed pieces may not be placed again. Closing two mills simultaneously during the opening phase only allows one of the opponent's men to be removed. With only three men left, a player may jump a piece to any vacant point.
-
-
-
 ## [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
 
 

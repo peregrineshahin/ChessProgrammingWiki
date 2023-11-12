@@ -12,32 +12,6 @@ determines whether a [square](Squares "Squares") is [attacked](Attacks "Attacks"
 
 
 
-### Contents
-
-
-* [1 Attacks to a Square](#attacks-to-a-square)
-	+ [1.1 By all Pieces](#by-all-pieces)
-	+ [1.2 Any Attack by Side](#any-attack-by-side)
-* [2 Legality Test](#legality-test)
-	+ [2.1 In Between](#in-between)
-		- [2.1.1 Rectangular Lookup](#rectangular-lookup)
-		- [2.1.2 Triangular Lookup](#triangular-lookup)
-		- [2.1.3 0x88 Difference](#0x88-difference)
-		- [2.1.4 Pure Calculation](#pure-calculation)
-	+ [2.2 Attacked by Piece on Square](#attacked-by-piece-on-square)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-
-
-
-
 ### By all Pieces
 
 

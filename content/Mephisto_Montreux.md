@@ -15,32 +15,6 @@ Mephisto Montreux was the last and lonesome dedicated computer competing a [Worl
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Computer](#chess-computer)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [ChessMachine](ChessMachine "ChessMachine")
-* [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser")
-* [Mephisto](Mephisto "Mephisto")
-* [Mephisto (H)](Mephisto_(H) "Mephisto (H)")
-* [Mephisto RISC](Mephisto_RISC "Mephisto RISC")
-* [Saitek](Saitek "Saitek")
-* [Saitek RISC 2500](RISC_2500 "RISC 2500")
-* [TASC R30](TASC_R30 "TASC R30")
-* [The King](The_King "The King")
-
-
 ## Forum Posts
 
 

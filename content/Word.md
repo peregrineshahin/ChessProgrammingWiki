@@ -8,27 +8,6 @@ A **Word** or Computer Word, is a term for the natural unit of data used by a pa
 
 
 
-### Contents
-
-
-* [1 16-bit Word](#16-bit-word)
-* [2 Short](#short)
-* [3 Ranges](#ranges)
-* [4 Alignment](#alignment)
-* [5 Endianness](#endianness)
-* [6 Extracting Bytes](#extracting-bytes)
-* [7 See also](#see-also)
-* [8 External Links](#external-links)
-
-
-
-
-
-
-Often the size of a word is defined to be a value for compatibility with earlier computers, such as [Intel's](Intel "Intel") [x86](X86 "X86") and [x86-64](X86-64 "X86-64") architecture, which referes a **Word** from the original [8086](8086 "8086") 16-bit µ-Processor. Subsequently Intel used the terms [Double Word](Double_Word "Double Word") (**dword**) for 32-bit words, a quadruple word or [Quad Word](Quad_Word "Quad Word") (**qword**) for 64-bits words, and even a [Double Quad Word](index.php?title=Double_Quad_Word&action=edit&redlink=1 "Double Quad Word (page does not exist)") for 128-bit words. [x86](X86 "X86") and [x86-64](X86-64 "X86-64") registers may still treated as word registers (ax versus eax or even rax) , while it is recommend to use the native 32-bit [double word](Double_Word "Double Word"), because the word-wise access requires a prefix byte to overwrite the default width. [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") instruction sets like [MMX](MMX "MMX"), [AltiVec](AltiVec "AltiVec") and [SSE2](SSE2 "SSE2") provide operations on vectors of four or eight words inside appropriate SIMD-registers. [IBM 360](IBM_360 "IBM 360") and successors with 32-bit words, refer 16-bit size as **halfword**.
-
-
-
 ## Short
 
 

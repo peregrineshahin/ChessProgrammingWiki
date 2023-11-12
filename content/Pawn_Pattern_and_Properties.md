@@ -10,33 +10,6 @@ There are two approaches to determine [pawn](Pawn "Pawn") attack-sets, pawn move
 
 
 
-### Contents
-
-
-* [1 Moves and Captures](#moves-and-captures)
-* [2 Properties](#properties)
-	+ [2.1 Pawns in touch](#pawns-in-touch)
-	+ [2.2 Fills and Spans](#fills-and-spans)
-	+ [2.3 Based on Spans](#based-on-spans)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-A pawn captures diagonally forward, but otherwise pushes forward one - or optionally two steps from it's initial rank. For white versus black pawns forward and backward are considered relative from either whites or blacks point of view.
-
-
-
-* [Pawn Pushes](Pawn_Pushes_(Bitboards) "Pawn Pushes (Bitboards)")
-* [Pawn Attacks](Pawn_Attacks_(Bitboards) "Pawn Attacks (Bitboards)")
-
-
 ## Properties
 
 

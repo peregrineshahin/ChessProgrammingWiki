@@ -15,29 +15,6 @@ and brought many innovations into chess programming concerning [bitboards](Bitbo
 
 
 
-### Contents
-
-
-* [1 Innovations](#innovations)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2005 ...](#2005-...)
-	+ [3.3 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [All Shortest Paths](All_Shortest_Paths "All Shortest Paths") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Flood Fill Algorithms](King_Pattern#FloodFillAlgorithms "King Pattern") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-* [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* [Parallel Prefix Algorithms](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms")
-
-
 ## See also
 
 

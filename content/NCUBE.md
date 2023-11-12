@@ -13,23 +13,6 @@ The single-chip **nCUBE-2** processor launched in June 1989 used [wormhole routi
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Waycool](Waycool "Waycool")
-
-
 ## See also
 
 

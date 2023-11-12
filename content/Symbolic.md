@@ -12,32 +12,6 @@ a chess playing program by [Steven Edwards](Steven_Edwards "Steven Edwards") wit
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 Iterative Search](#iterative-search)
-* [4 Perft](#perft)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2003](#2003)
-	+ [6.2 2004](#2004)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2013](#2013)
-	+ [6.5 2015](#2015)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Symbolic played various [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [ACCA Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship") and [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship").
-
-
-
 ## Selected Games
 
 

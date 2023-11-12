@@ -12,25 +12,6 @@ a series of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Che
 
 
 
-### Contents
-
-
-* [1 Very Selective Search](#very-selective-search)
-* [2 Quote](#quote)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-According to [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), the Constellation Expert used extended [pre scan heuristics](Oracle "Oracle") (PSH) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. A sophisticated [selective search](Selectivity "Selectivity"), dubbed **Very Selective Search** (VSS), was introduced with the Super Expert and Forte B <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Quote
 
 

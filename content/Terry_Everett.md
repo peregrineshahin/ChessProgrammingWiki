@@ -10,21 +10,6 @@ an American sales manager, from 1977 until the 90s affiliated with the [dedicate
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 USOCCC 1986](#usoccc-1986)
-	+ [1.2 USOCCC 1988](#usoccc-1988)
-* [2 Reports](#reports)
-* [3 Forum Posts](#forum-posts)
-* [4 References](#references)
-
-
-
-
-
-
 ### USOCCC 1986
 
 

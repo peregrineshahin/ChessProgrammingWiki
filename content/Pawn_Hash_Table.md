@@ -13,37 +13,6 @@ While the content of the pawn hash table entry varies a lot between different ch
 
 
 
-### Contents
-
-
-* [1 Pawn Hash Index](#pawn-hash-index)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1999](#1999)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010 ...](#2010-...)
-	+ [3.5 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Most simple, common and recommend is to keep an [incremental updated](Incremental_Updates "Incremental Updates"), dedicated [Zobrist](Zobrist_Hashing "Zobrist Hashing")- or [BCH-keys](BCH_Hashing "BCH Hashing") similar to the [main transposition table](Transposition_Table "Transposition Table"), initialized from all squares occupied by pawns only, [side to move](Side_to_move "Side to move") does not matter. The update of that key is therefor only necessary for the relative rare pawn moves or captures with pawns as aggressor or victim. The hash table index is computed by key modulo number of entries, which might be a cheap and-instruction from the key for power of two sized tables.
-
-
-Alternatively, considering hits from the [transposition table](Transposition_Table "Transposition Table"), or a dedicated [evaluation hash table](Evaluation_Hash_Table "Evaluation Hash Table"), one may use a fast [hash function](Hash_Table "Hash Table") to compute an index from the white and black pawn bitboards on the fly, i.e. either a modulo or a multiplication and shift à la [magic bitboards](Magic_Bitboards "Magic Bitboards") by the difference of the disjoint pawn sets <a id="cite-note-2" href="#cite-ref-2">[2]</a> . To verify correct entries while probing, one needs either to store (a part) of the dedicated Zobrist/BCH key, or for 100% correctness 2\*48 bits from the pawn occupancy bitboards. This value could be further compressed with the expense of more calculation overhead by means of n-like men:
-
-
-
- [](File:PawnHashFormla.jpg) 
-This can be further reduced by mirroring the board, considering symmetric positions or detecting illegal positions. 
-
-
-
 ## See also
 
 

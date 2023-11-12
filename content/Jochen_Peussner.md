@@ -10,21 +10,6 @@ a German computer scientist and software developer, chess player, and as compute
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 2000](#2000)
-	+ [1.2 2001](#2001)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### 2000
 
 

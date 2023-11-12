@@ -12,23 +12,6 @@ a British computer scientist and technology entrepreneur. He holds a degree in m
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 External Links](#external-links)
-* [3 Forum Posts](#forum-posts)
-* [4 References](#references)
-
-
-
-
-
-
-Already in 1989, Stephen B. Streater began to write his chess program [E6P](E6P "E6P") for the [ARM](ARM2 "ARM2") architecture of the [Acorn Archimedes](Acorn_Archimedes "Acorn Archimedes"), to participate at the [1st Computer Olympiad 1989](1st_Computer_Olympiad#Chess "1st Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London). Due to its author's expertise in optimization, targeting that [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) platform, E6P was quite fast for that time, though positionally a bit half-cocked, causing some stir at the Olympiad with possible impact on the career of some Dutch programmers <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. As reported by its author a few years later during the [MChess](MChess "MChess") [killer book](MChess#killerbook "MChess") discussion in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), his program, at that time dubbed C\_897d, was ported to a [StrongARM](index.php?title=StrongARM&action=edit&redlink=1 "StrongARM (page does not exist)") processor, reaching 750,000 [nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. 
-
-
-
 ## External Links
 
 

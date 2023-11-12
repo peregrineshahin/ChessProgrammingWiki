@@ -13,50 +13,6 @@ The SPSA algorithm is suited for high-dimensional [optimization problems](https:
 
 
 
-### Contents
-
-
-* [1 Automated Tuning](#automated-tuning)
-* [2 RSPSA](#rspsa)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1987 ...](#1987-...)
-	+ [4.2 1990 ...](#1990-...)
-	+ [4.3 2000 ...](#2000-...)
-	+ [4.4 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2010 ...](#2010-...-2)
-	+ [5.2 2015 ...](#2015-...)
-	+ [5.3 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-
-```C++
-
-α = 0.602; γ = 0.101;
-for (k=0; k < N; k++) {
-  ak = a / (k + 1 + A)^α;
-  ck = c / (k + 1)^γ;
-  for each p 
-    Δp = 2 * round ( rand() / (RAND_MAX + 1.0) ) - 1.0;
-  Θ+ = Θ + ck*Δ;
-  Θ- = Θ - ck*Δ;
-  Θ +=  ak * match(Θ+, Θ-) / (ck*Δ);
-}
-
-```
-
-In computer chess or games, where the objective function reflects the [playing strength](Playing_Strength "Playing Strength") to maximize, SPSA can be used in [automated tuning](Automated_Tuning "Automated Tuning") of [evaluation](Evaluation "Evaluation") parameters as well as [search](Search "Search") parameters. A prominent SPSA instance is devised from [Stockfish's tuning method](Stockfish%27s_Tuning_Method "Stockfish's Tuning Method") as introduced by [Joona Kiiski](Joona_Kiiski "Joona Kiiski") in 2011 <a id="cite-note-6" href="#cite-ref-6">[6]</a>, where the objective function is measured once per iteration by playing a pair of games with Θ+ versus Θ-, the function "match" returning a ±2 range, see pseudo code. The selection of the coefficients A, a, c, α and γ determine the initial values and time decay of the gain sequences ak and ck, is critical to the performance of SPSA. Spall recommends using α = 0.602 and γ = 0.101, which are the lowest possible values which theoretically guarantees convergence, further see the practical suggestions in Spall's 1998 SPSA implementation paper <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
-
 ## RSPSA
 
 

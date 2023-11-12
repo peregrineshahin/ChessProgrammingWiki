@@ -14,24 +14,6 @@ In early 2021, he started computer chess programming <a id="cite-note-2" href="#
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2021](#2021)
-	+ [2.2 2022](#2022)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Thomas Jahn, [Jörn Loviscach](https://de.wikipedia.org/wiki/J%C3%B6rn_Loviscach) (**2008**). *[For Bees and Gamers: How to Handle Hexagonal Tiles](https://gameenginegems.com/gemsdb/article.php?id=445)*. [Game Programming Gems 7](https://gameenginegems.com/gemsdb/book.php?id=9), Charles River Media ([Cengage](https://en.wikipedia.org/wiki/Cengage))
-
-
 ## Forum Posts
 
 

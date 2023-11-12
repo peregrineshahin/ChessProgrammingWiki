@@ -8,46 +8,6 @@ The **Score** is a value assigned to a [node](Node "Node") inside a search proce
 
 
 
-### Contents
-
-
-* [1 Terminal Nodes](#Terminal_Nodes)
-	+ [1.1 Mate Scores](#Mate_Scores)
-	+ [1.2 Draw Scores](#Draw_Scores)
-		- [1.2.1 Zero](#Zero)
-		- [1.2.2 Contempt Factor](#Contempt_Factor)
-		- [1.2.3 Around Zero](#Around_Zero)
-* [2 Heuristic Nodes](#Heuristic_Nodes)
-* [3 Value Range](#Value_Range)
-* [4 Value Type](#Value_Type)
-	+ [4.1 Fixed Point](#Fixed_Point)
-		- [4.1.1 Grain](#Grain)
-		- [4.1.2 Arbitrary Bit-field Scores](#Arbitrary_Bit-field_Scores)
-		- [4.1.3 Sign Extension](#Sign_Extension)
-	+ [4.2 Floating Point](#Floating_Point)
-* [5 Score Types](#Score_Types)
-* [6 See also](#See_also)
-* [7 Publications](#Publications)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 1995 ...](#1995_...)
-	+ [8.2 2000 ...](#2000_...)
-	+ [8.3 2005 ...](#2005_...)
-	+ [8.4 2010 ...](#2010_...)
-	+ [8.5 2015 ...](#2015_...)
-	+ [8.6 2020 ...](#2020_...)
-* [9 External Links](#External_Links)
-* [10 References](#References)
-
-
-
-
-
-
-[Terminal nodes](Terminal_Node "Terminal Node") hold perfect game theoretic values for either [mate](Checkmate "Checkmate") and [draw](Draw "Draw"), that is {1,-1,0} for a White win, Black win, or draw, practically, dependent on the type, resolution and range, multiplied by some factor, for instance [SHRT\_MAX](Word#Ranges "Word")/2 for signed 16-bit [words](Word "Word") in [C](C "C") or [C++](Cpp "Cpp").
-
-
-
-
 ### Mate Scores
 
 

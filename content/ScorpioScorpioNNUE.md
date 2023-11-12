@@ -12,34 +12,6 @@ a sophisticated [open source chess engine](Category:Open_Source "Category:Open S
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Distributed Search](#distributed-search)
-	+ [1.3 MCTS](#mcts)
-	+ [1.4 Evaluation](#evaluation)
-	+ [1.5 Bitbases](#bitbases)
-	+ [1.6 ScorpioNN](#scorpionn)
-	+ [1.7 ScorpioNNUE](#scorpionnue)
-* [2 See also](#see-also)
-* [3 Dedicated Namesake](#dedicated-namesake)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2005 ...](#2005-...)
-	+ [4.2 2010 ...](#2010-...)
-	+ [4.3 2015 ...](#2015-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### Board Representation
 
 

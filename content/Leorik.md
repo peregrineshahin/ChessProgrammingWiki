@@ -14,31 +14,6 @@ Unshackled from the constraints of minimalism and simplicity, Leorik is the succ
 
 
 
-### Contents
-
-
-* [1 Leorik Attacks](#leorik-attacks)
-* [2 Selected Features](#selected-features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Leorik is a [bitboard](Bitboards "Bitboards") engine and applies an unique approach in determining [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") based on [line-wise attacks on the otherwise empty board](On_an_empty_Board#LineAttacks "On an empty Board") (either pre-calculated or calculated on the fly). All bits below the slider's [origin square](Origin_Square "Origin Square") [bit](General_Setwise_Operations#BitbySquare "General Setwise Operations") are used to separate [positive](On_an_empty_Board#PositiveRays "On an empty Board") and [negative](On_an_empty_Board#NegativeRays "On an empty Board") [rays](Rays "Rays") to scan the nearest blocker (if any) accordingly. 
-Positive rays use the line occupancy, intersected with the bits not below to [fill its LS1B](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") (if any) down (MaskLow => bb ^ (bb - 1)). Negative Rays use the line occupancy, intersected with the bits below to fill its [MS1B](General_Setwise_Operations#TheMostSignificantOneBitMS1B "General Setwise Operations") (if any) down (MaskHigh => 0x7FFFFFFFFFFFFFFFUL >> [leadingZeroCount](BitScan#LeadingZeroCount "BitScan")(bb|1)). The [symmetric difference](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") of both down fills, restricted to the line-wise attacks on the otherwise empty board results in the sliding attack bitboard from that square on one particular line <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Selected Features
 
 

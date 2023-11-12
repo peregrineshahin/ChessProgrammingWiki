@@ -12,42 +12,6 @@ a chess engine by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#Photos_.26_Games)
-	+ [1.1 WCCC 1999](#WCCC_1999)
-	+ [1.2 WCSC 2015](#WCSC_2015)
-* [2 Achievements](#Achievements)
-* [3 Description](#Description)
-* [4 Portability](#Portability)
-* [5 Clever & Smart](#Clever_.26_Smart)
-* [6 Deep Shredder](#Deep_Shredder)
-* [7 Shredder Classic GUI](#Shredder_Classic_GUI)
-* [8 Pocket Shredder](#Pocket_Shredder)
-* [9 Shredder Mobile](#Shredder_Mobile)
-* [10 Shredder for Android](#Shredder_for_Android)
-* [11 Shredderbases](#Shredderbases)
-* [12 Release Dates](#Release_Dates)
-* [13 Publications](#Publications)
-* [14 Forum Posts](#Forum_Posts)
-	+ [14.1 1996 ...](#1996_...)
-	+ [14.2 2000 ...](#2000_...)
-	+ [14.3 2005 ...](#2005_...)
-	+ [14.4 2010 ...](#2010_...)
-	+ [14.5 2015 ...](#2015_...)
-	+ [14.6 2020 ...](#2020_...)
-* [15 External Links](#External_Links)
-	+ [15.1 Chess Engine](#Chess_Engine)
-	+ [15.2 Shredderbases](#Shredderbases_2)
-	+ [15.3 Misc](#Misc)
-* [16 References](#References)
-
-
-
-
-
-
 ### WCCC 1999
 
 

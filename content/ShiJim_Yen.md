@@ -12,29 +12,6 @@ a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Departm
 
 
 
-### Contents
-
-
-* [1 Programs](#Programs)
-* [2 Photos](#Photos)
-* [3 Selected Publications](#Selected_Publications)
-	+ [3.1 2002 ...](#2002_...)
-	+ [3.2 2005 ...](#2005_...)
-	+ [3.3 2010 ...](#2010_...)
-	+ [3.4 2015 ...](#2015_...)
-	+ [3.5 2020 ...](#2020_...)
-* [4 External Links](#External_Links)
-* [5 References](#References)
-
-
-
-
-
-
-Shi-Jim Yen is author and co-author of the [Go](Go "Go") programs [Star of DongHwa](https://www.game-ai-forum.org/icga-tournaments/program.php?id=146), [Jimmy](https://www.game-ai-forum.org/icga-tournaments/program.php?id=99), and [Coldmilk](https://www.game-ai-forum.org/icga-tournaments/program.php?id=630), which is also able to play [NoGo](https://www.game-ai-forum.org/icga-tournaments/game.php?id=47), further the [Chinese Chess](Chinese_Chess "Chinese Chess") program [Shiga](index.php?title=Shiga&action=edit&redlink=1 "Shiga (page does not exist)"), and the [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") programs [Modark](https://www.game-ai-forum.org/icga-tournaments/program.php?id=638) and [Diablo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=729), the [Connect6](Connect6 "Connect6") programs [Kavalan](https://www.game-ai-forum.org/icga-tournaments/program.php?id=507) and [X6](https://www.game-ai-forum.org/icga-tournaments/program.php?id=232), and finally [Cpuzzler](https://www.game-ai-forum.org/icga-tournaments/program.php?id=651) which competed in [Light Up](index.php?title=Light_Up&action=edit&redlink=1 "Light Up (page does not exist)"), [Nurikabe](https://www.game-ai-forum.org/icga-tournaments/game.php?id=41), [Nonograms](Nonogram "Nonogram") [ICGA](ICGA "ICGA") tournaments. Along with [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)") and [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), Shi-Jim Yen is co-author of the [Othello](Othello "Othello") program *Tower of Othello*, which won silver at [TAAI 2013](index.php?title=TAAI_2013&action=edit&redlink=1 "TAAI 2013 (page does not exist)") [[5]](#cite_note-5) and the gold medal (shared) at [TCGA 2014](index.php?title=TCGA_2014&action=edit&redlink=1 "TCGA 2014 (page does not exist)").
-
-
-
 ## Photos
 
 

@@ -12,35 +12,6 @@ since November 2007 the [Technical University of Dortmund](https://en.wikipedia.
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 Tournaments](#tournaments)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Hans-Jürgen Appelrath](Hans-J%C3%BCrgen_Appelrath "Hans-Jürgen Appelrath")
-* [Volker Claus](Mathematician#VClaus "Mathematician")
-* [Armin Cremers](Mathematician#ABCremers "Mathematician")
-* [Paul Fischer](Paul_Fischer "Paul Fischer")
-* [Hagen Huwig](Hagen_Huwig "Hagen Huwig")
-* [Wolfgang Kantschik](index.php?title=Wolfgang_Kantschik&action=edit&redlink=1 "Wolfgang Kantschik (page does not exist)")
-* [Kristian Kersting](Kristian_Kersting "Kristian Kersting")
-* [Burkhard Monien](Burkhard_Monien "Burkhard Monien")
-* [Martin Riedmiller](index.php?title=Martin_Riedmiller&action=edit&redlink=1 "Martin Riedmiller (page does not exist)")
-* [Damian Sulewski](index.php?title=Damian_Sulewski&action=edit&redlink=1 "Damian Sulewski (page does not exist)")
-* [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke")
-* [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger")
-* [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician")
-
-
 ## Chess Programs
 
 

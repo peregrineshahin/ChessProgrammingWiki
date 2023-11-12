@@ -10,29 +10,6 @@ a chess software [library](https://en.wikipedia.org/wiki/Library_(computing)) cr
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board and Moves](#board-and-moves)
-	+ [1.2 Detection](#detection)
-	+ [1.3 Creating and Parsing](#creating-and-parsing)
-	+ [1.4 Probing](#probing)
-	+ [1.5 Protocols](#protocols)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### Board and Moves
 
 

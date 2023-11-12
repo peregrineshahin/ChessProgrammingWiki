@@ -12,30 +12,6 @@ a score unit which corresponds approximately to **one thousandth** of a [pawn un
 
 
 
-### Contents
-
-
-* [1 Doch](#doch)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Don Dailey](Don_Dailey "Don Dailey") on the evaluation grain in [Doch](Doch "Doch") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
-
-```C++
-The key thing to understand is that chess programs compare positions better than they evaluate them. Since most of the positions you compare are very similar (most of the pieces are sitting on the same squares) even a tiny difference can distinguish one similar position from another and even do it correctly. Even though neither position may have a very accurate evaluation, your evaluations function is more likely than not to pick the best one of the two given a choice as it will likely have more of something "good" in one of them, or less of something "bad". 
-
-```
-
 ## See also
 
 

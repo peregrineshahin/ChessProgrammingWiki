@@ -12,27 +12,6 @@ a German computer scientist, in the early 90s affiliated with the [Technical Uni
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[Peter Berger](Peter_Berger "Peter Berger") and Rudolf <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
- [](File:PeterRudolf2006_1.jpg) 
- [](File:PeterRudolf2006_2.jpg) 
- [](File:PeterRudolf2006_3.jpg) 
 ## Selected Publications
 
 

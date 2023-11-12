@@ -12,23 +12,6 @@ a Swedish engineer and former professional computer chess programmer. He started
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WMCCC 1985](#wmccc-1985)
-	+ [1.2 WMCCC 1988](#wmccc-1988)
-* [2 Programs](#programs)
-* [3 Dedicated Computers](#dedicated-computers)
-* [4 Career](#career)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### WMCCC 1985
 
 

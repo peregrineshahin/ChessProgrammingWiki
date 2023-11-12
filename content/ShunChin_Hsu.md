@@ -12,29 +12,6 @@ a Taiwanese computer scientiest and Professor at the Department of Information E
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-	+ [1.1 Chinese Chess](#chinese-chess)
-	+ [1.2 Go](#go)
-	+ [1.3 Connect6](#connect6)
-	+ [1.4 Othello](#othello)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1985 ...](#1985-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 1995 ...](#1995-...)
-	+ [2.4 2000 ...](#2000-...)
-	+ [2.5 2005 ...](#2005-...)
-	+ [2.6 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### [Chinese Chess](Chinese_Chess "Chinese Chess")
 
 

@@ -12,30 +12,6 @@ a Dutch computer chess expert, retired chess and computer chess salesman, former
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Quotes](#quotes)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) 
-Tom Fürstenberg between [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) and [Cock de Gorter](Cock_de_Gorter "Cock de Gorter"), 1985 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](http://users.skynet.be/fidelity/furstenberg.html) 
-Tom Fürstenberg and [David Bronstein](David_Bronstein "David Bronstein"), [Aegon 1991](Aegon_1991 "Aegon 1991") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Quotes
 
 

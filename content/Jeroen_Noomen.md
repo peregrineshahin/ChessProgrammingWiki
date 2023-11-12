@@ -15,24 +15,6 @@ He is also known as author of [opening suites](Test-Positions#OpeningSuites "Tes
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Karpov Simul](#karpov-simul)
-	+ [1.2 Aegon 1997](#aegon-1997)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### Karpov Simul
 
 

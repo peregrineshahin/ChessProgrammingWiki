@@ -10,64 +10,6 @@ an American computer scientist, in the 60s affiliated with [Massachusetts Instit
 
 
 
-### Contents
-
-
-* [1 Theorem](#theorem)
-* [2 Quotes](#quotes)
-	+ [2.1 Alpha-Beta](#alpha-beta)
-	+ [2.2 LISP](#lisp)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 References](#references)
-
-
-
-
-
-
-Levin:  
-
-Let ***n*** be the number of plies in a tree, and let ***b*** be the number of branches a every branch point. Then the number of terminal points on the tree is
-
-
-
-
-```C++
-T = bn
-
-```
-
-However, if the best possible advantage is take of the alpha-beta heuristic then the number of terminal points that need to be examined is for odd *n*,
-
-
-
-
-```C++
-T = b(n+1)/2 + b(n-1)/2 - 1
-
-```
-
-and for even *n*,
-
-
-
-
-```C++
-T = 2bn/2 - 1
-
-```
-
-which can be reformulated for both cases using [ceil and floor](https://en.wikipedia.org/wiki/Floor_and_ceiling_functions) functions:
-
-
-
-
-```C++
-T = b⌈n/2⌉ + b⌊n/2⌋ - 1
-
-```
-
 ## Quotes
 
 

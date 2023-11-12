@@ -17,26 +17,6 @@ also responsible for the [Android](Android "Android") version since [Komodo 8](K
 
 
 
-### Contents
-
-
-* [1 Max/MSP](#max.2fmsp)
-* [2 Jitter](#jitter)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Jeremy Bernstein is developer of *Max/MSP*, published by [Cycling '74](https://en.wikipedia.org/wiki/Cycling_%2774) in 1988. Max/MSP is an "add-on" package for [Max](https://en.wikipedia.org/wiki/Max_%28software%29), the [visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language) for music and multimedia, allowing for the manipulation of [digital audio signals](https://en.wikipedia.org/wiki/Digital_audio) in [real-time](https://en.wikipedia.org/wiki/Real-time), to create own [synthesizers](https://en.wikipedia.org/wiki/Synthesizer) and [effect processors](https://en.wikipedia.org/wiki/Effects_unit).
-
-
-
 ## Jitter
 
 

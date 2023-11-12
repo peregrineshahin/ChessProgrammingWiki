@@ -10,34 +10,6 @@ A **Skewer** (thrust, reverse [pin](Pin "Pin")) is a [X-ray](X-ray "X-ray") rela
 
 
 
-### Contents
-
-
-* [1 Composition](#composition)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Following composition by [Ado Kraemer](https://en.wikipedia.org/wiki/Ado_Kraemer) and [Walther von Holzhausen](https://en.wikipedia.org/wiki/Walther_von_Holzhausen), Magdeburger Zeitung, 1930 <a id="cite-note-2" href="#cite-ref-2">[2]</a> covers a skewer. The threat 1... b1=Q can be parried with the skewer b8=Q+, which safes white game and forces [stalemate](Stalemate "Stalemate") after 1.Ka8 Bh2 and sacrificing all pawns:
-
-
-
-
-
-|  |
-| --- |
-|                                                                                        ♔       ♙       ♚♙        ♙        ♙        ♙   ♟    ♙       ♝  |
-
-
-1K6/1P6/1kP5/3P4/4P3/5P2/1p4P1/6b1 w - - 
-
-
-
 ## See also
 
 

@@ -13,52 +13,6 @@ the application of [vectors](https://en.wikipedia.org/wiki/Euclidean_vector) in 
 
 
 
-### Contents
-
-
-* [1 Displacement and Position Vectors](#Displacement_and_Position_Vectors)
-* [2 Vector Boards](#Vector_Boards)
-* [3 Vector as Index](#Vector_as_Index)
-* [4 Superimposed Lookup](#Superimposed_Lookup)
-* [5 Ray Vectors](#Ray_Vectors)
-* [6 Increment Vectors](#Increment_Vectors)
-* [7 New Architecture](#New_Architecture)
-	+ [7.1 Source-Destination](#Source-Destination)
-	+ [7.2 Destination-Source](#Destination-Source)
-* [8 Implementations](#Implementations)
-	+ [8.1 0x88](#0x88)
-		- [8.1.1 Layout](#Layout)
-		- [8.1.2 Coordinate Transformation](#Coordinate_Transformation)
-	+ [8.2 15x12](#15x12)
-		- [8.2.1 Layout](#Layout_2)
-		- [8.2.2 Coordinate Transformation](#Coordinate_Transformation_2)
-	+ [8.3 16x12](#16x12)
-		- [8.3.1 Layout](#Layout_3)
-		- [8.3.2 Coordinate Transformation](#Coordinate_Transformation_3)
-	+ [8.4 Conclusion](#Conclusion)
-* [9 See also](#See_also)
-* [10 Publications](#Publications)
-* [11 Forum Posts](#Forum_Posts)
-	+ [11.1 2000 ...](#2000_...)
-	+ [11.2 2010 ...](#2010_...)
-* [12 External Links](#External_Links)
-* [13 References](#References)
-
-
-
-
-
-
-A [displacement vector](https://en.wikipedia.org/wiki/Displacement_%28vector%29) is a [tuple](https://en.wikipedia.org/wiki/Tuple) of [rank](Ranks "Ranks")- and [file](Files "Files")-difference of two [squares](Squares "Squares"), for instance [from](Origin_Square "Origin Square") and [to square](Target_Square "Target Square") of a [move](Moves "Moves").
-
-
-
- [](File:Vector_Attacks_1.jpg) 
-The [position vector](https://en.wikipedia.org/wiki/Position_%28vector%29) of square A is the displacement to an arbitrary reference origin O.
-
-
-
- [](File:Vector_Attacks_2.jpg) 
 ## Vector Boards
 
 

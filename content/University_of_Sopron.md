@@ -10,23 +10,6 @@ title: University of Sopron
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Programs](#programs)
-* [3 Tournaments](#tournaments)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-
-
 ## Programs
 
 

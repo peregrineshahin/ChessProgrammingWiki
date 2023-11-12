@@ -16,48 +16,6 @@ referring the [IA-32](https://en.wikipedia.org/wiki/IA-32) architecture of the 3
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Architectures](#architectures)
-* [3 Register Files](#register-files)
-	+ [3.1 General Purpose](#general-purpose)
-	+ [3.2 MMX](#mmx)
-	+ [3.3 3DNow!](#3dnow.21)
-	+ [3.4 SSE/SSE2](#sse.2fsse2)
-* [4 CPUS](#cpus)
-	+ [4.1 Intel](#intel)
-	+ [4.2 Cyrix](#cyrix)
-	+ [4.3 AMD](#amd)
-* [5 Software](#software)
-	+ [5.1 Operating Systems](#operating-systems)
-	+ [5.2 Development](#development)
-		- [5.2.1 Assembly](#assembly)
-		- [5.2.2 Pascal](#pascal)
-		- [5.2.3 C-Compiler](#c-compiler)
-* [6 Extensions](#extensions)
-* [7 Manuals](#manuals)
-	+ [7.1 Intel](#intel-2)
-	+ [7.2 AMD](#amd-2)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-	+ [9.1 Assembly](#assembly-2)
-	+ [9.2 Modes](#modes)
-	+ [9.3 Instruction Sets](#instruction-sets)
-	+ [9.4 Bugs](#bugs)
-	+ [9.5 Security Vulnerability](#security-vulnerability)
-* [10 References](#references)
-
-
-
-
-
-
-A lot of commercial and amateur [PC](IBM_PC "IBM PC") chess programs, notably under the operating systems [MS-DOS](MS-DOS "MS-DOS") and later [Windows](Windows "Windows") and [Linux](Linux "Linux"), were developed for this widespread architecture, often taking advantage of 32-bit registers and new instructions, for instance **bsf** and **btr** for [bitscanning](BitScan "BitScan") 2 \* 32-bit [Bitboards](Bitboards "Bitboards") and 32-bit [Piece-Sets](Piece-Sets "Piece-Sets"). Those instructions were usually not available through high level programming languages, but through [Assembly](Assembly "Assembly") language, later often as [inline assembly](Assembly#InlineAssembly "Assembly") of various high level language compilers, for instance [Microsoft Visual C](https://en.wikipedia.org/wiki/Visual_C%2B%2B) and the [GNU C Compiler](Free_Software_Foundation#GCC "Free Software Foundation"). Under the 16-bit [real mode](https://en.wikipedia.org/wiki/Real_mode) operating system MS-DOS, it was quite common in chess programming to use the [unreal mode](https://en.wikipedia.org/wiki/Unreal_mode) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> to allocate much more physical [memory](Memory "Memory") for the [Transposition Table](Transposition_Table "Transposition Table"), the 16 bit operating system, not aware of the huge address space, could access. Other DOS programs relied on [memory extenders](https://en.wikipedia.org/wiki/DOS_extender).
-
-
-
 ## Architectures
 
 

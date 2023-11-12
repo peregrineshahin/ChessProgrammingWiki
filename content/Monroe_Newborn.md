@@ -15,54 +15,6 @@ In 1970 Monty Newborn and [Ben Mittman](Ben_Mittman "Ben Mittman") initiated, co
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Biography](#biography)
-* [3 Quotes](#quotes)
-* [4 See also](#see-also)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 1973 ...](#1973-...)
-	+ [5.2 1975 ...](#1975-...)
-	+ [5.3 1980 ...](#1980-...)
-	+ [5.4 1985 ...](#1985-...)
-	+ [5.5 1990 ...](#1990-...)
-	+ [5.6 1995 ...](#1995-...)
-	+ [5.7 2000 ...](#2000-...)
-	+ [5.8 2005 ...](#2005-...)
-	+ [5.9 2010 ...](#2010-...)
-	+ [5.10 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbda5f95) 
-Tournament organizers Monty Newborn and [Ben Mittman](Ben_Mittman "Ben Mittman") (front) with ACM president  
-Sam Matsa and [David Slate](David_Slate "David Slate"). [Larry Atkin](Larry_Atkin "Larry Atkin") looks on. [ACM 1970](ACM_1970 "ACM 1970") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . 
-
-
-
- [](http://www.computerhistory.org/collections/accession/102665753) 
-Chess pioneers in [Sacher Hotel Vienna](https://en.wikipedia.org/wiki/Hotel_Sacher), Austria 1980: [Ben Mittman](Ben_Mittman "Ben Mittman"), Monty Newborn, [Tony Marsland](Tony_Marsland "Tony Marsland"),   
-[Dave Slate](David_Slate "David Slate"), [David Levy](David_Levy "David Levy"), [Claude Shannon](Claude_Shannon "Claude Shannon"), [Ken Thompson](Ken_Thompson "Ken Thompson"), Betty Shannon, [Tom Truscott](Tom_Truscott "Tom Truscott") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](http://www.chessbase.com/newsdetail.asp?newsid=5153) 
-[A. Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [B. Stilman](Boris_Stilman "Boris Stilman"), [M. Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [M. Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), Monty & Amy Newborn <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) 
-[Don Beal](Don_Beal "Don Beal"), [Ken Thompson](Ken_Thompson "Ken Thompson"), Monty Newborn, and [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") at the [WCCC 1983](WCCC_1983 "WCCC 1983") in New York City <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ## Biography
 
 

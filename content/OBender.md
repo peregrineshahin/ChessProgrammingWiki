@@ -13,28 +13,6 @@ with recent modifications by [Serg Nifont](index.php?title=Serg_Nifont&action=ed
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Etymology](#etymology)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-OBender [represents the board](Board_Representation "Board Representation") with [8x8 arrays](8x8_Board "8x8 Board") and [piece-lists](Piece-Lists "Piece-Lists"), and applies [negamax](Negamax "Negamax") [PVS](Principal_Variation_Search "Principal Variation Search") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [mate threat extensions](Mate_Threat_Extensions "Mate Threat Extensions"), [check extensions](Check_Extensions "Check Extensions"), [LMR](Late_Move_Reductions "Late Move Reductions") and [quiescence search](Quiescence_Search "Quiescence Search") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. 
-Beside the [transposition table](Transposition_Table "Transposition Table") and a tree structure of [principal variations](Principal_Variation "Principal Variation"), OBender features a [persistent learn file](Persistent_Hash_Table "Persistent Hash Table") and various personalities. [Move ordering](Move_Ordering "Move Ordering") is further enhanced by the [killer heuristic](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), and the [evaluation](Evaluation "Evaluation") takes [material](Material "Material"), [piece squares](Piece-Square_Tables "Piece-Square Tables"), [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), and [mobility](Mobility "Mobility") into account, also considering [attacks](Attacks "Attacks") and [x-ray](X-ray "X-ray") attacks and [pinned pieces](Pin "Pin") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Etymology
 
 

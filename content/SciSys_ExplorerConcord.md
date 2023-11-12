@@ -16,31 +16,6 @@ running at 3.6 MHz. The Explorer had an integrated travel sensory pegboard, whil
 
 
 
-### Contents
-
-
-* [1 Companion II](#companion-ii)
-* [2 Concord](#concord)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Explorer](#explorer)
-	+ [5.2 Companion II](#companion-ii-2)
-	+ [5.3 Concord](#concord-2)
-	+ [5.4 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.chesscomputeruk.com/html/chess_companion_ii.html) SciSys Companion II <a id="cite-note-3" href="#cite-ref-3">[3]</a> 
-The **Companion II** ran at 7.2 MHz and had [permanent brain](Pondering "Pondering") implemented. The computer was released in 1984. 
-A revised version of the **Companion II** was released by [Quelle](https://de.wikipedia.org/wiki/Quelle_(Versandhandel)) in Germany. A model similar to the Companion II was sold by [RadioShack](https://en.wikipedia.org/wiki/RadioShack) as **Tandy 1650** <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Concord
 
 

@@ -16,29 +16,6 @@ feature generation, active learning, learning in [multi-agent systems](https://e
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1988 ...](#1988-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://web.archive.org/web/20040920232849/http://www.cri.haifa.ac.il/events/2002/kasparov/pictures/13.htm) 
-Shaul Markovitch talks on *How Computers Play Chess* at the [Man vs Machine Symposium](Kasparov_versus_Deep_Junior_2003#Symposium "Kasparov versus Deep Junior 2003"), [University of Haifa](https://en.wikipedia.org/wiki/University_of_Haifa), October 2002 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Selected Publications
 
 

@@ -15,26 +15,6 @@ Implementation of this technique requires a [legality check](Legal_Move#Legality
 
 
 
-### Contents
-
-
-* [1 Score Type](#score-type)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-* [Exact Score](Exact_Score "Exact Score")
-* [Lower Bound](Lower_Bound "Lower Bound")
-* [Upper Bound](Upper_Bound "Upper Bound")
-* **Fail Bound** for unsuccessful recognition
-
-
 ## See also
 
 

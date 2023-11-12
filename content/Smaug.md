@@ -14,25 +14,6 @@ Along with some emotional forum discussions on [derivatives](Category:Derivative
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Glaurung](Glaurung "Glaurung")
-* [Stockfish](Stockfish "Stockfish")
-
-
 ## Forum Posts
 
 

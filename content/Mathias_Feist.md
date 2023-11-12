@@ -15,24 +15,6 @@ At two [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"), [1996](Aegon_
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://en.chessbase.com/post/man-vs-machine-shocker-kramnik-allows-mate-in-one) 
-Mathias Feist still can't believe what has happened in [Kramnik versus Deep Fritz 2006](Kramnik_versus_Deep_Fritz_2006 "Kramnik versus Deep Fritz 2006") game 2 <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Selected Publications
 
 

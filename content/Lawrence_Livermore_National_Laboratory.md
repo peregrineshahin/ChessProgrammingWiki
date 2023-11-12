@@ -12,26 +12,6 @@ an American federal research facility in [Livermore](https://en.wikipedia.org/wi
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Associated Chess Programs and Authors](#associated-chess-programs-and-authors)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Philip Bursky](Philip_Bursky "Philip Bursky")
-* [John K. Dixon](John_K._Dixon "John K. Dixon")
-* [Bill Gosper](Bill_Gosper "Bill Gosper")
-* [Harry Nelson](Harry_Nelson "Harry Nelson")
-* [James R. Slagle](James_R._Slagle "James R. Slagle")
-
-
 ## Associated Chess Programs and Authors
 
 

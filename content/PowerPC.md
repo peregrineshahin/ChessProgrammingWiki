@@ -12,38 +12,6 @@ a [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) [archi
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Generations](#generations)
-	+ [2.1 G1 and G2](#g1-and-g2)
-	+ [2.2 G3 and G4](#g3-and-g4)
-	+ [2.3 G5](#g5)
-* [3 Chess Programs](#chess-programs)
-* [4 Operating Systems](#operating-systems)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-	+ [8.1 Architectures](#architectures)
-	+ [8.2 Processors](#processors)
-		- [8.2.1 32-bit](#32-bit)
-		- [8.2.2 64-bit](#64-bit)
-	+ [8.3 Assembly](#assembly)
-	+ [8.4 Calling Conventions](#calling-conventions)
-	+ [8.5 MISC](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-Derived from the 1990 [IBM POWER ISA](https://en.wikipedia.org/wiki/IBM_POWER_Instruction_Set_Architecture) with its [POWER1](https://en.wikipedia.org/wiki/POWER1) and [POWER2](https://en.wikipedia.org/wiki/POWER2) processors, the PowerPC architecture added 64-bit specification that is backward compatible with the 32-bit mode <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and support for both [big-endian](Big-endian "Big-endian") and [little-endian](Little-endian "Little-endian") operation modes. 32-bit code will run natively unmodified on a 64-bit chip <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In the late 90s, PowerPC was extended by the 64-bit only **PowerPC-AS** ISA, and with advent of IBM's [POWER4](https://en.wikipedia.org/wiki/POWER4), PowerPC subsequently incorporated into the broader ISA superset and registered trademark governed by [Power.org](https://en.wikipedia.org/wiki/Power.org), the [Power Architecture](https://en.wikipedia.org/wiki/Power_Architecture) and POWER ISA. PowerPC CPUs have 32 general purpose registers, each either 32 bits or 64 bits in size depending on the chip, labelled r0 through r31. Integer instructions include [Count Leading Zeros](BitScan#LeadingZeroCount "BitScan") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, starting at the most significant bit with number 0 aka big-endian bit emumeration <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Generations
 
 

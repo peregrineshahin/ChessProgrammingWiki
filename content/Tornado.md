@@ -12,64 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Engin Üstün](Engin_%C3%9Cst%C3%
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2009](#2009)
-	+ [4.2 2010 ...](#2010-...)
-	+ [4.3 2015 ...](#2015-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Magic Bitboards](Magic_Bitboards "Magic Bitboards")
-* [Multi-Threaded Search](Parallel_Search "Parallel Search") up to 64 cores
-* [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-* [Principal Variation Search](Principal_Variation_Search "Principal Variation Search")
-* [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
-* [Transposition Table](Transposition_Table "Transposition Table")
-* [Selectivity](Selectivity "Selectivity")
-	+ [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") with [Verification](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning")
-	+ [Razoring](Razoring "Razoring")
-	+ [History Leaf Pruning](History_Leaf_Pruning "History Leaf Pruning")
-	+ [Futility Pruning](Futility_Pruning "Futility Pruning")
-	+ [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
-	+ [Check Extensions](Check_Extensions "Check Extensions")
-	+ [One Reply Extensions](One_Reply_Extensions "One Reply Extensions")
-	+ [Singular Extensions](Singular_Extensions "Singular Extensions")
-	+ [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions") (either after establishing a new passer after a [capture](Captures "Captures"), or [push](Pawn_Push "Pawn Push") to the 7th rank)
-* [Move Ordering](Move_Ordering "Move Ordering")
-	+ [Hash Move](Hash_Move "Hash Move")
-	+ [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
-	+ [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
-	+ [MVV/LVA](MVV-LVA "MVV-LVA")
-	+ [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
-	+ [History Heuristic](History_Heuristic "History Heuristic")
-* [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases")
-* [Evaluation](Evaluation "Evaluation")
-	+ [NNUE](NNUE "NNUE") (Tornado NNUE)
-
-
-  
-
-
-
-
 ## Selected Games
 
 

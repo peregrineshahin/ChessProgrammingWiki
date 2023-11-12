@@ -10,26 +10,6 @@ a chess program by [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé"), written in [C](
 
 
 
-### Contents
-
-
-* [1 Block Diagram](#block-diagram)
-* [2 Hardware vs. Software](#hardware-vs.-software)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](File:FPGAChessSquares.JPG) 
-A block diagram of a chess square with transmitter (TX) and the receiver (RX) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Hardware vs. Software
 
 

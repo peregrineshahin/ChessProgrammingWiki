@@ -20,32 +20,6 @@ Still in the 80's, [Fidelity Electronics](Fidelity_Electronics "Fidelity Electro
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Milton Bradley Phantom](#milton-bradley-phantom)
-	+ [4.2 Milton Bradley](#milton-bradley)
-	+ [4.3 Phantom](#phantom)
-	+ [4.4 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Excalibur Mirage](Excalibur_Mirage "Excalibur Mirage")
-* [Excalibur Phantom Force](Excalibur_Phantom_Force "Excalibur Phantom Force")
-* [Fidelity Phantom](Fidelity_Phantom "Fidelity Phantom")
-* [Robot Adversary](Robot_Adversary "Robot Adversary")
-* [Robots](Robots "Robots")
-* [Novag 2Robot](index.php?title=Novag_2Robot&action=edit&redlink=1 "Novag 2Robot (page does not exist)")
-
-
 ## Publications
 
 

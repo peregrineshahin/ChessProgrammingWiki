@@ -12,26 +12,6 @@ an [UCI](UCI "UCI") compliant, experimental [open source chess engine](Category:
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[Rocinante](https://en.wikipedia.org/wiki/Rocinante) is [Don Quixote's](https://en.wikipedia.org/wiki/Don_Quixote) horse in the novel *[The Ingenious Gentleman Don Quixote of La Mancha](https://en.wikipedia.org/wiki/Don_Quixote)* by [Miguel de Cervantes](https://en.wikipedia.org/wiki/Miguel_de_Cervantes). In many ways, Rocinante is not only Don Quixote's horse, but also his [double](https://en.wikipedia.org/wiki/Double): like Don Quixote, he is awkward, past his prime, and engaged in a task beyond his capacities. Rocín in [Spanish](https://en.wikipedia.org/wiki/Spanish_language) means a [work horse](https://en.wikipedia.org/wiki/Draft_horse) or low-quality horse, but can also mean an illiterate or rough man. The name is a complex pun. In Spanish, [ante](https://en.wiktionary.org/wiki/ante) has several meanings and can function as a standalone word as well as a [suffix](https://en.wikipedia.org/wiki/Suffix). One meaning is "before" or "previously". Another is "in front of". As a suffix, [-ante](https://en.wiktionary.org/wiki/-ante#Spanish) in Spanish is [adverbial](https://en.wikipedia.org/wiki/Adverbial); rocinante refers to functioning as, or being, a rocín. "Rocinante," then, follows Cervantes' pattern using ambiguous, multivalent words, common throughout the novel <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## See also
 
 

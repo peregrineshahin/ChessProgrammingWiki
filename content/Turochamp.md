@@ -13,40 +13,6 @@ Turochamp incorporated important methods of [evaluation](Evaluation "Evaluation"
 
 
 
-### Contents
-
-
-* [1 Chess](#chess)
-* [2 The Essential Turing](#the-essential-turing)
-* [3 Evaluation Features](#evaluation-features)
-* [4 Programming trials](#programming-trials)
-* [5 Turochamp vs. Glennie](#turochamp-vs.-glennie)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-In his 1953 paper 'Chess' in [Bowden's](https://en.wikipedia.org/wiki/B._V._Bowden,_Baron_Bowden) *Faster Than Thought* <a id="cite-note-6" href="#cite-ref-6">[6]</a>, Turing defines [evaluation features](Evaluation "Evaluation"), and elaborates on [minimax strategy](Minimax "Minimax"), [variable look-ahead](Selectivity "Selectivity"), [quiescence](Quiescence_Search "Quiescence Search") and even [learning](Learning "Learning") as an early example of a [genetic algorithm](Genetic_Programming "Genetic Programming"). He does not explicitly mention the name Turochamp, but the 'Machine', and its game versus a human. [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) in *The Essential Turing*, 2004 <a id="cite-note-7" href="#cite-ref-7">[7]</a> on Turing's paper:
-
-
-
-
-```C++
-Turing says that the system of rules set out in 'Chess' is based on an '[introspective](https://en.wikipedia.org/wiki/Introspection) analysis' of his own [thought process](https://en.wikipedia.org/wiki/Thought) when playing (but with 'considerable simplifications'). His system anticipates much that has become standard in chess programming: the use of heuristics to guide the [search](Search "Search") through the [tree](Search_Tree "Search Tree") of possible [moves](Moves "Moves") and counter-moves; the use of [evaluation](Evaluation "Evaluation") rules which assign [numerical values](Score "Score"), indicative of strength or weakness, to [board configurations](Chess_Position "Chess Position"); the minimax strategy; and variable look-ahead whereby, instead of the consequences of every possible move being followed equally far, the 'more profitable moves are considered in greater detail than the less'. Turing also realized the necessity of using 'an entirely different system for the [end-game](Endgame "Endgame")'.
-
-```
-
-
-```C++
-The [learning](Learning "Learning") procedure that Turing proposed in 'Chess' involves the machine trying out variations in its method of play - e.g. varying the numerical values that are assigned to the various pieces. The machine adopts any variation that leads to more satisfactory results. This procedure is an early example of a [genetic algorithm](Genetic_Programming "Genetic Programming"). 
-
-```
-
 ## The Essential Turing
 
 

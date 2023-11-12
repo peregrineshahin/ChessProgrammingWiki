@@ -16,27 +16,6 @@ In collaboration with [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oak
 
 
 
-### Contents
-
-
-* [1 Learning in Games](#learning-in-games)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1985 ...](#1985-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro"), Terrence Sejnowski worked and published on neural networks applied to [Backgammon](Backgammon "Backgammon") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and along with [Nicol N. Schraudolph](Nicol_N._Schraudolph "Nicol N. Schraudolph") and [Peter Dayan](Peter_Dayan "Peter Dayan") on [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") to evaluate positions in [Go](Go "Go") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

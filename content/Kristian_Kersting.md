@@ -15,30 +15,6 @@ His main research interests are in [statistical relational learning](https://en.
 
 
 
-### Contents
-
-
-* [1 CrazyAra](#crazyara)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") at TU Darmstadt, Kristian Kersting led the *Deep Learning: Methods and Architectures* course in 2018, and supported his students [Johannes Czech](Johannes_Czech "Johannes Czech"), [Moritz Willig](Moritz_Willig "Moritz Willig") and [Alena Beyer](Alena_Beyer "Alena Beyer") in developing 
-the deep learning [chess variant](Chess#Variants "Chess") engine [CrazyAra](CrazyAra "CrazyAra"), which won a five game [Crazyhouse](Crazyhouse "Crazyhouse") online-match versus [Justin Tan](https://en.wikipedia.org/wiki/Justin_Tan) aka JannLee with 4-1 
-<a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-Subsequently, he worked with his students Johannes Czech and [Patrick Korus](Patrick_Korus "Patrick Korus") on an improvement of [AlphaZero's](AlphaZero "AlphaZero") [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") / [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin") algorithm considering [transpositions](Transposition "Transposition"), optionally applied in CrazyAra.
-The proposed **Monte-Carlo Graph Search** uses a [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG) rather than a [tree structure](https://en.wikipedia.org/wiki/Tree_structure) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Publications
 
 

@@ -22,26 +22,6 @@ r4rk1/ppp2ppp/3p2n1/8/4P3/2N5/PPP2PPP/2KRR3 w - -
  |
 
 
-### Contents
-
-
-* [1 On a Half-open file](#on-a-half-open-file)
-* [2 Occupying Holes](#occupying-holes)
-* [3 Factors influencing score](#factors-influencing-score)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch) defined outposts as [squares](Squares "Squares") on a [half-open file](Half-open_File "Half-open File") on the opponent's half of the board, defended by own pawns. The logic between such a placement was to entice the opponent to attack such a piece by a pawn, thereby weakening the pawn standing on that half-open file. In [My System](https://en.wikipedia.org/wiki/Mein_System) knight and [rook](Rook "Rook") outposts were mentioned - the former occurred in the [center](Center "Center"), the latter - on the wing. One game commentary mentions also "a diagonal outpost", though this subject is not expanded.
-
-
-
 ## Occupying Holes
 
 

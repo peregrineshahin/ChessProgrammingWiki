@@ -12,31 +12,6 @@ a Dutch retired IT professional and analyst, and in the 80s as chess programmer 
 
 
 
-### Contents
-
-
-* [1 Gabmol](#gabmol)
-* [2 Microtrend](#microtrend)
-* [3 Gambiet](#gambiet)
-* [4 Photos](#photos)
-* [5 GambitVB](#gambitvb)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-Inspired by the the book *[Sargon](Sargon "Sargon"): A Computer Chess Program* by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen")
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
-Wim Rens started chess programming in early 1979. His first program dubbed *Gabmol*, written in [Z80](Z80 "Z80") [assembly](Assembly "Assembly") language for the [TRS-80](TRS-80 "TRS-80") home computers, 
-made some publicity in the Netherlands when it won a match versus [Peter van Diepen's](Peter_van_Diepen "Peter van Diepen") program [IGM](IGM "IGM") which ran on a [UNIVAC 418 III](UNIVAC_418 "UNIVAC 418")
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Microtrend
 
 

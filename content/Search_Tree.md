@@ -13,33 +13,6 @@ Opposed to the wooden [plants](https://en.wikipedia.org/wiki/Tree), which are du
 
 
 
-### Contents
-
-
-* [1 Alpha-Beta Tree](#alpha-beta-tree)
-* [2 Topology](#topology)
-* [3 Transpositions](#transpositions)
-* [4 Cycles](#cycles)
-* [5 Tree walk](#tree-walk)
-* [6 Minimal Search Trees](#minimal-search-trees)
-	+ [6.1 Minimal Alpha-Beta Tree](#minimal-alpha-beta-tree)
-	+ [6.2 Minimal PV Tree](#minimal-pv-tree)
-* [7 See also](#see-also)
-* [8 Publications](#publications)
-* [9 Forum Posts](#forum-posts)
-* [10 External Links](#external-links)
-* [11 References](#references)
-
-
-
-
-
-
- [](http://www.ics.uci.edu/%7Eeppstein/180a/970422.html) 
-An [Alpha-Beta](Alpha-Beta "Alpha-Beta") Search Tree <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Topology
 
 

@@ -12,20 +12,6 @@ a Danish software developer, computer chess programmer and along with by [openin
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 20o0 ...](#20o0-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 20o0 ...
 
 

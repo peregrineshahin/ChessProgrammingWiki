@@ -16,32 +16,6 @@ He further developed the [ChessBase](ChessBase_(Database) "ChessBase (Database)"
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-13" href="#cite-ref-13">[13]</a>
-
-
-
-* Lars Rasmussen (**1987**). *Correcting grandmasters' Analyses in Elementary Endgames*. [ICCA Journal, Vol. 10, No. 4](ICGA_Journal#10_4 "ICGA Journal")
-* Lars Rasmussen (**1988**). *Ultimates in KQKR and KRKN*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-* Lars Rasmussen (**1988**). *A Database for KRKP*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
-* Lars Rasmussen (**1988**). *[Endgame Research](https://www.newinchess.com/Lars_Rasmussen-aa-1088.html)*. [New in Chess](https://en.wikipedia.org/wiki/New_In_Chess), 1988/3
-* [David Forthoffer](David_Forthoffer "David Forthoffer"), Lars Rasmussen, [Sito Dekker](Sito_Dekker "Sito Dekker") (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-* Lars Rasmussen (**1991 - 2000**). *Mutual Zugzwang Results*. (various) [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29)
-* Lars Rasmussen (**1992**). *Queen versus Rook and Pawn*. [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
-
-
 ## Forum Posts
 
 

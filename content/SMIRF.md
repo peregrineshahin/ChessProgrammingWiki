@@ -14,29 +14,6 @@ A technique dubbed *adaptive recursive feed-back* implements a kind of [closed l
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2004](#2004)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.geocities.ws/smirf.chess/) 
-SMIRF [GUI](GUI "GUI") with 10x8 Board <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

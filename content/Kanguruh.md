@@ -15,28 +15,6 @@ Kanguruh played four [Australasian National Computer Chess Championships](Austra
 
 
 
-### Contents
-
-
-* [1 Descriptions](#descriptions)
-	+ [1.1 2003](#2003)
-	+ [1.2 2004](#2004)
-	+ [1.3 2005](#2005)
-	+ [1.4 2006](#2006)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-		- [4.2.1 Macropodidae](#macropodidae)
-		- [4.2.2 Court](#court)
-* [5 References](#references)
-
-
-
-
-
-
 ### 2003
 
 

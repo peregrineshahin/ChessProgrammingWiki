@@ -8,32 +8,6 @@ CPW was founded by [Mark Lefler](Mark_Lefler "Mark Lefler") on October 26, 2007 
 
 
 
-### Contents
-
-
-- [Basics](#basics)
-- [Principal Topics](#principal-topics)
-- [Lists](#lists)
-- [Miscellaneous](#miscellaneous)
-- [Statistics](#statistics)
-- [Thanks](#thanks)
-- [References](#references)
-
-
-
-
-
-
-Topics people search/discuss much
-
-
-
-* [Stockfish](Stockfish "Stockfish")
-* [NNUE](NNUE "NNUE")
-* [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-* [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
-
-
 ## Basics
 
 

@@ -10,41 +10,6 @@ a data structure to [collect](https://en.wikipedia.org/wiki/Collection_%28abstra
 
 
 
-### Contents
-
-
-* [1 Forward List](#forward-list)
-	+ [1.1 Iteration](#iteration)
-	+ [1.2 Lookup](#lookup)
-	+ [1.3 Insertion](#insertion)
-	+ [1.4 Removal](#removal)
-	+ [1.5 Keeping a Tail](#keeping-a-tail)
-* [2 Doubly Linked List](#doubly-linked-list)
-* [3 Linked Lists in Programming Languages](#linked-lists-in-programming-languages)
-* [4 Lists in Computer Chess](#lists-in-computer-chess)
-* [5 See also](#see-also)
-* [6 External Links](#external-links)
-	+ [6.1 C++](#c.2b.2b)
-	+ [6.2 Java](#java)
-	+ [6.3 Lisp](#lisp)
-	+ [6.4 Perl](#perl)
-	+ [6.5 Python](#python)
-	+ [6.6 Ruby](#ruby)
-	+ [6.7 TCL](#tcl)
-	+ [6.8 .NET](#.net)
-	+ [6.9 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-[ <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-A forward list or **singly linked** list consists of one reference per node to the next element. A **head** reference is used to indicate the first element of the list, and in linear lists the last node is linked to a terminator used to signify the end of the list, either a [sentinel value](https://en.wikipedia.org/wiki/Sentinel_value) like a [null-pointer](https://en.wikipedia.org/wiki/Null_pointer#Null_pointer) in [C](C "C") or a [sentinel node](https://en.wikipedia.org/wiki/Sentinel_node) with a terminator symbol in its data field. Another convention is to refer the first node from the last node for a so called circular or circularly linked list, opposed to the open or linear list. 
-
-
-
 ### Iteration
 
 

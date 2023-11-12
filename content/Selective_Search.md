@@ -13,23 +13,6 @@ As announced in July 2016 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Eric H
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Dedicated Chess Computers](Dedicated_Chess_Computers "Dedicated Chess Computers")
-* [Selectivity](Selectivity "Selectivity")
-
-
 ## Forum Posts
 
 

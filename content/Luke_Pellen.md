@@ -13,23 +13,6 @@ In 1999 he started to develop the chess playing [neural networks](Neural_Network
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Luke Pellen (**2008**). *[How not to Imitate a Human Being](https://link.springer.com/chapter/10.1007/978-1-4020-6710-5_25)*. Chapter 25 in [Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein), Gary Roberts, Grace Beber (eds.) (**2008**). *[Parsing the Turing Test](https://link.springer.com/book/10.1007%2F978-1-4020-6710-5)*. Philosophical and Methodological Issues in the Quest for the Thinking Computer, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-* Luke Pellen (**2013**). *[God Bless Kepsy Boam](https://www.amazon.co.uk/Bless-Kepsy-Boam-Luke-Pellen-ebook/dp/B004WG4I7O)*. [Kindle Edition](https://en.wikipedia.org/wiki/Amazon_Kindle)
-
-
 ## Forum Posts
 
 

@@ -10,29 +10,6 @@ a [Windows](Windows "Windows") [command line](CLI "CLI") utility written by [Odd
 
 
 
-### Contents
-
-
-* [1 Engines](#engines)
-* [2 See also](#see-also)
-* [3 Postings](#postings)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Utility](#chess-utility)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [UCI Engines](Category:UCI "Category:UCI")
-* [WinBoard Engines](Category:WinBoard "Category:WinBoard")
-* [XBoard Engines](Category:XBoard "Category:XBoard")
-
-
 ## See also
 
 

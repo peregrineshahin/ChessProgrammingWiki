@@ -17,25 +17,6 @@ and along with [François Karr](Fran%C3%A7ois_Karr "François Karr") co-author o
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2005 ...](#2005-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 2005 ...
 
 

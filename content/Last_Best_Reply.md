@@ -14,28 +14,6 @@ title: Last Best Reply
 
 ```
 
-### Contents
-
-
-* [1 The Idea](#the-idea)
-* [2 Implementation](#implementation)
-* [3 Variants](#variants)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
-At each [node](Node "Node") in a search where there is a prior non-null move, the [best move](Best_Move "Best Move") for that node is stored along with the prior move in an LBR (Last Best Reply) data store for the [ply](Ply "Ply") of the node. At move ordering time in all nodes, there are a first and a possible second move match operation. For the first match operation, the LBR data store for the current ply is examined for a match of the current prior move. If a match of the LBR stored prior move is made, then a second match operation is performed. In the second match operation, the generated moves at the node are scanned for a match with the LBR stored reply for the prior move. If this second match exists, the corresponding generated move is given a move ordering bonus so that it might be considered early in the move scan for the current node.
-
-
-Unlike the Countermove heuristic, the LBR approach also uses the [moving man](Pieces "Pieces"), the [captured man](Captures "Captures") (if any) and the move special case (e.g., [en passant](En_passant "En passant"), [promotion](Promotions "Promotions")) for matching purposes. This means a less frequent match but a more appropriate match when one is made.
-
-
-
 ## Implementation
 
 

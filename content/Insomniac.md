@@ -12,27 +12,6 @@ a chess program written by [James Robertson](James_Robertson "James Robertson") 
 
 
 
-### Contents
-
-
-* [1 Selectivity](#selectivity)
-* [2 Tournament Play](#tournament-play)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Insomniac used various [fractional extensions](Extensions#FractionalExtensions "Extensions") like [one-reply-to-check extensions](One_Reply_Extensions "One Reply Extensions"), and [extends](Check_Extensions "Check Extensions") half a ply whenever there is a check in the tree <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Concerning [mate extensions](Null_Move_Pruning#ThreatDetection "Null Move Pruning") after [null move](Null_Move_Pruning "Null Move Pruning"), there were some early problems with scores in the mate range <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-presumably due to [failing-hard](Fail-Hard "Fail-Hard"). 
-
-
-
 ## Tournament Play
 
 

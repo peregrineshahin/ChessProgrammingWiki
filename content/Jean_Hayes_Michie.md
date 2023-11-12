@@ -12,24 +12,6 @@ was a British AI scientist, research associate at [University of Edinburgh](Univ
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:HayesMichie1984.JPG) 
-Jean Hayes Michie and [Donald Michie](Donald_Michie "Donald Michie"), Edinburgh 1984 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Publications
 
 

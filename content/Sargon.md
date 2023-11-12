@@ -15,45 +15,6 @@ After first tournament successes in 1978, at [The Second West Coast Computer Fai
 
 
 
-### Contents
-
-
-* [1 MOS Technology](#MOS_Technology)
-* [2 Sargon II](#Sargon_II)
-* [3 Sargon III](#Sargon_III)
-* [4 Photos & Games](#Photos_.26_Games)
-	+ [4.1 Mike](#Mike)
-	+ [4.2 Awit](#Awit)
-* [5 See also](#See_also)
-* [6 Pages with Spracklen Quotes](#Pages_with_Spracklen_Quotes)
-* [7 Publications](#Publications)
-	+ [7.1 1978 ...](#1978_...)
-	+ [7.2 1980 ...](#1980_...)
-	+ [7.3 2000 ...](#2000_...)
-* [8 Forum Posts](#Forum_Posts)
-	+ [8.1 1989](#1989)
-	+ [8.2 1990 ...](#1990_...)
-	+ [8.3 2000 ...](#2000_..._2)
-	+ [8.4 2010 ...](#2010_...)
-	+ [8.5 2020 ...](#2020_...)
-* [9 External Links](#External_Links)
-	+ [9.1 Sargon II](#Sargon_II_2)
-	+ [9.2 Sargon III](#Sargon_III_2)
-	+ [9.3 Sargon 4](#Sargon_4)
-	+ [9.4 Sargon 5](#Sargon_5)
-	+ [9.5 Misc](#Misc)
-* [10 References](#References)
-
-
-
-
-
-
-**Sargon I** was already ported to the [Apple II](Apple_II "Apple II") by [Kathe Spracklen's](Kathe_Spracklen "Kathe Spracklen") brother, Gary Shannon [[9]](#cite_note-9). Despite its lower frequency, they found the [6502](6502 "6502") the much better processor for their program than the Z80, and soon the [MOS Technology](https://en.wikipedia.org/wiki/MOS_Technology) processor became the major target platform.
-
-
-
-
 ## Sargon II
 
 

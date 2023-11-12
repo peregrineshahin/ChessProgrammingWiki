@@ -17,24 +17,6 @@ using [multilayer perceptrons](Neural_Networks#Deep "Neural Networks") versus [c
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2013 ...](#2013-...)
-	+ [1.2 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 2013 ...
 
 

@@ -12,27 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos](#photos)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Tytan relies on [bitboards](Bitboards "Bitboards") and otherwise uses standard techniques like [alpha-beta](Alpha-Beta "Alpha-Beta"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [transposition table](Transposition_Table "Transposition Table"), [quiescence search](Quiescence_Search "Quiescence Search"), [pondering](Pondering "Pondering"), [futility pruning](Futility_Pruning "Futility Pruning"), [history heuristics](History_Heuristic "History Heuristic"), [lazy evaluation cutoff](Lazy_Evaluation "Lazy Evaluation"), and has an own [opening book](Opening_Book "Opening Book") and supports [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-
-
-
 ## Tournament Play
 
 

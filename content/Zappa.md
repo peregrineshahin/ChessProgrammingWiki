@@ -12,51 +12,6 @@ an [UCI](UCI "UCI") compliant chess program developed by [Anthony Cozzie](Anthon
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Etymology](#etymology)
-* [3 Strictly Commercial](#strictly-commercial)
-* [4 Program Internals](#program-internals)
-	+ [4.1 Board Representation](#board-representation)
-	+ [4.2 Hash Collisions](#hash-collisions)
-	+ [4.3 Singular Extensions](#singular-extensions)
-	+ [4.4 Parallel Search](#parallel-search)
-* [5 100% Finished](#100.25-finished)
-* [6 Rondo](#rondo)
-* [7 See also](#see-also)
-* [8 Publications](#publications)
-* [9 Forum Posts](#forum-posts)
-	+ [9.1 2003](#2003)
-	+ [9.2 2004](#2004)
-	+ [9.3 2005 ...](#2005-...)
-	+ [9.4 2010 ...](#2010-...)
-	+ [9.5 2015 ...](#2015-...)
-* [10 External Links](#external-links)
-	+ [10.1 Zappa Chess](#zappa-chess)
-	+ [10.2 Zappa](#zappa)
-* [11 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-[](File:Anthony2005.JPG)
-[Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") before round 7, Zappa - [Junior](Junior "Junior"), [WCCC 2005](WCCC_2005 "WCCC 2005") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
-[](File:ZappaTeam2006.JPG)
-Zappa Team, [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") and [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes"), Closing Dinner [WCCC 2006](WCCC_2006 "WCCC 2006"), [Turin](https://en.wikipedia.org/wiki/Turin)
-
-
-
 ## Etymology
 
 

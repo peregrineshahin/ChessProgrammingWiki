@@ -15,26 +15,6 @@ Along with [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retc
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* José Roberto Mercado Vega, [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](https://dl.acm.org/doi/10.5555/1719293.1719355)*. [CIG'09](https://dl.acm.org/doi/proceedings/10.5555/1719293), [pdf](http://arimaa.com/arimaa/papers/JoseVega/index.pdf) » [Arimaa](Arimaa "Arimaa")
-* José Roberto Mercado Vega, [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *A Linguistic Geometry Model for an Arimaa Bot*. [Neural, Parallel, and Scientific Computations](https://www.scimagojr.com/journalsearch.php?q=24805&tip=sid), Vol. 17, [pdf](http://www.dynamicpublishers.com/Neural/NPSC2009/18-NPSC.pdf)
-
-
 ## External Links
 
 

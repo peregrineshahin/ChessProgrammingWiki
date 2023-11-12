@@ -12,60 +12,6 @@ a chess variant that evolved directly from [Shatranj](Shatranj "Shatranj"), just
 
 
 
-### Contents
-
-
-* [1 Pieces & Moves](#Pieces_.26_Moves)
-* [2 Shogi Engines](#Shogi_Engines)
-* [3 World Computer Shogi Championship](#World_Computer_Shogi_Championship)
-	+ [3.1 1990 ...](#1990_...)
-	+ [3.2 2000 ...](#2000_...)
-	+ [3.3 2010 ...](#2010_...)
-	+ [3.4 2020 ...](#2020_...)
-* [4 Computer Olympiads](#Computer_Olympiads)
-	+ [4.1 2000 ...](#2000_..._2)
-	+ [4.2 2010 ...](#2010_..._2)
-	+ [4.3 Photos](#Photos)
-		- [4.3.1 Taipei 2005](#Taipei_2005)
-		- [4.3.2 Turin 2006](#Turin_2006)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1990 ...](#1990_..._2)
-	+ [6.2 1995 ...](#1995_...)
-	+ [6.3 2000 ...](#2000_..._3)
-	+ [6.4 2005 ...](#2005_...)
-	+ [6.5 2010 ...](#2010_..._3)
-	+ [6.6 2015 ...](#2015_...)
-	+ [6.7 2020 ...](#2020_..._2)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 2007 ...](#2007_...)
-	+ [7.2 2010 ...](#2010_..._4)
-	+ [7.3 2015 ...](#2015_..._2)
-	+ [7.4 2020 ...](#2020_..._3)
-* [8 External Links](#External_Links)
-	+ [8.1 Shogi](#Shogi)
-	+ [8.2 Computer Shogi](#Computer_Shogi)
-	+ [8.3 Variants](#Variants)
-* [9 References](#References)
-
-
-
-
-
-
-Shogi pieces capture as they move. Promotion is possible with all pieces except King and Gold General - or already promoted pieces with changed move options.
-When such a piece moves to, from or inside (but no [drops](index.php?title=Piece_Drop&action=edit&redlink=1 "Piece Drop (page does not exist)")) the promotion zone, that is the three opponent's back-ranks, it has the option to promote.
-Promotion is mandatory for the forward only pieces of Knight, Lance or Pawn with no more moves after moving to the 9th or 8th (Knight) rank.
-Pieces indicate their promotion state by turning the piece over after the corresponding move, revealing the character of the promoted piece. A drop of a captured piece always appears with the unpromoted side up.
-
-
-
- [](File:ShogiBoardAndPieces.jpg) 
-Shogi board and pieces, together with their starting position and moves [[6]](#cite_note-6)
-
-
-
-
 ## Shogi Engines
 
 

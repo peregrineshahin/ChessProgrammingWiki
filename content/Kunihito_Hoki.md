@@ -16,25 +16,6 @@ a Japanese chemist, computer scientist, and since 2010 Assistant Professor at th
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2005 ...](#2005-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 2005 ...
 
 

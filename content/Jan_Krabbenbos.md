@@ -13,27 +13,6 @@ Jan passed away on December 16, 2022.
 
 
 
-### Contents
-
-
-* [1 Olympiad](#olympiad)
-* [2 Photos](#photos)
-* [3 Publications](#publications)
-	+ [3.1 2009](#2009)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-At the [14th Computer Olympiad, Pamplona 2009](14th_Computer_Olympiad#Connect6 "14th Computer Olympiad"), Jan operated [Theo van der Storm's](Theo_van_der_Storm "Theo van der Storm") [Connect6](Connect6 "Connect6") program [Meinstein](https://www.game-ai-forum.org/icga-tournaments/program.php?id=508) which won the Silver medal, and competed less successful at the [15th Computer Olympiad, Kanazawa 2010](15th_Computer_Olympiad#Connect6 "15th Computer Olympiad") with his own Connect6 program [MakeIt6](https://www.game-ai-forum.org/icga-tournaments/program.php?id=692). At the [16th Computer Olympiad, Tilburg 2011](16th_Computer_Olympiad#EWN "16th Computer Olympiad"), Jan operated MeinStein, [Theo van der Storm's](Theo_van_der_Storm "Theo van der Storm") [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!") program, winning the Gold medal. 
-
-
-
 ## Photos
 
 

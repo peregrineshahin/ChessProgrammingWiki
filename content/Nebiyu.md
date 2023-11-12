@@ -10,24 +10,6 @@ a [general game playing](General_Game_Playing "General Game Playing") engine by 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chess Variants](Chess#Variants "Chess")
-* [General Game Playing](General_Game_Playing "General Game Playing")
-* [Scorpio](Scorpio "Scorpio")
-
-
 ## Forum Posts
 
 

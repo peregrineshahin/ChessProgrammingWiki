@@ -13,26 +13,6 @@ Treebeard comes with an optional [3D Board](3D_Graphics_Board "3D Graphics Board
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Chess Free](index.php?title=Chess_Free&action=edit&redlink=1 "Chess Free (page does not exist)")
-* [MSN Chess](index.php?title=MSN_Chess&action=edit&redlink=1 "MSN Chess (page does not exist)")
-
-
 ## Publications
 
 

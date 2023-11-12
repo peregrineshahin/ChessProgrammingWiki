@@ -10,34 +10,6 @@ an Indian chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, computer 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 Strategic Test Suite](#strategic-test-suite)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [El Chinito](https://www.stmintz.com/ccc/index.php?id=322959) by Swaminathan Natarajan, [CCC](CCC "CCC"), October 22, 2003 » [Chinito](Chinito "Chinito")
-* ["VOYAGER" engine](https://www.stmintz.com/ccc/index.php?id=327820) by Swaminathan Natarajan, [CCC](CCC "CCC"), November 16, 2003 » [Voyager](Voyager "Voyager")
-* [Question to co-Author of Fruit and Chess64, Ryan Benitez](http://www.talkchess.com/forum/viewtopic.php?t=17559) by Swaminathan, [CCC](CCC "CCC"), November 03, 2007 » [Fruit](Fruit "Fruit"), [Chess-64](Chess-64 "Chess-64")
-* [Older Versions of Amyan](http://www.talkchess.com/forum/viewtopic.php?t=24553) by Swaminathan, [CCC](CCC "CCC"), October 24, 2008 » [Amyan](Amyan "Amyan")
-* [SlowChess in ACCA](http://www.talkchess.com/forum/viewtopic.php?t=24831) by Swaminathan, [CCC](CCC "CCC"), November 11, 2008 » [Slow Chess](Slow_Chess "Slow Chess"), [ACCA 2008](ACCA_2008 "ACCA 2008")
-* [Bright 0.4a, Winboard and ICC...](http://www.talkchess.com/forum/viewtopic.php?t=26237) by Swaminathan, [CCC](CCC "CCC"), January 26, 2009 » [Bright](Bright "Bright")
-* [Found 2 New Engines: Protector and BDI Chess](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50337) by Swaminathan, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 16, 2009 » [Protector](Protector "Protector")
-* [STS Elo Estimate 1.0](http://www.talkchess.com/forum/viewtopic.php?p=367721) by Swaminathan, [CCC](CCC "CCC"), August 24, 2010
-* [Opening Books Battle..](http://www.open-chess.org/viewtopic.php?f=3&t=1073) by Swaminathan, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), February 04, 2011
-
-
-
-
-
-
 ## Strategic Test Suite
 
 

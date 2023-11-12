@@ -12,28 +12,6 @@ a German computer chess aficionado, tester, as well as tournament organizer and 
 
 
 
-### Contents
-
-
-* [1 Journalist](#journalist)
-* [2 Computer Chess Forums](#computer-chess-forums)
-* [3 BELCT](#belct)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2010 ...](#2010-...)
-	+ [5.2 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-As teenager, Thorsten was already a computer chess enthusiast and collector of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), playing private tournaments. He started to write articles for the German computer chess magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") (**CSS**), but soon had issues about evenhandedness with the responsible CSS editors [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") and [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), which results in cessation of the collaboration and disrespect, as still manifested in Thorsten's own online computer chess magazine Schachcomputerwelt <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Thorsten was a critic of the close relations between CSS, [CSS-Shop](http://www.computerschach.de/shop/index.html?http://www.computerschach.de/shop/xaranshop_53_1.htm) and [ChessBase](ChessBase "ChessBase"), as cause of possible conflict of interests related to independent journalism and test-reports of computer chess products <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Computer Chess Forums
 
 

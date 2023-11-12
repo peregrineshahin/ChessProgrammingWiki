@@ -14,26 +14,6 @@ It is similar to the [Mephisto Polgar](Mephisto_Polgar "Mephisto Polgar") progra
 
 
 
-### Contents
-
-
-* [1 Mephisto Nigel Short](#mephisto-nigel-short)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Computer](#chess-computer)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-The **Mephisto Nigel Short** was shipped in the UK in 1993 - on occasion of the [1993 PCA match](https://en.wikipedia.org/wiki/World_Chess_Championship_1993#1993_PCA_match) between [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Nigel Short](https://en.wikipedia.org/wiki/Nigel_Short) - with an improved program and interchangeable ROM in otherwise identical hardware of the Milano <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## See also
 
 

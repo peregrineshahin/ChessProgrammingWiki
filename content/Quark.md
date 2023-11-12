@@ -15,46 +15,6 @@ It further played multiple [CCT Tournaments](CCT_Tournaments "CCT Tournaments").
 
 
 
-### Contents
-
-
-* [1 Source Code](#source-code)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Quarks first lines, Quote by [Thomas Mayer](Thomas_Mayer "Thomas Mayer") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
-
-
-
-
-```C++
-
-//-----------------------------------------------------------------------------------
-// QuarkChess
-//-----------------------------------------------------------------------------------
-// My First Program in C++
-//-----------------------------------------------------------------------------------
-// Author : Thomas Mayer
-// eMail  : thomas.j.mayer@t-online.de
-// startet: 9th November 2000
-// Previous versions: Some PommiChess - Basic and Pascal... Back to 1985
-//-----------------------------------------------------------------------------------
-// Current Version: 1.68alpha
-//-----------------------------------------------------------------------------------
-// Last Change: 7th January 2002
-//-----------------------------------------------------------------------------------
-
-```
-
 ## See also
 
 

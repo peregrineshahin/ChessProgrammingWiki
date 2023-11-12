@@ -14,33 +14,6 @@ his research focused on [natural language processing](https://en.wikipedia.org/w
 
 
 
-### Contents
-
-
-* [1 Shogi](#shogi)
-* [2 NNUE](#nnue)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Along with [Hisayori Noda](Hisayori_Noda "Hisayori Noda") (Nodchip), [Jun Okabe](Jun_Okabe "Jun Okabe"), [Takahiro Suzuki](index.php?title=Takahiro_Suzuki&action=edit&redlink=1 "Takahiro Suzuki (page does not exist)"), [Masatoshi Hidaka](Masatoshi_Hidaka "Masatoshi Hidaka"), and at times [Akio Kono](index.php?title=Akio_Kono&action=edit&redlink=1 "Akio Kono (page does not exist)"),
-Yu Nasu was member of *The Minstrel's Ballad: Tanuki's Reign*
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-and subsequently is member of the *Ziosoft Computer Shogi Club*, developing and representing the Shogi playing entities *Shouten Gensou Knights of Tanuki* ([2017](index.php?title=WCSC27&action=edit&redlink=1 "WCSC27 (page does not exist)"), derived from *Yaneura King* by [Motohiro Isozaki](Motohiro_Isozaki "Motohiro Isozaki") aka Yaneurao) 
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>, 
-*the end of genesis T.N.K.evolution turbo type D*
-<a id="cite-note-7" href="#cite-ref-7">[7]</a>
-<a id="cite-note-8" href="#cite-ref-8">[8]</a> and [Tanu-King](index.php?title=Tanu-King&action=edit&redlink=1 "Tanu-King (page does not exist)") at the [WCSC29](index.php?title=WCSC29&action=edit&redlink=1 "WCSC29 (page does not exist)") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. 
-
-
-
 ## [NNUE](NNUE "NNUE")
 
 

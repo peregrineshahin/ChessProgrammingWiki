@@ -10,25 +10,6 @@ an Austrian computer scientist, in the late 70s and 80s affiliated with the [Vie
 
 
 
-### Contents
-
-
-* [1 CDC Assembly](#cdc-assembly)
-* [2 Problems](#problems)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-As mentioned in [Werner DePauli-Schimanovich's](Werner_Schimanovich "Werner Schimanovich") 2006 book *Europolis 6* <a id="cite-note-2" href="#cite-ref-2">[2]</a> and the reprinted paper *Das Schachprogramm Merlin ...* by [Helmut Horacek](Helmut_Horacek "Helmut Horacek") and Marcus Wagner <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Merlin was initially based on the didactic program [Chess 0.5](Chess_0.5 "Chess 0.5") by [Larry Atkin](Larry_Atkin "Larry Atkin") and [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), as published 1978 in [Byte Magazine](Byte_Magazine "Byte Magazine"), also written in [Pascal](Pascal "Pascal") <a id="cite-note-4" href="#cite-ref-4">[4]</a> except some time critical, often called routines, which were re-written in [CDC assembly](Assembly "Assembly") by Wagner.
-
-
-
 ## Problems
 
 

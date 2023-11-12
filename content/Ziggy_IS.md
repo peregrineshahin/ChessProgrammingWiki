@@ -16,25 +16,6 @@ Eiríksson re-investigated multi-cut pruning with Ziggy, and found an enhancemen
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Ziggy](Ziggy "Ziggy") by [Henk Kuyer](Henk_Kuyer "Henk Kuyer") and [Auke Punter](Auke_Punter "Auke Punter")
-
-
 ## Publications
 
 

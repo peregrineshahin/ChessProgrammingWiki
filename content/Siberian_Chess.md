@@ -12,27 +12,6 @@ It was distributed by [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redl
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Siberian Chess <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## See also
 
 

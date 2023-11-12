@@ -13,25 +13,6 @@ he elaborates on [x86](X86 "X86") [assembly](Assembly "Assembly"), [board repres
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1999](#1999)
-	+ [1.2 2000](#2000)
-	+ [1.3 2001](#2001)
-	+ [1.4 2002](#2002)
-	+ [1.5 2003](#2003)
-	+ [1.6 2005 ...](#2005-...)
-	+ [1.7 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1999
 
 

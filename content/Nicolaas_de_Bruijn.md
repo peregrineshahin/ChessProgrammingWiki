@@ -15,25 +15,6 @@ According to De Bruijn himself <a id="cite-note-5" href="#cite-ref-5">[5]</a>, t
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Nicolaas de Bruijn (**1946**). *A Combinatorial Problem*. Koninklijke Nederlandse Akademie v. Wetenschappen 49: 758–764.
-* [Tanja van Ardenne-Ehrenfest](Mathematician#Ehrenfest "Mathematician"), Nicolaas de Bruijn (**1951**). *Circuits and trees in oriented linear graphs*. [pdf](http://alexandria.tue.nl/repository/freearticles/597493.pdf)
-* Nicolaas de Bruijn (**1975**). *Acknowledgment of priority to C. Flye Sainte-Marie on the counting of circular arrangements of 2n zeros and ones that show each n-letter word exactly once*. Technical Report, Technische Hogeschool Eindhoven, [pdf](http://alexandria.tue.nl/repository/books/252901.pdf)
-* Nicolaas de Bruijn (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
-
-
 ## See also
 
 

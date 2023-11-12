@@ -13,24 +13,6 @@ During the 80s, while affiliated with the [California Institute of Technology](h
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1985 ...](#1985-...)
-	+ [2.2 1990 ...](#1990-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Cartoons](Cartoons "Cartoons")
-
-
 ## Selected Publications
 
 

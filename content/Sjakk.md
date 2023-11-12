@@ -14,25 +14,6 @@ Since 2012, Sjakk was ported to [C++](Cpp "Cpp"), as Sjakk v2.0 released on Apri
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Sjaak](Sjaak "Sjaak") by [Ronald de Man](Ronald_de_Man "Ronald de Man")
-* [Sjaak](Sjaak_(Glebbeek) "Sjaak (Glebbeek)") by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek")
-
-
 ## Forum Posts
 
 

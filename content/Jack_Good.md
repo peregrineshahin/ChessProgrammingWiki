@@ -12,42 +12,6 @@ a British statistician and computer pioneer. During [World War II](https://en.wi
 
 
 
-### Contents
-
-
-* [1 Photos](#Photos)
-* [2 Five-Year Plan](#Five-Year_Plan)
-* [3 Theorem-Proving](#Theorem-Proving)
-* [4 Quotes](#Quotes)
-	+ [4.1 Jack Good](#Jack_Good)
-	+ [4.2 David Levy](#David_Levy)
-	+ [4.3 The Times](#The_Times)
-* [5 HAL 9000](#HAL_9000)
-* [6 From Russia with Love](#From_Russia_with_Love)
-* [7 See also](#See_also)
-* [8 Selected Publications](#Selected_Publications)
-	+ [8.1 1939](#1939)
-	+ [8.2 1940 ...](#1940_...)
-	+ [8.3 1950 ...](#1950_...)
-	+ [8.4 1960 ...](#1960_...)
-	+ [8.5 1970 ...](#1970_...)
-	+ [8.6 1980 ...](#1980_...)
-	+ [8.7 1990 ...](#1990_...)
-	+ [8.8 2000 ...](#2000_...)
-* [9 External Links](#External_Links)
-* [10 References](#References)
-
-
-
-
-
-
- [](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) 
-I. J. Good, nearest to camera - [Cheltenham Chronicle](http://www.cheltenham4u.co.uk/community/familyhistory_newspapers.asp). Final of the   
-National Chess Club championship, a telephone match. August 20, 1955 [[7]](#cite_note-7)
-
-
-
 ## Five-Year Plan
 
 

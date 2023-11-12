@@ -15,24 +15,6 @@ Despite embedding its authors name, [Sfinks](http://pl.wikipedia.org/wiki/Sfinks
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Anubis](Anubis "Anubis")
-* [CHEOPS](CHEOPS "CHEOPS")
-* [CXG Sphinx](CXG_Sphinx "CXG Sphinx")
-
-
 ## Publications
 
 

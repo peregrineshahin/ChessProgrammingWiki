@@ -15,22 +15,6 @@ Check out his videos on his [YouTube](https://en.wikipedia.org/wiki/YouTube) Cha
 
 
 
-### Contents
-
-
-* [1 External Links](#external-links)
-* [2 Video Tutorials](#video-tutorials)
-* [3 References](#references)
-
-
-
-
-
-
-* [Jonathan Warkentin Website: LogicCrazy](https://sites.google.com/site/jonathanwarkentinlogiccrazy/)
-* [Orion Chess Engine - Blogger](http://orionchessengine.blogspot.com/)
-
-
 ## Video Tutorials
 
 

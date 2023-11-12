@@ -12,35 +12,6 @@ was a chess program, developed in 1966 and [1967](Timeline#1967 "Timeline") at [
 
 
 
-### Contents
-
-
-* [1 Etymology](#Etymology)
-* [2 Hash Table](#Hash_Table)
-* [3 Type B](#Type_B)
-* [4 Opening book](#Opening_book)
-* [5 Matches](#Matches)
-	+ [5.1 Robert Q](#Robert_Q)
-	+ [5.2 The Dreyfus Match](#The_Dreyfus_Match)
-	+ [5.3 IFIP Match](#IFIP_Match)
-	+ [5.4 ETH-MIT Match](#ETH-MIT_Match)
-	+ [5.5 The 70s](#The_70s)
-* [6 CHEOPS](#CHEOPS)
-* [7 See also](#See_also)
-* [8 Publications](#Publications)
-* [9 Forum Posts](#Forum_Posts)
-* [10 External Links](#External_Links)
-* [11 References](#References)
-
-
-
-
-
-
-The name **Mac Hack VI** comes from [Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC) a large sponsored research program located at MIT. Over time, it became a hack in the sense of [Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution), a book by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy) in which Greenblatt appears. The number VI refers to the PDP-6 machine for which it was written [[5]](#cite_note-5).
-
-
-
 ## Hash Table
 
 

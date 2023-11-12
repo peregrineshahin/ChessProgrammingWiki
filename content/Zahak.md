@@ -16,30 +16,6 @@ Zahak started its first debut in [TCEC](TCEC "TCEC") in Swiss 2 event of S21 <a 
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-	+ [2.4 Misc](#misc)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-Zahak (or Zahhak or Azhi Dahak) is an evil figure in Iranian/Kurdish/Perisan mythology, evident in ancient Iranian folklore as Azhi Dahāka, the name by which he also appears in the texts of the Avesta. Legend has it, that he had two giant snakes on his shoulders and he had to feed them two human brains on daily basis <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Features
 
 

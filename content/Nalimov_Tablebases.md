@@ -12,60 +12,6 @@ are **3**-to-**6**-man endgame tablebases developed by [Eugene Nalimov](Eugene_N
 
 
 
-### Contents
-
-
-* [1 File Sizes](#file-sizes)
-* [2 Savings](#savings)
-* [3 License](#license)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1998 ...](#1998-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-	+ [6.5 2015 ...](#2015-...)
-	+ [6.6 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 General](#general)
-	+ [7.2 Online Lookup](#online-lookup)
-	+ [7.3 Download](#download)
-* [8 References](#references)
-
-
-
-
-
-
-5-man Nalimov Tablebases are about two times smaller than [Edwards' Tablebases](Edwards%27_Tablebases "Edwards' Tablebases") when uncompressed, and about eight times smaller than Edwards' when compressed <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
-
-
-|  Men
- |  Sum of File sizes
- |
-| --- | --- |
-|  3
- |  62
- |  KiB
- |
-|  4
- |  30
- |  MiB
- |
-|  5
- |  7.1
- |  GiB
- |
-|  6
- |  1.2
- |  TiB
- |
-
-
 ## Savings
 
 

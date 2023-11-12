@@ -15,25 +15,6 @@ The [book learning](Book_Learning "Book Learning") feature in LearningLemming is
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-In the 2006-2009 timeframe, LearningLemming played three [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), the [ACCA 2006](ACCA_2006 "ACCA 2006"), the [ACCA 2007](ACCA_2007 "ACCA 2007") (third place, even leading after four rounds <a id="cite-note-4" href="#cite-ref-4">[4]</a>), and the [ACCA 2008](ACCA_2008 "ACCA 2008"), further two [ACCA World Computer Rapid Chess Championship](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and [WCRCC 2009](WCRCC_2009 "WCRCC 2009"), and two [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [CCT9](CCT9 "CCT9") and [CCT10](CCT10 "CCT10").
-
-
-
 ## Selected Games
 
 

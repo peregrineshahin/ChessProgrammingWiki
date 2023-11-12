@@ -14,25 +14,6 @@ He received his MS in physics in 1966 and a Ph.D. in computer science in 1970 at
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1969](#1969)
-	+ [1.2 1970 ...](#1970-...)
-	+ [1.3 1980 ...](#1980-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 1969
 
 

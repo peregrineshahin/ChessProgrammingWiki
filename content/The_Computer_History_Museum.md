@@ -12,27 +12,6 @@ title: The Computer History Museum
 
 
 
-### Contents
-
-
-* [1 Computer History Links](#computer-history-links)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [The Computer History Museum](https://www.computerhistory.org/)
-* [Mastering the Game | Computer History Museum](https://www.computerhistory.org/chess/)
-* [Software Preservation Group](http://www.softwarepreservation.org/)
-* [This Day in History](https://www.computerhistory.org/tdih/)
-* [Hall of Fellows](https://www.computerhistory.org/fellowawards/hall/)
-
-
 ## See also
 
 

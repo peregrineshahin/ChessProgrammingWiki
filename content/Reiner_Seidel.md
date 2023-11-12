@@ -14,27 +14,6 @@ chess player and chess theorist who coined a [scientific](https://en.wikipedia.o
 
 
 
-### Contents
-
-
-* [1 Advances in Computer Chess 5](#advances-in-computer-chess-5)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1985 ...](#1985-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:ACC5.jpg) 
-[Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"): [Berliner](Hans_Berliner "Hans Berliner"), [Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Horacek](Helmut_Horacek "Helmut Horacek"), [De Groot](Adriaan_de_Groot "Adriaan de Groot") and Seidel <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

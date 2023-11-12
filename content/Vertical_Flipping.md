@@ -10,52 +10,6 @@ title: Vertical Flipping
 
 
 
-### Contents
-
-
-* [1 Sample Position](#sample-position)
-* [2 Flipping an 8x8 Board](#flipping-an-8x8-board)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-
-
-|  Original
- |  Vertical Flip
- |  Color Flip
- |
-| --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                                                                                             ♚               ♘♔  ♗                                            |
-
- | 
-
-|  |
-| --- |
-|                                                                                                                                     ♘♔  ♗           ♚        |
-
- | 
-
-|  |
-| --- |
-|                                                                                                                                     ♞♚  ♝           ♔        |
-
- |
-|  k7/8/NK2B3/8/8/8/8/8 w - -
- |  8/8/8/8/8/NK2B3/8/k7 w - -
- |  8/8/8/8/8/nk2b3/8/K7 b - -
- |
-
-
 ## Flipping an 8x8 Board
 
 

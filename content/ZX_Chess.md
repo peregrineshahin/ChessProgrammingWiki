@@ -19,26 +19,6 @@ According to Artic's co-founder *Richard Turner*, Chris Thornton already program
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[](https://www.mobygames.com/game/zx81/zx-chess-i/screenshots/gameShotId,707720/)
-ZX Chess I Screen <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## See also
 
 

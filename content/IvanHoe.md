@@ -12,28 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Screenshot](#screenshot)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Deep Saros](Deep_Saros "Deep Saros")
-* [Fire](Fire "Fire")
-* [Igorrit](Igorrit "Igorrit")
-* [RobboLito](RobboLito "RobboLito")
-
-
 ## Screenshot
 
 

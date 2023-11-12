@@ -15,27 +15,6 @@ Stephen Wheeler was actor in [Andrew Bujalski's](https://en.wikipedia.org/wiki/A
 
 
 
-### Contents
-
-
-* [1 Alpha-Beta Benchmark](#alpha-beta-benchmark)
-	+ [1.1 Purpose of the Study](#purpose-of-the-study)
-	+ [1.2 Procedure](#procedure)
-	+ [1.3 Findings and Conclusions](#findings-and-conclusions)
-* [2 Selected Publications](#selected-publications)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Quote of the abstract of Stephen Wheeler's M.Sc. thesis, as given in the [ICCA Journal](ICGA_Journal#10_1 "ICGA Journal") 1987 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### Purpose of the Study
 
 

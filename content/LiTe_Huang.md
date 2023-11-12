@@ -11,23 +11,6 @@ where he researched with [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") et al. o
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2004](#2004)
-	+ [1.2 2005 ...](#2005-...)
-* [2 References](#references)
-
-
-
-
-
-
-<a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ### 2004
 
 

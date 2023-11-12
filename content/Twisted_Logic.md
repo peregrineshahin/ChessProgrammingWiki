@@ -13,35 +13,6 @@ An early 2007 version is available as [open source](Category:Open_Source "Catego
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2005](#2005)
-	+ [4.2 2006](#2006)
-	+ [4.3 2007](#2007)
-	+ [4.4 2008 ...](#2008-...)
-	+ [4.5 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Twisted Logic played the [WCRCC 2008](WCRCC_2008 "WCRCC 2008") and [WCRCC 2009](WCRCC_2009 "WCRCC 2009"), as well the [CCT10](CCT10 "CCT10") and [CCT11](CCT11 "CCT11"), and over the board the Italian [CCC 2009](CCC_2009 "CCC 2009"). 
-
-
-
 ## Features
 
 

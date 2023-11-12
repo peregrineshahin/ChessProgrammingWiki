@@ -17,23 +17,6 @@ a set of [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 
 
 
-### Contents
-
-
-* [1 Mephisto London](#mephisto-london)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-A software update was available as **Mephisto London** also for older modules in 1994 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, incorporating improvements of the **Genius 3** program which played the [Intel](Intel "Intel") [Grand Prix](Chess_Genius#IntelGrandPrix "Chess Genius") in [London](https://en.wikipedia.org/wiki/London), winning speed chess matches versus [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Predrag Nikolić](https://en.wikipedia.org/wiki/Predrag_Nikoli%C4%87). A few Genius 68030 London tournament machines inside the [Bavaria board](Mephisto_Module_Systems#Bavaria "Mephisto Module Systems") were shipped during the mid 90s <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## See also
 
 

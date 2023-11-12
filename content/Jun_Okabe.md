@@ -12,34 +12,6 @@ where he worked on instruction steering algorithms to improve the a balance of [
 
 
 
-### Contents
-
-
-* [1 Shogi](#shogi)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Jun Okabe is co-author of various [Shogi](Shogi "Shogi") playing programs, and member of their corresponding development teams.
-In 2016, his first Shogi programming involvement was with *Tanuki no Mori* as member of the *Tanuki no Mori Production Committee* 
-along with [Hisayori Noda](Hisayori_Noda "Hisayori Noda"), [Takahiro Suzuki](index.php?title=Takahiro_Suzuki&action=edit&redlink=1 "Takahiro Suzuki (page does not exist)"), and [Masatoshi Hidaka](Masatoshi_Hidaka "Masatoshi Hidaka") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-Subsequent teams were *The Minstrel's Ballad: Tanuki's Reign* with [Yu Nasu](Yu_Nasu "Yu Nasu") and at times [Akio Kono](index.php?title=Akio_Kono&action=edit&redlink=1 "Akio Kono (page does not exist)") joining
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>,
-and *Ziosoft Computer Shogi Club*, with the [World Computer Shogi Championship](World_Computer_Shogi_Championship "World Computer Shogi Championship") entries of *Shouten Gensou Knights of Tanuki* ([2017](index.php?title=WCSC27&action=edit&redlink=1 "WCSC27 (page does not exist)"), derived from *Yaneura King* by [Motohiro Isozaki](Motohiro_Isozaki "Motohiro Isozaki") aka Yaneurao) 
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>, 
-*the end of genesis T.N.K.evolution turbo type D* ([2018](index.php?title=WCSC28&action=edit&redlink=1 "WCSC28 (page does not exist)")) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>
-and [Tanu-King](index.php?title=Tanu-King&action=edit&redlink=1 "Tanu-King (page does not exist)") at the [WCSC29](index.php?title=WCSC29&action=edit&redlink=1 "WCSC29 (page does not exist)") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. 
-
-
-
 ## Selected Publications
 
 

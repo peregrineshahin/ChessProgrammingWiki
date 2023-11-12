@@ -8,34 +8,6 @@ A **Process** is an [instance](https://en.wikipedia.org/wiki/Object_%28computer_
 
 
 
-### Contents
-
-
-* [1 Process States](#process-states)
-* [2 Parallel Search](#parallel-search)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2000 ,,,](#2000-.2c.2c.2c)
-	+ [4.2 2010 ...](#2010-...)
-	+ [4.3 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-	+ [5.1 Posix](#posix)
-	+ [5.2 Windows](#windows)
-	+ [5.3 C++](#c.2b.2b)
-	+ [5.4 Java](#java)
-	+ [5.5 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-[
-Seven [process states](https://en.wikipedia.org/wiki/Process_state) in a [State diagram](https://en.wikipedia.org/wiki/State_diagram) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ## Parallel Search
 
 

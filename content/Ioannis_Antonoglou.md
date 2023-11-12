@@ -12,25 +12,6 @@ a Greek computer scientist and software engineer at [Google](index.php?title=Goo
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2013 ...](#2013-...)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 2013 ...
 
 

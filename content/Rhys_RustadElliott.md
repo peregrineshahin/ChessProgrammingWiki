@@ -14,22 +14,6 @@ On his blog, Rhys Rustad-Elliott gave an excellent description of [Magic Bitboar
 
 
 
-### Contents
-
-
-* [1 Postings](#postings)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [A Gentle Introduction to Object-Oriented Programming in JavaScript](https://medium.com/hootsuite-engineering/a-gentle-introduction-to-object-oriented-programming-in-javascript-a46f25de8b07) by Rhys Rustad-Elliott, August 30, 2016
-* [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by Rhys Rustad-Elliott, January 15, 2019
-
-
 ## External Links
 
 

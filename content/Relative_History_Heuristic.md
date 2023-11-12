@@ -8,29 +8,6 @@ The **Relative History Heuristic** was proposed by [Mark Winands](Mark_Winands "
 
 
 
-### Contents
-
-
-* [1 History Heuristic](#history-heuristic)
-* [2 The Idea](#the-idea)
-* [3 Alternatives](#alternatives)
-* [4 Peak History Reduction](#peak-history-reduction)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-
-```C++
-The disadvantage of the history heuristic is that it is biased towards moves that occur more often in a game than others. However, the history heuristic has as implicit assumption that all the legal moves occur roughly with the same frequency in the game (tree). For instance, assume we have a move which is quite successful when applicable (e.g., it then causes a cut-off) but it does not occur so often as a legal move in the game tree. This move will not obtain a high history score and is therefore ranked quite low in the move ordering. 
-
-```
-
 ## The Idea
 
 

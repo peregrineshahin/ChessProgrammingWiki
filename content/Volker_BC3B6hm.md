@@ -12,24 +12,6 @@ a German computer scientist and chess programmer. Along with his fellow [Ralf Sc
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) 
-Volker Böhm (left) und [Ralf Schäfer](Ralf_Sch%C3%A4fer "Ralf Schäfer"), back of [GCP](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") between, [Livigston Computer WM](Chess960CWC_2005 "Chess960CWC 2005") 2005 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Forum Posts
 
 

@@ -14,25 +14,6 @@ As an avid chess player and former chess programmer, Toma is author of the [WinB
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2004 ...](#2004-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 2004 ...
 
 

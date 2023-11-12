@@ -16,26 +16,6 @@ A typical [depth-first](Depth-First "Depth-First") non-uniform depth search deco
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Depth](Depth "Depth")
-* [Fractional Plies](Depth#FractionalPlies "Depth")
-* [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-* [Selectivity](Selectivity "Selectivity")
-* [SEX Algorithm](SEX_Algorithm "SEX Algorithm")
-
-
 ## Forum Posts
 
 

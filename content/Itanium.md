@@ -12,31 +12,6 @@ a family of 64-bit microprocessors by [Intel](Intel "Intel") that implement the 
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 x86 Support](#x86-support)
-* [3 Chess Programs](#chess-programs)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-IA-64 applies [explicitly parallel instruction computing](https://en.wikipedia.org/wiki/Explicitly_parallel_instruction_computing) (EPIC) which allows the processor to execute multiple instructions in each clock cycle. EPIC implements a form of [very long instruction word](https://en.wikipedia.org/wiki/Very_long_instruction_word) (VLIW) architecture, in which a single instruction word contains up to three instructions. With EPIC, the compiler determines in advance which instructions can be executed at the same time, rather than the processor itself. The architecture implements [branch predication](https://en.wikipedia.org/wiki/Branch_predication) and [speculation](https://en.wikipedia.org/wiki/Speculative_execution), has 128 64-bit general purpose registers, 128 82-bit floating point or [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") registers, 64 one-bit predicates, and eight branch registers, and thirty functional execution units in eleven groups, such as various [ALUs](Combinatorial_Logic#ALU "Combinatorial Logic"), [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") units with parallel shift and multiply, and [population count](Population_Count "Population Count") unit.
-
-
-
-[
-Itanium architecture <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## x86 Support
 
 

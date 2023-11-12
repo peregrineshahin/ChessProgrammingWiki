@@ -10,26 +10,6 @@ The **Middlegame** is the game phase which happens after the [opening](Opening "
 
 
 
-### Contents
-
-
-* [1 Opening versus Middlegame](#opening-versus-middlegame)
-* [2 Evaluation](#evaluation)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The early middlegame does not necessarily imply a reduction of [material](Material "Material") by trading [pawns](Pawn "Pawn") or [pieces](Pieces "Pieces"). On the other hand, early pawn trades or other [captures](Captures "Captures") don't necessarily imply the beginning of middlegame as long as other aims of the opening are not achieved. [Tapered eval](Tapered_Eval "Tapered Eval") for a smooth transition between game phases by [multiple piece-square tables](Piece-Square_Tables#MultipleTables "Piece-Square Tables") does usually not distinguish between opening and early middlegame with all or most material still on the board. Therefor some programmers apply special opening knowledge inside their evaluation to avoid too early queen activity or moving developed pieces multiple times while other minor pieces are still on their home square and have not moved yet (considering [returning bishop](Returning_Bishop "Returning Bishop")). Other programs purely rely on the [opening book](Opening_Book "Opening Book") and don't care to differentiate between these early phases.
-
-
-
 ## Evaluation
 
 

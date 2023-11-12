@@ -11,34 +11,6 @@ such as equipment used, [time control](https://en.wikipedia.org/wiki/Time_contro
 
 
 
-### Contents
-
-
-* [1 Basic Rules](#basic-rules)
-* [2 Competition Rules](#competition-rules)
-* [3 Computer Assistance](#computer-assistance)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 OTB Chess](#otb-chess)
-	+ [7.2 Correspondence Chess](#correspondence-chess)
-	+ [7.3 Computer Chess](#computer-chess)
-	+ [7.4 Cheating](#cheating)
-* [8 References](#references)
-
-
-
-
-
-
-Chess is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [board game](https://en.wikipedia.org/wiki/Board_game). 
-Orthodox chess and [Chess960](Chess960 "Chess960") use a 8x8 [chessboard](Chessboard "Chessboard") and sixteen [pieces](Pieces "Pieces") of six types for each player, set up in the [initial position](Initial_Position "Initial Position") or one of 960 Chess960 start positions. 
-Each type, [King](King "King"), [Queen](Queen "Queen"), [Rook](Rook "Rook"), [Bishop](Bishop "Bishop"), [Knight](Knight "Knight") and [Pawn](Pawn "Pawn") moves and captures in a distinct way. The object of the game is to [checkmate](Checkmate "Checkmate") the opponent's king. 
-Games do not necessarily end in checkmate - a player who expects to lose may resign, and a game can also end in a [draw](Draw "Draw") in several ways [[1]](#cite-note-wikipedia-1).
-
-
-
 ## Competition Rules
 
 

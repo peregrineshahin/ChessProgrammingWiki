@@ -15,26 +15,6 @@ So far, Protej played the [CCT9](CCT9 "CCT9"), [CCT10](CCT10 "CCT10"), [WCRCC 20
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Protej 0.5.7](http://www.talkchess.com/forum/viewtopic.php?t=31800) by [Alex Brunetti](Alex_Brunetti "Alex Brunetti"), [CCC](CCC "CCC"), January 18, 2010
-* [Protej 0.5.7 : 2000](http://www.talkchess.com/forum/viewtopic.php?t=31848) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), January 19, 2010
-* [Protej 0.5.8](http://www.talkchess.com/forum/viewtopic.php?t=52518) by [Alex Brunetti](Alex_Brunetti "Alex Brunetti"), [CCC](CCC "CCC"), June 01, 2014
-* [Protej 0.5.9](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77878) by [Alex Brunetti](Alex_Brunetti "Alex Brunetti"), [CCC](CCC "CCC"), August 05, 2021
-
-
 ## External Links
 
 

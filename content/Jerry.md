@@ -16,26 +16,6 @@ Jerry features strength adjustment, and is able to load and save games in [Porta
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess GUI](#chess-gui)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://github.com/asdfjkl/jerry) 
-Jerry 4 Screen <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Forum Posts
 
 

@@ -17,29 +17,6 @@ Further, Sven Reichard is author of the [Pool](index.php?title=Pool&action=edit&
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2005 ...](#2005-...)
-	+ [1.3 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1999](#1999)
-	+ [2.2 2000 ...](#2000-...-2)
-	+ [2.3 2005 ...](#2005-...-2)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ### 2000 ...
 
 

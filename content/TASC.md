@@ -12,24 +12,6 @@ title: TASC
 
 
 
-### Contents
-
-
-* [1 Products](#products)
-* [2 Patent Infringement](#patent-infringement)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-TASC started playing chess in the late 80s with the [The Final Chesscard](The_Final_Chesscard "The Final Chesscard") by [Marc Derksen](Marc_Derksen "Marc Derksen"), released in 1989 for [Commodore 64](Commodore_64 "Commodore 64") and [Commodore 128](Commodore_128 "Commodore 128"), and continued with its successor, the famous [ChessMachine](ChessMachine "ChessMachine") extending an [IBM PC](IBM_PC "IBM PC") with a pluggable [ISA card](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) on board the [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) processor, either running the [WCCC 1992](WCCC_1992 "WCCC 1992") champion [Gideon](Gideon "Gideon") by [Ed Schröder](Ed_Schroder "Ed Schroder") or [The King](The_King "The King") by [Johan de Koning](Johan_de_Koning "Johan de Koning"). They produced the [Mephisto RISC](Mephisto_RISC "Mephisto RISC") module for [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), and went in the [chess database](Databases "Databases") market with [TascBase](TascBase "TascBase"), developed by [Hans](Hans_Kuijf "Hans Kuijf") and [Nico Kuijf](index.php?title=Nico_Kuijf&action=edit&redlink=1 "Nico Kuijf (page does not exist)"). The [TASC Chess System](index.php?title=TASC_Chess_System&action=edit&redlink=1 "TASC Chess System (page does not exist)"), which consists of the [TASC SmartBoard](TASC_SmartBoard "TASC SmartBoard") connected to a PC, along with its native chess program [Chessica](Chessica "Chessica") by [Frans Morsch](Frans_Morsch "Frans Morsch"), Marc Derksen and [Jessica Harmsen](Jessica_Harmsen "Jessica Harmsen"), and the TASC *Chess Tutor* <a id="cite-note-4" href="#cite-ref-4">[4]</a> were further milestones, so were the mighty [TASC R30](TASC_R30 "TASC R30") and [TASC R40](TASC_R40 "TASC R40") [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") with De Koning programs. It seemed, TASC would have had a bright and successful future with their innovative chess products.
-
-
-
 ## Patent Infringement
 
 

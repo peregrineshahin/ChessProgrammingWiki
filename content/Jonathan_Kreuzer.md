@@ -14,20 +14,6 @@ Jonathan Kreuzer is author of the chess programs [Sam](index.php?title=Sam&actio
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2000 ...
 
 

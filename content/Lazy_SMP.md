@@ -12,62 +12,6 @@ based on the [shared hash table](Shared_Hash_Table "Shared Hash Table") approach
 
 
 
-### Contents
-
-
-* [1 Cheng's Pseudo Code](#cheng.27s-pseudo-code)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2010 ...](#2010-...)
-	+ [4.2 2015](#2015)
-	+ [4.3 2016](#2016)
-	+ [4.4 2017](#2017)
-	+ [4.5 2018](#2018)
-	+ [4.6 2019](#2019)
-	+ [4.7 2020](#2020)
-	+ [4.8 2021 ...](#2021-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Pseudo Code of Lazy SMP in [Cheng](Cheng "Cheng") as given by its author [Martin Sedlak](Martin_Sedlak "Martin Sedlak") <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
-
-
-
-
-```C++
-
-IterativeDeepening:
-  synchronize smp threads (copy age, board, history, repetition list, multipv => helpers)
-  depth 1 with full width window on 1 thread
-  loop (depth=2 .. max)
-    AspirationLoop:
-      (as usual)
-      start helper threads( depth, alpha, beta )
-      root( depth, alpha, beta)
-      stop helper threads
-      (rest as usual)
-    end aspiration loop
-  end depth loop 
-
-starting helper threads:
-  clear smp abort flag
-  for each helper thread:
-    copy rootmoves and minimum qs depth => helper
-    signal helper to start root search at current depth (add 1 for each even helper 
-     assuming 0-based indexing)  with aspiration alpha, beta bounds and wait until 
-     helper starts searching 
-
-aborting helper threads:
-  set abort flag for each helper and wait for each to stop searching 
-
-```
-
 ## See also
 
 

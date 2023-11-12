@@ -10,28 +10,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Advertising](#advertising)
-* [2 Commercial Champion](#commercial-champion)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Manual](#manual)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- [](https://www.flickr.com/photos/10261668@N05/858217385/in/album-72157600923819227/) 
-Sensory 9 advertising <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Commercial Champion
 
 

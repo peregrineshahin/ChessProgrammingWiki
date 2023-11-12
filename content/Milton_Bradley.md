@@ -14,28 +14,6 @@ America's first popular [parlour game](https://en.wikipedia.org/wiki/Parlour_gam
 
 
 
-### Contents
-
-
-* [1 Phantom](#phantom)
-* [2 Hasbro](#hasbro)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1981, MB contacted [David Levy](David_Levy "David Levy") of [Intelligent Software](Intelligent_Software "Intelligent Software") asking for advice, 
-and after a meeting introducing their [X-Y plotter](https://en.wikipedia.org/wiki/X%E2%80%93Y_plotter) type, 
-[electromagnetic](https://en.wikipedia.org/wiki/Electromagnetism) [sensory board](Sensory_Board "Sensory Board"), 
-moving its own [magnetic](https://en.wikipedia.org/wiki/Magnet) pieces, 
-started a cooperation with Intelligent Software on the development of a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers"), 
-yielding in the release of the [Milton Bradley Phantom](Milton_Bradley_Phantom "Milton Bradley Phantom") in early 1983 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Hasbro
 
 

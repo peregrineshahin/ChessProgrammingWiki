@@ -24,41 +24,6 @@ This article deals with a programmer's study on [machine learning](Learning "Lea
 
 
 
-### Contents
-
-
-* [1 Introduction](#Introduction)
-* [2 Evaluation](#Evaluation)
-* [3 Point Values - Simple Model](#Point_Values_-_Simple_Model)
-* [4 Material Advantage and Logistic Function](#Material_Advantage_and_Logistic_Function)
-* [5 Problem Statement](#Problem_Statement)
-* [6 Program and Results](#Program_and_Results)
-* [7 Human Players](#Human_Players)
-* [8 Conclusion](#Conclusion)
-* [9 See also](#See_also)
-* [10 Forum Posts](#Forum_Posts)
-* [11 External Links](#External_Links)
-* [12 References](#References)
-
-
-
-
-
-
- [](http://habrahabr.ru/post/254753/) 
-The main components of virtually any chess program are [search](Search "Search") and [evaluation](Evaluation "Evaluation"). The evaluation function maps a set of positional features to a numerical scale and serves as an objective function to find the best move. It is applied at the [leaves](Leaf_Node "Leaf Node") of the [tree](Search_Tree "Search Tree"), gradually backed up to the [root](Root "Root") using [alpha-beta procedure](Alpha-Beta "Alpha-Beta") or its variations along with [iterative deepening](Iterative_Deepening "Iterative Deepening").
-
-
-Strictly speaking, this evaluation has only three values: win, loss or draw - 1, 0, or ½, as determined to any given position due to the [theorem](https://en.wikipedia.org/wiki/Zermelo%27s_theorem_%28game_theory%29) by [Zermelo](Ernst_Zermelo "Ernst Zermelo"). In practice, due to the [combinatorial explosion](https://en.wikipedia.org/wiki/Combinatorial_explosion), no computer will be able to calculate all variations through the complete game tree. Therefore, chess programs work in the model by [Claude Shannon](Claude_Shannon "Claude Shannon") with truncated games trees and approximate estimate at the leaves based on various heuristics.
-
-
-Search and evaluation are not independently from each other, and must be well balanced. Modern search algorithms no longer apply a pure [brute-force](Brute-Force "Brute-Force") approach, but apply [selectivity](Selectivity "Selectivity") searching heterogeneous trees due to [quiescence search](Quiescence_Search "Quiescence Search"), [extensions](Extensions "Extensions") specially along the [principal variation](Principal_Variation "Principal Variation"), but also [prune](Pruning "Pruning") and [reduce](Reductions "Reductions") not so promising branches also based on static evaluation.
-
-
-Search optimization by machine learning methods is another interesting topic, but for now we focus on evaluation. 
-
-
-
 ## Evaluation
 
 

@@ -13,28 +13,6 @@ Weini is an acronym for **W**is**E**ness **I**s **N**ot **I**nside <a id="cite-n
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-	+ [1.4 Automated Tuning](#automated-tuning)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

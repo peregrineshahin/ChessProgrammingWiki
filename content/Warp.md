@@ -13,36 +13,6 @@ It further won the [NC3 2003](NC3_2003 "NC3 2003") and [NC3 2004](NC3_2004 "NC3 
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Games](#games)
-	+ [2.1 Diep](#diep)
-	+ [2.2 Quest](#quest)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Computing](#computing)
-	+ [5.3 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-from [2003 National Computer Chess Championship](NC3_2003 "NC3 2003") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```C++
-Warp is a follow on from my previous chess program called [LambChop](LambChop "LambChop"), the name was changed when I re-wrote much of the low level code handling [move generation](Move_Generation "Move Generation"), tree traversal etc. Warp has a relatively knowledgable [evaluation function](Evaluation_Function "Evaluation Function") in the style of its predecessor, but has an increased emphasis on [pruning](Pruning "Pruning") irrelevant variations from the [search tree](Search_Tree "Search Tree"). This means that Warp [searches](Search "Search") quite [deeply](Depth "Depth") despite a comparatively low [nodes per second](Nodes_per_Second "Nodes per Second") speed. 
-
-```
-
 ## Games
 
 

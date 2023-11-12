@@ -15,31 +15,6 @@ In conjunction with the official name change from Delft Institute of Technology 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Tournaments](#tournaments)
-* [3 ACM 1982 Experience](#acm-1982-experience)
-* [4 Selected Games](#selected-games)
-	+ [4.1 ACM 1982](#acm-1982)
-	+ [4.2 WCCC 1983](#wccc-1983)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- [](File:PionTeam.jpg) 
-Pion team: <?>, [Jan Derksen](Jan_Derksen "Jan Derksen"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Harry Nefkens](Harry_Nefkens "Harry Nefkens") (center), [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen")   
-back of head of [Sito Dekker](Sito_Dekker "Sito Dekker") sitting in front of the board <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Tournaments
 
 

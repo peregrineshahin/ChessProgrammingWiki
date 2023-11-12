@@ -16,37 +16,6 @@ a chess [mating](Checkmate "Checkmate") [combinations](Combination "Combination"
 
 
 
-### Contents
-
-
-* [1 Abstract](#abstract)
-* [2 History](#history)
-* [3 Mater I](#mater-i)
-* [4 Mater II](#mater-ii)
-* [5 Board Representation](#board-representation)
-* [6 Move Generation](#move-generation)
-* [7 Processing Speed](#processing-speed)
-* [8 Namesake](#namesake)
-* [9 See also](#see-also)
-* [10 Publications](#publications)
-* [11 External Links](#external-links)
-* [12 References](#references)
-
-
-
-
-
-
-This page is based on the description of Mater by [George Baylor](George_Baylor "George Baylor") and [Herbert Simon](Herbert_Simon "Herbert Simon"), 1966, *A chess mating combinations program* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-The program reported here is not a complete chess player; it does not play games. Rather, it is a chess analyst limited to [searching](Search "Search") for [checkmating](Checkmate "Checkmate") [combinations](Combination "Combination") in [positions](Chess_Position "Chess Position") containing [tactical](Tactics "Tactics") possibilities. A combination in chess is a series of forcing moves with [sacrifice](Sacrifice "Sacrifice") that ends with an objective advantage for the active side. A checkmating combination, then, is a combination in which that objective advantage is checkmate. Thus the program described here - dubbed MATER - given a position, proceeds by [generating](Move_Generation "Move Generation") that class of forcing moves that put the enemy King in [check](Check "Check") or threaten mate in one move, and then by analyzing first those moves that appear most promising. 
-
-```
-
 ## History
 
 

@@ -12,27 +12,6 @@ an American computer scientist and [AI](Artificial_Intelligence "Artificial Inte
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1978](#1978)
-	+ [1.2 1980 ...](#1980-...)
-	+ [1.3 1990 ...](#1990-...)
-	+ [1.4 2000 ...](#2000-...)
-	+ [1.5 2010](#2010)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-7" href="#cite-ref-7">[7]</a><a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 1978
 
 

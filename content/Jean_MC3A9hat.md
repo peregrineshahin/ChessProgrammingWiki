@@ -13,24 +13,6 @@ In 2009, Jean Méhat and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave")
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2008 ...](#2008-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 2008 ...
 
 

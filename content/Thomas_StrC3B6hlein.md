@@ -12,23 +12,6 @@ a German mathematician, computer scientist, games researcher, and professor at [
 
 
 
-### Contents
-
-
-* [1 Retrograde Analysis](#retrograde-analysis)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In his 1970 Ph.D. thesis *Untersuchungen über kombinatorische Spiele*, Ströhlein investigated various three and four piece chess [endgames](Endgame "Endgame"), and did the first [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") implementation to construct [endgame databases](Endgame_Tablebases "Endgame Tablebases") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Selected Publications
 
 

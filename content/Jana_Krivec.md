@@ -13,25 +13,6 @@ Previously, she was affiliated with the Artificial Intelligence Laboratory <a id
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2006 ...](#2006-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2006 ...
 
 

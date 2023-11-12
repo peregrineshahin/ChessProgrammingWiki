@@ -12,23 +12,6 @@ a chess program by [Guy Burkill](index.php?title=Guy_Burkill&action=edit&redlink
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Namesake](#namesake)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* Editor (**1980**). *Battle for Survival*. [Personal Computing, Vol. 4, No. 6](Personal_Computing#4_6 "Personal Computing") » [PCW-MCC 1979 - Battle for Survival](PCW-MCC_1979#Battle "PCW-MCC 1979")
-
-
 ## Namesake
 
 

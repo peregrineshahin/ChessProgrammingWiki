@@ -15,37 +15,6 @@ In 2005, 15 years later, Harm Geert Muller was invited by the [CSVN](CSVN "CSVN"
 
 
 
-### Contents
-
-
-* [1 Matchbox](#matchbox)
-* [2 Re-Discovering Alpha-Beta](#re-discovering-alpha-beta)
-* [3 Photos & Games](#photos-.26-games)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Program](#chess-program)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-HGM's matchbox computer with a [65SC816](http://www.baltissen.org/newhtm/65sc816.htm) CPU for the purpose of running Usurpator. The matchbox competed three times at [Dutch Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), [1986](DOCCC_1986 "DOCCC 1986") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , [1987](DOCCC_1987 "DOCCC 1987") <a id="cite-note-7" href="#cite-ref-7">[7]</a> , and [1990](DOCCC_1990 "DOCCC 1990"):
-
-
-
-
-
-|  |  |
-| --- | --- |
-| [HGMwithMatchbox.jpg](http://tinyurl.com/h7yzxry) | [HGMmatchbox.jpg](http://home.hccnet.nl/h.g.muller/chess.html) |
-| [DOCCC 1990](DOCCC_1990 "DOCCC 1990") - Firepower for a full board <a id="cite-note-8" href="#cite-ref-8">[8]</a> |  Matchbox Design <a id="cite-note-9" href="#cite-ref-9">[9]</a> |
-
-
 ## Re-Discovering Alpha-Beta
 
 

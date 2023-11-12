@@ -13,26 +13,6 @@ His research interests include [machine learning](Learning "Learning") and [comp
 
 
 
-### Contents
-
-
-* [1 Exact-Win-MCTS](#exact-win-mcts)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2017 ...](#2017-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") and [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), Yen-Chi Chen elaborated on an exact-win strategy for overcoming [AlphaZero](AlphaZero "AlphaZero") in a [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), 
-that makes use of sub-tree's information (WIN, LOSS, DRAW, and UNKNOWN) to prune unneeded moves to increase the opportunities of discovering the critical moves <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Selected Publications
 
 

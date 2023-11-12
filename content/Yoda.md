@@ -14,25 +14,6 @@ Yoda 1.30 and Yoda 2.09 (bug-fixed) are available from [Ron Murawski's](Ron_Mura
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [JARS](index.php?title=JARS&action=edit&redlink=1 "JARS (page does not exist)")
-* [Isa](Isa "Isa")
-
-
 ## Forum Posts
 
 

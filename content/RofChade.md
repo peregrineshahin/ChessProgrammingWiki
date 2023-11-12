@@ -14,31 +14,6 @@ RofChade 2.0 in December 2018, came with an improved [evaluation](Evaluation "Ev
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-* [3 Features](#features)
-	+ [3.1 Board Representation](#board-representation)
-	+ [3.2 Search](#search)
-	+ [3.3 Evaluation](#evaluation)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2018 ...](#2018-...)
-	+ [5.2 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-RofChade had its over the board tournament debut at the [PT 53](PT_53 "PT 53") [CSVN Programmers Tournament](CSVN_Programmers_Tournament "CSVN Programmers Tournament"), and further played the [PT 54](PT_54 "PT 54"), the [PT 55](PT_55 "PT 55") (2nd behind [Komodo](Komodo "Komodo")), and won the [PT 56](PT_56 "PT 56"). Online, at the [WCRCC 2018](WCRCC_2018 "WCRCC 2018"), RofChade won versus [Chiron](Chiron "Chiron") and Komodo in the regular rounds, and all three programs finished with 8½/11 so that a playoff was neccessary to decide about the winner, where finally the commercial program succeeded with RofChade strong third. Since February 2019 at [TCEC Season 14](TCEC_Season_14 "TCEC Season 14"), RofChade successfully plays at [TCEC](TCEC "TCEC"), promoting to the [First Division](TCEC_Season_16#First "TCEC Season 16"). 
-
-
-
 ## Photos & Games
 
 

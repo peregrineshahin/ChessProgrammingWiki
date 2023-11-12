@@ -12,25 +12,6 @@ a massive parallel chess program based on [Hans Berliner’s](Hans_Berliner "Han
 
 
 
-### Contents
-
-
-* [1 Acknowledgments](#acknowledgments)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-StarTech spans three universities and one corporation, with contributions from people at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (CMU), the [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") (MIT), the [National Center for Supercomputing Applications](University_of_Illinois_at_Urbana-Champaign#NCSA "University of Illinois at Urbana-Champaign") at the [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign") (NCSA), and [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation). Primary author [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") was supervised by [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), helped and supported by Hans Berliner and [Chris McConnell](Chris_McConnell "Chris McConnell") for the serial version of HiTech, and further by [Robert D. Blumofe](Robert_Blumofe "Robert Blumofe"), [Mark Bromley](Mark_Bromley "Mark Bromley"), [Roger Frye](Roger_Frye "Roger Frye"), [Richard Karp](Richard_Karp "Richard Karp"), [John Mucci](index.php?title=John_Mucci&action=edit&redlink=1 "John Mucci (page does not exist)"), [Ryan Rifkin](Ryan_Rifkin "Ryan Rifkin"), [James Schuyler](index.php?title=James_Schuyler&action=edit&redlink=1 "James Schuyler (page does not exist)"), [David Slate](David_Slate "David Slate"), [Larry Smarr](https://en.wikipedia.org/wiki/Larry_Smarr), [Lewis Stiller](Lewis_Stiller "Lewis Stiller"), [Kurt Thearling](Kurt_Thearling "Kurt Thearling"), [Richard Title](index.php?title=Richard_Title&action=edit&redlink=1 "Richard Title (page does not exist)"), [Al Vezza](index.php?title=Al_Vezza&action=edit&redlink=1 "Al Vezza (page does not exist)"), [David Waltz](David_Waltz "David Waltz"), and [Michael Welge](index.php?title=Michael_Welge&action=edit&redlink=1 "Michael Welge (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Hans Berliner, Richard Karp, David Slate, and Lewis Stiller all contributed to a mini-seminar on chess held at Thinking Machines Corporation on August 12, 1991. In particular, Richard Karp suggested that StarTech should be based on Hans Berliner’s HiTech rather than [GNU Chess](GNU_Chess "GNU Chess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## See also
 
 

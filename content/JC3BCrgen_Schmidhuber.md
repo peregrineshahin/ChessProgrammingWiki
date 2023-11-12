@@ -18,25 +18,6 @@ Jürgen Schmidhuber is known for his research on [machine learning](Learning "Le
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Deep Learning RNNaissance](Deep_Learning#SchmidhuberVideoDeepLearning "Deep Learning") with Jürgen Schmidhuber
-
-
 ## Selected Publications
 
 

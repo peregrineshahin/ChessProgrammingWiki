@@ -12,23 +12,6 @@ title: SC 1
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [SC 2](SC_2 "SC 2")
-* [Chess-Master](Chess-Master "Chess-Master")
-
-
 ## Publications
 
 

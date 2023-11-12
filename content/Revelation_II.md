@@ -12,33 +12,6 @@ a dedicated chess computer system developed by [Ruud Martin's](Ruud_Martin "Ruud
 
 
 
-### Contents
-
-
-* [1 Display](#display)
-* [2 Chess Engines](#chess-engines)
-	+ [2.1 Native Engines](#native-engines)
-	+ [2.2 Richard Lang Emulation](#richard-lang-emulation)
-	+ [2.3 Misc Emulations](#misc-emulations)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 DGT](#dgt)
-	+ [5.2 Phoenix Chess Systems](#phoenix-chess-systems)
-	+ [5.3 Misc](#misc)
-	+ [5.4 Videos](#videos)
-* [6 References](#references)
-
-
-
-
-
-
- [](https://www.flickr.com/photos/10261668@N05/11388752726/in/album-72157637087821003/) 
-Revelation II Version 3.09 Information display <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Chess Engines
 
 

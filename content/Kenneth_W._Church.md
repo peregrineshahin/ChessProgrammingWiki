@@ -12,23 +12,6 @@ an American computer scientist at [Human Language Technology Center of Excellenc
 
 
 
-### Contents
-
-
-* [1 Corresponding Squares](#corresponding-squares)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Ken Church wrote his undergraduate thesis, supervised by [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), on chess programming and the implementation of [corresponding squares](Corresponding_Squares "Corresponding Squares"). Thanks to considerable help and encouragement from [Hans Berliner](Hans_Berliner "Hans Berliner"), it was published at [IJCAI-79](Conferences#IJCAI1979 "Conferences"), as *Co-ordinate Squares: A Solution to Many Chess Pawn Endgames* <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Selected Publications
 
 

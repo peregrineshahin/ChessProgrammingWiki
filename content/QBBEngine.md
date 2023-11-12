@@ -15,21 +15,6 @@ The program performs a color agnostic [move generation](Move_Generation "Move Ge
 
 
 
-### Contents
-
-
-* [1 Board-Definition](#board-definition)
-	+ [1.1 C Structure](#c-structure)
-	+ [1.2 Piece Coding](#piece-coding)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### C Structure
 
 

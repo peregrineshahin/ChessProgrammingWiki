@@ -14,29 +14,6 @@ More recently James works on a project to explore [Java](Java "Java") and [Amazo
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1997 ...](#1997-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2005 ...](#2005-...)
-	+ [2.4 2010 ...](#2010-...)
-	+ [2.5 2015 ...](#2015-...)
-	+ [2.6 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* James Swafford (**2002**). *Optimizing Parameter Learning using Temporal Differences*. [AAAI-02](http://www.aaai.org/Conferences/AAAI/aaai02.php), Student Abstracts, [pdf](https://www.aaai.org/Papers/AAAI/2002/AAAI02-150.pdf)
-* James Swafford (**2008**). *[A Survey of Parallel Search Algorithms over Alpha-Beta Search Trees using Symmetric Multiprocessor Machines](https://fr.slideshare.net/JamesSwafford2/jfsmasters1)*. Masters Project, [East Carolina University](https://en.wikipedia.org/wiki/East_Carolina_University), advisor [Ronnie Smith](http://www.cs.ecu.edu/rws/)
-
-
 ## Forum Posts
 
 

@@ -13,27 +13,6 @@ Mark graduated in 1981 with a BS degree in Engineering Science and Mechanics fro
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WCCC 1999](#wccc-1999)
-	+ [1.2 WCCC 2016](#wccc-2016)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1990 ...](#1990-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-* [6 What links here?](#what-links-here.3f)
-
-
-
-
-
-
 ### WCCC 1999
 
 

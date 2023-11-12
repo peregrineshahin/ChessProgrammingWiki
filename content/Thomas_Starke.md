@@ -11,21 +11,6 @@ a German computer chess programmer. He is author of the [Commodore 64](Commodore
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [A forgotten author ? Thomas Starke/Germany](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=39029) by Sylwy, [CCC](CCC "CCC"), May 10, 2011
-
-
 ## External Links
 
 

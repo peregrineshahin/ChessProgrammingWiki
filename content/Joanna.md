@@ -10,41 +10,6 @@ the first Polish chess program developed from 1992 to 1994 by [Adam Kujawski](Ad
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[PCCC 2002](PCCC_2002 "PCCC 2002"), round 7, Joanna 2002 - [Bread Chess](index.php?title=Bread_Chess&action=edit&redlink=1 "Bread Chess (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "PCCC 2002"]
-[Site "Lodz"]
-[Date "2002.09.15"]
-[Round "7"]
-[White "Joanna 2002"]
-[Black "Bread Chess"]
-[Result "1/2-1/2"]
-
-1.e4 d5 2.Nc3 dxe4 3.Nxe4 e5 4.Qh5 Nd7 5.Bc4 g6 6.Qg5 Be7 7.Qg3 f5 8.Qf3 Nh6 9.Qe3 Nb6 
-10.Bb5+ c6 11.Qxh6 fxe4 12.Be2 Bg5 13.Qg7 Bf6  14.Qh6 Bg5 15.Qg7 Bf6 16.Qh6 Bg5 1/2-1/2
-
-```
-
 ## Publications
 
 

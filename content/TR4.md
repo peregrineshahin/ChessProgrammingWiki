@@ -12,58 +12,6 @@ was a West-German digital general purpose [mainframe computer](https://en.wikipe
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Successor](#successor)
-* [3 Chess Programs](#chess-programs)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-The computer had a word size of 52 bits, consisting of 48 data bits, 2 type bits (00 - [floating point](Float "Float"), 38 bit normalized mantissa, 01 - integer/fixed point, 10 - opcode 2x24 bit, 11 - 8 six bit text characters) and 2 bit checksum (Dreierprobe), checksum errors causing interrupts. [ALU](Combinatorial_Logic#ALU "Combinatorial Logic") and registers were build in discrete transistor technique running at 2 MHz, [main memory](Memory "Memory") consists of up to 28,672 words of [core memory](https://en.wikipedia.org/wiki/Magnetic-core_memory) and 4096 words of semiconductor memory. Auxiliary storage were [magnetic tapes](https://en.wikipedia.org/wiki/Magnetic_tape_data_storage), [punched tapes](https://en.wikipedia.org/wiki/Punched_tape) and [cards](https://en.wikipedia.org/wiki/Punched_card), and [disk drives](https://en.wikipedia.org/wiki/Hard_disk_drive). The hard-wired [micro-programmable](https://en.wikipedia.org/wiki/Microcode) computer took 9 and 40 cycles for fixed and floating point addition respectively, and about 60 cycles (30µs) for a multiplication. ALU, instruction-, memory- and I/O units were able to work in parallel, controlled by a [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) [operating system](https://en.wikipedia.org/wiki/Operating_system), which also incorporates the machine instruction translators SUSA (TR4-Assembler) and TEXAS (Telefunken Externcode Assembler). [Algol](Algol "Algol"), [Fortran](Fortran "Fortran") and [COBOL](https://en.wikipedia.org/wiki/COBOL) compiler were available.
-
-
-
-
-
-|  |
-| --- |
-| [TR4Registers.png](File:TR4Registers.png) |
-|  Four Register Units <a id="cite-note-4" href="#cite-ref-4">[4]</a> - VR (Verteiler register) distribution register
- |
-| * ALU (Rechenwerk)
-
- HR Help-Register
- MD multiplicand register
- AC Accumulator
- ÜB Carry register
- MQ Multiplier register  | * Memory Unit (Speicher)
-
- Sp1 Memory 1
- Sp2 Memory 2
- FSp Fixed Memory  
- X Index Memory 
- (256 registers in core) |
-| * I/O-Unit (E/A-Werk)
-
- I/O registers | * Instruction Unit (Befehlswerk)
-
- BA Address
- BR Instruction register
- BZ Instruction counter
- MS Microprogram Control Unit  |
-
-
-
-
-
-
 ## Successor
 
 

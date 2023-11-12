@@ -12,28 +12,6 @@ an American mathematician affiliated with the School of Mathematics and Statisti
 
 
 
-### Contents
-
-
-* [1 Solving Losing Chess](#solving-losing-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...-2)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Since late 2011 Mark Watkins worked on his long-term goal to [weakly solve](https://en.wikipedia.org/wiki/Solved_game#Weak) the game of [Losing Chess](Losing_Chess "Losing Chess"), presumably by showing that 1. e3 wins for White. As of summer 2014 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, leaving b6 and c5 as the remaining Black responses <a id="cite-note-6" href="#cite-ref-6">[6]</a>, all other responses to 1.e3 are indeed White wins, along with earlier work done by [Ben Nye](index.php?title=Ben_Nye&action=edit&redlink=1 "Ben Nye (page does not exist)") and others, as demonstrated by [Proof-Number Search](Proof-Number_Search "Proof-Number Search") combined with [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"). On February 02, 2015, 1. e3 c5 was announced solved, on October 10, 2016, 1. e3 b6, proving 1.e3 wins <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Selected Publications
 
 

@@ -12,35 +12,6 @@ a former commercial chess engine written by [Alexander Naumov](Alexander_Naumov 
 
 
 
-### Contents
-
-
-* [1 Selectivity Issues](#selectivity-issues)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos & Games](#photos-.26-games)
-	+ [3.1 CCT9](#cct9)
-	+ [3.2 Chess960CWC 2008](#chess960cwc-2008)
-		- [3.2.1 Round 5](#round-5)
-		- [3.2.2 Take me to the Hospital](#take-me-to-the-hospital)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2004](#2004)
-	+ [5.2 2005 ...](#2005-...)
-	+ [5.3 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-In [forum](Computer_Chess_Forums "Computer Chess Forums") discussions on [evaluation](Evaluation "Evaluation") at [interior nodes](Interior_Node "Interior Node"), Alex mentioned eval >= [beta](Beta "Beta") did not work in early Naum as [null move pruning](Null_Move_Pruning "Null Move Pruning") precondition <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and further that [history pruning](Late_Move_Reductions "Late Move Reductions") gave Naum about 40-50 ELO <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Tournament Play
 
 

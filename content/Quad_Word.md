@@ -8,36 +8,6 @@ According to [Intel's](Intel "Intel") definition of a [x86](X86 "X86") 16-bit [W
 
 
 
-### Contents
-
-
-* [1 long long or long](#long-long-or-long)
-* [2 Bitboards](#bitboards)
-* [3 Ranges](#ranges)
-* [4 Alignment](#alignment)
-* [5 Endianness](#endianness)
-	+ [5.1 Litte-endian Layout](#litte-endian-layout)
-	+ [5.2 Big-endian Layout](#big-endian-layout)
-* [6 See also](#see-also)
-* [7 External Links](#external-links)
-
-
-
-
-
-
-Microsoft 64-bit [C](C "C")-compiler long is still 32-bit [Double Word](Double_Word "Double Word"), while 64-bit [GCC](Free_Software_Foundation#GCC "Free Software Foundation") uses 64-bit Quad Words as longs. Other compiler require "long long" for 64-bit types.
-
-
-
-
-```C++
-
-typedef unsigned long QWORD;
-typedef unsigned long long QWORD;
-
-```
-
 ## Bitboards
 
 

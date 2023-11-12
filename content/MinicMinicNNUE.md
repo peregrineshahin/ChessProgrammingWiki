@@ -11,27 +11,6 @@ As a weekend project, it started as 2000 [lines of code](https://en.wikipedia.or
 
 
 
-### Contents
-
-
-* [1 MinicNNUE](#minicnnue)
-* [2 Minic 3](#minic-3)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2018 ...](#2018-...)
-	+ [4.2 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-With the advent of [NNUE](NNUE "NNUE") in summer 2020, Vivien Clauzon released Minic **2.47** aka **MinicNNUE** with [Stockfish's NNUE](Stockfish_NNUE "Stockfish NNUE") [network](Neural_Networks "Neural Networks") architecture and weight files, yielding in a [strength](Playing_Strength "Playing Strength") increase of about 200 Elo versus Minic with standard evaluation, but the demand that this NNUE version should not replace Minic in official [rating lists](Engine_Rating_Lists "Engine Rating Lists") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Minic **2.50** incorporated the training code from [Nodchip's](Hisayori_Noda "Hisayori Noda") Stockfish repository, so MinicNNUE was able to produce weight files by its own play <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Minic 3
 
 

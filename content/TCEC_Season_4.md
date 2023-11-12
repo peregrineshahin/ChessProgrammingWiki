@@ -14,29 +14,6 @@ a tournament directed and organized by [Martin Thoresen](Martin_Thoresen "Martin
 
 
 
-### Contents
-
-
-* [1 Stages](#stages)
-	+ [1.1 Stage 1](#stage-1)
-	+ [1.2 Stage 2a](#stage-2a)
-	+ [1.3 Stage 2b](#stage-2b)
-	+ [1.4 Stage 3](#stage-3)
-	+ [1.5 Stage 4](#stage-4)
-* [2 Superfinal](#superfinal)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-
-
-
-
 ### Stage 1
 
 

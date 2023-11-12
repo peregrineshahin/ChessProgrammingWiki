@@ -11,31 +11,6 @@ After the [Kasparov versus the World](https://en.wikipedia.org/wiki/Kasparov_ver
 
 
 
-### Contents
-
-
-* [1 Maximals](#maximals)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Karrer has mined [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") to produce complete lists of <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
-
-
-
-* maxDTM positions and data: 1-0 and 0-1, wtm and btm,
-* maxDTM and all mutual zugzwangs: three types, positions and data.
-
-
-Data on percentage results, maximals and [mutual zugzwangs](Zugzwang "Zugzwang") has been filed and made available on the web, as have the [DTM EGTs](Endgame_Tablebases#DTM "Endgame Tablebases") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Most notably was his finding of a mate in 262 in KRNKNN <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
-
-
-
 ## Selected Publications
 
 

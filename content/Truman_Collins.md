@@ -17,22 +17,6 @@ During the mid 80s, while affiliated with Willamette University, he wrote the ch
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Truman Collins (**1995**). *A Trip Down Chess Computer Memory Lane*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 3-4 Addendum, pp. 33 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## Forum Posts
 
 

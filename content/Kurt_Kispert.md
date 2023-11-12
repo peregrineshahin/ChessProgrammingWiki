@@ -14,23 +14,6 @@ which was and is an inspiration for many computer chess lovers.
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Rob van Son](Rob_van_Son "Rob van Son") (**2003**). *Our Regular Rover, Rob van Son, Meets Computer Collector Kurt Kispert*. [Selective Search](Selective_Search "Selective Search") 109, [pdf](http://www.chesscomputeruk.com/SS_109.pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a> reprinted in
-* [Rob van Son](Rob_van_Son "Rob van Son") (**2020**). *Real art comes from Vienna!* [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-2020,%20Rob%20van%20Son,%20An%20interview%20with%20Kurt%20Kispert%20in%20Vienna.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-
-
 ## Forum Posts
 
 

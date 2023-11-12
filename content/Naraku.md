@@ -16,27 +16,6 @@ the author stopped working on Naraku <a id="cite-note-4" href="#cite-ref-4">[4]<
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Selected Games](#selected-games)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-The name of the engine is borrowed from the main [antagonist](https://en.wikipedia.org/wiki/Antagonist) of the [Inuyasha](https://en.wikipedia.org/wiki/Inuyasha) Japanese [manga](https://en.wikipedia.org/wiki/Manga) series, [Naraku](https://en.wikipedia.org/wiki/List_of_Inuyasha_characters#Naraku)
-(奈落, Naraku, litt. [Naraka](https://en.wikipedia.org/wiki/Naraka), Hell), a half-demon responsible for the misery of most of the main cast <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Selected Games
 
 

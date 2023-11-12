@@ -12,29 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Expert Rating](#expert-rating)
-* [2 Tournament Play](#tournament-play)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Computer](#chess-computer)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-The Par Excellence was rated 2100 by the [United States Chess Federation`s](https://en.wikipedia.org/wiki/United_States_Chess_Federation) Computer Rating Agency, an independent certifying body. 
-At a rating tournament March 8 to 9, 1986 in [La Habra, California](https://en.wikipedia.org/wiki/La_Habra,_California), the Par Excellence played four games each against 10 human players rated from 1776 to 2127, or high category 2 to [expert](https://en.wikipedia.org/wiki/Chess_title#Expert). The computer won 26 games, drew 6 and lost 8 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-*Schachcomputer.info Wiki* mentions an [SSDF](SSDF "SSDF") Elo rating of 1835 <a id="cite-note-4" href="#cite-ref-4">[4]</a> as well as 1911 of a private tournament rating list for the 5 MHz version <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Tournament Play
 
 

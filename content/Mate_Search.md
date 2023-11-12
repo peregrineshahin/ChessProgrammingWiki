@@ -9,23 +9,6 @@ The mate finding procedure usually works like an ordinary [depth first search](D
 
 
 
-### Contents
-
-
-* [1 Pruning](#pruning)
-	+ [1.1 Backward Pruning](#backward-pruning)
-	+ [1.2 Forward Pruning](#forward-pruning)
-* [2 Interior Nodes Recognizers](#interior-nodes-recognizers)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 References](#references)
-
-
-
-
-
-
 ### Backward Pruning
 
 

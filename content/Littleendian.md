@@ -8,50 +8,6 @@ title: Littleendian
 
 
 
-### Contents
-
-
-* [1 Memory layout](#memory-layout)
-* [2 Runtime Test](#runtime-test)
-* [3 Little-Endian Files](#little-endian-files)
-* [4 Little-Endian Ranks](#little-endian-ranks)
-* [5 Least Significant Files](#least-significant-files)
-* [6 Date-Format](#date-format)
-* [7 See also](#see-also)
-* [8 External Links](#external-links)
-
-
-
-
-
-
-0x01020304
-
-
-
-
-
-|  Address
- |  Byte
- |  Significance
- |
-| --- | --- | --- |
-|  0x0000
- |  0x04
- |  LS Byte
- |
-|  0x0001
- |  0x03
- |  |
-|  0x0002
- |  0x02
- |  |
-|  0x0003
- |  0x01
- |  MS Byte
- |
-
-
 ## Runtime Test
 
 

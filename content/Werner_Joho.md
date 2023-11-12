@@ -15,27 +15,6 @@ and was involved in developing of the [Swiss Light Source](https://en.wikipedia.
 
 
 
-### Contents
-
-
-* [1 Charly](#charly)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1970 ...](#1970-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1967/68, as Ph.D. student at ETH, along with [Gerald Tripard](Gerald_Tripard "Gerald Tripard") and [Gerhard Rudolf](index.php?title=Gerhard_Rudolf&action=edit&redlink=1 "Gerhard Rudolf (page does not exist)"), Werner Joho was co-developer of the chess program [Charly](Charly "Charly") ("**C**hess **h**euristics and **a**lgorithms for **r**elaxing **l**azy **y**odelers") running on a [CDC 1604](CDC_1604 "CDC 1604"). 
-While the computer was basically used for calculations to design [magnets](https://en.wikipedia.org/wiki/Electromagnet) for the cyclotron, they used some extra weekend computer time for their work on chess <a id="cite-note-6" href="#cite-ref-6">[6]</a>. In 1968, they asked [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") for a match versus [Mac Hack VI](Mac_Hack "Mac Hack"). [Three games](Charly#ETHMIT "Charly") were played in October and November 1968 via [ham radio](https://en.wikipedia.org/wiki/Amateur_radio), all won by Mac Hack VI <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-
-
-
 ## Selected Publications
 
 

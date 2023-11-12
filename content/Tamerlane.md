@@ -14,28 +14,6 @@ It was the author's first attempt to write "something" capable of playing chess 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [AdaChess](AdaChess "AdaChess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-* [Conqueror](Conqueror "Conqueror")
-* [Madeleine](Madeleine "Madeleine")
-* [Shield](Shield "Shield")
-* [Warlord](Warlord "Warlord")
-
-
 ## Forum Posts
 
 

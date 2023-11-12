@@ -15,42 +15,6 @@ In their 1961 article *Machines that play games* <a id="cite-note-3" href="#cite
 
 
 
-### Contents
-
-
-* [1 SOMA - Machiavelli](#soma---machiavelli)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Following game between [SOMA](SOMA "SOMA") and Machiavelli was played, with the conclusion that it seems unlikely that a one-ply analyzer would beat any but the most inexperienced human player.
-
-
-
-
-```
-
-[Event "?"]
-[Site "?"]
-[Date "1961.??.??"]
-[Round "?"]
-[White "SOMA"]
-[Black "Machiavelli"]
-[Result "1/2-1/2"]
-
-1.e3 e5 2.d4 Nc6 3.Nc3 d5 4.Nf3 e4 5.Ne5 Bb4 6.Nxc6 bxc6 7.Bd2 Nf6 8.a3 Bd6 9.h4
-Bg4 10.Be2 Qd7 11.O-O O-O-O 12.f3 Bf5 13.fxe4 Bxe4 14.Ba6+ Kb8 15.Nxe4 Nxe4 16.Qe2
-Qe6 17.Ba5 Ng3 18.Qf3 Nxf1 19.Rxf1 f6 20.Rd1 Qe4 21.Qxe4 dxe4 22.d5 cxd5 23.Rxd5
-Be5 24.Rb5+ Ka8 25.Bb7+ Kb8 26.Bxe4+ Kc8 27.Bf5+ Rd7 28.Bxd7+ Kxd7
-1/2-1/2 {agreed}
-
-```
-
 ## Publications
 
 

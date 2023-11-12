@@ -12,38 +12,6 @@ a Spanish chess player, computer chess programmer, and author of the [Chess Engi
 
 
 
-### Contents
-
-
-* [1 Quote](#quote)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1999](#1999)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-José Carlos Martínez Galán in April 2012 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```C++
-Additionally, as that Anubis had such a crap design, I've started a new one from scratch, and I've reused the name. The new one is well designed and has much more potential, but it's not complete yet, it can't play chess.
-
-```
-
-
-```C++
-I planned to give the sources along with the program because I believe this design is really good, but all the mess around the [Rybka case](Rybka_Controversy "Rybka Controversy") has made me change my mind. Too much trouble for what should be an enjoyable hobby. So I'm not going to release any chess program nor participate in any tournament.
-
-```
-
 ## Forum Posts
 
 

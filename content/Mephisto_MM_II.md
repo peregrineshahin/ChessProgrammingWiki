@@ -12,24 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Conchess](Conchess "Conchess")
-* [Mephisto MM IV](Mephisto_MM_IV "Mephisto MM IV")
-* [Plymate](Plymate "Plymate")
-
-
 ## Forum Posts
 
 

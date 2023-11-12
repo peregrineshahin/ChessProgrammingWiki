@@ -12,34 +12,6 @@ a [Windows](Windows "Windows") chess program dedicated to the [mass market](http
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Associated People](#associated-people)
-	+ [2.1 Programmer & Producer](#programmer-.26-producer)
-	+ [2.2 Chess Consultants](#chess-consultants)
-* [3 See also](#see-also)
-* [4 Reviews](#reviews)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2003](#2003)
-	+ [5.2 2004 ...](#2004-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Program](#chess-program)
-	+ [6.2 Hoyle](#hoyle)
-	+ [6.3 Majestic](#majestic)
-* [7 References](#references)
-
-
-
-
-
-
- [](Majestic_Chess#Video "Majestic Chess#Video") 
-Majestic Chess - Start Screen <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ## Associated People
 
 

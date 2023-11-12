@@ -13,52 +13,6 @@ and [Kristallweizen](Kristallweizen "Kristallweizen") [[6]](#cite_note-6), appar
 
 
 
-### Contents
-
-
-* [1 Stockfish NNUE](#Stockfish_NNUE)
-* [2 NNUE Engines](#NNUE_Engines)
-* [3 NN Structure](#NN_Structure)
-* [4 See also](#See_also)
-* [5 Publications](#Publications)
-* [6 Forum Posts](#Forum_Posts)
-	+ [6.1 2020](#2020)
-		- [6.1.1 January ...](#January_...)
-		- [6.1.2 July](#July)
-		- [6.1.3 August](#August)
-		- [6.1.4 September](#September)
-		- [6.1.5 October](#October)
-		- [6.1.6 November](#November)
-		- [6.1.7 December](#December)
-	+ [6.2 2021](#2021)
-		- [6.2.1 January](#January)
-		- [6.2.2 February](#February)
-		- [6.2.3 March](#March)
-		- [6.2.4 April](#April)
-		- [6.2.5 May](#May)
-		- [6.2.6 June](#June)
-		- [6.2.7 July](#July_2)
-		- [6.2.8 August ...](#August_...)
-	+ [6.3 2022 ...](#2022_...)
-* [7 External Links](#External_Links)
-	+ [7.1 NNUE](#NNUE)
-	+ [7.2 NNUE libraries](#NNUE_libraries)
-	+ [7.3 Source Code](#Source_Code)
-	+ [7.4 Misc](#Misc)
-* [8 References](#References)
-
-
-
-
-
-
-As reported by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)") [[8]](#cite_note-8), 
-[Nodchip](Hisayori_Noda "Hisayori Noda") incorporated NNUE into the chess playing [Stockfish](Stockfish "Stockfish") 10 as a proof of concept.
-[Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") was born, and in summer 2020 the computer chess community bursts out enthusiastically due to its rapidly raising [playing strength](Playing_Strength "Playing Strength") with different networks trained using a mixture of [supervised](Supervised_Learning "Supervised Learning") and [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") methods -
-despite the approximately halved search speed, becoming stronger than its original [[9]](#cite_note-9), finally responsible for the huge [strength](Playing_Strength "Playing Strength") improvement of **Stockfish 12**.
-
-
-
 ## NNUE Engines
 
 

@@ -12,27 +12,6 @@ a chess engine by [Frans Morsch](Frans_Morsch "Frans Morsch") which evolved from
 
 
 
-### Contents
-
-
-* [1 Null Move](#null-move)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Frans Morsch, as well as other Dutch computer chess programmers like [Bart Weststrate](Bart_Weststrate "Bart Weststrate") and [Dap Hartmann](Dap_Hartmann "Dap Hartmann") <a id="cite-note-8" href="#cite-ref-8">[8]</a> , did early experiments with [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning") in the late 80s, likely after it was discussed at the panel workshop during the [WCCC 1986](WCCC_1986 "WCCC 1986") after [Don Beal's](Don_Beal "Don Beal") talk covering null move <a id="cite-note-9" href="#cite-ref-9">[9]</a> . Frans Morsch told [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") about recursive null move, who popularized it by his *Null Move and Deep Search* paper in the [ICCA Journal](ICGA_Journal "ICGA Journal") 1993 <a id="cite-note-10" href="#cite-ref-10">[10]</a> .
-
-
-
 ## Selected Games
 
 

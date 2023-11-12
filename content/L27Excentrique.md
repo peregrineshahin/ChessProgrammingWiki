@@ -12,25 +12,6 @@ a chess program by [Claude Jarry](Claude_Jarry "Claude Jarry") running on [Amdah
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos](#photos)
-* [3 Games](#games)
-* [4 Fast Searcher](#fast-searcher)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-L'Excentrique participated at the [ACM 1976](ACM_1976 "ACM 1976"), [ACM 1979](ACM_1979 "ACM 1979") and [ACM 1981](ACM_1981 "ACM 1981"), and the [3rd WCCC 1980](WCCC_1980 "WCCC 1980") in [Linz](http://en.wikipedia.org/wiki/Linz), where it upset reigning champion [Chess 4.9](Chess_(Program) "Chess (Program)") in round one, becoming strong fourth only losing from [Belle](Belle "Belle") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . 
-
-
-
 ## Photos
 
 

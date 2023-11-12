@@ -14,23 +14,6 @@ and was further incorporated inside the [Mephisto MM II](Mephisto_MM_II "Mephist
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 WMCCC 1985](#wmccc-1985)
-	+ [1.2 WCCC 1986](#wccc-1986)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
 ### WMCCC 1985
 
 

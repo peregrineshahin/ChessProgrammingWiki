@@ -12,29 +12,6 @@ a [RISC](https://en.wikipedia.org/wiki/Reduced_Instruction_Set_Computer) archite
 
 
 
-### Contents
-
-
-* [1 Architecture](#architecture)
-* [2 Chess Programs](#chess-programs)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 UltraSPARC](#ultrasparc)
-	+ [4.2 T/M-Series](#t.2fm-series)
-	+ [4.3 OpenSPARC](#opensparc)
-	+ [4.4 Assembly](#assembly)
-	+ [4.5 SPARCstation](#sparcstation)
-* [5 References](#references)
-
-
-
-
-
-
-The SPARC processor usually contains as many as 160 general purpose registers, with 32 of them immediately visible to software, that is 8 global register g0-g7 and 3x8 as [register window](https://en.wikipedia.org/wiki/Register_window) at function entry and exit moved up and down the register [stack](Stack "Stack"). Each window has 8 local registers and shares 8 registers with each of the adjacent windows to pass parameters or return values <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The [endianness](Endianness "Endianness") of the 32-bit SPARC **V8** architecture is purely [big-endian](Big-endian "Big-endian"), while the 64-bit SPARC V9 architecture uses big-endian instructions, but can access data in either big-endian or [little-endian](Little-endian "Little-endian") order, chosen either at the application instruction ([load/store](https://en.wikipedia.org/wiki/Load/store_architecture)) level or at the [memory page](Memory "Memory") level (via an [MMU](https://en.wikipedia.org/wiki/Memory_management_unit) setting) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In 1995, the V9 UltraSPARC first implemented the [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") [Visual Instruction Set](https://en.wikipedia.org/wiki/Visual_Instruction_Set) (VSI), introduced in 1994. 
-
-
-
 ## Chess Programs
 
 

@@ -12,24 +12,6 @@ was a German representative of [Fidelity Electronics](Fidelity_Electronics "Fide
 
 
 
-### Contents
-
-
-* [1 WMCCC 1983](#wmccc-1983)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-During the [round 5 game](WMCCC_1983#Round5 "WMCCC 1983") at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budapest](https://en.wikipedia.org/wiki/Budapest), [Prestige Challenger](Chess_Challenger "Chess Challenger") versus [Mephisto X](Mephisto_(H) "Mephisto (H)"), Reckwitz had some dispute with [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), but they reconciled the next day after a draw was adjudicated <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and later even became business partners.
-
-
-
 ## See also
 
 

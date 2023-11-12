@@ -13,31 +13,6 @@ Executables are available for [Windows](Windows "Windows"), [Linux](Linux "Linux
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Kiwi uses [bitboards](Bitboards "Bitboards") as basic board representation, and generates [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"). 
-It performs [MTD(f)](MTD(f) "MTD(f)") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [killer](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), and [transposition table](Transposition_Table "Transposition Table"). 
-The [evaluation](Evaluation "Evaluation") considers [development](Development "Development"), [Fruit](Fruit "Fruit") like [mobility](Mobility "Mobility"), and [pawn structure](Pawn_Structure "Pawn Structure") utilizing a [pawn hash table](Pawn_Hash_Table "Pawn Hash Table"), 
-with focus on [passed pawns](Passed_Pawn "Passed Pawn") and [pawn races](Pawn_Race "Pawn Race"). 
-
-
-
 ## Tournament Play
 
 

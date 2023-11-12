@@ -12,20 +12,6 @@ a Swedish engineer, computer scientist, in 2014 retired from [Volvo](https://en.
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1998 ...](#1998-...)
-	+ [1.2 2000 ...](#2000-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1998 ...
 
 

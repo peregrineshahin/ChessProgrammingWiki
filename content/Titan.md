@@ -15,54 +15,6 @@ Titan won the [ACM 1993](ACM_1993 "ACM 1993") on a [486](X86 "X86") [PC](IBM_PC 
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-[ACM 1993](ACM_1993 "ACM 1993"), round 2, Socrates II - [ChessMachine](ChessMachine "ChessMachine") [Schroder](Gideon "Gideon")
-
-
-
-
-```
-
-[Event "ACM 1993"]
-[Site "Indianapolis USA"]
-[Date "1993.02.14"]
-[Round "2"]
-[White "Socrates II"]
-[Black "Chessmachine Schroder"]
-[Result "1-0"]
-
-1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.b3 Bb4 7.Bd2 O-O 8.Bd3 dxc4
-9.bxc4 Nc5 10.Be2 Bxc3 11.Bxc3 Nce4 12.Bb4 c5 13.dxc5 Qc7 14.Qd4 a5 15.Ba3
-Rd8 16.Qe5 Qb8 17.Qxb8 Rxb8 18.Ne5 Bd7 19.f3 Nc3 20.Bb2 Na4 21.Bd4 Rbc8
-22.Nd3 Bc6 23.O-O Nd7 24.Rac1 f6 25.e4 e5 26.Be3 Nf8 27.Rfd1 Ne6 28.Rc2
-Nd4 29.Bxd4 Rxd4 30.Rb1 Rcd8 31.Rb3 h5 32.Kf2 Kf8 33.Ra3 Kf7 34.Ke3 g5
-35.Rc1 Ke6 36.Bd1 Ke7 37.Bxa4 Bxa4 38.Rcc3 Bc6 39.Rxa5 Kf7 40.Ra7 Kg6 41.a4
-g4 42.a5 h4 43.Nb4 Rd2 44.Rd3 R8xd3+ 45.Nxd3 gxf3 46.gxf3 Ra2 47.f4 exf4+
-48.Nxf4+ Kf7 49.Nd5 Ra3+ 50.Kd4 Ra4 51.h3 Kf8 52.Nxf6 Ra3 53.Nd5 Rxh3
-54.a6 bxa6 55.Rxa6 Be8 56.c6 Rh1 57.Ra8 Kf7 58.Ra7+ Kf8 59.c7 Bd7 60.Ke5
-Rg1 61.Kd6 Bg4 62.Ra8+ 1-0
-
-```
-
-[Game on Lichess.org](https://lichess.org/r2ngVnd5)
-
-
-
 ## See also
 
 

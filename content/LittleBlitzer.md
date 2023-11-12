@@ -11,28 +11,6 @@ Tournaments are either round-robin where each engine plays the same number of [g
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2010 ...](#2010-...)
-	+ [2.2 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Amoeba Tournament Manager](Amoeba#TournamentManager "Amoeba")
-* [Cutechess-cli](Cutechess-cli "Cutechess-cli")
-* [Engine Testing](Engine_Testing "Engine Testing")
-* [LittleThought](LittleThought "LittleThought")
-* [Match Statistics](Match_Statistics "Match Statistics")
-
-
 ## Forum Posts
 
 

@@ -17,61 +17,6 @@ There are several classical and new developed test-position suites available as
 
 
 
-### Contents
-
-
-* [1 Test Suites](#Test_Suites)
-* [2 Studies and famous Positions](#Studies_and_famous_Positions)
-* [3 Other Test Suites](#Other_Test_Suites)
-* [4 Opening Suites](#Opening_Suites)
-	+ [4.1 Banks](#Banks)
-	+ [4.2 Hyatt](#Hyatt)
-	+ [4.3 Lacrosse](#Lacrosse)
-	+ [4.4 Nebula](#Nebula)
-	+ [4.5 Noomen](#Noomen)
-	+ [4.6 Nunn](#Nunn)
-	+ [4.7 Pohl](#Pohl)
-	+ [4.8 Silver](#Silver)
-* [5 Publications](#Publications)
-	+ [5.1 1950 ...](#1950_...)
-	+ [5.2 1970 ...](#1970_...)
-	+ [5.3 1980 ...](#1980_...)
-	+ [5.4 1990 ...](#1990_...)
-* [6 Forum Posts](#Forum_Posts)
-	+ [6.1 1997 ...](#1997_...)
-	+ [6.2 2000 ...](#2000_...)
-	+ [6.3 2005 ...](#2005_...)
-	+ [6.4 2010 ...](#2010_...)
-	+ [6.5 2015 ...](#2015_...)
-	+ [6.6 2020 ...](#2020_...)
-	+ [6.7 Albert Silver's Test Positions](#Albert_Silver.27s_Test_Positions)
-	+ [6.8 Leonid's Positions](#Leonid.27s_Positions)
-* [7 External Links](#External_Links)
-* [8 References](#References)
-
-
-
-
-
-
-add more...
-
-
-
-* [Bednorz-Tönissen Test](index.php?title=BT-Test&action=edit&redlink=1 "BT-Test (page does not exist)") (BT-Test, BS-Test)
-* [Bratko-Kopec Test](Bratko-Kopec_Test "Bratko-Kopec Test") (BK-Test)
-* [CCR One Hour Test](CCR_One_Hour_Test "CCR One Hour Test") by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
-* [Eigenmann Endgame Test](index.php?title=Eigenmann_Endgame_Test&action=edit&redlink=1 "Eigenmann Endgame Test (page does not exist)")
-* [Eigenmann Rapid Engine Test](Eigenmann_Rapid_Engine_Test "Eigenmann Rapid Engine Test")
-* [Kaufman Test](Kaufman_Test "Kaufman Test")
-* [LCT II](LCT_II "LCT II")
-* [The Nolot Suite](The_Nolot_Suite "The Nolot Suite")
-* [Null Move Test-Positions](Null_Move_Test-Positions "Null Move Test-Positions")
-* [Silent but Deadly](Silent_but_Deadly "Silent but Deadly") an [EPD](Extended_Position_Description "Extended Position Description") test by [Dann Corbit](Dann_Corbit "Dann Corbit") that is designed to help [tune](Automated_Tuning "Automated Tuning") chess engines (2008)
-* [Strategic Test Suite](Strategic_Test_Suite "Strategic Test Suite") by [Dann Corbit](Dann_Corbit "Dann Corbit") and [Swaminathan](Swaminathan_Natarajan "Swaminathan Natarajan")
-* [Win at Chess](Win_at_Chess "Win at Chess")
-
-
 ## Studies and famous Positions
 
 

@@ -14,26 +14,6 @@ and a M.Sc. and Ph.D. in [algorithms](Algorithms "Algorithms") and [theoretical 
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2015 ...](#2015-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Thomas Dybdahl Ahle is owner and primary developer of [PyChess](PyChess "PyChess"), a [chess client](GUI "GUI") and engine for the [Linux](Linux "Linux") desktop. He is further author of the didactic [Python](Python "Python") [open source chess engines](Category:Open_Source "Category:Open Source") [Sunfish](Sunfish "Sunfish") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [FastChess](FastChess "FastChess"), the latter a one-layer [neural network](Neural_Networks "Neural Networks") [softmax](https://en.wikipedia.org/wiki/Softmax_function) model, combined with a [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search").
-
-
-
 ## Selected Publications
 
 

@@ -14,28 +14,6 @@ Takenobu Takizawa is chair of the [Computer Shogi Association](CSA "CSA") (CSA),
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2008 ...](#2008-...)
-	+ [2.2 2010 ...](#2010-...-2)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### 2000 ...
 
 

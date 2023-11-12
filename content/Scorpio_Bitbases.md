@@ -12,29 +12,6 @@ are compact [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") created by [
 
 
 
-### Contents
-
-
-* [1 Open Source](#open-source)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2005 ...](#2005-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2013](#2013)
-	+ [3.4 2014 ...](#2014-...)
-	+ [3.5 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Scorpio Bitbases are open source, since October 2013 distributed under the [BSD license](https://en.wikipedia.org/wiki/BSD_licenses) <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Under [Windows](Windows "Windows"), probing is encapsulated via a [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library), which already provides a heuristic score instead of pure WDL information in order to make progress at the root without the need to probe huge DTC/DTM tablebases. As of January 2014, Daniel finished the **6-men** Scorpio Bitbases, available from [Joshua Shriver's](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)") [torrent](https://en.wikipedia.org/wiki/BitTorrent) site <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## See also
 
 

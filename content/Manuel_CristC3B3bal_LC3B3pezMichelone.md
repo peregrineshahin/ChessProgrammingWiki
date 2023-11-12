@@ -12,44 +12,6 @@ a Mexican [FIDE](FIDE "FIDE") [master of chess](https://en.wikipedia.org/wiki/FI
 
 
 
-### Contents
-
-
-* [1 Description Language for Chess](#description-language-for-chess)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Jorge Luis Ortega-Arjona](Jorge_Luis_Ortega-Arjona "Jorge Luis Ortega-Arjona"), Manuel Cristóbal López-Michelone introduced a pattern description language for [chess positions](Chess_Position "Chess Position"), published in [ICGA Journal, Vol. 42, No. 1](ICGA_Journal#42_1 "ICGA Journal") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-The game of chess involves patterns. In this article we develop a simple description language for chess positions as patterns. It seems useful to catalogue similar positions in a generic form, based on common elements, in order to simplify the search for chess positions. A simple chess pattern language is used here to develop a computer program to find similar chess configurations. The aim is to avoid a commonly-used brute force approach. Further, this language could explain why some typical maneuvers actually work in some patterns. This could also be a step forward to model and build chess programs, which perform in a way closer to what a human being does. 
-
-```
-
-The instructions of the language are:
-
-
-
-* A(B) – Piece A attacks/defends Piece B
-* A(square) – Piece A attacks square
-* A square – Piece A at square
-* taboo(square) – Make a square unavailable to defender
-* action(chess movement) – The recommended move for the pattern
-* structw([list of pawns]) – Defines the structure of the white pawns on the board
-* structb([list of pawns]) – Defines the structure of black pawns on the board
-* Logical connectors(“,”, “;”) – “,” is AND, “;” is OR.
-* Single line comments can be made with the “//” delimiter, for example, //This is a comment.
-
-
 ## Selected Publications
 
 

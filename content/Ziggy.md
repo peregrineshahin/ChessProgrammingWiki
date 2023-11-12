@@ -12,25 +12,6 @@ a chess program for the [Commodore 64](Commodore_64 "Commodore 64") by [Henk Kuy
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Dutch](#dutch)
-	+ [1.2 Kallisto](#kallisto)
-* [2 Namesake](#namesake)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ### Dutch
 
 

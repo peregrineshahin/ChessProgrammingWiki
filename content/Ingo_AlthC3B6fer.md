@@ -15,32 +15,6 @@ Ingo Althöfer's professional as well as private research interests cover a broa
 
 
 
-### Contents
-
-
-* [1 Photos](#Photos)
-	+ [1.1 Chess960CWC 2005](#Chess960CWC_2005)
-	+ [1.2 Tilburg 2011](#Tilburg_2011)
-* [2 3-Hirn's Motto](#3-Hirn.27s_Motto)
-* [3 Selected Publications](#Selected_Publications)
-	+ [3.1 1985 ...](#1985_...)
-	+ [3.2 1990 ...](#1990_...)
-	+ [3.3 1995 ...](#1995_...)
-	+ [3.4 2000 ...](#2000_...)
-	+ [3.5 2005 ...](#2005_...)
-	+ [3.6 2010 ...](#2010_...)
-	+ [3.7 2015 ...](#2015_...)
-	+ [3.8 2020 ...](#2020_...)
-* [4 Forum Posts](#Forum_Posts)
-* [5 External Links](#External_Links)
-	+ [5.1 Pictorial Reports](#Pictorial_Reports)
-* [6 References](#References)
-
-
-
-
-
-
 ### Chess960CWC 2005
 
 

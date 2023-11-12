@@ -13,30 +13,6 @@ In the context of [search](Search "Search"), a Move is the edge, connecting two 
 
 
 
-### Contents
-
-
-* [1 Type of Moves](#type-of-moves)
-	+ [1.1 Quiet Moves](#quiet-moves)
-	+ [1.2 Altering Material](#altering-material)
-* [2 Tactical Properties](#tactical-properties)
-* [3 Reversibility](#reversibility)
-* [4 Involved Squares](#involved-squares)
-* [5 Encoding and Generating](#encoding-and-generating)
-* [6 Notation](#notation)
-* [7 Adjunct Moves](#adjunct-moves)
-* [8 Make and Unmake](#make-and-unmake)
-* [9 See also](#see-also)
-* [10 Publications](#publications)
-* [11 Forum Posts](#forum-posts)
-* [12 External Links](#external-links)
-* [13 References](#references)
-
-
-
-
-
-
 ### Quiet Moves
 
 

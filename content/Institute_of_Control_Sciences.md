@@ -14,31 +14,6 @@ title: Institute of Control Sciences
 
 
 
-### Contents
-
-
-* [1 Scientists](#scientists)
-* [2 Consultants](#consultants)
-* [3 Chess Program](#chess-program)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky")
-* [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov")
-* [Alexander Bitman](Alexander_Bitman "Alexander Bitman")
-* [Alexey Y. Chervonenkis](Mathematician#AChervonenkis "Mathematician")
-* [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy")
-* [Alexander Y. Lerner](Mathematician#ALerner "Mathematician")
-* [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov")
-* [Vladimir N. Vapnik](Mathematician#VNVapnik "Mathematician")
-
-
 ## Consultants
 
 

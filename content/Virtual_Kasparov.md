@@ -12,29 +12,6 @@ a commercial, [Kasparov](Garry_Kasparov "Garry Kasparov") licensees <a id="cite-
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Description given from [MobyGames](https://en.wikipedia.org/wiki/MobyGames) <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-Virtual Kasparov is a chess game with thirty-one opponents of varying difficulty to face in a story mode. Victory over this multi-cultural group of chess players will lead you to Gary Kasparov himself. Various styles of boards are included along with several [3D boards](3D_Graphics_Board "3D Graphics Board"). Multiplayer is supported via link-cable or on a single system. 
-
-```
-
 ## See also
 
 

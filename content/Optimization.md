@@ -8,34 +8,6 @@ title: Optimization
 
 
 
-### Contents
-
-
-* [1 Premature Optimization](#premature-optimization)
-* [2 Program Optimizations](#program-optimizations)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Program Optimization](#program-optimization)
-	+ [6.2 Mathematical Optimization](#mathematical-optimization)
-* [7 References](#references)
-
-
-
-
-
-
-As a warning on premature optimization a quote by [Donald Knuth](Donald_Knuth "Donald Knuth") <a id="cite-note-1" href="#cite-ref-1">[1]</a>:
-
-
-
-
-```C++
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.  
-
-```
-
 ## Program Optimizations
 
 

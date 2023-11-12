@@ -8,32 +8,6 @@ title: SSE3
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [AltiVec](AltiVec "AltiVec")
-* [AVX](AVX "AVX")
-* [MMX](MMX "MMX")
-* [SIMD and SWAR Techniques](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques")
-* [SSE](SSE "SSE")
-* [SSE2](SSE2 "SSE2")
-* [SSSE3](SSSE3 "SSSE3")
-* [SSE4](SSE4 "SSE4")
-* [SSE5](SSE5 "SSE5")
-* [x86-64](X86-64 "X86-64")
-* [XOP](XOP "XOP")
-
-
 ## Publications
 
 

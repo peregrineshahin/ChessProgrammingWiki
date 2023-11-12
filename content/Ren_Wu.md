@@ -13,28 +13,6 @@ He holds a Ph.D. from [Queen Mary, University of London](Queen_Mary,_University_
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 ICGA Journal Award](#icga-journal-award)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Ren Wu's [Chinese](Chinese_Chess "Chinese Chess") (Xiangqi) and Western chess programs were [Surprise](index.php?title=Surprise_(Xiangqi)&action=edit&redlink=1 "Surprise (Xiangqi) (page does not exist)"), two times Chinese Chess Gold Medal winner at the [3rd](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad") and [4th Computer Olympiad](4th_Computer_Olympiad#ChineseChess "4th Computer Olympiad"), and the chess program [Initiative](index.php?title=Initiative&action=edit&redlink=1 "Initiative (page does not exist)") which did not compete in [ICCA](ICCA "ICCA") tournaments <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
-According to [Chris Whittington](Chris_Whittington "Chris Whittington"), the chess software for the [Psion 3a](https://en.wikipedia.org/wiki/Psion_Series_3) [PDA](https://en.wikipedia.org/wiki/Personal_digital_assistant), [Psion Series 3 Chess](index.php?title=Psion_Series_3_Chess&action=edit&redlink=1 "Psion Series 3 Chess (page does not exist)"), was written by Ren Wu <a id="cite-note-8" href="#cite-ref-8">[8]</a>, who joined Whittington's [Oxford Softworks](Oxford_Softworks "Oxford Softworks") as game developer in 1996. 
-
-
-
 ## ICGA Journal Award
 
 

@@ -18,23 +18,6 @@ and [quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory) <
 
 
 
-### Contents
-
-
-* [1 CC Sapiens](#cc-sapiens)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the early 90s, Vasily Vladimirov was collaborator of [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Evgeniĭ Dmitrievich Cherevik](Evgeni%C4%AD_Dmitrievich_Cherevik "Evgeniĭ Dmitrievich Cherevik") and [Vitaly Vygodsky](Vitaly_Vygodsky "Vitaly Vygodsky") in working on [Chess Computer Sapiens](CC_Sapiens "CC Sapiens") and its economic counterpart *Economical Computer Sapiens* <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Selected Publications
 
 

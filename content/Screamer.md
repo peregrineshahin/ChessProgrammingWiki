@@ -15,23 +15,6 @@ and a variable [transposition table](Transposition_Table "Transposition Table") 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1998 ...](#1998-...)
-	+ [1.2 2000](#2000)
-	+ [1.3 2001 ...](#2001-...)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1998 ...
 
 

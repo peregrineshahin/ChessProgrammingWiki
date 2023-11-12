@@ -12,27 +12,6 @@ Quite similar to UCI, it uses a Shogi extension of the [Forsyth-Edwards Notation
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2007 ...](#2007-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol")
-* [UCI](UCI "UCI")
-* [USI2WB](UCI2WB#USI2WB "UCI2WB")
-* [USI compliant Engines](Category:USI "Category:USI")
-
-
 ## Forum Posts
 
 

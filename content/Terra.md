@@ -14,32 +14,6 @@ In 2004, the development of Terra was stopped in favor of Peter's new engine [Al
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Etymology](#etymology)
-* [3 Selected Games](#selected-games)
-	+ [3.1 CCT2](#cct2)
-	+ [3.2 CCT5](#cct5)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 The Engine](#the-engine)
-	+ [6.2 Terra elsewhere](#terra-elsewhere)
-* [7 References](#references)
-
-
-
-
-
-
-Terra uses [bitboards](Bitboards "Bitboards") both in [generation of moves](Move_Generation "Move Generation") and in [evaluation](Evaluation "Evaluation"). In June 1998, [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") were implemented which gave a huge speedup in generating [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). 
-Terra performs [PVS](Principal_Variation_Search "Principal Variation Search") with [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning"), [move ordering](Move_Ordering "Move Ordering") is enhanced by the [Killer heuristic](Killer_Heuristic "Killer Heuristic") with two [killers](Killer_Move "Killer Move") per [ply](Ply "Ply") level, and [history heuristic](History_Heuristic "History Heuristic"), while [quiescence search](Quiescence_Search "Quiescence Search") is restricted by [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"). 
-Further, Terra features [Book learning](Book_Learning "Book Learning") and is able to access [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-
 ## Etymology
 
 

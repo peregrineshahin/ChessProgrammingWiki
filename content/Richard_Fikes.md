@@ -14,28 +14,6 @@ He was principal investigator of major projects for multiple Federal Government 
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1968 ...](#1968-...)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1980 ...](#1980-...)
-	+ [2.4 1990 ...](#1990-...)
-	+ [2.5 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-As editor if the [ACM SIGART newsletter](ACM#SIG "ACM") from 1972 to 1974, Richard Fikes reported on early computer chess tournaments, notably the [Fourth North American Computer-Chess Championship 1973](ACM_1973 "ACM 1973") in [Atlanta](https://en.wikipedia.org/wiki/Atlanta%2C_Georgia), and the [First World Computer Chess Championship 1974](WCCC_1974 "WCCC 1974") in [Stockholm](https://en.wikipedia.org/wiki/Stockholm).
-
-
-
 ## Selected Publications
 
 

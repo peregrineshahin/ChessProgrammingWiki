@@ -10,26 +10,6 @@ an American computer scientist, [Correspondence Chess](https://en.wikipedia.org/
 
 
 
-### Contents
-
-
-* [1 Fruit Reloaded](#fruit-reloaded)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2005](#2005)
-	+ [2.2 2006 ...](#2006-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Simultaneously with the [Senpai 1.0](Senpai "Senpai") release by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") in March 2014 <a id="cite-note-10" href="#cite-ref-10">[10]</a>, and initiated by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), an independent fork of Fruit 2.1, dubbed [Fruit Reloaded](Fruit_Reloaded "Fruit Reloaded") by Fabien Letouzey, Daniel Mehrmann, and Ryan Benitez appeared <a id="cite-note-11" href="#cite-ref-11">[11]</a>, hosted by [Steve Maughan's](Steve_Maughan "Steve Maughan") Computer Chess Programming <a id="cite-note-12" href="#cite-ref-12">[12]</a> and sources at [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-13" href="#cite-ref-13">[13]</a>.
-
-
-
 ## Forum Posts
 
 

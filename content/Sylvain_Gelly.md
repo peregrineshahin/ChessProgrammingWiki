@@ -12,25 +12,6 @@ a French computer scientist, [deep learning](Deep_Learning "Deep Learning") rese
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2005 ...](#2005-...)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-8" href="#cite-ref-8">[8]</a>
-
-
-
 ### 2005 ...
 
 

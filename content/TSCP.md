@@ -12,43 +12,6 @@ Tom's Simple Chess Program has been written by [Tom Kerrigan](Tom_Kerrigan "Tom 
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Licensing](#licensing)
-* [3 Legal derivatives](#legal-derivatives)
-* [4 Clones](#clones)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1997 ...](#1997-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-* [Board Representation](Board_Representation "Board Representation") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-	+ [10x12 Mailbox](10x12_Board "10x12 Board")
-	+ [Offset Move Generation](10x12_Board#OffsetMG "10x12 Board")
-* [Search](Search "Search") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-	+ [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-	+ [Alpha-Beta](Alpha-Beta "Alpha-Beta")
-	+ [Quiescence Search](Quiescence_Search "Quiescence Search")
-	+ [History Heuristic](History_Heuristic "History Heuristic")
-	+ [Triangular PV-Table](Triangular_PV-Table "Triangular PV-Table")
-	+ [Repetition detection](SCP#Repetitions "SCP") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-* [Evaluation](Evaluation "Evaluation") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-	+ [Material Balance](Material#Balance "Material")
-	+ [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables")
-	+ [Pawn Structure](Pawn_Structure "Pawn Structure")
-
-
 ## Licensing
 
 

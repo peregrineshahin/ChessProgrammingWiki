@@ -14,42 +14,6 @@ Soft Jacqueline Bras played the [Massy 2004](Massy_2004 "Massy 2004") and [Massy
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[FCCC 2004](FCCC_2004 "FCCC 2004"), round 1, [Chess Wizard](Chess_Wizard "Chess Wizard") - Soft Jacqueline Bras <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "FCCC 2004"]
-[Site "Massy"]
-[Date "2004.10.16"]
-[Round "1"]
-[White "Chess Wizard"]
-[Black "Soft Jacqueline Bras"]
-[Result "1-0"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
-9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.Nb3 a5 15.Be3 a4 
-16.Nbd2 Bd7 17.Rc1 Rac8 18.Bd3 Rb8 19.d5 Qb7 20.dxc6 Bxc6 21.Rc2 h6 22.Nh4 
-d5 23.Nf5 dxe4 24.Rxc6 exd3 25.Qf3 Kh7 26.Bxh6 a3 27.Bxg7 axb2 28.Qh5+ Nxh5 
-29.Rh6+ Kg8 30.Rh8# 1-0
-
-```
-
 ## Forum Posts
 
 

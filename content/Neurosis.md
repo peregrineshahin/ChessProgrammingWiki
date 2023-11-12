@@ -14,30 +14,6 @@ Beside the WinBoard engine, Stan offers the stand-alone [Windows](Windows "Windo
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Tournament Play](#tournament-play)
-	+ [2.1 Photos](#photos)
-	+ [2.2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Neurosis applies [alpha-beta](Alpha-Beta "Alpha-Beta") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration](Aspiration_Windows "Aspiration Windows") and [transposition table](Transposition_Table "Transposition Table"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, various [extension](Extensions "Extensions") and [pruning](Pruning "Pruning") techniques, including "intelligent" [delta pruning](Delta_Pruning "Delta Pruning") in [quiescence search](Quiescence_Search "Quiescence Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-Already S-chess had quite a bit of chess-knowledge about [king safety](King_Safety "King Safety"), [development](Development "Development"), [center control](Center_Control "Center Control"), and [pawn structure](Pawn_Structure "Pawn Structure"), such as [doubled and tripled pawns](Doubled_Pawn "Doubled Pawn"), [isolated pawns](Isolated_Pawn "Isolated Pawn"), pawn groups, [passed pawns](Passed_Pawn "Passed Pawn"), etc. Due to re-writes and clean ups, Neurosis' [search](Search "Search") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [evaluation](Evaluation "Evaluation") have been revised several times, yielding in considerably improved passed pawn handling, and in general faster and deeper search.
-
-
-
 ## Tournament Play
 
 

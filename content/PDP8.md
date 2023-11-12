@@ -16,22 +16,6 @@ An amount of user-donated software for the PDP-8 was available from [DECUS](http
 
 
 
-### Contents
-
-
-* [1 PDP-8 Chess Programs](#pdp-8-chess-programs)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Category:PDP-8](Category:PDP-8 "Category:PDP-8")
-
-
 ## See also
 
 

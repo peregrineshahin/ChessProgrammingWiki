@@ -10,31 +10,6 @@ the observation that for the [side to move](Side_to_move "Side to move") there i
 
 
 
-### Contents
-
-
-* [1 Base](#base)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 References](#references)
-
-
-
-
-
-
-The Null Move Observation is base of:
-
-
-
-* [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
-* [Null Move Reductions](Null_Move_Reductions "Null Move Reductions")
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
-* [Razoring](Razoring "Razoring")
-* [Reverse Futility Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning")
-* [Standing Pat](Quiescence_Search#StandPat "Quiescence Search") in [Quiescence Search](Quiescence_Search "Quiescence Search") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
 ## Publications
 
 

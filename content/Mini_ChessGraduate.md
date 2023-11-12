@@ -12,35 +12,6 @@ along with [Junior Chess](#junior) and [Graduate Chess](#graduate), a series of 
 
 
 
-### Contents
-
-
-* [1 160 Nibble Challenge](#160-nibble-challenge)
-* [2 Derivatives](#derivatives)
-	+ [2.1 Junior Chess](#junior-chess)
-	+ [2.2 Graduate Chess](#graduate-chess)
-	+ [2.3 CXG](#cxg)
-	+ [2.4 Chess Cards](#chess-cards)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Mini Chess](#mini-chess)
-	+ [4.2 Junior Chess](#junior-chess-2)
-	+ [4.3 Graduate Chess](#graduate-chess-2)
-	+ [4.4 Chess Cards](#chess-cards-2)
-* [5 References](#references)
-
-
-
-
-
-
-160 nibbles of RAM is a challenge. The HD44801 has an internal 4 word return [stack](Stack "Stack"), so one may assume a maximum [search depth](Depth "Depth") of 4, but one has to be careful with external [interrupts](https://en.wikipedia.org/wiki/Interrupt), i. e. from keyboard or timer, since they cause an implicit call to an [interrupt handler](https://en.wikipedia.org/wiki/Interrupt_handler), pushing the instruction pointer on the internal stack as well, with the possibility to cause an [stack overflow](https://en.wikipedia.org/wiki/Stack_overflow). One may better implement a simple [iterative search](Iterative_Search "Iterative Search"), called after [making a move](Make_Move "Make Move") at the [root](Root "Root") within its [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. 
-
-
-The board is apparently represented by an [incremental updated](Incremental_Updates "Incremental Updates") [8x8](8x8_Board "8x8 Board") [array](Array "Array") of nibbles. The ply stack entry consists of [en passant](En_passant "En passant")- and [castling rights](Castling_Rights "Castling Rights"), the [move](Moves "Moves") to [unmake](Unmake_Move "Unmake Move"), likely 3 nibbles [12-bit from-to encoding](Encoding_Moves "Encoding Moves") also interpreted as state of a deterministic [move generator](Move_Generation "Move Generation"), and [alpha](Alpha "Alpha"), while [beta](Beta "Beta") might be restored from alpha of the previous ply in [negamax](Negamax "Negamax") manner. Of course, with such a minimalistic design, [move ordering](Move_Ordering "Move Ordering") is a big issue, and how to utilize the remaining nibbles in a most efficient manner, considering [MVV-LVA](MVV-LVA "MVV-LVA") and possibly maintaining a small [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") say for four plies.
-
-
-
 ## Derivatives
 
 

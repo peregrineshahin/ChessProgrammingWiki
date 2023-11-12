@@ -8,41 +8,6 @@ title: WinBoard
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Quotes](#quotes)
-* [3 Chess protocols](#chess-protocols)
-* [4 Pros and Cons](#pros-and-cons)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1990 ...](#1990-...)
-	+ [6.2 1995 ...](#1995-...)
-	+ [6.3 2000 ...](#2000-...)
-	+ [6.4 2005 ...](#2005-...)
-	+ [6.5 2010 ...](#2010-...)
-	+ [6.6 2015 ...](#2015-...)
-* [7 External Links](#external-links)
-	+ [7.1 Free Software Foundation](#free-software-foundation)
-	+ [7.2 Tim Mann & H.G. Muller](#tim-mann-.26-h.g.-muller)
-	+ [7.3 WiBoard Misc](#wiboard-misc)
-* [8 References](#references)
-
-
-
-
-
-
-[](File:Xboard-4.4.0-petite.png)
-WinBoard 4.4.0 running [GNU Chess](GNU_Chess "GNU Chess")]
-
-
-  
-
-
-
-
 ## Quotes
 
 

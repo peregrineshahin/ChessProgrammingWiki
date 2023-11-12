@@ -13,47 +13,6 @@ a chess program developed by [Ed Schröder](Ed_Schroder "Ed Schroder"). After Ed
 
 
 
-### Contents
-
-
-* [1 Rebel with NNUE](#Rebel_with_NNUE)
-* [2 Screenshot](#Screenshot)
-* [3 Photos & Games](#Photos_.26_Games)
-	+ [3.1 WCCC 1986](#WCCC_1986)
-	+ [3.2 WCCC 1992](#WCCC_1992)
-	+ [3.3 Rebel vs Anand July 1998](#Rebel_vs_Anand_July_1998)
-* [4 Associated People](#Associated_People)
-* [5 History](#History)
-* [6 How Rebel plays Chess](#How_Rebel_plays_Chess)
-* [7 Descriptions](#Descriptions)
-	+ [7.1 1989](#1989)
-	+ [7.2 1999](#1999)
-* [8 Release Dates](#Release_Dates)
-* [9 See also](#See_also)
-* [10 Publications](#Publications)
-* [11 Reviews](#Reviews)
-* [12 Forum Posts](#Forum_Posts)
-	+ [12.1 1995 ...](#1995_...)
-	+ [12.2 2000 ...](#2000_...)
-	+ [12.3 2005 ...](#2005_...)
-	+ [12.4 2010 ...](#2010_...)
-	+ [12.5 2015 ...](#2015_...)
-	+ [12.6 2020 ...](#2020_...)
-* [13 External Links](#External_Links)
-	+ [13.1 Chess Program](#Chess_Program)
-	+ [13.2 Rebel](#Rebel)
-* [14 References](#References)
-
-
-
-
-
-
-**Rebel 14**, released in January 2022 as [UCI](UCI "UCI") compliant [open source engine](Category:Open_Source "Category:Open Source") under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"), is based on [Fruit 2.1](Fruit "Fruit") by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") and **Growing Fruit** improvements by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), the Fruit [evaluation](Evaluation "Evaluation") replaced by an own [NNUE](NNUE "NNUE") implementation dubbed **Benjamin 1.1** [[2]](#cite_note-2), along with optimized NNUE inference code by [Chris Whittington](Chris_Whittington "Chris Whittington") [[3]](#cite_note-3). 'Rebel 14 is over 350 Elo stronger than the latest ProDeo 3.1 [[4]](#cite_note-4). Soon later, the further improved Rebel 14.1 was released, which came along with four different networks crated by Chris Whittington in the famous [Chess System Tal](Chess_System_Tal "Chess System Tal") style [[5]](#cite_note-5). 
-In April 2022 followed Rebel 15, and in November 2022 Rebel 16.
-
-
-
 ## Screenshot
 
 

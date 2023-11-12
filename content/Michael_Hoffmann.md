@@ -10,21 +10,6 @@ a German computer scientist, programmer, and chess player <a id="cite-note-1" hr
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2009](#2009)
-	+ [1.2 2010 ...](#2010-...)
-	+ [1.3 2015 ...](#2015-...)
-	+ [1.4 2020 ...](#2020-...)
-* [2 References](#references)
-
-
-
-
-
-
 ### 2009
 
 

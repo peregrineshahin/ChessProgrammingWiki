@@ -14,25 +14,6 @@ RattateChess is announced to be superseded by its successor under development, [
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-	+ [4.3 Nosferatu](#nosferatu)
-* [5 References](#references)
-
-
-
-
-
-
 ### Search
 
 

@@ -12,29 +12,6 @@ a French computer scientist, games researcher, entrepreneur, and professor of Co
 
 
 
-### Contents
-
-
-* [1 Monte-Carlo Go](#Monte-Carlo_Go)
-* [2 Selected Publications](#Selected_Publications)
-	+ [2.1 1995 ...](#1995_...)
-	+ [2.2 2000](#2000)
-	+ [2.3 2005 ...](#2005_...)
-	+ [2.4 2010 ...](#2010_...)
-	+ [2.5 2015 ...](#2015_...)
-	+ [2.6 2020 ...](#2020_...)
-* [3 External Links](#External_Links)
-* [4 References](#References)
-
-
-
-
-
-
-In April 2000, Tristan Cazenave wrote the [Monte-Carlo](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") part of [Computer Go](Go "Go") survey for the [Artificial Intelligence journal](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), and following a discussion on Monte-Carlo Go with [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), he re-implemented [Bernd Brügmann's](Bernd_Br%C3%BCgmann "Bernd Brügmann") program *Gobble* [[3]](#cite_note-3) and compared it to a more simple Monte-Carlo sampling approach, finding only little difference in level. The idea was further developed by [Bernard Helmstetter](Bernard_Helmstetter "Bernard Helmstetter"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Yizao Wang](Yizao_Wang "Yizao Wang") and [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly") who all much improved Monte-Carlo Go to the point it has become the current best approach to computer Go [[4]](#cite_note-4) . Along with [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)"), Tristan Cazenave is co-author of the Go program [GoLois](https://www.game-ai-forum.org/icga-tournaments/program.php?id=130), three times Gold Medal winner in [Phantom Go](Phantom_Go "Phantom Go") [[5]](#cite_note-5) at [Computer Olympiads](Computer_Olympiad "Computer Olympiad"), and along with [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") co-author of the [Hex](Hex "Hex") program [Yopt](https://www.game-ai-forum.org/icga-tournaments/program.php?id=556), both applying [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"). In 2009, Tristan Cazenave and [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat") won the [General Game Playing](General_Game_Playing "General Game Playing") [competition](http://www.ru.is/faculty/yngvi/GIGA09/ggpc2009.html) at [IJCAI 2009](http://dblp.uni-trier.de/db/conf/ijcai/ijcai2009.html) with their program *Ary* [[6]](#cite_note-6) , applying *Nested Monte-Carlo Search* [[7]](#cite_note-7)
-
-
-
 ## Selected Publications
 
 

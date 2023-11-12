@@ -12,32 +12,6 @@ an American computer scientist, best known for creating the [Usenet](https://en.
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Quotes](#quotes)
-* [3 Publications](#publications)
-* [4 Usenet Posts](#usenet-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f) 
-[CHAOS](CHAOS "CHAOS") vs. [Duchess](Duchess "Duchess") at the [ACM 1979](ACM_1979 "ACM 1979") <a id="cite-note-10" href="#cite-ref-10">[10]</a> [David Cahlander](David_Cahlander "David Cahlander"), [William Toikka](William_Toikka "William Toikka"), [Fred Swartz](Fred_Swartz "Fred Swartz") and Tom Truscott 
-
-
-
- [](http://www.computerhistory.org/collections/accession/102665753) 
-Chess pioneers in [Sacher Hotel Vienna](https://en.wikipedia.org/wiki/Hotel_Sacher), Austria 1980: [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Tony Marsland](Tony_Marsland "Tony Marsland"),  
-[Dave Slate](David_Slate "David Slate"), [David Levy](David_Levy "David Levy"), [Claude Shannon](Claude_Shannon "Claude Shannon"), [Ken Thompson](Ken_Thompson "Ken Thompson"), Betty Shannon, Tom Truscott <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ## Quotes
 
 

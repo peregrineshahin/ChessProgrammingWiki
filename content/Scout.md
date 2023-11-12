@@ -12,24 +12,6 @@ an [Alpha-Beta](Alpha-Beta "Alpha-Beta") enhancement introduced by [Judea Pearl]
 
 
 
-### Contents
-
-
-* [1 Enhancements](#enhancements)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 1983 [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") turned Scout and [Negamax](Negamax "Negamax") with some [fail-soft](Fail-Soft "Fail-Soft") refinements into [NegaScout](NegaScout "NegaScout") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Already in 1982, [Tony Marsland](Tony_Marsland "Tony Marsland") and [Murray Campbell](Murray_Campbell "Murray Campbell") introduced [PVS](Principal_Variation_Search "Principal Variation Search") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , based on [Finkel's](Raphael_Finkel "Raphael Finkel") and [Fishburn's](John_Philip_Fishburn "John Philip Fishburn") routine **Palphabeta** <a id="cite-note-7" href="#cite-ref-7">[7]</a> , in Fishburn's 1981 Thesis <a id="cite-note-8" href="#cite-ref-8">[8]</a> called **Calphabeta**, which in turn is similar to Judea Pearl's Scout.
-
-
-
 ## See also
 
 

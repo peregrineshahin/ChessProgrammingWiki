@@ -13,44 +13,6 @@ a piece relative value concerning its relative strength in potential exchanges b
 
 
 
-### Contents
-
-
-* [1 Theoretical Attempt](#theoretical-attempt)
-* [2 Basic values](#basic-values)
-* [3 Reciprocal piece values](#reciprocal-piece-values)
-* [4 Samples](#samples)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1993 ...](#1993-...)
-	+ [7.2 2000 ...](#2000-...)
-	+ [7.3 2005 ...](#2005-...)
-	+ [7.4 2010 ...](#2010-...)
-	+ [7.5 2015 ...](#2015-...)
-	+ [7.6 2020 ...](#2020-...)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-[Jack Good](Jack_Good "Jack Good") in his *Five-Year Plan for Automatic Chess, Appendix F* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-A theoretical attempt to evaluate the pieces was made by H. M. Taylor in 1876 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, reported by [Coxeter](Mathematician#Coxeter "Mathematician") (1940, pp. 162-165 <a id="cite-note-5" href="#cite-ref-5">[5]</a>). The value of a piece is taken as proportional to the average number of squares controlled, averaged over all 64 positions of the piece on the board. This argument leads to the relative values of N, B, R and Q: **3**, **5**, **8** and **13** <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Coxeter (or Taylor) goes on to modify the argument by asking instead for the probability of 'safely' giving [check](Check "Check"), that is, without being [en prise](En_prise "En prise") to the king, if the piece and king are both placed on the board at random. This gives the ratios **12**, **14**, **22** and **40**. These values are good, but this modification of the argument is artificial. 
-
-```
-
-
-
-
-
 ## Basic values
 
 

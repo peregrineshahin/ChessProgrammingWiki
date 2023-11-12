@@ -11,49 +11,6 @@ a chess program written by [R. Kevin Phillips](R._Kevin_Phillips "R. Kevin Phill
 
 
 
-### Contents
-
-
-* [1 Pseudo Code](#pseudo-code)
-* [2 Summary](#summary)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Source code and report of the program with pseudo code are available from Craig Bruce's sites <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```C++
-
-CutoffSearch (Player, Depth, CutoffValue);
-    If Depth = 0 Then
-        return (0);
-    Else
-        BestScore := -infinity;
-        Generate the move list for Player as per current board setup;
-        For each legal move in the move list do
-            Make the current move and get MoveScore;
-            SubTreeCutoffValue := MoveScore - BestScore;
-            Score := MoveScore - CutoffSearch (enemy of Player, Depth - 1,
-                                               SubTreeCutoffValue);
-            UnMake the current move;
-            If Score > BestScore then BestScore := Score;
-            If BestScore >= CutoffValue then exit the For loop;
-        End For;
-        Return (BestScore);
-    End If;
-End CutoffSearch;
-
-```
-
 ## Summary
 
 

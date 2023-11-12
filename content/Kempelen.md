@@ -12,46 +12,6 @@ a chess program written by [Attila Kovács](index.php?title=Attila_Kov%C3%A1cs&a
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Photos](#photos)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WMCCC 1985](WMCCC_1985 "WMCCC 1985") (Amateurs), round 4, [PK83](PK "PK") - Kempelen I <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1985 (Amateurs)"]
-[Site "Amsterdam, NL"]
-[Date "1985.09.11"]
-[Round "4"]
-[White "PK83"]
-[Black "Kempelen I"]
-[Result "0-1"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nf6 7.d5 Na7 8.Bg5 Be7 
-9.Bxf6 Bxf6 10.Nbd2 b5 11.Bc2 O-O 12.O-O Qe7 13.Qe2 c5 14.a4 Rfe8 15.axb5 
-axb5 16.Ra5 Bg4 17.b4 cxb4 18.cxb4 Rac8 19.Bd3 Rc3 20.Bxb5 Nxb5 21.Rxb5 
-Rec8 22.h3 Bd7 23.Rb7 Qe8 24.g4 g6 25.g5 Bxh3 26.gxf6 Bxf1 27.Kxf1 h5 
-28.Ra7 Rc1+ 29.Kg2 R1c3 30.Ng5 R8c7 31.Rxc7 Rxc7 32.Qd3 Qd8 33.Qb5 Rc3 
-34.Nb1 Rc1 35.Na3 Qxf6 36.Nf3 Rc3 37.Qe8+ Kg7 38.Nxe5 dxe5 39.Nb5 Qf3+ 
-0-1
-
-```
-
 ## Photos
 
 

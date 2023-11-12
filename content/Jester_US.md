@@ -13,25 +13,6 @@ It is based on [TSCP](TSCP "TSCP") and uses the [SAN](Algebraic_Chess_Notation#S
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Jester](Jester "Jester") by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
-
-
 ## See also
 
 

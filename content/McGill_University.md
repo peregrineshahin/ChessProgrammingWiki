@@ -13,27 +13,6 @@ established in 1821 by [royal charter](https://en.wikipedia.org/wiki/Royal_chart
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 Photos](#photos)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Fixafan](Fixafan "Fixafan")
-* [L'Excentrique](L%27Excentrique "L'Excentrique")
-* [MBChess](MBChess "MBChess")
-* [Ostrich](Ostrich "Ostrich")
-* [Peasant](Peasant "Peasant")
-
-
 ## People
 
 

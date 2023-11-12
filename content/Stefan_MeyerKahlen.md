@@ -12,32 +12,6 @@ a German computer scientist, professional computer chess programmer, and author 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 SMK](#smk)
-	+ [4.2 Interviews](#interviews)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.thorstenczub.de/Paderborn.html) 
-[Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") and SMK, celebrating [IPCCC 1998](IPCCC_1998 "IPCCC 1998") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-[
-Stefan Meyer-Kahlen talking with Axel Fritz about [Pocket Fritz](Fritz#PocketFritz "Fritz"), 2001 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Publications
 
 

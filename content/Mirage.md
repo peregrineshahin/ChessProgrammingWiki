@@ -14,30 +14,6 @@ In the late 90s some code units from Mirage were incorporated into [Centaur](Cen
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Screenshot](#screenshot)
-* [3 Selected Games](#selected-games)
-	+ [3.1 WMCCC 1993](#wmccc-1993)
-	+ [3.2 Aegon 1997](#aegon-1997)
-* [4 Dedicated Namesakes](#dedicated-namesakes)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Mirage was quite active in the 90s, and played the [WCCC 1992](WCCC_1992 "WCCC 1992"), the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") and the [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), further [Don Beal's](Don_Beal "Don Beal") [UPCCC 1993](UPCCC_1993 "UPCCC 1993") <a id="cite-note-9" href="#cite-ref-9">[9]</a> and [UPCCC 1994](UPCCC_1994 "UPCCC 1994"), and four [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") from [1994](Aegon_1994 "Aegon 1994") to [1997](Aegon_1997 "Aegon 1997"). 
-
-
-
 ## Screenshot
 
 

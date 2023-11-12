@@ -10,36 +10,6 @@ title: University of California Santa Cruz
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Jonathan Allen](index.php?title=Jonathan_Allen&action=edit&redlink=1 "Jonathan Allen (page does not exist)")
-* [John Amenta](John_Amenta "John Amenta")
-* [Brian Beach](index.php?title=Brian_Beach&action=edit&redlink=1 "Brian Beach (page does not exist)")
-* [Tal Dayan](index.php?title=Tal_Dayan&action=edit&redlink=1 "Tal Dayan (page does not exist)")
-* [Yoav Freund](Yoav_Freund "Yoav Freund")
-* [Gil Fuchs](index.php?title=Gil_Fuchs&action=edit&redlink=1 "Gil Fuchs (page does not exist)")
-* [Jeffrey Gould](index.php?title=Jeffrey_Gould&action=edit&redlink=1 "Jeffrey Gould (page does not exist)")
-* [Edward Hamilton](index.php?title=Edward_Hamilton&action=edit&redlink=1 "Edward Hamilton (page does not exist)")
-* [Robert Levinson](Robert_Levinson "Robert Levinson")
-* [Ari Shapiro](index.php?title=Ari_Shapiro&action=edit&redlink=1 "Ari Shapiro (page does not exist)")
-* [Shivkumar Shivaji](index.php?title=Shivkumar_Shivaji&action=edit&redlink=1 "Shivkumar Shivaji (page does not exist)")
-* [Richard Snyder](Richard_Snyder "Richard Snyder")
-* [Kirack Sohn](index.php?title=Kirack_Sohn&action=edit&redlink=1 "Kirack Sohn (page does not exist)")
-* [Daniel Walker](index.php?title=Daniel_Walker&action=edit&redlink=1 "Daniel Walker (page does not exist)")
-* [Ryan Weber](index.php?title=Ryan_Weber&action=edit&redlink=1 "Ryan Weber (page does not exist)")
-
-
 ## Chess Programs
 
 

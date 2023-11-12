@@ -12,33 +12,6 @@ used in [nodes](Node "Node") of the [search tree](Search_Tree "Search Tree") in 
 
 
 
-### Contents
-
-
-* [1 Reduction](#reduction)
-* [2 Conditions](#conditions)
-* [3 Insurance](#insurance)
-* [4 Publications](#publications)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1998 ...](#1998-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2005 ...](#2005-...)
-	+ [6.4 2010 ...](#2010-...)
-	+ [6.5 2015 ...](#2015-...)
-	+ [6.6 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-The main implementation detail of IID comes with how to reduce the search. Typical reductions include -1, -2, /2, or /4. Some also use either the minimum or the maximum of a subtraction and a division.
-
-
-
 ## Conditions
 
 

@@ -10,24 +10,6 @@ an [open source chess program](Category:Open_Source "Category:Open Source") by [
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Search](#search)
-	+ [1.2 Repetitions](#repetitions)
-	+ [1.3 Evaluation](#evaluation)
-* [2 Publications](#publications)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### Search
 
 

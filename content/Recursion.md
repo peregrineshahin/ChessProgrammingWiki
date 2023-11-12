@@ -10,47 +10,6 @@ title: Recursion
 
 
 
-### Contents
-
-
-- [Recursive Definitions](#recursive-definitions)
-	- [PGN Syntax](#pgn-syntax)
-	- [Index of PV-Array](#index-of-pv-array)
-	- [Population Count](#population-count)
-	- [Infix Expression](#infix-expression)
-- [Implementation](#implementation)
-- [Recursive Data types](#recursive-data-types)
-- [Recursive Algorithms](#recursive-algorithms)
-	- [Searching](#searching)
-	- [Sorting](#sorting)
-- [See also](#see-also)
-- [Publications](#publications)
-- [Forum Posts](#forum-posts)
-- [External Links](#external-links)
-	- [Recursion](#recursion)
-	- [Recursive Functions](#recursive-functions)
-	- [Ackermann Function](#ackermann-function)
-	- [McCarthy 91-Function](#mccarthy-91-function)
-	- [Tak](#tak)
-	- [Self-reference](#self-reference)
-	- [Fractals](#fractals)
-	- [Misc](#misc)
-- [References](#references)
-
-
-
-
-
-
-In the [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle to move N disks from peg A to C can be reduced to three sub problems:
-
-
-
-1. Moving N-1 disks from peg A to intermediate peg B
-2. Move the largest Disk N from peg A to target C
-3. Finally move the N-1 parked disks from B to C
-
-
 ## Recursive Definitions
 
 

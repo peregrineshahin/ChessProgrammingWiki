@@ -15,26 +15,6 @@ Along with [Henri Bal](Henri_Bal "Henri Bal") in 1986, he wrote two papers on [p
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1985 ...](#1985-...)
-	+ [1.2 1990 ...](#1990-...)
-	+ [1.3 2000 ...](#2000-...)
-	+ [1.4 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 1985 ...
 
 

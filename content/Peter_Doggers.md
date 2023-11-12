@@ -13,21 +13,6 @@ Peter Doggers continued his work as chess journalist at Chess.com. His postings 
 
 
 
-### Contents
-
-
-* [1 Postings](#postings)
-	+ [1.1 2010 ...](#2010-...)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2010 ...
 
 

@@ -16,26 +16,6 @@ in the meantime also open source <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Tutorial Archive](#tutorial-archive)
-	+ [4.3 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
 ### Board Representation
 
 

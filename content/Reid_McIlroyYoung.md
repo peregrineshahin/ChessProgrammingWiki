@@ -13,27 +13,6 @@ Along with [Russell Wang](Russell_Wang "Russell Wang"), [Siddhartha Sen](Siddhar
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [John McLevey](https://scholar.google.ca/citations?user=zkQN59MAAAAJ&hl=en), Reid McIlroy-Young (**2017**). *[Introducing metaknowledge: Software for computational research in information science, network analysis, and science of science](https://econpapers.repec.org/article/eeeinfome/v_3a11_3ay_3a2017_3ai_3a1_3ap_3a176-197.htm)*. [Journal of Informetrics](https://en.wikipedia.org/wiki/Journal_of_Informetrics), Vol. 11, No. 1
-* Reid McIlroy-Young, [Siddhartha Sen](Siddhartha_Sen "Siddhartha Sen"), [Jon Kleinberg](Jon_Kleinberg "Jon Kleinberg"), [Ashton Anderson](Ashton_Anderson "Ashton Anderson") (**2020**). *Aligning Superhuman AI with Human Behavior: Chess as a Model System*. In Proceedings of the 26th [ACM SIGKDD 2020](ACM#SIGKDD "ACM"), [arXiv:2006.01855](https://arxiv.org/abs/2006.01855)
-* Reid McIlroy-Young, [Russell Wang](Russell_Wang "Russell Wang"), [Siddhartha Sen](Siddhartha_Sen "Siddhartha Sen"), [Jon Kleinberg](Jon_Kleinberg "Jon Kleinberg"), [Ashton Anderson](Ashton_Anderson "Ashton Anderson") (**2020**). *Learning Personalized Models of Human Behavior in Chess*. [arXiv:2008.10086](https://arxiv.org/abs/2008.10086)
-
-
 ## External Links
 
 

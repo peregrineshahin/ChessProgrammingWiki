@@ -10,33 +10,6 @@ a four game correspondence match over nine months between the [Kotok-McCarthy-Pr
 
 
 
-### Contents
-
-
-* [1 The Challenge](#the-challenge)
-* [2 The Match](#the-match)
-* [3 Quotes](#quotes)
-	+ [3.1 Cold War on an 8x8 Board](#cold-war-on-an-8x8-board)
-	+ [3.2 Biography AS Kronrod](#biography-as-kronrod)
-* [4 Games](#games)
-	+ [4.1 Round 1](#round-1)
-	+ [4.2 Round 2](#round-2)
-	+ [4.3 Round 3](#round-3)
-	+ [4.4 Round 4](#round-4)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-In 1965, [John McCarthy](John_McCarthy "John McCarthy"), by then at [Stanford University](Stanford_University "Stanford University"), visited the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union). A group using the [M-20](M-20 "M-20") computer at [Alexander Kronrod’s](Alexander_Kronrod "Alexander Kronrod") laboratory at the Moscow [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") (**ITEP**) challenged him to a match. Kronrod considered the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") to be the best program in the United States at the time <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
-
-
-
 ## The Match
 
 

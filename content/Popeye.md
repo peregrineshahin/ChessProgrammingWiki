@@ -12,30 +12,6 @@ an [open source](Category:Open_Source "Category:Open Source") [program for solvi
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Alybadix](Alybadix "Alybadix")
-* [APwin](APwin "APwin")
-* [Chess Problems, Compositions and Studies](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies")
-* [Chest](Chest "Chest")
-* [Gustav](Gustav "Gustav")
-* [Mate Search](Mate_Search "Mate Search")
-* [Proof-Number Search](Proof-Number_Search "Proof-Number Search")
-
-
 ## Forum Posts
 
 

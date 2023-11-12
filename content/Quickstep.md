@@ -15,34 +15,6 @@ connected with a small terminal with a 32-character display and keypad to enter 
 
 
 
-### Contents
-
-
-* [1 Sole leader](#sole-leader)
-* [2 Strange facts](#strange-facts)
-* [3 Disqualification](#disqualification)
-* [4 Selected Games](#selected-games)
-	+ [4.1 Mephisto](#mephisto)
-	+ [4.2 AI Chess](#ai-chess)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-After five rounds with four consecutive wins versus [Why Not 89](Y! "Y!"), [Nightmare](Nightmare_GER "Nightmare GER"), [Kempelen](Kempelen "Kempelen") and [Pandix](Pandix "Pandix"), 
-and the bye, the so far unknown program was the sole leader, and then lost the endgame from later winner and Almería successor [Mephisto X](Mephisto "Mephisto") aka [Mephisto Portorose](Mephisto_Portorose "Mephisto Portorose"). 
-In round 7, versus [Marty Hirsch's](Marty_Hirsch "Marty Hirsch") [AI Chess](AI_Chess "AI Chess"), Quickstep lost due to a hole in the [opening book](Opening_Book "Opening Book"), 
-and the Mephisto team around [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Richard Lang](Richard_Lang "Richard Lang") and [book author](Category:Opening_Book_Author "Category:Opening Book Author") [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") raised suspicions, because the same line was also inside the Almeria book. 
-After collecting more evidence [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") filed a protest. 
-
-
-
 ## Strange facts
 
 

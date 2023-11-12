@@ -13,26 +13,6 @@ a German wholesale chess bookseller and publisher, owner and CEO of the *EuroChe
 
 
 
-### Contents
-
-
-* [1 Legal Issues](#legal-issues)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Due to advertisement issues and disputed statements in EuroChess' *Chess Computer Catalog 1996* <a id="cite-note-6" href="#cite-ref-6">[6]</a>, problems with monetary consequences for the programmers under contract arose. 
-Mutual preliminary injunction initiated by Stamer's business rival [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and continuous court cases over years <a id="cite-note-7" href="#cite-ref-7">[7]</a> was the consequence. 
-In February 1997, Marty Hirsch made a public accusation against his former distributor in a newsgroup <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>, while he was already about to collaborate with Weiner. 
-The German computer chess magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") broached that issue <a id="cite-note-10" href="#cite-ref-10">[10]</a>, where Stamer made a counter statement. 
-
-
-
 ## Forum Posts
 
 

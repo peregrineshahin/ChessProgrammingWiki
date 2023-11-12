@@ -13,26 +13,6 @@ It uses [NegaScout](NegaScout "NegaScout") and also includes most search enhance
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-* [The Turk](The_Turk_(TR) "The Turk (TR)") by [Yakup İpek](Yakup_%C4%B0pek "Yakup İpek")
-
-
 ## See also
 
 

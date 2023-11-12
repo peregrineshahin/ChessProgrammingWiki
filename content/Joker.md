@@ -13,23 +13,6 @@ Joker won the [2nd French Computer Chess Championship](index.php?title=FCCC_1993
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Joker](Joker_IT "Joker IT") by [Manlio Morini](Manlio_Morini "Manlio Morini")
-* [Joker](Joker_NL "Joker NL") by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-
-
 ## See also
 
 

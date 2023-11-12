@@ -11,21 +11,6 @@ developed since 2016, and first published in June 2018 <a id="cite-note-2" href=
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2016](#2016)
-	+ [1.2 2017/18](#2017.2f18)
-	+ [1.3 2019](#2019)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2016
 
 

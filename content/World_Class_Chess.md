@@ -12,22 +12,6 @@ Stafford claims World Class Chess was the first commercial chess program which o
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Greco](Greco "Greco")
-
-
 ## Forum Posts
 
 

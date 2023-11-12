@@ -12,37 +12,6 @@ a British computer scientist, and as computer chess programmer author of [HIARCS
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 HIARCS](#hiarcs)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
- [](http://www.thorstenczub.de/hiarcs.html) 
-[WMCCC 1993](WMCCC_1993 "WMCCC 1993") Playoff [Wundermaschine](Mephisto "Mephisto") vs. [HIARCS](HIARCS "HIARCS"), [Richard Lang](Richard_Lang "Richard Lang"), [David Levy](David_Levy "David Levy"),  
- Mark's father and Mark watching 
-
-
-
- [](http://www.thorstenczub.de/hiarcs.html) 
-[Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand) playing [HIARCS](HIARCS "HIARCS"), [Aegon 1997](Aegon_1997 "Aegon 1997")
-
-
-
 ## HIARCS
 
 

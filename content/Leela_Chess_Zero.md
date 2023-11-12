@@ -17,54 +17,6 @@ but using distributed training for the weights of the [deep](Neural_Networks#Dee
 
 
 
-### Contents
-
-
-* [1 Lc0](#Lc0)
-* [2 Description](#Description)
-	+ [2.1 Board Representation](#Board_Representation)
-	+ [2.2 Network](#Network)
-	+ [2.3 Training](#Training)
-* [3 Structure Diagrams](#Structure_Diagrams)
-* [4 Tournament Play](#Tournament_Play)
-	+ [4.1 First Experience](#First_Experience)
-	+ [4.2 Breakthrough](#Breakthrough)
-* [5 Release Dates](#Release_Dates)
-	+ [5.1 2018](#2018)
-	+ [5.2 2019](#2019)
-	+ [5.3 2020](#2020)
-	+ [5.4 2021](#2021)
-	+ [5.5 2022](#2022)
-	+ [5.6 2023](#2023)
-* [6 Authors](#Authors)
-* [7 See also](#See_also)
-* [8 Publications](#Publications)
-* [9 Forum Posts](#Forum_Posts)
-	+ [9.1 2018](#2018_2)
-	+ [9.2 2019](#2019_2)
-	+ [9.3 2020](#2020_2)
-	+ [9.4 2021](#2021_2)
-* [10 External Links](#External_Links)
-	+ [10.1 Chess Engine](#Chess_Engine)
-	+ [10.2 GitHub](#GitHub)
-	+ [10.3 Rating Lists](#Rating_Lists)
-	+ [10.4 ChessBase](#ChessBase)
-	+ [10.5 Chessdom](#Chessdom)
-	+ [10.6 Tuning](#Tuning)
-	+ [10.7 Misc](#Misc)
-* [11 References](#References)
-
-
-
-
-
-
-Leela Chess Zero consists of an executable to play or analyze [games](Chess_Game "Chess Game"), initially dubbed **LCZero**, soon rewritten by a team around [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk") for better performance and then called **Lc0** [[6]](#cite_note-6) [[7]](#cite_note-7). This executable, the actual chess engine, performs the [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") and reads the self-taught [CNN](Neural_Networks#Convolutional "Neural Networks"), which weights are persistent in a separate file.
-Lc0 is written in [C++](Cpp "Cpp") (started with [C++14](Cpp#14 "Cpp") then upgraded to [C++17](Cpp#17 "Cpp")) and may be compiled for various platforms and backends. Since deep CNN approaches are best suited to run massively in parallel on [GPUs](GPU "GPU") to perform all the [floating point](Float "Float") [dot products](https://en.wikipedia.org/wiki/Dot_product) for thousands of neurons, 
-the preferred target platforms are [Nvidia](Nvidia "Nvidia") [GPUs](GPU "GPU") supporting [CUDA](https://en.wikipedia.org/wiki/CUDA) and [cuDNN](https://en.wikipedia.org/wiki/cuDNN) libraries [[8]](#cite_note-8). [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee") wrote the cuDNN, also shared by [Deus X](Deus_X "Deus X") and [Allie](Allie "Allie") [[9]](#cite_note-9), and DX12 backend code. There exist meanwhile different Lc0 backends to be used with different hardware, not all neural network architectures/features are supported on all backends. Different backends and different network architectures with different net size give different nodes per second. CPUs can be utilized for example via BLAS and DNNL and GPUs via CUDA, cuDNN, OpenCL, DX12, Metal, ONNX, oneDNN backends.
-
-
-
 ## Description
 
 

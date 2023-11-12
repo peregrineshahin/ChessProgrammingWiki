@@ -14,43 +14,6 @@ and played the [DOCCC 1999](DOCCC_1999 "DOCCC 1999") and the [DOCCC 2000](DOCCC_
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 References](#references)
-
-
-
-
-
-
-[DOCCC 1999](DOCCC_1999 "DOCCC 1999"), round 10, [Quest](Quest "Quest") - McTobber99 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "DOCCC 1999"]
-[Site "Leiden NED"]
-[Date "1999.11.07"]
-[Round "10"]
-[White "Quest"]
-[Black "McTobber99"]
-[Result "1/2-1/2"]
-
-1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 d6 5.c3 Be7 6.O-O O-O 7.Bb3 Nbd7 8.Re1 Re8 9.d4 Bf8 10.Qc2 a5 
-11.dxe5 Nxe5 12.Nxe5 dxe5 13.Rd1 Qb6 14.Bg5 Bg4 15.Rd2 Be7 16.Be3 Qa6 17.a4 Red8 18.f3 Bh5 
-19.Na3 Rxd2 20.Qxd2 Rd8 21.Qf2 Nd7 22.Nc4 Kf8 23.Rd1 b5 24.Nd6 Nf6 25.Nf5 Rxd1+ 26.Bxd1 bxa4 
-27.Bc5 Bxc5 28.Qxc5+ Kg8 29.c4 a3 30.bxa3 h6 31.Ne7+ Kh7 32.Nxc6 Qb7 33.Bc2 Qb2 34.Bd3 Qc1+ 
-35.Bf1 Nd7 36.Qa7 Nf8 37.Nxe5 Qxa3 38.h3 a4 39.g4 Bg6 40.Nd3 Qb3 41.h4 a3 42.h5 Bxe4 43.fxe4 
-a2 44.Nc1 Qg3+ 45.Bg2 Qe1+ 46.Bf1 Qg3+ 47.Bg2 Qe1+ 1/2-1/2
-
-```
-
 ## See also
 
 

@@ -10,27 +10,6 @@ a British mathematician and emeritus from [University of Essex](https://en.wikip
 
 
 
-### Contents
-
-
-* [1 Q-Analysis](#q-analysis)
-* [2 Quotes](#quotes)
-	+ [2.1 Multi Dimensional Structure](#multi-dimensional-structure)
-	+ [2.2 Positional Play](#positional-play)
-	+ [2.3 Mathematical Structure](#mathematical-structure)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In applying [Q-analysis](https://en.wikipedia.org/wiki/Q-analysis) to chess, Atkin, and Atkin along with [Ian H. Witten](Ian_H._Witten "Ian H. Witten") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, represents a model to [evaluate](Evaluation "Evaluation") chess positions based on [connectivity](Connectivity "Connectivity") of [pieces](Pieces "Pieces") and [squares](Squares "Squares"). Squares, attacked by a particular piece are labeled a [simplex](https://en.wikipedia.org/wiki/Simplex), and simplexes are composed into [complexes](https://en.wikipedia.org/wiki/Simplicial_complex), both subject of further analysis yielding in move predictions <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Quotes
 
 

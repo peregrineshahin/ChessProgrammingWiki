@@ -15,39 +15,6 @@ In his 1987 [ICCA Journal](ICGA_Journal#10_3 "ICGA Journal") paper *Speculative 
 
 
 
-### Contents
-
-
-* [1 Authors](#authors)
-* [2 Namesake](#namesake)
-* [3 See also](#see-also)
-* [4 Quotes](#quotes)
-	+ [4.1 Waterloo](#waterloo)
-	+ [4.2 Zobrist Hashing](#zobrist-hashing)
-	+ [4.3 WCCC 1986](#wccc-1986)
-* [5 Descriptions](#descriptions)
-	+ [5.1 1989](#1989)
-	+ [5.2 1995](#1995)
-* [6 Selected Games](#selected-games)
-	+ [6.1 WCCC 1986](#wccc-1986-2)
-	+ [6.2 ACM 1988](#acm-1988)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-	+ [9.1 Chess Program](#chess-program)
-	+ [9.2 Phoenix Chess Systems](#phoenix-chess-systems)
-	+ [9.3 Phoenix elsewhere](#phoenix-elsewhere)
-* [10 References](#references)
-
-
-
-
-
-
-* [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer")
-* [Marius Olafsson](Marius_Olafsson "Marius Olafsson")
-
-
 ## Namesake
 
 

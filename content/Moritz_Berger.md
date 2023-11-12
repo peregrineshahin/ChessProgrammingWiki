@@ -13,21 +13,6 @@ During the 90s Moritz Berger was computer chess aficionado, tester and expert po
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1994 ...](#1994-...)
-	+ [1.2 1996 ...](#1996-...)
-	+ [1.3 1998 ...](#1998-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1994 ...
 
 

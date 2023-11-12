@@ -11,23 +11,6 @@ a Taiwanese computer scientist affiliated with the Computer Games and Intelligen
 
 
 
-### Contents
-
-
-* [1 CGI-2048](#cgi-2048)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Along with [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang") and [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Kun-Hao Yeh is co-author of the [2048](https://en.wikipedia.org/wiki/2048_%28video_game%29) bot *CGI-2048*, designed and implemented based on a new [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") method, called *Multi-Stage TD Learning*, as proposed by I-Chen Wu et al. in 2014 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The method was improved from a TD learning technique with N-Tuple networks, proposed by [Marcin Szubert](Marcin_Szubert "Marcin Szubert") and [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski") in 2014 <a id="cite-note-5" href="#cite-ref-5">[5]</a>. It won the second place at the 2048-Bot Tournament in in [Taipei](https://en.wikipedia.org/wiki/Taipei), Taiwan, from May 19 to June 6, 2014 <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

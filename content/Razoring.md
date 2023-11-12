@@ -10,38 +10,6 @@ Unlike [Alpha-Beta](Alpha-Beta "Alpha-Beta"), classical **Razoring** <a id="cite
 
 
 
-### Contents
-
-
-* [1 Pre Frontier Nodes](#pre-frontier-nodes)
-* [2 Deep Razoring](#deep-razoring)
-* [3 Limited Razoring](#limited-razoring)
-* [4 Amir Ban's Definition](#amir-ban.27s-definition)
-* [5 Implementations](#implementations)
-	+ [5.1 Crafty 15.17](#crafty-15.17)
-	+ [5.2 Dropping into Q-search](#dropping-into-q-search)
-	+ [5.3 Strelka](#strelka)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-	+ [8.1 1995 ...](#1995-...)
-	+ [8.2 2000 ...](#2000-...)
-	+ [8.3 2005 ...](#2005-...)
-	+ [8.4 2010 ...](#2010-...)
-	+ [8.5 2015 ...](#2015-...)
-	+ [8.6 2020 ...](#2020-...)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-The idea introduced by [John Birmingham](John_Birmingham "John Birmingham") and [Peter Kent](Peter_Kent "Peter Kent") <a id="cite-note-3" href="#cite-ref-3">[3]</a> was applied at so-called [pre frontier](Pre_Frontier_Node "Pre Frontier Node") (depth = 2) expected [All-Nodes](Node_Types#ALL "Node Types"). Before searching deeper, all [moves were generated](Move_Generation "Move Generation"), [made](Make_Move "Make Move"), [evaluated](Evaluation "Evaluation"), [unmade](Unmake_Move "Unmake Move") and then inserted inside a sorted [move list](Move_List "Move List"). While fetching the sorted moves in decreasing order - as long as the evaluation of each move exceeds [alpha](Alpha "Alpha") - they were tried as usual. Once a move statically does no longer improve [alpha](Alpha "Alpha"), this and all further moves (sorted below) are pruned without any further investigation.
-
-
-
 ## Deep Razoring
 
 

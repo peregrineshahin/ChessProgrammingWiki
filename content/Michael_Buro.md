@@ -12,28 +12,6 @@ a German computer scientist, [AI](Artificial_Intelligence "Artificial Intelligen
 
 
 
-### Contents
-
-
-* [1 GLEM](#glem)
-* [2 Selected Publication](#selected-publication)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 1995 ...](#1995-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2005 ...](#2005-...)
-	+ [2.5 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Michael Buro's *General Linear Evaluation Model* (**GLEM**), introduced at the [Computer and Games 1998](CG_1998 "CG 1998") conference in [Tsukuba](https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki), [Japan](https://en.wikipedia.org/wiki/Japan) <a id="cite-note-7" href="#cite-ref-7">[7]</a>, also applied to Othello, covers not only [automated tuning](Automated_Tuning "Automated Tuning") quite similar to [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method") which popularized [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") tuning in computer chess some years later, but further provides a procedure for exploring the feature space able to discover new [evaluation](Evaluation "Evaluation") features in a computational feasible way. 
-
-
-
 ## Selected Publication
 
 

@@ -14,24 +14,6 @@ and was active at the [IGT 2017](IGT_2017 "IGT 2017") <a id="cite-note-4" href="
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Satana](Satana "Satana")
-
-
 ## Forum Posts
 
 

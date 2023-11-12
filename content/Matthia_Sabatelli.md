@@ -14,27 +14,6 @@ He holds a B.Sc. from [University of Trento](https://en.wikipedia.org/wiki/Unive
 
 
 
-### Contents
-
-
-* [1 Chess](#chess)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2016 ...](#2016-...)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At University of Groningen, Matthia Sabatelli worked on chess - the project work along with [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos") and [Yaroslav Shkarupa](Yaroslav_Shkarupa "Yaroslav Shkarupa") dealt with [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") in simple [chess endgames](Endgame "Endgame") such as [KRK](KRK "KRK") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-In his M.Sc thesis, supervised by [Marco Wiering](Marco_Wiering "Marco Wiering") and [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu"), Matthia Sabatelli elaborates on [learning](Learning "Learning") to play chess with minimal [lookahead](Search "Search"), using [multilayer perceptrons](Neural_Networks#Deep "Neural Networks") versus [convolutional neural networks](Neural_Networks#Convolutional "Neural Networks") to approximate [Stockfish’s](Stockfish "Stockfish") [evaluation](Evaluation "Evaluation"), also comparing two different [board representations](Board_Representation "Board Representation") for the input layer
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Publications
 
 

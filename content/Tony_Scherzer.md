@@ -12,29 +12,6 @@ was an American electrical engineer, entrepreneur and chess programmer. Along wi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-* Tony Scherzer (**1979**). *Background on BB-1*. [Personal Computing, Vol. 3, No. 11](Personal_Computing#3_11 "Personal Computing"), pp. 80 » [BB-1](Bebe "Bebe")
-* Tony Scherzer, [Linda Scherzer](Linda_Scherzer "Linda Scherzer"), [Dean Tjaden](index.php?title=Dean_Tjaden&action=edit&redlink=1 "Dean Tjaden (page does not exist)") (**1990**). *Learning in Bebe.* [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition") » [Mephisto Best-Publication Award](Bebe#Award "Bebe")
-* Tony Scherzer, [Linda Scherzer](Linda_Scherzer "Linda Scherzer"), [Dean Tjaden](index.php?title=Dean_Tjaden&action=edit&redlink=1 "Dean Tjaden (page does not exist)") (**1991**). *Learning in Bebe.* [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-* [Ken Thompson](Ken_Thompson "Ken Thompson"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1995**). *Tributes to Tony Scherzer*. [ICCA Journal](ICGA_Journal#18_1 "ICGA Journal"), [Vol. 18, No. 1](http://ilk.uvt.nl/icga/journal/contents/node12.html)
-
-
 ## Forum Posts
 
 

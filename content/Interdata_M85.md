@@ -10,25 +10,6 @@ a 16-bit [minicomputer](https://en.wikipedia.org/wiki/Minicomputer) by [Interdat
 
 
 
-### Contents
-
-
-* [1 Panel](#panel)
-* [2 Chess Programs](#chess-programs)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:InterdataM85.JPG) 
-M85 Panel <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Chess Programs
 
 

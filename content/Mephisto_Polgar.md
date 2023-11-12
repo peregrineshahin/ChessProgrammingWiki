@@ -13,29 +13,6 @@ In 1990, an improved 10 MHz module was released <a id="cite-note-2" href="#cite-
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [ChessMachine](ChessMachine "ChessMachine")
-* [Gideon](Gideon "Gideon")
-* [Mephisto Milano](Mephisto_Milano "Mephisto Milano")
-* [Mephisto MM IV](Mephisto_MM_IV "Mephisto MM IV")
-* [Mephisto MM V](Mephisto_MM_V "Mephisto MM V")
-* [Mephisto Rebell](Mephisto_Rebell "Mephisto Rebell")
-* [Mephisto RISC](Mephisto_RISC "Mephisto RISC")
-* [Rebel](Rebel "Rebel")
-
-
 ## Publications
 
 

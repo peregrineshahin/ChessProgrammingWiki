@@ -11,25 +11,6 @@ Vladimir further published [machine learning](Learning "Learning") related artic
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [GreKo](GreKo "GreKo")
-* [Point Value by Regression Analysis](Point_Value_by_Regression_Analysis "Point Value by Regression Analysis")
-
-
 ## Forum Posts
 
 

@@ -12,32 +12,6 @@ a component of a [modular](https://en.wikipedia.org/wiki/Modular_design) dedicat
 
 
 
-### Contents
-
-
-* [1 Cartridges](#cartridges)
-* [2 Module Systems](#module-systems)
-	+ [2.1 Applied Concepts/Chafitz](#applied-concepts.2fchafitz)
-	+ [2.2 Hegener & Glaser](#hegener-.26-glaser)
-	+ [2.3 SciSys/Saitek](#scisys.2fsaitek)
-	+ [2.4 Misc](#misc)
-* [3 Module Engines](#module-engines)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Similar modularity was also common in early [video game consoles](Dedicated_Chess_Computers#Console "Dedicated Chess Computers"), where modules were called [cartridges](https://en.wikipedia.org/wiki/Cartridge), and also with [pluggable cards](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) in [PCs](IBM_PC "IBM PC") à la [The Final Chesscard](The_Final_Chesscard "The Final Chesscard") and [ChessMachine](ChessMachine "ChessMachine"), while other manufacturers preferred the flexible concept of a [sensory board](Sensory_Board "Sensory Board") as optional [user interface](User_Interface "User Interface") for small dedicated computers. However, with the advent of PCs with better performance general purpose hardware during the early 90s, and PC programs vastly becoming stronger than dedicated units, the basic motivation for module systems diminished.
-
-
-
-
-
-
 ## Module Systems
 
 

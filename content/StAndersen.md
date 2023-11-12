@@ -10,28 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Erik Robertsson](Er
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [New winboard program !!!! StAndersen !!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32537) by Alexandre Côme, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 19, 2000
-* [St.Andersen vs. Deamon 0.87A](https://www.stmintz.com/ccc/index.php?id=199856) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), November 30, 2001  » [Alarm](Alarm "Alarm")
-* [StAndersen 1.30 released](http://www.open-aurec.com/wbforum/viewtopic.php?t=36850&p=139714) by [Erik Robertsson](Erik_Robertsson "Erik Robertsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 13, 2002
-* [StAndersen 1.31 released](https://www.stmintz.com/ccc/index.php?id=223969) by [Erik Robertsson](Erik_Robertsson "Erik Robertsson"), [CCC](CCC "CCC"), April 16, 2002
-* [StAndersen 1.31 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36888) by [Erik Robertsson](Erik_Robertsson "Erik Robertsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 16, 2002
-* [Problems with StAndersen131 - Hashtable bug?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37378) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 20, 2002
-
-
 ## External Links
 
 

@@ -10,39 +10,6 @@ a British computer chess and AI games developing and trading company, founded in
 
 
 
-### Contents
-
-
-* [1 Recruiting Ground](#recruiting-ground)
-* [2 Intelligent Software](#intelligent-software)
-* [3 Associated People](#associated-people)
-* [4 Programs & Products](#programs-.26-products)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 External Links](#external-links)
-	+ [7.1 Company](#company)
-	+ [7.2 Dedicated Chess Computers](#dedicated-chess-computers)
-* [8 References](#references)
-
-
-
-
-
-
-The [PCW tournaments](PCW_Microcomputer_Chess_Championship "PCW Microcomputer Chess Championship") were their primary recruiting ground, where [Mike Johnson](Mike_Johnson "Mike Johnson"), [David Broughton](David_Broughton "David Broughton"), and [Mark Taylor](Mark_Taylor "Mark Taylor") from outside the computer chess circus were hired to develop programs for homecomputers and dedicated chess computers, later in 1981, [Martin Bryant](Martin_Bryant "Martin Bryant").
-
-
-[Mike Watters](Mike_Watters "Mike Watters") in *Chess Computer UK* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-[PCW tournaments](PCW_Microcomputer_Chess_Championship "PCW Microcomputer Chess Championship") were to provide [Levy](David_Levy "David Levy") and [O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") with a fertile recruiting ground for proven chess programmers. For the time being though other avenues were explored. At the bottom of his article entitled ‘Chess Programming: Before You Begin’ published in the May 1979 edition of Personal Computer World, David Levy added an advertisement for programmers. At this point the Philidor Software company was born. 
-
-```
-
- [](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) 
 ## Intelligent Software
 
 

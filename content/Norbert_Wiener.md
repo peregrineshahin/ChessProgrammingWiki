@@ -12,29 +12,6 @@ was an American mathematician and founder of [cybernetics](https://en.wikipedia.
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Quotes](#quotes)
-* [3 Selected Publications](#selected-publications)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://nathanbauman.com/seoulhero/nfblog/?p=317) 
-Gonzalo Torres y Quevedo demonstrates [El Ajedrecista](El_Ajedrecista "El Ajedrecista")  
-
-to Norbert Wiener, Paris Cybernetic Congress 1951 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Quotes
 
 

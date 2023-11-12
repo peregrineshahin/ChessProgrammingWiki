@@ -15,39 +15,6 @@ Nodes are classified by their topological properties inside the search tree, and
 
 
 
-### Contents
-
-
-* [1 Node Types](#node-types)
-* [2 Topology](#topology)
-* [3 Depth](#depth)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1995 ...](#1995-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2010 ...](#2010-...)
-	+ [5.4 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[Node Types](Node_Types "Node Types") of the [minimal tree](Search_Tree#MinimalGameTree "Search Tree") - enumerated as classified by [Knuth](Donald_Knuth "Donald Knuth") and Moore:
-
-
-
-1. [PV-Node](Node_Types#PV "Node Types") Knuth's **Type 1**
-2. [Cut-Node](Node_Types#CUT "Node Types") Knuth's **Type 2**, also called [fail-high](Fail-High "Fail-High") node
-3. [All-Node](Node_Types#ALL "Node Types") Knuth's **Type 3**, also called [fail-low](Fail-Low "Fail-Low") node
-
-
-PV-nodes are often treated differently by the search - see [Principal Variation Search](Principal_Variation_Search "Principal Variation Search") or [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") for examples.
-
-
-
 ## Topology
 
 

@@ -14,44 +14,6 @@ Shrike played the first three [CCT Tournaments](CCT_Tournaments "CCT Tournaments
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[CCT1](CCT1 "CCT1"), round 1, Shrike - [PostModernist](PostModernist "PostModernist") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "CCT1"]
-[Site "Internet Chess Club"]
-[Date "2000.01.30"]
-[Round "1"]
-[White "Shrike"]
-[Black "PostModernist"]
-[Result "1/2-1/2"]
-
-1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8. Bb3 h6 9.N5f3 c5 
-10.Bf4 Nbd5 11.Bd2 Qb6 12.dxc5 Bxc5 13.Nh3 O-O 14.O-O a5 15.a4 Ng4 16.Rad1 Rd8 17.Kh1 Bd7 
-18.Bc1 Bd6 19.Rd3 Qc7 20.Rfd1 Bxh2 21. Rd4 Ndf6 22.Nd2 h5 23.Nf3 Be5 24.Nxe5 Qxe5 25.Qxe5 
-Nxe5 26.Bg5 Rdc8 27. Bxf6 gxf6 28.f4 Bxa4 29.Rxa4 b5 30.Re4 Ng4 31.Rd2 Rd8 32.Red4 Rxd4 
-33. Rxd4 a4 34.Ba2 a3 35.Rb4 Rc8 36.c3 Rd8 37.bxa3 Rd1+ 38.Ng1 Nf2+ 39.Kh2 Ng4+ 40.Kh1 Nf2+ 
-41.Kh2 Ng4+ 42.Kh1 1/2-1/2
-
-```
-
 ## See also
 
 

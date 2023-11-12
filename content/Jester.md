@@ -15,45 +15,6 @@ Jester played various [French Computer Chess Championships](French_Computer_Ches
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Namesake](#namesake)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-[FCCC 2002](FCCC_2002 "FCCC 2002"), round 6, Jester 2.0 - [Chess Tiger 15](Chess_Tiger "Chess Tiger") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "FCCC 2002"]
-[Site "Massy, FR"]
-[Date "2002-10-05"]
-[Round "6"]
-[White "Jester 2.0"]
-[Black "Chess Tiger 15"]
-[Result "1/2-1/2"]
-
-1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Bb3 Nc6 8.Nc3 
-cxd4 9.Nxd4 Bd7 10.e4 Qc7 11.Be3 Bd6 12.f4 Bc5 13.e5 Ng4 14.Qxg4 Nxd4 
-15.Ba4 b5 16.Bd1 O-O 17.Ne4 Ba7 18.Nf6+ Kh8 19.Qh4 gxf6 20.Qxf6+ Kg8 
-21.Qg5+ Kh8 22.Qf6+ Kg8 23.Qg5+ Kh8 24.Qf6+  1/2-1/2
-
-```
-
 ## Namesake
 
 

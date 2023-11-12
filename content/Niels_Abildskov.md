@@ -14,33 +14,6 @@ Copper, his first chess engine trial was heavily influenced by [Vice](Vice "Vice
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Transposition table and multithreaded search](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76483) by Niels Abildskov, [CCC](CCC "CCC"), February 03, 2021 » [Shared Hash Table](Shared_Hash_Table "Shared Hash Table")
-* [Sorting moves during move ordering](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76491) by Niels Abildskov, [CCC](CCC "CCC"), February 04, 2021 » [Move Ordering](Move_Ordering "Move Ordering")
-* [Transposition table replacement scheme](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76499) by Niels Abildskov, [CCC](CCC "CCC"), February 05, 2021 » [Replacement Strategies](Transposition_Table#ReplacementStrategies "Transposition Table")
-* [Endgame recognition](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76521) by Niels Abildskov, [CCC](CCC "CCC"), February 07, 2021 » [Endgame](Endgame "Endgame")
-* [Effective branching factor question](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76529) by Niels Abildskov, [CCC](CCC "CCC"), February 08, 2021 » [Effective Branching Factor](Branching_Factor#EBF "Branching Factor")
-* [Staged move generation?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76835) by Niels Abildskov, [CCC](CCC "CCC"), March 10, 2021 » [Staged Move Generation](Move_Generation#Staged "Move Generation")
-* [King safety evaluation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76976) by Niels Abildskov, [CCC](CCC "CCC"), March 29, 2021 » [King Safety](King_Safety "King Safety")
-* [Progress on Loki](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77105) by Niels Abildskov, [CCC](CCC "CCC"), April 16, 2021
-* [Tuning search parameters](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77118) by Niels Abildskov, [CCC](CCC "CCC"), April 18, 2021 » [Automated Tuning](Automated_Tuning "Automated Tuning")
-* [Move ordering heuristics for captures](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77152) by Niels Abildskov, [CCC](CCC "CCC"), April 23, 2021 » [Move Ordering](Move_Ordering "Move Ordering")
-* [Listening for GUI input when searching](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77189) by Niels Abildskov, [CCC](CCC "CCC"), April 27, 2021 » [GUI](GUI "GUI"), [Search](Search "Search"), [Thread](Thread "Thread"), [UCI](UCI "UCI")
-* [A hybrid of SPSA and local optimization](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77420) by Niels Abildskov, [CCC](CCC "CCC"), June 01, 2021 » [SPSA](SPSA "SPSA"), [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-* [Staged move generation done right (Progress on Loki)](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77105&start=74)] by Niels Abildskov, [CCC](CCC "CCC"), July 23, 2021
-
-
 ## External Links
 
 

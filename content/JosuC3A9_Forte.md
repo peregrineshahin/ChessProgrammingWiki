@@ -14,22 +14,6 @@ and was first published as [WinBoard engine](Category:WinBoard "Category:WinBoar
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2002](#2002)
-	+ [1.2 2003](#2003)
-	+ [1.3 2004](#2004)
-	+ [1.4 2005 ...](#2005-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2002
 
 

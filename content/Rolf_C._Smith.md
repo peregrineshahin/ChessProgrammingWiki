@@ -11,23 +11,6 @@ an American computer scientist and early chess programmer. Along with [Franklin 
 
 
 
-### Contents
-
-
-* [1 R.C. Smith](#r.c.-smith)
-* [2 Programs](#programs)
-* [3 Publications](#publications)
-* [4 References](#references)
-
-
-
-
-
-
-Programmer R.C. Smith from [Englishtown, New Jersey](https://en.wikipedia.org/wiki/Englishtown,_New_Jersey), author of the [R. Smith's Chess Explorer 1](index.php?title=RSCE-1&action=edit&redlink=1 "RSCE-1 (page does not exist)") (RSCE-1) written in [Cobol](index.php?title=Cobol&action=edit&redlink=1 "Cobol (page does not exist)"), submitted to the [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) for evaluation, and subject of an 1978 [Computerworld](Computerworld "Computerworld") article <a id="cite-note-2" href="#cite-ref-2">[2]</a>, who had no knowledge what work had already be done in that field, is therefor likely not the same person. RSCE-1's purpose was not to play games, but position analysis, to find [mates](Checkmate "Checkmate"), and to perform a move path enumeration of up to three [plies](Ply "Ply"), later dubbed [Perft](Perft "Perft"), with [Perft(3) result](Perft_Results "Perft Results") of 8,902 from the [initial position](Initial_Position "Initial Position") already mentioned <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Programs
 
 

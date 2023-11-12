@@ -12,31 +12,6 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") suppo
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-	+ [1.1 Search](#search)
-	+ [1.2 Sliding Piece Attacks](#sliding-piece-attacks)
-		- [1.2.1 C Source](#c-source)
-		- [1.2.2 Java Source](#java-source)
-* [2 Selected Games](#selected-games)
-	+ [2.1 SEE](#see)
-	+ [2.2 Bodo](#bodo)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1998 ...](#1998-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010 ...](#2010-...)
-	+ [3.5 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### Search
 
 

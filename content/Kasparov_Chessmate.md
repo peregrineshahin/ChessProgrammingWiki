@@ -13,24 +13,6 @@ a chess program released in 2003 as [Windows](Windows "Windows"), [Mac OS](Mac_O
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Chessmate](Chessmate "Chessmate")
-* [Commodore ChessMate](Commodore_ChessMate "Commodore ChessMate")
-* [Ruffian](Ruffian "Ruffian")
-
-
 ## Forum Posts
 
 

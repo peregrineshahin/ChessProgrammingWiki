@@ -16,32 +16,6 @@ As of August 2017, Volker introduced [Black Magic Bitboards](Magic_Bitboards#Bla
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2010 ...](#2010-...)
-	+ [2.2 2015 ...](#2015-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://old.csvn.nl/gallery24.html) 
-Volker Annuss and [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") in [Hermann](Hermann "Hermann") vs. [Argonaut](Argonaut "Argonaut"), [ICT 2006](ICT_2006 "ICT 2006") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](http://www.csvn.nl/index.php/historie/programmeurstoernooien/762-ranking-51st-programmer-tournament) 
-[PT 51](PT_51 "PT 51"): Volker Annuss ([Arminius](Arminius "Arminius") 3rd), [Harvey Williamson](Harvey_Williamson "Harvey Williamson") ([HIARCS](HIARCS "HIARCS") 1st) and [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden") ([Komodo](Komodo "Komodo") 2nd) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Forum Posts
 
 

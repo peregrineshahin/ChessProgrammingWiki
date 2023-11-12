@@ -12,26 +12,6 @@ a Taiwanese computer scientist and product developer at [Arista Networks](https:
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://icga.org/?page_id=849) 
-[Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng") ([TheUninitiated](https://www.game-ai-forum.org/icga-tournaments/program.php?id=769)), Ting-Fu Liao ([LalaFrogKK](https://www.game-ai-forum.org/icga-tournaments/program.php?id=768)), [Lung-Pin Chen](index.php?title=Lung-Pin_Chen&action=edit&redlink=1 "Lung-Pin Chen (page does not exist)") ( [ThuNono](https://www.game-ai-forum.org/icga-tournaments/program.php?id=770))  
-
-and half of [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [17th Computer Olympiad](17th_Computer_Olympiad "17th Computer Olympiad"), [Nonogram](Nonogram "Nonogram"), [Yokohama](https://en.wikipedia.org/wiki/Yokohama), 2013 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Publications
 
 

@@ -17,23 +17,6 @@ In 1972, he became a Doctor of [economic sciences](https://en.wikipedia.org/wiki
 
 
 
-### Contents
-
-
-* [1 CC Sapiens](#cc-sapiens)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-During the early 90s, Vitaly Vygodsky was collaborator of [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov") and [Evgeniĭ Dmitrievich Cherevik](Evgeni%C4%AD_Dmitrievich_Cherevik "Evgeniĭ Dmitrievich Cherevik") in working on [Chess Computer Sapiens](CC_Sapiens "CC Sapiens") and its economic counterpart *Economical Computer Sapiens* <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Selected Publications
 
 

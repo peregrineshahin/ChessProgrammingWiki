@@ -15,22 +15,6 @@ Concerning computer chess, Stuart Riffle is autor of the [open source](Category:
 
 
 
-### Contents
-
-
-* [1 Blog Posts](#blog-posts)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Understanding the Fourier transform](https://archive.is/q1xVR) by Stuart Riffle, AltDevBlog, September 03, 2013 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
 ## Forum Posts
 
 

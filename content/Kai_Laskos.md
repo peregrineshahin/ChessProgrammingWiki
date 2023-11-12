@@ -15,20 +15,6 @@ in the field of [match statistics](Match_Statistics "Match Statistics") in [engi
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2010 ...](#2010-...)
-	+ [1.2 2015 ...](#2015-...)
-	+ [1.3 2020 ...](#2020-...)
-* [2 References](#references)
-
-
-
-
-
-
 ### 2010 ...
 
 

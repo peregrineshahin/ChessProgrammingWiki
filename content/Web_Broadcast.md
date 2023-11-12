@@ -8,27 +8,6 @@ title: Web Broadcast
 
 
 
-### Contents
-
-
-* [1 Systems](#systems)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Public Viewing](#public-viewing)
-	+ [4.2 Commercial](#commercial)
-	+ [4.3 Misc](#misc)
-
-
-
-
-
-
-* [aiBloodshed](AiBloodshed "AiBloodshed")
-* [TLCS/TLCV](TLCS-TLCV "TLCS-TLCV")
-* [WEB-MATCH](WEB-MATCH "WEB-MATCH")
-
-
 ## See also
 
 

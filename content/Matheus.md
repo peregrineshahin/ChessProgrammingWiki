@@ -15,28 +15,6 @@ Matheus applies a [principal variation search](Principal_Variation_Search "Princ
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Matheus 1.4 (Release: World Cup 2002 Champion!!)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38017) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 02, 2002 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* [Porting an engine to Linux](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=44182) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 18, 2003
-* [Matheus and Holmes](https://www.stmintz.com/ccc/index.php?id=352385) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), March 02, 2004 » [Holmes](Holmes "Holmes")
-* [Matheus-2.3 released - With UCI support](https://www.stmintz.com/ccc/index.php?id=354615) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [CCC](CCC "CCC"), March 14, 2004
-* [Re: Mate scores in the hash table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3405#p17152) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2005 » [Mate Scores](Score#MateScores "Score"), [Transposition Table](Transposition_Table "Transposition Table")
-* [Matheus](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=42318) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 04, 2012
-
-
 ## External Links
 
 

@@ -13,36 +13,6 @@ Along with his twin brother [Muntsin](Muntsin_Kolss "Muntsin Kolss"), Munjong is
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2006 ...](#2006-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-From the [WCCC 2006](WCCC_2006 "WCCC 2006") Turin <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-
- [](File:JonnyIkarusBlitz2006.jpg) 
-[Jonny](Jonny "Jonny") vs. [Ikarus](Ikarus "Ikarus"), [Johannes Zwanzger](Johannes_Zwanzger "Johannes Zwanzger") and Munjong Kolss <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- [](File:WCCC2006Blitz.JPG) 
-[Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") awards the Blitz trophy to Munjong Kolss of [Ikarus](Ikarus "Ikarus")
-
-
-
 ## Selected Publications
 
 

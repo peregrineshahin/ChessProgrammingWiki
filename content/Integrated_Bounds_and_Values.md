@@ -8,34 +8,6 @@ title: Integrated Bounds and Values
 
 
 
-### Contents
-
-
-* [1 Representation](#representation)
-* [2 IBV in Alpha-Beta](#ibv-in-alpha-beta)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 References](#references)
-
-
-
-
-
-
-* [Exact numbers](Exact_Score "Exact Score") (n) are represented as 4n
-* [Upper bounds](Upper_Bound "Upper Bound") (<= n) are represented as 4n-1
-* [Lower bounds](Lower_Bound "Lower Bound") (>= n) are represented as 4n+1
-
-
-with following properties:
-
-
-
-1. negating a bound yields in the corresponding bound from opponent's point of view ([Negamax](Negamax "Negamax"))
-2. a lower bound at n (>= n) is greater than an exact n
-3. an exact value (n) is greater than an upper bound
-
-
 ## IBV in Alpha-Beta
 
 

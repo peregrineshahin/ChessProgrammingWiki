@@ -11,26 +11,6 @@ Philou uses standard techniques such as [iterative deepening](Iterative_Deepenin
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Selected Games](#selected-games)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-The program's name is a [diminutive](https://en.wikipedia.org/wiki/Diminutive) form of its author's given name <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
-
-
-
 ## Selected Games
 
 

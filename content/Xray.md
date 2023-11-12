@@ -10,26 +10,6 @@ Commonly, **X-ray** in Chess refers to a family of several tactical motives, whe
 
 
 
-### Contents
-
-
-* [1 X-ray Motives](#x-ray-motives)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Battery](Battery "Battery")
-* [Discovered Attack](Discovered_Attack "Discovered Attack")
-* [Discovered Check](Discovered_Check "Discovered Check")
-* [Pin](Pin "Pin")
-* [Skewer](Skewer "Skewer")
-
-
 ## See also
 
 

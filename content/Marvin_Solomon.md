@@ -12,25 +12,6 @@ an American mathematician, computer scientist and professor at [University of Wi
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1977 ...](#1977-...)
-	+ [1.2 1980 ...](#1980-...)
-	+ [1.3 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1977 ...
 
 

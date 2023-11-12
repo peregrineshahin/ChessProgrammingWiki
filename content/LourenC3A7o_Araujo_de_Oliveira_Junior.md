@@ -14,24 +14,6 @@ As a computer chess programmer, Lourenço is author of [Capivara](Capivara "Capi
 
 
 
-### Contents
-
-
-* [1 Jaguatirica](#jaguatirica)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.talkchess.com/forum/viewtopic.php?t=51927) 
-Lourenço is further working on a chess entitity for a [Raspberry Pi](Raspberry_Pi "Raspberry Pi") cluster dubbed **Jaguatirica** <a id="cite-note-2" href="#cite-ref-2">[2]</a> . 
-
-
-
 ## Forum Posts
 
 

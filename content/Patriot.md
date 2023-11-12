@@ -29,31 +29,6 @@ Patriot 1 and late Kaissa were based on [Crafty](Crafty "Crafty") with many chan
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2004](#2004)
-	+ [2.2 2005](#2005)
-	+ [2.3 2006 ...](#2006-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Crafty](Crafty "Crafty")
-* [Fruit](Fruit "Fruit")
-* [Toga](Toga "Toga")
-* [Kaissa2](Kaissa_(BY) "Kaissa (BY)")
-
-
 ## Forum Posts
 
 

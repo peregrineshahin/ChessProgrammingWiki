@@ -14,31 +14,6 @@ As a chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, he is further 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2005 ...](#2005-...)
-	+ [2.2 2010 ...](#2010-...)
-	+ [2.3 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* Karlo Bala, [Dejan Brcanov](https://dblp1.uni-trier.de/pers/hd/b/Brcanov:Dejan), [Nebojsa Gvozdenovic](https://dblp1.uni-trier.de/pers/hd/g/Gvozdenovic:Nebojsa) (**2015**). *Solving Vehicle Routing Problems via Single Generic Transformation Approach*. [LOGIC 2015](https://www.econbiz.de/events/event/2nd-logistics-international-conference-logic-2015/10010464439), [pdf](http://logic.sf.bg.ac.rs/wp-content/uploads/Papers/LOGIC2015/ID-7.pdf)
-* [Aleksandar Radonjic](https://dblp1.uni-trier.de/pers/hd/r/Radonjic:Aleksandar), Karlo Bala, [Vladimir Vujicic](https://dblp1.uni-trier.de/pers/hd/v/Vujicic:Vladimir) (**2016**). *[Integer codes correcting double asymmetric errors](https://ieeexplore.ieee.org/document/7565793)*. [IET Communications](https://digital-library.theiet.org/content/journals/iet-com), Vol. 10, No. 14
-* Karlo Bala, [Dejan Brcanov](https://dblp1.uni-trier.de/pers/hd/b/Brcanov:Dejan), [Nebojsa Gvozdenovic](https://dblp1.uni-trier.de/pers/hd/g/Gvozdenovic:Nebojsa) (**2017**). *[Two-echelon location routing synchronized with production schedules and time windows](https://link.springer.com/article/10.1007/s10100-016-0463-6)*. [CEJOR](https://link.springer.com/journal/10100), Vol. 25, No. 3
-
-
 ## Forum Posts
 
 

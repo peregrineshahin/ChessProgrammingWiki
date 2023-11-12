@@ -12,34 +12,6 @@ are domain-independent extensions introduced in 1988 by [Thomas Anantharaman](Th
 
 
 
-### Contents
-
-
-* [1 An Idea was born](#an-idea-was-born)
-* [2 Singularity and Pathology](#singularity-and-pathology)
-* [3 Restricted SE](#restricted-se)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1990 ...](#1990-...)
-	+ [6.2 1995 ...](#1995-...)
-	+ [6.3 2000 ...](#2000-...)
-	+ [6.4 2005 ...](#2005-...)
-	+ [6.5 2010 ...](#2010-...)
-	+ [6.6 2015 ...](#2015-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-At [ACM 1986](ACM_1986 "ACM 1986"), in the [battle for the second place](Bebe#Singular "Bebe"), [Bebe](Bebe "Bebe") was defeated by [Lachex](Lachex "Lachex"). Both programs went in a sequence of forced moves where both sides had only one single good choice along the way. Neither program had any idea about who would come up ahead in the end, until suddenly after playing along the forced line, both programs realized that Bebe was lost. In a discussion with [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and others, [Tony Scherzer](Tony_Scherzer "Tony Scherzer") made the statement that the old idea of selective [pruning](Pruning "Pruning") was dead, replaced by the new idea of selective [extensions](Extensions "Extensions"). According to Hsu, that was how the idea of Singular Extensions began <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
-
 ## Singularity and Pathology
 
 

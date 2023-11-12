@@ -12,32 +12,6 @@ a Dutch mathematician and computer scientist, former lecturer at [Utrecht Univer
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-* Leen Ammeraal (**1996**). *[Algorithms and Data Structures in C++](http://home.planet.nl/~ammeraal/algds.html)*. [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
-* Leen Ammeraal (**1997**). *[STL for C++ Programmers](http://home.planet.nl/%7Eammeraal/stlcpp.html).* [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
-* Leen Ammeraal (**2000**). *[C++ for Programmers](http://home.planet.nl/%7Eammeraal/cppbook.html)*. [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher)) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-* Leen Ammeraal, [Kang Zhang](http://www.utdallas.edu/%7Ekzhang/) (**2007**). *[Computer Graphics for Java Programmers](http://home.planet.nl/%7Eammeraal/grjava2e.html)*. 2nd edition, [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
-* Leen Ammeraal, [Kang Zhang](http://www.utdallas.edu/%7Ekzhang/) (**2017**). *[Computer Graphics for Java Programmers](http://home.planet.nl/~ammeraal/grjava3e.html)*. 3rd edition, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-
-
 ## Forum Posts
 
 

@@ -12,26 +12,6 @@ unlike [rank attacks](First_Rank_Attacks "First Rank Attacks"), the problem aris
 
 
 
-### Contents
-
-
-* [1 Avoiding Multiplication](#avoiding-multiplication)
-	+ [1.1 Rotated Bitboards](#rotated-bitboards)
-	+ [1.2 Collapsed Files](#collapsed-files)
-	+ [1.3 Collapsed Ranks](#collapsed-ranks)
-* [2 Using Multiplication](#using-multiplication)
-	+ [2.1 Collapsed Files](#collapsed-files-2)
-	+ [2.2 Collapsed Ranks](#collapsed-ranks-2)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### Rotated Bitboards
 
 

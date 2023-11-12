@@ -13,30 +13,6 @@ He holds a master degree from the Department of Computer Science, [Aarhus Univer
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Kristensen's work was recognized by [Ronald de Man](Ronald_de_Man "Ronald de Man") as used to compress his [Syzygy Bases](Syzygy_Bases "Syzygy Bases") - quote from a reply to [Guy Haworth](Guy_Haworth "Guy Haworth"), April 06, 2013 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```C++
-I create tables in RAM that have all the information necessary for WDL50+ and DTZ50+, then permute them to different indexing schemes and compress. I do test runs on subsets of the data to find good permutations. (The idea to try permutations is from Jesper Torp Kristensen's master thesis.
-
-
-```
-
 ## Selected Publications
 
 

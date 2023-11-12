@@ -12,40 +12,6 @@ a commercial chess program by [John Stanback](John_Stanback "John Stanback") wri
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Windows](#windows)
-* [3 Tournament Play](#tournament-play)
-* [4 Selected Games](#selected-games)
-	+ [4.1 ACM 1993](#acm-1993)
-	+ [4.2 ACM 1994](#acm-1994)
-	+ [4.3 BELCT 2001](#belct-2001)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 1989](#1989)
-	+ [7.2 1990 ...](#1990-...)
-	+ [7.3 1995 ...](#1995-...)
-	+ [7.4 2000 ...](#2000-...)
-	+ [7.5 2010 ...](#2010-...)
-	+ [7.6 2020 ...](#2020-...)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Program](#chess-program)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-[](http://www.septober.de/chess/index.htm)
-Zarkov DOS Screen <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Windows
 
 

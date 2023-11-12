@@ -12,24 +12,6 @@ was a Dutch computer chess expert, tester and promoter of [WinBoard](WinBoard "W
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://titanic.nyme.hu/%7Ewyx/csvn2001/) 
-[Johan de Koning](Johan_de_Koning "Johan de Koning") ([The King](The_King "The King")), [Thomas Mayer](Thomas_Mayer "Thomas Mayer") and Leo Dijksman ([Quark](Quark "Quark")) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Forum Posts
 
 

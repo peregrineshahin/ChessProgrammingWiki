@@ -12,41 +12,6 @@ a basic concept for a parallel [alpha-beta search](Alpha-Beta "Alpha-Beta") coin
 
 
 
-### Contents
-
-
-* [1 Delay of Parallelism](#delay-of-parallelism)
-	+ [1.1 Distributed Game-Tree Search](#distributed-game-tree-search)
-	+ [1.2 Critique](#critique)
-* [2 Quotes](#quotes)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-	+ [4.1 1986 ...](#1986-...)
-	+ [4.2 1990 ...](#1990-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2009](#2009)
-	+ [5.2 2010 ...](#2010-...-2)
-	+ [5.3 2015 ...](#2015-...)
-	+ [5.4 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The Young Brothers Wait Concept, which in some situations delays the use of parallelism until subtrees are available which are relevant for the final result with high probability, prevents processors from searching irrelevant subtrees and reduces the search overhead. The use of the YBWC is possible only in combination with good [load balancing](https://en.wikipedia.org/wiki/Load_balancing_%28computing%29) possibilities <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
-
-```
-The eldest son of any node must be completely evaluated before younger brothers of that node may be transmitted. 
-
-```
-
 ### Distributed Game-Tree Search
 
 

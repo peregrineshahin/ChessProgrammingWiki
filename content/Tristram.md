@@ -14,28 +14,6 @@ Tristram participated at the [CCT3](CCT3 "CCT3") on-line tournament in 2001 and 
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Tristan and Chess](#tristan-and-chess)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-The name [Tristram](https://en.wikipedia.org/wiki/Tristan), like [Galahad](https://en.wikipedia.org/wiki/Galahad), refers to the [Knights of the Round Table](https://en.wikipedia.org/wiki/Knights_of_the_Round_Table) in the [Arthurian legend](Category:Arthurian_Legend "Category:Arthurian Legend"), participating in the Quest of the [Holy Grail](https://en.wikipedia.org/wiki/Holy_Grail). Tristram, also spelled Tristran, Tristrem and [Tristan](https://en.wikipedia.org/wiki/Tristan) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, is one of the main characters of the [Tristan and Iseult](https://en.wikipedia.org/wiki/Tristan_and_Iseult) story, a [Cornish](https://en.wikipedia.org/wiki/Cornwall) hero.
-
-
-
 ## Tristan and Chess
 
 

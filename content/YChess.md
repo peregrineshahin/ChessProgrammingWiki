@@ -13,24 +13,6 @@ It is a native engine with an own [WinBoard](WinBoard "WinBoard") and [UCI](UCI 
 
 
 
-### Contents
-
-
-* [1 Screenshots](#screenshots)
-	+ [1.1 DOS](#dos)
-	+ [1.2 Windows](#windows)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1996 ...](#1996-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### DOS
 
 

@@ -15,21 +15,6 @@ Already supporting [Time-sharing](https://en.wikipedia.org/wiki/Time-sharing), t
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 Bell and Kotok](#bell-and-kotok)
-	+ [1.2 Robert Q](#robert-q)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Bell and Kotok
 
 

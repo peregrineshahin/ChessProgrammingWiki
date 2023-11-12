@@ -15,35 +15,6 @@ From the very beginning Strelka was suspected not to be original but [derivative
 
 
 
-### Contents
-
-
-* [1 Clone Suspicions](#clone-suspicions)
-* [2 Strelka 2.0](#strelka-2.0)
-* [3 Strelka 5](#strelka-5)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2007](#2007)
-	+ [5.2 2008](#2008)
-	+ [5.3 2011](#2011)
-	+ [5.4 2012 ...](#2012-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Almost immediately after Strelka's initial release, there were suspicions due to various similarities found in solving certain [test-positions](Test-Positions "Test-Positions") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, that Strelka might be a clone of [Rybka 1.0 Beta](Rybka "Rybka"). The attempt by [Sergei Markoff](Sergei_Markoff "Sergei Markoff") after reviewing its sources to declare Strelka original, seemed rather pointless due to the closed sources of the now commercial [Rybka](Rybka "Rybka") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, but it was also confirmed by [Bryan Hofmann](index.php?title=Bryan_Hofmann&action=edit&redlink=1 "Bryan Hofmann (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a><a id="cite-note-6" href="#cite-ref-6">[6]</a>, who according to Markoff is a compiler expert who also did Rybka compiles and was aware of its sources <a id="cite-note-7" href="#cite-ref-7">[7]</a> . Additionally, an "expert's opinion" was called from [Dann Corbit](Dann_Corbit "Dann Corbit") to declare Strelka "clean" <a id="cite-note-8" href="#cite-ref-8">[8]</a><a id="cite-note-9" href="#cite-ref-9">[9]</a>. [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), who was consulted by Dann, put a short note that Strelka 1.x source was not a verbatim copy of his open source engine [Fruit](Fruit "Fruit"), but revealed more details on that issue years later in January 2011, when he was long out of computer chess business and coincidentally got aware of the Strelka affair <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
-
-
-In the meantime, in July 2007, Jury Osipov admitted Strelka was based on [Fruit](Fruit "Fruit") rewritten to [bitboards](Bitboards "Bitboards"), and was successively improved in [evaluation](Evaluation "Evaluation") and [search](Search "Search") with correlation analysis of Rybka's assessment of the positions. Osipov further mentioned he studied Rybka using a [disassembler](https://en.wikipedia.org/wiki/Disassembler), to achieve an even greater similarity, and that he felt that [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") likely walked the same path as he did, essentially to rewrite Fruit to bitboards and include [material imbalance tables](Material_Tables "Material Tables") by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-12" href="#cite-ref-12">[12]</a>.
-
-
-
 ## Strelka 2.0
 
 

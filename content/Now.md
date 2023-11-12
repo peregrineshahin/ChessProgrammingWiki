@@ -15,23 +15,6 @@ Now tied with first place among all chess programs at the [Aegon 1996](Aegon_199
 
 
 
-### Contents
-
-
-* [1 Descriptions](#descriptions)
-	+ [1.1 1991](#1991)
-	+ [1.2 1993](#1993)
-	+ [1.3 1999](#1999)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### 1991
 
 

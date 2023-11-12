@@ -15,26 +15,6 @@ John L. Jerz maintains a web site which contains a collection of information rel
 
 
 
-### Contents
-
-
-* [1 Future Mobility](#future-mobility)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In his article *A Proposed Heuristic for a Computer Chess Program* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-John L. Jerz suggests to maintain a database of [potential mobility](Mobility#ProgressiveMobility "Mobility") for each chess [piece](Pieces "Pieces") three [moves](Moves "Moves") into the future and to [evaluate](Evaluation "Evaluation") positions accordantly. 
-Progressive mobility is applicable via [fill algorithms](Fill_Algorithms "Fill Algorithms"), where a [bitboard](Bitboards "Bitboards") of (safe) piece attacks of a [sliding piece](Sliding_Pieces "Sliding Pieces"), 
-a [knight](Knight "Knight") or a [king](King "King") is fed to appropriate set-wise attack generators, f.i. [Dumb7Fill](Dumb7Fill "Dumb7Fill") or [Kogge-Stone algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") for sliders. 
-
-
-
 ## Selected Publications
 
 

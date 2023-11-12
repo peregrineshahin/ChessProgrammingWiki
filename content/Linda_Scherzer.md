@@ -12,22 +12,6 @@ an American computer scientist, entrepreneur, along with [Tony Scherzer](Tony_Sc
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Cartoons by Jeff Ragsdale](Cartoons#Ragsdale "Cartoons")
-
-
 ## Selected Publications
 
 

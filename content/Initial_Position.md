@@ -9,29 +9,6 @@ the position where the [game of chess](Chess_Game "Chess Game") starts. [Pieces]
 
 
 
-### Contents
-
-
-* [1 FEN](#fen)
-* [2 Diagram](#diagram)
-* [3 Ambiguity](#ambiguity)
-* [4 Perft](#perft)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-
-```C++
-rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
-
-```
-
 ## Diagram
 
 

@@ -10,23 +10,6 @@ an American mathematician, [topologist](https://en.wikipedia.org/wiki/Topology),
 
 
 
-### Contents
-
-
-* [1 MANIAC I](#maniac-i)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-As a research assistant at [Los Alamos National Laboratory](Los_Alamos_National_Laboratory "Los Alamos National Laboratory") from 1953-56, James Kister worked with some of the earliest electronic computers on a variety of scientific projects, including, with several others, the design of a [program](MANIAC_I "MANIAC I") for a computer to play [Los Alamos Chess](index.php?title=Los_Alamos_Chess&action=edit&redlink=1 "Los Alamos Chess (page does not exist)").
-
-
-
 ## Selected Publications
 
 

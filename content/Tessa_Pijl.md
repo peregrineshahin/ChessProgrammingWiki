@@ -10,20 +10,6 @@ a Dutch youth chess player and operator of her father's, [Richard Pijl's](Richar
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 2007](#2007)
-	+ [1.2 2008](#2008)
-	+ [1.3 2015](#2015)
-* [2 References](#references)
-
-
-
-
-
-
 ### 2007
 
 

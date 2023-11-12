@@ -20,26 +20,6 @@ and further elaborated on [Endgame Tablebases](Endgame_Tablebases "Endgame Table
 
 
 
-### Contents
-
-
-* [1 REB](#reb)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Ulrich Thiemonds' rule-based endgame chess program [REB](index.php?title=REB&action=edit&redlink=1 "REB (page does not exist)") (**RE**gel**B**asiert = rule-based) was subject of his thesis, 
-and uses a [deductive database](https://en.wikipedia.org/wiki/Deductive_database) and [logic programming](https://en.wikipedia.org/wiki/Logic_programming) without any [tree search](Search "Search"). 
-The implementation for KQK, [KRK](KRK "KRK") and [KPK](KPK "KPK") were written in [Prolog](index.php?title=Prolog&action=edit&redlink=1 "Prolog (page does not exist)") and [Datalog](https://en.wikipedia.org/wiki/Datalog). 
-[XBoard](XBoard "XBoard") was used as [GUI](GUI "GUI"). 
-
-
-
 ## Selected Publications
 
 

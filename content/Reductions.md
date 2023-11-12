@@ -10,34 +10,6 @@ a class of search heuristics that decrease the [depth](Depth "Depth") to which a
 
 
 
-### Contents
-
-
-* [1 Recursive Reductions](#recursive-reductions)
-* [2 Near the Tips](#near-the-tips)
-* [3 Pruning after a reduced Search](#pruning-after-a-reduced-search)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1998 ...](#1998-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-* [Late Move Reductions](Late_Move_Reductions "Late Move Reductions") - LMR
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions") - FHR
-* [Null Move Reductions](Null_Move_Reductions "Null Move Reductions")
-* [RankCut](RankCut "RankCut")
-
-
 ## Near the Tips
 
 

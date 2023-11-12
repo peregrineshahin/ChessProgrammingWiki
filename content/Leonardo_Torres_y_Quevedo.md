@@ -15,23 +15,6 @@ In 1910 he began (other sources state 1890, or 1901) to construct a chess automa
 
 
 
-### Contents
-
-
-* [1 IEEE Recognition](#ieee-recognition)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-On March 17, 2007, the [Institute of Electrical and Electronics Engineers](IEEE "IEEE") (IEEE) recognized Torres’ [Telekine](https://en.wikipedia.org/wiki/Remote_control#History) <a id="cite-note-3" href="#cite-ref-3">[3]</a> with an [IEEE Milestone](https://en.wikipedia.org/wiki/List_of_IEEE_milestones) in [Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering) and [Computing](https://en.wikipedia.org/wiki/Computing) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The dedication was held at the Torres Quevedo Museum of Engineering, Institute of Civil Engineering, [Universidad Politécnica de Madrid](Technical_University_of_Madrid "Technical University of Madrid") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, where also a functional [El Ajedrecista](El_Ajedrecista "El Ajedrecista") can be visited <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Publications
 
 

@@ -17,42 +17,6 @@ max(a, b) == -min(-a, -b)
 
 ```
 
-### Contents
-
-
-* [1 Negated Minimax](#negated-minimax)
-* [2 How to Use NegaMax](#how-to-use-negamax)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-This is how the pseudo-code of the [recursive](Recursion "Recursion") algorithm looks like. For clarity [move](Moves "Moves") [making](Make_Move "Make Move") and [unmaking](Unmake_Move "Unmake Move") is omitted.
-
-
-
-
-```C++
-
-int negaMax( int depth ) {
-    if ( depth == 0 ) return evaluate();
-    int max = -oo;
-    for ( all moves)  {
-        score = -negaMax( depth - 1 );
-        if( score > max )
-            max = score;
-    }
-    return max;
-}
-
-```
-
 ## How to Use NegaMax
 
 

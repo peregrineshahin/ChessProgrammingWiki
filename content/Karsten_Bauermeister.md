@@ -18,26 +18,6 @@ Karsten operated [HIARCS](HIARCS "HIARCS") at the [WMCCC 1995](WMCCC_1995 "WMCCC
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* Karsten Bauermeister (**1995**). *Aufbruchstimmung in Deutschland.* [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 6, 1995 (German) » [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament")
-* Karsten Bauermeister (**1997**). *Mit 150.000 Stellungen/Sekunde zum Sieg*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 2, 1997 (German) » [IPCCC 1997](IPCCC_1997 "IPCCC 1997")
-* Karsten Bauermeister (**1997**). *Seiner Zeit voraus: Intelligent Chess - der erste Schachcomputer mit eingebauter Datenbank*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") (German), in [SciSys - Intelligent Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1980%20%5BG-0101%5D%20SciSys%20-%20Intelligent%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [Intelligent Chess](Intelligent_Chess "Intelligent Chess")
-* Karsten Bauermeister (**1998**). *Die Geschichte der Conchess-Schachcomputer*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 4, August-September 1998 (German) » [Conchess](Conchess "Conchess")
-* Karsten Bauermeister (**1999**). *Deutsch-Deutsche Geschichte(n)*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 5, October-November 1999 (German) » [VEB Mikroelektronik Erfurt](VEB_Mikroelektronik_Erfurt "VEB Mikroelektronik Erfurt"), [SC 1](SC_1 "SC 1"), [SC 2](SC_2 "SC 2"), [Chess-Master](Chess-Master "Chess-Master")
-* [Rob van Son](Rob_van_Son "Rob van Son") (**2005**). *Collecting Chess Computers "Passion or Madness"?* [Selective Search](Selective_Search "Selective Search") 119, [pdf](http://www.chesscomputeruk.com/SS_119.pdf)
-
-
 ## External Links
 
 

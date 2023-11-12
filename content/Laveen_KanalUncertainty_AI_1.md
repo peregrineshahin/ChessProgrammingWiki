@@ -12,26 +12,6 @@ title: Laveen KanalUncertainty AI 1
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1960 ...](#1960-...)
-	+ [1.2 1970 ...](#1970-...)
-	+ [1.3 1980 ...](#1980-...)
-	+ [1.4 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 1960 ...
 
 

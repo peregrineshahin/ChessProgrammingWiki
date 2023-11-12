@@ -12,44 +12,6 @@ a measure of the number of choices ([legal moves](Legal_Move "Legal Move")) a pl
 
 
 
-### Contents
-
-
-* [1 Calculating Mobility](#calculating-mobility)
-	+ [1.1 Safe Mobility](#safe-mobility)
-	+ [1.2 Papa's Entropy](#papa.27s-entropy)
-* [2 The Value of Reaching a Square](#the-value-of-reaching-a-square)
-* [3 Mobility with Bitboards](#mobility-with-bitboards)
-* [4 Progressive Mobility](#progressive-mobility)
-* [5 Quotes](#quotes)
-	+ [5.1 Alan Turing](#alan-turing)
-	+ [5.2 Eliot Slater](#eliot-slater)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-	+ [7.1 1949 ...](#1949-...)
-	+ [7.2 1980 ...](#1980-...)
-	+ [7.3 1990 ...](#1990-...)
-	+ [7.4 2000 ...](#2000-...)
-* [8 Forum Posts](#forum-posts)
-	+ [8.1 1993 ...](#1993-...)
-	+ [8.2 1995 ...](#1995-...)
-	+ [8.3 2000 ...](#2000-...-2)
-	+ [8.4 2005 ...](#2005-...)
-	+ [8.5 2010 ...](#2010-...)
-	+ [8.6 2015 ...](#2015-...)
-	+ [8.7 2020 ...](#2020-...)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-In computer programs, mobility is sometimes calculated differently than simply by summing up the number of [legal](Legal_Move "Legal Move") or [pseudo-legal moves](Pseudo-Legal_Move "Pseudo-Legal Move"). Often, it is done piece-by-piece, and the mobility bonus per possible move is not always the same for each type of piece (e.g., in the opening, the mobility of the [bishops](Bishop "Bishop") and [knights](Knight "Knight") is more important than that of the [rooks](Rook "Rook")). Sometimes forward mobility is scored higher than backward mobility, sometimes (in case of rooks) vertical mobility gets priority over horizontal mobility. Also, if a piece can move to the square of another friendly piece, sometimes that move is also counted - although it would not be a legal move, it is protecting the friendly piece, and therefore still serves a useful role.
-
-
-
 ### Safe Mobility
 
 

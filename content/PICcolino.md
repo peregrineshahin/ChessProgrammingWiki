@@ -15,27 +15,6 @@ It was intended to become the chess playing part of a [dedicated chess computer]
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Computer](#chess-computer)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](https://www.g-sei.org/persone/#!) 
-[Luca Naddei](Luca_Naddei "Luca Naddei") with dedicated PICcolino playing the [IGT 2018](IGT_2018 "IGT 2018") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## See also
 
 

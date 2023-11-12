@@ -15,33 +15,6 @@ During the 1981 [CeBIT](https://en.wikipedia.org/wiki/CeBIT) fair in [Hanover](h
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-from an [Lars Karlsson](Lars_Karlsson "Lars Karlsson") interview in [MikroDatorn](https://en.wikipedia.org/wiki/MikroDatorn), February 1981 <a id="cite-note-6" href="#cite-ref-6">[6]</a>  
-*What have you earned from your chess programs?*
-
-
-
-
-```C++
-Attention, maybe. The chess programs are a pure hobby business. It is interesting to do them because it requires that you know something about chess and know something about computers. Characteristic of my programs is that they imply a greater knowledge of computers than of chess. This is probably why I am now in the position that I have achieved a program that I can no longer beat by myself.
-
-```
-
 ## Selected Games
 
 

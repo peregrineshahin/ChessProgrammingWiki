@@ -12,28 +12,6 @@ an American mathematician, computer scientist and professor of CS at [Brown Univ
 
 
 
-### Contents
-
-
-* [1 Crossword Solver](#crossword-solver)
-* [2 See also](#see-also)
-* [3 Markov Models](#markov-models)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1990 ...](#1990-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-During his time at [Duke University](Duke_University "Duke University") in the late 90s, Michael L. Littman worked on an automated [crossword](https://en.wikipedia.org/wiki/Crossword) solver **Proverb** <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which won an Outstanding Paper Award in 1999 from [AAAI](AAAI "AAAI") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> and competed in the [American Crossword Puzzle Tournament](https://en.wikipedia.org/wiki/American_Crossword_Puzzle_Tournament) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## See also
 
 

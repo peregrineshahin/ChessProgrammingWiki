@@ -13,24 +13,6 @@ The Turk applies [alpha-beta](Alpha-Beta "Alpha-Beta") [PVS](Principal_Variation
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [The Turk](The_Turk "The Turk") by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") and [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns")
-
-
 ## See also
 
 

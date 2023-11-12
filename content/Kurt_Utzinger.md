@@ -14,27 +14,6 @@ Kurt Utzinger maintaines the computer chess site *Kurt & Rolf Chess*, full of (a
 
 
 
-### Contents
-
-
-* [1 Selected Articles](#selected-articles)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2020 ...](#2020-...)
-	+ [2.5 Man vs Machine](#man-vs-machine)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Kurt Utzinger (**1993**). *Ein Schweizer in München*. [PC Schach](PC_Schach "PC Schach"), 3/93 » [WMCCC 1993](WMCCC_1993 "WMCCC 1993")
-
-
 ## Forum Posts
 
 

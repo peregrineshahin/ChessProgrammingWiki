@@ -13,26 +13,6 @@ The last recent Kurt 0.9.2.2 beta is available from [Jim Ablett's](Jim_Ablett "J
 
 
 
-### Contents
-
-
-* [1 Bitboards](#bitboards)
-	+ [1.1 Sliding Piece Attacks](#sliding-piece-attacks)
-	+ [1.2 BitScan](#bitscan)
-	+ [1.3 Collapsing Files and Ranks](#collapsing-files-and-ranks)
-* [2 Search](#search)
-* [3 Evaluation](#evaluation)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### Sliding Piece Attacks
 
 

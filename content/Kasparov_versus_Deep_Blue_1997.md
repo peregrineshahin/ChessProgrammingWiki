@@ -14,55 +14,6 @@ It never competed again.
 
 
 
-### Contents
-
-
-* [1 The Machine](#The_Machine)
-* [2 Games](#Games)
-	+ [2.1 Game 1](#Game_1)
-	+ [2.2 Game 2](#Game_2)
-	+ [2.3 Game 3](#Game_3)
-	+ [2.4 Game 4](#Game_4)
-	+ [2.5 Game 5](#Game_5)
-	+ [2.6 Game 6](#Game_6)
-* [3 See also](#See_also)
-* [4 Selected Publications](#Selected_Publications)
-	+ [4.1 1997](#1997)
-	+ [4.2 AAAI Workshop](#AAAI_Workshop)
-	+ [4.3 1998 ...](#1998_...)
-	+ [4.4 2000 ...](#2000_...)
-	+ [4.5 2010 ...](#2010_...)
-* [5 Forum Posts](#Forum_Posts)
-	+ [5.1 1997](#1997_2)
-	+ [5.2 1998 ...](#1998_..._2)
-	+ [5.3 2000 ...](#2000_..._2)
-	+ [5.4 2010 ...](#2010_..._2)
-* [6 External Links](#External_Links)
-* [7 Videos](#Videos)
-* [8 References](#References)
-
-
-
-
-
-
-In 2013, [Donmar Warehouse](https://en.wikipedia.org/wiki/Donmar_Warehouse) announced a new international collaboration with [Manchester International Festival](https://en.wikipedia.org/wiki/Manchester_International_Festival) and [Park Avenue Armory, New York](https://en.wikipedia.org/wiki/Park_Avenue_Armory). To be performed in [Manchester](https://en.wikipedia.org/wiki/Manchester), July, 10-21 [[7]](#cite_note-7), and [New York City](https://en.wikipedia.org/wiki/New_York_City), September 4-18 [[8]](#cite_note-8), [Josie Rourke](https://en.wikipedia.org/wiki/Josie_Rourke) directs award-winning playwright [Matt Charman’s](https://en.wikipedia.org/wiki/Matt_Charman) play [[9]](#cite_note-9), THE MACHINE [[10]](#cite_note-10).
-
-
-
- [](http://www.donmarwarehouse.com/whats-on/the-machine) 
-Kenneth Lee [[11]](#cite_note-11) as [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") [[12]](#cite_note-12)
-
-
-
- [](http://hiarcs.net/forums/viewtopic.php?p=59722#59722) 
-[Hadley Fraser](https://en.wikipedia.org/wiki/Hadley_Fraser) as [Garry Kasparov](Garry_Kasparov "Garry Kasparov") [[13]](#cite_note-13) [[14]](#cite_note-14)
-
-
-In 1997, Garry Kasparov, the world’s greatest chess player, arrived in New York City for the biggest match of his life. His opponent wasn’t a fellow Grandmaster but a faceless super-computer, Deep Blue, built by tech-giant IBM in a bid to raise its profile and its stock price. An international celebrity and the undisputed master of his art, Kasparov came to America for freedom and glory. What he didn’t expect to confront was the lifelong dedication of another man, Deep Blue’s wunderkind inventor Doctor Hsu. Both geniuses, they staked their reputation on the tournament. What followed was one of the most compelling stories of our time [[15]](#cite_note-15) [[16]](#cite_note-16). 
-
-
-
 ## Games
 
 

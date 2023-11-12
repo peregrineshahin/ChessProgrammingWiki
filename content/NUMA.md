@@ -12,36 +12,6 @@ a [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) memory design
 
 
 
-### Contents
-
-
-* [1 x86](#x86)
-* [2 Considerations](#considerations)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1998 ...](#1998-...)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2000 ...](#2000-...-2)
-	+ [5.2 2010 ...](#2010-...-2)
-	+ [5.3 2015 ...](#2015-...)
-* [6 External Links](#external-links)
-	+ [6.1 Linux](#linux)
-	+ [6.2 Windows](#windows)
-	+ [6.3 x86](#x86-2)
-	+ [6.4 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-[AMD](AMD "AMD") implemented NUMA with its [Opteron](X86-64 "X86-64") processor in 2003, using [HyperTransport](https://en.wikipedia.org/wiki/HyperTransport). [Intel](Intel "Intel") announced NUMA compatibility for their [x86](X86 "X86") servers in late 2007 with [Nehalem CPUs](https://en.wikipedia.org/wiki/Nehalem_(microarchitecture)) using [QuickPath Interconnect](https://en.wikipedia.org/wiki/Intel_QuickPath_Interconnect) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Considerations
 
 

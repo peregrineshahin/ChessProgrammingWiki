@@ -10,45 +10,6 @@ a [chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") [modul
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Manuals](#manuals)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-[Aegon 1994](Aegon_1994 "Aegon 1994"), Round 4, [David Bronstein](David_Bronstein "David Bronstein") - Saitek Brute Force <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "Aegon 1994"]
-[Site "Den Haag"]
-[Date "1994.05.02"]
-[Round "4"]
-[White "David Bronstein"]
-[Black "Saitek Brute Force"]
-[Result "1-0"]
-
-1.e4 c6 2.d3 d5 3.Nd2 dxe4 4.dxe4 e5 5.Ngf3 Bc5 6.c3 Qc7 7.Nc4 Nf6 
-8.b4 Be7 9.Ncxe5 Nxe4 10.Bc4 Nd6 11.Bb3 Nd7 12.Bf4 Nxe5 13.Nxe5 Qb6 
-14.O-O O-O 15.Re1 Re8 16.Nxf7 Nxf7 17.Qh5 Be6 18.Rxe6 Qd8 19.Rh6 Qd5 
-20.Bxd5 cxd5 21.Rxh7 Bf6 22.g4 Bxc3 23.g5 Nh6 24.g6 Rad8 25.Rh8+ Kxh8
-26.Bxh6 Kg8 27.Bg5 Bf6 28.Bxf6 Re1+ 29.Kg2 Rg1+ 30.Kxg1 
-1-0
-
-```
-
 ## See also
 
 

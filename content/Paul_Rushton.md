@@ -11,31 +11,6 @@ As a graduate student he started to write his first chess-playing program, and c
 
 
 
-### Contents
-
-
-* [1 Early Research](#early-research)
-* [2 Restart](#restart)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
-Beside the ideas and incomplete programs by [Jack Good](Jack_Good "Jack Good") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, following chess programs were investigated by Paul Rushton and [Tony Marsland](Tony_Marsland "Tony Marsland") as published in 1973 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
-* [Chess 3.5](Chess_(Program) "Chess (Program)") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-* [Coko](Coko "Coko") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-* [Greenblatt Chess Program](Mac_Hack "Mac Hack") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
-* [NSS](NSS "NSS") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-* [Tech](Tech "Tech") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-* [Wita](Awit "Awit")
-
-
 ## Restart
 
 

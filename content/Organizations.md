@@ -5,34 +5,6 @@ title: Organizations
 
 
 
-### Contents
-
-
-* [1 Computer Chess Organizations](#computer-chess-organizations)
-	+ [1.1 International](#international)
-	+ [1.2 National](#national)
-* [2 Computer Games Organizations](#computer-games-organizations)
-* [3 Organizations related to Computer Chess and Games](#organizations-related-to-computer-chess-and-games)
-* [4 Chess Organizations](#chess-organizations)
-* [5 Universities and Institutes](#universities-and-institutes)
-* [6 Museums](#museums)
-* [7 Companies](#companies)
-	+ [7.1 Hardware](#hardware)
-		- [7.1.1 Processors](#processors)
-		- [7.1.2 GPU](#gpu)
-		- [7.1.3 Chess Computers](#chess-computers)
-	+ [7.2 Software](#software)
-		- [7.2.1 Operating Sytems](#operating-sytems)
-		- [7.2.2 Development](#development)
-		- [7.2.3 Chess & AI-Games](#chess-.26-ai-games)
-		- [7.2.4 Games](#games)
-* [8 References](#references)
-
-
-
-
-
-
 ### International
 
 

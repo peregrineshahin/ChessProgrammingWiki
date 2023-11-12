@@ -12,27 +12,6 @@ a Danish computer scientist and president of *danielsen.com* <a id="cite-note-2"
 
 
 
-### Contents
-
-
-* [1 GameWorks](#gameworks)
-* [2 Resume](#resume)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks) 
-In 1985, Kaare Danielsen wrote the book *Turbo GameWorks* <a id="cite-note-3" href="#cite-ref-3">[3]</a> , including a disk with [Pascal](Pascal "Pascal") source code of [Turbo Chess](Turbo_Chess "Turbo Chess"), as well as programs for [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)") and [Go-Moku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)") for [Borland International](https://en.wikipedia.org/wiki/Borland).
-
-
-
 ## Resume
 
 

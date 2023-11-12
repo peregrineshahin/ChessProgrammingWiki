@@ -12,30 +12,6 @@ an [UCI](UCI "UCI") and [WinBoard](WinBoard "WinBoard") compatible chess engine 
 
 
 
-### Contents
-
-
-* [1 Recent Versions](#recent-versions)
-	+ [1.1 SmarThink v1.97](#smarthink-v1.97)
-	+ [1.2 SmarThink v1.98](#smarthink-v1.98)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos & Games](#photos-.26-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2002 ...](#2002-...)
-	+ [5.2 2005 ...](#2005-...)
-	+ [5.3 2010 ...](#2010-...)
-	+ [5.4 2015 ...](#2015-...)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
 ### SmarThink v1.97
 
 

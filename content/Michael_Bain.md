@@ -14,27 +14,6 @@ His research interests include [machine learning](Learning "Learning"), [inducti
 
 
 
-### Contents
-
-
-* [1 Learning KRK](#learning-krk)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1989](#1989)
-	+ [2.2 1990](#1990)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-In 1994, Michael Bain defended his Ph.D. thesis in machine learning at [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), [Glasgow](https://en.wikipedia.org/wiki/Glasgow), [Scotland](https://en.wikipedia.org/wiki/Scotland), titled *Learning Logical Exceptions in Chess* which covers the endgame [KRK](KRK "KRK") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. [Donald Michie](Donald_Michie "Donald Michie") had employed him at the *Turing Institute*, until 1993 associated with Strathclyde <a id="cite-note-3" href="#cite-ref-3">[3]</a>, to work on the [US Army](https://en.wikipedia.org/wiki/United_States_Army) chess project, and where he researched on machine learning along with [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie"), [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton") and [Ivan Bratko](Ivan_Bratko "Ivan Bratko") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Selected Publications
 
 

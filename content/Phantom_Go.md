@@ -10,27 +10,6 @@ a [Go](Go "Go") variant with hidden information. There are two players and a ref
 
 
 
-### Contents
-
-
-* [1 Computer Olympiads](#computer-olympiads)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [12th Computer Olympiad, Amsterdam 2007](12th_Computer_Olympiad#PhantomGo "12th Computer Olympiad")
-* [13th Computer Olympiad, Beijing 2008](13th_Computer_Olympiad#PhantomGo "13th Computer Olympiad")
-* [14th Computer Olympiad, Pamplona 2009](14th_Computer_Olympiad#PhantomGo "14th Computer Olympiad")
-* [15th Computer Olympiad, Kanazawa 2010](15th_Computer_Olympiad#PhantomGo "15th Computer Olympiad")
-* [16th Computer Olympiad, Tilburg 2011](16th_Computer_Olympiad#PhantomGo "16th Computer Olympiad")
-
-
 ## See also
 
 

@@ -10,32 +10,6 @@ title: Paderborn University
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 Tournaments](#tournaments)
-* [4 Associated Events](#associated-events)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Alpha I](Alpha_I "Alpha I")
-* [APIL chess](APIL_chess "APIL chess")
-* [Brutus](Brutus "Brutus")
-* [Cheiron](Cheiron "Cheiron")
-* [Cluster Toga](Cluster_Toga "Cluster Toga")
-* [GridChess](GridChess "GridChess")
-* [P.ConNerS](P.ConNerS "P.ConNerS")
-* [Ulysses](Ulysses "Ulysses")
-* [Zugzwang](Zugzwang_(Program) "Zugzwang (Program)")
-
-
 ## People
 
 

@@ -10,33 +10,6 @@ a commercial chess program by [David Kittinger](David_Kittinger "David Kittinger
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1995](#1995)
-	+ [2.2 2012](#2012)
-* [3 WChess 2000](#wchess-2000)
-* [4 See also](#see-also)
-* [5 Reports](#reports)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1995 ...](#1995-...)
-	+ [6.2 2000 ...](#2000-...)
-	+ [6.3 2010 ...](#2010-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- [](http://www.schachcomputer.info/forum/f10/geschwindigkeits-vergleiche-4059.html) 
-WChess inside [DOSBox](https://en.wikipedia.org/wiki/DOSBox) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Descriptions
 
 

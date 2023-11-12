@@ -14,24 +14,6 @@ During the championship, the *Soviet Computer-Chess Federation* was founded, to 
 
 
 
-### Contents
-
-
-* [1 Intellect-02](#intellect-02)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") *Intellect-02* with [KR580VM80A](https://en.wikipedia.org/wiki/KR580VM80A) processor <a id="cite-note-3" href="#cite-ref-3">[3]</a>, 
-a Soviet [Intel](Intel "Intel") [8080](8080 "8080") clone, was released the same year, 1988. It was a cartridge system with [Kalah](Kalah "Kalah") and chess programs. According to [Mike Watters](Mike_Watters "Mike Watters"), the 1988 Intellect-02 chess cartridge (serial number 4315) plays exactly like the [Fidelity Chess Challenger 3](Chess_Challenger "Chess Challenger") in several testgames with different levels and is very likely a clone of [Ron Nelson's](Ron_Nelson "Ron Nelson") program.
-
-
-
 ## Forum Posts
 
 

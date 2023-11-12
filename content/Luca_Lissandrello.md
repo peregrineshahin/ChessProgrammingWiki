@@ -14,27 +14,6 @@ He is active member of the [G 6](G_6 "G 6") or GSei, the **G**ruppo **S**cacchi 
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2013 ...](#2013-...)
-	+ [2.2 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://www.g-sei.org/i-g-t-2013/) 
-[IGT 2013](IGT_2013 "IGT 2013"), Group photo with arbiter [Alberto Collobiano](http://ratings.fide.com/card.phtml?event=854840), Luca Lissandrello (3rd), [Mauro Riccardi](Mauro_Riccardi "Mauro Riccardi") (1st),  
-[Edoardo Manino](Edoardo_Manino "Edoardo Manino") (2nd) and [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato") (4th) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## Forum Posts
 
 

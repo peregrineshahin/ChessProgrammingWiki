@@ -15,27 +15,6 @@ Along with [Daly CP](Daly_CP "Daly CP"), J. Biit was one of the first chess prog
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Description](#description)
-* [3 Quotes](#quotes)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-J. Biit is the acronym of "Just Because it is there", probably in dependance of the famous quote <a id="cite-note-4" href="#cite-ref-4">[4]</a> by English mountaineer [George Mallory](https://en.wikipedia.org/wiki/George_Mallory), having replied to the question "Why do you want to climb [Mount Everest](https://en.wikipedia.org/wiki/Mount_Everest)?". 
-
-
-
 ## Description
 
 

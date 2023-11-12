@@ -14,28 +14,6 @@ Oliver Vornberger holds a Ph.D. in Computer Science from the [Paderborn Universi
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1980 ...](#1980-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](http://alumni.cs.uni-dortmund.de/content/oliver-vornberger) 
-Oliver Vornberger in 1977 at [University of Dortmund](University_of_Dortmund "University of Dortmund") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Selected Publications
 
 

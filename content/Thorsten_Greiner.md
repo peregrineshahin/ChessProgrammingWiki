@@ -13,24 +13,6 @@ He graduated from [University of Wuppertal](https://en.wikipedia.org/wiki/Univer
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:ThorstenVinceSMKMathias.jpg) 
-Thorsten, [Vincent](Vincent_Diepeveen "Vincent Diepeveen"), [Stefan](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Mathias](Mathias_Feist "Mathias Feist"), [IPCCC 2000](IPCCC_2000 "IPCCC 2000")
-
-
-
 ## Forum Posts
 
 

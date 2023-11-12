@@ -10,25 +10,6 @@ the [Mississippi State University](https://en.wikipedia.org/wiki/Mississippi_Sta
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-	+ [1.1 Round 1](#round-1)
-	+ [1.2 Round 2](#round-2)
-	+ [1.3 Round 2](#round-2-2)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-The three games from [ACM 1972](ACM_1972 "ACM 1972") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
-
-
-
 ### Round 1
 
 

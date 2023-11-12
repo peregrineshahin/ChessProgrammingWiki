@@ -12,58 +12,6 @@ the [statistics](https://en.wikipedia.org/wiki/Statistics) of chess [tournaments
 
 
 
-### Contents
-
-
-* [1 Ratios / Operating Figures](#Ratios_.2F_Operating_Figures)
-	+ [1.1 Number of games](#Number_of_games)
-	+ [1.2 Score](#Score)
-	+ [1.3 Win & Draw Ratio](#Win_.26_Draw_Ratio)
-	+ [1.4 Elo-Rating & Win-Probability](#Elo-Rating_.26_Win-Probability)
-	+ [1.5 Likelihood of Superiority](#Likelihood_of_Superiority)
-	+ [1.6 Statistical Analysis](#Statistical_Analysis)
-	+ [1.7 SPRT](#SPRT)
-* [2 Tournaments](#Tournaments)
-* [3 See also](#See_also)
-* [4 Publications](#Publications)
-	+ [4.1 1920 ...](#1920_...)
-	+ [4.2 1930 ...](#1930_...)
-	+ [4.3 1940 ...](#1940_...)
-	+ [4.4 1950 ...](#1950_...)
-	+ [4.5 1960 ...](#1960_...)
-	+ [4.6 1970 ...](#1970_...)
-	+ [4.7 1980 ...](#1980_...)
-	+ [4.8 1990 ...](#1990_...)
-	+ [4.9 2000 ...](#2000_...)
-	+ [4.10 2005 ...](#2005_...)
-	+ [4.11 2010 ...](#2010_...)
-	+ [4.12 2015 ...](#2015_...)
-* [5 Forum & Blog Postings](#Forum_.26_Blog_Postings)
-	+ [5.1 1996 ...](#1996_...)
-	+ [5.2 2000 ...](#2000_..._2)
-	+ [5.3 2005 ...](#2005_..._2)
-	+ [5.4 2010 ...](#2010_..._2)
-	+ [5.5 2015 ...](#2015_..._2)
-	+ [5.6 2020 ...](#2020_...)
-* [6 External Links](#External_Links)
-	+ [6.1 Rating Systems](#Rating_Systems)
-	+ [6.2 Tools](#Tools)
-	+ [6.3 Statistics](#Statistics)
-	+ [6.4 Hypothesis Testing](#Hypothesis_Testing)
-	+ [6.5 Sequential Analysis](#Sequential_Analysis)
-	+ [6.6 Data Visualization](#Data_Visualization)
-	+ [6.7 Misc](#Misc)
-* [7 References](#References)
-
-
-
-
-
-
-Common tools, ratios and figures to illustrate a tournament outcome and provide a base for its interpretation.
-
-
-
 ### Number of games
 
 

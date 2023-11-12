@@ -13,28 +13,6 @@ a low-cost [home computer](https://en.wikipedia.org/wiki/Home_computer) develope
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The only chess program for the non expanded ZX81 in SLOW mode was [1K ZX Chess](1K_ZX_Chess "1K ZX Chess") by [David Horne](David_Horne "David Horne"). Other programs, such as [Artic Computing's](Artic_Computing "Artic Computing") [ZX Chess](ZX_Chess "ZX Chess"), and [Chris Whittington's](Chris_Whittington "Chris Whittington") [SuperChess](SuperChess "SuperChess"), require the 16 KB memory expansion.
-
-
-
-* [ZX81 Chess Programs](Category:ZX81 "Category:ZX81")
-
-
 ## See also
 
 

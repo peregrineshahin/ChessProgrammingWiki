@@ -12,26 +12,6 @@ a Taiwanese electrical engineer, computer scientiest and professor and former pr
 
 
 
-### Contents
-
-
-* [1 Biography](#biography)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-R. C. T. Lee was born in [Shanghai](https://en.wikipedia.org/wiki/Shanghai), [China](https://en.wikipedia.org/wiki/China), 1939. He received his B.S. degree in electrical engineering from the Department of Electrical Engineering of [National Taiwan University](National_Taiwan_University "National Taiwan University") in 1961, M.S. and Ph.D. degrees from the Department of Electrical Engineering and Computer Science of the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley") in 1963 and 1967 respectively. He worked for [NCR](https://en.wikipedia.org/wiki/NCR_Corporation), and along with [Chin-Liang Chang](Chin-Liang_Chang "Chin-Liang Chang"), [James R. Slagle](James_R._Slagle "James R. Slagle"), and [John K. Dixon](John_K._Dixon "John K. Dixon") at [National Institutes of Health](https://en.wikipedia.org/wiki/National_Institutes_of_Health), [Bethesda, Maryland](https://en.wikipedia.org/wiki/Bethesda,_Maryland) and [Naval Research Laboratory](https://en.wikipedia.org/wiki/Naval_Research_Laboratory), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington_DC).
-
-
-He returned to Taiwan in 1975 to start his teaching career in [National Tsing Hua University](https://en.wikipedia.org/wiki/National_Tsing_Hua_University), [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu), [Providence University](https://en.wikipedia.org/wiki/Providence_University) in [Shalu](https://en.wikipedia.org/wiki/Shalu_District), and since 1999 Chi Nan University <a id="cite-note-5" href="#cite-ref-5">[5]</a> . His research interests includes a broad range of [Symbolic Logic](https://en.wikipedia.org/wiki/Mathematical_logic), [Fuzzy Logic](https://en.wikipedia.org/wiki/Fuzzy_logic), [Mechanical Theorem Proving](https://en.wikipedia.org/wiki/Automated_theorem_proving), [Pattern Recognition](Pattern_Recognition "Pattern Recognition"), [Clustering Analysis](https://en.wikipedia.org/wiki/Cluster_analysis), [Database Design](https://en.wikipedia.org/wiki/Database_design), and sequential and parallel [Algorithm Design](Algorithms "Algorithms").
-
-
-
 ## Selected Publications
 
 

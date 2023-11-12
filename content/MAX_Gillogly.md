@@ -12,23 +12,6 @@ an early chess program from the late 60s written by [James Gillogly](James_Gillo
 
 
 
-### Contents
-
-
-* [1 Namesake](#namesake)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Max](Max "Max") by [Guy Burkill](index.php?title=Guy_Burkill&action=edit&redlink=1 "Guy Burkill (page does not exist)")
-
-
 ## See also
 
 

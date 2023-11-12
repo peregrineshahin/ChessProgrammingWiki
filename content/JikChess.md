@@ -10,26 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-	+ [1.3 Misc](#misc)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### Search
 
 

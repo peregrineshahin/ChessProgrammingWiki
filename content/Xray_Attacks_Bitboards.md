@@ -14,62 +14,6 @@ There is another type of double attack in which the targets are threatened in on
 
 ```
 
-### Contents
-
-
-* [1 Attacking through](#attacking-through)
-* [2 Single Sliders](#single-sliders)
-	+ [2.1 Modifying Occupancy](#modifying-occupancy)
-	+ [2.2 X-rays with one Lookup](#x-rays-with-one-lookup)
-* [3 Multiple Sliders](#multiple-sliders)
-	+ [3.1 Blockers by Targets](#blockers-by-targets)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-There are several [tactical](Tactics "Tactics") motives, where a [sliding piece](Sliding_Pieces "Sliding Pieces") attacks through any other piece in a [ray-direction](Direction "Direction"):
-
-
-
-
-
-|  Motiv
- |  Blocker
- |  Target behind Blocker
- |
-| --- | --- | --- |
-| [Battery](Battery "Battery") |  own sliding piece
- |  any square or piece
- |
-| [Discovered Attack](Discovered_Attack "Discovered Attack") |  own piece may remove
- |  any opposing piece
- |
-| [Discovered Check](Discovered_Check "Discovered Check") |  own piece may remove
- |  opposing king
- |
-| [Pin](Pin "Pin") |  opposing piece
- |  opposing valuable piece
- |
-| [Absolute Pin](Pin#AbsolutePin "Pin") |  opposing piece
- |  opposing king
- |
-| [Partial Pin](Pin#PartialPin "Pin") |  opposing sliding piece
- |  opposing valuable piece
- |
-| [Skewer](Skewer "Skewer") |  opposing valuable piece
- |  opposing piece
- |
-| [X-ray](X-ray "X-ray") |  opposing sliding piece
- |  own piece
- |
-
-
 ## Single Sliders
 
 

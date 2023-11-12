@@ -15,29 +15,6 @@ Nexus played the [WCCC 2003](WCCC_2003 "WCCC 2003") in [Graz](https://en.wikiped
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Games](#selected-games)
-	+ [2.1 IsiChess](#isichess)
-	+ [2.2 The King](#the-king)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:Nexus02.jpg) 
-[DOCCC 2004](DOCCC_2004 "DOCCC 2004"), [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") and [Norbert Esser](Norbert_Esser "Norbert Esser") with the runner up trophy <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Selected Games
 
 

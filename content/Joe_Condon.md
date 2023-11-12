@@ -10,22 +10,6 @@ was an American experimental physicist and electrical engineer, Ph.D. in [physic
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 ACM 1978](#acm-1978)
-	+ [1.2 WCCC 1983](#wccc-1983)
-* [2 Quotes](#quotes)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### ACM 1978
 
 

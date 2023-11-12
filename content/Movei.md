@@ -11,33 +11,6 @@ As mentioned by Uri, the evaluation of Movei is [dependent on the path](Path-Dep
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-	+ [2.1 WCCC 2004](#wccc-2004)
-	+ [2.2 CCT7](#cct7)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2002](#2002)
-	+ [3.2 2003](#2003)
-	+ [3.3 2004](#2004)
-	+ [3.4 2005 ...](#2005-...)
-	+ [3.5 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Movei played the [WCCC 2004](WCCC_2004 "WCCC 2004") in [Ramat Gan](https://en.wikipedia.org/wiki/Ramat_Gan), and on-line the [CCT5](CCT5 "CCT5"), [CCT6](CCT6 "CCT6") and [CCT7](CCT7 "CCT7") tournaments. 
-
-
-
 ## Selected Games
 
 

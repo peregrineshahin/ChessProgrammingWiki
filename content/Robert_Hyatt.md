@@ -15,37 +15,6 @@ His engine [Crafty](Crafty "Crafty") was the strongest [open source](Category:Op
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 ACM 1982](#acm-1982)
-	+ [1.2 WCCC 1983](#wccc-1983)
-	+ [1.3 London 1984](#london-1984)
-	+ [1.4 ACM 1988](#acm-1988)
-	+ [1.5 ACCA 2007](#acca-2007)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1980 ...](#1980-...)
-	+ [2.2 1985 ...](#1985-...)
-	+ [2.3 1990 ...](#1990-...)
-	+ [2.4 1995 ...](#1995-...)
-	+ [2.5 2000 ...](#2000-...)
-	+ [2.6 2010 ...](#2010-...)
-	+ [2.7 2020 ...](#2020-...)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1993 ...](#1993-...)
-	+ [3.2 1995 ...](#1995-...-2)
-	+ [3.3 2000 ...](#2000-...-2)
-	+ [3.4 2010 ...](#2010-...-2)
-	+ [3.5 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### ACM 1982
 
 

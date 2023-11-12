@@ -11,23 +11,6 @@ As graduate student at [Georgia Institute of Technology](Georgia_Institute_of_Te
 
 
 
-### Contents
-
-
-* [1 Making A Machine "Think"](#making-a-machine-.22think.22)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
- [](https://news.google.com/newspapers?nid=1241&dat=19731228&id=-W9TAAAAIBAJ&sjid=64UDAAAAIBAJ&pg=3200,6816037) 
-Making A Machine "Think" <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## External Links
 
 

@@ -10,50 +10,6 @@ a private chess program and later also [Arimaa](Arimaa "Arimaa") bot by [Don Dai
 
 
 
-### Contents
-
-
-* [1 Position](#position)
-* [2 Quotes](#quotes)
-	+ [2.1 MTD](#mtd)
-	+ [2.2 Arimaa Bot](#arimaa-bot)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Don gave following [board representation](Board_Representation "Board Representation") and [position](Chess_Position "Chess Position") structure <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
-
-```C++
-
-typedef struct ptag
-{
-  SQUARES       bd[65];          /* the board                        */
-  base_int      king_loc[2];     /* location of kings                */
-  u64           hashkey;         /* position key for hash table      */
-  int32         mat_sig;         /* signature of material situation  */
-  struct ptag   *his[2];         /* pointer to last 2 positions      */
-  ev_type       inc_score;       /* incremental component of score   */
-  base_int      ply_of_game;     /* even = white to move             */
-  base_int      ply_of_search;   /* start at 0                       */
-  base_int      pv[PV_LEN];      /* best move from position          */
-  base_int      last_move;       /* move that got us here            */
-  base_int      null_count;      /* how many recursive null moves?   */
-  base_int      in_check;        /* is ctm king in check?            */
-} position;
-
-```
-
 ## Quotes
 
 

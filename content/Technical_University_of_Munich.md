@@ -9,25 +9,6 @@ title: Technical University of Munich
 
 
 [ Main campus entrance at Gabelsbergerstraße, Munich <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Daja](Daja "Daja") by [Siegfried Jahn](index.php?title=Siegfried_Jahn&action=edit&redlink=1 "Siegfried Jahn (page does not exist)") and [Ludwig Zagler](Ludwig_Zagler "Ludwig Zagler")
-* [Elsa](Elsa "Elsa") by [Ludwig Zagler](Ludwig_Zagler "Ludwig Zagler")
-* [Parwell](Parwell "Parwell") by [Elmar Henne](Elmar_Henne "Elmar Henne"), [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") and [Wolfram Wolff](Wolfram_Wolff "Wolfram Wolff")
-
-
 ## People
 
 

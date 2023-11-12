@@ -15,24 +15,6 @@ Yizao Wang is co-author of the top level [Go](Go "Go") playing program [Mogo](ht
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2006 ...](#2006-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a><a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2006 ...
 
 

@@ -15,28 +15,6 @@ In 2014, Stéphane Nicolet started to work on [Stockfish](Stockfish "Stockfish")
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2014](#2014)
-	+ [1.2 2015](#2015)
-	+ [1.3 2016](#2016)
-	+ [1.4 2017](#2017)
-	+ [1.5 2018](#2018)
-	+ [1.6 2019](#2019)
-	+ [1.7 2020](#2020)
-* [2 External Links](#external-links)
-	+ [2.1 Stockfish](#stockfish)
-	+ [2.2 Othello](#othello)
-	+ [2.3 Cassio](#cassio)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2014
 
 

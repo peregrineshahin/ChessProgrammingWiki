@@ -12,25 +12,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Xinix played the [WMCCC 2000](WMCCC_2000 "WMCCC 2000"), the [WMCCC 2001](WMCCC_2001 "WMCCC 2001") and the [WCCC 2002](WCCC_2002 "WCCC 2002"), various [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), [International CSVN Tournaments](International_CSVN_Tournament "International CSVN Tournament"), the [IPCCC 2002](IPCCC_2002 "IPCCC 2002"), [CCT Tournaments](CCT_Tournaments "CCT Tournaments") and two [Livingston Chess960 Computer World Championships](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship") in [2005](Chess960CWC_2005 "Chess960CWC 2005") and [2006](Chess960CWC_2006 "Chess960CWC 2006"), operated by [Elke van Roon](Elke_van_Roon "Elke van Roon") and [Tony van Roon-Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"). 
-
-
-
 ## Photos & Games
 
 

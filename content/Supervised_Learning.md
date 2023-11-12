@@ -11,35 +11,6 @@ In machine learning, supervised learning is a technique for deducing a function 
 
 
 
-### Contents
-
-
-* [1 SL in a nutshell](#sl-in-a-nutshell)
-* [2 SL in Chess](#sl-in-chess)
-	+ [2.1 Move Adaption](#move-adaption)
-	+ [2.2 Value Adaption](#value-adaption)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1960 ....](#1960-....)
-	+ [4.2 1980 ...](#1980-...)
-	+ [4.3 1990 ...](#1990-...)
-	+ [4.4 2000 ...](#2000-...)
-	+ [4.5 2010 ...](#2010-...)
-	+ [4.6 2020 ...](#2020-...)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-[
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## SL in Chess
 
 

@@ -13,27 +13,6 @@ As a former computer chess programmer, Marc-Philippe Huget is author of the [Win
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 2000 ...](#2000-...)
-	+ [1.2 2010 ...](#2010-...)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2010 ...](#2010-...-2)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 2000 ...
 
 

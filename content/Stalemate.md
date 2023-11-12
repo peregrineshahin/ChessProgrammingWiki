@@ -13,37 +13,6 @@ In others contexts, the word *stalemate* is also used for a [metaphor](https://e
 
 
 
-### Contents
-
-
-* [1 Detecting Stalemate](#detecting-stalemate)
-* [2 Desperado](#desperado)
-	+ [2.1 WMCCC 1993](#wmccc-1993)
-	+ [2.2 nTCEC 1,2](#ntcec-1.2c2)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2000 ...](#2000-...)
-	+ [5.2 2005 ...](#2005-...)
-	+ [5.3 2010 ...](#2010-...)
-	+ [5.4 2015 ...](#2015-...)
-	+ [5.5 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Like [checkmate](Checkmate "Checkmate"), stalemate is usually determined by the [search](Search "Search") if it turns out a [node](Node "Node") above the [horizon](Horizon_Node "Horizon Node") becomes a [terminal node](Terminal_Node "Terminal Node") without any further child nodes. It further depends on whether [move generation](Move_Generation "Move Generation") relies on [pseudo-legal moves](Pseudo-Legal_Move "Pseudo-Legal Move") or strictly [legal moves](Legal_Move "Legal Move").
-
-
-Pseudo-legal move generation requires trying moves, to find at least one legal move or not, while legal move generation determines the information in advance. In late endings, static [evaluation](Evaluation "Evaluation") or [interior node recognizer](Interior_Node_Recognizer "Interior Node Recognizer") may support stalemate detection specially in [quiescence search](Quiescence_Search "Quiescence Search"), for instance if there are no legal king moves, pawns are [rammed](Pawn_Rams_(Bitboards) "Pawn Rams (Bitboards)") or blocked and other pieces are [pinned](Pin "Pin").
-
-
-
-
 ## Desperado
 
 

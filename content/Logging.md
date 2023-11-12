@@ -12,33 +12,6 @@ the recording of events taking place in the execution of a system or [program](i
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1995 ...](#1995-...)
-	+ [2.2 2005 ...](#2005-...)
-	+ [2.3 2010 ...](#2010-...)
-	+ [2.4 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-	+ [3.1 Apache](#apache)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Debugging](Debugging "Debugging")
-* [Engine Testing](Engine_Testing "Engine Testing")
-* [InBetween](InBetween "InBetween")
-* [Profiling](index.php?title=Profiling&action=edit&redlink=1 "Profiling (page does not exist)")
-* [Search Statistics](Search_Statistics "Search Statistics")
-* [Toga Log](Toga_Log "Toga Log")
-
-
 ## Forum Posts
 
 

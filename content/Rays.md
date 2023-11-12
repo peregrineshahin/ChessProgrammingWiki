@@ -11,39 +11,6 @@ A **Ray** is part of a line from a starting square in one particular [direction]
 
 
 
-### Contents
-
-
-* [1 Ray Directions](#ray-directions)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Following [Compass rose](https://en.wikipedia.org/wiki/Compass_rose) gives the [directions](Direction "Direction") and single step increments of an [8x8 Board](8x8_Board "8x8 Board"):
-
-
-
-
-```C++
-
-  northwest    north   northeast
-  noWe         nort         noEa
-          +7    +8    +9
-              \  |  /
-  west    -1 <-  0 -> +1    east
-              /  |  \
-          -9    -8    -7
-  soWe         sout         soEa
-  southwest    south   southeast
-
-```
-
 ## See also
 
 

@@ -13,32 +13,6 @@ professor at the Faculty of Computer and Information Science [University of Ljub
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-	+ [1.1 Research Interests](#research-interests)
-	+ [1.2 Chess Endgames](#chess-endgames)
-	+ [1.3 AI as Sport](#ai-as-sport)
-* [2 CLESS](#cless)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 1978 ...](#1978-...)
-	+ [3.2 1980 ...](#1980-...)
-	+ [3.3 1985 ...](#1985-...)
-	+ [3.4 1990 ...](#1990-...)
-	+ [3.5 1995 ...](#1995-...)
-	+ [3.6 2000 ...](#2000-...)
-	+ [3.7 2005 ...](#2005-...)
-	+ [3.8 2010 ...](#2010-...)
-	+ [3.9 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
 ### Research Interests
 
 

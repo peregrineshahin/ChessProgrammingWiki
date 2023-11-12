@@ -14,47 +14,6 @@ subsequent improved versions are kept privat. MatMoi is based on [bitboards](Bit
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[CCT12](CCT12 "CCT12"), round 2, MatMoi - [Jabba](Jabba "Jabba")
-
-
-
-
-```
-
-[Event "CCT12"]
-[Site "FICS"]
-[Date "2010.02.20"]
-[Round "2"]
-[White "MatMoi"]
-[Black "Jabba"]
-[Result "1/2-1/2"]
-
-1.d4 c6 2.Nf3 Nf6 3.c4 d5 4.e3 e6 5.Nc3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 
-10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O Qd5 14.Qe2 Ba6 15.a4 Be7 16.axb5 Bb7 
-17.Rxa8+ Bxa8 18.f3 O-O 19.g4 Rc8 20.Bf4 Bd6 21.Bg3 Bb7 22.Nc4 Bxg3 23.hxg3 Qc5 
-24.Ne5 Nd5 25.Qe4 g6 26.g5 Rc7 27.Re1 Qb4 28.Qe2 Ne3 29.Qf2 Bd5 30.g4 Qa5 31.Rb1 
-Qa8 32.Qg3 Qa7 33.Qf4 Bb7 34.Qh2 Qc5 35.f4 Qb4 36.Qf2 Rc8 37.Re1 Bd5 38.Qe2 Ra8 
-39.Rb1 Ra7 40.Qf2 Ra2 41.Kh2 h6 42.Kg1 hxg5 43.fxg5 Qe7 44.Qf4 Bb7 45.Be2 Ra4 
-46.b4 Ra2 47.Bf1 Ba8 48.Rc1 Rc2 49.Nc6 Bxc6 50.Rxc2 Nxc2 51.bxc6 Qxb4 52.c7 Qc5 
-53.Qd6 Qxd6 54.c8=Q+ Kg7 55.Qxc2 Qf4 56.Be2 e5 57.Bd1 Qxg5 58.Qe4 Qe3+ 59.Qxe3 
-dxe3 60.g5 f6 61.gxf6+ Kxf6 62.Kg2 e4 63.Kf1 Kf5 64.Ke2 Kf4 65.Ba4 g5 66.Bc6 g4 
-67.Bd7 g3 68.Bh3 Ke5 69.Kxe3 Kd5 70.Bg2 Ke5 71.Bxe4 g2 72.Bxg2 1/2-1/2
-
-```
-
 ## Forum Posts
 
 

@@ -15,23 +15,6 @@ an American computer scientist and software engineer, involved in the [Real-Time
 
 
 
-### Contents
-
-
-* [1 LCF](#lcf)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At UMass Amherst, Richard Cochran worked with [Paul E. Utgoff](Paul_E._Utgoff "Paul E. Utgoff") on a new [search](Search "Search") idea, dubbed *Least-Certainty Heuristic for Selective Search* (**LCF**), a [selective](Selectivity "Selectivity") [best-first](Best-First "Best-First") algorithm by iterative expansion of [leaf nodes](Leaf_Node "Leaf Node"), introduced at the [2nd Computer and Games 2000 Conference](CG_2000 "CG 2000") in [Hamamatsu](https://en.wikipedia.org/wiki/Hamamatsu,_Shizuoka), [Japan](https://en.wikipedia.org/wiki/Japan). The algorithm is closest in spirit to [conspiracy numbers](Conspiracy_Numbers "Conspiracy Numbers"), but discards buckets of supposed target values in favor of a real-valued approach. It was disappointing that LCF did not produce stronger play than [Alpha-Beta](Alpha-Beta "Alpha-Beta") while applied to [Amazons](Amazons "Amazons") and [Othello](Othello "Othello") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## Selected Publications
 
 

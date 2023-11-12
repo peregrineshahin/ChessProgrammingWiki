@@ -10,26 +10,6 @@ title: Technical University of C581C3B3dC5BA
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 Tournaments](#tournaments)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Agata Muszycka-Jones](Agata_Muszycka-Jones "Agata Muszycka-Jones")
-* [Mariusz Rostek](Mariusz_Rostek "Mariusz Rostek")
-* [Marek Strejczek](Marek_Strejczek "Marek Strejczek")
-* [Maciej Szmit](Maciej_Szmit "Maciej Szmit") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
 ## Chess Programs
 
 

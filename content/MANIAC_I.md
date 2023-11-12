@@ -10,33 +10,6 @@ the chess program on a [MANIAC I](https://en.wikipedia.org/wiki/MANIAC_I) (Mathe
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Description](#description)
-* [3 Quotes](#quotes)
-	+ [3.1 Fred Guterl](#fred-guterl)
-	+ [3.2 Roger Snodgrass](#roger-snodgrass)
-* [4 Selected Games](#selected-games)
-* [5 See also](#see-also)
-* [6 Selected Publications](#selected-publications)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Program](#chess-program)
-	+ [7.2 Computer](#computer)
-	+ [7.3 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64c5ba) 
-[Los Alamos](Los_Alamos_National_Laboratory "Los Alamos National Laboratory") scientists [Paul Stein](Paul_Stein "Paul Stein") (left) and [Nick Metropolis](https://en.wikipedia.org/wiki/Nicholas_Metropolis) playing chess with the MANIAC computer <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ## Description
 
 

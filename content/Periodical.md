@@ -5,31 +5,6 @@ title: Periodical
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-	+ [1.1 International](#international)
-	+ [1.2 American](#american)
-	+ [1.3 Austrian](#austrian)
-	+ [1.4 British](#british)
-	+ [1.5 Dutch](#dutch)
-	+ [1.6 French](#french)
-	+ [1.7 German](#german)
-	+ [1.8 Spanish](#spanish)
-	+ [1.9 Swedish](#swedish)
-* [2 Artificial Intelligence](#artificial-intelligence)
-* [3 Computer Science](#computer-science)
-* [4 Computers](#computers)
-* [5 Popular Science](#popular-science)
-* [6 See also](#see-also)
-* [7 External Links](#external-links)
-
-
-
-
-
-
 ### International
 
 

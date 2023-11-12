@@ -16,24 +16,6 @@ More recently, he was engaged in [Jean-François Romang's](Jean-Francois_Romang 
 
 
 
-### Contents
-
-
-* [1 Operator](#operator)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-At the [WCCC 2016](WCCC_2016 "WCCC 2016") and [WCSC 2016](WCSC_2016 "WCSC 2016") in [Leiden](Leiden_University "Leiden University"), Wolfgang Zugrav operated and represented [Steve Webber's](index.php?title=Steve_Webber&action=edit&redlink=1 "Steve Webber (page does not exist)") [Raptor](Raptor_LU "Raptor LU"), where he was also responsible for the [opening book](Opening_Book "Opening Book"). 
-He later worked with [Frank Schneider](Frank_Schneider "Frank Schneider"), was member of the [GridGinkgo](GridGinkgo "GridGinkgo") team at the [WCCC 2018](WCCC_2018 "WCCC 2018"), and operated and represented [Ginkgo](Ginkgo "Ginkgo") at the [WCCC 2019](WCCC_2019 "WCCC 2019") and [WCSC 2019](WCSC_2019 "WCSC 2019") respectively.
-
-
-
 ## Forum Posts
 
 

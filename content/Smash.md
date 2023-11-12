@@ -12,27 +12,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Deep Smash](#deep-smash)
-* [3 Photos](#photos)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Smash is a [bitboard](Bitboards "Bitboards") engine and uses [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") with 256 [line occupancy](Occupancy_of_any_Line "Occupancy of any Line") states to generate [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). While earlier [WinBoard](WinBoard "WinBoard") versions used [MTD(f)](MTD(f) "MTD(f)"), since 1.0 the [Iterative deepening](Iterative_Deepening "Iterative Deepening") framework calls a [principal variation search](Principal_Variation_Search "Principal Variation Search"). [Structured exception handling](Cpp#ExceptionHandling "Cpp") is used to catch terminate- and timer exceptions thrown elsewhere. [Selectivity](Selectivity "Selectivity") is applied with [adaptive null move](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning"), [futility-](Futility_Pruning "Futility Pruning") and [delta pruning](Delta_Pruning "Delta Pruning"), [check-](Check_Extensions "Check Extensions") and [one reply extensions](One_Reply_Extensions "One Reply Extensions"). A [capture](Captures "Captures") entering the [pawn endgame](Pawn_Endgame "Pawn Endgame") is [extended](Capture_Extensions "Capture Extensions") by two plies. Beside moves from the [transposition table](Transposition_Table "Transposition Table"), and [MVV-LVA](MVV-LVA "MVV-LVA") for captures, [move ordering](Move_Ordering "Move Ordering") is controlled by [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"). [Evaluation](Evaluation "Evaluation") determines positional aspects with [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), and considers [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety") and various positional piece terms. 
-
-
-
 ## Deep Smash
 
 

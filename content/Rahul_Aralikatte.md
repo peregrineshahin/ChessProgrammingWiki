@@ -16,24 +16,6 @@ The thesis chess engine dubbed [Phoenix](Phoenix_(Rahul) "Phoenix (Rahul)") is b
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-	+ [1.1 2014](#2014)
-	+ [1.2 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### 2014
 
 

@@ -10,52 +10,6 @@ a Belgian computer scientist and games researcher. As student at [Carnegie Mello
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](File:Hitech-DeepThought-Edmonton-1989.jpg) 
-[WCCC 1989](WCCC_1989 "WCCC 1989"), [HiTech](HiTech "HiTech") vs [Deep Thought](Deep_Thought "Deep Thought") round 5 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>  
-[Hans Berliner](Hans_Berliner "Hans Berliner"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and Peter Jansen <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```
-
-[Event "WCCC 1989"]
-[Site "Edmonton, Canada"]
-[Date "1989.05.31"]
-[Round "5"]
-[White "Hitech"]
-[Black "Deep Thought"]
-[Result "0-1"]
-
-1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Nc6 5.Nbd2 Be7 6.h3 O-O 7.Be2 Nh5 8.Bh2 g6 9.O-O f5
-10.Be5 Nxe5 11.Nxe5 Nf6 12.c4 c5 13.Ndf3 Bd6 14.a3 Qc7 15.Rc1 a5 16.Qb3 b6 17.Qa4 Bb7
-18.Rc2 Kh8 19.cxd5 Bxd5 20.Rd1 Rad8 21.Bb5 Ne4 22.Nd7 Rg8 23.Nfe5 Rg7 24.Rd3 Be7 25.Rd1
-h5 26.Rdc1 Bg5 27.Re1 Bh4 28.Rf1 Be7 29.Rfc1 g5 30.f3 Nf6 31.Kf1 g4 32.hxg4 hxg4 33.f4
-Be4 34.Rd2 Nd5 35.Re2 Rh7 36.Ree1 Nxe3+ 37.Kg1 Nd5 38.Ng6+ Kg7 39.Nxe7 Qxf4 40.Nxf5+ exf5
-41.Rxe4 Qxc1+ 42.Bf1 fxe4 43.Qb3 Rh1+ 44.Kxh1 Qxf1+ 45.Kh2 Rh8+ 46.Qh3 g3+ 47.Kxg3 Qf4#
-0-1
-
-```
-
-  
-
-
-
-
 ## Selected Publications
 
 

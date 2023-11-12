@@ -20,26 +20,6 @@ and button shield. Little Rook Chess is part of *u8glib* under the terms of the 
 
 
 
-### Contents
-
-
-* [1 Chess AI](#chess-ai)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The "chess AI" of Little Rook Chess is rather rudimentary so far, with pure [minimax](Minimax "Minimax") rather than [alpha-beta](Alpha-Beta "Alpha-Beta"). 
-The [evaluation](Evaluation "Evaluation") is based on [material](Material "Material") with [point values](Point_Value "Point Value") of {1, 3, 3, 5, 9} and has a few positional terms. 
-The program keeps an [8x8 board](8x8_Board "8x8 Board") [array](Array "Array"), but uses [0x88](0x88 "0x88") coordinates to validate square indices, 
-and always [transforms](0x88#Transformation "0x88") those coordinates at each board access <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Little Rook Chess lacks [minor promotions](Promotions#MinorPromotion "Promotions") and is unaware of [repetitions](Repetitions "Repetitions") and the [50-move rule](Fifty-move_Rule "Fifty-move Rule"), but otherwise plays legal chess with [castling](Castling "Castling") and [en passant](En_passant "En passant") implemented <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## See also
 
 

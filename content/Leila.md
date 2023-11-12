@@ -12,29 +12,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine written by [Carmelo Cal
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-	+ [2.1 Aldebaran](#aldebaran)
-	+ [2.2 Delfi](#delfi)
-* [3 Acknowledgements](#acknowledgements)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-As mentioned, Leila won the [CIPS 2001](CIPS_2001 "CIPS 2001"), was runner-up behind [Delfi](Delfi "Delfi") at [CIPS 2002](CIPS_2002 "CIPS 2002") and [CIPS 2003](CIPS_2003 "CIPS 2003") and played in total five [CIPS](Italian_Computer_Chess_Championship#CIPS "Italian Computer Chess Championship") and three [Chess Computer Cups](Italian_Computer_Chess_Championship#CCC "Italian Computer Chess Championship"). She further participated at the [CCT4](CCT4 "CCT4") with a 50% score.
-
-
-
 ## Photos & Games
 
 

@@ -16,47 +16,6 @@ Node types as established by the search are stored inside the [transposition tab
 
 
 
-### Contents
-
-
-* [1 PV-Nodes](#pv-nodes)
-* [2 Cut-Nodes](#cut-nodes)
-* [3 All-Nodes](#all-nodes)
-* [4 Node Types in PVS](#node-types-in-pvs)
-	+ [4.1 Onno](#onno)
-	+ [4.2 Summary](#summary)
-* [5 Number of Leaf Nodes](#number-of-leaf-nodes)
-	+ [5.1 Formulas](#formulas)
-	+ [5.2 Table](#table)
-* [6 Quotes](#quotes)
-* [7 See also](#see-also)
-* [8 Selected Publications](#selected-publications)
-* [9 Forum Posts](#forum-posts)
-	+ [9.1 2000 ...](#2000-...)
-	+ [9.2 2005 ...](#2005-...)
-	+ [9.3 2010 ...](#2010-...)
-	+ [9.4 2015 ...](#2015-...)
-* [10 External Links](#external-links)
-* [11 References](#references)
-
-
-
-
-
-
-PV-nodes (Knuth's **Type 1**) are nodes that have a score that ends up being inside the [window](Window "Window"). So if the bounds passed are [a,b], with the score returned s, a<s<b. These nodes have all moves searched, and the value returned is [exact](Exact_Score "Exact Score") (i.e., not a [bound](Bound "Bound")), which propagates up to the [root](Root "Root") along with a [principal variation](Principal_Variation "Principal Variation").
-
-
-
-* [Root Node](Root "Root") and the [Leftmost Nodes](Leftmost_Node "Leftmost Node") are always PV-nodes
-* In [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), PV-nodes are defined by beta-alpha>1
-* All [Siblings](Sibling_Node "Sibling Node") of a PV-node are expected Cut-nodes
-
-
-
-
-
-
 ## Cut-Nodes
 
 

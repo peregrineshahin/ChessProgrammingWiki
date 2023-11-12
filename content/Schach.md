@@ -12,32 +12,6 @@ one of the early German chess programs, written by [Matthias Engelbach](Matthias
 
 
 
-### Contents
-
-
-* [1 Schach 2.x](#schach-2.x)
-* [2 Schach 3.0](#schach-3.0)
-* [3 Description](#description)
-* [4 Selected Games](#selected-games)
-	+ [4.1 Chess 4.9](#chess-4.9)
-	+ [4.2 Nona](#nona)
-	+ [4.3 Ferret](#ferret)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Program](#chess-program)
-	+ [7.2 Schach](#schach)
-* [8 References](#references)
-
-
-
-
-
-
-As its debut, Schach **2.3** participated at the [WCCC 1980](WCCC_1980 "WCCC 1980"), Schach **2.5** played the [ACM 1981](ACM_1981 "ACM 1981"), Schach **2.6** the [ACM 1982](ACM_1982 "ACM 1982"), and Schach **2.7** the [WCCC 1983](WCCC_1983 "WCCC 1983"), [ACM 1984](ACM_1984 "ACM 1984"), and finally the [WCCC 1986](WCCC_1986 "WCCC 1986").
-
-
-
 ## Schach 3.0
 
 

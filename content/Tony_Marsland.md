@@ -16,41 +16,6 @@ a Canadian computer scientist and game researcher. He is co-creator and eponym o
 
 
 
-### Contents
-
-
-* [1 Photos](#Photos)
-* [2 About Tony Marsland](#About_Tony_Marsland)
-* [3 Selected Publications](#Selected_Publications)
-	+ [3.1 1965 ...](#1965_...)
-	+ [3.2 1970 ...](#1970_...)
-	+ [3.3 1975 ...](#1975_...)
-	+ [3.4 1980 ...](#1980_...)
-	+ [3.5 1985 ...](#1985_...)
-	+ [3.6 1990 ...](#1990_...)
-	+ [3.7 1995 ...](#1995_...)
-	+ [3.8 2000 ...](#2000_...)
-	+ [3.9 2020 ...](#2020_...)
-* [4 Forum Posts](#Forum_Posts)
-* [5 External Links](#External_Links)
-* [6 References](#References)
-
-
-
-
-
-
- [](http://www.computerhistory.org/collections/accession/102665753) 
-Chess pioneers in [Sacher Hotel Vienna](https://en.wikipedia.org/wiki/Hotel_Sacher), Austria 1980: [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monty Newborn](Monroe_Newborn "Monroe Newborn"), Tony Marsland,  
-[Dave Slate](David_Slate "David Slate"), [David Levy](David_Levy "David Levy"), [Claude Shannon](Claude_Shannon "Claude Shannon"), [Ken Thompson](Ken_Thompson "Ken Thompson"), Betty Shannon, [Tom Truscott](Tom_Truscott "Tom Truscott") [[5]](#cite_note-5)
-
-
-
- [](http://old.csvn.nl/wk2002.html) 
-[WCCC 2002](WCCC_2002 "WCCC 2002"): [Boris Alterman](index.php?title=Boris_Alterman&action=edit&redlink=1 "Boris Alterman (page does not exist)"), [Alex Kure](Alex_Kure "Alex Kure"), [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [Amir Ban](Amir_Ban "Amir Ban"), Tony Marsland and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") [[6]](#cite_note-6)
-
-
-
 ## About Tony Marsland
 
 

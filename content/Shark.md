@@ -12,25 +12,6 @@ a private chess engine by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), 
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 Djenghis - Shark](#djenghis---shark)
-	+ [1.2 Shark - IsiChess](#shark---isichess)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-<a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ### Djenghis - Shark
 
 

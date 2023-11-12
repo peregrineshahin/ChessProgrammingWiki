@@ -12,27 +12,6 @@ a French computer scientist, and assistant professor and researcher at [Japan Ad
 
 
 
-### Contents
-
-
-* [1 Combinatorial Games Solver](#combinatorial-games-solver)
-* [2 Kitsune & Flukz](#kitsune-.26-flukz)
-* [3 Selected Publications](#selected-publications)
-	+ [3.1 2008 ...](#2008-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Along with [Julien Lemoine](index.php?title=Julien_Lemoine&action=edit&redlink=1 "Julien Lemoine (page does not exist)"), Simon Viennot is author of **Glop** <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, an open source software to compute the winning strategies of combinatorial games, such as [Sprouts](https://en.wikipedia.org/wiki/Sprouts_%28game%29), [Cram](https://en.wikipedia.org/wiki/Cram_%28game%29) and [Dots and Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes). In 2007, they introduced an algorithm based on the concept of [nimbers](https://en.wikipedia.org/wiki/Nimber) to solve Sprouts with up to 32 spots in the normal version, extended to up to 44 spots in 2011, and three isolated starting positions, with 46, 47 and 53 spots. In 2009, they reached 17 spots in the more complicated [misère version](https://en.wikipedia.org/wiki/Sprouts_%28game%29#Mis.C3.A8re_version) and were able to extend their analysis up to 20 points in 2011 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
-
-
-
 ## Kitsune & Flukz
 
 

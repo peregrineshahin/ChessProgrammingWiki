@@ -15,30 +15,6 @@ In [1963](Timeline#1963 "Timeline") <a id="cite-note-9" href="#cite-ref-9">[9]</
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 ITEP Chess Program](#itep-chess-program)
-	+ [1.2 Kaissa](#kaissa)
-	+ [1.3 Thompson and Donskoy](#thompson-and-donskoy)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1968](#1968)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1975 ...](#1975-...)
-	+ [2.4 1980 ...](#1980-...)
-	+ [2.5 2000 ...](#2000-...)
-	+ [2.6 2010 ...](#2010-...)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### ITEP Chess Program
 
 

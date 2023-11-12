@@ -12,25 +12,6 @@ a Swedish computer scientist, president, CEO, and founder of *GoalArt* <a id="ci
 
 
 
-### Contents
-
-
-* [1 Mobility](#mobility)
-* [2 Selected Publications](#selected-publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In his 1987 note *Challenging that Mobility is Fundamental* <a id="cite-note-3" href="#cite-ref-3">[3]</a> , Larsson questions [Dap Hartmann's](Dap_Hartmann "Dap Hartmann") definition of [mobility](Mobility "Mobility") based on [legal](Legal_Move "Legal Move") or [pseudo-legal moves](Pseudo-Legal_Move "Pseudo-Legal Move"), as well as distinct or total attacked squares <a id="cite-note-4" href="#cite-ref-4">[4]</a>, 
-but favors weighting of squares toward the [center](Center "Center") or the enemy king, safe mobility, and mobility based on [pawn structure](Pawn_Structure "Pawn Structure") or even more complex second order computations.
-
-
-
 ## Selected Publications
 
 

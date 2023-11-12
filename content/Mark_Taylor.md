@@ -12,26 +12,6 @@ a British computer chess programmer, in the 80s working for [David Levy's](David
 
 
 
-### Contents
-
-
-* [1 160 Nibble Challenge](#160-nibble-challenge)
-* [2 Philidor](#philidor)
-* [3 Cyrus 68K](#cyrus-68k)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Mark Taylor worked with Levy to produce a program for a [Hitachi](https://en.wikipedia.org/wiki/Hitachi_Ltd.) 4-bit [CMOS](https://en.wikipedia.org/wiki/CMOS) [microcontroller](https://en.wikipedia.org/wiki/Microcontroller). The [HD44801](HMCS4xC "HMCS4xC") had 2K of 10-bit word [ROM](Memory#ROM "Memory"), **160** [nibbles](Nibble "Nibble") (80 bytes) of [RAM](Memory#RAM "Memory"), running at 400 KHz. Levy developed a chess playing algorithm for this chip which played fully legal chess including [pawn promotion](Promotions "Promotions"), [en passant capturing](En_passant "En passant"), [castling](Castling "Castling"), and even managed mate with KR v K in some versions all in 160 nibbles of RAM. A piece of work that Taylor is still rightly proud of today <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The chip went into a series of small portable [SciSys](Saitek "Saitek") machines - [Mini Chess](Mini_Chess "Mini Chess"), [Junior Chess](Mini_Chess#Junior "Mini Chess") and [Graduate Chess](Mini_Chess#Graduate "Mini Chess"), all released in early 1981. The 4-bit program also initiated [Eric White's](Eric_White "Eric White") involvement in computer chess business and long time collaboration with Levy, when [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) based manufacturer *White and Allcock*, forerunner of [Newcrest Technology](Newcrest_Technology "Newcrest Technology") introduced the CXG brand with [CXG Sensor Computachess](CXG_Sensor_Computachess "CXG Sensor Computachess") in 1981 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Philidor
 
 

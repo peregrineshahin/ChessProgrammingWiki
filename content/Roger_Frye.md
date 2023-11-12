@@ -13,31 +13,6 @@ He found the smallest counter-example to [Euler’s generalization](https://en.w
 
 
 
-### Contents
-
-
-* [1 StarTech](#startech)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1988 ...](#1988-...)
-	+ [2.2 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Roger E. Frye contributed to the [StarTech](StarTech "StarTech") project, as mentioned by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") in his thesis acknowledgments <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
-
-
-
-
-```C++
-[Mark Bromley](Mark_Bromley "Mark Bromley"), Roger Frye, and [Kurt Thearling](Kurt_Thearling "Kurt Thearling") provided important design and programming help in getting StarTech running on the [CM-5](Connection_Machine "Connection Machine"). Roger almost singlehandedly built the interface between the [HiTech](HiTech "HiTech") code and the parallel computer ... 
-
-```
-
 ## Selected Publications
 
 

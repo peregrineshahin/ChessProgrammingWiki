@@ -17,32 +17,6 @@ It is a fork of [Shane Hudson's](Shane_Hudson "Shane Hudson") Chess Information 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Screenshot](#screenshot)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Chess Assistant](Chess_Assistant "Chess Assistant")
-* [ChessBase (Database)](ChessBase_(Database) "ChessBase (Database)")
-* [ChessDB](index.php?title=ChessDB&action=edit&redlink=1 "ChessDB (page does not exist)")
-* [Chess Query Language](Chess_Query_Language "Chess Query Language")
-* [ChessX](ChessX "ChessX")
-* [Tournament Manager](Tournament_Manager "Tournament Manager")
-* [SCID](SCID "SCID")
-* [Scid on the Go](index.php?title=Scid_on_the_Go&action=edit&redlink=1 "Scid on the Go (page does not exist)")
-
-
 ## Screenshot
 
 

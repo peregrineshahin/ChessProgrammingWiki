@@ -8,26 +8,6 @@ title: Trapped Pieces
 
 
 
-### Contents
-
-
-* [1 Examples](#examples)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-
-
-
-
-
-
-* a white [knight](Knight "Knight") on h8 in presence of a black pawn either on h7 or on f7
-* a white bishop on h6 with black pawns on g5 and f6 (this one should be scored less severely, perhaps -50)
-* a white knight on h7 with black pawns on g7 **and** h6
-* a white knight on h7 with black pawns on g7 **and** f6
-* a white [rook](Rook "Rook") on h1/g1/h2/g2 with a white [king](King "King") on f1 or g1 (perhaps -40, to prevent pseudo-castling with a rook hemmed in)
-
-
 ## See also
 
 

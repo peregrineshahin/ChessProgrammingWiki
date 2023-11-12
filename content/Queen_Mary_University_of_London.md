@@ -12,33 +12,6 @@ title: Queen Mary University of London
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 Tournaments](#tournaments)
-* [4 Conferences](#conferences)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-* [Don Beal](Don_Beal "Don Beal")
-* [Alan H. Bond](Alan_H._Bond "Alan H. Bond")
-* [Mike Clarke](Mike_Clarke "Mike Clarke")
-* [John Hamlen](John_Hamlen "John Hamlen")
-* [Matthew Huntbach](index.php?title=Matthew_Huntbach&action=edit&redlink=1 "Matthew Huntbach (page does not exist)")
-* [Simon Lucas](Simon_Lucas "Simon Lucas")
-* [Søren Riis](S%C3%B8ren_Riis "Søren Riis")
-* [John J. Scott](John_J._Scott "John J. Scott")
-* [Martin C. Smith](Martin_C._Smith "Martin C. Smith")
-* [Thomas Wolf](index.php?title=Thomas_Wolf&action=edit&redlink=1 "Thomas Wolf (page does not exist)")
-
-
 ## Chess Programs
 
 

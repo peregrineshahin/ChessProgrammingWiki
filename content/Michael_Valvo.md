@@ -14,25 +14,6 @@ Michael Joseph Valvo died of a heart attack at September 18, 2004, in [Chanhasse
 
 
 
-### Contents
-
-
-* [1 Orbituaries](#orbituaries)
-	+ [1.1 ICGA Journal](#icga-journal)
-	+ [1.2 Pennswoodpusher](#pennswoodpusher)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1989](#1989)
-	+ [4.2 1990 ...](#1990-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### ICGA Journal
 
 

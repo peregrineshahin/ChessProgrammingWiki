@@ -14,22 +14,6 @@ and further elaborates on [book learning](Book_Learning "Book Learning") <a id="
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Marek Strejczek (**2004**). *Some aspects of chess programming*. M.Sc. thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Supervisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit"), [pdf](http://read.pudn.com/downloads91/ebook/350723/Some%20Aspects%20of%20Chess%20Programming.PDF) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
 ## Forum Posts
 
 

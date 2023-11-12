@@ -15,27 +15,6 @@ In his 2019 [ICGAJ article](ICGA_Journal#41_1 "ICGA Journal") Jan-Jaap van Horss
 
 
 
-### Contents
-
-
-* [1 Fotos](#fotos)
-* [2 Selected Publications](#selected-publications)
-* [3 Postings](#postings)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://icga.org/?page_id=1930) 
-[19th Computer Olympiad 2016](19th_Computer_Olympiad#Draughts "19th Computer Olympiad"), [ICGA](ICGA "ICGA") Organizer [Joke Hellemons](Johanna_Hellemons "Johanna Hellemons") and Draughts winners  
-
-Jan-Jaap van Horssen (3rd), [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") (1st), [Jelle Wiersma](index.php?title=Jelle_Wiersma&action=edit&redlink=1 "Jelle Wiersma (page does not exist)") (2nd), and TD <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ## Selected Publications
 
 

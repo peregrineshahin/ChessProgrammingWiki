@@ -12,21 +12,6 @@ an American software developer and computer chess programmer, who already got ho
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1997 ...](#1997-...)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1997 ...
 
 

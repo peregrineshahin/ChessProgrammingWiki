@@ -15,28 +15,6 @@ The [Ron Nelson](Ron_Nelson "Ron Nelson") program is a [6502](6502 "6502") port 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Manual](#manual)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Computer](#chess-computer)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Alexandra The Great](index.php?title=Alexandra_The_Great&action=edit&redlink=1 "Alexandra The Great (page does not exist)")
-* [Conqueror](Conqueror "Conqueror")
-* [Excalibur Igor](Excalibur_Igor "Excalibur Igor")
-* [Ivan The Terrible](Ivan_The_Terrible "Ivan The Terrible")
-
-
 ## Manual
 
 

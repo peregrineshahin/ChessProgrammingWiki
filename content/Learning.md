@@ -12,64 +12,6 @@ the process of acquiring new [knowledge](Knowledge "Knowledge") which involves s
 
 
 
-### Contents
-
-
-* [1 Learning inside a Chess Program](#Learning_inside_a_Chess_Program)
-* [2 Learning Paradigms](#Learning_Paradigms)
-	+ [2.1 Supervised Learning](#Supervised_Learning)
-	+ [2.2 Unsupervised Learning](#Unsupervised_Learning)
-	+ [2.3 Reinforcement Learning](#Reinforcement_Learning)
-* [3 Learning Topics](#Learning_Topics)
-* [4 Programs](#Programs)
-* [5 See also](#See_also)
-* [6 Selected Publications](#Selected_Publications)
-	+ [6.1 1940 ...](#1940_...)
-	+ [6.2 1950 ...](#1950_...)
-	+ [6.3 1955 ...](#1955_...)
-	+ [6.4 1960 ...](#1960_...)
-	+ [6.5 1965 ...](#1965_...)
-	+ [6.6 1970 ...](#1970_...)
-	+ [6.7 1975 ...](#1975_...)
-	+ [6.8 1980 ...](#1980_...)
-	+ [6.9 1985 ...](#1985_...)
-	+ [6.10 1990 ...](#1990_...)
-	+ [6.11 1995 ...](#1995_...)
-	+ [6.12 2000 ...](#2000_...)
-	+ [6.13 2005 ...](#2005_...)
-	+ [6.14 2010 ...](#2010_...)
-	+ [6.15 2015 ...](#2015_...)
-	+ [6.16 2020 ...](#2020_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1998 ...](#1998_...)
-	+ [7.2 2000 ...](#2000_..._2)
-	+ [7.3 2005 ...](#2005_..._2)
-	+ [7.4 2010 ...](#2010_..._2)
-	+ [7.5 2015 ...](#2015_..._2)
-* [8 External Links](#External_Links)
-	+ [8.1 Machine Learning](#Machine_Learning)
-	+ [8.2 AI](#AI)
-	+ [8.3 Chess](#Chess)
-	+ [8.4 Supervised Learning](#Supervised_Learning_2)
-	+ [8.5 Unsupervised Learning](#Unsupervised_Learning_2)
-	+ [8.6 Reinforcement Learning](#Reinforcement_Learning_2)
-	+ [8.7 TD Learning](#TD_Learning)
-	+ [8.8 Statistics](#Statistics)
-	+ [8.9 Markov Models](#Markov_Models)
-	+ [8.10 NNs](#NNs)
-	+ [8.11 ANNs](#ANNs)
-	+ [8.12 Courses](#Courses)
-* [9 References](#References)
-
-
-
-
-
-
-Learning inside a chess program may address several disjoint issues. A [persistent hash table](Persistent_Hash_Table "Persistent Hash Table") remembers "important" positions from earlier games inside the [search](Search "Search") with its [exact score](Exact_Score "Exact Score") [[3]](#cite_note-3). Worse positions may be avoided in advance. [Learning opening book moves](Book_Learning "Book Learning"), that is appending successful novelties or modify the probability of already stored moves from the book based on the outcome of a game [[4]](#cite_note-4). Another application is learning [evaluation](Evaluation "Evaluation") weights of various features, f. i. [piece-](Point_Value "Point Value") [[5]](#cite_note-5) or [piece-square](Piece-Square_Tables "Piece-Square Tables") [[6]](#cite_note-6) values or [mobility](Mobility "Mobility"). Programs may also learn to control search [[7]](#cite_note-7) or [time usage](Time_Management "Time Management") [[8]](#cite_note-8).
-
-
-
 ## Learning Paradigms
 
 

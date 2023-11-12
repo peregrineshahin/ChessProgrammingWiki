@@ -13,26 +13,6 @@ a Canadian computer scientist and systems analyst at [University of Alberta](Uni
 
 
 
-### Contents
-
-
-* [1 Pre-Search](#pre-search)
-	+ [1.1 Abstract](#abstract)
-	+ [1.2 Pseudo Code](#pseudo-code)
-* [2 Fotos](#fotos)
-* [3 Selected Publications](#selected-publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### Abstract
 
 

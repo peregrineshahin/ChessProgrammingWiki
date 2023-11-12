@@ -6,39 +6,6 @@ title: Software
 
 
 
-### Contents
-
-
-* [1 Operating Systems](#operating-systems)
-* [2 Chess Software](#chess-software)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Software](#software)
-	+ [5.2 Application / System Software](#application-.2f-system-software)
-	+ [5.3 Operating System](#operating-system)
-	+ [5.4 Mobile OS](#mobile-os)
-	+ [5.5 Commercial / Free Software](#commercial-.2f-free-software)
-	+ [5.6 Legal Issues](#legal-issues)
-	+ [5.7 Misc](#misc)
-
-
-
-
-
-
-* [Android](Android "Android")
-* [Mac OS](Mac_OS "Mac OS")
-* [MS-DOS](MS-DOS "MS-DOS")
-* [Windows](Windows "Windows")
-* [Unix](Unix "Unix")
-* [Linux](Linux "Linux")
-
-
-
-
-
-
 ## Chess Software
 
 

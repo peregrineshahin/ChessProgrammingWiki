@@ -17,33 +17,6 @@ Neurone played the [IOCSC 2010](IOCSC_2010 "IOCSC 2010"), [IOCSC 2011](IOCSC_201
 
 
 
-### Contents
-
-
-* [1 Neurolearning](#neurolearning)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Since version XXI the ability of [learning](Learning "Learning") was implemented, due to the similarity with human reasoning dubbed **Neurolearning**.
-It combines [supervised learning](Supervised_Learning "Supervised Learning") and [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") techniques, 
-separated for the three [game phases](Game_Phases "Game Phases"), [opening](Opening "Opening") (Phase 1), [middlegame](Middlegame "Middlegame") (Phase 2), and [endgame](Endgame "Endgame") (Phase 3) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
- [](File:Neurolearning.jpg) 
-1. Phase 1 learning considers a WDL discretized score (> 1.2,< -0.6) of the position ten moves after playing the last book move along with the final outcome as reinforcement signal, encoded in an opponent specific [book learning](Book_Learning "Book Learning") file supplementing the standard read-only [opening book](Opening_Book "Opening Book").
-2. Phase 2 learning utilizes a [persistent hash table](Persistent_Hash_Table "Persistent Hash Table"), whose entries might be modified in an analysing supervisor mode, looking for possible better moves.
-3. Phase 3 learning is intended to enlarge Neurone's specific [endgame tablebases](Endgame_Tablebases "Endgame Tablebases").
-
-
 ## Forum Posts
 
 

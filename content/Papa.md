@@ -15,27 +15,6 @@ an early computer chess program written by [George Rajna](George_Rajna "George R
 
 
 
-### Contents
-
-
-* [1 Entropy](#entropy)
-	+ [1.1 Rajna](#rajna)
-	+ [1.2 Marsland](#marsland)
-	+ [1.3 The Merit](#the-merit)
-* [2 Binary Logarithm](#binary-logarithm)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Papa](#papa)
-	+ [5.3 Entropy](#entropy-2)
-* [6 References](#references)
-
-
-
-
-
-
 ### Rajna
 
 

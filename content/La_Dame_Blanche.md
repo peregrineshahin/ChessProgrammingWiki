@@ -17,29 +17,6 @@ Along with La Dame Blanche, Marc-Philippe realized a [Book Builder](Opening_Book
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-		- [2.2.1 Arthropod](#arthropod)
-		- [2.2.2 Mountains](#mountains)
-		- [2.2.3 Mythology](#mythology)
-		- [2.2.4 Opéra Comique](#op.c3.a9ra-comique)
-* [3 References](#references)
-
-
-
-
-
-
-* [Re: Big winboard Tournament at level 40/40 (504 games !!)](https://www.stmintz.com/ccc/index.php?id=36588) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), December 18, 1998
-* [La Dame Blanche 2.0b released](https://www.stmintz.com/ccc/index.php?id=38780) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), January 08, 1999
-* [Strange move by La Dame Blanche](https://www.stmintz.com/ccc/index.php?id=68723) by Eric Guttenberg, [CCC](CCC "CCC"), September 14, 1999
-
-
 ## External Links
 
 

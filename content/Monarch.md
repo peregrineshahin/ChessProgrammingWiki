@@ -13,24 +13,6 @@ Monarch's board is internally [represented](Board_Representation "Board Represen
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Maverick](Maverick "Maverick")
-
-
 ## Forum Posts
 
 

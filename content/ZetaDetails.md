@@ -14,33 +14,6 @@ It features [Quad-Bitboards](Quad-Bitboards "Quad-Bitboards"), and its ability t
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-
-
-
-
-
-
-Zeta is written in [C](C "C") (host) and [OpenCL](OpenCL "OpenCL") (device). The host handles the IO, but all chess related computations are done via OpenCL (run-time-compilation) on the device.
-
-
-Zeta v099 is a port of [Zeta Dva](Zeta_Dva "Zeta Dva") to OpenCL, with parallel [Alpha-Beta](Alpha-Beta "Alpha-Beta") search, therefore 64 gpu-threads are coupled to one worker, used during move generation, move picking and evaluation in parallel.
-
-
-Zeta v097 and v098 were designed to run thousands of independent [threads](Thread "Thread") on a [GPU](GPU "GPU"), therefore they store the expanded game tree via an parallel [Best-First Minimax Search](Best-First_Minimax_Search "Best-First Minimax Search") search in [memory](Memory "Memory").
-
-
-
 ## See also
 
 

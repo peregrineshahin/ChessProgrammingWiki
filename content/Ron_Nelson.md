@@ -12,30 +12,6 @@ an American electrical engineer, microcomputer chess pioneer, and Engineering Vi
 
 
 
-### Contents
-
-
-* [1 Fidelity](#fidelity)
-* [2 Excalibur](#excalibur)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Ron Nelson wrote the first programs, and was also [Fidelity's](Fidelity_Electronics "Fidelity Electronics") Hardware engineer. After the huge success of the [Z80](Z80 "Z80") based *Fidelity Chess Challenger 7* <a id="cite-note-6" href="#cite-ref-6">[6]</a> , which sold about 600,000 units, the company along with Ron Nelson moved from [Chicago](https://en.wikipedia.org/wiki/Chicago), [Illinois](https://en.wikipedia.org/wiki/Illinois) to [Miami](https://en.wikipedia.org/wiki/Miami) [Florida](https://en.wikipedia.org/wiki/Florida) in January 1981. When [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") were hired by Samole in 1980 to adopt their much stronger [Sargon III](Sargon "Sargon") program as Fidelity's flagship, Nelson focused on hardware aspects and presumely I/O and system programming of the machines. In the 80s from time to time, a Fidelity model appeared with his [Z80](Z80 "Z80") program. 
-
-
-
- [](http://www.flickr.com/photos/10261668@N05/859077348/sizes/z/in/photostream/) 
-Director of Engineering: Ron Nelson <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## Excalibur
 
 

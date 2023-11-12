@@ -12,58 +12,6 @@ first used in [Greenblatt's](Richard_Greenblatt "Richard Greenblatt") program [M
 
 
 
-### Contents
-
-
-* [1 How it works](#How_it_works)
-	+ [1.1 Hash functions](#Hash_functions)
-	+ [1.2 Address Calculation](#Address_Calculation)
-* [2 Collisions](#Collisions)
-	+ [2.1 Cardinalities](#Cardinalities)
-	+ [2.2 Index Collisions](#Index_Collisions)
-	+ [2.3 Key Collisions](#Key_Collisions)
-	+ [2.4 Bits Required](#Bits_Required)
-* [3 What Information is Stored](#What_Information_is_Stored)
-* [4 Table Entry Types](#Table_Entry_Types)
-* [5 Replacement Strategies](#Replacement_Strategies)
-	+ [5.1 Always Replace](#Always_Replace)
-	+ [5.2 Priority by Searched Nodes Count](#Priority_by_Searched_Nodes_Count)
-	+ [5.3 Priority by Move Ordering Position](#Priority_by_Move_Ordering_Position)
-	+ [5.4 Depth-Preferred](#Depth-Preferred)
-	+ [5.5 Two-tier System](#Two-tier_System)
-	+ [5.6 Bucket Systems](#Bucket_Systems)
-	+ [5.7 Aging](#Aging)
-* [6 TT and Parallel Search](#TT_and_Parallel_Search)
-* [7 Further Hash Tables](#Further_Hash_Tables)
-* [8 Maximizing Transpositions](#Maximizing_Transpositions)
-* [9 See also](#See_also)
-* [10 Publications](#Publications)
-	+ [10.1 1967 ...](#1967_...)
-	+ [10.2 1970 ...](#1970_...)
-	+ [10.3 1980 ...](#1980_...)
-	+ [10.4 1990 ...](#1990_...)
-	+ [10.5 2000 ...](#2000_...)
-	+ [10.6 2010 ...](#2010_...)
-* [11 Forum Posts](#Forum_Posts)
-	+ [11.1 1990 ...](#1990_..._2)
-	+ [11.2 1995 ...](#1995_...)
-	+ [11.3 2000 ...](#2000_..._2)
-	+ [11.4 2005 ...](#2005_...)
-	+ [11.5 2010 ...](#2010_..._2)
-	+ [11.6 2015 ...](#2015_...)
-	+ [11.7 2020 ...](#2020_...)
-* [12 External Links](#External_Links)
-* [13 References](#References)
-
-
-
-
-
-
-When the search encounters a [transposition](Transposition "Transposition"), it is beneficial to 'remember' what was determined last time the position was examined, rather than redoing the entire search again. For this reason, chess programs have a transposition table, which is a large [hash table](Hash_Table "Hash Table") storing information about positions previously searched, how deeply they were searched, and what we concluded about them. Even if the [depth](Depth "Depth") (draft) of the related transposition table entry is not big enough, or does not contain the right bound for a cutoff, a [best](Best_Move "Best Move") (or good enough) move from a previous search can improve [move ordering](Move_Ordering "Move Ordering"), and save search time. This is especially true inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework, where one gains valuable table hits from previous iterations.
-
-
-
 ### Hash functions
 
 

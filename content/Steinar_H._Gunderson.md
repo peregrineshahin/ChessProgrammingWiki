@@ -15,31 +15,6 @@ Steinar H. Gunderson has a wide range of interests spanning from [DSP](https://e
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2007 ...](#2007-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In 2007, Sesse published the unofficial [CTG](CTG "CTG") specification (ChessBase Opening Tree of Games) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-He is author of **remoteglot** <a id="cite-note-7" href="#cite-ref-7">[7]</a>, a program used to use a [UCI compatible chess engine](Category:UCI "Category:UCI") to analyze chess games, 
-including live online relay. It is used for his live chess analysis website, known as **Sesse** <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-He has further written the [UCI](UCI "UCI") compliant engine [Stupid](Stupid "Stupid") <a id="cite-note-9" href="#cite-ref-9">[9]</a>, hosts [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") and [Syzygy Bases](Syzygy_Bases "Syzygy Bases") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, 
-and is contributor to the [Stockfish](Stockfish "Stockfish") project <a id="cite-note-11" href="#cite-ref-11">[11]</a>. 
-
-
-
 ## Publications
 
 

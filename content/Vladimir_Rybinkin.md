@@ -13,24 +13,6 @@ As former computer chess programmer, Vladimir Rybinkin is primary author of the 
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Vladimir Rybinkin (**2004**). *Revelation and correction of error of textual data in relational databases*. Moscow ACM SIGMOD
-* Vladimir Rybinkin (**2006**). *Realization of some methods of processing of poorly structured data in digital libraries*. RCDL, 2005
-* Vladimir Rybinkin, [Roman Lukatsky](https://dl.acm.org/author_page.cfm?id=81350584320&coll=DL&dl=ACM&trk=0) (**2007**). *[An optimization of the structure of databases](http://dl.acm.org/citation.cfm?id=1348511)*. AIKED'07, [pdf](http://www.wseas.us/e-library/conferences/2007corfu/papers/540-399.pdf)
-
-
 ## Forum Posts
 
 

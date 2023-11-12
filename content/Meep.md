@@ -12,62 +12,6 @@ an experimental chess engine as subject of research on [machine learning](Learni
 
 
 
-### Contents
-
-
-* [1 BootStrap](#bootstrap)
-	+ [1.1 RootStrap](#rootstrap)
-	+ [1.2 TreeStrap](#treestrap)
-* [2 Results](#results)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-In contrast to [temporal difference methods](Temporal_Difference_Learning "Temporal Difference Learning") such as [TD-Leaf](Temporal_Difference_Learning#TDLeaf "Temporal Difference Learning") <a id="cite-note-4" href="#cite-ref-4">[4]</a> as used in [KnightCap](KnightCap "KnightCap"), where the target search is performed at subsequent time-steps, after a real move and response have been played, Meep performs various [bootstrapping](https://en.wikipedia.org/wiki/Bootstrap_aggregating) techniques during training, dubbed **RootStrap** and **TreeStrap**, to adjust the weights at every time-step inside either a [minimax](Minimax "Minimax") or [alpha-beta](Alpha-Beta "Alpha-Beta") search. With the heuristic evaluation function as linear combination of
-
-
-
- [](File:MeepFormula1.jpg) 
-where Φ(s) is a vector of features of position s, and θ is a parameter vector specifying the weight of each feature in the linear combination, following backup rules are given, using V as backed up value of the minimax or alpha-beta search (left arrow [theta](https://en.wikipedia.org/wiki/Theta) (←*θ*) denotes the operator that updates the heuristic function towards some target value): 
-
-
-
-
-
-|  Algorithm
- |  Backup
- |
-| --- | --- |
-|  TD
- | [MeepFormula2.jpg](File:MeepFormula2.jpg) |
-|  TD-Root
- | [MeepFormula3.jpg](File:MeepFormula3.jpg) |
-|  TD-Leaf
- | [MeepFormula4.jpg](File:MeepFormula4.jpg) |
-|  RootStrap(minimax)
- | [MeepFormula5.jpg](File:MeepFormula5.jpg) |
-|  TreeStrap(minimax)
- | [MeepFormula6.jpg](File:MeepFormula6.jpg) |
-|  TreeStrap(αβ)
- | [MeepFormula7.jpg](File:MeepFormula7.jpg) |
-
-
-
-
-|  |  |
-| --- | --- |
-| [TDRootAndLeaf.jpg](File:TDRootAndLeaf.jpg) | [MeepStraps.jpg](File:MeepStraps.jpg) |
-|  TD, TD-Root and TD-Leaf backups
- |  RootStrap and TreeStrap(minimax) backups <a id="cite-note-5" href="#cite-ref-5">[5]</a> |
-
-
 ### RootStrap
 
 

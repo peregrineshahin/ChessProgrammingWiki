@@ -15,27 +15,6 @@ The computer is represented by a wooden [sensory board](Sensory_Board "Sensory B
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Fritz](Fritz "Fritz")
-* [President Chess](President_Chess "President Chess")
-* [Quest](Quest "Quest")
-* [Saitek Brute Force](Saitek_Brute_Force "Saitek Brute Force")
-* [Saitek GK 2100](GK_2100 "GK 2100")
-* [Saitek PC Auto Chessboard](Saitek_PC_Auto_Chessboard "Saitek PC Auto Chessboard")
-
-
 ## Forum Posts
 
 

@@ -11,31 +11,6 @@ He holds a Ph.D. from MIT on machine learning in 2002 <a id="cite-note-2" href="
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-from [Bradley Kuszmaul's](Bradley_Kuszmaul "Bradley Kuszmaul") Ph.D. thesis <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
-
-```C++
-The code for [move generation](Move_Generation "Move Generation") and checking [illegal moves](Legal_Move "Legal Move"), which takes a total of 3.5% of the cycles, was optimized in [assembly language](Assembly "Assembly") by Ryan Rifkin under the direction of [Mark Bromley](Mark_Bromley "Mark Bromley") of [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation). Before Ryan worked on that code, the move generation and illegal move checking accounted for about 9% of all the cycles. 
-
-```
-
 ## Selected Publications
 
 

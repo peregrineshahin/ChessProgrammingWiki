@@ -19,23 +19,6 @@ In 1997, Psycho applied a [parallel search](Parallel_Search "Parallel Search") o
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Psycho-Chess](index.php?title=Psycho-Chess&action=edit&redlink=1 "Psycho-Chess (page does not exist)")
-* [PsycoChess](PsycoChess "PsycoChess")
-
-
 ## Forum Posts
 
 

@@ -15,27 +15,6 @@ Along with [Barak Oshri](Barak_Oshri "Barak Oshri") at Stanford in 2015, he work
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-* [Barak Oshri](Barak_Oshri "Barak Oshri"), Nishith Khandwala (**2015**). *Predicting Moves in Chess using Convolutional Neural Networks*. [pdf](http://vision.stanford.edu/teaching/cs231n/reports/2015/pdfs/ConvChess.pdf) [[4]](#cite-note-github-4)
-* [Paroma Varma](https://scholar.google.com/citations?user=_KVKcJgAAAAJ&hl=en), [Bryan He](https://scholar.google.com/citations?user=VnvkluIAAAAJ&hl=en), [Payal Bajaj](https://scholar.google.com/citations?user=656vbXQAAAAJ&hl=en), [Imon Banerjee](https://scholar.google.com/citations?user=hagJ_W8AAAAJ&hl=en), Nishith Khandwala, [Daniel L. Rubin](https://scholar.google.com/citations?user=u2duqkYAAAAJ&hl=en), [Christopher Ré](https://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en) (**2017**). *Inferring Generative Model Structure with Static Analysis*. [NIPS 2017](https://dblp.org/db/conf/nips/nips2017.html#VarmaHBKBRR17), [arXiv:1709.02477](https://arxiv.org/abs/1709.02477)
-* [Jared Dunnmon](https://scholar.google.com/citations?user=PL8P6xsAAAAJ&hl=en), [Alexander Ratner](https://scholar.google.com/citations?user=rfwwtFYAAAAJ&hl=en), Nishith Khandwala, [Khaled Saab](https://scholar.google.com/citations?user=W77CiNUAAAAJ&hl=en), [Matthew Markert](https://scholar.google.com/citations?user=0Lc_s4AAAAAJ&hl=en), [Hersh Sagreiya](https://scholar.google.com/citations?user=Tx0ci7IAAAAJ&hl=en), [Roger Goldman](https://scholar.google.com/citations?user=Eh_fFrAAAAAJ&hl=en), [Christopher Lee-Messer](https://scholar.google.com/citations?user=zEAw56MAAAAJ&hl=en), [Matthew Lungren](https://scholar.google.com/citations?user=z1UtMSYAAAAJ&hl=en), [Daniel L. Rubin](https://scholar.google.com/citations?user=u2duqkYAAAAJ&hl=en), [Christopher Ré](https://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en) (**2019**). *Cross-Modal Data Programming Enables Rapid Medical Machine Learning*. [arXiv:1903.11101](https://arxiv.org/abs/1903.11101)
-
-
 ## External Links
 
 

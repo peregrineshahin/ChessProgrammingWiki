@@ -10,45 +10,6 @@ a chess program developed by [Kees de Kruif](index.php?title=Kees_de_Kruif&actio
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 Namesake](#namesake)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-[DCCC 1981](DOCCC_1981 "DOCCC 1981"), Killer - [Tiny Chess '86](Tiny_Chess_86 "Tiny Chess 86") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Blackmar–Diemer Gambit](https://en.wikipedia.org/wiki/Blackmar%E2%80%93Diemer_Gambit)
-
-
-
-
-```
-
-[Event "DCCC 1981"]
-[Site "Utrecht NED"]
-[Date "1981.09.27"]
-[Round "7-9"]
-[White "Killer"]
-[Black "Tiny Chess '86"]
-[Result "1/2-1/2"]
-
-1.d4 Nf6 2.f3 d5 3.e4 dxe4 4.Nc3 exf3 5.Qxf3 Qxd4 6.Be3 Qd8 7.Rd1 Nbd7 8.Bc4 a6 
-9.Nh3 Rg8 10.O-O e6 11.Qg3 Bd6 12.Qe1 Nb6 13.Be2 Nfd5 14.Bg5 Qd7 15.Rf2 Bc5 
-16.Nxd5 Nxd5 17.Rxd5 Qxd5 18.Kh1 Bxf2 19.Qxf2 Qxa2 20.Qd4 Qd5 21.Qa4+ b5 22.Qa1 
-Qc5 23.Qb1 Bd7 24.b4 Qd4 25.Qe1 Qe4 26.Qf2 Qxb4 27.Qg1 Qc3 28.Bd3 Rf8 29.Nf2 f5 
-30.Qb1 h6 31.Bh4 g5 32.Bg3 h5 33.Nh3 f4 34.Bg6+ Ke7 35.Bxf4 gxf4 36.Nf2 Qd4 
-37.Qg1 f3 38.g3 h4 39.gxh4 Qxh4 40.c3 Qf4 41.Bd3 Rg8 42.Qa1 Bc6 43.Qa3+ Kf6 
-44.Qa1 Ke7 45.Qa3+ Kf6 46.Qa1 Ke7 47.Qa3+ Kf6 48.Qa1 1/2-1/2
-
-```
-
 ## See also
 
 

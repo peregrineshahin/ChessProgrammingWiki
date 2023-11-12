@@ -17,26 +17,6 @@ In a 1982 usenet post, [Tom Truscott](Tom_Truscott "Tom Truscott") mentions Wagn
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1968](#1968)
-	+ [1.2 1970 ...](#1970-...)
-	+ [1.3 1980 ...](#1980-...)
-	+ [1.4 1990 ...](#1990-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
 ### 1968
 
 

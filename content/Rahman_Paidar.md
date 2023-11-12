@@ -16,22 +16,6 @@ The first version was written in [Turbo Pascal](Pascal#TurboPascal "Pascal") und
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Klaus Wlotzka](index.php?title=Klaus_Wlotzka&action=edit&redlink=1 "Klaus Wlotzka (page does not exist)") (**2006**). *Ktulu 8 - Interview mit Rahman Paidar*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](https://computerschach.de/Files/2006/CSS-Rangliste%20-%20Der%20Weltmeister%20im%20Blickpunkt.pdf) (German)
-
-
 ## Forum Posts
 
 

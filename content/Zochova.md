@@ -17,24 +17,6 @@ an implementation of managed [Signals and slots](https://en.wikipedia.org/wiki/S
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Zochova chess engine](http://www.talkchess.com/forum/viewtopic.php?t=30009) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), October 06, 2009
-* [Please, Cluster Toga && Zochova](http://www.talkchess.com/forum/viewtopic.php?t=46179) by [Arturo Ochoa](Arturo_Ochoa "Arturo Ochoa"), [CCC](CCC "CCC"), November 28, 2012 » [Cluster Toga](Cluster_Toga "Cluster Toga")
-
-
 ## External Links
 
 

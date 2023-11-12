@@ -12,24 +12,6 @@ an American chess player, publisher and and politician, during the mid 80s invol
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Jefferson Poland](https://en.wikipedia.org/wiki/Jefferson_Poland), Sam Sloan (**1968**). *[Sex Marchers](http://www.anusha.com/sexmarchers.htm)*. ISBN: 0923891137
-* Sam Sloan (**1989**). *[Chinese Chess for Beginners](http://www.anusha.com/chinesechess.htm)*. [Ishi Press International](https://en.wikipedia.org/wiki/Ishi_Press) <a id="cite-note-9" href="#cite-ref-9">[9]</a>, ISBN: 0923891617
-* Sam Sloan (**2008**). *[Mafia Moll: The Judith Exner Story, The Life of the Mistress of John F. Kennedy](http://www.anusha.com/exner.htm)*. [Ishi Press International](https://en.wikipedia.org/wiki/Ishi_Press)
-
-
 ## Forum Posts
 
 

@@ -10,25 +10,6 @@ a chess program written by [Thomas Mally](Thomas_Mally "Thomas Mally") in the ea
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Wappler <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Publications
 
 

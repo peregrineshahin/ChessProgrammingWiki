@@ -14,26 +14,6 @@ Her research interests include [artificial intelligence](Artificial_Intelligence
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1975 ...](#1975-...)
-	+ [1.2 1995 ...](#1995-...)
-	+ [1.3 2000 ...](#2000-...)
-	+ [1.4 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### 1975 ...
 
 

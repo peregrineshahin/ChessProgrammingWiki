@@ -12,28 +12,6 @@ a chess program by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist") wi
 
 
 
-### Contents
-
-
-* [1 Screen Shot](#screen-shot)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-[](http://www.talkchess.com/forum/viewtopic.php?t=42946)
-Wilhelm [GUI](GUI "GUI") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ## See also
 
 

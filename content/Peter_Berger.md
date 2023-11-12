@@ -13,25 +13,6 @@ Peter represented and operated Crafty at three consecutive [World Computer Chess
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-	+ [1.1 Junior - Crafty](#junior---crafty)
-	+ [1.2 Fruit - Crafty](#fruit---crafty)
-	+ [1.3 Crafty - Zappa](#crafty---zappa)
-* [2 Forum Posts](#forum-posts)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### Junior - Crafty
 
 

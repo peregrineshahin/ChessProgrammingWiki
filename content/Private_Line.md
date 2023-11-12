@@ -14,27 +14,6 @@ The computer had a wooden [sensory board](Sensory_Board "Sensory Board") and an 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Computer](#chess-computer)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Chess Challenger](Chess_Challenger "Chess Challenger")
-* [Elegance](Elegance "Elegance")
-* [Elite](Elite "Elite")
-* [Fidelity](Fidelity "Fidelity")
-* [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics")
-
-
 ## External Links
 
 

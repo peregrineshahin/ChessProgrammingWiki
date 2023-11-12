@@ -10,30 +10,6 @@ title: Pradu Kannan
 
 
 
-### Contents
-
-
-* [1 Magic Bitboards](#magic-bitboards)
-* [2 Photos](#photos)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2005](#2005)
-	+ [5.2 2006](#2006)
-	+ [5.3 2007](#2007)
-	+ [5.4 2008](#2008)
-	+ [5.5 2009](#2009)
-* [6 References](#references)
-
-
-
-
-
-
-Pradu Kannan made [Lasse Hansen's](Lasse_Hansen "Lasse Hansen") initial [Magic Bitboard](Magic_Bitboards "Magic Bitboards") approach to process both lines of a rook- or bishop movement simultaneously <a id="cite-note-5" href="#cite-ref-5">[5]</a> applicable with respect to memory size, as he proposed a [Java](Java "Java")-like, two-dimensional [array](Array "Array") with individual size for each square <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Photos
 
 

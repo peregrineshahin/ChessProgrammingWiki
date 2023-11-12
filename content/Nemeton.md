@@ -14,33 +14,6 @@ Beside the pure WinBoard open source version, two further [Windows](Windows "Win
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Etymology](#etymology)
-* [3 Screenshot](#screenshot)
-* [4 Photos](#photos)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2014](#2014)
-	+ [6.2 2015 ...](#2015-...)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-Written in [Pascal](Pascal "Pascal"), Nemeton started as simple "bean counter", utilizing a [16x12.5](Vector_Attacks "Vector Attacks") [mailbox](Mailbox "Mailbox") board [array](Array "Array") (board:array[0..200] of byte) without [piecelists](Piece-Lists "Piece-Lists") and therefor an extremely small [memory footprint](Memory#Footprint "Memory"). 
-Nemeton performs [iterative](Iterative_Search "Iterative Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table") and [fractional plies](Depth#FractionalPlies "Depth") along with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [check extensions](Check_Extensions "Check Extensions") and [7th rank pawn extensions](Passed_Pawn_Extensions "Passed Pawn Extensions"). [Move ordering](Move_Ordering "Move Ordering") considers [hash move](Hash_Move "Hash Move") with [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") if not available, and sorts [captures](Captures "Captures") by [MVV/LVA](MVV-LVA "MVV-LVA"). and [quiet moves](Quiet_Moves "Quiet Moves") by the [killer heuristic](Killer_Heuristic "Killer Heuristic").
-Nemeton **1** did not [poll](https://en.wikipedia.org/wiki/Polling_%28computer_science%29) [input](https://en.wikipedia.org/wiki/Input/output) while thinking, so that [pondering](Pondering "Pondering") or analyzing were not possible, but that was already fixed in Nemeton **1.1** due to [threaded](Thread "Thread") WinBoard input <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Etymology
 
 

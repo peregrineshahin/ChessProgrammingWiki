@@ -11,45 +11,6 @@ In 2016, JFresh was superseded by [Spartan](Spartan "Spartan") <a id="cite-note-
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-* [Bitboards](Bitboards "Bitboards")
-* [Magic Bitboards](Magic_Bitboards "Magic Bitboards")
-* [Iterative Deepening](Iterative_Deepening "Iterative Deepening")
-* [Alpha-Beta](Alpha-Beta "Alpha-Beta")
-* [Principal Variation Search](Principal_Variation_Search "Principal Variation Search")
-* [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
-* [Transposition Table](Transposition_Table "Transposition Table")
-* [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
-* [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
-* [Mate Distance Pruning](Mate_Distance_Pruning "Mate Distance Pruning")
-* [Futility Pruning](Futility_Pruning "Futility Pruning")
-* [Delta Pruning](Delta_Pruning "Delta Pruning")
-* [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
-* [History Heuristic](History_Heuristic "History Heuristic")
-* [Pawn Hash Table](Pawn_Hash_Table "Pawn Hash Table")
-* [Perft](Perft "Perft")
-* [Logging](Logging "Logging")
-
-
 ## See also
 
 

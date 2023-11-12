@@ -19,35 +19,6 @@ However, it seems Microchess 3 was an alias name of PetChess, with Mark Taylor a
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-excerpt from [John F. White's](John_F._White "John F. White") 1982 review <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
-
-```C++
-There is a substantial [book-opening library](Opening_Book "Opening Book") of 3,700 moves, although whether a computer should play the dubious [von Hennig-Schara gambit](https://en.wikipedia.org/wiki/Tarrasch_Defense#Tarrasch_Defense) is open to doubt. Moves may be taken back to the beginning and an action replay is available to repeat moves. The program uses [iterative deepening](Iterative_Deepening "Iterative Deepening") for its moves and the best move yet found is constantly displayed, as is the move under consideration, and the player can halt the machine’s thinking at any time. Moves are not randomly selected – except in the opening – instead the player can select the next best move and play on from there. Draws under the 50-move rule, stalemate or three-fold repetition are also recognised. 
-
-```
-
-
-```C++
-The entire program and its style of play is reminiscent of [Philidor’s](Philidor_Software "Philidor Software") [Intelligent Chess](Intelligent_Chess "Intelligent Chess"), although there is a greater emphasis on pawn moves. The [evaluation function](Evaluation_Function "Evaluation Function") is evidently very sophisticated, but it takes a long time to search at the lowest levels. It seems that subsequent levels are only sketchily evaluated, and the program rarely changes its mind about a move found at the lowest level. As a result, PetChess falls into simple traps at these levels – up to one minute, which covers half of the available levels – because of its inability to see far ahead. At higher levels, it avoids the traps, but tends to exchange everything it can. Like so many programs, it likes to exchange its bishops for knights early in the game, and it also prefers to double its pawns rather than move its queen before castling – I detect [Levy’s](David_Levy "David Levy") hand. PetChess shows some evidence of strategic thinking in moving pawn majorities against minorities or in moving major pieces into attack positions against the enemy king. This, again, shows the thought that has been put into the evaluation function. The end-game play is, however, rather weak, and the king seems to be a little passive. 
-
-```
-
 ## Publications
 
 

@@ -8,36 +8,6 @@ title: Undermining
 
 
 
-### Contents
-
-
-* [1 Sample](#sample)
-* [2 Counter Sample](#counter-sample)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-
-
-
-
-
-
-... like Rxc7, capturing the lonesome guard of Be6:
-
-
-
-
-
-|  |
-| --- |
-|                                                                                          ♚      ♞   ♟    ♝♝          ♟                      ♙   ♖ ♖  ♔ |
-
-
-
-```C++
-3k4/2n3p1/3bb3/7p/8/8/6P1/2R1R2K w - - 
-
-```
-
 ## Counter Sample
 
 

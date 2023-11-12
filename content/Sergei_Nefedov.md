@@ -14,23 +14,6 @@ He is author of the [UCI](UCI "UCI") compliant chess program [Anechka](Anechka "
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
- [](http://www.sdchess.ru/febr_march_08.htm) 
-[CCCCISC 2008](CCCCISC_2008 "CCCCISC 2008"): [Jury Osipov](Jury_Osipov "Jury Osipov"), [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [Igor Korshunov](Igor_Korshunov "Igor Korshunov"), Sergei Nefedov <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## External Links
 
 

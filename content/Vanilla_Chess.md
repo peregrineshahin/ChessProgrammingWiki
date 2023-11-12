@@ -12,29 +12,6 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:
 
 
 
-### Contents
-
-
-* [1 Source Code](#source-code)
-	+ [1.1 Header](#header)
-	+ [1.2 Move Generation](#move-generation)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ### Header
 
 

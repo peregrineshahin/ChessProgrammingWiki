@@ -11,26 +11,6 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-* [Introducing Igel chess engine](http://www.talkchess.com/forum3/viewtopic.php?t=67890) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), July 03, 2018
-
-
- [Re: Introducing Igel chess engine - Igel and NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=17) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), August 19, 2020
- [Igel Generation Networks (IGN)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=83) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), October 30, 2020
-* [Igel 3.0.5](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=292) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), April 27, 2021
-
-
 ## External Links
 
 

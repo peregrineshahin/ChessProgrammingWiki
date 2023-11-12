@@ -12,29 +12,6 @@ a research chess program started by [Robert Levinson](Robert_Levinson "Robert Le
 
 
 
-### Contents
-
-
-* [1 Morph's History](#morph.27s-history)
-	+ [1.1 Morph I/II](#morph-i.2fii)
-	+ [1.2 Morph III/IV](#morph-iii.2fiv)
-	+ [1.3 Morph V](#morph-v)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-	+ [3.1 1989](#1989)
-	+ [3.2 1990 ...](#1990-...)
-	+ [3.3 2000 ...](#2000-...)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
 ### Morph I/II
 
 

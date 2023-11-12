@@ -10,26 +10,6 @@ a free chess engine with [Chess Engine Communication Protocol](Chess_Engine_Comm
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Matacz 1.02 : draw detection bug ?](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4015) by Arnaud Lohéac, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 24, 2005
-* [Re: from WIN32 to Win64 compile with visual c++ 2005 express](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5537&start=10) by [Maciej Pestka](Maciej_Pestka "Maciej Pestka"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 07, 2006
-* [Matacz1.3HT7 exit from Winboard](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6628) by Pablo, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 04, 2007
-* [No more home page for Matacz?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=20651) by Tony Mokonen, [CCC](CCC "CCC"), April 13, 2008
-
-
 ## External Links
 
 

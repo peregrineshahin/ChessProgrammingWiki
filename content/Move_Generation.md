@@ -10,45 +10,6 @@ title: Move Generation
 
 
 
-### Contents
-
-
-* [1 Legality](#Legality)
-	+ [1.1 Pseudo-legal](#Pseudo-legal)
-	+ [1.2 Legal](#Legal)
-* [2 Special Generators](#Special_Generators)
-* [3 Chunk Move Generation](#Chunk_Move_Generation)
-* [4 Staged Move Generation](#Staged_Move_Generation)
-* [5 Debugging](#Debugging)
-* [6 Un-Move Generation](#Un-Move_Generation)
-* [7 See also](#See_also)
-	+ [7.1 General](#General)
-	+ [7.2 Board Array](#Board_Array)
-	+ [7.3 Bitboards](#Bitboards)
-	+ [7.4 Hardware](#Hardware)
-	+ [7.5 Chess Programs](#Chess_Programs)
-* [8 Publications](#Publications)
-	+ [8.1 1950 ...](#1950_...)
-	+ [8.2 1970 ...](#1970_...)
-	+ [8.3 1980 ...](#1980_...)
-	+ [8.4 1990 ...](#1990_...)
-	+ [8.5 2000 ...](#2000_...)
-	+ [8.6 2010 ...](#2010_...)
-* [9 Forum Posts](#Forum_Posts)
-	+ [9.1 1990 ...](#1990_..._2)
-	+ [9.2 2000 ...](#2000_..._2)
-	+ [9.3 2005 ...](#2005_...)
-	+ [9.4 2010 ...](#2010_..._2)
-	+ [9.5 2015 ...](#2015_...)
-	+ [9.6 2020 ...](#2020_...)
-* [10 External Links](#External_Links)
-* [11 References](#References)
-
-
-
-
-
-
 ### Pseudo-legal
 
 

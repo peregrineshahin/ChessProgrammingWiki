@@ -12,30 +12,6 @@ a series of private chess programs written by [John F. White](John_F._White "Joh
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Description](#description)
-	+ [2.1 Move Generation](#move-generation)
-	+ [2.2 Check Detection](#check-detection)
-	+ [2.3 Search](#search)
-	+ [2.4 Evaluation](#evaluation)
-* [3 Performance](#performance)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-The name Querg <a id="cite-note-4" href="#cite-ref-4">[4]</a> has no meaning, the *Querg P Quigel* fictional character <a id="cite-note-5" href="#cite-ref-5">[5]</a> from [Star Trek Voyager](https://en.wikipedia.org/wiki/Star_Trek:_Voyager) [Pathfinder](https://en.wikipedia.org/wiki/Pathfinder_%28Star_Trek:_Voyager%29) appeared some years later. 
-
-
-
 ## Description
 
 

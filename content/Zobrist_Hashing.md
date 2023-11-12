@@ -15,41 +15,6 @@ The main purpose of Zobrist hash codes in chess programming is to get an almost 
 
 
 
-### Contents
-
-
-* [1 Metamorphosis](#Metamorphosis)
-* [2 Initialization](#Initialization)
-* [3 Runtime](#Runtime)
-* [4 Collisions](#Collisions)
-	+ [4.1 Theory](#Theory)
-	+ [4.2 Praxis](#Praxis)
-	+ [4.3 Lack a True Integer Type](#Lack_a_True_Integer_Type)
-	+ [4.4 Linear Independence](#Linear_Independence)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1982 ...](#1982_...)
-	+ [7.2 1990 ...](#1990_...)
-	+ [7.3 2000 ...](#2000_...)
-	+ [7.4 2005 ...](#2005_...)
-	+ [7.5 2010 ...](#2010_...)
-	+ [7.6 2015 ...](#2015_...)
-	+ [7.7 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-* [9 References](#References)
-
-
-
-
-
-
-[](http://www.mcescher.com/Gallery/gallery-recogn.htm)
-[](http://www.mcescher.com/Gallery/gallery-recogn.htm)
-[M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis) III, 1967-1968 [[10]](#cite_note-10)
-
-
-
 ## Initialization
 
 

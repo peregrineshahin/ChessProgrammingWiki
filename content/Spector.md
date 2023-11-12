@@ -12,43 +12,6 @@ a chess program by [Steven Edwards](Steven_Edwards "Steven Edwards") written in 
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Quotes](#quotes)
-* [3 Tournament Play](#tournament-play)
-	+ [3.1 Spector Specs](#spector-specs)
-	+ [3.2 Selected Games](#selected-games)
-		- [3.2.1 Now](#now)
-		- [3.2.2 Evaluator](#evaluator)
-* [4 Description](#description)
-	+ [4.1 Board Representation](#board-representation)
-		- [4.1.1 Bitboards](#bitboards)
-		- [4.1.2 8x8 Board](#8x8-board)
-		- [4.1.3 Move-Generation](#move-generation)
-	+ [4.2 Search](#search)
-	+ [4.3 Evaluation](#evaluation)
-* [5 See also](#see-also)
-* [6 Downloads](#downloads)
-* [7 Forum Posts](#forum-posts)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-[Spector](https://en.wiktionary.org/wiki/spector) is the [realis mood](https://en.wikipedia.org/wiki/Realis_mood) of the [Latin](https://en.wikipedia.org/wiki/Latin) [verb](https://en.wikipedia.org/wiki/Verb) [specto](https://en.wiktionary.org/wiki/specto), also related to [Spectrum](https://en.wikipedia.org/wiki/Spectrum), [Spectator](https://en.wikipedia.org/wiki/Spectator) and [Speculation](https://en.wikipedia.org/wiki/Speculation):
-
-
-
-1. I watch, observe, look at, see
-2. I test
-3. I consider
-
-
 ## Quotes
 
 

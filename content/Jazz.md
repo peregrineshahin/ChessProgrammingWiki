@@ -13,28 +13,6 @@ Jazz supports both, the [Universal Chess Interface](UCI "UCI") and [Chess Engine
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Jazz](#jazz)
-* [5 References](#references)
-
-
-
-
-
-
-Jazz uses [bitboards](Bitboards "Bitboards"), first [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"), later [Kindergarten bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-It performs [fail-soft](Fail-Soft "Fail-Soft") [alpha-beta](Alpha-Beta "Alpha-Beta") [principal variation search](Principal_Variation_Search "Principal Variation Search") with [quiescence](Quiescence_Search "Quiescence Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning") and [check extensions](Check_Extensions "Check Extensions"). [Move ordering](Move_Ordering "Move Ordering") considers [hash move](Hash_Move "Hash Move"), [mate killers](Mate_Killers "Mate Killers"), and along with a [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), [winning captures](Captures "Captures") and [promotions](Promotions "Promotions"). Further, beside the [killer heuristic](Killer_Heuristic "Killer Heuristic") and [countermove heuristic](Countermove_Heuristic "Countermove Heuristic"), a so called **Combo Move** heuristics is used to possibly refute opponent moves along similar lines <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-The implementation of a [multithreaded](Thread "Thread") [parallel search](Parallel_Search "Parallel Search") along the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") with [lock-less hashing](Shared_Hash_Table#Lockless "Shared Hash Table") was elaborated by Evert Glebbeek in a April 2013 [CCC](CCC "CCC") posting <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Jazz' [evaluation](Evaluation "Evaluation") takes [material](Material "Material"), [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [pawn structure](Pawn_Structure "Pawn Structure"), [mobility](Mobility "Mobility"), and [king safety](King_Safety "King Safety") into account.
-
-
-
 ## See also
 
 

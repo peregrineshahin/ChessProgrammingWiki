@@ -12,32 +12,6 @@ an [UCI](UCI "UCI") compatible [open source chess engine](Category:Open_Source "
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-* [2 Tournament Play](#tournament-play)
-* [3 Photos & Games](#photos-.26-games)
-	+ [3.1 WCCC 2015](#wccc-2015)
-	+ [3.2 WCSC 2015](#wcsc-2015)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2013](#2013)
-	+ [5.2 2015](#2015)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Engine](#chess-engine)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-Maverick features [plain magic bitboards](Magic_Bitboards#Plain "Magic Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), and multiple slot [transposition table](Transposition_Table "Transposition Table"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), [NMP](Null_Move_Pruning "Null Move Pruning"), [ETC](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff") and a few [extensions](Extensions "Extensions") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop processing the [root](Root "Root"). [Move ordering](Move_Ordering "Move Ordering") considers [MVV/LVA](MVV-LVA "MVV-LVA") for [captures](Captures "Captures") and [killers](Killer_Move "Killer Move") and [history counters](History_Heuristic "History Heuristic") otherwise. [Quiescence search](Quiescence_Search "Quiescence Search") tries all [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") positive captures, and [checks](Check "Check") at its first ply. Maverick's [tapered](Tapered_Eval "Tapered Eval") [evaluation](Evaluation "Evaluation") focuses on [material](Material "Material"), [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [mobility](Mobility "Mobility") and [passed pawns](Passed_Pawn "Passed Pawn"), and [automated tuning](Automated_Tuning "Automated Tuning") <a id="cite-note-4" href="#cite-ref-4">[4]</a> is planned for future versions. 
-
-
-
 ## Tournament Play
 
 

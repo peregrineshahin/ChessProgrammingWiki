@@ -10,35 +10,6 @@ a commercial chess program by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), one o
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Descriptions](#descriptions)
-	+ [2.1 1991](#1991)
-	+ [2.2 1995](#1995)
-	+ [2.3 1999](#1999)
-* [3 Selected Games](#selected-games)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1990 ...](#1990-...)
-	+ [5.2 1995 ...](#1995-...)
-	+ [5.3 2000 ...](#2000-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.schachcomputer.info/forum/showthread.php?t=3531) 
-M-Chess Pro 3.5 (1993) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-
-
-
 ## Descriptions
 
 

@@ -15,24 +15,6 @@ In 2004, Roman Hartmann wrote his [Matura](https://en.wikipedia.org/wiki/Matura#
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2004 ...](#2004-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Roman Hartmann (**2004**). *Die Programmierung eines Computers für das Schachspiel*. [Matura](https://en.wikipedia.org/wiki/Matura#In_Switzerland) thesis, [pdf](http://www.rocechess.ch/maturaarbeit/matura.pdf) (German)
-
-
 ## Forum Posts
 
 

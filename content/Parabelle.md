@@ -12,28 +12,6 @@ an experimental chess program of the early 1980s developed by [Fred Popowich](Fr
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Performance](#performance)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-The basis of both the sequential and parallel chess programs was an [iterative deepening](Iterative_Deepening "Iterative Deepening") (ID) framework with [transposition table](Transposition_Table "Transposition Table") and [refulation table](Refutation_Table "Refutation Table") performing a [principal variation search](Principal_Variation_Search "Principal Variation Search"). The test framework was a [68000](68000 "68000") based [MIMD](https://en.wikipedia.org/wiki/MIMD) system <a id="cite-note-6" href="#cite-ref-6">[6]</a> with under today's standards extremely slow [interprocess communication](https://en.wikipedia.org/wiki/Inter-process_communication) through [serial lines](https://en.wikipedia.org/wiki/Serial_communication) at 4800 or 9600 [baud](https://en.wikipedia.org/wiki/Baud). 
-
-
-In [principal variation splitting](Parallel_Search#PrincipalVariationSplitting "Parallel Search"), all processors recursively analyze the first move, with the remaining moves being examined using a [null window](Null_Window "Null Window") by individual processors using a local refutation table that is updated after each iteration of the ID search. The transposition table can be accessed either on a [global](Shared_Hash_Table "Shared Hash Table") (stored in the supervisor processor increasing communication overhead) or local basis. 
-
-
-
 ## Performance
 
 

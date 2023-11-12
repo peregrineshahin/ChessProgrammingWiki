@@ -12,30 +12,6 @@ a Taiwanese computer scientist and Research Fellow at the Institute of Informati
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1990 ...](#1990-...)
-	+ [2.2 1995 ...](#1995-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2005 ...](#2005-...)
-	+ [2.5 2010 ...](#2010-...)
-	+ [2.6 2015 ...](#2015-...)
-	+ [2.7 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Tsan-sheng Hsu is co-author of Chinese Chess programs [Contemplation](index.php?title=Contemplation&action=edit&redlink=1 "Contemplation (page does not exist)"), the Gold medal winner of [9th Computer Olympiad, Ramat-Gan 2004](9th_Computer_Olympiad#ChineseChess "9th Computer Olympiad"), [TMSK](index.php?title=TMSK&action=edit&redlink=1 "TMSK (page does not exist)"), Gold medal winner at the [14th Computer Olympiad, Pamplona 2009](14th_Computer_Olympiad#ChineseChess "14th Computer Olympiad") and Silver medal winner at the [15th Computer Olympiad, Kanazawa 2010](15th_Computer_Olympiad#ChineseChess "15th Computer Olympiad"), and the [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") programs [Flipper](https://www.game-ai-forum.org/icga-tournaments/program.php?id=637) (with [Bo-Nian Chen](Bo-Nian_Chen "Bo-Nian Chen")), and [Sparrow](https://www.game-ai-forum.org/icga-tournaments/program.php?id=702) (with [Bing-Jie Shen](Bing-Jie_Shen "Bing-Jie Shen")) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Selected Publications
 
 

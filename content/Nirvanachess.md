@@ -12,24 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Thomas Kolarik](Thomas_Kolarik "T
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2013](#2013)
-	+ [1.2 2014](#2014)
-	+ [1.3 2015 ...](#2015-...)
-	+ [1.4 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2013
 
 

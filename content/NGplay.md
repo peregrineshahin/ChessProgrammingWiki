@@ -12,23 +12,6 @@ NG-play uses a [10x12 board](10x12_Board "10x12 Board"), and performs a [negamax
 
 
 
-### Contents
-
-
-* [1 Development History](#development-history)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* From version 8.0, search algorithm changed to [NegaScout](NegaScout "NegaScout")
-* From version 9.0, a simple [transposition table](Transposition_Table "Transposition Table") scheme is used
-
-
 ## Forum Posts
 
 

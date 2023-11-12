@@ -12,28 +12,6 @@ an Irish chess player, a [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-O’Connell is mentioned as co-author <a id="cite-note-9" href="#cite-ref-9">[9]</a> of following chess programs and computers, competing at ICCA-tournaments:
-
-
-
-* [Philidor](Philidor "Philidor")
-* [Cyrus 68K](Cyrus_68K "Cyrus 68K")
-* [SciSys X](SciSys_X "SciSys X")
-
-
 ## Publications
 
 

@@ -12,23 +12,6 @@ an American electrical engineer and consultant affiliated with [Applied Concepts
 
 
 
-### Contents
-
-
-* [1 MGS and GGM](#mgs-and-ggm)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-John Aker is designer of the [Modular Game System](Chafitz_Modular_Game_System "Chafitz Modular Game System") aka the [Great Game Machine](Great_Game_Machine "Great Game Machine"), as well author and co-author of various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") and [modules](Module "Module") for these systems. He worked along with [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin"), [Alan Mead](Alan_Mead "Alan Mead"), [Terry Fredrick](Terry_Fredrick "Terry Fredrick"), and [John Jacobs](index.php?title=John_Jacobs&action=edit&redlink=1 "John Jacobs (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> on the [Boris X](Boris#X "Boris") and [Morphy](Morphy "Morphy") program, and the [Destiny Prodigy](index.php?title=Destiny_Prodigy&action=edit&redlink=1 "Destiny Prodigy (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Publications
 
 

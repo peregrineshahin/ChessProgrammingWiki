@@ -8,38 +8,6 @@ Computer Chess [Timeline](https://en.wikipedia.org/wiki/Timeline), [Tournaments]
 
 
 
-### Contents
-
-
-* [1 Links](#links)
-* [2 20th Century](#20th-century)
-	+ [2.1 1910s](#1910s)
-	+ [2.2 1920s](#1920s)
-	+ [2.3 1940s](#1940s)
-	+ [2.4 1950s](#1950s)
-	+ [2.5 1960s](#1960s)
-	+ [2.6 1970s](#1970s)
-	+ [2.7 1980s](#1980s)
-	+ [2.8 1990s](#1990s)
-	+ [2.9 2000s](#2000s)
-* [3 21st Century](#21st-century)
-	+ [3.1 2000s](#2000s-2)
-	+ [3.2 2010s](#2010s)
-	+ [3.3 2020s](#2020s)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-
-
-
-
-
-
-* [Current Year](#current)
-* [External Links](#elinks)
-* [Category:Timeline](Category:Timeline "Category:Timeline")
-
-
 ## [20th Century](https://en.wikipedia.org/wiki/20th_Century)
 
 

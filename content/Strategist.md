@@ -15,24 +15,6 @@ roughly 600$ at that time <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Three Strategist variants played the [First Soviet Computer-Chess Championship 1988](First_Soviet_Computer-Chess_Championship_1988 "First Soviet Computer-Chess Championship 1988") in [Ulan-Ude](https://en.wikipedia.org/wiki/Ulan-Ude), running on special hardware at 1.8 MHz, 20KiB of code and 1K [opening book](Opening_Book "Opening Book"). Unbeaten Stragegist-1 became runner up with 3½/5 behind [Centaur](Centaur "Centaur"), while Strategist A and Strategist ended with 2 and 1½ respectively. At the [First International Chess-Computer Tournament in the USSR 1989](First_International_Chess-Computer_Tournament_in_the_USSR_1989 "First International Chess-Computer Tournament in the USSR 1989") in Moscow, Strategist and Strategist-Natasha finished at the bottom of the field <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Selected Games
 
 

@@ -12,26 +12,6 @@ the first commercially successful chess program for [6502](6502 "6502") <a id="c
 
 
 
-### Contents
-
-
-* [1 Images](#images)
-	+ [1.1 KIM-1](#kim-1)
-	+ [1.2 TRS-80](#trs-80)
-* [2 Development](#development)
-* [3 Point Values](#point-values)
-* [4 Programming Topics](#programming-topics)
-* [5 Namesake](#namesake)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
 ### KIM-1
 
 

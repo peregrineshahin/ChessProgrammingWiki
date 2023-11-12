@@ -12,23 +12,6 @@ an American chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a> , chess 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Bishop Pair](Bishop_Pair "Bishop Pair")
-* [Bishop versus Knight - Winning Percentages](Bishop_versus_Knight#WinningPercantages "Bishop versus Knight")
-
-
 ## Selected Publications
 
 

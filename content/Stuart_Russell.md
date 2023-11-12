@@ -14,33 +14,6 @@ He is a Fellow and former Executive Council member of the [AAAI](AAAI "AAAI") an
 
 
 
-### Contents
-
-
-* [1 Optimal Game-Tree Search](#optimal-game-tree-search)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1986 ...](#1986-...)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 2000 ...](#2000-...)
-	+ [2.4 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Abstract from Stuart Russell, [Eric Wefald](Eric_Wefald "Eric Wefald") (**1989**). *On optimal game-tree search using rational metareasoning* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
-
-
-
-
-```C++
-In this paper we outline a general approach to the study of problem-solving, in which search steps are considered decisions in the same sense as actions in the world. Unlike other metrics in the literature, the value of a search step is defined as a real utility rather than as a quasi-utility, and can therefore be computed directly from a model of the base-level problem-solver. We develop a formula for the expected value of a search step in a game-playing context using the single-step assumption, namely that a computation step can be evaluated as it was the last to be taken. We prove some meta-level theorems that enable the development of a low-overhead algorithm, MGSS*, that chooses search steps in order of highest estimated utility. Although we show that the single-step assumption is untenable in general, a program implemented for the game of [Othello](Othello "Othello") soundly beats an [alpha-beta](Alpha-Beta "Alpha-Beta") search while expanding significantly fewer nodes, even though both programs use the same evaluation function. 
-
-```
-
 ## Selected Publications
 
 

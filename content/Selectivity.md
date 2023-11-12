@@ -8,44 +8,6 @@ title: Selectivity
 
 
 
-### Contents
-
-
-* [1 Extensions](#extensions)
-* [2 Pruning](#pruning)
-* [3 Reductions](#reductions)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-	+ [5.1 1970 ...](#1970-...)
-	+ [5.2 1980 ...](#1980-...)
-	+ [5.3 1990 ...](#1990-...)
-	+ [5.4 2000 ...](#2000-...)
-	+ [5.5 2010 ...](#2010-...)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1998 ...](#1998-...)
-	+ [6.2 2000 ...](#2000-...-2)
-	+ [6.3 2010 ...](#2010-...-2)
-	+ [6.4 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-* [Botvinnik-Markoff Extension](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension")
-* [Capture Extensions](Capture_Extensions "Capture Extensions")
-* [Check Extensions](Check_Extensions "Check Extensions")
-* [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions")
-* [One Reply Extensions](One_Reply_Extensions "One Reply Extensions")
-* [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions")
-* [PV Extensions](PV_Extensions "PV Extensions")
-* [Recapture Extensions](Recapture_Extensions "Recapture Extensions")
-* [SEX Algorithm](SEX_Algorithm "SEX Algorithm")
-* [Singular Extensions](Singular_Extensions "Singular Extensions")
-
-
 ## [Pruning](Pruning "Pruning")
 
 

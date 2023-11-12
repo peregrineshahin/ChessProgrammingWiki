@@ -12,26 +12,6 @@ a French computer scientist and researcher at [Facebook](https://en.wikipedia.or
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#Selected_Publications)
-	+ [1.1 2006 ...](#2006_...)
-	+ [1.2 2010 ...](#2010_...)
-	+ [1.3 2015 ...](#2015_...)
-	+ [1.4 2020 ...](#2020_...)
-* [2 External Links](#External_Links)
-* [3 References](#References)
-
-
-
-
-
-
-[[3]](#cite_note-3)
-
-
-
 ### 2006 ...
 
 

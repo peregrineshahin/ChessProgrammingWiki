@@ -12,25 +12,6 @@ a Dutch professional computer chess and games programmer. Born in 1964, Johan de
 
 
 
-### Contents
-
-
-* [1 Other Games](#other-games)
-* [2 Photos](#photos)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-In 2000, Johan began to write programs for other [board games](Games "Games"). His [Amazons](Amazons "Amazons") program [8 Queens Problem](https://www.game-ai-forum.org/icga-tournaments/program.php?id=164) and his [Clobber](Clobber "Clobber") program [Pan](https://www.game-ai-forum.org/icga-tournaments/program.php?id=169) were very successful [ICGA](ICGA "ICGA") tournament contenders. Johan also competed in 9x9 [Go](Go "Go") with [Atarist](https://www.game-ai-forum.org/icga-tournaments/program.php?id=97).
-
-
-
 ## Photos
 
 

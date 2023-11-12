@@ -22,22 +22,6 @@ See also
 * [Almond](Almond "Almond")
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Hans Secelle](Hans_Secelle "Hans Secelle") (**2011**). *Scaramanga: het verhaal van een ontmaskering of 'Het pad van een operator is met doornen geplaveid'*. [Computerschaak](Computerschaak "Computerschaak"), No. 1, Feb 2011
-
-
 ## Forum Posts
 
 

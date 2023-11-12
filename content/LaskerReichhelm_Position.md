@@ -19,27 +19,6 @@ The Lasker-Reichhelm position, elaborated in 1932 by [Vitaly Halberstadt](https:
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1998 ...](#1998-...)
-	+ [2.2 2000 ...](#2000-...)
-	+ [2.3 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Corresponding Squares](Corresponding_Squares "Corresponding Squares")
-* [Peasant](Peasant "Peasant")
-* [Transposition Table](Transposition_Table "Transposition Table")
-
-
 ## Forum Posts
 
 

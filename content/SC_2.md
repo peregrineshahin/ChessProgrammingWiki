@@ -15,31 +15,6 @@ The SC 2 ran on an 8-bit [U880](https://en.wikipedia.org/wiki/U880) CPU, which w
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 See also](#see-also)
-* [3 Publications](#publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Excerpt from Holger Schacht's March 2011 article in, [Berliner Kurier](https://en.wikipedia.org/wiki/Berliner_Kurier) <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
-
-
-
-
-```C++
-Developer [Rüdiger Worbs](R%C3%BCdiger_Worbs "Rüdiger Worbs"): "The SC2 was the first device manufactured by ten female laborer on the assembly line, they built about 1000". But despite various presentations at trade shows, it did not lead to the desired export. The slightly revised program was stolen from a U.S. inventor, the market is already saturated in the West. In the [GDR](https://en.wikipedia.org/wiki/East_Germany), only a few hundred items were available over the counter. 2180 [East mark](https://en.wikipedia.org/wiki/East_German_mark) costs the electrical brain - about three months' wages for ordinary people. Meanwhile, the "SC2" is considered a "collector's item". At the last auction on the Internet, he went away for 49 [Euro](https://en.wikipedia.org/wiki/Euro). 
-
-```
-
 ## See also
 
 

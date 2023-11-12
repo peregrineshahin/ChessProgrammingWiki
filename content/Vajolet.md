@@ -12,38 +12,6 @@ are [UCI](UCI "UCI") compliant [open source chess engines](Category:Open_Source 
 
 
 
-### Contents
-
-
-* [1 Vajolet2](#vajolet2)
-* [2 Description](#description)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-		- [2.2.1 Selectivity](#selectivity)
-		- [2.2.2 Move Ordering](#move-ordering)
-		- [2.2.3 Transposition Table](#transposition-table)
-	+ [2.3 Evaluation](#evaluation)
-		- [2.3.1 Pawn Structure](#pawn-structure)
-		- [2.3.2 King Safety](#king-safety)
-		- [2.3.3 Caches](#caches)
-		- [2.3.4 Misc](#misc)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2010 ...](#2010-...)
-	+ [3.2 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc-2)
-* [5 References](#references)
-
-
-
-
-
-
-**Vajolet2**, first released in May 2014, was another complete rewrite in [C++11](Cpp#11 "Cpp") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Apparently, [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method") worked well for Vajolet2 <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Description
 
 

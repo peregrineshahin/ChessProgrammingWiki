@@ -11,23 +11,6 @@ a Japanese computer scientist affiliated with the [University of Tokyo](https://
 
 
 
-### Contents
-
-
-* [1 Programs](#programs)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-His Go playing program *Julie* which applies [deep learning](Deep_Learning "Deep Learning") using [deep convolutional neural networks](Neural_Networks#Convolutional "Neural Networks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, participated at the [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Go "20th Computer Olympiad"), winning Bronze in 13x13 Go. His [Shogi](Shogi "Shogi") playing program [ShogiNet](index.php?title=ShogiNet&action=edit&redlink=1 "ShogiNet (page does not exist)") based on the open source engine [Apery](Apery "Apery") <a id="cite-note-4" href="#cite-ref-4">[4]</a> applies deep learning as well without [search](Search "Search"), and became runner-up at the [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Shogi "20th Computer Olympiad") behind [HGM's](Harm_Geert_Muller "Harm Geert Muller") [Shokidoki](index.php?title=Shokidoki&action=edit&redlink=1 "Shokidoki (page does not exist)"). 
-
-
-
 ## Selected Publications
 
 

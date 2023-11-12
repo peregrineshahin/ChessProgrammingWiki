@@ -10,26 +10,6 @@ Current [ICGA](ICGA "ICGA")-President and [International Master](https://en.wiki
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-	+ [1.1 Game 1](#game-1)
-	+ [1.2 Game 2](#game-2)
-	+ [1.3 Game 3](#game-3)
-	+ [1.4 Game 4](#game-4)
-	+ [1.5 Game 5](#game-5)
-* [2 Levy versus Chess 1979](#levy-versus-chess-1979)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
 ### Game 1
 
 

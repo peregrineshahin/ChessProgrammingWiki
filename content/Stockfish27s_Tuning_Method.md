@@ -8,30 +8,6 @@ title: Stockfish27s Tuning Method
 
 
 
-### Contents
-
-
-* [1 Introduction](#introduction)
-	+ [1.1 Step 1. Single variable](#step-1.-single-variable)
-	+ [1.2 Step 2. Varying delta](#step-2.-varying-delta)
-	+ [1.3 Step 3. Multiple variables](#step-3.-multiple-variables)
-* [2 Pros and Cons](#pros-and-cons)
-* [3 Variable Selection](#variable-selection)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-The following tuning method was used to significantly improve [Stockfish's](Stockfish "Stockfish") [playing strength](Playing_Strength "Playing Strength") (40-70 ELO points). The method is a practical approach and not mathematically very sound. Because algorithm is very simple, it's very likely already invented a long time ago. No pseudo- or source-code is given, just an idea behind the algorithm.
-
-
-
 ### Step 1. Single variable
 
 

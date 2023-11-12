@@ -11,29 +11,6 @@ where he along with [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") and 
 
 
 
-### Contents
-
-
-* [1 Quotes](#quotes)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-by [Boris Stilman](Boris_Stilman "Boris Stilman") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
-
-```C++
-My friend and colleague, Vadim Mirniy, with whom we worked in the 80s provided major insights and pushed our research and software implementations to much higher level.
-
-```
-
 ## Selected Publications
 
 

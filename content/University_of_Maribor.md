@@ -12,24 +12,6 @@ in [Maribor](https://en.wikipedia.org/wiki/Maribor), [Slovenia](https://en.wikip
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 People](#people)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [BBChess](BBChess_(SI) "BBChess (SI)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-* [MinkoChess](MinkoChess "MinkoChess")
-* [QuTeChess](QuTeChess "QuTeChess")
-
-
 ## People
 
 

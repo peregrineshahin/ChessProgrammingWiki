@@ -12,54 +12,6 @@ by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), first released as 
 
 
 
-### Contents
-
-
-* [1 Systems](#systems)
-* [2 Chess Playing Modules](#chess-playing-modules)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-
-
-|  Mephisto
- |  Release Year
- |  Board
- |  Pieces
- |  King's height
- |
-| --- | --- | --- | --- | --- |
-| Modular
- |  1983
- |  30x35 cm² plastic
- |  plastic
- |  50 or 60 mm
- |
-| Exclusive
- |  1983
- |  40x40 cm² wood
- |  wood
- |  69 mm
- |
-| München
- |  1985
- |  50x50 cm² wood
- |  wood
- |  89 mm
- |
-| Bavaria
- |  1990
- |  50x50 cm² wood
- |  wood
- |  89 mm
- |
-
-
 ## Chess Playing Modules
 
 

@@ -14,24 +14,6 @@ and [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_
 
 
 
-### Contents
-
-
-* [1 Chess Engines](#chess-engines)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Language](#language)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Category Nim](Category:Nim "Category:Nim")
-
-
 ## Forum Posts
 
 

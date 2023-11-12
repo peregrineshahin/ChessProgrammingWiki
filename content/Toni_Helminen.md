@@ -11,24 +11,6 @@ the [Shogi](Shogi "Shogi") engine [RubyShogi](index.php?title=RubyShogi&action=e
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2019](#2019)
-	+ [2.2 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Toni Helminen (**2022**). *[Lazy sorting algorithm](https://github.com/SamuraiDangyo/lazy-sorting-algorithm)*. <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
 ## Forum Posts
 
 

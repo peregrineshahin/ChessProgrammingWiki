@@ -12,44 +12,6 @@ and [GitLab](https://en.wikipedia.org/wiki/GitLab), along with his own programs.
 
 
 
-### Contents
-
-
-* [1 Chess Engines](#chess-engines)
-* [2 Retouched](#retouched)
-* [3 GUI and Utilities](#gui-and-utilities)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 2018](#2018)
-	+ [4.2 2019](#2019)
-	+ [4.3 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-
-
-|  Engine
- |  Protocol
- |  Variants
- |  Language
- |  GitHub
- |  Origin
- |
-| --- | --- | --- | --- | --- | --- |
-| [Moustique](index.php?title=Moustique&action=edit&redlink=1 "Moustique (page does not exist)") | [UCI](UCI "UCI") |  | [Pascal](Pascal "Pascal") | [Moustique](https://github.com/rchastain/moustique) | [JS Schach](JS_Schach "JS Schach") by [Jürgen Schlottke](index.php?title=J%C3%BCrgen_Schlottke&action=edit&redlink=1 "Jürgen Schlottke (page does not exist)") |
-| [Alouette](index.php?title=Alouette&action=edit&redlink=1 "Alouette (page does not exist)") |  UCI
- | [Chess960](Chess960 "Chess960") | [Object Pascal](Pascal#Object "Pascal") | [Alouette](https://github.com/rchastain/alouette) |  |
-| [Luciole](index.php?title=Luciole&action=edit&redlink=1 "Luciole (page does not exist)") |  UCI
- |  Chess960
- | [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) | [Luciole](https://github.com/rchastain/luciole) |  |
-| [Durandal](index.php?title=Durandal&action=edit&redlink=1 "Durandal (page does not exist)") |  UCI
- |  Chess960, [Capablanca Chess](index.php?title=Capablanca_Chess&action=edit&redlink=1 "Capablanca Chess (page does not exist)") | [Pascal](Pascal "Pascal") | [Durandal](https://github.com/rchastain/durandal) |
-
-
 ## Retouched
 
 

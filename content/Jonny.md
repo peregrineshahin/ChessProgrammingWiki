@@ -10,32 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 
-### Contents
-
-
-* [1 Tournament Play](#tournament-play)
-* [2 Photos & Games](#photos-.26-games)
-	+ [2.1 WCCC 2013](#wccc-2013)
-	+ [2.2 WCCC 2015](#wccc-2015)
-		- [2.2.1 Jonny - Komodo](#jonny---komodo)
-		- [2.2.2 Hiarcs - Jonny](#hiarcs---jonny)
-	+ [2.3 WCCC 2016](#wccc-2016)
-* [3 Tournament Reports](#tournament-reports)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Jonny played various [IPCCC](IPCCC "IPCCC"), the [DOCCC 2010](DOCCC_2010 "DOCCC 2010") and [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), and was two times runner up at the [Livingston Chess960 Computer World Championship](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship"), the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") and [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006"). At the [WCCC 2011](WCCC_2011 "WCCC 2011") Jonny ran on a a cluster of 100 PCs with eight cores each, and at the [WCCC 2013](WCCC_2013 "WCCC 2013") in [Yokohama](https://en.wikipedia.org/wiki/Yokohama), even with 2400 cores of the **btrzx3** [cluster](https://en.wikipedia.org/wiki/Computer_cluster) of the [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, where Jonny was quite close to become champion - if it had won the [last round](WCCC_2013#round10 "WCCC 2013") versus [Junior](Junior "Junior"). In Fall 2013, Jonny won the [PT 45](PT_45 "PT 45") a half point ahead of its commercial rivals [Shredder](Shredder "Shredder") and [Deep Fritz](Fritz "Fritz"), running on 216 cores. At the [PT 47](PT_47 "PT 47"), in November 2014, Jonny won conveniently with 7/7, running on 768 cores <a id="cite-note-5" href="#cite-ref-5">[5]</a>, defending its title with the same cluster at the [PT 49](PT_49 "PT 49") in October 2015. Already at the [WCCC 2015](WCCC_2015 "WCCC 2015") in Leiden, Jonny brought home the gold on a 2400 core cluster, thanks to upset victories against [Komodo](Komodo "Komodo") and [HIARCS](HIARCS "HIARCS"). At the [WCCC 2016](WCCC_2016 "WCCC 2016"), Jonny became runner-up, after losing the sixth game in the play-off versus [Komodo](Komodo "Komodo"), which was a 3+5 blitz game. As a slight compensation, Jonny won the blitz tournament this time a play-off versus [Shredder](Shredder "Shredder"), leaving Komodo third.
-
-
-
 ## Photos & Games
 
 

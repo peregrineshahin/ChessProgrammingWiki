@@ -10,21 +10,6 @@ a chess program by [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen") fo
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-	+ [1.1 DOCCC 1985 vs Chess 0.5X](#doccc-1985-vs-chess-0.5x)
-	+ [1.2 Rematch](#rematch)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### DOCCC 1985 vs Chess 0.5X
 
 

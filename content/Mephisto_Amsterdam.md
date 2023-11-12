@@ -15,51 +15,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 UCI Engine](#uci-engine)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](WMCCC_1985#Video "WMCCC 1985#Video") 
-[WMCCC 1985](WMCCC_1985 "WMCCC 1985") R 6, [Plymate Y](Plymate "Plymate") vs. Mephisto Amsterdam I on a [68020](68020 "68020") workstation. [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Richard Lang](Richard_Lang "Richard Lang")   
-
-just before [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") resigned and a Mephisto Amsterdam already won the title prematurely <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1985"]
-[Site "Amsterdam, The Netherlands"]
-[Date "1985.09.13"]
-[Round "6"]
-[White "Plymate Y"]
-[Black "Mephisto Amsterdam 1"]
-[Result "0-1"]
-
-1.e4 c6 2.c4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 e6 6.Bf4 Nc6 7.cxd5 Nxd5 8.Nxd5 Qxd5 
-9.Nf3 Qe4+ 10.Be3 Bb4+ 11.Ke2 O-O 12.Ng5 Qf5 13.f4 Be7 14.Qb1 Qg4+ 15.Nf3 Bd6 
-16.h3 Qg3 17.Ng5 f5 18.Qc1 Bd7 19.Nf3 Rac8 20.Qd1 Bxf4 21.Bxf4 Qxf4 22.Kf2 Nb4 
-23.g3 Qe4 24.Rh2 Rc2+ 25.Kg1 Qe3+ 26.Kh1 Bc6 27.Bg2 Nd3 28.Qxc2 Nf2+ 29.Qxf2 Qxf2 
-30.Ne5 Qxb2 31.Rd1 Ba4 32.Bf3 Qc3 33.Rb1 Qxd4 34.Re2 Bd1 35.Rg2 Bxf3 36.Nxf3 Qe4 
-37.Nd2 Qd5 38.Nb3 Qd3 39.Nd2 b6 40.Rb3 Qc2 41.Nf3 Qc7 42.Rd3 e5 43.Rdd2 e4 44.Rc2 
-Qd6 45.Nd2 e3 46.Nc4 Qd3 47.Nb2 Qd5 48.a4 Rd8 49.Kh2 g5 50.Rc3 Qe5 51.Rcc2 Kf8 
-52.Nc4 Qe4 53.Nb2 h5 54.Rge2 f4 55.gxf4 gxf4 56.Rc4 Qf3 57.Rcc2 Qg3+ 58.Kh1 h4 
-59.a5 bxa5 60.Rg2 Qxh3+ 61.Kg1 f3 62.Rh2 Qg3+ 63.Kf1 0-1 
-
-```
-
 ## UCI Engine
 
 

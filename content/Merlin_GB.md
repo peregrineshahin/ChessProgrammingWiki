@@ -13,24 +13,6 @@ The micro-processor program Merlin X, basically a [Z80](Z80 "Z80") [Assembly](As
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Namesakes](#namesakes)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Myrddin](Myrddin "Myrddin")
-* [Rasputin](Rasputin "Rasputin")
-* [Treebeard](Treebeard "Treebeard")
-
-
 ## Namesakes
 
 

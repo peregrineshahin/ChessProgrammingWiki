@@ -12,30 +12,6 @@ a free [UCI](UCI "UCI") compatible chess engine by [Nathan Thom](Nathan_Thom "Na
 
 
 
-### Contents
-
-
-* [1 Descirption](#descirption)
-* [2 Tournament Play](#tournament-play)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2003 ...](#2003-...)
-	+ [5.2 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-LittleThought uses a [rotated bitboard](Rotated_Bitboards "Rotated Bitboards") based, fully [incremental](Incremental_Updates "Incremental Updates") [move generator](Move_Generation "Move Generation"), and applies a [PVS](Principal_Variation_Search "Principal Variation Search") based [alpha-beta search](Alpha-Beta "Alpha-Beta") with several [tree shaping](Selectivity "Selectivity") and [pruning](Pruning "Pruning") routines, such as [singular extensions](Singular_Extensions "Singular Extensions"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), and [null move pruning](Null_Move_Pruning "Null Move Pruning"), and 4-way probe [transposition table](Transposition_Table "Transposition Table") with other smaller [hash tables](Hash_Table "Hash Table") for caching calculations of [pawns](Pawn_Hash_Table "Pawn Hash Table"), [materials](Material_Hash_Table "Material Hash Table"), and [evaluation](Evaluation_Hash_Table "Evaluation Hash Table"). 
-The [killer heuristic](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic") as well just in case [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") improve [move ordering](Move_Ordering "Move Ordering"). 
-Up to 8 [threads](Thread "Thread") are supported for a [YBWC](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") based [parallel search](Parallel_Search "Parallel Search") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Tournament Play
 
 

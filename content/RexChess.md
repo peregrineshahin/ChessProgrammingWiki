@@ -10,27 +10,6 @@ a commercial chess program by [Don Dailey](Don_Dailey "Don Dailey") and [Larry K
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Quote](#quote)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.multiweb.cz/max.rubin/rex230.htm) 
-Rexchess 2.30 Dos Screen <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Quote
 
 

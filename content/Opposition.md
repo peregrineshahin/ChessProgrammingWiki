@@ -16,26 +16,6 @@ In late [endgames](Endgame "Endgame"), specially [pawn endgames](Pawn_Endgame "P
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Corresponding Squares](Corresponding_Squares "Corresponding Squares")
-* [Manhattan-Distance](Manhattan-Distance "Manhattan-Distance")
-* [Pawn Endgame](Pawn_Endgame "Pawn Endgame")
-* [Triangulation](Triangulation "Triangulation")
-* [Zugzwang](Zugzwang "Zugzwang")
-
-
 ## Publications
 
 

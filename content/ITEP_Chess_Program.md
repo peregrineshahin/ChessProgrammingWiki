@@ -10,31 +10,6 @@ an early Soviet chess program, developed since [1961](Timeline#1961 "Timeline") 
 
 
 
-### Contents
-
-
-* [1 Shannon Type A](#shannon-type-a)
-* [2 Stanford-ITEP](#stanford-itep)
-* [3 Photos](#photos)
-* [4 Kaissa](#kaissa)
-* [5 Quotes](#quotes)
-	+ [5.1 Donskoy](#donskoy)
-	+ [5.2 Yershov](#yershov)
-	+ [5.3 Shura-Bura](#shura-bura)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 External Links](#external-links)
-* [9 References](#references)
-
-
-
-
-
-
-The ITEP Program already was a [Shannon Type A](Type_A_Strategy "Type A Strategy") program, encouraged by Kronrod’s "general [recursive](Recursion "Recursion") search scheme", and by [Alexander Brudno's](Alexander_Brudno "Alexander Brudno") description of the [Alpha-Beta](Alpha-Beta "Alpha-Beta") algorithm <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-
-
-
 ## Stanford-ITEP
 
 

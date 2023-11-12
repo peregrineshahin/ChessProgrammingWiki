@@ -15,25 +15,6 @@ a set of [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 
 
 
-### Contents
-
-
-* [1 Improvements](#improvements)
-* [2 Versions](#versions)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Improvements of the Mephisto Vancouver over the Lyon after only five months between the [WMCCC 1990](WMCCC_1990 "WMCCC 1990") and 1991, was due to tweaked [evaluation](Evaluation "Evaluation") with enhanced [pawn structure](Pawn_Structure "Pawn Structure") knowledge and [center control](Center_Control "Center Control") considerations, Vancouver will also recognize more lost [pawn engings](Pawn_Endgame "Pawn Endgame") statically. The [opening book](Opening_Book "Opening Book") was extended to 150,000 moves in 17,000 variations. The program has many options supported by the revised [user interface](User_Interface "User Interface") dialogue system, to configure [search](Search "Search") and evaluation parameters, such as [selectivity](Selectivity "Selectivity"), relative [point values](Point_Value "Point Value") and [contempt factor](Contempt_Factor "Contempt Factor").
-
-
-
 ## Versions
 
 

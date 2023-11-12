@@ -12,37 +12,6 @@ was the first British computer magazine founded by Angelo Zgorelec <a id="cite-n
 
 
 
-### Contents
-
-
-* [1 PCW Tournaments](#pcw-tournaments)
-* [2 Selected Authors](#selected-authors)
-* [3 Selected Articles](#selected-articles)
-	+ [3.1 1978](#1978)
-	+ [3.2 1979](#1979)
-	+ [3.3 1980](#1980)
-	+ [3.4 1981](#1981)
-	+ [3.5 1982](#1982)
-	+ [3.6 1983](#1983)
-	+ [3.7 1984](#1984)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [PCW Microcomputer Chess Championship](PCW_Microcomputer_Chess_Championship "PCW Microcomputer Chess Championship")
-	+ [PCW-MCC 1978](PCW-MCC_1978 "PCW-MCC 1978")
-	+ [PCW-MCC 1979](PCW-MCC_1979 "PCW-MCC 1979")
-	+ [PCW-MCC 1980](WMCCC_1980 "WMCCC 1980") = [WMCCC 1980](WMCCC_1980 "WMCCC 1980")
-* [European Microcomputer Chess Championship](European_Microcomputer_Chess_Championship "European Microcomputer Chess Championship")
-	+ [European MCC 1981](European_MCC_1981 "European MCC 1981")
-	+ [European MCC 1982](European_MCC_1982 "European MCC 1982")
-	+ [European MCC 1983](European_MCC_1983 "European MCC 1983")
-
-
 ## Selected Authors
 
 

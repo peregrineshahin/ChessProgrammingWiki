@@ -10,26 +10,6 @@ an American mathematician, consulting computer scientist, and past president of 
 
 
 
-### Contents
-
-
-* [1 Computer Chess](#computer-chess)
-	+ [1.1 Mate-in-two](#mate-in-two)
-	+ [1.2 Kotok-McCarthy](#kotok-mccarthy)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1960 ...](#1960-...)
-	+ [2.2 1970 ...](#1970-...)
-	+ [2.3 1980 ...](#1980-...)
-	+ [2.4 1990 ...](#1990-...)
-	+ [2.5 2000 ...](#2000-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### Mate-in-two
 
 

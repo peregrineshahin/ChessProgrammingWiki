@@ -13,27 +13,6 @@ Richard Delorme is furthre author of the [UCI](UCI "UCI") compliant chess engine
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [Amoeba](Amoeba "Amoeba")
-
-
- [Amoeba Tournament Manager](Amoeba#TournamentManager "Amoeba"), [SPRT](Match_Statistics#SPRT "Match Statistics")
-* [Dumb](Dumb "Dumb")
-* [Hyperbola Quintessence](Hyperbola_Quintessence "Hyperbola Quintessence")
-
-
 ## Forum Posts
 
 

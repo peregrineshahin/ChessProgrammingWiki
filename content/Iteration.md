@@ -10,41 +10,6 @@ In computer science, **Iteration** is the act of repeating instructions inside a
 
 
 
-### Contents
-
-
-* [1 Iterations](#iterations)
-	+ [1.1 Learning](#learning)
-	+ [1.2 Game Loop](#game-loop)
-	+ [1.3 Iterative Deepening](#iterative-deepening)
-	+ [1.4 Move Loop](#move-loop)
-	+ [1.5 Search](#search)
-	+ [1.6 Recursion to Iteration](#recursion-to-iteration)
-* [2 Iterative Algorithms](#iterative-algorithms)
-	+ [2.1 PRNG](#prng)
-	+ [2.2 Fill Algorithms](#fill-algorithms)
-* [3 See also](#see-also)
-* [4 Selected Publications](#selected-publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 General](#general)
-	+ [6.2 Control flow](#control-flow)
-	+ [6.3 Iterator](#iterator)
-	+ [6.4 Programming languages](#programming-languages)
-	+ [6.5 Iterative methods](#iterative-methods)
-	+ [6.6 Sequence](#sequence)
-	+ [6.7 Series](#series)
-* [7 References](#references)
-
-
-
-
-
-
-There are various macro- and micro-iterations going on within a chess program and/or its creator, game controller and/or learning framework, i.e. the process to develop and tune a chess program, to repeat a series of games against various opponents for [learning](Learning "Learning") and [automated tuning](Automated_Tuning "Automated Tuning") purpose, to iterate over moves while [playing a game](Chess_Game "Chess Game"), [Iterative Deepening](Iterative_Deepening "Iterative Deepening"), the move loop and current variation inside a [minimax](Minimax "Minimax") [depth-first search](Depth-First "Depth-First"), processing exchange sequences in [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), looking for [repetitions](Repetitions "Repetitions"), [generating moves](Move_Generation "Move Generation") of one piece and for all [pieces](Pieces "Pieces"), [serializing](Bitboard_Serialization "Bitboard Serialization") [bitboards](Bitboards "Bitboards"), and whatever else.
-
-
-
 ### Learning
 
 

@@ -12,38 +12,6 @@ a [measure](https://en.wikipedia.org/wiki/Measurement) of the chess program's [s
 
 
 
-### Contents
-
-
-* [1 Counting Nodes](#counting-nodes)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1995 ...](#1995-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2005 ...](#2005-...)
-	+ [3.4 2010 ...](#2010-...)
-	+ [3.5 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Some programs include incrementing the counter after a call to:
-
-
-
-* the [Search](Search "Search") Function
-* the [Evaluation Function](Evaluation_Function "Evaluation Function")
-* [Make Move](Make_Move "Make Move")
-
-
-The first approach suffers from the fact that most of [selectivity](Selectivity "Selectivity") techniques, where a node is pruned completely, tend to improve nodes per second. The second approach is heavily dependent on the fact whether evaluation function is called in interior nodes or in the quiescence search only. The third overemphasizes the difference between legal and pseudo-legal move generation.
-
-
-
 ## See also
 
 

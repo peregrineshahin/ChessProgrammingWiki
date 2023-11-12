@@ -10,27 +10,6 @@ a commercial chess program by [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot 
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Description](#description)
-* [3 Selected Games](#selected-games)
-* [4 See also](#see-also)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Virtua Chess [GUI](GUI "GUI") - sophisticated windowing under [MS-DOS](MS-DOS "MS-DOS") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Description
 
 

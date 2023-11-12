@@ -12,32 +12,6 @@ a family of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Che
 
 
 
-### Contents
-
-
-* [1 History](#history)
-* [2 Mephisto I, II](#mephisto-i.2c-ii)
-* [3 Mephisto III](#mephisto-iii)
-	+ [3.1 CDL](#cdl)
-	+ [3.2 The Mephisto 3-Projekt](#the-mephisto-3-projekt)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Computers](#chess-computers)
-	+ [6.2 Misc](#misc)
-* [7 References](#references)
-
-
-
-
-
-
-The Mephisto project started with an ordinary 2 line classified column "...we are looking for a chess programmer ... "
-by Mr. Horváth, which was discovered by [Elmar Henne](Elmar_Henne "Elmar Henne"), who contacted his fellow student [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") from [Technical University of Munich](Technical_University_of_Munich "Technical University of Munich"), who was already a well known chess programmer. Nitsche and Henne soon founded their own company P1 [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) to focus on computer chess. When Mr. Horváth sold the whole stuff to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), a four year collaboration started in 1980.
-
-
-
-
 ## Mephisto I, II
 
 

@@ -12,23 +12,6 @@ an American physicist and mathematician, and staff member at [Los Alamos Nationa
 
 
 
-### Contents
-
-
-* [1 MANIAC I](#maniac-i)
-* [2 Photos](#photos)
-* [3 Selected Publications](#selected-publications)
-* [4 References](#references)
-
-
-
-
-
-
-Paul Stein was member of a group of H-bomb researchers around Stanislaw Ulam, [Mark Wells](Mark_Wells "Mark Wells") and [John Pasta](John_Pasta "John Pasta") et al., who wrote the [chess-playing program](MANIAC_I "MANIAC I") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> for the [MANIAC I](https://en.wikipedia.org/wiki/MANIAC_I) in 1956. It played [Los Alamos Chess](index.php?title=Los_Alamos_Chess&action=edit&redlink=1 "Los Alamos Chess (page does not exist)") on a 6×6 board without bishops. 
-
-
-
 ## Photos
 
 

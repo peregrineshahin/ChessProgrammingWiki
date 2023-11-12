@@ -15,31 +15,6 @@ Due to [PEXT Bitboards](BMI2#PEXTBitboards "BMI2"), Seer requires [BMI2](BMI2 "B
 
 
 
-### Contents
-
-
-* [1 Features](#features)
-	+ [1.1 Board Representation](#board-representation)
-	+ [1.2 Search](#search)
-	+ [1.3 Evaluation](#evaluation)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2020](#2020)
-	+ [3.2 2021 ...](#2021-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### [Board Representation](Board_Representation "Board Representation")
 
 

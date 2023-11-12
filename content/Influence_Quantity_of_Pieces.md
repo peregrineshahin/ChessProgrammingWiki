@@ -13,46 +13,6 @@ For instance a [pawn](Pawn "Pawn") (including [promotions](Promotions "Promotion
 
 
 
-### Contents
-
-
-* [1 Moves per Origin](#moves-per-origin)
-	+ [1.1 Whole Board Diagrams](#whole-board-diagrams)
-	+ [1.2 Board Circles](#board-circles)
-* [2 Quantities and Point Values](#quantities-and-point-values)
-* [3 Divisibility by Seven](#divisibility-by-seven)
-* [4 Fibonacci Spiral](#fibonacci-spiral)
-* [5 Analogy in Astronomy](#analogy-in-astronomy)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-Following table gives the distinct number of moves per piece and [origin square](Origin_Square "Origin Square") and their sums from the lower left quarter of a [board](Chessboard "Chessboard") (a1-d4) and in total for the whole board:
-
-
-
-
-```C++
-
-    Knight          King            Bishop          Rook            Queen
-     4  6  8  8      5  8  8  8      7  9 11 13     14 14 14 14     21 23 25 27
-     4  6  8  8      5  8  8  8      7  9 11 11     14 14 14 14     21 23 25 25
-     3  4  6  6      5  8  8  8      7  9  9  9     14 14 14 14     21 23 23 23
-     2  3  4  4      3  5  5  5      7  7  7  7     14 14 14 14     21 21 21 21
-
-sum 13 19 26 26     18 29 29 29     28 34 38 40     56 56 56 56     84 90 94 96
-    84 = 3 * 4*7   105 = 3 *5*7   140 = 5 * 4*7   224 = 8 * 4*7   364 = 13 * 4*7
-   336             420            560             896            1456
-
-```
-
 ### Whole Board Diagrams
 
 

@@ -13,26 +13,6 @@ and author of the [WinBoard](WinBoard "WinBoard") and [UCI](UCI "UCI") compliant
 
 
 
-### Contents
-
-
-* [1 abrok.eu](#abrok.eu)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-Roman Korba maintains the software development blog **abrok.eu** <a id="cite-note-4" href="#cite-ref-4">[4]</a>, 
-hosting [Stockfish](Stockfish "Stockfish") development versions which are automatically build if there are changes on the master branch in the [git](https://en.wikipedia.org/wiki/Git) repository 
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>, 
-and a chess [tactics](Tactics "Tactics") server <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Forum Posts
 
 

@@ -12,29 +12,6 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https:/
 
 
 
-### Contents
-
-
-* [1 A Gamut of Games](#a-gamut-of-games)
-* [2 Complexity](#complexity)
-* [3 Computer Olympiads](#computer-olympiads)
-* [4 Photos](#photos)
-* [5 Selected Publications](#selected-publications)
-	+ [5.1 2000 ...](#2000-...)
-	+ [5.2 2005 ...](#2005-...)
-	+ [5.3 2010 ...](#2010-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-Lines of Action was invented by [Claude Soucie](http://fr.wikipedia.org/wiki/Claude_Soucie) around 1960, <a id="cite-note-2" href="#cite-ref-2">[2]</a> , described 1969 by [Sid Sackson](https://en.wikipedia.org/wiki/Sid_Sackson) in [A Gamut of Games](https://en.wikipedia.org/wiki/A_Gamut_of_Games), and published in 1988 by [Hexagames](http://de.wikipedia.org/wiki/Hexagames). Since 1997, human players annually compete at the [world championship](https://en.wikipedia.org/wiki/Lines_of_Action#Champions) as part of the [Mind Sports Olympiad](https://en.wikipedia.org/wiki/Mind_Sports_Olympiad), Lines of Action programs regularly at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad"), organized by the [ICGA](ICGA "ICGA").
-
-
-
 ## Complexity
 
 

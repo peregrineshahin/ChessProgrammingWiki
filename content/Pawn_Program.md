@@ -14,28 +14,6 @@ It features a [transposition table](Transposition_Table "Transposition Table"), 
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Program](#chess-program)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [Happy-Chess](Happy-Chess "Happy-Chess")
-* [Nova Chess](Nova_Chess "Nova Chess")
-* [Pawn](Pawn "Pawn")
-* [Pion](Pion "Pion")
-* [Pedone](Pedone "Pedone")
-
-
 ## Forum Posts
 
 

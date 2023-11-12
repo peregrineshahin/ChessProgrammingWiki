@@ -13,24 +13,6 @@ XChess is based on the chess engine [SCHK-Y](SCHK-Y "SCHK-Y"), written in [C](C 
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[](http://atariage.com/forums/topic/201866-submitting-disk-images-to-atarimania/)
-Xchess [3D graphics board](3D_Graphics_Board "3D Graphics Board") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## See also
 
 

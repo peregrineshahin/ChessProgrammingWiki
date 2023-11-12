@@ -23,34 +23,6 @@ With the advent of [NNUE](NNUE "NNUE"), [Dietrich Kappe](Dietrich_Kappe "Dietric
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Publications](#publications)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2005 ...](#2005-...)
-	+ [3.2 2010 ...](#2010-...)
-	+ [3.3 2015 ...](#2015-...)
-	+ [3.4 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Engine](#chess-engine)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-* [Cluster Toga](Cluster_Toga "Cluster Toga")
-* [Cyclone](Cyclone "Cyclone")
-* [Gambit Fruit](Gambit_Fruit "Gambit Fruit")
-* [Grapefruit](Grapefruit "Grapefruit")
-* [GridChess](GridChess "GridChess")
-* [Toga Log](Toga_Log "Toga Log")
-
-
 ## Publications
 
 

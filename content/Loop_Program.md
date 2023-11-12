@@ -12,44 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Fritz Reul](Fritz_Reul "Fritz Reu
 
 
 
-### Contents
-
-
-* [1 32-bit Loop](#32-bit-loop)
-* [2 64-bit Loop](#64-bit-loop)
-* [3 Evaluation](#evaluation)
-	+ [3.1 Preliminary Considerations](#preliminary-considerations)
-	+ [3.2 Fruit Evaluation Overlap](#fruit-evaluation-overlap)
-* [4 Complaints](#complaints)
-* [5 See also](#see-also)
-* [6 Publications](#publications)
-* [7 Forum Posts](#forum-posts)
-	+ [7.1 2005 ...](#2005-...)
-	+ [7.2 2010 ...](#2010-...)
-	+ [7.3 2015 ...](#2015-...)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Engine](#chess-engine)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-The 32-bit program, based on Reul's former program [List](List_(Program) "List (Program)"), relies on a [15x12 board](Vector_Attacks#15x12 "Vector Attacks") representation in conjunction with disjoint [piece-lists](Piece-Lists#NewArchitecture "Piece-Lists") with adequate [move generation](Move_Generation "Move Generation") of [blocker loops](Vector_Attacks#NewArchitecture "Vector Attacks"). It participated as *Loop Leiden* at the [DOCCC 2006](DOCCC_2006 "DOCCC 2006"), becoming strong runner up behind [Rybka](Rybka "Rybka"). A specially adapted version called *Loop Express* became the engine of [Wii Chess](Wii_Chess "Wii Chess") for the [Nintendo](https://en.wikipedia.org/wiki/Nintendo) [Wii](https://en.wikipedia.org/wiki/Wii) [console](https://en.wikipedia.org/wiki/Video_game_console) in 2008 <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The non-bitboard data-structure of Loop was also applied in [Chrilly Donninger's](Chrilly_Donninger "Chrilly Donninger") chess machine [Hydra](Hydra "Hydra") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-Reul in his thesis <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
-
-
-
-
-```C++
-This computerchess architecture was first implemented in the quite successful computerchess engine Loop Leiden 2006. The computerchess architecture was later implemented partially in Hydra and completely in Wii Chess by Nintendo (see Section 2.1). The high performance was just as important for these projects as the simplicity and ease of implementation in the following two environments: (1) the environment of a sophisticated computer-chess machine (Hydra) and (2) the environment of a commercial games console with the highest quality and security standards. 
-
-```
-
 ## 64-bit Loop
 
 

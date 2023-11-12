@@ -10,20 +10,6 @@ an Australian electronics engineer, as computer chess programmer author of the d
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2013 ...](#2013-...)
-	+ [1.2 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2013 ...
 
 

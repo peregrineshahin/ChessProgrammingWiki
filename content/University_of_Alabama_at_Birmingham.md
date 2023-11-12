@@ -10,30 +10,6 @@ title: University of Alabama at Birmingham
 
 
 
-### Contents
-
-
-* [1 Chess Programs and Authors](#chess-programs-and-authors)
-* [2 Tournaments](#tournaments)
-* [3 UAB Mascot](#uab-mascot)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Cray Blitz](Cray_Blitz "Cray Blitz") successor of [Blitz](Blitz "Blitz")
-	+ [Robert Hyatt](Robert_Hyatt "Robert Hyatt") started at the [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi")
-	+ [Albert Gower](Albert_Gower "Albert Gower") from the [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi")
-	+ [Harry Nelson](Harry_Nelson "Harry Nelson") from the [Lawrence Livermore National Laboratory](Lawrence_Livermore_National_Laboratory "Lawrence Livermore National Laboratory")
-
-
-* [Crafty](Crafty "Crafty")
-	+ [Robert Hyatt](Robert_Hyatt "Robert Hyatt") et al.
-
-
 ## Tournaments
 
 

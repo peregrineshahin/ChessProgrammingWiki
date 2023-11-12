@@ -13,24 +13,6 @@ Peter Skinner was member of the [Crafty](Crafty "Crafty") team around [Robert Hy
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2000 ...](#2000-...)
-	+ [2.2 2010 ...](#2010-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Peter Skinner (**2011**). *Send out the Clones*. [Selective Search](Selective_Search "Selective Search") 152, pp. 17, [pdf](http://www.chesscomputeruk.com/SS_152.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-
-
 ## Forum Posts
 
 

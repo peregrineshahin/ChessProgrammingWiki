@@ -12,30 +12,6 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") by [S
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Parallel Search](#parallel-search)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Like [Monsoon](Monsoon "Monsoon"), Typhoon represents the board as [0x88](0x88 "0x88") array, where the [difference of two square coordinates](0x88#SquareRelations "0x88") has unique [direction](Direction "Direction") and [distance](Distance "Distance") relationship, extensively using [vector delta tables](Vector_Attacks "Vector Attacks") for [in check](Check "Check") detection, [move generation](Move_Generation "Move Generation"), [X-ray attack](X-ray "X-ray") detection, [PGN](Portable_Game_Notation "Portable Game Notation") file parsing for [book](Opening_Book "Opening Book") creation, [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation"), and [position evaluation](Evaluation "Evaluation"). 
-It performs a [principal variation search](Principal_Variation_Search "Principal Variation Search") with [nullmove pruning](Null_Move_Pruning "Null Move Pruning"), various [extensions](Extensions "Extensions") and [transposition table](Transposition_Table "Transposition Table"). 
-For [evaluation](Evaluation "Evaluation") purpose, Typhoon keeps track of [piece-square](Piece-Square_Tables "Piece-Square Tables") and [material balance](Material "Material") [incrementally](Incremental_Updates "Incremental Updates"). Utilizing a [pawn hash table](Pawn_Hash_Table "Pawn Hash Table") with some pawn [bitboards](Bitboards "Bitboards"), it considers the [pawn structure](Pawn_Structure "Pawn Structure") along with multiple features for [king](King "King") and [pieces](Evaluation_of_Pieces "Evaluation of Pieces"), such as [king safety](King_Safety "King Safety") and [mobility](Mobility "Mobility") to name a few. 
-Typhoon supports [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") and has various simple [interior node recognizers](Interior_Node_Recognizer "Interior Node Recognizer") for [wrong color bishop endgames](Wrong_Color_Bishop_and_Rook_Pawn "Wrong Color Bishop and Rook Pawn") and trivially won [KPK](KPK "KPK") games. These recognizers are based on [Thorsten Greiner's](Thorsten_Greiner "Thorsten Greiner") program [Amy](Amy "Amy") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-
-
-
 ## Parallel Search
 
 

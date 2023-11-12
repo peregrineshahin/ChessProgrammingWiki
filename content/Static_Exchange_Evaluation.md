@@ -10,59 +10,6 @@ A **Static Exchange Evaluation (SEE)** examines the consequence of a series of e
 
 
 
-### Contents
-
-
-* [1 Implementation](#implementation)
-* [2 Seeing a Capture](#seeing-a-capture)
-* [3 SOMA](#soma)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 1990 ...](#1990-...)
-	+ [6.2 1995 ...](#1995-...)
-	+ [6.3 2000 ...](#2000-...)
-	+ [6.4 2005 ...](#2005-...)
-	+ [6.5 2010 ...](#2010-...)
-	+ [6.6 2015 ...](#2015-...)
-	+ [6.7 2020 ...](#2020-...)
-* [7 External Links](#external-links)
-	+ [7.1 Test suites](#test-suites)
-* [8 References](#references)
-
-
-
-
-
-
-A [didactic](https://en.wikipedia.org/wiki/Didactic_method) [recursive](Recursion "Recursion") implementation of SEE is shown below <a id="cite-note-3" href="#cite-ref-3">[3]</a> . In most programs, however, an [iterative](Iteration "Iteration") version is used, as demonstrated in [SEE - The Swap Algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") with [bitboards](Bitboards "Bitboards"). In [CCC](CCC "CCC"), [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") deduced an iterative SEE approach directly from [Alpha-Beta](Alpha-Beta "Alpha-Beta") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
-
-
-
-
-```C++
-
-int see(int square, int side)
-{
-   value = 0;
-   piece = get_smallest_attacker(square, side);
-   /* skip if the square isn't attacked anymore by this side */
-   if ( piece )
-   {
-      make_capture(piece, square);
-      /* Do not consider captures if they lose material, therefor max zero */
-      value = max (0, piece_just_captured() -see(square, other(side)) );
-      undo_capture(piece, square);
-   }
-   return value;
-}
-
-```
-
-This uses a trick, equivalent to [negamax](Negamax "Negamax") in tree search, where the loss for the current side is the gain for the opposite side. This can be seen in the expression piece\_just\_captured() - see(square); which is the value of the piece captured (piece\_just\_captured()) minus the gain that the opponent might make after the move by recapturing. If that term becomes negative, one would better choose [standing pat](Quiescence_Search#StandPat "Quiescence Search") rather than to capture, which can be done by a conditional assignment, or by a [max](Avoiding_Branches#Max "Avoiding Branches") function with zero as second argument.
-
-
-
 ## Seeing a Capture
 
 

@@ -15,45 +15,6 @@ Beside research on [games](Games "Games"), search algorithms and [parallel searc
 
 
 
-### Contents
-
-
-* [1 Quotes](#Quotes)
-	+ [1.1 Planner](#Planner)
-	+ [1.2 Prodigy](#Prodigy)
-	+ [1.3 Phoenix](#Phoenix)
-		- [1.3.1 Waterloo](#Waterloo)
-		- [1.3.2 Edmonton](#Edmonton)
-		- [1.3.3 Zobrist Hashing](#Zobrist_Hashing)
-		- [1.3.4 WCCC 1986](#WCCC_1986)
-	+ [1.4 Chess and AI](#Chess_and_AI)
-* [2 See also](#See_also)
-* [3 Selected Publications](#Selected_Publications)
-	+ [3.1 1980 ...](#1980_...)
-	+ [3.2 1985 ...](#1985_...)
-	+ [3.3 1990 ...](#1990_...)
-	+ [3.4 1995 ...](#1995_...)
-	+ [3.5 2000 ...](#2000_...)
-	+ [3.6 2005 ...](#2005_...)
-	+ [3.7 2010 ...](#2010_...)
-	+ [3.8 2015 ...](#2015_...)
-	+ [3.9 2020 ...](#2020_...)
-* [4 Forum Posts](#Forum_Posts)
-* [5 External Links](#External_Links)
-	+ [5.1 Musings](#Musings)
-	+ [5.2 Chinook](#Chinook)
-	+ [5.3 Misc](#Misc)
-* [6 References](#References)
-
-
-
-
-
-
-by Jonathan Schaeffer
-
-
-
 ### [Planner](Planner "Planner")
 
 

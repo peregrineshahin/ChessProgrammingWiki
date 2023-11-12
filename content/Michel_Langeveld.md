@@ -15,22 +15,6 @@ At the [WMCCC 2001](WMCCC_2001 "WMCCC 2001") Michel Langeveld served as [opening
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 1999](#1999)
-	+ [1.2 2000 ...](#2000-...)
-	+ [1.3 2003](#2003)
-	+ [1.4 2004](#2004)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 1999
 
 

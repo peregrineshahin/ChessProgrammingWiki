@@ -12,56 +12,6 @@ a compact six piece endgame database developed by [Ronald de Man](Ronald_de_Man 
 
 
 
-### Contents
-
-
-* [1 Data](#Data)
-	+ [1.1 File Types](#File_Types)
-	+ [1.2 File Sizes](#File_Sizes)
-	+ [1.3 Comparision](#Comparision)
-* [2 Generation](#Generation)
-	+ [2.1 Up to 6-man](#Up_to_6-man)
-	+ [2.2 7-man](#7-man)
-	+ [2.3 8-man](#8-man)
-	+ [2.4 Checksums](#Checksums)
-* [3 Search](#Search)
-	+ [3.1 During the Search](#During_the_Search)
-	+ [3.2 At the Root](#At_the_Root)
-* [4 Pros & Cons](#Pros_.26_Cons)
-	+ [4.1 Pros](#Pros)
-	+ [4.2 Cons](#Cons)
-* [5 Data publish](#Data_publish)
-	+ [5.1 DVD](#DVD)
-	+ [5.2 Free Download](#Free_Download)
-		- [5.2.1 3-6 men](#3-6_men)
-		- [5.2.2 7 men](#7_men)
-* [6 Probe Code and Tools](#Probe_Code_and_Tools)
-	+ [6.1 Stockfish](#Stockfish)
-	+ [6.2 Fathom](#Fathom)
-	+ [6.3 Pyrrhic](#Pyrrhic)
-* [7 Elo gain](#Elo_gain)
-* [8 Quotes](#Quotes)
-* [9 Endgame News](#Endgame_News)
-* [10 See also](#See_also)
-* [11 Publications](#Publications)
-* [12 Forum Posts](#Forum_Posts)
-	+ [12.1 2013 ...](#2013_...)
-	+ [12.2 2015 ...](#2015_...)
-	+ [12.3 2020 ...](#2020_...)
-* [13 External Links](#External_Links)
-	+ [13.1 Tablebase](#Tablebase)
-	+ [13.2 Fathom](#Fathom_2)
-	+ [13.3 Pyrrhic](#Pyrrhic_2)
-	+ [13.4 Online Lookup](#Online_Lookup)
-	+ [13.5 ChessBase](#ChessBase)
-	+ [13.6 Misc](#Misc)
-* [14 References](#References)
-
-
-
-
-
-
 ### File Types
 
 

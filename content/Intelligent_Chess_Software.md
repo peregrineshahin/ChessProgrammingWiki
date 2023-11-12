@@ -10,25 +10,6 @@ a series of experimental chess programs by [Intelligent Software](Intelligent_So
 
 
 
-### Contents
-
-
-* [1 Testbed](#testbed)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Software](#chess-software)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-Not to confused with the commercial [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") [tape recorder](https://en.wikipedia.org/wiki/Tape_recorder) computer [SciSys](Saitek "Saitek") [Intelligent Chess](Intelligent_Chess "Intelligent Chess") from 1980 <a id="cite-note-1" href="#cite-ref-1">[1]</a>, developed by Levy's and O’Connell's earlier company [Philidor Software](Philidor_Software "Philidor Software"), *Intelligent Chess Software* was intended as testbed and development version for later commercial distributions, and to play tournaments with an own-brand, similar to the [Philidor](Philidor "Philidor") program by Philidor Software. The *Intelligent* version written by Lang in [Z80](Z80 "Z80") [assembly](Assembly "Assembly") played the [WMCCC 1984](WMCCC_1984 "WMCCC 1984") in [Glasgow](https://en.wikipedia.org/wiki/Glasgow), and was virtually the same program as used in the dedicated [L'Empereur](L%27Empereur "L'Empereur") which participated in the same event <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Richard Lang and [Mark Taylor](Mark_Taylor "Mark Taylor") are mentioned as authors of the [6502](6502 "6502") based entry which participated the [ACM 1984](ACM_1984 "ACM 1984") <a id="cite-note-3" href="#cite-ref-3">[3]</a> for an [Apple IIe](Apple_II "Apple II"), while [David Broughton](David_Broughton "David Broughton") and Mark Taylor were the authors of the [ACM 1985](ACM_1985 "ACM 1985") entry, running on an Apple IIe with an accelerated [6502](6502 "6502") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## See also
 
 

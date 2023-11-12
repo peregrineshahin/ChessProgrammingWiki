@@ -12,40 +12,6 @@ a massive [parallel](Parallel_Search "Parallel Search") chess program from [Cali
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-	+ [4.1 Chess Program](#chess-program)
-	+ [4.2 Misc](#misc)
-* [5 References](#references)
-
-
-
-
-
-
-Abstract of *Chess on a Hypercube* <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```C++
-We report our progress on computer chess last described at the Second Conference on Hypercubes. Our program follows the strategy of currently successful sequential chess programs: searching of an [alpha-beta](Alpha-Beta "Alpha-Beta") pruned game tree, [iterative deepening](Iterative_Deepening "Iterative Deepening"), [transposition](Transposition_Table "Transposition Table") and [history](History_Heuristic "History Heuristic") tables, specialized endgame evaluators, and so on. The [search tree](Search_Tree "Search Tree") is decomposed onto the [hypercube](https://en.wikipedia.org/wiki/Hypercube) (an [nCUBE](NCUBE "NCUBE")) using a [recursive](Recursion "Recursion") version of the [principal-variation-splitting](Parallel_Search#PrincipalVariationSplitting "Parallel Search") algorithm. Roughly speaking, subtrees are searched by teams of processors in a self-scheduled manner. 
-
-A crucial feature of the program is the [global hashtable](Shared_Hash_Table "Shared Hash Table"). Hashtables are important in the sequential case, but are even more central for a parallel chess algorithm. The table not only stores knowledge but also makes the decision at each node of the chess tree whether to stay sequential or to split up the work in parallel. In the language of Knuth and Moore, the transposition table decides whether each node of the chess tree is a [type 2](Node_Types#CUT "Node Types") or a [type 3 node](Node_Types#ALL "Node Types") and acts accordingly. For this data structure the hypercube is used as a shared-memory machine. Multiple writes to the same location are resolved using a priority system which decides which entry is of more value to the program. The hashtable is implemented as “smart” shared memory. 
-
-```
-
-
-```C++
-Search times for related subtrees vary widely (up to a factor of 100) so dynamic reconfiguration of processors is necessary to concentrate on such “hot spots” in the tree. A first version of the program with dynamic load balancing has recently been completed and out-performs the non-load-balancing program by a factor of three. The current speedup of the program is 101 out of a possible 256 processors. The program has played in several tournaments, facing both computers and people. Most recently it scored 2-2 in the [ACM North American Computer Chess Championship](ACM_1987 "ACM 1987"). 
-
-```
-
 ## Selected Games
 
 

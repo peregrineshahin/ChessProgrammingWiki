@@ -12,55 +12,6 @@ a multiply-right-shift [perfect hashing](Hash_Table#PerfectHashing "Hash Table")
 
 
 
-### Contents
-
-
-* [1 History](#History)
-* [2 How it works](#How_it_works)
-* [3 Perfect Hashing](#Perfect_Hashing)
-	+ [3.1 Wishing Dreams](#Wishing_Dreams)
-* [4 Implementations](#Implementations)
-	+ [4.1 Fancy](#Fancy)
-	+ [4.2 Plain](#Plain)
-	+ [4.3 Fixed shift Fancy](#Fixed_shift_Fancy)
-	+ [4.4 Black Magic Bitboards](#Black_Magic_Bitboards)
-	+ [4.5 Byte Lookup](#Byte_Lookup)
-	+ [4.6 32-bit Magics](#32-bit_Magics)
-	+ [4.7 Sharing Attacks](#Sharing_Attacks)
-	+ [4.8 Incorporating the Shift](#Incorporating_the_Shift)
-	+ [4.9 Incorporating Offset](#Incorporating_Offset)
-	+ [4.10 Initalization](#Initalization)
-		- [4.10.1 Looking for Magics](#Looking_for_Magics)
-		- [4.10.2 Magic Records](#Magic_Records)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 2006](#2006)
-	+ [7.2 2007](#2007)
-	+ [7.3 2008](#2008)
-	+ [7.4 2009](#2009)
-	+ [7.5 2010 ...](#2010_...)
-	+ [7.6 2015 ...](#2015_...)
-	+ [7.7 2020 ...](#2020_...)
-* [8 External Links](#External_Links)
-* [9 Other Magic Stuff](#Other_Magic_Stuff)
-* [10 References](#References)
-
-
-
-
-
-
-The magic bitboard approach was motivated by [Gerd Isenberg's](Gerd_Isenberg "Gerd Isenberg") multi-direction hashing technique [kindergarten bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") and probably by Gerd's and [Tony van Roon-Werten's](Tony_van_Roon-Werten "Tony van Roon-Werten") early trials to map line-wise [occupancies](Occupancy "Occupancy") by [De Bruijn](De_Bruijn_Sequence "De Bruijn Sequence")- or random number multiplication [[4]](#cite_note-4) . [Lasse Hansen](Lasse_Hansen "Lasse Hansen") had the idea to hash the up to twelve relevant occupied bits of **both directions** of a rook- or bishop movement simultaneously [[5]](#cite_note-5) .
-
-
-[Pradu Kannan's](Pradu_Kannan "Pradu Kannan") improvements to Lasse Hansen's initial approach was to introduce a [Java](Java "Java")-like, two-dimensional [array](Array "Array") with individual size for each square and all it's relevant occupancies [[6]](#cite_note-6) . Big savings in table-size - since many squares on either orthogonal or diagonal lines require less bits than others, especially considering the [inner six bits](First_Rank_Attacks#TheOuterSquares "First Rank Attacks"). While center squares are more dense for rooks, it is the opposite for bishops [[7]](#cite_note-7) .
-
-
-Recently, [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)") coined the names Plain and Fancy Magics [[8]](#cite_note-8) , and found Hansen's initial Plain Magics with 2 MiB table for rooks and 256 KiB for bishops nearly indistinguishable from Fancy (about 800 KiB and 38 KiB) on his [Intel i5](https://en.wikipedia.org/wiki/Intel_Core_i5) with huge L3 smart cache, see [plain](#Plain) versus [fancy](#Fancy) source code. In the same [CCC](CCC "CCC") forum thread, [Robert Houdart](Robert_Houdart "Robert Houdart") proposed a [byte lookup](#ByteLookup) per square for further table reductions.
-
-
-
 ## How it works
 
 

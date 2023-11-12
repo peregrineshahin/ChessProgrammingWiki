@@ -12,65 +12,6 @@ a chess program by [Jan Kuipers](Jan_Kuipers "Jan Kuipers") written in [8086](80
 
 
 
-### Contents
-
-
-* [1 Move Generation](#move-generation)
-* [2 Selected Games](#selected-games)
-* [3 Publications](#publications)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-TC86 applies [alpha-beta](Alpha-Beta "Alpha-Beta") and performs [move generation](Move_Generation "Move Generation") using a [0x88](0x88 "0x88") board representation, as shown in the listing, published in a June 1981 *Databus* article <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
-
-
-
-
-```C++
-
-                  104            ;ROUTINE TO GENERATE ALL LEGAL MOVES
-                  105            ;FOR KNIGHT OR KING
-                  106
-062F 8BFB         107    GETDES: MOV    DI,BX           ;DST=ORG
-0631 2EBA14       108            MOV    DL,CS:[SI]      ;GET DIRECTION
-0634 03FA         109            ADD    DI,DX           ;CALC. SQ. MOVING TO
-0636 F7C78800     110            TEST   DI,88H          ;OFF BOARD?
-063A 750C         111            JNZ    G4              ;YES
-063C 81E77706     112            AND    DI,677H         ;NO, CLEAN UP DI
-0640 803D00       113            CMP    BYTE PTR [DI],COL       ;WHAT IS ON THAT
-0643 7F03         114            JNLE   G4              ;OCCUPIED BY MYSELF
-0645 E89700       115            CALL   MOVPOS          ;EMPTY OR OPPONENT
-0648 46           116    G4:     INC    SI              ;NEXT DIRECTION
-0649 2EF60499     117            TEST   BYTE PTR CS:[SI],99H    ; END OF TABLE?
-064D 75E0         118            JNZ    GETDES          ;NOT YET
-064F EBAE         119            JMP    M3              ;YES, STOP IT
-                  120
-                  121            ;ROUTINE TO GENERATE ALL LEGAL MOVES FOR PIECES
-                  122            ;MOVING ALONG A LINE:BISHOP,ROOK AND QUEEN
-                  123
-0651 8BFB         124    PATH:   MOV    DI,BX           ;DST=SRC
-0653 2E8A14       125            MOV    DL,CS:[SI]      ;GET DIRECTION
-0656 03FA         126    S2:     ADD    DI,DX           ;NEXT SQ. IN THAT DIRECTION
-0658 F7C78800     127            TEST   DI,88H          ;OFF BOARD?
-065C 7511         128            JNZ    S3              ;YES
-065E 81E77706     129            AND    DI,677H         ;NO, CLEAN UP DI
-0662 803D00       130            CMP    BYTE PTR [DI],COL       ;WHAT IS THERE?
-0665 7F03         131            JG     S4              ;OCCUPIED BY MYSELF
-0667 E89700       132            CALL   MOVPOS          ;EMPTY OR OPPONENT
-066A 803D00       133    S4:     CMP    BYTE PTR [DI],0 ;IF IT WAS EMPTY,
-066D 74E7         134            JNZ    S2              ;CONTINUE THAT DIRECTION
-066F 46           135    S3:     INC    SI              ;GET NEXT DIRECTION
-0670 2EF60499     136            TEST   BYTE PTR CS:[SI],99H ;ALL DIRECTIONS DONE?
-0674 75DB         137            JNZ    PATH            ;NO, CONTINUE
-0676 EB87         138    S1:     JMP    M3              ;YES, STOP IT
-
-```
-
 ## Selected Games
 
 

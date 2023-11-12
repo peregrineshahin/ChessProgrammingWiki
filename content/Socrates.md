@@ -13,29 +13,6 @@ Since Larry Kaufman mentioned in 1992 that [Null Move Pruning](Null_Move_Pruning
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Photos & Games](#photos-.26-games)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-* [6 External Links](#external-links)
-	+ [6.1 Chess Program](#chess-program)
-	+ [6.2 Socrates](#socrates)
-* [7 References](#references)
-
-
-
-
-
-
- [](http://www.septober.de/chess/index.htm) 
-Socrates 3.0 Screen <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ## Photos & Games
 
 

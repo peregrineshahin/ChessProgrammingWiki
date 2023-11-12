@@ -13,28 +13,6 @@ and further uses [python-chess](Python-chess "Python-chess") by [Niklas Fiekas](
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Features](#features)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2011 ...](#2011-...)
-	+ [3.2 2015 ...](#2015-...)
-	+ [3.3 2020 ...](#2020-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
- [](http://omgchess.blogspot.com/2015/08/a-great-hidden-feature-in-lucas-chess.html) 
-Lucas Chess - Move Tree <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Features
 
 

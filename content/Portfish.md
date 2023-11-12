@@ -11,24 +11,6 @@ functionally equivalent with Stockfish 2.2.x, May 27, 2012, commit 0412f4a1ee <a
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [asmFish](AsmFish "AsmFish")
-* [CFish](CFish "CFish")
-* [DroidFish](DroidFish "DroidFish")
-
-
 ## Forum Posts
 
 

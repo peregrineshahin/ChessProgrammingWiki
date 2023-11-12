@@ -14,27 +14,6 @@ Jaime Carbonell invented multiple well-known algorithms and methods, including [
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1979](#1979)
-	+ [1.2 1980 ...](#1980-...)
-	+ [1.3 1990 ...](#1990-...)
-	+ [1.4 2000 ...](#2000-...)
-	+ [1.5 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
-
-
-
 ### 1979
 
 

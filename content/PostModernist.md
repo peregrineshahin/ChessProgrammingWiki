@@ -12,53 +12,6 @@ a chess program by [Andrew Williams](Andrew_Williams "Andrew Williams"), support
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WCCC 2002](WCCC_2002 "WCCC 2002"), round 9, PostModernist - [Insomniac](Insomniac "Insomniac") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
-
-```
-
-[Event "WCCC 2002"]
-[Site "Maastricht, The Netherlands"]
-[Date "2002.07.11"]
-[Round "9"]
-[White "PostModernist"]
-[Black "Insomniac"]
-[Result "1/2-1/2"]
-
-1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 dxc4 9.Bxc4 g6 
-10.O-O Bg7 11.Rc1 O-O 12.Qe2 Rd8 13.Rfd1 Qe7 14.e4 Nb6 15.e5 Nxc4 16.Qxc4 f5 17.exf6 
-Qxf6 18.Ne4 Qf5 19.Ng3 Qa5 20.Qc2 Kf7 21.b3 a6 22.a4 Rd5 23.Nh4 Rg5 24.Ne4 Rg4 25.Nd6+ 
-Kg8 26.Nxc8 Qd8 27.Nf3 Rxc8 28.h3 Rf4 29.Qxg6 Qe7 30.Re1 Re8 31.Qg3 Qf6 32.a5 Kh7 
-33.Rc3 Rg8 34.Qh2 Qf7 35.Rd3 Rd8 36.Rde3 Bxd4 37.Nxd4 Rdxd4 38.Qg3 Rf6 39.R3e2 Rg6 
-40.Qc3 Rd5 41.b4 Rdg5 42.g3 Rd5 43.Re4 Qd7 44.Qc2 Rd2 45.Qb3 Rd3 46.Qb1 Kg7 47.Qb2+ 
-Kh7 48.Rf4 Qd6 49.Kf1 Rd2 50.Qb3 Kg8 51.Qf3 Qd3+ 52.Qxd3 Rxd3 53.Kg2 Kg7 54.Rfe4 Kf7 
-55.g4 h5 56.f3 Rf6 57.f4 hxg4 58.hxg4 Rh6 59.R1e3 Rd2+ 60.Re2 Rd3 61.f5 exf5 62.Re7+ 
-Kf8 63.gxf5 Rd2 64.Re8+ Kf7 65.Rxd2 Kxe8 66.Kg3 Ke7 67.Kg4 Rh1 68.Rd4 Kf6 69.Rd6+ Ke7 
-70.Rd3 Rb1 71.Re3+ Kf7 72.Re4 Kf6 73.Re6+ Kf7 74.Rh6 Rxb4+ 75.Kg5 Kg8 76.Rd6 Kf7 
-77.Rd7+ Ke8 78.Rc7 Rb2 79.f6 Kf8 80.Rh7 Kg8 81.Re7 Rb1 82.Kg6 Rg1+ 83.Kf5 Rb1 84.Ke6 
-Re1+ 85.Kd7 Rf1 86.Ke6 Re1+ 87.Kd6 Rb1 88.Rc7 Kf8 89.Ke5 Re1+ 90.Kf5 Rf1+ 91.Kg5 Rg1+ 
-92.Kh6 Rh1+ 93.Kg6 Rg1+ 94.Kf5 Rf1+ 95.Ke4 Re1+ 
-1/2-1/2
-
-```
-
 ## Forum Posts
 
 

@@ -15,31 +15,6 @@ Vice [represents the board](Board_Representation "Board Representation") with a 
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-* [2 External Links](#external-links)
-	+ [2.1 Chess Engine](#chess-engine)
-	+ [2.2 Videos](#videos)
-	+ [2.3 Misc](#misc)
-* [3 References](#references)
-
-
-
-
-
-
-* [Vice 1.0](http://www.open-chess.org/viewtopic.php?f=5&t=2383) by [BlueFeverSoft](BlueFeverSoft "BlueFeverSoft"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), July 30, 2013
-* [Vice 1.0](http://www.talkchess.com/forum/viewtopic.php?t=49043) by [Adam Hair](Adam_Hair "Adam Hair"), [CCC](CCC "CCC"), August 22, 2013
-* [Re: Mussaurus 0.1-prealpha - a poor man's Vice](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72372&start=24) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), Novembr 26, 2019
-
-
- [Re: Mussaurus 0.1-prealpha - a poor man's Vice](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72372&start=33) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), December 02, 2019
-* [Vice CCRL rating](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77205) by [Amanj Sherwany](Amanj_Sherwany "Amanj Sherwany"), [CCC](CCC "CCC"), April 29, 2021 » [CCRL](CCRL "CCRL")
-* [Vice solving problems on Twitter](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=78620) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), November 08, 2021 » [Piece Recognition](Piece_Recognition "Piece Recognition")
-
-
 ## External Links
 
 

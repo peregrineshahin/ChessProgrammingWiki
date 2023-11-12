@@ -10,25 +10,6 @@ an American computer scientist and former chess programmer. While affiliated wit
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](File:CHAOS_Team_circa_1972.gif) 
-CHAOS Team circa 1972 with [UNIVAC 1108](UNIVAC_1100 "UNIVAC 1100") Computer in [Cinnaminson, NJ](https://en.wikipedia.org/wiki/Cinnaminson_Township,_New_Jersey)  
-From left, [Fred Swartz](Fred_Swartz "Fred Swartz") (rear), [Vic Berman](Victor_Berman "Victor Berman") (front), [Bill Toikka](William_Toikka "William Toikka"), Ira Ruben (seated), [Joe Winograd](Joe_Winograd "Joe Winograd") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
 ## See also
 
 

@@ -8,31 +8,6 @@ title: Search Statistics
 
 
 
-### Contents
-
-
-* [1 Node Statistics](#node-statistics)
-	+ [1.1 Cutoffs](#cutoffs)
-	+ [1.2 Re-Searches](#re-searches)
-	+ [1.3 Root Statistics](#root-statistics)
-	+ [1.4 Selectivity](#selectivity)
-* [2 TT Statistics](#tt-statistics)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1994 ...](#1994-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2010 ...](#2010-...)
-
-
-
-
-
-
-Of interest is the appearance of searched [nodes](Node "Node") inside an [iterative deepening framework](Iterative_Deepening "Iterative Deepening") and the ratio of [quiescent nodes](Quiescent_Node "Quiescent Node"), per [depth](Depth "Depth") and/or aggregated, in conjunction with [effective branching factor](Branching_Factor#EffectiveBranchingFactor "Branching Factor") (EBF) and of course [nodes per second](Nodes_per_Second "Nodes per Second").
-
-
-
 ### Cutoffs
 
 

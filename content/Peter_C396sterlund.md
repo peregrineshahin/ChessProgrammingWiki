@@ -10,28 +10,6 @@ a Swedish computer scientist and chess programmer. He is author of [MLChess](MLC
 
 
 
-### Contents
-
-
-* [1 Texel](#texel)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1995 ...](#1995-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In March 2012, Peter Österlund announced and published his new engine [Texel](Texel "Texel"). Texel 1.00 was functionally equivalent to an unreleased version of CuckooChess. The main difference is that Texel is written in [C++11](Cpp "Cpp") instead of [Java](Java "Java") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-
-
-
 ## See also
 
 

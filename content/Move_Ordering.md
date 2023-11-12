@@ -10,58 +10,6 @@ For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [be
 
 
 
-### Contents
-
-
-* [1 Standard techniques](#Standard_techniques)
-	+ [1.1 Captures](#Captures)
-	+ [1.2 Non-Captures](#Non-Captures)
-	+ [1.3 Less common techniques](#Less_common_techniques)
-	+ [1.4 Using Neural Networks](#Using_Neural_Networks)
-* [2 Typical move ordering](#Typical_move_ordering)
-* [3 Node Type Considerations](#Node_Type_Considerations)
-	+ [3.1 PV-nodes](#PV-nodes)
-	+ [3.2 Cut-nodes](#Cut-nodes)
-	+ [3.3 All-nodes](#All-nodes)
-* [4 Depth and Ply Considerations](#Depth_and_Ply_Considerations)
-	+ [4.1 Root Node Considerations](#Root_Node_Considerations)
-	+ [4.2 Ordering in Quiescence](#Ordering_in_Quiescence)
-* [5 See also](#See_also)
-* [6 Publications](#Publications)
-	+ [6.1 1977 ...](#1977_...)
-	+ [6.2 1980 ...](#1980_...)
-	+ [6.3 1990 ...](#1990_...)
-	+ [6.4 2000 ...](#2000_...)
-	+ [6.5 2010 ...](#2010_...)
-	+ [6.6 2020 ...](#2020_...)
-* [7 Forum Posts](#Forum_Posts)
-	+ [7.1 1996 ...](#1996_...)
-	+ [7.2 2000 ...](#2000_..._2)
-	+ [7.3 2005 ...](#2005_...)
-	+ [7.4 2010 ...](#2010_..._2)
-	+ [7.5 2015 ...](#2015_...)
-	+ [7.6 2020 ...](#2020_..._2)
-* [8 External Links](#External_Links)
-* [9 References](#References)
-
-
-
-
-
-
-Following techniques are common in finding a good first move
-
-
-
-* [PV-Move](PV-Move "PV-Move") from the [principal variation](Principal_Variation "Principal Variation") of the previous [Iteration](Iteration "Iteration")
-* [Hash Move](Hash_Move "Hash Move") - stored move from [Transposition Table](Transposition_Table "Transposition Table"), if available
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") - if no hash move is available, likely only at [PV-Nodes](Node_Types#PV "Node Types")
-
-
-
-
-
-
 ### Captures
 
 

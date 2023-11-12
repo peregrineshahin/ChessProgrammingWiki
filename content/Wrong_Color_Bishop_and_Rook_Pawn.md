@@ -14,39 +14,6 @@ There is also a position drawn despite having a nominally good bishop: white paw
 
 
 
-### Contents
-
-
-* [1 Too far](#too-far)
-* [2 Uri's rule](#uri.27s-rule)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 2000 ...](#2000-...)
-	+ [3.2 2010 ...](#2010-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-A position where White to move wins:
-
-
-
-
-
-|  |
-| --- |
-|                                                                                                                  ♚         ♙    ♗        ♔                   |
-
-
-
-```C++
-8/8/5k2/7P/4B3/5K2/8/8 w - - 0 1
-
-```
-
 ## Uri's rule
 
 

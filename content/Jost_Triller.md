@@ -13,20 +13,6 @@ and the most recent [Nalwald](Nalwald "Nalwald") written in the [Nim programming
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2017 ...](#2017-...)
-	+ [1.2 2020 ...](#2020-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2017 ...
 
 

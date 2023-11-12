@@ -12,28 +12,6 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 2013 ...](#2013-...)
-	+ [2.2 2015 ...](#2015-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
- [](https://icga.leidenuniv.nl/?page_id=2185) 
-[20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Go "20th Computer Olympiad"), Medalists in [13x13 Go](Go "Go"), [Katsuki Ohto](Katsuki_Ohto "Katsuki Ohto") (Bronze for Julie),   
-Ting-Han Wei (Gold for [CGI](https://www.game-ai-forum.org/icga-tournaments/program.php?id=800)) and [Hideki Kato](Hideki_Kato "Hideki Kato") (Silver for [Zen](https://www.game-ai-forum.org/icga-tournaments/program.php?id=594) ) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
 ## Selected Publications
 
 

@@ -12,22 +12,6 @@ an American electrical engineer and computer chess programmer. He started chess 
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* John Stanback (**1990**). *Supercomputing '90: Computer-Chess Testing and Programming Session*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal") » [ACM 1990](ACM_1990 "ACM 1990")
-
-
 ## Forum Posts
 
 

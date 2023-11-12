@@ -8,37 +8,6 @@ title: Ranks
 
 
 
-### Contents
-
-
-* [1 Back Ranks](#back-ranks)
-* [2 Square Mapping Notes](#square-mapping-notes)
-* [3 Square Difference](#square-difference)
-* [4 Enumeration](#enumeration)
-* [5 Rank from Square](#rank-from-square)
-* [6 Rank-Distance](#rank-distance)
-* [7 Two Squares on a Rank](#two-squares-on-a-rank)
-* [8 See also](#see-also)
-* [9 References](#references)
-
-
-
-
-
-
-The First Rank is White's back rank, while the Eights Rank is Black's back rank.
-
-
-
-
-
-|  |  |  |
-| --- | --- | --- |
-|  | abcdefgh |  |
-| 87654321 |                                                                                                 ••••••••                                                •••••••• | 87654321 |
-|  | abcdefgh |  |
-
-
 ## Square Mapping Notes
 
 

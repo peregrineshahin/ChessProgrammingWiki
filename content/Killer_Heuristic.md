@@ -12,35 +12,6 @@ a dynamic, path-dependent move ordering technique. It considers moves that cause
 
 
 
-### Contents
-
-
-* [1 Priority](#priority)
-* [2 How does it work?](#how-does-it-work.3f)
-* [3 See also](#see-also)
-* [4 Publications](#publications)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 1995 ...](#1995-...)
-	+ [5.2 2000 ...](#2000-...)
-	+ [5.3 2005 ...](#2005-...)
-	+ [5.4 2010 ...](#2010-...)
-	+ [5.5 2015 ...](#2015-...)
-	+ [5.6 2020 ...](#2020-...)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-In move ordering, killer moves usually come right after after the [hash move](Hash_Move "Hash Move") and (good) [captures](Captures "Captures"). The logic behind this heuristic is as follows. In many positions there is only a small set of moves creating a threat or defending against it, and those that cannot do it might be refuted ("killed") by the same move by the opponent. Apart from the killer moves from the same depth, some programs use **killers from two plies ago**. Also the [mate killers](Mate_Killers "Mate Killers") are often separated and treated differently.
-
-
-As far as relative position of captures and killer moves is concerned, there are different schemes. Sometimes killer moves are sorted below all the captures, sometimes - between equal and losing captures. One rare idea was to place them even before winning captures of a pawn. 
-
-
-
 ## How does it work?
 
 

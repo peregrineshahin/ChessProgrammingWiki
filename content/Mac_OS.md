@@ -10,26 +10,6 @@ is a series of [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) bas
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-	+ [1.1 GUI Screenshots](#gui-screenshots)
-		- [1.1.1 Sigma](#sigma)
-		- [1.1.2 XBoard](#xboard)
-	+ [1.2 Engines](#engines)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2010 ...](#2010-...)
-	+ [2.2 2015 ...](#2015-...)
-	+ [2.3 2020 ...](#2020-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### GUI Screenshots
 
 

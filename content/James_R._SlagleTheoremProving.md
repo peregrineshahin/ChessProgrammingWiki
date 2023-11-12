@@ -15,41 +15,6 @@ President [Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenho
 
 
 
-### Contents
-
-
-* [1 Saint](#saint)
-* [2 Theorem-Proving](#theorem-proving)
-* [3 M & N procedure](#m-.26-n-procedure)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1959](#1959)
-	+ [4.2 1960 ...](#1960-...)
-	+ [4.3 1970 ...](#1970-...)
-	+ [4.4 1980 ...](#1980-...)
-	+ [4.5 1990 ...](#1990-...)
-	+ [4.6 2000 ...](#2000-...)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
-Quote by [Marvin Minsky](Marvin_Minsky "Marvin Minsky") on Slagle's ***S**ymbolic **A**utomatic **Int**egrator*, discussing his book *[The Emotion Machine](https://en.wikipedia.org/wiki/The_Emotion_Machine)* <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
-
-
-
-
-```C++
-Why don't we have artificial intelligence yet? There were some remarkable achievements in very early days of artificial intelligence. This is my favorite one, a young student who happened to be blind named James Slagle wrote a Ph.D. thesis in 1961 that was nearly as good as a good MIT freshman at doing intergroup calculus. Up until then there was no general theory of how to [integrate functions](https://en.wikipedia.org/wiki/Integral). [Isaac Newton](Mathematician#IsaacNewton "Mathematician") invented the process but could not solve it. People like [Gauss](Mathematician#Gauss "Mathematician") and others spent the next couple of centuries on it. By 1950, there was a great collection called the [Bateman Manuscript Project](https://en.wikipedia.org/wiki/Bateman_Manuscript_Project) run by the [American Mathematical Society](https://en.wikipedia.org/wiki/American_Mathematical_Society) and they collected integrals. 
-
-```
-
-
-
-
-
 ## Theorem-Proving
 
 

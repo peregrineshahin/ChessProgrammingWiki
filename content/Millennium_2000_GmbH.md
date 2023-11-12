@@ -13,36 +13,6 @@ In 2016, [Maximilian Hegener](index.php?title=Maximilian_Hegener&action=edit&red
 
 
 
-### Contents
-
-
-* [1 Chess Programs](#chess-programs)
-* [2 Dedicated Computers](#dedicated-computers)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-	+ [4.1 1999](#1999)
-	+ [4.2 2000 ...](#2000-...)
-	+ [4.3 2010 ...](#2010-...)
-	+ [4.4 2020 ...](#2020-...)
-* [5 External Links](#external-links)
-	+ [5.1 Company](#company)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Initially, Millennium 2000 distributed the chess programs [Chess Genius](Chess_Genius "Chess Genius") by [Richard Lang](Richard_Lang "Richard Lang") and [Shredder](Shredder "Shredder") by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), 
-and after [Marty Hirsch's](Marty_Hirsch "Marty Hirsch") problems <a id="cite-note-4" href="#cite-ref-4">[4]</a> 
-with his former distributor [Martin Stamer](Martin_Stamer "Martin Stamer") his program [MChess Pro](MChess "MChess"). A [Windows](Windows "Windows") compliant [GUI](GUI "GUI"), the [Millennium Chess System](Millennium_Chess_System "Millennium Chess System") (MCS) developed by [Adrian Millett](Adrian_Millett "Adrian Millett"), 
-was bundled along with Shredder and ChessGenius <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
-Further MCS native engines were [Nimzo 2000](Nimzo "Nimzo"), [SOS 2000](SOS "SOS") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, 
-[WChess](WChess "WChess") and [Zarkov](Zarkov "Zarkov") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
-
-
-
 ## Dedicated Computers
 
 

@@ -10,40 +10,6 @@ A **passed pawn,** also called **free pawn** or **passer**, is a [pawn](Pawn "Pa
 
 
 
-### Contents
-
-
-* [1 Considerations](#considerations)
-* [2 See also](#see-also)
-* [3 Forum Posts](#forum-posts)
-	+ [3.1 1998 ...](#1998-...)
-	+ [3.2 2000 ...](#2000-...)
-	+ [3.3 2010 ...](#2010-...)
-	+ [3.4 2015 ...](#2015-...)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-In its simplest form, passed pawn evaluation assigns a bonus which increases as the pawn advances, often by dedicated [piece-square tables](Piece-Square_Tables "Piece-Square Tables"). There are, however, different considerations to be taken into account, some of which are listed below. 
-
-
-
-* [Blockade of Stop](Blockade_of_Stop "Blockade of Stop")
-* [Control of Stop and Telestop](Control_of_Stop_and_Telestop "Control of Stop and Telestop")
-* [Connected Passed Pawns](Connected_Passed_Pawns "Connected Passed Pawns")
-* [King Pawn Tropism](King_Pawn_Tropism "King Pawn Tropism")
-* [Outside Passed Pawn](Outside_Passed_Pawn "Outside Passed Pawn")
-* [Pawn Race](Pawn_Race "Pawn Race")
-* [Protected Passed Pawn](Protected_Passed_Pawn "Protected Passed Pawn")
-* [Rule of the Square](Rule_of_the_Square "Rule of the Square")
-* [Tarrasch Rule](Tarrasch_Rule "Tarrasch Rule")
-* [Unstoppable Passer](Unstoppable_Passer "Unstoppable Passer")
-
-
 ## See also
 
 

@@ -12,57 +12,6 @@ a private research university in [Stanford](https://en.wikipedia.org/wiki/Stanfo
 
 
 
-### Contents
-
-
-* [1 People](#people)
-* [2 Chess Programs](#chess-programs)
-* [3 Matches](#matches)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-* [Ashton Anderson](Ashton_Anderson "Ashton Anderson")
-* [Louis Chatriot](index.php?title=Louis_Chatriot&action=edit&redlink=1 "Louis Chatriot (page does not exist)")
-* [Jens Christensen](Jens_Christensen "Jens Christensen")
-* [L. Stephen Coles](L._Stephen_Coles "L. Stephen Coles")
-* [Truman Collins](Truman_Collins "Truman Collins")
-* [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft")
-* [Alvin M. Despain](Alvin_M._Despain "Alvin M. Despain")
-* [David Eppstein](David_Eppstein "David Eppstein")
-* [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum")
-* [Derek Farren](index.php?title=Derek_Farren&action=edit&redlink=1 "Derek Farren (page does not exist)")
-* [Richard Fikes](Richard_Fikes "Richard Fikes")
-* [Samuel Fuller](Samuel_Fuller "Samuel Fuller")
-* [Michael Genesereth](Michael_Genesereth "Michael Genesereth")
-* [Matthew L. Ginsberg](Matthew_L._Ginsberg "Matthew L. Ginsberg")
-* [David Gleich](index.php?title=David_Gleich&action=edit&redlink=1 "David Gleich (page does not exist)")
-* [Bill Gosper](Bill_Gosper "Bill Gosper")
-* [Thomas Hubert](Thomas_Hubert "Thomas Hubert")
-* [Nishith Khandwala](Nishith_Khandwala "Nishith Khandwala")
-* [Donald Knuth](Donald_Knuth "Donald Knuth")
-* [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson")
-* [Barbara Liskov](Barbara_Liskov "Barbara Liskov"), née Barbara Huberman
-* [Sanjoy Mahajan](Sanjoy_Mahajan "Sanjoy Mahajan")
-* [John McCarthy](John_McCarthy "John McCarthy")
-* [John Moussouris](John_Moussouris "John Moussouris")
-* [Todd W. Neller](Todd_W._Neller "Todd W. Neller")
-* [Barak Oshri](Barak_Oshri "Barak Oshri")
-* [Ryan Porter](Ryan_Porter "Ryan Porter")
-* [Paul S. Rosenbloom](index.php?title=Paul_S._Rosenbloom&action=edit&redlink=1 "Paul S. Rosenbloom (page does not exist)")
-* [Stuart Russell](Stuart_Russell "Stuart Russell")
-* [Arthur Samuel](Arthur_Samuel "Arthur Samuel") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-* [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever")
-* [Daniel Templeton](index.php?title=Daniel_Templeton&action=edit&redlink=1 "Daniel Templeton (page does not exist)")
-* [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun")
-* [Meiji Wang](index.php?title=Meiji_Wang&action=edit&redlink=1 "Meiji Wang (page does not exist)")
-* [David Wilkins](David_Wilkins "David Wilkins")
-
-
 ## Chess Programs
 
 

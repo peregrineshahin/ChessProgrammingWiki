@@ -12,41 +12,6 @@ a mainframe chess program written by [Jeff Rollason](Jeff_Rollason "Jeff Rollaso
 
 
 
-### Contents
-
-
-* [1 Games](#games)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-[ECCC 1979](ECCC_1979 "ECCC 1979"), Rasputin - [Parwell](Parwell "Parwell") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```
-
-[Event "ECCC 1979"]
-[Site "London"]
-[Date "1979.09.27"]
-[Round "?"]
-[White "Rasputin"]
-[Black "Parwell"]
-[Result "0-1"]
-
-1.e4 Nf6 2.e5 Nd5 3.d4 Nc6 4.c4 Nb6 5.c5 Nd5 6.Bc4 e6 7.Nf3 d6 8.Bxd5 exd5
-9.cxd6 cxd6 10.Bg5 Qa5+ 11.Bd2 Qc7 12.Bf4 Bg4 13.Nc3 Bxf3 14.gxf3 dxe5 15.Nxd5 Qa5+
-16.Kf1 Qxd5 17.dxe5 Qc4+ 18.Qe2 Qxf4 19.e6 Be7 20.exf7+ Qxf7 21.Rg1 O-O 22.Rg3 Nd4
-23.Qe4 Nxf3 24.Qxb7 Nxh2+ 25.Kg2 Qxf2+ 26.Kh3 Nf1 27.Rd3 Qh4+ 28.Kg2 Qh2# 0-1
-
-```
-
 ## See also
 
 

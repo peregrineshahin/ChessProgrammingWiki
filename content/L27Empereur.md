@@ -12,43 +12,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-* [2 See also](#see-also)
-* [3 External Links](#external-links)
-	+ [3.1 Chess Computer](#chess-computer)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-[WMCCC 1984](WMCCC_1984 "WMCCC 1984"), round 1, [Sargon 3 / MacIntosh](Sargon "Sargon") - L'Empereur <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-
-
-
-
-```
-
-[Event "WMCCC 1984"]
-[Site "Glasgow, United Kingdom"]
-[Date "1984.09.09"]
-[Round "1"]
-[White "Sargon 3"]
-[Black "L'Empereur"]
-[Result "0-1"]
-
-1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 e4 5.Nc3 Nf6 6.Bxc6+ bxc6 7.d3 Bg4 8.f3 exf3 9.Nxf3 Bd6 
-10.O-O O-O 11.Qd2 Qe7 12.Rae1 Bxf3 13.Rxf3 Qe5 14.Rh3 Qg5 15.Rf1 Rfe8 16.Ne2 Be5 17.Bxe5 
-Qxe5 18.c4 dxc4 19.bxc4 Rab8 20.Nd4 Rb6 21.Rg3 c5 22.Nf5 g6 23.Qd1 Rf8 24.d4 cxd4 25.Nxd4 
-c5 26.Nb3 Ra6 27.Qc2 Ne4 28.Rgf3 Ng5 29.Rg3 Rd8 0-1 
-
-```
-
 ## See also
 
 

@@ -12,39 +12,6 @@ a family of chess programs developed by [Marcel van Kervinck](Marcel_van_Kervinc
 
 
 
-### Contents
-
-
-* [1 Rookie 2.0](#rookie-2.0)
-	+ [1.1 Search](#search)
-	+ [1.2 Evaluation](#evaluation)
-		- [1.2.1 Triple Stage Evaluator](#triple-stage-evaluator)
-		- [1.2.2 The Big Picture](#the-big-picture)
-* [2 Rookie 3](#rookie-3)
-* [3 Tournaments](#tournaments)
-	+ [3.1 Photos](#photos)
-		- [3.1.1 Rookie of the Year Award](#rookie-of-the-year-award)
-		- [3.1.2 ICT 2011](#ict-2011)
-	+ [3.2 Selected Games](#selected-games)
-		- [3.2.1 DOCCC 1997](#doccc-1997)
-		- [3.2.2 WCCC 2011](#wccc-2011)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-	+ [7.1 Chess Engine](#chess-engine)
-	+ [7.2 Misc](#misc)
-* [8 References](#references)
-
-
-
-
-
-
-The [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [XBoard](XBoard "XBoard") compatible Rookie **2.0** was written in [C](C "C") and subject of Marcel's Masters Thesis at [Eindhoven University of Technology](https://en.wikipedia.org/wiki/Eindhoven_University_of_Technology) in 2002, with a detailed description of its design considerations and implementation decisions <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
-
-
-
 ### Search
 
 

@@ -15,27 +15,6 @@ The program evolved from Philidor Software's development chess program dubbed [P
 
 
 
-### Contents
-
-
-* [1 IBM PC](#ibm-pc)
-* [2 Atari 8-bit](#atari-8-bit)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-	+ [4.1 Parker Chess](#parker-chess)
-	+ [4.2 Parker Brothers](#parker-brothers)
-* [5 References](#references)
-
-
-
-
-
-
-The [IBM PC](IBM_PC "IBM PC") version of Parker Chess was written in [8086](8086 "8086") [assembly](Assembly "Assembly") and was the work of [David Broughton](David_Broughton "David Broughton") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
-<a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Atari 8-bit
 
 

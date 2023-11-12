@@ -12,30 +12,6 @@ a collection of 300 chess positions first compiled and published by [Fred Reinfe
 
 
 
-### Contents
-
-
-* [1 See also](#See_also)
-* [2 Publications](#Publications)
-* [3 Forum Posts](#Forum_Posts)
-	+ [3.1 1997 ...](#1997_...)
-	+ [3.2 2000 ...](#2000_...)
-	+ [3.3 2005 ...](#2005_...)
-	+ [3.4 2010 ...](#2010_...)
-	+ [3.5 2015 ...](#2015_...)
-	+ [3.6 2020 ...](#2020_...)
-* [4 EPD Wacnew](#EPD_Wacnew)
-* [5 External Links](#External_Links)
-* [6 References](#References)
-
-
-
-
-
-
-* [WAC 230](Alexander_Szabo#WAC230 "Alexander Szabo") at [Alexander Szabo](Alexander_Szabo "Alexander Szabo")
-
-
 ## Publications
 
 

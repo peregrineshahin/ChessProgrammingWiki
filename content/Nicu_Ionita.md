@@ -15,20 +15,6 @@ and of *chessNet* to connect chess engines to an UCI compatible [GUI](GUI "GUI")
 
 
 
-### Contents
-
-
-* [1 Forum Posts](#forum-posts)
-	+ [1.1 2011 ...](#2011-...)
-	+ [1.2 2015 ...](#2015-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### 2011 ...
 
 

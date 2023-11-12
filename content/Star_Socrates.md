@@ -12,48 +12,6 @@ a parallel chess program, developed by a team from [MIT](Massachusetts_Institute
 
 
 
-### Contents
-
-
-* [1 Massively Parallel Chess](#massively-parallel-chess)
-* [2 History of \*Socrates](#history-of-.2asocrates)
-* [3 Acknowledgments](#acknowledgments)
-* [4 Description](#description)
-* [5 Awards](#awards)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 External Links](#external-links)
-	+ [8.1 Chess Program](#chess-program)
-	+ [8.2 Misc](#misc)
-* [9 References](#references)
-
-
-
-
-
-
-Quote by [Chris Joerg](Chris_Joerg "Chris Joerg") and [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-
-
-```C++
-Computer chess provides a good testbed for understanding dynamic [MIMD](https://en.wikipedia.org/wiki/MIMD)-style computations. To investigate the programming issues, we engineered a parallel chess program called *Socrates, which running on [NCSA's](University_of_Illinois_at_Urbana-Champaign#NCSA "University of Illinois at Urbana-Champaign") 512 processor [CM-5](Connection_Machine "Connection Machine"), tied for third in the [1994 ACM International Computer Chess Championship](ACM_1994 "ACM 1994"). *Socrates uses the [Jamboree](Jamboree "Jamboree") algorithm to search game trees in parallel and uses the [Cilk 1.0](Cilk "Cilk") language and run-time system to express and to schedule the computation. In order to obtain good performance for chess, we use several mechanisms not directly provided by Cilk, such as aborting computations and directly accessing the active message layer to implement a global transposition table distributed across the processors. We found that we can use the critical path C and the total work W to predict the performance of our chess programs. Empirically *Socrates runs in time
-
-```
-
-
-```C++
-T ≈ 0.95C + 1.09W/P  
-
-on P processors. For best-ordered uniform trees of height h and degree d the average available parallelism in Jamboree search is
-
-ϴ((d/2)h/2)
-
-*Socrates searching real chess trees under tournament time controls yields average available parallelism of over 1000. 
-
-```
-
 ## History of \*Socrates
 
 

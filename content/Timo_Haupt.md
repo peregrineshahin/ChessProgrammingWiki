@@ -16,22 +16,6 @@ In 2002, Timoe Klaustermeyer was intern for the [ChessBase](ChessBase "ChessBase
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WCCC 2006](#wccc-2006)
-	+ [1.2 WCCC 2008](#wccc-2008)
-	+ [1.3 WCCC 2015](#wccc-2015)
-* [2 Selected Publications](#selected-publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### WCCC 2006
 
 

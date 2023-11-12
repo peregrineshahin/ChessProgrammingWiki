@@ -10,67 +10,6 @@ also dubbed the [ACM](ACM "ACM") Chess Challenge of [Garry Kasparov](Garry_Kaspa
 
 
 
-### Contents
-
-
-* [1 Photos & Games](#photos-.26-games)
-* [2 See also](#see-also)
-* [3 Selected Publications](#selected-publications)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd3f6f2) 
-Garry Kasparov, Game 6 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
-
-
-[View the 12 games from 1996 and 1997 with eval on Lichess.org](https://lichess.org/study/VAU2zLVB)
-
-
-
-
-```
-
-[Event "Kasparov versus Deep Blue Match"]
-[Site "Philadelphia USA"]
-[Date "1996.02.17"]
-[Round "6"]
-[Result "1-0"]
-[White "Garry Kasparov"]
-[Black "Deep Blue"]
-
-1.Nf3 d5 2.d4 c6 3.c4 e6 4.Nbd2 Nf6 5.e3 c5 6.b3 Nc6 7.Bb2 cxd4
-8.exd4 Be7 9.Rc1 0-0 10.Bd3 Bd7 11.0-0 Nh5 12.Re1 Nf4 13.Bb1 Bd6
-14.g3 Ng6 15.Ne5 Rc8 16.Nxd7 Qxd7 17.Nf3 Bb4 18.Re3 Rfd8 19.h4 Nge7
-20.a3 Ba5 21.b4 Bc7 22.c5 Re8 23.Qd3 g6 24.Re2 Nf5 25.Bc3 h5 26.b5
-Nce7 27.Bd2 Kg7 28.a4 Ra8 29.a5 a6 30.b6 Bb8 31.Bc2 Nc6 32.Ba4 Re7
-33.Bc3 Ne5 34.dxe5 Qxa4 35.Nd4 Nxd4 36.Qxd4 Qd7 37.Bd2 Re8 38.Bg5
-Rc8 39.Bf6+ Kh7 40.c6 bxc6 41.Qc5 Kh6 42.Rb2 Qb7 43.Rb4 1–0
-
-```
-
-20.Bh7? <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
-
-
-
- 
-
-|  |
-| --- |
-|                                                                       ♜♜  ♚ ♟♟ ♛♞♟♟♟  ♞ ♟      ♟     ♝♙♙   ♙ ♙  ♖♘♙ ♙♗   ♙   ♗♖♕  ♔  |
-
- 
-
-```C++
-2rr2k1/pp1qnppp/2n1p3/3p4/1bPP3P/1P2RNP1/PB3P2/1BRQ2K1 w - - 0 20 
-
-```
-
 ## See also
 
 

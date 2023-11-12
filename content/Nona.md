@@ -12,34 +12,6 @@ title: Nona
 
 
 
-### Contents
-
-
-* [1 Mondial](#mondial)
-* [2 Quest](#quest)
-* [3 Photos & Games](#photos-.26-games)
-	+ [3.1 1985](#1985)
-		- [3.1.1 HCC Days](#hcc-days)
-		- [3.1.2 DOCCC 1985](#doccc-1985)
-	+ [3.2 1986](#1986)
-		- [3.2.1 WCCC 1986](#wccc-1986)
-		- [3.2.2 DOCCC 1986](#doccc-1986)
-	+ [3.3 1987](#1987)
-* [4 See also](#see-also)
-* [5 Publications](#publications)
-* [6 Forum Posts](#forum-posts)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
-In [1985](DOCCC_1985 "DOCCC 1985"), while already affiliated with [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), and Nona commercialized as [Mephisto Mondial](Mephisto_Mondial "Mephisto Mondial") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Frans ported Nona to [Ed Schröder's](Ed_Schroder "Ed Schroder") faster interface code for the Mephisto hardware <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and Ed, not competing with [Rebel](Rebel "Rebel") this year, was even mentioned as Nona's co-author for that 1985 tournament <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and further acknowledged Frans did a better job than he did at that times <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. According to [Jan Louwman](Jan_Louwman "Jan Louwman"), Nona aka Mondial had a [selective](Selectivity "Selectivity") layer of three [plies](Ply "Ply") performing a kind of [Shannon Type B Strategy](Type_B_Strategy "Type B Strategy") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. 
-
-
-
 ## Quest
 
 

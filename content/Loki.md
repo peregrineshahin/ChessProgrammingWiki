@@ -13,32 +13,6 @@ The author reports progress on Loki in an own [CCC](CCC "CCC") forum thread [[3]
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Features](#features)
-	+ [2.1 Board Representation](#board-representation)
-	+ [2.2 Search](#search)
-	+ [2.3 Evaluation](#evaluation)
-	+ [2.4 Misc](#misc)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Engine](#chess-engine)
-	+ [5.2 Misc](#misc-2)
-* [6 References](#references)
-
-
-
-
-
-
-Loki is named after the [god](https://en.wikipedia.org/wiki/%C3%86sir) [Loki](https://en.wikipedia.org/wiki/Loki) in [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, 
-also a [shape shifter](https://en.wikipedia.org/wiki/Shapeshifting) who appears in the form of a [salmon](https://en.wikipedia.org/wiki/Salmon), a [mare](https://en.wikipedia.org/wiki/Mare), a [fly](https://en.wikipedia.org/wiki/Fly), and possibly an elderly woman named [Þökk](https://en.wikipedia.org/wiki/%C3%9E%C3%B6kk) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
-
-
-
 ## Features
 
 

@@ -14,29 +14,6 @@ In 1951, Minsky built the first randomly wired [neural network](Neural_Networks 
 
 
 
-### Contents
-
-
-* [1 HAL 9000](#hal-9000)
-* [2 Selected Publications](#selected-publications)
-	+ [2.1 1950 ...](#1950-...)
-	+ [2.2 1960 ...](#1960-...)
-	+ [2.3 1970 ...](#1970-...)
-	+ [2.4 1980 ...](#1980-...)
-	+ [2.5 2000 ...](#2000-...)
-* [3 Forum Posts](#forum-posts)
-* [4 External Links](#external-links)
-* [5 References](#references)
-
-
-
-
-
-
-Marvin Minsky and [Jack Good](Jack_Good "Jack Good") were adviser of the 1968 [Arthur C. Clarke](Category:Arthur_C._Clarke "Category:Arthur C. Clarke") and [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) film [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29), concerning [Self-replicating machine](https://en.wikipedia.org/wiki/Self-replicating_machine) and [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), the **H**euristically programmed **AL**gorithmic computer, and were referred to both in the movie and the book <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
-
-
-
 ## Selected Publications
 
 

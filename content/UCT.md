@@ -10,52 +10,6 @@ a popular [algorithm](Algorithms "Algorithms") that deals with the flaw of Monte
 
 
 
-### Contents
-
-
-* [1 Selection](#Selection)
-	+ [1.1 RAVE](#RAVE)
-	+ [1.2 PUCT](#PUCT)
-* [2 Quotes](#Quotes)
-	+ [2.1 Gian-Carlo Pascutto](#Gian-Carlo_Pascutto)
-	+ [2.2 Raghuram Ramanujan et al.](#Raghuram_Ramanujan_et_al.)
-* [3 See also](#See_also)
-* [4 Publications](#Publications)
-	+ [4.1 2000 ...](#2000_...)
-	+ [4.2 2005 ...](#2005_...)
-	+ [4.3 2010 ...](#2010_...)
-	+ [4.4 2015 ...](#2015_...)
-* [5 Forum Posts](#Forum_Posts)
-	+ [5.1 2010 ...](#2010_..._2)
-	+ [5.2 2015 ...](#2015_..._2)
-	+ [5.3 2020 ...](#2020_...)
-* [6 External Links](#External_Links)
-* [7 References](#References)
-
-
-
-
-
-
-In UCT, upper [confidence bounds](https://en.wikipedia.org/wiki/Confidence_interval) (UCB1) guide the selection of a node [[3]](#cite_note-3), treating selection as a [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit), where the crucial tradeoff the [gambler](https://en.wikipedia.org/wiki/Gambling) faces at each trial is between [exploration and exploitation](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search#Exploration_and_exploitation) - [exploitation](https://en.wikipedia.org/wiki/Exploitation_%28disambiguation%29) of the [slot machine](https://en.wikipedia.org/wiki/Slot_machine) that has the highest expected payoff and [exploration](https://en.wikipedia.org/wiki/Exploration) to get more information about the expected payoffs of the other machines. Child node j is selected which maximizes the UCT Evaluation: 
-
-
-
- [](File:UCTFormula.jpg) 
-where:
-
-
-
-* Xj is the [win ratio](Match_Statistics#ratio "Match Statistics") of the child
-* n is the number of times the parent has been visited
-* nj is the number of times the child has been visited
-* C is a constant to adjust the amount of exploration and incorporates the sqrt(2) from the UCB1 formula
-
-
-The first component of the UCB1 formula above corresponds to exploitation, as it is high for moves with high average win ratio. The second component corresponds to exploration, since it is high for moves with few simulations. 
-
-
-
 ### RAVE
 
 

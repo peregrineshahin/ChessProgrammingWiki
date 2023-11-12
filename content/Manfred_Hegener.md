@@ -19,21 +19,6 @@ to create the [Millennium 2000 GmbH](Millennium_2000_GmbH "Millennium 2000 GmbH"
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-	+ [1.1 WMCCC 1985](#wmccc-1985)
-	+ [1.2 WCCC 1986](#wccc-1986)
-* [2 Publications](#publications)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
 ### [WMCCC 1985](WMCCC_1985 "WMCCC 1985")
 
 

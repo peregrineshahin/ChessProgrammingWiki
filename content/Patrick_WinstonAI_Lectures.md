@@ -14,27 +14,6 @@ Winston is also author of various books on [Programming Languages](Programming "
 
 
 
-### Contents
-
-
-* [1 Selected Publications](#selected-publications)
-	+ [1.1 1970 ...](#1970-...)
-	+ [1.2 1980 ...](#1980-...)
-	+ [1.3 1990 ...](#1990-...)
-	+ [1.4 2000 ...](#2000-...)
-	+ [1.5 2010 ...](#2010-...)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
-<a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
-
-
-
 ### 1970 ...
 
 

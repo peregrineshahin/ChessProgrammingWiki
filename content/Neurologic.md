@@ -12,24 +12,6 @@ a chess program by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), which p
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-* [3 Exernal Links](#exernal-links)
-	+ [3.1 Chess Engine](#chess-engine)
-	+ [3.2 Misc](#misc)
-* [4 References](#references)
-
-
-
-
-
-
-* [DisasterArea](DisasterArea "DisasterArea")
-
-
 ## Forum Posts
 
 

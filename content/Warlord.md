@@ -13,29 +13,6 @@ Warlord Beta V1 played the [CCT4](CCT4 "CCT4") with respectable 5/11.
 
 
 
-### Contents
-
-
-* [1 Screenshot](#screenshot)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Program](#chess-program)
-	+ [5.2 Chess Variant](#chess-variant)
-	+ [5.3 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
- [](http://www.vrichey.de/warlord/) 
-Warlord [GUI](GUI "GUI") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
-
-
-
 ## Selected Games
 
 

@@ -13,20 +13,6 @@ Vaxchess was written in [C](C "C") and [assembly](Assembly "Assembly") <a id="ci
 
 
 
-### Contents
-
-
-* [1 Selected Games](#selected-games)
-	+ [1.1 Vaxchess - Lachex](#vaxchess---lachex)
-	+ [1.2 Vaxchess - Chat](#vaxchess---chat)
-* [2 External Links](#external-links)
-* [3 References](#references)
-
-
-
-
-
-
 ### Vaxchess - Lachex
 
 

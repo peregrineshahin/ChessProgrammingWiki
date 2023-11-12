@@ -12,34 +12,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Dragan Zdravkovic](Dragan_Zdravko
 
 
 
-### Contents
-
-
-* [1 Description](#description)
-* [2 Selected Games](#selected-games)
-* [3 See also](#see-also)
-* [4 Forum Posts](#forum-posts)
-* [5 External Links](#external-links)
-	+ [5.1 Chess Enginee](#chess-enginee)
-	+ [5.2 Misc](#misc)
-* [6 References](#references)
-
-
-
-
-
-
-Nebula, apparently a [bitboard](Bitboards "Bitboards") engine applying the [SSE4](SSE4 "SSE4") [popcnt](Population_Count "Population Count") instruction 
-<a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
-is able to [search in parallel](Parallel_Search "Parallel Search") on up to 16 processors. [Selectivity](Selectivity "Selectivity") is achieved through [null move pruning](Null_Move_Pruning "Null Move Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), 
-[futility pruning](Futility_Pruning "Futility Pruning") and since Version 2.0, [singular extensions](Singular_Extensions "Singular Extensions")
-<a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
-The basic [evaluation](Evaluation "Evaluation") considers [material](Material "Material"), [mobility](Mobility "Mobility"), [passed pawns](Passed_Pawn "Passed Pawn") and [king safety](King_Safety "King Safety"), 
-and subsequently [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [isolated](Isolated_Pawn "Isolated Pawn"), [doubled](Doubled_Pawn "Doubled Pawn"), and [backwards pawns](Backward_Pawn "Backward Pawn"), [pawn storms](King_Safety#PawnStorm "King Safety"), [candidates](Candidate_Passed_Pawn "Candidate Passed Pawn"), 
-and [rook on open/semi-open files](Rook_on_Open_File "Rook on Open File") and [7th rank](Rook_on_Seventh "Rook on Seventh") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
-
-
-
 ## Selected Games
 
 

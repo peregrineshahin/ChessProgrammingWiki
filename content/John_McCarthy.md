@@ -13,44 +13,6 @@ was an American researcher in computer science and pioneer in the field of [arti
 
 
 
-### Contents
-
-
-* [1 Photos](#photos)
-* [2 Kotok-McCarthy](#kotok-mccarthy)
-* [3 Quotes](#quotes)
-	+ [3.1 Alpha-Beta](#alpha-beta)
-	+ [3.2 What is AI?](#what-is-ai.3f)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1955 ...](#1955-...)
-	+ [4.2 1960 ...](#1960-...)
-	+ [4.3 1980 ...](#1980-...)
-	+ [4.4 2000 ...](#2000-...)
-* [5 See also](#see-also)
-* [6 Postings](#postings)
-* [7 External Links](#external-links)
-* [8 References](#references)
-
-
-
-
-
-
- [](File:JohnMcCarthy.jpg) 
-John McCarthy, playing chess at Stanford's [IBM 7090](IBM_7090 "IBM 7090"), 1967 <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
-
-
-
- [](File:ShannonMcCarthyFredkinWeizenbaum.jpg) 
-[Claude Shannon](Claude_Shannon "Claude Shannon"), John McCarthy, [Ed Fredkin](Edward_Fredkin "Edward Fredkin") and [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum) (1966) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
-
-
-
- [](File:AdelsonVelskyMcCarthy.jpg) 
-[Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and John McCarthy playing chess, Soviet-American computer science conference, [Urgench](https://en.wikipedia.org/wiki/Urgench), 1979 <a id="cite-note-11" href="#cite-ref-11">[11]</a>
-
-
-
 ## Kotok-McCarthy
 
 

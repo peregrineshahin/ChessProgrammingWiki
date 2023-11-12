@@ -8,46 +8,6 @@ The [iterative](Iteration "Iteration") [SEE](Static_Exchange_Evaluation "Static 
 
 
 
-### Contents
-
-
-* [1 Traversal of To-Attacks](#traversal-of-to-attacks)
-* [2 SEE a Capture](#see-a-capture)
-* [3 Pseudo C-Code](#pseudo-c-code)
-* [4 Traces](#traces)
-	+ [4.1 Position 1](#position-1)
-	+ [4.2 Position 2](#position-2)
-* [5 See also](#see-also)
-* [6 Forum Posts](#forum-posts)
-	+ [6.1 2000 ...](#2000-...)
-	+ [6.2 2010 ...](#2010-...)
-	+ [6.3 2020 ...](#2020-...)
-* [7 References](#references)
-
-
-
-
-
-
-Assuming this arbitrary [Board-Definition](Bitboard_Board-Definition#CBoardDef "Bitboard Board-Definition") with color as least significant piece bit and "even" pieces are the white ones, following routine returns a single populated square set and passes the least valuable piece per [C++](Cpp "Cpp") reference to the caller. If no more piece is found for the appropriate side, it returns an empty set.
-
-
-
-
-```C++
-
-U64 Board::getLeastValuablePiece(U64 attadef, int bySide, int &piece)
-{
-   for (piece = nWhitePawn + bySide; piece <= nWhiteKing + bySide; piece += 2) {
-      U64 subset = attadef & pieceBB[piece];
-      if ( subset )
-         return subset & -subset; // single bit
-   }
-   return 0; // empty set
-}
-
-```
-
 ## SEE a Capture
 
 

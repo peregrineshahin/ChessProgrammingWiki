@@ -12,25 +12,6 @@ a chess program written in [Fortran](Fortran "Fortran") <a id="cite-note-2" href
 
 
 
-### Contents
-
-
-* [1 Etymology](#etymology)
-* [2 Selected Games](#selected-games)
-	+ [2.1 ACM 1977](#acm-1977)
-	+ [2.2 ACM 1984](#acm-1984)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-The program's name combines [Greek](https://en.wikipedia.org/wiki/Greek_language) <a id="cite-note-6" href="#cite-ref-6">[6]</a> and [Latin](https://en.wikipedia.org/wiki/Latin) <a id="cite-note-7" href="#cite-ref-7">[7]</a> roots to mean "strange or alien tree", as explained by Miller to [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj") during [ACM 1984](ACM_1984 "ACM 1984") <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
-
-
-
 ## Selected Games
 
 

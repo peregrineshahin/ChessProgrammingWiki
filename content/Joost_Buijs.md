@@ -14,24 +14,6 @@ Joost already started chess programming in fall 1977, when he developed Nightmar
 
 
 
-### Contents
-
-
-* [1 Publications](#publications)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 2010 ...](#2010-...)
-	+ [2.2 2015 ...](#2015-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* Joost Buijs (**1995**). *[Aegons' Nightmare](Aegon_1995 "Aegon 1995")*. [Computer Chess Reports Vol. 5 No. 2](Computer_Chess_Reports "Computer Chess Reports") pp. 5
-
-
 ## Forum Posts
 
 

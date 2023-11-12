@@ -14,36 +14,6 @@ His research interest covers the broad range of mathematics, physics, [informati
 
 
 
-### Contents
-
-
-* [1 Test Suite for Chess Programs](#test-suite-for-chess-programs)
-* [2 BPIP-DFISA](#bpip-dfisa)
-* [3 Smith Notation](#smith-notation)
-* [4 Selected Publications](#selected-publications)
-	+ [4.1 1989](#1989)
-	+ [4.2 1990 ...](#1990-...)
-	+ [4.3 1995 ...](#1995-...)
-	+ [4.4 2000 ...](#2000-...)
-	+ [4.5 2010 ...](#2010-...)
-* [5 Forum Posts](#forum-posts)
-	+ [5.1 2018](#2018)
-	+ [5.2 2019](#2019)
-	+ [5.3 2020](#2020)
-	+ [5.4 2021](#2021)
-* [6 External Links](#external-links)
-* [7 References](#references)
-
-
-
-
-
-
-In 1993, along with [Kevin J. Lang](index.php?title=Kevin_J._Lang&action=edit&redlink=1 "Kevin J. Lang (page does not exist)"), Warren D. Smith published and described a test suite for chess programs of about 5500 positions, optically scanned from chess books.
-The suite is arranged in a number of files, each file being thematic by difficulty, tactical, positional and others <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
-
-
-
 ## BPIP-DFISA
 
 

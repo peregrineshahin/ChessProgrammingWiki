@@ -15,27 +15,6 @@ There were attempts to develop a new NICBase front-end by [Peter van Diepen](Pet
 
 
 
-### Contents
-
-
-* [1 See also](#see-also)
-* [2 Forum Posts](#forum-posts)
-	+ [2.1 1989](#1989)
-	+ [2.2 1990 ...](#1990-...)
-	+ [2.3 1995 ...](#1995-...)
-* [3 External Links](#external-links)
-* [4 References](#references)
-
-
-
-
-
-
-* [ChessBase (Database)](ChessBase_(Database) "ChessBase (Database)")
-* [NIC-Key](NIC-Key "NIC-Key")
-* [TascBase](TascBase "TascBase")
-
-
 ## Forum Posts
 
 
