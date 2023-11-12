@@ -1,0 +1,39 @@
+name: Pull from Wiki and Push to Content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 10 * * *'
+
+jobs:
+  fetch-wiki-content:
+    name: Fetch Wiki Content and Push to Main Repository
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout base code
+        uses: actions/checkout@v2
+        with:
+          path: base-code
+
+      - name: Checkout wiki code
+        uses: actions/checkout@v2
+        with:
+          repository: ${{github.repository}}.wiki
+          path: wiki-code  # You can choose any folder name
+
+      - name: Copy wiki content to base code
+        run: |
+          cp -r wiki-code/. base-code/content
+
+      - name: Remove wiki-code folder
+        run: rm -rf base-code/wiki-code
+
+      - name: Push to base code
+        run: |
+          cd base-code
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Add changes from wiki" && git push
