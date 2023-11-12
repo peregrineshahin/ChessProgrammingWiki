@@ -1,8 +1,6 @@
 {{ $parts := slice site.Params.doks.docsRepo }}
 
-{{ if (eq site.Params.doks.repoHost "GitHub") }}
-  {{ $parts = $parts | append "blob" site.Params.doks.docsRepoBranch }}
-{{ else if (eq site.Params.doks.repoHost "Gitea") }}
+{{ if (eq site.Params.doks.repoHost "Gitea") }}
   {{ $parts = $parts | append "_edit" site.Params.doks.docsRepoBranch }}
 {{ else if (eq site.Params.doks.repoHost "GitLab") }}
   {{ $parts = $parts | append "-/blob" site.Params.doks.docsRepoBranch }}
@@ -12,20 +10,16 @@
   {{ $parts = $parts | append "browse" site.Params.doks.docsRepoBranch }}
 {{ end }}
 
-{{ if isset .Site.Params "docsreposubpath" }}
-  {{ if not (eq site.Params.doks.docsRepoSubPath "") }}
-    {{ $parts = $parts | append site.Params.doks.docsRepoSubPath }}
-  {{ end }}
-{{ end }}
-
-{{ $filePath := replace .File.Path "\\" "/" }}
+{{ $filePath := replaceRE "(.*)(\\.\\w+)$" "$1" (replace .File.Path "\\" "/") }}
 
 {{ $lang := "" }}
 {{ if site.Params.doks.multilingualMode }}
   {{ $lang = .Lang }}
 {{ end }}
 
-{{ $parts = $parts | append "content" $lang $filePath }}
+{{ $parts = $parts | append $filePath }}
+
+{{ $parts = $parts | append "_edit" }}
 
 {{ $url := delimit $parts "/" }}
 
