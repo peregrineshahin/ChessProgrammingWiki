@@ -3,11 +3,6 @@ title: Null Move Pruning
 ---
 **[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Pruning](Pruning "Pruning") \* Null Move Pruning**
 
-
-
- [](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc5) [Samuel Bak](Category:Samuel_Bak "Category:Samuel Bak") - Signals [[1]](#cite_note-1) 
-**Null Move Pruning**,  
-
 also called Null Move Heuristic (**NMH**), is a method based on the [Null Move Observation](Null_Move_Observation "Null Move Observation") to reduce the search space by trying a ["null" or "passing" move](Null_Move "Null Move"), then seeing if the score of the subtree search is still high enough to cause a beta cutoff. Nodes are saved by [reducing](Reductions "Reductions") the [depth](Depth "Depth") of the subtree under the null move. The value of this depth reduction is known as [R](Depth_Reduction_R "Depth Reduction R"). 
 
 
