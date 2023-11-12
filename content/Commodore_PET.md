@@ -11,13 +11,6 @@ The initial PET 2001 system combined a [6502](6502 "6502") processor, [Commodore
 External peripherals include the [Commodore 2031](https://en.wikipedia.org/wiki/Commodore_2031) [floppy disk](https://en.wikipedia.org/wiki/Floppy_disk) drive.
 Subsequent improved systems where the PET 3000 and PET 4000, in Europe shipped as CBM 3000 and CBM 8000 (Commodore Business Machines) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Category:PET](Category:PET "Category:PET")

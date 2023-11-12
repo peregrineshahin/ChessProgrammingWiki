@@ -10,19 +10,6 @@ an American physicist, computer scientist, pioneer of [digital physics](https://
 
 Fredkin has been broadly interested in computation, hardware as well as software. In the early 1960s, he wrote the first [PDP-1](PDP-1 "PDP-1") [assembler](Assembly "Assembly") at [BBN](https://en.wikipedia.org/wiki/Bolt,_Beranek_and_Newman). He is inventor of the [trie](https://en.wikipedia.org/wiki/Trie) data structure <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the [Fredkin gate](https://en.wikipedia.org/wiki/Fredkin_gate) and the [Billiard-Ball Computer Model](https://en.wikipedia.org/wiki/Billiard-Ball_Computer) for [reversible computing](https://en.wikipedia.org/wiki/Reversible_computing). His primary contributions include his work on reversible computing and [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton). While [Konrad Zuse's](Konrad_Zuse "Konrad Zuse") book, [Calculating Space](https://en.wikipedia.org/wiki/Calculating_Space), mentioned the importance of reversible computation, the Fredkin gate represented the essential breakthrough <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He has further been involved in [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") research, and computer chess. Ed Fredkin instrumented the original conception and hardware design of the *Chess-orientated Processing System*  [CHEOPS](CHEOPS "CHEOPS"), which was used by [Baisley's](Alan_Baisley "Alan Baisley") [Tech 2](Tech#Tech2 "Tech") and a [brute force](Brute-Force "Brute-Force") version of [Greenblatt's](Richard_Greenblatt "Richard Greenblatt") [Mac Hack](Mac_Hack "Mac Hack") at the end of the 70s <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 The Fredkin Prize](#the-fredkin-prize)
-- [3 Teams honored at AAAI-97](#teams-honored-at-aaai-97)
-- [4 Quotes](#quotes)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 1960 ...](#1960-...)
-  - [5.2 1980 ...](#1980-...)
-  - [5.3 2000 ...](#2000-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/collections/accession/102631244)

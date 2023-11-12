@@ -10,14 +10,6 @@ Carlos worked with various chess program authors not only on their [book](Openin
 with [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") on [Yace](Yace "Yace") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, with [Tim Foden](Tim_Foden "Tim Foden") on [Green Light Chess](Green_Light_Chess "Green Light Chess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, with [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") on [Deep Sjeng](Deep_Sjeng "Deep Sjeng"), with [Sergei Markoff](Sergei_Markoff "Sergei Markoff") on [SmarThink](SmarThink "SmarThink") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, with [Igor Korshunov](Igor_Korshunov "Igor Korshunov") on [WildCat](WildCat "WildCat") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, with [Carmelo Calzerano](Carmelo_Calzerano "Carmelo Calzerano") on [Leila](Leila "Leila"), and with [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") on [Gaviota](Gaviota "Gaviota") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, to name a few.
 Carlos was also involved in providing opening books for the [Arena](Arena "Arena") [GUI](GUI "GUI").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

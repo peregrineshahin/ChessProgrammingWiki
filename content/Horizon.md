@@ -10,17 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compatible chess engine by primary author [Ron
 Written in [C](C "C"), the programming started in July 2001, first release was already in October 2001.
 Initially running atop a much-modified version of [Colin Frayn's](Colin_Frayn "Colin Frayn") open-source [Beowulf](Beowulf "Beowulf") infrastructure, there's very little of Beowulf that remains within Horizon and less with each release <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Tournament Play](#tournament-play)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

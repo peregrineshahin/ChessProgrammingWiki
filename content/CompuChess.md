@@ -8,15 +8,6 @@ title: CompuChess
 
 an early [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-Bit processor running at 1.78 MHz, with 2 KiB [ROM](Memory#ROM "Memory") and 256 bytes [RAM](Memory#RAM "Memory"), developed by [David B. Goodrich](index.php?title=David_B._Goodrich&action=edit&redlink=1 "David B. Goodrich (page does not exist)") & Associates from September 1976 until April 1977, manufactured by *Data Cash Systems Inc.* and market by a company called Staid Inc., also of [Largo, Florida](https://en.wikipedia.org/wiki/Largo,_Florida), available since November 1977 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Clones](#clones)
-- [2 Quotes](#quotes)
-- [3 Namesake](#namesake)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Clones
 
 In 1978, an exact copy of the [ROM](Memory#ROM "Memory") appeared in the [Novag](Novag "Novag") [Chess Champion MK I](Chess_Champion_MK_I "Chess Champion MK I") and [Sugarman's](Joseph_Sugarman "Joseph Sugarman") JS&A computer <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the ROM produced by the same manufacturer *General Instruments Corporation*, who informed Data Cash Systems on that incident in June 1978 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Since Data Cash Systems didn't adequately protect their copyright, they lost their [court case vs. JS&A Group](Joseph_Sugarman#DataCashSystemsvsJS.26A "Joseph Sugarman") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, and then their appeal <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

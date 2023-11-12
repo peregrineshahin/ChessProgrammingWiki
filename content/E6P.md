@@ -7,14 +7,6 @@ title: E6P
 
 a chess program by [Stephen B. Streater](Stephen_B._Streater "Stephen B. Streater") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, which played the [1st Computer Olympiad 1989](1st_Computer_Olympiad#Chess "1st Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London), running on an [ARM2](ARM2 "ARM2") processor of an [Acorn Archimedes](Acorn_Archimedes "Acorn Archimedes") with a clock frequency of 8 MHz. It was a simple but pretty fast chess program, so named because it could reach 6 [ply](Ply "Ply") in a full width [search](Search "Search"). As noticed by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), who also participated at the Olympiad with [HIARCS](HIARCS "HIARCS"), [Rebel](Rebel "Rebel") operator [Jan Louwman](Jan_Louwman "Jan Louwman") took a keen interest in this machine - with possible impact on Rebel's career <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. According to [Chris Whittington](Chris_Whittington "Chris Whittington"), another Olympic contender with his [Chess Player 2150](Chess_Player_2150 "Chess Player 2150"), E6P's author talked to the other programmers between rounds, and added one search heuristic after another during the tournament <a id="cite-note-4" href="#cite-ref-4">[4]</a>. E6P gained 1½ due to a win versus [Échec 1.5](%C3%89chec "Échec") and a draw from the other British newcomer, [Woodpusher](Woodpusher "Woodpusher"), and finished ahead of [John Hamlen's](John_Hamlen "John Hamlen") program.
 
-## Contents
-
-- [1 C_897d](#c-897d)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## C_897d
 
 As reported by Stephen B. Streater in 1996 during the [MChess](MChess "MChess") [killer book](MChess#killerbook "MChess") discussion <a id="cite-note-5" href="#cite-ref-5">[5]</a>, his program, now dubbed **C_897d**, was ported to a [StrongARM](index.php?title=StrongARM&action=edit&redlink=1 "StrongARM (page does not exist)") processor, reaching 750,000 [nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

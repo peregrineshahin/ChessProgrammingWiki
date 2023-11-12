@@ -5,15 +5,6 @@ title: BratkoKopec Test
 
 The **Bratko-Kopec Test** (**BK-Test**) was designed by [Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Danny Kopec](Danny_Kopec "Danny Kopec") in 1982 at the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The Bratko-Kopec Test was widely discussed <a id="cite-note-2" href="#cite-ref-2">[2]</a>, updated <a id="cite-note-3" href="#cite-ref-3">[3]</a> and revisited <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Quote](#quote)
-- [2 EPD-Record](#epd-record)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Quote
 
 by [Danny Kopec](Danny_Kopec "Danny Kopec") <a id="cite-note-7" href="#cite-ref-7">[7]</a>:

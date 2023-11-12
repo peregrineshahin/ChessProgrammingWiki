@@ -12,13 +12,6 @@ He holds a M.Sc. from [Technical University of Budapest](https://en.wikipedia.or
 Balázs Jákó is author of the [FPS game engine](https://en.wikipedia.org/wiki/First-person_shooter_engine) *Merlin3D* using OpenGL, written in [C++](Cpp "Cpp") and [Lua](<https://en.wikipedia.org/wiki/Lua_(programming_language)>),
 and is further author of the chess engine [Merlin](</Merlin_(HU)> "Merlin (HU)"), which competed at various [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open") tournaments, where it won three times.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Blog Posts](#blog-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Balázs Jákó (**2011**). *Fast Hydraulic and Thermal Erosion on GPU*. M.Sc. thesis, Supervisor [Balázs Tóth](https://hu.linkedin.com/in/bal%C3%A1zs-t%C3%B3th-1b151329), [Eurographics 2011](http://eg2011.bangor.ac.uk/), [pdf](http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf)

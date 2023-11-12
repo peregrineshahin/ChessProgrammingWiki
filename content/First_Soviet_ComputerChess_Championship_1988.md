@@ -8,15 +8,6 @@ The **First Soviet Computer-Chess Championship 1988** was held in [Ulan-Ude](htt
 
 Six programs and computers participated, three of them variants of the [Strategist](Strategist "Strategist") program. There were four notable absentees. Not present were [Kaissa](Kaissa "Kaissa") (retired), [Pioneer](Pioneer "Pioneer") (too many bugs?), [Butenko's](index.php?title=Vladimir_Butenko&action=edit&redlink=1 "Vladimir Butenko (page does not exist)") [program](index.php?title=Eureka&action=edit&redlink=1 "Eureka (page does not exist)") (he required a mainframe) and [V. Petrenko's](index.php?title=V._Petrenko&action=edit&redlink=1 "V. Petrenko (page does not exist)") program [Elektronika IM-01](Elektronika_IM "Elektronika IM") (travel problems). [Centaur](Centaur "Centaur") by [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev") won with 4/5, and had two identical games versus [Strategist-1](Strategist "Strategist") and [Strategist](Strategist "Strategist") which ended in a draw <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 Games](#games)
-- [3 Chess-Programming Association](#chess-programming-association)
-- [4 See also](#see-also)
-- [5 Report](#report)
-- [6 References](#references)
-
 ## Final Standing
 
 |  #

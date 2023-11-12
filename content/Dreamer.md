@@ -9,16 +9,6 @@ title: Dreamer
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible [open source chess engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License Version 3](Free_Software_Foundation#GPL "Free Software Foundation"), developed by [Kris McAulay](index.php?title=Kris_McAulay&action=edit&redlink=1 "Kris McAulay (page does not exist)"), [Walter van Niftrik](index.php?title=Walter_van_Niftrik&action=edit&redlink=1 "Walter van Niftrik (page does not exist)"), [Lawrence Sebald](index.php?title=Lawrence_Sebald&action=edit&redlink=1 "Lawrence Sebald (page does not exist)") et al. since 2003, first released in November 2006.
 Dreamer comes with its own [GUI](GUI "GUI") [DreamChess](DreamChess "DreamChess"), which can also interface other Chess Engine Communication Protocol compatible engines. Primary target platforms are [Windows](Windows "Windows"), [Mac OS X](Mac_OS "Mac OS") and [Linux](Linux "Linux") systems.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine and GUI](#chess-engine-and-gui)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Dreamer is a [bitboard](Bitboards "Bitboards") engine with [table-driven move generation](Table-driven_Move_Generation "Table-driven Move Generation"), and applies [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table") and [iterative deepening](Iterative_Deepening "Iterative Deepening"). Its [evaluation](Evaluation "Evaluation") considers [material](Material "Material"), [development](Development "Development"), [pawn structure](Pawn_Structure "Pawn Structure"), [bad bishop](Bad_Bishop "Bad Bishop"), some rook bonuses, and [king tropism](King_Safety#KingTropism "King Safety").

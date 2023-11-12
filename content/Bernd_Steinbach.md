@@ -8,16 +8,6 @@ title: Bernd Steinbach
 
 a German computer scientist and Professor of software technology and programming techniques at the [Freiberg University of Mining and Technology](https://en.wikipedia.org/wiki/Technische_Universit%C3%A4t_Bergakademie_Freiberg) in [Freiberg, Saxony](https://en.wikipedia.org/wiki/Freiberg,_Saxony). His research interest covers the [satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) (SAT) for Logic Equations <a id="cite-note-2" href="#cite-ref-2">[2]</a>, also applied to the chess board <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 2012, along with [Christian Posthoff](Christian_Posthoff "Christian Posthoff"), he solved a [4-coloring](https://en.wikipedia.org/wiki/Four_color_theorem) of 17x17 grids without monochromatic rectangles <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1979](#1979)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>

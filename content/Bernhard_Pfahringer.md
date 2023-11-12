@@ -8,15 +8,6 @@ title: Bernhard Pfahringer
 
 an Austrian computer scientist and [AI](Artificial_Intelligence "Artificial Intelligence") researcher, since 2000 associate professor at the [Computer Science Department](http://www.cs.waikato.ac.nz/) at the [University of Waikato](https://en.wikipedia.org/wiki/University_of_Waikato), [New Zealand](https://en.wikipedia.org/wiki/New_Zealand). His research interests covers [Machine Learning](Learning "Learning") and [Programming Languages](Programming "Programming").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

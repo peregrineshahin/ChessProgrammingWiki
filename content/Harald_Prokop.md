@@ -11,14 +11,6 @@ Harald Prokop received an undergraduate degree in computer science from the [Uni
 He researched and published on [cache-oblivious algorithms](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm), co-authored the paper on using [De Bruijn sequences](De_Bruijn_Sequence "De Bruijn Sequence") for [bitscan](BitScan "BitScan") purposes,
 and was involved in the [Cilk](Cilk "Cilk") project <a id="cite-note-4" href="#cite-ref-4">[4]</a> and the development of the chess program [CilkChess](CilkChess "CilkChess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. During the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), while CilkChess was in the hand of Charles Leiserson and [Don Dailey](Don_Dailey "Don Dailey"), Harald Prokop served as operator of [Mini](Mini "Mini").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

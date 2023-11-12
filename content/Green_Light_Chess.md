@@ -8,17 +8,6 @@ title: Green Light Chess
 
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Tim Foden](Tim_Foden "Tim Foden"), written in [C++](Cpp "Cpp"), version 2.09 relying on an own 32-bit [Windows](Windows "Windows") [GUI](GUI "GUI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Tournament Play](#tournament-play)
-- [3 Selected Games](#selected-games)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Green Light started its life in early 1997 as [0x88](0x88 "0x88") engine, and since version 2.xx evolved to [bitboards](Bitboards "Bitboards") with an [8x8 board](8x8_Board "8x8 Board").

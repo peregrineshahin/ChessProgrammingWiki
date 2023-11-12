@@ -5,20 +5,6 @@ title: Draw Evaluation
 
 It is important for the evaluation function to recognize the endgame positions which are likely [drawn](Draw "Draw"), even though one side has a nominal advantage. This page is devoted to listing some of them. More of that kind of knowledge can be found in the [KPK](KPK "KPK") section.
 
-## Contents
-
-- [1 Obvious Draws](#obvious-draws)
-- [2 Simple Heuristics](#simple-heuristics)
-- [3 Complex Heuristics](#complex-heuristics)
-- [4 One-sided Heuristics](#one-sided-heuristics)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2000 ...](#2000-...)
-  - [6.2 2010 ...](#2010-...)
-  - [6.3 2015 ...](#2015-...)
-  - [6.4 2020 ...](#2020-...)
-- [7 References](#references)
-
 ## Obvious Draws
 
 According to the rules of a dead position, Article 5.2 b, when there is no possibility of [checkmate](Checkmate "Checkmate") for either side with any series of legal moves, the position is an immediate draw if

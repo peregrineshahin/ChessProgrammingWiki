@@ -13,12 +13,6 @@ a French computer chess and [Othello](Othello "Othello") programmer, and owner o
 [Soft Jacqueline Bras](Soft_Jacqueline_Bras "Soft Jacqueline Bras") <a id="cite-note-6" href="#cite-ref-6">[6]</a>,
 and most recently, [Chess Ebbiz 9](Chess_Ebbiz "Chess Ebbiz") written in [x86](X86 "X86") [Assembly](Assembly "Assembly"), which was plagued by some bugs during the [WCSC 2017](WCSC_2017 "WCSC 2017").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos
 
 [](https://web.archive.org/web/20021201212457/http://www.ludochess.com/fccc2002/tournoi.php3)

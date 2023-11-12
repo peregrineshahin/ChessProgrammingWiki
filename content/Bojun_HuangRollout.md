@@ -8,13 +8,6 @@ title: Bojun HuangRollout
 
 a Chinese computer scientist and associate researcher at the System Algorithms Research Group at [Microsoft](Microsoft "Microsoft") [Research](https://en.wikipedia.org/wiki/Microsoft_Research), Asia - previously affiliated with the [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), [Beijing](https://en.wikipedia.org/wiki/Beijing), China. His research interests span broadly across the theoretical aspects of computer science, including the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation), and [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence), along with computer games and in particular computer [Go](Go "Go") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Rollout Paradigm](#rollout-paradigm)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Rollout Paradigm
 
 In his 2015 [AAAI](AAAI "AAAI") paper *Pruning Game Tree by Rollouts* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Bojun Huang suggests that two competing search approaches, traditional search techniques such as [Alpha-Beta](Alpha-Beta "Alpha-Beta") and [MT-SSS\*](SSS*_and_Dual*#SSStarandDualStarAsMT "SSS* and Dual*"), versus the recent [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") may be unified under the **rollout** paradigm <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

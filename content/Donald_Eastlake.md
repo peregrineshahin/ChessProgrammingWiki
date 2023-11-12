@@ -8,15 +8,6 @@ title: Donald Eastlake
 
 an American mathematician, computer scientist, and pioneer in [network protocols](https://en.wikipedia.org/wiki/Communications_protocol) and [security](https://en.wikipedia.org/wiki/Network_security). As undergraduate at [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") and fellow of [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), Eastlake was co-developer of [ITS](index.php?title=ITS&action=edit&redlink=1 "ITS (page does not exist)") (Incompatible Timesharing System), the [PDP-6](PDP-6 "PDP-6") operating system on which [MacLisp](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)") was developed <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and [The Greenblatt Chess Program](Mac_Hack "Mac Hack") or *Mac Hack VI* in 1966 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Protocols](#protocols)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1967 ...](#1967-...)
-  - [2.2 2000 ...](#2000-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Protocols
 
 Donald Eastlake has been involved with network protocols and security <a id="cite-note-4" href="#cite-ref-4">[4]</a> for many years with [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a><a id="cite-note-6" href="#cite-ref-6">[6]</a>, [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, [Cybercash](https://en.wikipedia.org/wiki/CyberCash), and [Digital Equipment Corporation](index.php?title=DEC&action=edit&redlink=1 "DEC (page does not exist)") <a id="cite-note-8" href="#cite-ref-8">[8]</a>. He is the chairman of [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11) Task Group's, whose goal is to produce an amendment to the 802.11 ([Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)) standard supporting [mesh networking](https://en.wikipedia.org/wiki/Mesh_networking), and was heavily involved in developing the [802.11i](https://en.wikipedia.org/wiki/IEEE_802.11i-2004) ([Robust Security](https://en.wikipedia.org/wiki/Robust_Security_Network)) standard. He also co-chairs the [IETF TRILL](http://www.ietf.org/html.charters/trill-charter.html) working group which is applying routing technology to [layer 2 addresses](https://en.wikipedia.org/wiki/Network_switch#Layer_2). Donald has authored over 42 [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) [RFCs](https://en.wikipedia.org/wiki/Request_for_Comments), including the only IETF RFC with the word “sex” in its title <a id="cite-note-9" href="#cite-ref-9">[9]</a>, and two books.

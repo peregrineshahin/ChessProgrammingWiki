@@ -11,15 +11,6 @@ Its [piece coding](Pieces#PieceCoding "Pieces") allows [move generation](Move_Ge
 and to [push](Stack "Stack") the [move](Moves "Moves") to a [list](Move_List "Move List") otherwise without affecting flags, to post-branch [if positive](https://en.wikibooks.org/wiki/X86_Assembly/Control_Flow#Jump_if_Not_Signed) after a [capture](Captures "Captures") was generated, or to continue with the next square of the same direction after a [quiet move](Quiet_Moves "Quiet Moves") otherwise <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Freccia played the [CCC 2009](CCC_2009 "CCC 2009"), the [IOCSC 2010](IOCSC_2010 "IOCSC 2010"), and the [IOCSC 2011](IOCSC_2011 "IOCSC 2011").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Drago](Drago "Drago")

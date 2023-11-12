@@ -8,15 +8,6 @@ title: Chess 2001
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") developed by [Intelligent Software](Intelligent_Software "Intelligent Software") based on their experimental development program [Intelligent Chess Software](Intelligent_Chess_Software "Intelligent Chess Software"), which in turn was based on [Richard Lang's](Richard_Lang "Richard Lang") [Cyrus](Cyrus "Cyrus") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, written in [Z80](Z80 "Z80") [assembly language](Assembly "Assembly"). The computer had a 16 KiB [ROM](Memory#ROM "Memory"), and a 2 KiB [RAM](Memory#RAM "Memory"), the Z80 processor ran at 4 MHz in the customary version. The machine was manufactured by [Newcrest Technology](Newcrest_Technology "Newcrest Technology") and released for sale in early 1984 as CXG Chess 2001. It was further sold in the USA as the ComputaChess Champion and in Australia as Hanimex HCG1900 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Tournaments](#tournaments)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Tournaments
 
 Chess 2001 played a strong [European MCC 1983](European_MCC_1983 "European MCC 1983"), becoming runner-up behind [Advance 3.0](Advance "Advance"), and two Chess 2001s at 8 MHz competed at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budapest](https://en.wikipedia.org/wiki/Budapest) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, finishing 6th and 8th out of 18 competitors.

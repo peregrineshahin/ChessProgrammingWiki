@@ -18,12 +18,6 @@ he was involved in the design and development of chess tutorials of [dedicated c
 Weigel wrote for [Modul](Modul "Modul"), and was associate of the [First Vienna Computer Chess Club](index.php?title=First_Vienna_Computer_Chess_Club&action=edit&redlink=1 "First Vienna Computer Chess Club (page does not exist)") (Nimzo Wekstatt) around [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 and involved in early [Nimzo](Nimzo "Nimzo") marketing and distribution <a id="cite-note-10" href="#cite-ref-10">[10]</a>. He represented and operated [Nimzo](Nimzo "Nimzo") at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in [Jakarta](https://en.wikipedia.org/wiki/Jakarta). Around 2007, Heli Weigel set up an own multiple brain chess system called **Gecko**, using [Rybka](Rybka "Rybka"), [Zappa](Zappa "Zappa") and [Naum](Naum "Naum") as its basic engines <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 References](#references)
-
 ## Selected Publications
 
 - [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger), [Gerd Treppner](https://de.chessbase.com/post/gerd-treppner-verstorben), Helmut Weigel (**1989**). *[Academy, Buch für Mephisto ...](https://www.niggemann.com/en/books-media/academy-buch-fur-mephisto.html)*. [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)

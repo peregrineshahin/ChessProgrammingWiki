@@ -8,14 +8,6 @@ title: Fred Swartz
 
 an American computer scientist and former computer chess programmer. In the early 70s, at [RCA](https://en.wikipedia.org/wiki/RCA) Systems Programming division in [Cinnaminson, NJ](https://en.wikipedia.org/wiki/Cinnaminson_Township,_New_Jersey), Fred Swartz started chess programming along with [Victor Berman](Victor_Berman "Victor Berman") to develop the chess program [CHAOS](CHAOS "CHAOS"). The take over of RCA by [Sperry Univac](https://en.wikipedia.org/wiki/Sperry_Corporation) eventually moved everything to [Blue Bell, Pennsylvania](https://en.wikipedia.org/wiki/Blue_Bell,_Pennsylvania), until CHAOS was affiliated with the Computing Center of the [University of Michigan](University_of_Michigan "University of Michigan"), [Ann Arbor](https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan), and its team grew in the meantime when [Mike Alexander](Mike_Alexander "Mike Alexander"), [Ira Ruben](Ira_Ruben "Ira Ruben"), [William Toikka](William_Toikka "William Toikka"), [Joe Winograd](Joe_Winograd "Joe Winograd") and later [Mark Hersey](Mark_Hersey "Mark Hersey") and [Jack O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe") joined by and by <a id="cite-note-2" href="#cite-ref-2">[2]</a><a id="cite-note-3" href="#cite-ref-3">[3]</a>. CHAOS was one of the strongest programs of the 70s and early 80s, using an unique, knowledge based and selective [best-first](Best-First "Best-First"), iterative widening approach, keeping the [search tree](Search_Tree "Search Tree") in memory <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Quotes](#quotes)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos & Games
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-432a034fb7102)

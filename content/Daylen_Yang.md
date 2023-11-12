@@ -8,14 +8,6 @@ title: Daylen Yang
 
 an American electrical engineer, in 2017 graduated from [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), where he worked and published on visual and textual representations in the field of [machine learning](Learning "Learning"), such as visualizing [residual neural networks](Neural_Networks#Residual "Neural Networks") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Stockfish](#stockfish)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Stockfish
 
 Since 2010, Daylen Yang is member of the [Stockfish](Stockfish "Stockfish") team <a id="cite-note-3" href="#cite-ref-3">[3]</a>, where he is application author of Stockfish for [Mac](Macintosh "Macintosh"), and author of the Stockfish website <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

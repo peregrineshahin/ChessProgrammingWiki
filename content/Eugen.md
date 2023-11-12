@@ -8,18 +8,6 @@ title: Eugen
 a chess program developed by [Eugenio Castillo Jiménez](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez") to run under [MS-DOS](MS-DOS "MS-DOS"). Eugen participated at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in [Jakarta](https://en.wikipedia.org/wiki/Jakarta), the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris) and the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn). Further, Eugen played various [Spanish Computer Chess Championships](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship"), and won the [SCCC 1996](SCCC_1996 "SCCC 1996") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 According to Eugenio <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Eugen was partially inspired by [open source programs](Category:Open_Source "Category:Open Source") like [Turbo Chess](Turbo_Chess "Turbo Chess"), [GNU Chess](GNU_Chess "GNU Chess"), and [Crafty](Crafty "Crafty"). It used 16 bit [attacktables](Attack_and_Defend_Maps "Attack and Defend Maps") which were [incrementally updated](Incremental_Updates "Incremental Updates") in every [make](Make_Move "Make Move") and [unmake move](Unmake_Move "Unmake Move"), the [search](Search "Search") uses [iterative deepening](Iterative_Deepening "Iterative Deepening"), and [recursive nullmove](Null_Move_Pruning "Null Move Pruning") ([R](Depth_Reduction_R "Depth Reduction R")=2). [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), who for a short time worked with Eugenio on a computer chess project, mentioned Eugen had a good implementation of the [null-move quiescence](Null_Move_Pruning#NMQS "Null Move Pruning") algorithm <a id="cite-note-4" href="#cite-ref-4">[4]</a>, based on the ideas and publications by [Don Beal](Don_Beal "Don Beal") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 1997](#1997)
-  - [1.2 1999](#1999)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engin](#chess-engin)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Descriptions
 
 given on the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

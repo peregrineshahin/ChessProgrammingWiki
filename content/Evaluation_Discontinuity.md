@@ -5,13 +5,6 @@ title: Evaluation Discontinuity
 
 **Evaluation discontinuity** occurs when two positions are assessed as markedly different, even though one can be reached from the other by a short sequence of reasonable moves. This usually happens at the transition between different [game phases](Game_Phases "Game Phases"), for example if the program uses a simple boolean switch to decide whether the position should be considered an endgame. This has a detrimental effect on program's [playing strength](Playing_Strength "Playing Strength"), since at the transition points program begins to search for the ways of switching or not switching between game phases, and not for improving its position.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-
 ## See also
 
 - [Evaluation Philosophy](Evaluation_Philosophy "Evaluation Philosophy")

@@ -10,13 +10,6 @@ an early chess program developed by [NASA](https://en.wikipedia.org/wiki/NASA) r
 
 Daly CP participated the [First United States Computer Chess Championship](ACM_1970 "ACM 1970") 1970 in [New York](https://en.wikipedia.org/wiki/New_York_City) and became runner-up behind [Chess 3.0](</Chess_(Program)> "Chess (Program)"). It won its games versus [Schach](</Schach_(US)> "Schach (US)") and [Wita](Awit "Awit"), and lost from [Coko III](Coko "Coko"). Unlike the other programs with communication links to their mainframe computers, the IDIIOM workstation was on site at [New York Hilton](https://en.wikipedia.org/wiki/Hilton_New_York) <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Description
 
 Daly CP was written in [assembly language](Assembly "Assembly") to run on the IDIIOM system based on a [Varian 620/i minicomputer](https://en.wikipedia.org/wiki/Varian_Data_Machines) <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>. The program required 4KByte of [memory](Memory "Memory") and [searched](Search "Search") all moves to [depth](Depth "Depth") of 4 [ply](Ply "Ply"). Essentially, it was an implementation of the [Shannon Type A Strategy](Type_A_Strategy "Type A Strategy") <a id="cite-note-11" href="#cite-ref-11">[11]</a>. Along with [J. Biit](J._Biit "J. Biit") which was operated through a chess [GUI](GUI "GUI") written at [Columbia University](Columbia_University "Columbia University") for the [IBM 2250 Display Unit](https://en.wikipedia.org/wiki/IBM_2250) <a id="cite-note-12" href="#cite-ref-12">[12]</a>, Daly CP was one of the first chess programs with a [Graphical User Interface](GUI "GUI").

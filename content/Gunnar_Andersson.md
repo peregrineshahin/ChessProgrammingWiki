@@ -17,14 +17,6 @@ An older 2003 [MMX](MMX "MMX") implementation of [Dumb7Fill](Dumb7Fill "Dumb7Fil
 while the implementation by co-author [Toshihiko Okuhara](index.php?title=Toshihiko_Okuhara&action=edit&redlink=1 "Toshihiko Okuhara (page does not exist)") in *Zebra* looks [parallel prefixed](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms")
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

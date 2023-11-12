@@ -11,22 +11,6 @@ first released in February 2015 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Galjoen comes with an own [GUI](GUI "GUI") build on [gtkmm3](https://en.wikipedia.org/wiki/Gtkmm), but can also ran as pure engine using [UCI](UCI "UCI").
 Galjoen 0.35, released in March 2017 is able to play [Chess960](Chess960 "Chess960") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Move Generation](#move-generation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2015](#2015)
-  - [2.2 2016 ...](#2016-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc-2)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

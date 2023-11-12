@@ -13,14 +13,6 @@ ChessLin also only works on [Microsoft](Microsoft "Microsoft") [Windows](Windows
 Like minimalist [Edlin](https://en.wikipedia.org/wiki/Edlin) line editor, it focuses on a single console line to [enter moves](Entering_Moves "Entering Moves")
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Postings](#postings)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [BootChess](BootChess "BootChess")

@@ -11,19 +11,6 @@ Developed under [Linux](Linux "Linux"), [Windows](Windows "Windows") executables
 Based on [bitboards](Bitboards "Bitboards"), Ares takes advantage of [x86-64](X86-64 "X86-64") architecture including [64-bit](X86-64#gpinstructions "X86-64") [population count](Population_Count "Population Count").
 Ares is designed for human like, entertaining playing style, and is therefor suitable for game analysis and match/tournament preparation <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2009](#2009)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-  - [2.4 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Namesake
 
 - [Ares](Ares "Ares") by [Frans van Gool](Frans_van_Gool "Frans van Gool") and [Erik Leenders](Erik_Leenders "Erik Leenders")

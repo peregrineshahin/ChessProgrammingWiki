@@ -8,20 +8,6 @@ title: Deep Fritz versus Deep Junior 2007
 
 billed as **The President's Cup**, and dubbed as **The Ultimate Computer Chess Challenge** [2007](Timeline#2007 "Timeline"), was organized by the [FIDE](FIDE "FIDE") as side event of the [Candidates Matches](https://en.wikipedia.org/wiki/Candidates_Tournament#2007.E2.80.93present:_Reunified_title) from May 26 to June 14, 2007 in the Goverment House, [Elista](https://en.wikipedia.org/wiki/Elista), [Republic of Kalmykia](https://en.wikipedia.org/wiki/Kalmykia), [Russia](https://en.wikipedia.org/wiki/Russia). The six, or if tied, seven game match with a $100,000 prize fund took place from June 6 to June 11 with a possible playoff day scheduled on June 12, and was sponsored by FIDE and the at that time president of the Republic of Kalmykia, [FIDE president](FIDE#Presidents "FIDE") [Kirsan Ilyumzhinov](https://en.wikipedia.org/wiki/Kirsan_Ilyumzhinov) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 The Match](#the-match)
-- [2 Photos](#photos)
-- [3 Games](#games)
-  - [3.1 Game 3](#game-3)
-  - [3.2 Game 4](#game-4)
-- [4 Challenge](#challenge)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## The Match
 
 The contenders were the reigning [World Computer Chess Champion](WCCC_2006 "WCCC 2006") [Deep Junior](Junior "Junior") represented by their authors [Amir Ban](Amir_Ban "Amir Ban") and [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), and the winner versus [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship_2006) [Vladimir Kramnik in 2006](Kramnik_versus_Deep_Fritz_2006 "Kramnik versus Deep Fritz 2006"), [Deep Fritz](Fritz#DeepFritz "Fritz") by [Frans Morsch](Frans_Morsch "Frans Morsch") and [Mathias Feist](Mathias_Feist "Mathias Feist"), represented by its [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") [Alex Kure](Alex_Kure "Alex Kure").

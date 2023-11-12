@@ -12,15 +12,6 @@ and the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https://en.wikipedia.o
 Whether the program's name refers to its internal [board representation](Board_Representation "Board Representation"), for instance as acronym for [Bitboards](Bitboards "Bitboards"), or the [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) number 0xBB, [decimal](https://en.wikipedia.org/wiki/Decimal) [187](https://en.wikipedia.org/wiki/187_%28number%29) and sum of three or nine consecutive [prime numbers](https://en.wikipedia.org/wiki/Prime_number), and product of two primes as well, for a 17x11 [vector attacks](Vector_Attacks "Vector Attacks") approach, to the [branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound) algorithm design paradigm,
 to [Bébé](http://fr.wikipedia.org/wiki/B%C3%A9b%C3%A9) or [something else](http://fr.wikipedia.org/wiki/BB), is not known so far by the editor.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [WMCCC 1990](WMCCC_1990 "WMCCC 1990"), Round 5, [Cumulus](Cumulus "Cumulus") - BB <a id="cite-note-2" href="#cite-ref-2">[2]</a>

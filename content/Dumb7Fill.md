@@ -8,23 +8,6 @@ title: Dumb7Fill
 
 the obvious, straight forward [flood-fill](https://en.wikipedia.org/wiki/Flood_fill) approach works **set-wise** - **seven** times one fill-cycle by [one step only](General_Setwise_Operations#OneStepOnly "General Setwise Operations") in one of eight [directions](Direction "Direction").
 
-## Contents
-
-- [1 Compass Rose](#compass-rose)
-- [2 Occluded Fill](#occluded-fill)
-  - [2.1 Seven Fill Cycles](#seven-fill-cycles)
-  - [2.2 Fill Loop](#fill-loop)
-  - [2.3 Unrolled Loop](#unrolled-loop)
-- [3 Attack Fill](#attack-fill)
-  - [3.1 Comparison with Kogge-Stone](#comparison-with-kogge-stone)
-  - [3.2 All Directions](#all-directions)
-- [4 Generalized Rays](#generalized-rays)
-  - [4.1 Loop Version](#loop-version)
-  - [4.2 Unrolled Attacks](#unrolled-attacks)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Compass Rose
 
 We rely on the [compass rose](https://en.wikipedia.org/wiki/Compass_rose) to identify ray-directions.

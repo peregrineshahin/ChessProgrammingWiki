@@ -7,14 +7,6 @@ title: Dennis Sceviour
 
 a Canadian avocational computer chess programmer and author of the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine [Schooner](Schooner "Schooner"), released in 2015 <a id="cite-note-1" href="#cite-ref-1">[1]</a>. He already started chess programming in the late 70s, and followed [Bob Hyatt's](Robert_Hyatt "Robert Hyatt") [Crafty](Crafty "Crafty") development during his dormant programming years <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2015 ...](#2015-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2015 ...

@@ -13,17 +13,6 @@ His Mini Go Solver *Migos* solved 5x5 Go in 2002 <a id="cite-note-6" href="#cite
 using [iterative deepening](Iterative_Deepening "Iterative Deepening") [alpha-beta](Alpha-Beta "Alpha-Beta") search ([PVS](Principal_Variation_Search "Principal Variation Search")), with [transposition tables](Transposition_Table "Transposition Table"), [enhanced transposition cut-offs](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"),
 two [killer moves](Killer_Move "Killer Move"), [history heuristic](History_Heuristic "History Heuristic"), Benson's algorithm for unconditional [live](https://en.wikipedia.org/wiki/Life_and_death) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>, and domain specific evaluation heuristics, futher elaborated in his Ph.D. thesis and [ICGA Journal](ICGA_Journal "ICGA Journal") papers.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1999](#1999)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2005 ...](#2005-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://erikvanderwerf.tengen.nl/magog.html)

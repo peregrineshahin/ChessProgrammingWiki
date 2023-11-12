@@ -8,29 +8,6 @@ title: Backgammon
 
 a turn-based two-player [tables](https://en.wikipedia.org/wiki/Tables_%28board_game%29) board game of [chance](https://en.wikipedia.org/wiki/Game_of_chance) and strategy with 15 checkers each on a board of 24 spaces or points. One moves according to rolls of a pair of dice, trying to bring own checkers home and bear them off before the opponent does <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Opponent checkers can be "hit" and returned to the start.
 
-## Contents
-
-- [1 Computer Backgammon](#computer-backgammon)
-- [2 Computer Olympiads](#computer-olympiads)
-- [3 Photos](#photos)
-- [4 Evaluation](#evaluation)
-- [5 Learning](#learning)
-- [6 Publications](#publications)
-  - [6.1 1977 ...](#1977-...)
-  - [6.2 1980 ...](#1980-...)
-  - [6.3 1985 ...](#1985-...)
-  - [6.4 1990 ...](#1990-...)
-  - [6.5 1995 ...](#1995-...)
-  - [6.6 2000 ...](#2000-...)
-  - [6.7 2005 ...](#2005-...)
-  - [6.8 2010 ...](#2010-...)
-  - [6.9 2015 ...](#2015-...)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-  - [8.1 Computer Backgammon](#computer-backgammon-2)
-  - [8.2 Backgammon Programs](#backgammon-programs)
-- [9 References](#references)
-
 ## Computer Backgammon
 
 Backgammon programs were pioneered in the late 70s by [Hans Berliner](Hans_Berliner "Hans Berliner") with focus on [smooth evaluation](Tapered_Eval "Tapered Eval"), and by [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") from the late 80s, who successfully applied [Neural Networks](Neural_Networks "Neural Networks") and [Temporal Difference Learning](Temporal_Difference_Learning "Temporal Difference Learning") to his Backgammon playing programs. Computer backgammon is regularly played at [Computer Olympiads](Computer_Olympiad "Computer Olympiad"), organized by the [ICGA](ICGA "ICGA") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

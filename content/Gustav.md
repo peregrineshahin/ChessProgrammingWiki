@@ -10,16 +10,6 @@ Initially developed since 1990 for the [MS-DOS](MS-DOS "MS-DOS") operating syste
 It has a dedicated [GUI](GUI "GUI") with various dialog windows to edit positions, to load and save [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") or proprietary GST-files of problem collections, and to control the search.
 Beside [brute-force search](Brute-Force "Brute-Force") accelerated by a [transposition table](Transposition_Table "Transposition Table"), several automatic or user defined constraints such as number of escape squares for the checked king, allow shallow and deep searches of up to 170 moves (339 plies).
 
-## Contents
-
-- [1 Longest Problem](#longest-problem)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Longest Problem
 
 The longest for Gustav solvable problem so far has 163 moves, a composition by [Ottó Titusz Bláthy](https://en.wikipedia.org/wiki/Ott%C3%B3_Bl%C3%A1thy) <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

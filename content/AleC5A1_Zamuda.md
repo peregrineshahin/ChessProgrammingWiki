@@ -12,15 +12,6 @@ His research interests include [multi-objective optimization](https://en.wikiped
 He is inventor of *Differential Evolution for Parameterized Procedural Woody Plant Models Reconstruction within Environmental Framework to Visualize Emergent Artificial Forest Ecosystems* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, an approach for reconstruction of procedural three-dimensional models of woody plants (trees). also topic of his Ph.D. thesis <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 As computer games programmer, Aleš is author of the [open source chess engine](Category:Open_Source "Category:Open Source") [QuTeChess](QuTeChess "QuTeChess") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and further wrote [Reversi](Othello "Othello") and [Connect Four](Connect_Four "Connect Four") programs <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>

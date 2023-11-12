@@ -8,21 +8,6 @@ title: Connection Machine
 
 a series of supercomputers that grew out of [Danny Hillis'](Mathematician#Hillis "Mathematician") doctoral research at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") in the early 1980s on alternatives to the traditional [von Neumann architecture](index.php?title=Von_Neumann_Architecture&action=edit&redlink=1 "Von Neumann Architecture (page does not exist)") of computation, originally intended for applications in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [symbolic computation](https://en.wikipedia.org/wiki/Symbolic_computation). The Connection Machine was manufacturered since 1983 by [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation) (TMC), founded by [Danny Hillis](Mathematician#Hillis "Mathematician") and [Sheryl Handler](https://en.wikipedia.org/wiki/Sheryl_Handler) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 CM-1, CM-2, CM-200](#cm-1.2c-cm-2.2c-cm-200)
-- [2 CM-5](#cm-5)
-- [3 Chess](#chess)
-- [4 Quotes](#quotes)
-- [5 Chess Programs](#chess-programs)
-- [6 See also](#see-also)
-- [7 Selected Publications](#selected-publications)
-  - [7.1 1985 ...](#1985-...)
-  - [7.2 1990 ...](#1990-...)
-  - [7.3 1995 ...](#1995-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## CM-1, CM-2, CM-200
 
 The **CM-1** consisted of up to 64 kibi of 1-bit [SIMD](https://en.wikipedia.org/wiki/SIMD) processors with 4 kibibits of [RAM](Memory#RAM "Memory") each inside a network of a 12-dimensional boolean [n-cube](https://en.wikipedia.org/wiki/Hypercube) structure suggested by physicist [Richard Feynman](Mathematician#RFeynman "Mathematician"). Within this hardwired physical structure, the software data structures for communication and transfer of data between processors could change as needed depending on the nature of the problem. This meant the mutability of the connections between processors were more important than the processors themselves. The **CM-2**, released in 1987, was a more advanced successor (including floating point hardware) with the same physical structure <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

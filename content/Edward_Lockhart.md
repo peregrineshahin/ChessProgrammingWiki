@@ -10,14 +10,6 @@ a British computer scientist and reaearch engineer at [DeepMind](index.php?title
 His current research focus is on [sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29) algorithms for [equilibrium computation](https://en.wikipedia.org/wiki/Computable_general_equilibrium) and [decision-making](https://en.wikipedia.org/wiki/Decision-making).
 Edward Lockhart contributed to various [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") projects, such as [OpenSpiel](Reinforcement_Learning#OpenSpiel "Reinforcement Learning") and [MuZero](index.php?title=MuZero&action=edit&redlink=1 "MuZero (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2018 ...](#2018-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

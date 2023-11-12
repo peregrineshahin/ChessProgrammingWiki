@@ -9,14 +9,6 @@ a chess program by [Bernard Brioit](Bernard_Brioit "Bernard Brioit"). The engine
 BBchess uses the [0x88](0x88 "0x88") [Board representation](Board_Representation "Board Representation") and performs an improved [MTD(f) search](</MTD(f)> "MTD(f)") on top of [iterative deepening](Iterative_Deepening "Iterative Deepening") and applies [Null move pruning](Null_Move_Pruning "Null Move Pruning") with a [depth reduction](Depth_Reduction_R "Depth Reduction R") of 3 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 It uses two [transposition tables](Transposition_Table "Transposition Table"), and supports the [Thompson endgame databases](Thompson%27s_Databases "Thompson's Databases") with three and four pieces <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 References](#references)
-
 ## Tournament Play
 
 BBchess played all [French Computer Chess Championships](French_Computer_Chess_Championship "French Computer Chess Championship") from [FCCC 1996](FCCC_1996 "FCCC 1996") until its last occurence at the [FCCC 2004](FCCC_2004 "FCCC 2004"), as well the [French Programmers Tournaments](French_Programmers_Tournament "French Programmers Tournament") from [Massy 2001](Massy_2001 "Massy 2001") until [Massy 2006](Massy_2006 "Massy 2006").

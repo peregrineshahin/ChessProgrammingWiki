@@ -14,18 +14,6 @@ His research interests focuses on how people differ from one another in [mental]
 As computer science student at Harvard in the late 80s, when he was rated among the top 50 chess players in the U.S. under 21 years of age with an [USCF rating](https://en.wikipedia.org/wiki/Elo_rating_system#United_States_Chess_Federation_ratings) of 2206 <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 he wrote on [AI](Artificial_Intelligence "Artificial Intelligence") with [Turbo Pascal](Pascal#TurboPascal "Pascal"), and reported on computer chess tournaments <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1987 ...](#1987-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2010 ...](#2010-...)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence")

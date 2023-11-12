@@ -14,15 +14,6 @@ The input representation seems similar to [Octavius](Octavius "Octavius") with 1
 The first hidden layer has 2048 neurons as well. Bernhardsson used a [GPU](GPU "GPU") instance to train the net with 100M games for about four days using [stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) with [Nesterov](Mathematician#YNesterov "Mathematician") momentum <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Postings](#postings)
-  - [2.1 2014](#2014)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Deep Blue](Deep_Blue "Deep Blue")

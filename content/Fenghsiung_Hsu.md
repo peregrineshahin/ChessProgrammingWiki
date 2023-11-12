@@ -10,21 +10,6 @@ a Taiwanese electrical engineer, computer scientist and creator of the [VLSI-arc
 
 Hsu now manages the platforms and devices center of [Microsoft](Microsoft "Microsoft") [Research Asia](https://en.wikipedia.org/wiki/Microsoft_Research_Asia), in [Beijing](https://en.wikipedia.org/wiki/Beijing) <a id="cite-note-9" href="#cite-ref-9">[9]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1986 ...](#1986-...)
-  - [3.2 1990 ...](#1990-...)
-  - [3.3 1995 ...](#1995-...)
-  - [3.4 2000 ...](#2000-...)
-  - [3.5 2005 ...](#2005-...)
-  - [3.6 2010 ...](#2010-...)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/stl-430b9bbd52f71/)

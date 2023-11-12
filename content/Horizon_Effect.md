@@ -6,26 +6,6 @@ title: Horizon Effect
 \[ [Water Horizon](https://en.wikipedia.org/wiki/Horizon) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Horizon Effect** is caused by the [depth](Depth "Depth") limitation of the [search algorithm](Search "Search"), and became manifest when some negative event is inevitable but postponable. Because only a partial game tree has been analyzed, it will appear to the system that the event can be avoided when in fact this is not the case. Beside obligatory [quiescence search](Quiescence_Search "Quiescence Search"), [extensions](Extensions "Extensions"), specially [check extensions](Check_Extensions "Check Extensions") are designed to reduce horizon effects.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 By Tony Marsland](#by-tony-marsland)
-  - [1.2 By Amir Ban](#by-amir-ban)
-  - [1.3 By Robert Hyatt](#by-robert-hyatt)
-  - [1.4 By Gerald Tripard](#by-gerald-tripard)
-  - [1.5 Crossovers](#crossovers)
-  - [1.6 Ostrich Effect](#ostrich-effect)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Horizon Effect Elsewhere](#horizon-effect-elsewhere)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1995 ....](#1995-....)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2010 ...](#2010-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Quotes
 
 ## By Tony Marsland

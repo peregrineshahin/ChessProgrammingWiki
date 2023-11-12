@@ -8,18 +8,6 @@ title: FairyMax
 
 an [open source engine](Category:Open_Source "Category:Open Source") for playing [chess variants](Chess#Variants "Chess") with [fairy chess pieces](https://en.wikipedia.org/wiki/Fairy_chess_piece) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), written in [C](C "C") and compliant to the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). Fairy-Max is based on [Micro-Max](Micro-Max "Micro-Max"), and uses tables with step vectors for [move generation](Move_Generation "Move Generation"), and knows which pieces are [leapers](https://en.wikipedia.org/wiki/Fairy_chess_piece#Leapers) and which are [sliders](Sliding_Pieces "Sliding Pieces") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2007 ...](#2007-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Screenshot
 
 \[

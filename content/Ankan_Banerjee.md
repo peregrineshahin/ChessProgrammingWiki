@@ -9,14 +9,6 @@ title: Ankan Banerjee
 an Indian computer scientist with a [BE](https://en.wikipedia.org/wiki/Bachelor_of_Engineering) degree from [AIT](https://en.wikipedia.org/wiki/Army_Institute_of_Technology,_Pune), [Pune](https://en.wikipedia.org/wiki/Pune), [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra) in 2006, and engineer at [Nvidia](Nvidia "Nvidia") India <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His professional as well as private interests include [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics), high performance computing, [computer games](Games "Games"), and computer chess. He is author of a fast [GPU](GPU "GPU") [Perft](Perft "Perft") [move generator](Move_Generation "Move Generation") based on [Kogge-Stone algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and the experimental chess engine [Paladin](Paladin "Paladin") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. In August 2017, Ankan Banerjee computed [Perft(15)](Perft#15 "Perft") - and dedicated his computation in honor to [Steven Edwards](Steven_Edwards "Steven Edwards") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 More recently, he contributed to the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") project <a id="cite-note-8" href="#cite-ref-8">[8]</a>, in particular he wrote the [CuDNN](https://en.wikipedia.org/wiki/CuDNN) backend code, also shared by [Deus X](Deus_X "Deus X") and [Allie](Allie "Allie") <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2013 ...](#2013-...)
-  - [1.2 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2013 ...

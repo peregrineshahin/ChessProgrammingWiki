@@ -13,22 +13,6 @@ His research interests covers [algorithms](Algorithms "Algorithms") and [data st
 He teaches [strategy](https://en.wikipedia.org/wiki/Strategy_game) and [board game](https://en.wikipedia.org/wiki/Board_game) [programming](Programming "Programming") and tried his own hands on [Fanorona](https://en.wikipedia.org/wiki/Fanorona) <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 a traditional board game from [Madagascar](https://en.wikipedia.org/wiki/Madagascar).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1985 ...](#1985-...)
-  - [1.2 1900 ...](#1900-...)
-  - [1.3 1995 ...](#1995-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2005 ...](#2005-...)
-  - [1.6 2010 ...](#2010-...)
-  - [1.7 2015 ...](#2015-...)
-- [2 Forum Posts](#forum-posts)
-- [3 Blog Posts](#blog-posts)
-- [4 External Links](#external-links)
-  - [4.1 ICS.UCI.EDU](#ics.uci.edu)
-- [5 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

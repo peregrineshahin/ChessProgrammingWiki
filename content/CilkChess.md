@@ -7,18 +7,6 @@ title: CilkChess
 
 a massive [parallel](Parallel_Search "Parallel Search") chess program written in the [C](C "C") or [C++](Cpp "Cpp") multithreaded programming extension [Cilk](Cilk "Cilk"). CilkChess was developed by various authors from [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") and elsewhere headed by [Charles Leiserson](Charles_Leiserson "Charles Leiserson") and programming lead by [Don Dailey](Don_Dailey "Don Dailey") <a id="cite-note-1" href="#cite-ref-1">[1]</a><a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 CilkChess Team](#cilkchess-team)
-- [3 Quotes](#quotes)
-- [4 Description](#description)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Photos & Games
 
 [](File:HiarcsCilk1999.JPG)

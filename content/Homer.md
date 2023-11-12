@@ -8,18 +8,6 @@ title: Homer
 
 an [UCI](UCI "UCI") and [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), written in [C](C "C") started in early 2003, first released in July 2005, available for multiple platforms and operating systems, such as [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS X](Mac_OS "Mac OS") and [Solaris](Unix "Unix"). Homer already had its tournament debut at the [CCT7](CCT7 "CCT7"), and further played the [CCT9](CCT9 "CCT9") and the [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), The First Annual ACCA World Computer Rapid Chess Championship. Over the board, and able to play [Chess960](Chess960 "Chess960"), Homer participated at the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") and [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006") Livingston Chess960 Computer World Championships, and the [DOCCC 2005](DOCCC_2005 "DOCCC 2005"). Homer applies what Daniel calls *Peak History Reduction* to deal with saturation of the [history scores](History_Heuristic "History Heuristic") for [late move aka history reductions](Late_Move_Reductions "Late Move Reductions") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2005 ...](#2005-...)
-  - [3.2 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [CCT9](CCT9 "CCT9"), Homer - [Buzz](Buzz "Buzz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

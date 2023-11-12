@@ -10,17 +10,6 @@ a Taiwanese mathematician, computer scientist, and professor emeritus at [Ball S
 and a Ph.D. in computer science from [Indiana University Bloomington](https://en.wikipedia.org/wiki/Indiana_University_Bloomington) in 1983 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 His research interests include [probabilistic reasoning](https://en.wikipedia.org/wiki/Probabilistic_logic) and [game tree search](Search "Search"), [minimax](Minimax "Minimax") along with probabilistic game models, [product propagation](index.php?title=Product_Propagation&action=edit&redlink=1 "Product Propagation (page does not exist)") and [pathology](Search_Pathology "Search Pathology").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1973 ...](#1973-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

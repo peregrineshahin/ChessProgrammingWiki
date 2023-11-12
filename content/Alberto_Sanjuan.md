@@ -9,14 +9,6 @@ a Spanish computer engineer and computer chess programmer living in [Seville](ht
 Supported by chess advisers [Jose Antonio Morillas](index.php?title=Jose_Antonio_Morillas&action=edit&redlink=1 "Jose Antonio Morillas (page does not exist)") and [Juan José Corbalán](index.php?title=Juan_Jos%C3%A9_Corbal%C3%A1n&action=edit&redlink=1 "Juan José Corbalán (page does not exist)"), Alberto Sanjuan is primary author of the [UCI](UCI "UCI") compliant chess engine [Rhetoric](Rhetoric "Rhetoric")
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2010 ...

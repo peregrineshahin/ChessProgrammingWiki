@@ -6,17 +6,6 @@ title: Heinz Nixdorf MuseumsForum
 \[ Heinz Nixdorf MuseumsForum
 The **Heinz Nixdorf MuseumsForum** (HNF) in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), [Germany](https://en.wikipedia.org/wiki/Germany), created from 1992 to 1996 with a donation of [Heinz Nixdorf](https://en.wikipedia.org/wiki/Heinz_Nixdorf). The Heinz Nixdorf MuseumsForum was host of the [9th World Computer Chess Championship 1999](WCCC_1999 "WCCC 1999") and hosted the [International Paderborn Computer Chess Championship](IPCCC "IPCCC") from [2005](IPCCC_2005_b "IPCCC 2005 b") until its last appearance in [2007](IPCCC_2007 "IPCCC 2007") in conjunction with a strong human chess tournament <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 HNF Links](#hnf-links)
-- [2 HNF Blog](#hnf-blog)
-- [3 See also](#see-also)
-  - [3.1 Events](#events)
-  - [3.2 Organizations](#organizations)
-  - [3.3 People](#people)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## HNF Links
 
 - [HNF - Heinz Nixdorf MuseumsForum - The world´s biggest computer museum in Paderborn](https://www.hnf.de/en/home.html)

@@ -8,16 +8,6 @@ title: Gerald Tesauro
 
 an American physicist, computer scientist and games researcher at [IBM Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center) and pioneer in applying [Neural Networks](Neural_Networks "Neural Networks"), [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning") and [Temporal Difference Learning](Temporal_Difference_Learning "Temporal Difference Learning") to [stochastic games](https://en.wikipedia.org/wiki/Stochastic_games), especially the game of [Backgammon](Backgammon "Backgammon"). More recently, he is member of the team around [David Ferrucci](https://en.wikipedia.org/wiki/David_Ferrucci), which developed [Watson](https://en.wikipedia.org/wiki/Watson_%28computer%29) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He explained that Watson's wagers were based on its confidence level for the category and a complex [regression model](https://en.wikipedia.org/wiki/Regression_analysis) called the Game State Evaluator <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Gerald Tesauro holds a Ph.D. in [theoretical physics](https://en.wikipedia.org/wiki/Theoretical_physics) from [Princeton University](https://en.wikipedia.org/wiki/Princeton_University). He is section editor of the [ICGA Journal](ICGA_Journal "ICGA Journal").
 
-## Contents
-
-- [1 Programs](#programs)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1987 ...](#1987-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 2000 ...](#2000-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Programs
 
 Gerald Tesauro is author of the [Backgammon](Backgammon "Backgammon") programs [Neurogammon](https://en.wikipedia.org/wiki/Neurogammon), which won the Gold medal at the [1st Computer Olympiad](1st_Computer_Olympiad#Backgammon "1st Computer Olympiad") 1989 in London, and [TD-Gammon](https://en.wikipedia.org/wiki/TD-Gammon), improved by *TD-Lambda* based [Temporal Difference Learning](Temporal_Difference_Learning "Temporal Difference Learning") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and along with [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Richard Segal](index.php?title=Richard_Segal&action=edit&redlink=1 "Richard Segal (page does not exist)"), [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger") and [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)") (since 2010), co-author of the [Go](Go "Go") playing program [Fuego](https://www.game-ai-forum.org/icga-tournaments/program.php?id=535) <a id="cite-note-5" href="#cite-ref-5">[5]</a>, which won the Gold medal at the [14th Computer Olympiad](14th_Computer_Olympiad#9x9 "14th Computer Olympiad") in 9x9 Go, as well the Silver medal in 19x19 Go <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

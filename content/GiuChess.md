@@ -9,14 +9,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 written in [C](C "C"), and released under the [GNU GPL](Free_Software_Foundation#GPL "Free Software Foundation").
 GiuChess played the [CIPS 2007](CIPS_2007 "CIPS 2007"), [IGT 2013](IGT_2013 "IGT 2013") and [IGT 2014](IGT_2014 "IGT 2014"). While it is a very original and experimental engine, GiuChess is not designed or implemented to become competitive in terms of playing strength, but fun to play with some winning chances even for casual human players.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 GiuChess <a id="cite-note-1" href="#cite-ref-1">[1]</a>

@@ -14,16 +14,6 @@ Bookup was developed since the 80s, initially under [MS-DOS](MS-DOS "MS-DOS"), a
 While early Bookup was bundled with [Zarkov](Zarkov "Zarkov") as analysis engine, COW includes [Stockfish](Stockfish "Stockfish"), [Crafty](Crafty "Crafty") and [Ruffian](Ruffian "Ruffian"),
 and further supports any [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") (WinBoard) and [UCI](UCI "UCI") compatible engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> for analysis and looking for contradictions between game statistics and current chess theory, dubbed backsolving <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1990 ...](#1990-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Bookbuilder](index.php?title=Bookbuilder&action=edit&redlink=1 "Bookbuilder (page does not exist)")

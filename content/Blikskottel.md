@@ -7,15 +7,6 @@ title: Blikskottel
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine written (in an extremely part-time fashion) in [C](C "C") by [Adam Oellermann](Adam_Oellermann "Adam Oellermann"). Blikskottel is an [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans) slang term (meaning something like *[blighter](https://en.wiktionary.org/wiki/blighter)* or *[rascal](https://en.wiktionary.org/wiki/rascal)*) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>, but Blikskottel's development began in England, and Blikskottel is now resident in Scotland.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Description
 
 Blikskottel is a simple [bitboard-based](Bitboards "Bitboards") [alpha-beta](Alpha-Beta "Alpha-Beta") searcher.

@@ -11,15 +11,6 @@ Chompster's primary [board representation](Board_Representation "Board Represent
 it applies [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), [PVS](Principal_Variation_Search "Principal Variation Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), aged [transposition table](Transposition_Table "Transposition Table") à la [Diep](Diep "Diep"), various [extensions](Extensions "Extensions"), and [book learning](Book_Learning "Book Learning").
 Chompster played various [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship") and [CCT Tournaments](CCT_Tournaments "CCT Tournaments").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [CCT5](CCT5 "CCT5"), round 7, Chompster - [Robin](</index.php?title=Robin_(PL)&action=edit&redlink=1> "Robin (PL) (page does not exist)")

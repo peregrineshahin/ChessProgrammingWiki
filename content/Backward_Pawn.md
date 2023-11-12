@@ -6,18 +6,6 @@ title: Backward Pawn
 [](http://www.elke-rehder.de/Chess_Paintings.htm) Behindhand Pawn <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **backward pawn** is a [pawn](Pawn "Pawn") no longer defensible by own pawns and whose [stop square](Stop_Square "Stop Square") lacks pawn protection but is controlled by a [sentry](Sentry "Sentry"). Thus, don't considering piece [tactics](Tactics "Tactics"), the backward pawn is not able to push forward without being lost, even establishing an opponent [passer](Passed_Pawn "Passed Pawn"). If two opposing pawns on adjacent files in knight distance are mutually backward, the more advanced is not considered backward.
 
-## Contents
-
-- [1 Aspects](#aspects)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1999](#1999)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Aspects
 
 A backward pawn is worse, or even a real [Straggler](</Backward_Pawns_(Bitboards)#Straggler> "Backward Pawns (Bitboards)"), if on a [half-open file](Half-open_File "Half-open File") as suitable target of opponent [rooks](Rook "Rook"). As pointed out by [Sam Hamilton](Sam_Hamilton "Sam Hamilton") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, considering stop squares might be insufficient for pawns which may actually push, but have a permanent weakened [telestop](Pawn_Spans#StopandDistantStop "Pawn Spans"). On the other hand, such a backward prospective pawn has a vital [tempo](Tempo "Tempo"), which is often decisive in certain [pawn endings](Pawn_Endgame "Pawn Endgame").

@@ -11,13 +11,6 @@ He holds a Master's degree in computer science from [National University of Tain
 He was involved in the implementation of a [Fuzzy markup language](https://en.wikipedia.org/wiki/Fuzzy_markup_language) (FML) based
 [prediction agent](https://en.wikipedia.org/wiki/Intelligent_agent) and its application to [Go](Go "Go").
 
-## Contents
-
-- [1 FML-based Prediction](#fml-based-prediction)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## FML-based Prediction
 
 Abtract from *FML-based Prediction Agent and Its Application to Game of Go* <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

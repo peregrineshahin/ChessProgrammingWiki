@@ -8,20 +8,6 @@ title: Arachne
 
 an experimental chess program by [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen") and chess testbed of his research on [search algorithms](Search "Search"), like [Alpha-Beta](Alpha-Beta "Alpha-Beta"), and the [best-first](Best-First "Best-First") algorithms [SSS\*](SSS*_and_Dual* "SSS* and Dual*"), [Conspiracy Number](Conspiracy_Number_Search "Conspiracy Number Search") and [Proof-Number Search](Proof-Number_Search "Proof-Number Search"), including [parallel](Parallel_Search "Parallel Search") Conspiracy number search <a id="cite-note-2" href="#cite-ref-2">[2]</a> for instance in [1988](DOCCC_1988 "DOCCC 1988") on a 10-processor system <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and [evaluation](Evaluation "Evaluation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In his [ICCA Journal](ICGA_Journal "ICGA Journal") paper <a id="cite-note-5" href="#cite-ref-5">[5]</a> , Maarten van der Meulen mentions experiments with cn-search as published in 1988 by [David McAllester](David_McAllester "David McAllester") <a id="cite-note-6" href="#cite-ref-6">[6]</a> in Arachne not encouraging <a id="cite-note-7" href="#cite-ref-7">[7]</a> , and introduced a new variation dubbed *applied cn-search* <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Arachne played six consecutive [Dutch Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") from [1985](DOCCC_1985 "DOCCC 1985") until [1990](DOCCC_1990 "DOCCC 1990").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 Dappet](#dappet)
-  - [1.2 Duck](#duck)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-  - [3.1 Arachne](#arachne)
-  - [3.2 Arachne elsewhere](#arachne-elsewhere)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 ## Dappet

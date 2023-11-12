@@ -11,16 +11,6 @@ He is president of *Natural Selection, Inc.* <a id="cite-note-2" href="#cite-ref
 He is known for his research project [Blondie24](https://en.wikipedia.org/wiki/Blondie24), in which a machine evolved itself into an expert [checkers](Checkers "Checkers") player, and further on his research on an evolutionary chess program, which improved its play by almost 400 rating points during evolution <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 and results in the chess program dubbed [Blondie25](Blondie25 "Blondie25").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995](#1995)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

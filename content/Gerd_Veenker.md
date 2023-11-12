@@ -7,16 +7,6 @@ title: Gerd Veenker
 
 was a German mathematician, computer scientist, [AI](Artificial_Intelligence "Artificial Intelligence") researcher, and professor for CS and AI at [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. He received his Ph.D. in 1967 on [first-order](https://en.wikipedia.org/wiki/First-order_logic) [theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) at [University of Tübingen](https://en.wikipedia.org/wiki/University_of_T%C3%BCbingen), where his advisors include [Karl Longin Zeller](Mathematician#KLZeller "Mathematician"). Already during the early 60s in Tübingen, along with his fellow [Frieder Schwenkel](Frieder_Schwenkel "Frieder Schwenkel"), Gerd Veenker developed a particular interest in non-numeric computation such as game playing and theorem proving <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In 1965, he published a paper on a chess program to [find a mate](Mate_Search "Mate Search") in two or three moves <a id="cite-note-3" href="#cite-ref-3">[3]</a>, but his focus remained on theorem proving where his scientific contributions are in the field of [automatic deduction](https://en.wikipedia.org/wiki/Automated_reasoning).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1965 ...](#1965-...)
-  - [1.2 1970 ...](#1970-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

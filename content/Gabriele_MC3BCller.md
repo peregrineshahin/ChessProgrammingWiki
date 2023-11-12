@@ -11,13 +11,6 @@ a Swiss computer scientist and programmer, known in the computer chess scene for
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Copyright](#copyright)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Copyright
 
 Müller did not grasp Crafty's [Copyright](https://en.wikipedia.org/wiki/Copyright) statement, but apparently took remarks by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") like in his reply to [Ren Wu](Ren_Wu "Ren Wu"), January 26, 1999, concerning [code reuse](https://en.wikipedia.org/wiki/Code_reuse) and not [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel) as alibi for her chess programming <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

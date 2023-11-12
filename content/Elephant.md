@@ -8,17 +8,6 @@ title: Elephant
 
 a [WinBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine written by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen") in [C++](Cpp "Cpp"), first released in March 2004 <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The name was chosen due to the connection with pieces in [Chaturanga](https://en.wikipedia.org/wiki/Chaturanga), [Chinese Chess](Chinese_Chess "Chinese Chess") and chess, such as [rook](Rook "Rook") and [bishop](Bishop "Bishop") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , because [elephants](https://en.wikipedia.org/wiki/Elephant) are known to be intelligent, and further due its author's weight <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Chess and Variants](#chess-and-variants)
-  - [4.3 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Elephant applies [PVS](Principal_Variation_Search "Principal Variation Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [quiescence](Quiescence_Search "Quiescence Search"), [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), [razoring](Razoring "Razoring"), [futility pruning](Futility_Pruning "Futility Pruning") and various [extensions](Extensions "Extensions"), embedded inside an [fractional ply](Depth#FractionalPlies "Depth") [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. [Move ordering](Move_Ordering "Move Ordering") at the [root](Root "Root") is based on [node count](Node "Node"), and otherwise considers [hash move](Hash_Move "Hash Move") including [principle variation](Principal_Variation "Principal Variation"), [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation"), [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"). [Evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluation "Lazy Evaluation") and takes [material](Material "Material"), [cached](Pawn_Hash_Table "Pawn Hash Table") [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), [piece-squares tables](Piece-Square_Tables "Piece-Square Tables"), [mobility](Mobility "Mobility") and multiple other terms into account. Elephant was used as testbed to compare various [bitboard](Bitboards "Bitboards") techniques in generating [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, in particular [Exploding-](Exploding_Bitboards "Exploding Bitboards") and [Sherwin Bitboards](Sherwin_Bitboards "Sherwin Bitboards").

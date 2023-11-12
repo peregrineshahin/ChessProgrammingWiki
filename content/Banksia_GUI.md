@@ -9,16 +9,6 @@ title: Banksia GUI
 a free [chess GUI](GUI "GUI"), [UCI](UCI "UCI") and [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant, [cross platform](https://en.wikipedia.org/wiki/Cross-platform)<a id="cite-note-1" href="#cite-ref-1">[1]</a>, written by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), first published in 2019 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 BanksiaGUI binaries are available from the *BanksiaGUI site*.
 
-## Contents
-
-- [1 Chess Variants](#chess-variants)
-- [2 Screenshot](#screenshot)
-- [3 Features](#features)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Chess Variants
 
 - Standard chess

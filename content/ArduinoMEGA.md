@@ -10,35 +10,6 @@ a family of [open-source hardware](https://en.wikipedia.org/wiki/Open-source_har
 
 This page focuses on two boards with concrete computer chess applications.
 
-## Contents
-
-- [1 Arduino Uno](#arduino-uno)
-- [2 Arduino Mega](#arduino-mega)
-- [3 Development](#development)
-- [4 Computer Chess](#computer-chess)
-  - [4.1 Chess Programs](#chess-programs)
-    - [4.1.1 Little Rook Chess](#little-rook-chess)
-    - [4.1.2 MicroChess](#microchess)
-    - [4.1.3 Myopic](#myopic)
-  - [4.2 Chess Robot](#chess-robot)
-  - [4.3 Square Off](#square-off)
-  - [4.4 ArdEBoard](#ardeboard)
-  - [4.5 Analog Evaluation](#analog-evaluation)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2005 ...](#2005-...)
-  - [6.2 2010 ...](#2010-...)
-  - [6.3 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-  - [7.1 Arduino](#arduino)
-  - [7.2 Computer Chess](#computer-chess-2)
-  - [7.3 Development](#development-2)
-    - [7.3.1 Assembly](#assembly)
-    - [7.3.2 C, C++](#c.2c-c.2b.2b)
-    - [7.3.3 Java](#java)
-  - [7.4 Misc](#misc)
-- [8 References](#references)
-
 ## Arduino Uno
 
 The **Arduino Uno** is based on the 8-bit [ATmega328](https://en.wikipedia.org/wiki/ATmega328) running at 16 MHz with 32 KiB [ISP](https://en.wikipedia.org/wiki/In-system_programming) [Flash memory](https://en.wikipedia.org/wiki/Flash_memory) with read-while-write capabilities, 1 KiB [EEPROM](Memory#ROM "Memory"), and 2 KiB [SRAM](Memory#RAM "Memory"). It has 14 digital input/output pins and six [analog inputs](https://en.wikipedia.org/wiki/Analog-to-digital_converter) and [USB connection](https://en.wikipedia.org/wiki/USB).

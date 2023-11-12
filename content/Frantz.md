@@ -7,16 +7,6 @@ title: Frantz
 
 a mainframe chess program written by [Fritz Königshofer](Fritz_K%C3%B6nigshofer "Fritz Königshofer") and [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf"), affiliated with [Graz University of Technology](https://en.wikipedia.org/wiki/Graz_University_of_Technology) and its computer center *Rechenzentrum Graz*. Frantz played the [1st World Computer Chess Championship, 1974](WCCC_1974 "WCCC 1974") in [Stockholm](https://en.wikipedia.org/wiki/Stockholm) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, running on an [UNIVAC 494](UNIVAC_494 "UNIVAC 494"), a 30-bit word machine and successor to the [UNIVAC 490/492](https://en.wikipedia.org/wiki/UNIVAC_490) with faster CPU and 128 KiWords [core memory](Memory#Core "Memory"). It lost from [Kaissa](Kaissa "Kaissa") and [Tech 2](Tech "Tech"), and won versus [Papa](Papa "Papa") and [A16chs](A16chs "A16chs") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 Kaissa](#kaissa)
-  - [1.2 A16chs](#a16chs)
-- [2 External Links](#external-links)
-  - [2.1 Chess Program](#chess-program)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Selected Games
 
 ## Kaissa

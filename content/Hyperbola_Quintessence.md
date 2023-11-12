@@ -11,22 +11,6 @@ title: Hyperbola Quintessence
 | [Cpwmappinghint.JPG](Square_Mapping_Considerations "Square Mapping Considerations")  | *Code samples and bitboard diagrams rely on [Little endian file and rank mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations")*.
 |
 
-## Contents
-
-- [1 Reverse Math](#reverse-math)
-- [2 Source Code](#source-code)
-  - [2.1 C](#c)
-  - [2.2 Generalized Set-wise Attacks](#generalized-set-wise-attacks)
-  - [2.3 x86-64 assembly](#x86-64-assembly)
-  - [2.4 Java](#java)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Hyperbola](#hyperbola)
-  - [5.2 Quintessence](#quintessence)
-  - [5.3 Misc](#misc)
-- [6 References](#references)
-
 ## Reverse Math
 
 Assume following masked [occupancy](Occupancy "Occupancy") on a [file](Files "Files"), [diagonal](Diagonals "Diagonals") or [anti-diagonal](Anti-Diagonals "Anti-Diagonals") - for simplicity as a flat byte (in a real bitboard with masked files or diagonals you have 6..8 scratch-bits between the bits of this byte). Thus, vertical flip reverses the bits of this byte.

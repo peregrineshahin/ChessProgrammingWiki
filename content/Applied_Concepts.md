@@ -7,24 +7,6 @@ title: Applied Concepts
 
 a manufacturer of [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics), [radar speed detectors](https://en.wikipedia.org/wiki/Radar_gun) and in-car [video camera systems](https://en.wikipedia.org/wiki/Video_camera) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, located in [Plano, Texas](https://en.wikipedia.org/wiki/Plano,_Texas), and before in [Cleveland, Ohio](https://en.wikipedia.org/wiki/Cleveland) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Colorado Springs, Colorado](https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado) <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Garland, Texas](https://en.wikipedia.org/wiki/Garland,_Texas). Applied Concepts was founded in March 1977 by chairman and [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) [Alan Mead](Alan_Mead "Alan Mead") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. By the end of the '70s Applied Concepts cooperated and later teamed up with marketing and retail enterprise [Chafitz Inc.](Chafitz "Chafitz") and the German company [Sandy Electronic](index.php?title=Sandy_Electronic&action=edit&redlink=1 "Sandy Electronic (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, to produce [dedicated chess](Dedicated_Chess_Computers "Dedicated Chess Computers") and game computers.
 
-## Contents
-
-- [1 Boris](#boris)
-- [2 Great Game Machine](#great-game-machine)
-- [3 Legal Issues](#legal-issues)
-- [4 Boris X](#boris-x)
-- [5 Morphy](#morphy)
-- [6 Steinitz](#steinitz)
-- [7 La Regence](#la-regence)
-- [8 Associated People](#associated-people)
-- [9 See also](#see-also)
-- [10 Publications](#publications)
-- [11 External Links](#external-links)
-  - [11.1 Chess](#chess)
-  - [11.2 Company](#company)
-  - [11.3 Patents](#patents)
-- [12 References](#references)
-
 ## Boris
 
 [Boris](Boris "Boris") was the first chess computer designed and manufactured by Applied Concepts <a id="cite-note-8" href="#cite-ref-8">[8]</a> and launched by [Chafitz](Chafitz "Chafitz") in February, 1978 <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>, running on a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-bit microprocessor <a id="cite-note-11" href="#cite-ref-11">[11]</a>, with a program by [David Lindsay](David_Lindsay "David Lindsay").

@@ -7,14 +7,6 @@ title: Daisaku Yokoyama
 
 a Japanese computer scientist, [Shogi](Shogi "Shogi") programmer, and research associate at [University of Tokyo](https://en.wikipedia.org/wiki/University_of_Tokyo) with interests in [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing), [programming languages](Languages "Languages"), [robot programming](https://en.wikipedia.org/wiki/Robot_software), [game-tree search](Search "Search"), and [computer-shogi](Shogi "Shogi") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Daisaku Yokoyama is co-author of the Shogi engine [Gekisashi](index.php?title=Gekisashi&action=edit&redlink=1 "Gekisashi (page does not exist)"), Gold medal winner of the [15th Computer Olympiad, Shogi](15th_Computer_Olympiad#Shogi "15th Computer Olympiad") in [Kanazawa](https://en.wikipedia.org/wiki/Kanazawa,_Ishikawa).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

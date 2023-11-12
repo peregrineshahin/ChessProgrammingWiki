@@ -5,17 +5,6 @@ title: Computer Olympiad
 
 The **Computer Olympiads** are a multi [computer games](Games "Games") event organized by the [ICGA](ICGA "ICGA"). It was created in [1989](Timeline#1989 "Timeline") by [David Levy](David_Levy "David Levy") and after a gap from 1993 until 2000 taking place every year.
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 Chess at the Olympiad](#chess-at-the-olympiad)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Tournaments](#tournaments)
-  - [5.2 Games](#games)
-- [6 References](#references)
-
 ## Editions
 
 |  Edition

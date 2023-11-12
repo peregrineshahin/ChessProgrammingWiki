@@ -14,22 +14,6 @@ While the goal was to create an original program that uses a carefully-selected 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 a large amount of Godot's code is based on [Stef Luijten's](index.php?title=Stef_Luijten&action=edit&redlink=1 "Stef Luijten (page does not exist)") [Winglet](Winglet "Winglet") and [Alberto Ruibal's](Alberto_Alonso_Ruibal "Alberto Alonso Ruibal") [Carballo](Carballo "Carballo").
 
-## Contents
-
-- [1 GodotBot](#godotbot)
-- [2 Etymology](#etymology)
-- [3 Features](#features)
-  - [3.1 Board Representation](#board-representation)
-  - [3.2 Search](#search)
-  - [3.3 Evaluation](#evaluation)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## GodotBot
 
 **GodotBot** is the final online version of Godot. It interacts with the user over the [internet](https://en.wikipedia.org/wiki/Internet) using the [Selenium](<https://en.wikipedia.org/wiki/Selenium_(software)>)

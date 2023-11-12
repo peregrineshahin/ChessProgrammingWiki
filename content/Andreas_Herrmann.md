@@ -8,14 +8,6 @@ title: Andreas Herrmann
 
 a German software developer and computer chess programmer. He is author of the chess engines [ChessFiz](index.php?title=ChessFiz&action=edit&redlink=1 "ChessFiz (page does not exist)"), [Holmes](Holmes "Holmes") and [BlackBishop](BlackBishop "BlackBishop"), all written in [Delphi](Delphi "Delphi") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

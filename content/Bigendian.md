@@ -5,16 +5,6 @@ title: Bigendian
 
 **Big-endian** is most often referred to the [endianness](Endianness "Endianness") or order of multiple [Bytes](Byte "Byte") inside a composite item, such as a [Word](Word "Word") (two bytes), a [Double Word](Double_Word "Double Word") (four bytes) or a [Quad Word](Quad_Word "Quad Word") (eight bytes), which keeps the byte order (in the arithmetical sense) in the reverse order of their addresses in [memory](Memory "Memory") - for instance the integer 16909060 or 0x01020304.
 
-## Contents
-
-- [1 Memory layout](#memory-layout)
-- [2 Big-Endian Files](#big-endian-files)
-- [3 Big-Endian Ranks](#big-endian-ranks)
-- [4 Least Significant Ranks](#least-significant-ranks)
-- [5 Date-Format](#date-format)
-- [6 See also](#see-also)
-- [7 External Links](#external-links)
-
 ## Memory layout
 
 0x01020304

@@ -10,17 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Genesis is based on a [NegaScout](NegaScout "NegaScout")/[PVS](Principal_Variation_Search "Principal Variation Search") framework using [history heuristic](History_Heuristic "History Heuristic") and [transposition table](Transposition_Table "Transposition Table").
 Like its successor [Falcon](Falcon "Falcon"), Genesis was designed especially for academic research <a id="cite-note-2" href="#cite-ref-2">[2]</a>, notably on [verified null-move pruning](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Namesake
 
 - [Genesis](Genesis_NL "Genesis NL") by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap")

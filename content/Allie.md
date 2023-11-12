@@ -8,20 +8,6 @@ title: Allie
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Adam Treat](Adam_Treat "Adam Treat"), written in [C++](Cpp "Cpp") using [Qt](<https://en.wikipedia.org/wiki/Qt_(software)>), released under the terms of [GPL version 3](Free_Software_Foundation#GPL "Free Software Foundation").
 Allie is inspired by the seminal [AlphaZero](AlphaZero "AlphaZero") paper <a id="cite-note-1" href="#cite-ref-1">[1]</a> and the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") project - utilizing the [networks](Neural_Networks "Neural Networks") produced by Leela Chess, and sharing the [CuDNN](https://en.wikipedia.org/wiki/CuDNN) backend written by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Allie is a replacement of [Lc0's](Leela_Chess_Zero#Lc0 "Leela Chess Zero") search with an own implementation of a [PUCT](UCT#PUCT "UCT") [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 AllieStein](#alliestein)
-- [2 Features](#features)
-- [3 Lc0 Intersections](#lc0-intersections)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2019](#2019)
-  - [5.2 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## AllieStein
 
 AllieStein is the combination of Allie with Leela's third party **Stein** network by [Mark Jordan](index.php?title=Mark_Jordan&action=edit&redlink=1 "Mark Jordan (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, which is trained by [supervised learning](Supervised_Learning "Supervised Learning") feeding in games from [CCRL](CCRL "CCRL"),

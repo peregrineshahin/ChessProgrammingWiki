@@ -9,15 +9,6 @@ a British professional programmer holding a [bachelor of science](https://en.wik
 He is author of the chess program [Psycho](Psycho "Psycho"), which played the [UPCCC 1993](UPCCC_1993 "UPCCC 1993") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [UPCCC 1994](UPCCC_1994 "UPCCC 1994") [Uniform-Platform Computer Chess Championship](Uniform-Platform_Computer_Chess_Championship "Uniform-Platform Computer Chess Championship"),
 and as of 2020 still under active development <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 References](#references)
-
 ## Forum Posts
 
 ## 1995 ...

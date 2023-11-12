@@ -9,18 +9,6 @@ title: Ziggurat
 a chess engine by [David Norris](David_Norris "David Norris") which has been under development since its first release as **WinChess** <a id="cite-note-2" href="#cite-ref-2">[2]</a> and **Windows Chess** in the first [Microsoft Entertainment Pack](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack) in 1989.
 A group of [Microsoft](Microsoft "Microsoft") developers believed that, in order for [Windows](Windows "Windows") to succeed, a grassroots effort to create simple but fun entertainment titles needed to be made, and thus "Bogus Software" was born <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The byline for Bogus Software was that all of our applications could be "written in ten days plus a couple of two day follow-ups".
 
-## Contents
-
-- [1 Description](#description)
-- [2 Photos and Games](#photos-and-games)
-- [3 Screenshot](#screenshot)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Description
 
 The present Ziggurat is a [UCI](UCI "UCI") chess engine re-written from the ground up in [C](C "C") that uses the [PVS/ZWS](Principal_Variation_Search "Principal Variation Search") search algorithm, [aspiration](Aspiration_Windows "Aspiration Windows") windows, the [null move heuristic](Null_Move "Null Move"), [magic bitboards](Magic_Bitboards "Magic Bitboards"), and [limited razoring](Razoring "Razoring").

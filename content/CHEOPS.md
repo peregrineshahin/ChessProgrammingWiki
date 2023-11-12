@@ -8,19 +8,6 @@ title: CHEOPS
 
 a **Che**ss-**O**riented **P**rocessing **S**ystem with a dedicated chess processor, developed end of the 70s at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") by [John Moussouris](John_Moussouris "John Moussouris"), [Jack Holloway](Jack_Holloway "Jack Holloway") and [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), derived from the original conception and design of a 8x8 hardware chess array instrumented by [Edward Fredkin](Edward_Fredkin "Edward Fredkin"). CHEOPS was used by [Baisley's](Alan_Baisley "Alan Baisley") [Tech 2](Tech#Tech2 "Tech") and a [brute force](Brute-Force "Brute-Force") version of [Greenblatt's](Richard_Greenblatt "Richard Greenblatt") [Mac Hack](Mac_Hack "Mac Hack") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, but unfortunately have never competed in computer chess tournaments with this approach. According to [Joe Condon](Joe_Condon "Joe Condon") and [Ken Thompson](Ken_Thompson "Ken Thompson"), already working on a chess hardware for [Belle](Belle "Belle"), the problem with CHEOPS was the lack of positional [evaluation](Evaluation "Evaluation") support <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Block Diagrams](#block-diagrams)
-- [2 CHARM](#charm)
-  - [2.1 The Chess arrays](#the-chess-arrays)
-  - [2.2 The Array module](#the-array-module)
-- [3 Micro-Controller](#micro-controller)
-- [4 Publications](#publications)
-- [5 See also](#see-also)
-- [6 Namesakes](#namesakes)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Block Diagrams
 
 [](File:Cheops.png "CHEOPS block diagram")

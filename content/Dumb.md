@@ -7,19 +7,6 @@ title: Dumb
 
 a simple and stupid [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Richard Delorme](Richard_Delorme "Richard Delorme"), written in the [D programming language](</D_(Programming_Language)> "D (Programming Language)"), released in June 2017 under the [MIT License](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology"). Dumb is a [dumbed down](https://en.wikipedia.org/wiki/Dumbing_down) version of [Amoeba](Amoeba "Amoeba") with just a basic [evaluation function](Evaluation "Evaluation") and basic [search algorithms](Search "Search"). Its purpose is to be a [benchmark](Category:Benchmark "Category:Benchmark") for weak engines <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

@@ -10,20 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Fridolin had its over the board debut 2010 in [Kanazawa](https://en.wikipedia.org/wiki/Kanazawa,_Ishikawa), where it played the [WCCC 2010](WCCC_2010 "WCCC 2010") and [WCSC 2010](WCSC_2010 "WCSC 2010") supported by book author [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes"), and further played the [DOCCC 2010](DOCCC_2010 "DOCCC 2010"), running on four cores.
 Fridolin **2.0**, ready to play the [WCCC 2015](WCCC_2015 "WCCC 2015") in [Leiden](Leiden_University "Leiden University"), was released in June 2015 along with the former private Kanazawa version Fridolin **1.0** <a id="cite-note-3" href="#cite-ref-3">[3]</a>. With Fridolin **3.0** in December 2018, [Scorpio Bitbases](Scorpio_Bitbases "Scorpio Bitbases") were replaced by [Syzygy Bases](Syzygy_Bases "Syzygy Bases") via [Fathom](Syzygy_Bases#Fathom "Syzygy Bases"), former [WinBoard](WinBoard "WinBoard") support was removed, and [PolyGlot](PolyGlot "PolyGlot") [Opening Book](Opening_Book "Opening Book") support added.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Features](#features)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 WCCC 2010](#wccc-2010)
-  - [3.2 WCSC 2010](#wcsc-2010)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Etymology
 
 Fridolin is a male given name, particularly in the [German-speaking countries](https://en.wikipedia.org/wiki/German_language_in_Europe), and [diminutive form](https://en.wikipedia.org/wiki/Diminutive) of [Friedrich](http://de.wikipedia.org/wiki/Friedrich#Herkunft_und_Bedeutung) ([Fredrik](https://en.wikipedia.org/wiki/Fredrik), [Frederick](https://en.wikipedia.org/wiki/Frederick_%28given_name%29)), from the [Old High German](https://en.wikipedia.org/wiki/Old_High_German) *Fridu* meaning "peace" and *Rîhhi* meaning "ruler" or "power". During the [German occupation](https://en.wikipedia.org/wiki/Military_Administration_in_France_%28Nazi_Germany%29) of [France](https://en.wikipedia.org/wiki/Zone_occup%C3%A9e) 1940-1944 in [World War II](https://en.wikipedia.org/wiki/World_War_II), many French called the Germans "Fridolin" <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Fridolin is not only the name of Christian's engine, but also the name of his son <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

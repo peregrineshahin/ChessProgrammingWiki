@@ -8,13 +8,6 @@ title: Chess Champion Mark IV
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") manufactured and released by [SciSys](Saitek "Saitek") in 1981 as successor of the [Chess Champion Super System III](Chess_Champion_Super_System_III "Chess Champion Super System III"). The computer had a [6502](6502 "6502") CPU @ 2MHz with a 12 KiB [Philidor Software](Philidor_Software "Philidor Software") program written by [Mike Johnson](Mike_Johnson "Mike Johnson"), and was superseded by the [Chess Champion Mark V](Chess_Champion_Mark_V "Chess Champion Mark V") later in 81 <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Chess Champion Mark IV participated at the [CPWTIPC 1981](CPWTIPC_1981 "CPWTIPC 1981"), where it lost the last round by default because the computer was stolen after round 6 <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Champion Super System III](Chess_Champion_Super_System_III "Chess Champion Super System III")

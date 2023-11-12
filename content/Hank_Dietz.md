@@ -12,16 +12,6 @@ Along with Randell J. Fisher, Hank Dietz coined the acronym [SWAR](SIMD_and_SWAR
 and maintains the SWAR site <a id="cite-note-3" href="#cite-ref-3">[3]</a> along with the collection of *The Aggregate Magic Algorithms* <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Hank Dietz is further author of the early [Go](Go "Go") playing program *Jim* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1985 ...](#1985-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

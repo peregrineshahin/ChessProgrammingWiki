@@ -7,15 +7,6 @@ title: Ian Frank
 
 a British computer scientist and associate professor at [Future University-Hakodate](https://en.wikipedia.org/wiki/Future_University_Hakodate) in [Hakodate, Hokkaido](https://en.wikipedia.org/wiki/Hakodate,_Hokkaido), [Japan](https://en.wikipedia.org/wiki/Japan). His research focuses on [robot soccer](https://en.wikipedia.org/wiki/RoboCup) and [multiplayer games](https://en.wikipedia.org/wiki/Multiplayer_game) with [incomplete information](https://en.wikipedia.org/wiki/Complete_information), in particular the game of [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)"). He received a M.Sc. and Ph.D. degree from [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") in 1991 <a id="cite-note-1" href="#cite-ref-1">[1]</a> and 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a> respectively, both on [search](Search "Search") and [planning](Planning "Planning") applied to Bridge, advisor was [Alan Bundy](Mathematician#ABundy "Mathematician"). Along with [David Basin](Mathematician#DBasin "Mathematician"), Ian Frank is author of the [Bridge program](https://en.wikipedia.org/wiki/Computer_bridge) *Finesse* <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His further interests includes the *World Music and Dance Festival* (WNDF) in Hakodate <a id="cite-note-4" href="#cite-ref-4">[4]</a>, where he is chairman of the annual event <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>

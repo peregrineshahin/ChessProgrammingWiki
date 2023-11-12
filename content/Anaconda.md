@@ -8,15 +8,6 @@ title: Anaconda
 
 a [Chessbase](Fritz#FritzGUI "Fritz") compliant chess engine by [Frank Schneider](Frank_Schneider "Frank Schneider") and [Kai Skibbe](Kai_Skibbe "Kai Skibbe") and a successor of their [GromitChess](Gromit "Gromit") program, written in [C++](Cpp "Cpp") with a [0x88](0x88 "0x88") board representation, an improved [evaluation](Evaluation "Evaluation") and [time-management](Time_Management "Time Management"), and some new [search heuristics](Search "Search"), which allow it to search [deeper](Depth "Depth") but more [selective](Selectivity "Selectivity"). GromitChess was renamed to Anaconda in 2003 to prevent [copyright infringements](https://en.wikipedia.org/wiki/Copyright_infringements) with [Wallace and Gromit](https://en.wikipedia.org/wiki/Wallace_and_Gromit) by [Aardman Animations](https://en.wikipedia.org/wiki/Aardman_Animations) <a id="cite-note-2" href="#cite-ref-2">[2]</a> . The new name also devotes the positional playing style of the program, to slowly restrict its opponent [mobility](Mobility "Mobility"). Anaconda played the [IPCCC 2003](IPCCC_2003 "IPCCC 2003"), [IPCCC 2004](IPCCC_2004 "IPCCC 2004"), and [IPCCC 2005](IPCCC_2005 "IPCCC 2005"), and as [Chess960](Chess960 "Chess960") compliant engine, the [second Livingston Chess960 Computer World Championship](Chess960CWC_2006 "Chess960CWC 2006").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Ginkgo](Ginkgo "Ginkgo")

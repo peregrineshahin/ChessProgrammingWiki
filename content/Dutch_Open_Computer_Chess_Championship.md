@@ -5,15 +5,6 @@ title: Dutch Open Computer Chess Championship
 
 From [1981](Timeline#1981 "Timeline") until [2011](Timeline#2011 "Timeline") the **Dutch Computer Championship** was held, organized by the [CSVN](CSVN "CSVN"), since [1994](Timeline#1994 "Timeline") the Dutch **Open** Computer Chess Championship. Along with the [International CSVN Tournament](International_CSVN_Tournament "International CSVN Tournament"), the DOCCC was continued in [2013](Timeline#2013 "Timeline") under the name [CSVN Programmers Tournament](CSVN_Programmers_Tournament "CSVN Programmers Tournament").
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 Trophy](#trophy)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Editions
 
 |  Edition

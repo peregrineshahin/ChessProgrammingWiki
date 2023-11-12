@@ -7,13 +7,6 @@ title: Aaron L. Futer
 
 a Russian mathematician and computer scientist. In the 70s at the Institute for System Studies (VNIISI) in [Moscow](https://en.wikipedia.org/wiki/Moscow), he researched on solving chess endgames, along with [Edward Komissarchik](Edward_Komissarchik "Edward Komissarchik") on KQP(g7)KQ (1974), with [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") on [KRPKR](Rook_Endgame#KRPKR "Rook Endgame") (1976) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Based on [Zermelo's](Ernst_Zermelo "Ernst Zermelo") justification <a id="cite-note-3" href="#cite-ref-3">[3]</a> they applied [retrograde analysis](Retrograde_Analysis "Retrograde Analysis"), using [bitboards](Bitboards "Bitboards") in coding the chess board.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

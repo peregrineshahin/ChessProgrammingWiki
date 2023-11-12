@@ -8,15 +8,6 @@ title: Conic X
 
 an experimental [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") by correspondent [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) manufacturer *Conic* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, with a program by [Stephen Chen](Stephen_Chen "Stephen Chen") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Conic X played the [WMCCC 1981](WMCCC_1981 "WMCCC 1981") in [Travemünde](https://en.wikipedia.org/wiki/Travem%C3%BCnde) and became 6th of 8 with 2/7. While the tournament report by [Björn Schwarz](index.php?title=Bj%C3%B6rn_Schwarz&action=edit&redlink=1 "Björn Schwarz (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a> mentioned Conic Experimental running on a [Z 80 A](Z80 "Z80") CPU, the soon later released *Conic 7013* endorsed by [Victor Korchnoi](https://en.wikipedia.org/wiki/Viktor_Korchnoi), with magnetic [sensory board](Sensory_Board "Sensory Board") and apparently a similar program <a id="cite-note-8" href="#cite-ref-8">[8]</a>, was shipped with a [6502](6502 "6502") processor.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Computer](#chess-computer)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [WMCCC 1981](WMCCC_1981 "WMCCC 1981"), round 5, Conic X - [Philidor X](Philidor "Philidor") <a id="cite-note-9" href="#cite-ref-9">[9]</a>

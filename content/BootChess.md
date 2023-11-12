@@ -11,13 +11,6 @@ BootChess otherwise performs a so called "TaxiMax" heuristic, maximizing [captur
 This kind of half-ply search cannot prevent moving it's own [king](King "King") in [check](Check "Check"), opposed to the old [1K ZX Chess](1K_ZX_Chess "1K ZX Chess") by [David Horne](David_Horne "David Horne") and the recent [Toledo Atomchess](Toledo "Toledo") by [Óscar Toledo Gutiérrez](%C3%93scar_Toledo_Guti%C3%A9rrez "Óscar Toledo Gutiérrez"),
 who took the BootChess challenge with 481 bytes and a 3-ply search <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [1K ZX Chess](1K_ZX_Chess "1K ZX Chess")

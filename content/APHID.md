@@ -8,18 +8,6 @@ title: APHID
 
 an asynchronous parallel [alpha-beta](Alpha-Beta "Alpha-Beta") based search algorithm developed and elaborated by [Mark Brockington](Mark_Brockington "Mark Brockington") as topic of his Ph.D. thesis at the Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, along with his thesis advisor [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). APHID uses repeated depth-limited searches of the top of the [search tree](Search_Tree "Search Tree") to instantiate, update and [load balance](<https://en.wikipedia.org/wiki/Load_balancing_(computing)>) work lists for other processors. APHID can be seen as a [master/slave](<https://en.wikipedia.org/wiki/Master/slave_(technology)>) model, but can be generalized to a hierarchical processor tree.
 
-## Contents
-
-- [1 Library](#library)
-- [2 How it works](#how-it-works)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Game Tree Search](#game-tree-search)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Library
 
 APHID has been programmed as an easy-to-implement, game-independent library <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and was implemented into the chess program [The Turk](The_Turk "The Turk") with less than one day of programming effort <a id="cite-note-4" href="#cite-ref-4">[4]</a>. It was further tested in [Crafty](Crafty "Crafty") in chess, in [Chinook](<https://en.wikipedia.org/wiki/Chinook_(draughts_player)>) in the domain of [Checkers](Checkers "Checkers"), and in Brockington's [Othello](Othello "Othello") program *Keyano* <a id="cite-note-5" href="#cite-ref-5">[5]</a>. APHID yields reasonable performance on a [network](https://en.wikipedia.org/wiki/Computer_network) of [workstations](https://en.wikipedia.org/wiki/Workstation), an architecture where it is extremely difficult to use a [shared transposition table](Shared_Hash_Table "Shared Hash Table") effectively. More recently, APHID was used within the [ChessBrain](ChessBrain "ChessBrain") project of over 2000 [internet](https://en.wikipedia.org/wiki/Internet) connected machines running [Beowulf](Beowulf "Beowulf") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

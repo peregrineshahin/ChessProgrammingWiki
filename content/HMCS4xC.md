@@ -9,16 +9,6 @@ a family of [Hitachi](https://en.wikipedia.org/wiki/Hitachi) [4-bit](https://en.
 The single-chip controller series provide various amounts of [ROM](Memory#ROM "Memory") of 10-bit words (code and pattern) and [RAM](Memory#RAM "Memory") of up to 160 [nibbles](Nibble "Nibble"),
 [parallel I(O](https://en.wikipedia.org/wiki/Parallel_I/O) aimed for driving dot matrix [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display), timer/counter and [interrupt controller](https://en.wikipedia.org/wiki/Programmable_interrupt_controller).
 
-## Contents
-
-- [1 Architecture](#architecture)
-- [2 See also](#see-also)
-- [3 Chess Programs](#chess-programs)
-- [4 Publications](#publications)
-- [5 Manuals](#manuals)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Architecture
 
 The HMCS44C has four nibble registers and two 1-bit registers (carry, status) available to the programmer.

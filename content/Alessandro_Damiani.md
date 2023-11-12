@@ -8,14 +8,6 @@ title: Alessandro Damiani
 an Italian/Swiss computer scientist and lead application developer <a id="cite-note-1" href="#cite-ref-1">[1]</a>, born and living in Switzerland. He graduated in computer science and mathematics from [ETH Zurich](ETH_Zurich "ETH Zurich") in 1999.
 As computer chess programmer and founding member of the [Gruppo Scacchi e Informatica](G_6 "G 6"), Alessandro is author of the chess engine [Fortress](</Fortress_(Engine)> "Fortress (Engine)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and creator of [Rotated Indices](Rotated_Indices "Rotated Indices"), a deconcentrated version of [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1997 ...](#1997-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1997 ...

@@ -8,18 +8,6 @@ title: Beowulf
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible [open source engine](Category:Open_Source "Category:Open Source"), the game-playing brains behind the [ChessBrain](ChessBrain "ChessBrain") project, a distributed computing project similar to [SETI@home](https://en.wikipedia.org/wiki/SETI@home), that aims to harness the collective calculating power of individual computers over the internet to play a game of chess <a id="cite-note-2" href="#cite-ref-2">[2]</a> . [Colin Frayn](Colin_Frayn "Colin Frayn") is head of the project and primary Beowulf author, supported by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Ron Murawski](Ron_Murawski "Ron Murawski"), [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano") et al.. The version history ends with version 2.3, February 13, 2004, version 2.4 from August 21, 2010 is the latest released version with several bug fixes <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Beowulf is published under [GNU General Public Licence V2](Free_Software_Foundation#GPL "Free Software Foundation").
 
-## Contents
-
-- [1 Features](#features)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

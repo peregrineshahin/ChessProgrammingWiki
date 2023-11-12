@@ -7,13 +7,6 @@ title: DanChess
 
 a chess engine by [Daniel Shawul](Daniel_Shawul "Daniel Shawul") written in [C++](Cpp "Cpp"), compliant to the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). DanChess uses a hybrid [mailbox](Mailbox "Mailbox") and [bitboards](Bitboards "Bitboards") board representation <a id="cite-note-1" href="#cite-ref-1">[1]</a> , utilizes [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps"), and is able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"). DanChess had its tournament debut in 2005, playing a strong [CCT7](CCT7 "CCT7") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , but was soon superseeded by its successor [Scorpio](Scorpio "Scorpio") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Controversy](#controversy)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Controversy
 
 During [forum](Computer_Chess_Forums "Computer Chess Forums") discussions about early DanChess versions and the definition of [clones](Category:Clone "Category:Clone") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Robert Hyatt](Robert_Hyatt "Robert Hyatt") pointed out DanChess had various pre-initialized tables as used in [Crafty](Crafty "Crafty") and a quite similar [SEE swap](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") implementation <a id="cite-note-5" href="#cite-ref-5">[5]</a>, the latter also mentioned as extremely similar by [Dann Corbit](Dann_Corbit "Dann Corbit"), who as a kind of ombudsman inspected DanChess' source code concluding it "clean" otherwise, and disagreed with Hyatt about both the spirit and the extent of whether or not DanChess is a Crafty clone <a id="cite-note-6" href="#cite-ref-6">[6]</a>. However, all controversial tracks were later removed in subsequent versions, version 1.04 was published as open source <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

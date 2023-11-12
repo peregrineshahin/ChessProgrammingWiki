@@ -8,16 +8,6 @@ title: Amdahl 470
 
 [Amdahl Corporation's](https://en.wikipedia.org/wiki/Amdahl_Corporation) first machine, the Amdahl 470V/6 shipped in 1975, was a [plug compatible](https://en.wikipedia.org/wiki/Plug_compatible) [mainframe computer](https://en.wikipedia.org/wiki/Mainframe_computer) designed by former [IBM Fellow](https://en.wikipedia.org/wiki/IBM_Fellow) and chief architect of [IBM System/360](IBM_360 "IBM 360") [Gene Amdahl](https://en.wikipedia.org/wiki/Gene_Amdahl). Competing with [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") in the mainframe market, it was a less expensive, more reliable and faster replacement for the [System 370/168](IBM_370 "IBM 370"). By purchasing an Amdahl 470 and plug-compatible peripheral devices from third-party manufacturers, customers could now run S/360 and S/370 applications under [VM](https://en.wikipedia.org/wiki/VM_%28operating_system%29) without buying actual IBM hardware <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Technology](#technology)
-- [2 Processor](#processor)
-- [3 Chess Programs](#chess-programs)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Technology
 
 The Amdahl 470V/6 uses [large scale integration](https://en.wikipedia.org/wiki/Integrated_circuit#LSI) (LSI) semiconductor technology, [bipolar emitter-coupled logic](https://en.wikipedia.org/wiki/Emitter-coupled_logic) (ECL) in the [CPU](https://en.wikipedia.org/wiki/Central_processing_unit), [metal–oxide–semiconductor](https://en.wikipedia.org/wiki/MOSFET) (MOS) in [main memory](Memory "Memory"), and ultra high speed bipolar components for the cache memory <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

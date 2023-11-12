@@ -8,13 +8,6 @@ title: Clash
 
 a chess program written in [Fortran IV](Fortran "Fortran") by [Chris Peters](index.php?title=Chris_Peters&action=edit&redlink=1 "Chris Peters (page does not exist)"), in 1980 a student at the [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington). Clash played the [ACM 1980](ACM_1980 "ACM 1980") on a [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments) [TI-990](https://en.wikipedia.org/wiki/TI-990) 16-bit [minicomputer](https://en.wikipedia.org/wiki/Minicomputer) (28k, 16 bits; 200,000 inst/sec). Without [iterative deepening](Iterative_Deepening "Iterative Deepening") there was not much to gain, and Clash lost all of its four games.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Photos & Games](#photos-.26-games)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Description
 
 A brief description is available from the [ACM 1980](ACM_1980 "ACM 1980") tournament booklet <a id="cite-note-2" href="#cite-ref-2">[2]</a> :

@@ -5,14 +5,6 @@ title: CPWTIPC 1981
 
 The **Chess Programs World Tournament in Personal Computers** took place from May 28 to 31, [1981](Timeline#1981 "Timeline") in [Paris](https://en.wikipedia.org/wiki/Paris), [France](https://en.wikipedia.org/wiki/France), organized by [Pierre Nolot](Pierre_Nolot "Pierre Nolot") and sponsored by [L'Ordinateur individuel](http://fr.wikipedia.org/wiki/L%27Ordinateur_individuel). The seven-round [Swiss tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament), intended as Micro Computer World Championship, acknowledged by the French Chess Federation, lacked the sanction of [ICCA](ICCA "ICCA") and [FIDE](FIDE "FIDE") <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Final Standing
 
 |  #

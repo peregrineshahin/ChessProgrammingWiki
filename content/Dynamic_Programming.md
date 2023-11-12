@@ -7,21 +7,6 @@ title: Dynamic Programming
 
 a mathematical, algorithmic optimization method of [recursively](Recursion "Recursion") nesting [overlapping sub problems](https://en.wikipedia.org/wiki/Overlapping_subproblems) of [optimal substructure](https://en.wikipedia.org/wiki/Optimal_substructure) inside larger decision problems. The term DP was coined by [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") in the 50s not as programming in the sense of producing computer code, but mathematical programming, planning or optimization similar to [linear programming](https://en.wikipedia.org/wiki/Linear_programming), devoted to the study of multistage processes. These processes are composed of sequences of operations in which the outcome of those preceding may be used to guide the course of future ones <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 DP in Computer Chess](#dp-in-computer-chess)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1953 ...](#1953-...)
-  - [3.2 1960 ...](#1960-...)
-  - [3.3 1970 ...](#1970-...)
-  - [3.4 1980 ...](#1980-...)
-  - [3.5 1990 ...](#1990-...)
-  - [3.6 2000 ...](#2000-...)
-  - [3.7 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## DP in Computer Chess
 
 In computer chess, dynamic programming is applied in [depth-first](Depth-First "Depth-First") [search](Search "Search") with [memoization](https://en.wikipedia.org/wiki/Memoization) aka using a [transposition table](Transposition_Table "Transposition Table") and/or other [hash tables](Hash_Table "Hash Table") while traversing a [tree](Search_Tree "Search Tree") of overlapping sub problems aka child positions after making a move by one side in top-down manner, gaining from stored [positions](Chess_Position "Chess Position") of sibling subtrees due to [transpositions](Transposition "Transposition") and/or common aspects of positions, in particular effective inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. Another approach of dynamic programming in computer chess or computer games is the application of [retrograde analysis](Retrograde_Analysis "Retrograde Analysis"), to solve a problem by solving subproblems in bottom-up manner starting from terminal nodes <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

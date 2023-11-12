@@ -6,21 +6,6 @@ title: Castling
 [](https://fineartamerica.com/featured/castling-marina-kalinovsky.html) [Marina Kalinovsky](Category:Marina_Kalinovsky "Category:Marina Kalinovsky") - Castling <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Castling** is a composite [move](Moves "Moves") of [King](King "King") and [Rook](Rook "Rook") at the same time. In standard chess it consists of moving a king two squares towards the rook and executing a jump of a rook over the king.
 
-## Contents
-
-- [1 Rules](#rules)
-- [2 Irreversibility](#irreversibility)
-- [3 Chess960](#chess960)
-- [4 Shogi](#shogi)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 1982](#1982)
-  - [6.2 2000 ...](#2000-...)
-  - [6.3 2010 ...](#2010-...)
-  - [6.4 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Rules
 
 The prequisites for doing it are as follows:

@@ -18,12 +18,6 @@ ISBN 0-7134-4914-4
 
 ## Contents
 
-- [1 Contents](#contents)
-- [2 Source of Supply](#source-of-supply)
-- [3 Forum Posts](#forum-posts)
-
-## Contents
-
 |  |  Preface
 |  page
 |

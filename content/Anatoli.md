@@ -9,15 +9,6 @@ title: Anatoli
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Martin Giepmans](Martin_Giepmans "Martin Giepmans"), first released in April 2008 and initially freely available via [Leo Dijksman's](Leo_Dijksman "Leo Dijksman") [WBEC Ridderkerk](WBEC "WBEC") site, today from [Ron Murawski's](Ron_Murawski "Ron Murawski") download site <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Like Martin's earlier engine [SpiderChess](SpiderChess "SpiderChess"), Anatoli is written in [Delphi](Delphi "Delphi"). Martin named it after [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) (Dutch [transliteration](https://en.wikipedia.org/wiki/Romanization_of_Russian) [Anatoli Karpov](http://nl.wikipedia.org/wiki/Anatoli_Karpov)) <a id="cite-note-3" href="#cite-ref-3">[3]</a> because he admired Karpov's subtle playing style and had the hope he might teach Anatoli to play a bit like Karpov, though <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [SpiderChess](SpiderChess "SpiderChess")

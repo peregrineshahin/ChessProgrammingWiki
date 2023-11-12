@@ -11,16 +11,6 @@ BlackBishop evolved from his former engine [Holmes](Holmes "Holmes"), and applie
 maintains [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps") for [king safety](King_Safety "King Safety") and other [evaluation](Evaluation "Evaluation") features, and [generates moves](Move_Generation "Move Generation") with the help of [piece lists](Piece-Lists "Piece-Lists").
 BlackBishop was most active in 2004, playing the [IPCCC 2004](IPCCC_2004 "IPCCC 2004") and [CCT6](CCT6 "CCT6").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [CCT6](CCT6 "CCT6"), round 2, [Tao](Tao "Tao") - BlackBishop

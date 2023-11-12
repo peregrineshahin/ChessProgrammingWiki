@@ -15,15 +15,6 @@ furthermore, the rules governing the position of its successors provide some tut
 Moreover, automatic validation assures that mistakes in the rules will be discovered and then can be eliminated in dialogue
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Rules](#rules)
-- [2 KPKP](#kpkp)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Rules
 
 For a specific endgame, e.g. [KPK](KPK "KPK"), KQKQ, [KQKP](Queen_versus_Pawn "Queen versus Pawn"), or [KPKP](index.php?title=KPKP&action=edit&redlink=1 "KPKP (page does not exist)"),

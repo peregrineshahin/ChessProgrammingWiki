@@ -13,12 +13,6 @@ The *Boss* was renamed to [Grandmaster](Grandmaster "Grandmaster") for the inter
 After expansion due to distribution of third-party-developed games, and a long-term prosperous period, Kingsoft was acquired by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts) in 1995 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 while Schäfer left that company short after and continued his business in the computer games industry.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 - Fritz Schäfer (**1986**). *[Das große C-16 Buch](https://www.c64-wiki.de/wiki/Das_gro%C3%9Fe_C-16_Buch)*. [Kingsoft](https://en.wikipedia.org/wiki/Kingsoft_GmbH) (German) <a id="cite-note-3" href="#cite-ref-3">[3]</a>

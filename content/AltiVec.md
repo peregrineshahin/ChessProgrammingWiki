@@ -7,16 +7,6 @@ title: AltiVec
 
 a [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") [instruction set](https://en.wikipedia.org/wiki/Instruction_set) designed by Apple, IBM, and [Freescale Semiconductor](https://en.wikipedia.org/wiki/Freescale_Semiconductor) (formerly [Motorola's](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") Semiconductor Products Sector) - the [AIM alliance](https://en.wikipedia.org/wiki/AIM_alliance), introduced with Motorola's [PowerPC G4](PowerPC#G4 "PowerPC"), and Apple's [PowerPC G5](PowerPC#G4 "PowerPC"), now owned by [NXP Semiconductors](https://en.wikipedia.org/wiki/NXP_Semiconductors) and standard part of the [Power ISA v.2.03](https://en.wikipedia.org/wiki/Power_Architecture#Power_ISA_v.2.03). AltiVec features 32 128-bit vector registers that represent [vectors](Array "Array") of either 16 [bytes](Byte "Byte"), eight [16-bit (half) words](Word "Word") or four [32-bit words](Double_Word "Double Word") or [floats](Float "Float"). Most VMX/AltiVec instructions take three register operands. AltiVec has a flexible vector permute instruction (vperm), which can take arbitrary bytes from two source registers and places them in any position in a destination register controlled by an index register <a id="cite-note-1" href="#cite-ref-1">[1]</a>. [GCC](Free_Software_Foundation#GCC "Free Software Foundation") and other compilers provide intrinsics for AltiVec instructions from [C](C "C") or [C++](Cpp "Cpp") source code, or include [auto-vectorization](https://en.wikipedia.org/wiki/Automatic_vectorization) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Bitboards](#bitboards)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Manuals](#manuals)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Bitboards
 
 AltiVec instructions are very well suited for [bitboard](Bitboards "Bitboards") [fill algorithms](Fill_Algorithms "Fill Algorithms") and branchless [move generation](Move_Generation "Move Generation") techniques à la [DirGolem](DirGolem "DirGolem"). Since one 128-bit AltiVec register, keeping up to two [bitboards](Bitboards "Bitboards"), may treated as vector of 16 bytes, shifting techniques such as [one step](General_Setwise_Operations#OneStepOnly "General Setwise Operations") in all eight directions can be done more efficiently with respect to wraps from a- to the h-file or vice versa. North and south shifts by +-8 of each bitboard can be done with one vperm-instruction simultaniously, while west and east shifts can be done by bytewise shift left/right one.

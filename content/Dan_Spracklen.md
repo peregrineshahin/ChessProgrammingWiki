@@ -8,19 +8,6 @@ title: Dan Spracklen
 
 an American computer scientist and microcomputer chess pioneer. Along with his wife [Kathe](Kathe_Spracklen "Kathe Spracklen"), Dan started chess programming in 1977 on a [Z-80](Z80 "Z80") based *Wavemate Jupiter III* <a id="cite-note-2" href="#cite-ref-2">[2]</a> in [assembly language](Assembly "Assembly"). Their first program, [Sargon](Sargon "Sargon") <a id="cite-note-3" href="#cite-ref-3">[3]</a> had a one or two [ply](Ply "Ply") [search](Search "Search") without [quiescence](Quiescence_Search "Quiescence Search") but [exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. After the success at [The Second West Coast Computer Faire MCCT](MCCT_1978 "MCCT 1978") in March 1978, and the shared third place at [ACM 1978](ACM_1978 "ACM 1978"), the Spracklens became professional computer chess programmers. Sargon II was ported to various early home computers, for instance [TRS-80](TRS-80 "TRS-80") and [6502](6502 "6502") based [Apple II](Apple_II "Apple II") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, as well as [dedicated units](Dedicated_Chess_Computers "Dedicated Chess Computers") as [Chafitz ARB Sargon 2.5](Chafitz_ARB_Sargon_2.5 "Chafitz ARB Sargon 2.5") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Fidelity](#fidelity)
-- [3 Saitek](#saitek)
-- [4 Oral History](#oral-history)
-  - [4.1 How it started](#how-it-started)
-  - [4.2 The Last WCCC](#the-last-wccc)
-- [5 See also](#see-also)
-- [6 Selected Publications](#selected-publications)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc14ba4b)

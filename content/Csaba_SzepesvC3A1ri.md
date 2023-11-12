@@ -8,17 +8,6 @@ title: Csaba SzepesvC3A1ri
 
 a Hungarian computer scientiest with research interests in applications of statistical techniques in AI, and [Reinforcement Learning](Reinforcement_Learning "Reinforcement Learning") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Csaba Szepesvári worked at the *Computer and Automation Research Institute* of the [Hungarian Academy of Sciences](https://en.wikipedia.org/wiki/Hungarian_Academy_of_Sciences), and is professor at the [Department of Computing Science](http://www.cs.ualberta.ca/), [University of Alberta](University_of_Alberta "University of Alberta"), and principal investigator of the RLAI <a id="cite-note-3" href="#cite-ref-3">[3]</a> group, actually on leave at [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)").
 
-## Contents
-
-- [1 UCT](#uct)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1994 ...](#1994-...)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-  - [2.4 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## UCT
 
 In 2006, along with [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Csaba Szepesvári introduced [UCT](UCT "UCT") (Upper Confidence bounds applied to Trees), a new algorithm that applies [bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) ideas to guide [Monte-Carlo planning](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. UCT accelerated the Monte-Carlo revolution in computer [Go](Go "Go") <a id="cite-note-5" href="#cite-ref-5">[5]</a> and other domains.

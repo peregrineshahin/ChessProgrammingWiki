@@ -11,14 +11,6 @@ a series of commercial chess programs by [David Thompson](index.php?title=David_
 In 1983, Chess was released through [Computer Concepts](https://en.wikipedia.org/wiki/Xara) targeting the [BBC Micro](BBC_Micro "BBC Micro") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 while the Acornsoft Chess brand for the BBC Micro was continued with a [program](Acornsoft_Chess "Acornsoft Chess") by [Arthur Norman](Arthur_Norman "Arthur Norman") and [Nick Pelling](Nick_Pelling "Nick Pelling") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Chess was further adapted for the [Commodore 64](Commodore_64 "Commodore 64") and released in 1984 by [Superior Software](https://en.wikipedia.org/wiki/Superior_Software) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and by [IJK Software](https://fr.wikipedia.org/wiki/IJK_Software) for the [Oric-1](https://en.wikipedia.org/wiki/Oric#Oric-1) and [Oric Atmos](https://en.wikipedia.org/wiki/Oric#Oric_Atmos) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Screenshot
 
 [](http://bbcmicro.co.uk/game.php?id=955)

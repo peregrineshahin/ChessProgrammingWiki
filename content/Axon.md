@@ -8,15 +8,6 @@ title: Axon
 
 a chess engine by primary author [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") with chess knowledge and opening moves contributed by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"). Geniss Axon, a plain [alpha-beta](Alpha-Beta "Alpha-Beta") searcher whose development started in 2001, was written in compact 16-bit [8086](8086 "8086") [assembly](Assembly "Assembly"), also incorporated into the *Axon Benchmark* program, which is available from the [Arena](Arena "Arena") site <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The [benchmark](https://en.wikipedia.org/wiki/Benchmarking) indicates how well [x86](X86 "X86") processors will support Axon's 16-bit instructions.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Description
 
 Axon used a 12x12 [mailbox](Mailbox "Mailbox") to represent the board, and applies a unique [move repetition detection](Repetitions#RepetitionofMoves "Repetitions") technique, as described by Vučković and Vidanović in 2004 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Further developments were Axon I, the successor of Geniss Axon XP, first using [null move pruning](Null_Move_Pruning "Null Move Pruning") with [R](Depth_Reduction_R "Depth Reduction R") = 2, the 32-bit port Axon II utilizing 64-bit [MMX](MMX "MMX") extensions, and Axon 3 the serial program of the parallel chess system [Achilles](Achilles "Achilles") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In 2008, Vučković introduced the [Compact Chessboard Representation](Nibble#ArrayOfNibbles "Nibble") as used in Axon <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

@@ -15,17 +15,6 @@ in the 90s, he was affiliated with the [Technical University of Berlin](https://
 He survived the [1999 İzmit earthquake](https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake), since 2000,
 his residence was in [Antalya](https://en.wikipedia.org/wiki/Antalya). Harun Taner died in May 2015 at age 48 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2008](#2008)
-  - [1.2 2009](#2009)
-  - [1.3 2010](#2010)
-  - [1.4 2011](#2011)
-  - [1.5 2012 ...](#2012-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2008

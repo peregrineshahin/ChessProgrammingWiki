@@ -9,13 +9,6 @@ a [Crafty clone](Crafty#CraftyClones "Crafty") by [Hans Secelle](Hans_Secelle "H
 There were no attempts to "hide" anything from Hans' and Albrecht's side <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and despite violating the Crafty license, since program changes were never published <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and lack of explicit permission by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Bionic Impakt played the [DOCCC 1998](DOCCC_1998 "DOCCC 1998") with permission of the [CSVN](CSVN "CSVN").
 
-## Contents
-
-- [1 DOCCC 1998](#doccc-1998)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## DOCCC 1998
 
 While Bionic Impakt did quite well at the [DOCCC 1998](DOCCC_1998 "DOCCC 1998") and caused an éclat after winning from [The King](The_King "The King"), [Diep](Diep "Diep") and [Kallisto](Kallisto "Kallisto") and finally becoming tied third, other participants complained <a id="cite-note-5" href="#cite-ref-5">[5]</a> and raised forum discussions about using open source programs <a id="cite-note-6" href="#cite-ref-6">[6]</a> and [cloning](Category:Clone "Category:Clone") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, also because during the two weekends of the tournament, the playing version appeared to have changed <a id="cite-note-8" href="#cite-ref-8">[8]</a>, claiming some the program played the first weekend was more Crafty like <a id="cite-note-9" href="#cite-ref-9">[9]</a>, but explicitly later denied by Heeffer <a id="cite-note-10" href="#cite-ref-10">[10]</a>. However, as a consequence Hans and Albrecht retired on Bionic Impakt and joined forces with [Tom Vijlbrief](Tom_Vijlbrief "Tom Vijlbrief") on his program [Ant](Ant "Ant") <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>.

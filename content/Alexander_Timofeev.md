@@ -8,13 +8,6 @@ title: Alexander Timofeev
 
 an Ukrainian computer scientist and systems engineer, graduated in 1977 from the *Engineering and Physics Department* of the [Kharkiv Polytechnic Institute](https://en.wikipedia.org/wiki/Kharkiv_Polytechnic_Institute), with interests in [database management systems](https://en.wikipedia.org/wiki/Database_management_systems), [DSP](https://en.wikipedia.org/wiki/Digital_signal_processing), and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence").
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 Alexander Timofeev elaborated on [Botvinnik's](Mikhail_Botvinnik "Mikhail Botvinnik") [Pioneer](Pioneer "Pioneer") project, and on [Stilman's](Boris_Stilman "Boris Stilman") [Linguistic Geometry](index.php?title=Linguistic_Geometry&action=edit&redlink=1 "Linguistic Geometry (page does not exist)"), both topics of his chess programming site <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

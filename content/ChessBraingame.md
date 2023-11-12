@@ -8,18 +8,6 @@ title: ChessBraingame
 
 a chess playing entity inspired by the [volunteer computing](https://en.wikipedia.org/wiki/Volunteer_computing) project [SETI@home](https://en.wikipedia.org/wiki/SETI@home), consisting of a virtual chess supercomputer of over 2000 [internet](https://en.wikipedia.org/wiki/Internet) connected machines running the [Beowulf](Beowulf "Beowulf") [open source chess engine](Category:Open_Source "Category:Open Source") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The project was headed by [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), who wrote much of the networking infrastructure, and [Colin Frayn](Colin_Frayn "Colin Frayn"), who was responsible for the chess side of things <a id="cite-note-3" href="#cite-ref-3">[3]</a>, with many voluntary computer chess developers and even more aficionados contributing in improving and testing the program, or in providing processing resources. After the presentation of **ChessBrain II** in 2006 and first tests <a id="cite-note-4" href="#cite-ref-4">[4]</a>, the ChessBrain project was abandoned.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Guinness World Record](#guinness-world-record)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Entity](#chess-entity)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Description
 
 ChessBrain's <a id="cite-note-5" href="#cite-ref-5">[5]</a> core [distributed search](Parallel_Search "Parallel Search") uses the [APHID](APHID "APHID") algorithm <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. It performs [iterative deepening](Iterative_Deepening "Iterative Deepening") firstly locally on the [server](<https://en.wikipedia.org/wiki/Server_(computing)>) and after a certain fixed time, with new [leaf nodes](Leaf_Node "Leaf Node") being distributed as **work units** to [peer nodes](https://en.wikipedia.org/wiki/Peer-to-peer) of a [Beowulf cluster](https://en.wikipedia.org/wiki/Beowulf_cluster). Work units encode [position](Chess_Position "Chess Position") and [search depth](Depth "Depth") to be analyzed, distributed to the connected peer nodes on a request basis, also ranked by estimated complexity using extrapolation from their recorded complexity at previous, shallower depths, to implement [load balancing](<https://en.wikipedia.org/wiki/Load_balancing_(computing)>) accordant to the peer nodes' performances. In case of a [fail-high](Fail-High "Fail-High") of its parent node, pending child peer nodes receive an abort signal to immediately return and retrieve a new work unit.

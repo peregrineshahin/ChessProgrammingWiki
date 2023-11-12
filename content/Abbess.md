@@ -9,15 +9,6 @@ title: Abbess
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Robert Pope](Robert_Pope "Robert Pope"), written in [C](C "C")/[C++](Cpp "Cpp"), and first released in late 2016.
 Abbess features [magic bitboards](Magic_Bitboards "Magic Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), and so far, a pretty vanilla [evaluation](Evaluation "Evaluation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Beaches](Beaches "Beaches")

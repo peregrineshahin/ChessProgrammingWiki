@@ -9,15 +9,6 @@ title: ChengWei Chou
 a Taiwanese linguist, computer scientist, affiliated with the Department of Computer Science and Information Engineering, [National Dong Hwa University](https://en.wikipedia.org/wiki/National_Dong_Hwa_University) (NDHU), [Hualien](https://en.wikipedia.org/wiki/Hualien_County).
 He received a B.Sc. degree in [Chinese language](https://en.wikipedia.org/wiki/Chinese_language) and [Chinese literature](https://en.wikipedia.org/wiki/Chinese_literature) from NDHU, a Master in CS and [information engineering](https://en.wikipedia.org/wiki/Information_engineering) from [Fu Jen Catholic University](https://en.wikipedia.org/wiki/Fu_Jen_Catholic_University) and his Ph.D. degree in CS and information engineering from NDHU in 2006, 2008, and 2013, respectively <a id="cite-note-2" href="#cite-ref-2">[2]</a>. His research interests center around [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [machine learning](Learning "Learning"), and include [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") applied to the games of [NoGo](index.php?title=NoGo&action=edit&redlink=1 "NoGo (page does not exist)"), [Go](Go "Go") and [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess"). For the latter game, along with [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), he is author the program [Diablo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=729) competing at [Computer Olympiads](Computer_Olympiad "Computer Olympiad") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2010 ...](#2010-...)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](https://icga.org/?page_id=849&wppa-album=6&wppa-cover=0&wppa-occur=1&wppa-photo=83)

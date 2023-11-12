@@ -10,15 +10,6 @@ an American computer science and mathematics major at the [University of Marylan
 He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") [Ethereal](Ethereal "Ethereal"), first officially released in June 2016 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and the distributed [SPRT](Match_Statistics#SPRT "Match Statistics") [testing framework](Engine_Testing#Frameworks "Engine Testing") for chess engines, [OpenBench](OpenBench "OpenBench") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 On June 04, 2021, Andrew Grant announced the commercial release of Ethereal **13.00** ([NNUE](NNUE "NNUE")), while the standard version remained available on [Github](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2016 ...](#2016-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Andrew Grant (**2020**). *Evaluation & Tuning in Chess Engines*. [pdf](https://github.com/AndyGrant/Ethereal/blob/master/Tuning.pdf) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>

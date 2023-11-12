@@ -12,14 +12,6 @@ co-founded *Babylon Software* <a id="cite-note-2" href="#cite-ref-2">[2]</a> in 
 He created a [physical module](https://en.wikipedia.org/wiki/Physics_engine) based on a very realistic [collision engine](https://en.wikipedia.org/wiki/Physics_engine#Collision_detection) such as Ipion <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Along with chess advisor [Jean-Philippe Karr](Jean-Philippe_Karr "Jean-Philippe Karr"), François is author of the chess programs [BugChess](BugChess_FR "BugChess FR") and [BugChess2](BugChess_FR#BugChess2 "BugChess FR").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2007 ...

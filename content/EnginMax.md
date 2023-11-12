@@ -8,14 +8,6 @@ title: EnginMax
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"), and later [UCI](UCI "UCI") compliant chess engine by [Engin Üstün](Engin_%C3%9Cst%C3%BCn "Engin Üstün"), written in [C](C "C") and [C++](Cpp "Cpp").
 The development started in 1995, a first release was published late 2000. An updated version played the [CCT13](CCT13 "CCT13") instead of its successor [Tornado](Tornado "Tornado") and gained a respectable 50% score.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Games
 
 [CCT13](CCT13 "CCT13"), round 7, [Capivara](Capivara "Capivara") - EnginMax <a id="cite-note-1" href="#cite-ref-1">[1]</a>

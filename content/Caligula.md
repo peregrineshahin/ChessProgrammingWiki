@@ -9,14 +9,6 @@ title: Caligula
 a chess program by [Gerardo Castaño Recio](Gerardo_Casta%C3%B1o_Recio "Gerardo Castaño Recio") and successor of [Toledo 2000](Toledo_2000 "Toledo 2000").
 Caligula played a strong [6th Spanish Open Computer Chess Championship 1999](SCCC_1999 "SCCC 1999") and became Spanish Champion and runner-up behind [Chess Tiger](Chess_Tiger "Chess Tiger"), winning from Tiger <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Diep](Diep "Diep"), but losing from its countrymen programs [Eugen](Eugen "Eugen") and [Ruy Lopez](Ruy_Lopez "Ruy Lopez").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Namesake](#namesake)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Caesar](Caesar "Caesar")

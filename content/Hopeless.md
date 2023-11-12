@@ -9,19 +9,6 @@ title: Hopeless
 an [open source chess engine](Category:Open_Source "Category:Open Source") by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), written in [Pascal](Pascal "Pascal") using *WBUnit* by [Maciej Szmit](Maciej_Szmit "Maciej Szmit") for [WinBoard](WinBoard "WinBoard") compliance. Early versions were incorporated inside the stand-alone chess program [Clericus](index.php?title=Clericus&action=edit&redlink=1 "Clericus (page does not exist)") written in [Delphi](Delphi "Delphi"), featuring an own [GUI](GUI "GUI") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Hopeless played the [PCCC 2006](PCCC_2006 "PCCC 2006"). In 2020 Hopeless and Clericus were revived by [Roland Chastain](Roland_Chastain "Roland Chastain"), using [Free Pascal](Pascal#FreePascal "Pascal") and [Lazarus](<https://en.wikipedia.org/wiki/Lazarus_(IDE)>) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

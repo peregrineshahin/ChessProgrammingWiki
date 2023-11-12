@@ -11,15 +11,6 @@ Alcides combined his hobbies of [programming](Programming "Programming") and [ch
 to develop his [open source engines](Category:Open_Source "Category:Open Source").
 The matured [Tucano](Tucano "Tucano") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, first released in 2011, is written in [C](C "C") - the didactic [Enxadrista](index.php?title=Enxadrista&action=edit&redlink=1 "Enxadrista (page does not exist)") first published in 2018, is written in [C#](C_sharp "C sharp") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and provides a detailed, elaborate documentation in [Portuguese language](https://en.wikipedia.org/wiki/Portuguese_language) in form of source code comments <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2015 ...](#2015-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2010 ...

@@ -9,14 +9,6 @@ title: Compute
 was an American [home computer magazine](https://en.wikipedia.org/wiki/Home_computer) that was published from 1979 until 1983 by [Small System Services](https://en.wikipedia.org/wiki/Small_System_Services) and from 1983 until 1994 by [ABC Publishing](https://en.wikipedia.org/wiki/American_Broadcasting_Company) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Compute!'s original goal was to write about and publish programs for all of the computers that used the [6502](6502 "6502"), such as [KIM-1](KIM-1 "KIM-1"), [Commodore PET](Commodore_PET "Commodore PET"), [Commodore VIC-20](Commodore_VIC-20 "Commodore VIC-20"), [Atari 400/800](Atari_8-bit "Atari 8-bit") and [Apple II](Apple_II "Apple II"), later also covering [IBM PC](IBM_PC "IBM PC"), [Atari ST](Atari_ST "Atari ST"), and the [Amiga](Amiga "Amiga") computers.
 
-## Contents
-
-- [1 Selected Articles](#selected-articles)
-  - [1.1 1980 ...](#1980-...)
-  - [1.2 1990 ...](#1990-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Articles
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -8,18 +8,6 @@ title: GridGinkgo
 
 a [grid computing](https://en.wikipedia.org/wiki/Grid_computing) [cluster](https://en.wikipedia.org/wiki/Computer_cluster) chess program by [Kai Himstedt](Kai_Himstedt "Kai Himstedt") incorporating [Ginkgo](Ginkgo "Ginkgo") by [Frank Schneider](Frank_Schneider "Frank Schneider") as primary search engine, and [Crafty](Crafty "Crafty") by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") as proxy engine, which performs no tree search but has a role to control the optimistic [pondering](Pondering "Pondering") <a id="cite-note-2" href="#cite-ref-2">[2]</a> with distributed worker clients <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Supported by [Timo Haupt](Timo_Haupt "Timo Haupt"), GridGinkgo played the [WCCC 2016](WCCC_2016 "WCCC 2016") in [Leiden](https://en.wikipedia.org/wiki/Leiden) on a cluster of 30 [Intel](Intel "Intel") and [AMD](AMD "AMD") [x86-64](X86-64 "X86-64") PCs with 224 processor cores, and came in fourth with 4/10 in that extraordinary strong field. At the [WCCC 2018](WCCC_2018 "WCCC 2018") in [Stockholm](https://en.wikipedia.org/wiki/Stockholm), GridGinkgo became runner-up, losing the play-off versus [Komodo](Komodo "Komodo").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 GridGinkgo - Shredder](#gridginkgo---shredder)
-  - [1.2 GridGinkgo - Komodo](#gridginkgo---komodo)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-  - [4.1 Grid](#grid)
-  - [4.2 Ginkgo](#ginkgo)
-- [5 References](#references)
-
 ## Photos & Games
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

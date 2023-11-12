@@ -10,16 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Chaturanga played the [WCCC 2006](WCCC_2006 "WCCC 2006"), and various [Italian Computer Chess Championship](Italian_Computer_Chess_Championship "Italian Computer Chess Championship") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The name [Chaturanga](https://en.wikipedia.org/wiki/Chaturanga) is derived from the ancient [Indian](https://en.wikipedia.org/wiki/Indian_subcontinent) game which is presumed to be the common ancestor of the games of [Chess](Chess "Chess"), [Shogi](Shogi "Shogi") and [Chinese Chess](Chinese_Chess "Chinese Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Photos](#photos)
-- [3 Namesake](#namesake)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-- [5 Chess Variant](#chess-variant)
-- [6 References](#references)
-
 ## Selected Games
 
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 3, Chaturanga - [FIBChess](FIBChess "FIBChess") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

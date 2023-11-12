@@ -8,16 +8,6 @@ title: ARM2
 the [Acorn](index.php?title=Acorn_Computers_Ltd&action=edit&redlink=1 "Acorn Computers Ltd (page does not exist)") RISC Machine [ARMv2 architecture](https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures) is a 32-bit [CMOS](https://en.wikipedia.org/wiki/CMOS) [reduced instruction set computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer), first released in 1987 <a id="cite-note-1" href="#cite-ref-1">[1]</a> as successor of the initial ARM (1985), designed by [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) and [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) in 1984. It features a 32-bit data bus, a [26-bit](https://en.wikipedia.org/wiki/26-bit) address space and sixteen 32-bit [registers](https://en.wikipedia.org/wiki/Processor_register) (r0 - r15, including [PC](https://en.wikipedia.org/wiki/Program_counter) and [SP](https://en.wikipedia.org/wiki/Call_stack#Structure)) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and a 3-stage [pipelined](https://en.wikipedia.org/wiki/Instruction_pipeline) (Fetch, Decode, Execute) [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture).
 The ARM is a [bi endian](Endianness "Endianness") machine, per default [little-endian](Little-endian "Little-endian").
 
-## Contents
-
-- [1 Features](#features)
-- [2 Computer Chess](#computer-chess)
-- [3 See also](#see-also)
-- [4 Manuals](#manuals)
-- [5 Postings](#postings)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Features
 
 The ARM [instruction set](https://en.wikipedia.org/wiki/Instruction_set) features three operand instructions, and [conditional execution](https://en.wikipedia.org/wiki/ARM_architecture#Conditional_execution) to [avoid conditional branches](Avoiding_Branches "Avoiding Branches"). Some sample ARM [assembly](Assembly "Assembly") <a id="cite-note-3" href="#cite-ref-3">[3]</a> :

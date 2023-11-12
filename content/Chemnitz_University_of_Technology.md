@@ -6,13 +6,6 @@ title: Chemnitz University of Technology
 \[ TU Chemnitz <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Chemnitz University of Technology**, [Chemnitz](https://en.wikipedia.org/wiki/Chemnitz), [Germany](https://en.wikipedia.org/wiki/Germany)
 
-## Contents
-
-- [1 People](#people)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Werner Dilger](https://de.wikipedia.org/wiki/Werner_Dilger)

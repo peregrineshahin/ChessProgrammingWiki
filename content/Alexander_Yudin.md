@@ -8,14 +8,6 @@ title: Alexander Yudin
 a Russian computer scientist and researcher in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"). From 1972 until 1980 <a id="cite-note-1" href="#cite-ref-1">[1]</a>, Alexander Yudin worked with [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") and [Boris Stilman](Boris_Stilman "Boris Stilman") et al. on the project [Pioneer](Pioneer "Pioneer"),
 in partuclar, he worked on Pioneer's [opening book](Opening_Book "Opening Book") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and endgame library.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1975 ...](#1975-...)
-  - [1.2 1980](#1980)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

@@ -18,13 +18,6 @@ One possibility is to define a pawn as a candidate, if no square on its path is 
 |  White and Black candidates (b5, g5)
 |
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Candidates (Bitboards)](</Candidates_(Bitboards)> "Candidates (Bitboards)").

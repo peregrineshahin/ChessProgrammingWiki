@@ -8,14 +8,6 @@ title: Atlas Computer Laboratory
 
 at [Chilton site, Oxfordshire](https://en.wikipedia.org/wiki/Chilton,_Oxfordshire), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) was one of the major computer laboratories in the world, which operated between 1961 and 1975 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The Chilton site campus was shared between Atlas Laboratory and the [Harwell Atomic Energy Research Establishment](https://en.wikipedia.org/wiki/Harwell_Laboratory). In 1975 the Atlas Computer Laboratory was closed, moving some parts to the [Daresbury Laboratory](https://en.wikipedia.org/wiki/Daresbury_Laboratory) and in 1979 with the Appleton Laboratory to form the [Rutherford Appleton Laboratory](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory). Since 2007 the Rutherford Appleton Laboratory has been operated by the [Science and Technology Facilities Council](https://en.wikipedia.org/wiki/Science_and_Technology_Facilities_Council).
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 Conferences](#conferences)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## People
 
 - [Alex Bell](Alex_Bell "Alex Bell")

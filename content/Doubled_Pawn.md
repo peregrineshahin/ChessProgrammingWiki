@@ -7,17 +7,6 @@ A [Pawn](Pawn "Pawn") is **doubled** (or, sad to say, tripled) if there are more
 
 It might be argued that, given a perfect pawn structure evaluation, a term such as doubled pawns would not be needed, since they usually introduce another [pawn structure](Pawn_Structure "Pawn Structure") weaknesses: some kind of [backwardness](Backward_Pawn "Backward Pawn"), lack of a [candidate passer](Candidate_Passed_Pawn "Candidate Passed Pawn") that otherwise would be there etc. However, most [evaluation functions](Evaluation_Function "Evaluation Function") do not go into such details as to justify removing this term.
 
-## Contents
-
-- [1 Types of Doubled Pawns](#types-of-doubled-pawns)
-- [2 Crippled Majority](#crippled-majority)
-- [3 All About Doubled Pawns](#all-about-doubled-pawns)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Types of Doubled Pawns
 
 |  |  |  |

@@ -12,16 +12,6 @@ She defended her B.Sc. and M.Sc. degrees in computer science and engineering at 
 In July 2000, she joined the School of Computer Science at [McGill University](McGill_University "McGill University"), and is also affiliated with [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"). Doina Precup’s research interests lie mainly in the field of [machine learning](Learning "Learning").
 She is especially interested in the learning problems that face a decision-maker interacting with a complex, uncertain environment <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1997 ...](#1997-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

@@ -8,21 +8,6 @@ title: Fernando Villegas
 
 a Chilean writer, journalist, sociologist affiliated with the [University of Chile](https://en.wikipedia.org/wiki/University_of_Chile), chess player and computer chess promoter and tester, and frequent poster and moderator in [Computer Chess Forums](Computer_Chess_Forums "Computer Chess Forums").
 
-## Contents
-
-- [1 Books](#books)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1997 ...](#1997-...)
-  - [2.2 2000 ...](#2000-...-2)
-  - [2.3 2005 ...](#2005-...)
-  - [2.4 2010 ...](#2010-...-2)
-  - [2.5 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Books
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

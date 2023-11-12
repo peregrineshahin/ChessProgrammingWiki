@@ -8,14 +8,6 @@ title: Harry Nefkens
 
 a Dutch computer scientist born in [Schiedam](https://en.wikipedia.org/wiki/Schiedam), The Netherlands in 1952. His interest in Computer Chess came when he started his study on the TH Delft (now [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology")). He is co-author of the programs [Pion](Pion "Pion"), [Dutch](Dutch "Dutch") and [Much](Much "Much"), participating at various World Computer Chess Championships in the 80s <a id="cite-note-1" href="#cite-ref-1">[1]</a>. His main contribution was the [opening book](Opening_Book "Opening Book"). Several articles in the [ICCA Journal](ICGA_Journal "ICGA Journal") were published. Still an active visitor of the [Computer Olympiads](Computer_Olympiad "Computer Olympiad") and [conferences](Conferences "Conferences") and since his retirement on Jan 1st 2009 trying to find more time on computer games.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](File:PionTeam.jpg)

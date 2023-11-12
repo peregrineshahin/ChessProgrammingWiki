@@ -14,13 +14,6 @@ when short after it was proved a clone of [Pepito](Pepito "Pepito"), the [open s
 Only after evidence of cloning was presented, Denis Grafen admitted Deep\<9> was based on Pepito
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [CSS](Computerschach_und_Spiele "Computerschach und Spiele") Online-Masters 2002/2003, round 1, [Fritz 8](Fritz "Fritz") ([Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes")) - Deep\<9> ([Denis Grafen](Denis_Grafen "Denis Grafen")) <a id="cite-note-5" href="#cite-ref-5">[5]</a>

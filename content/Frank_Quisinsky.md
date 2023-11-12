@@ -8,13 +8,6 @@ title: Frank Quisinsky
 
 a German computer chess aficionado, journalist and early [WinBoard](WinBoard "WinBoard") promoter. Along with [Volker Pittlik](index.php?title=Volker_Pittlik&action=edit&redlink=1 "Volker Pittlik (page does not exist)"), Frank founded the [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums") in 1999 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and hosts his own computer chess site *Frank's Chess Page* <a id="cite-note-3" href="#cite-ref-3">[3]</a> with a temporary break in 2007, and maintains his own [FCT](FCT "FCT") [rating list](Engine_Rating_Lists "Engine Rating Lists") since 2014 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He contributed to the computer chess column of the German chess magazine *Schachwelt* <a id="cite-note-5" href="#cite-ref-5">[5]</a> with interviews and program reports. Notably, Frank was initiator of the [Arena](Arena "Arena") Chess GUI development realized by [Martin Blume](Martin_Blume "Martin Blume") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. In 2004, he established the Gladiator-Shop as an attempt to commercialize engines such as [Ruffian](Ruffian "Ruffian") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, [Patriot](Patriot "Patriot") <a id="cite-note-8" href="#cite-ref-8">[8]</a> and [Ktulu](Ktulu "Ktulu") <a id="cite-note-9" href="#cite-ref-9">[9]</a> bundled with Arena, to provide a small income for their developers and to support further development. The project was abandoned after suspicions that the new Patriot 2.0 was based on [Fruit](Fruit "Fruit") became substantial in May 2005 <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>. By August 2005, Frank Quisinsky went out of the Arena project.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.thorstenczub.de/Paderborn.html)

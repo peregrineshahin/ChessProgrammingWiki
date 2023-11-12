@@ -8,15 +8,6 @@ title: Andreas StrangmC3BCller
 
 a German [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_chess) player and World Champion of the *International Email Chess Group* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> in the 2004 cycle <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Since August 2013, Andreas Strangmüller maintains the [FGRL](FGRL "FGRL") computer chess [engine rating list](Engine_Rating_Lists "Engine Rating Lists") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, further conducting experiments concerning [branching factor](Branching_Factor "Branching Factor") and [engine strength](Playing_Strength "Playing Strength") as function of [search time](Time_Management "Time Management"), [transposition table](Transposition_Table "Transposition Table") size, [processor type](X86-64 "X86-64"), and number of [threads](Thread "Thread").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2013](#2013)
-  - [1.2 2014](#2014)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2013

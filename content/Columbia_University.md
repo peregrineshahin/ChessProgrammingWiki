@@ -6,13 +6,6 @@ title: Columbia University
 \[ Columbia University College Walk <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Columbia University**, [Manhattan](https://en.wikipedia.org/wiki/Manhattan), [New York City](https://en.wikipedia.org/wiki/New_York_City), [New York](https://en.wikipedia.org/wiki/New_York), [United States](https://en.wikipedia.org/wiki/United_States).
 
-## Contents
-
-- [1 People](#people)
-- [2 Programs and Authors](#programs-and-authors)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Bruce Abramson](Bruce_Abramson "Bruce Abramson")

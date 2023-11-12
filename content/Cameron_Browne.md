@@ -8,17 +8,6 @@ title: Cameron Browne
 
 an Australian [psychologist](Category:Psychologist "Category:Psychologist"), computer scientist, games researcher and inventor with a Ph.D. in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") and game design from [University of Queensland](https://en.wikipedia.org/wiki/University_of_Queensland) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and associate professor in [Maastricht University's Games and AI group](Maastricht_University#GamesAI "Maastricht University"). His research interest includes [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) for procedural content generation in creative domains, to investigate ways in which MCTS - typically used for move planning in games - can instead be harnessed to analyze, optimize and design new games, music and artwork. Cameron Browne is co-author of the [Hex](Hex "Hex")-program [Hex Kriger](https://www.game-ai-forum.org/icga-tournaments/program.php?id=136), which competed at the [11th Computer Olympiad, Turin 2006](11th_Computer_Olympiad#Hex "11th Computer Olympiad").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2015 ...](#2015-...)
-  - [1.5 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

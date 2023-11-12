@@ -5,14 +5,6 @@ title: Evaluation Hash Table
 
 An **Evaluation Hash Table** may be used in a similar fashion as the [transposition table](Transposition_Table "Transposition Table"), that is using [Zobrist-](Zobrist_Hashing "Zobrist Hashing") or [BCH-hashing](BCH_Hashing "BCH Hashing"), to cache various computational expensive positional evaluation scores and flags. Despite the fact that the transposition table entries may contain evaluation scores as well, a tighter, dedicated evaluation hash table with its own replacement policy may gain a considerable amount of additional hits.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1998 ...](#1998-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-
 ## See also
 
 - [BCH Hashing](BCH_Hashing "BCH Hashing")

@@ -14,13 +14,6 @@ As a club-level chess player, he is author of the [PGN](Portable_Game_Notation "
 Along with co-author [Julio Hernández-Castro](Julio_C%C3%A9sar_Hern%C3%A1ndez-Castro "Julio César Hernández-Castro"), David J. Barne researched and elaborated on engine analysis for cheating detection in chess <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 and also published the [C++](Cpp "Cpp") and [Java](Java "Java") source code for an [UCI](UCI "UCI") based analyser for chess games in PGN notation <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Postings](#postings)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

@@ -9,15 +9,6 @@ title: George Arnold
 an American entrepreneur, electrical engineer and computer scientist, Ph.D. from [Columbia University](Columbia_University "Columbia University") in 1978. He was director, standards and coordination office at [National Institute of Standards and Technology](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) (**NIST**) until May 2014. Before, he served as national coordinator for [Smart Grid Interoperability](https://en.wikipedia.org/wiki/Smart_grid),
 as chairman of the board of the [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (**ANSI**), as president of the [IEEE](IEEE "IEEE") Standards Association, and as vice president-policy for the [International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (**ISO**). He was further vice-president at [Lucent Technologies Bell Laboratories](Bell_Laboratories "Bell Laboratories") where he directed the company's global standards efforts and management of [intellectual property](https://en.wikipedia.org/wiki/Intellectual_property).
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1977 ...](#1977-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 In the early 70s at [Columbia University](Columbia_University "Columbia University"), along with [Monty Newborn](Monroe_Newborn "Monroe Newborn"), George Arnold was co-developer of the chess program [Ostrich](Ostrich "Ostrich") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

@@ -11,17 +11,6 @@ His research interests include [artificial intelligence](Artificial_Intelligence
 Dana Nau discovered and elaborated on [pathology](Search_Pathology "Search Pathology") on certain game trees, where a deeper search does not improve the decision quality, but makes the decision more and more random.
 Along with [Stephen J.J. Smith](Stephen_J.J._Smith "Stephen J.J. Smith") and [Thomas A. Throop](Thomas_A._Throop "Thomas A. Throop"), Dana Nau developed AI planning techniques in the [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)") program *Bridge Baron* <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1979](#1979)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

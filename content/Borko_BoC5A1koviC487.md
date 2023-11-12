@@ -10,15 +10,6 @@ a Slovenian computer scientist, and assistant professor at *Computer Architectur
 His research focus is on [evolutionary computation](Genetic_Programming#EvolutionaryComputation "Genetic Programming"), in particular [differential evolution](https://en.wikipedia.org/wiki/Differential_evolution) applied to [protein folding](https://en.wikipedia.org/wiki/Protein_folding) optimization, also used in [automated tuning](Automated_Tuning "Automated Tuning") of chess engines, which was topic of his 2010 Ph.D. thesis <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 Borko Bošković is author of the [open source engines](Category:Open_Source "Category:Open Source") [BBChess](</BBChess_(SI)> "BBChess (SI)") and [MinkoChess](MinkoChess "MinkoChess"), both under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

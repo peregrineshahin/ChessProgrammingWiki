@@ -13,16 +13,6 @@ It uses [0x88](0x88 "0x88") board representation, [null move pruning](Null_Move_
 This engine is available as source code <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and [Dann Corbit](Dann_Corbit "Dann Corbit") has provided binaries <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Links to 32 and 64 bit binaries for [Windows](Windows "Windows") and [Linux](Linux "Linux") are also available in the Clubfoot README, found in the github source repository <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 Here is a sample 5 minute game to demonstrate the [strength](Playing_Strength "Playing Strength") - or lack thereof - of Clubfoot:

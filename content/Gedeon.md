@@ -10,12 +10,6 @@ which was allowed to play the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budapest
 According to [Frederic Friedel](Frederic_Friedel "Frederic Friedel") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 the modification was only due to the [power supply](https://en.wikipedia.org/wiki/Power_supply). The machine had a [6502B](6502 "6502") processor @ 3MHz, 32 KiB [ROM](Memory#ROM "Memory"), 16 KiB [RAM](Memory#ROM "Memory"), apparently a [Sargon](Sargon "Sargon") based Chess Challenger by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Games
 
 [WMCCC 1983](WMCCC_1983 "WMCCC 1983"), round 3, [Labirint 64](Labirint_64 "Labirint 64") - Gedeon X <a id="cite-note-3" href="#cite-ref-3">[3]</a>

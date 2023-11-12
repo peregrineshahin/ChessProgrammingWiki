@@ -10,19 +10,6 @@ a Russian mathematician, computer scientist, electrical engineer and researcher 
 Since 1991, he is professor of computer science at Department of Computer Science and Engineering, [University of Colorado Denver](https://en.wikipedia.org/wiki/University_of_Colorado_Denver), since 2019 professor emeritus <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and since 1999 chairman & CEO of *Stilman Advanced Strategies*, [Denver](https://en.wikipedia.org/wiki/Denver), [Colorado](https://en.wikipedia.org/wiki/Colorado) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 From 1972 until 1988, Boris Stilman worked with [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") and [Alexander Yudin](Alexander_Yudin "Alexander Yudin") et al. on the project [Pioneer](Pioneer "Pioneer").
 
-## Contents
-
-- [1 Linguistic Geometry](#linguistic-geometry)
-- [2 Photos](#photos)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1975 ...](#1975-...)
-  - [3.2 1980 ...](#1980-...)
-  - [3.3 1990 ...](#1990-...)
-  - [3.4 2000 ...](#2000-...)
-  - [3.5 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Linguistic Geometry
 
 While Pioneer has never been finished, Stilman developed the experimental and mathematical foundations of an approach to search problems in artificial intelligence, and during a visit at [McGill University](McGill_University "McGill University") in 1990 - 1991,

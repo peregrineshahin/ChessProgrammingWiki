@@ -10,19 +10,6 @@ a free chess engine by [Will Singleton](Will_Singleton "Will Singleton"), writte
 In July 2002, Amateur **2.0** was released, compatible with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). Amateur's version history indicates the use of [null move pruning](Null_Move_Pruning "Null Move Pruning") in conjunction with [multi-cut](Multi-Cut "Multi-Cut") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Amateur played multiple [online tournaments](Tournaments_and_Matches#online "Tournaments and Matches") such as the [CCT Tournaments](CCT_Tournaments "CCT Tournaments") at [FICS](index.php?title=FICS&action=edit&redlink=1 "FICS (page does not exist)") and [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)"), [Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), and the [WCRCC 2008](WCRCC_2008 "WCRCC 2008")
 
-## Contents
-
-- [1 History](#history)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1997 ...](#1997-...)
-  - [3.2 2000 ...](#2000-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Chess](#chess)
-  - [4.3 Misc](#misc)
-- [5 References](#references)
-
 ## History
 
 Amateur is a development of a program already written in 1977 in [6502](6502 "6502") [assembly](Assembly "Assembly"), then expanded in 1986 on the [68000](68000 "68000") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

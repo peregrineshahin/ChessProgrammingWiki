@@ -8,15 +8,6 @@ title: Eric B. Baum
 
 an American physicist, computer scientist and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") researcher. He earned [undergraduate](https://en.wikipedia.org/wiki/Undergraduate_degree) and [graduate degrees](https://en.wikipedia.org/wiki/Postgraduate_education) at [Harvard University](Harvard_University "Harvard University") and a [Ph.D.](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) in [physics](https://en.wikipedia.org/wiki/Physics) at [Princeton University](https://en.wikipedia.org/wiki/Princeton_University). He has held positions at the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology), [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), Princeton, and the [NEC Research Institute](https://en.wikipedia.org/wiki/NEC_Corporation_of_America). His research interests include [machine learning](Learning "Learning"), [neural networks](Neural_Networks "Neural Networks"), [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") and [game tree search](Search "Search"), in particular the [BPIP-DFISA](index.php?title=BPIP-DFISA&action=edit&redlink=1 "BPIP-DFISA (page does not exist)") (Best play for imperfect players - Depth free independent staircase approximation) search control model. Currently, he is developing algorithms based on machine learning and [bayesian reasoning](https://en.wikipedia.org/wiki/Bayesian_inference) to found a [hedge fund](https://en.wikipedia.org/wiki/Hedge_fund) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Eric Baum is known for his [materialist](https://en.wikipedia.org/wiki/Materialism) and [evolutionist](https://en.wikipedia.org/wiki/Evolution) theories of [intelligence](https://en.wikipedia.org/wiki/Intelligence) and [consciousness](https://en.wikipedia.org/wiki/Consciousness), set forth in his book *What is Thought?* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1987 ...](#1987-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

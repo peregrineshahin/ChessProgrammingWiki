@@ -7,15 +7,6 @@ title: BoNian Chen
 
 a Taiwanese computer scientist at Department of Computer Science and Information Engineering, [National Taiwan University](National_Taiwan_University "National Taiwan University"). His research includes [knowledge](Knowledge "Knowledge") abstraction and [inference](https://en.wikipedia.org/wiki/Inference_engine) in the game domains of [Computer Chinese Chess](Chinese_Chess "Chinese Chess") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and their [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"), and [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") or Half Chess <a id="cite-note-2" href="#cite-ref-2">[2]</a>, a two players board game, played on a 4x8 grid. Along with [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu"), Bo-Nian Chen is co-author of the Chinese Dark Chess program [Flipper](https://www.game-ai-forum.org/icga-tournaments/program.php?id=637).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

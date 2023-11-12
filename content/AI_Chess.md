@@ -7,13 +7,6 @@ title: AI Chess
 
 a chess program by [Marty Hirsch](Marty_Hirsch "Marty Hirsch") and predecessor of [MChess](MChess "MChess"). AI Chess was written in [8086](8086 "8086") [assembly language](Assembly "Assembly") to ran on an [IBM PC](IBM_PC "IBM PC") under [DOS](MS-DOS "MS-DOS") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. It played the [ACM 1988](ACM_1988 "ACM 1988") in [Orlando](https://en.wikipedia.org/wiki/Orlando%2C_Florida), the [WCCC 1989](WCCC_1989 "WCCC 1989") in [Edmonton](https://en.wikipedia.org/wiki/Edmonton) and the [WMCCC 1989](WMCCC_1989 "WMCCC 1989") in [Portorož](https://en.wikipedia.org/wiki/Portoro%C5%BE) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Description
 
 given in the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-3" href="#cite-ref-3">[3]</a> :

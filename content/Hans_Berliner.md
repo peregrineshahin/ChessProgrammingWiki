@@ -10,26 +10,6 @@ was a German born, American Computer Scientist and [Professor Emeritus](https://
 
 Hans Berliner made his Ph.D. Thesis in 1974 at Carnegie Mellon about computer chess: *Chess as Problem Solving: The Development of a Tactics Analyser* <a id="cite-note-3" href="#cite-ref-3">[3]</a> under the supervision of [Allen Newell](Allen_Newell "Allen Newell"). Berliner contributed as co-author to the [Technology Chess Program](Tech "Tech"). He was author of the chess programs [J. Biit](J._Biit "J. Biit"), [CAPS](CAPS "CAPS"), [Patsoc](Patsoc "Patsoc"), along with [Murray Campbell](Murray_Campbell "Murray Campbell") co-author of the [chunking](Chunking "Chunking") [pawn endgame](Pawn_Endgame "Pawn Endgame") program [Chunker](Chunker "Chunker"), and lead the team in developing the [HiTech](HiTech "HiTech") chess entity - namely [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") and [Chris McConnell](Chris_McConnell "Chris McConnell"). Beside other things, Hans Berliner's research was about pattern knowledge and creation and implementation of the [best-first](Best-First "Best-First") [tree search](Search "Search") algorithm called [B\*](B* "B*") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, also used in HiTech.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 BKG 9.8](#bkg-9.8)
-- [3 Photos](#photos)
-- [4 Quotes](#quotes)
-  - [4.1 James Gillogly](#james-gillogly)
-  - [4.2 Alex Bell](#alex-bell)
-  - [4.3 Hans Berliner](#hans-berliner)
-- [5 See also](#see-also)
-- [6 Selected Publications](#selected-publications)
-  - [6.1 1970 ...](#1970-...)
-  - [6.2 1980 ...](#1980-...)
-  - [6.3 1990 ...](#1990-...)
-  - [6.4 2000 ...](#2000-...)
-- [7 External Links](#external-links)
-  - [7.1 Oral History](#oral-history)
-  - [7.2 Eulogies](#eulogies)
-- [8 References](#references)
-
 ## Chess Programs
 
 - [CAPS](CAPS "CAPS")

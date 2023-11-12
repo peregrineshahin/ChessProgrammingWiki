@@ -10,15 +10,6 @@ an American computer chess aficionado, notably working with [Miguel A. Ballicora
 In January 2012, he published a survey of evidence from both perspectives concerning the [Rybka Controversy](Rybka_Controversy "Rybka Controversy") and [ICGA Investigations](ICGA_Investigations "ICGA Investigations"), at times as hosted by [Ed Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Adam Hair served as moderator in [CCC](CCC "CCC").
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2010 ...](#2010-...)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Adam Hair (**2012**). *The Rybka Investigation: A Survey Of Evidence From Both Perspectives*.

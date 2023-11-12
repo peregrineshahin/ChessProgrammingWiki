@@ -10,21 +10,6 @@ Generic programming, first implemented in the [Ada](index.php?title=Ada&action=e
 Generic programming invokes a [metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) facility within a language, in those languages supporting it.
 In C++, template paramater are either types or integer constants for the wider range of [Template-](https://en.wikipedia.org/wiki/Template_%28programming%29) or metaprogramming. For instance in computer chess programming, it allows to write [color](Color "Color") dependent routines once, and disband otherwise conditional code at compile-time.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1980](#1980)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 C++](#c.2b.2b)
-  - [3.2 C#](#c.23)
-  - [3.3 Java](#java)
-  - [3.4 Delphi](#delphi)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

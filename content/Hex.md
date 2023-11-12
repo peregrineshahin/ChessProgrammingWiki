@@ -8,25 +8,6 @@ title: Hex
 
 a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy), [connection](https://en.wikipedia.org/wiki/Connection_game) [board game](https://en.wikipedia.org/wiki/Board_game) played on a [hexagonal grid](https://en.wikipedia.org/wiki/Hex_map) composed of [hexagons](https://en.wikipedia.org/wiki/Hexagon) [[2]](#cite_note-2) arranged in an n × n [orthodiagonal](https://en.wikipedia.org/wiki/Orthodiagonal_quadrilateral) [Quadrilateral](https://en.wikipedia.org/wiki/Quadrilateral), most common an 11x11, 13x13 or 19x19 [Rhombus](https://en.wikipedia.org/wiki/Rhombus). The goal is to connect the opposing sides of own colors with own stones - or to prevent the opponent from doing so, by alternately placing stones on a single cell.
 
-## Contents
-
-- [1 History](#History)
-- [2 Computer Olympiads](#Computer_Olympiads)
-- [3 Photos](#Photos)
-- [4 Hex Programs](#Hex_Programs)
-- [5 Publications](#Publications)
-  - [5.1 1953](#1953)
-  - [5.2 1959](#1959)
-  - [5.3 1977](#1977)
-  - [5.4 1980 ...](#1980_...)
-  - [5.5 2000 ...](#2000_...)
-  - [5.6 2005 ...](#2005_...)
-  - [5.7 2010 ...](#2010_...)
-  - [5.8 2015 ...](#2015_...)
-- [6 Forum Posts](#Forum_Posts)
-- [7 External Links](#External_Links)
-- [8 References](#References)
-
 ## History
 
 Hex was invented by the Danish mathematician [Piet Hein](https://en.wikipedia.org/wiki/Piet_Hein_%28Denmark%29) called Polygon, appeared in the Danish newspaper [Politiken](https://en.wikipedia.org/wiki/Politiken) on December 26, 1942, and independently by the American mathematician [John Nash](Mathematician#JFNash "Mathematician") in 1947, who, according to the biography [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_%28book%29), advocated 14x14 as the optimal size. In 1952 [Parker Brothers](https://en.wikipedia.org/wiki/Parker_Brothers) marketed a version called Hex and the name stuck [[3]](#cite_note-3) .

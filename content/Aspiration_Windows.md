@@ -6,22 +6,6 @@ title: Aspiration Windows
 [](File:TheNon-EuclideanWindow.JPG) The Non-Euclidean Window <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Aspiration windows** are a way to reduce the [search space](Search_Space "Search Space") in an alpha-beta search. The technique is to use a guess of the expected value (usually from the last iteration in [iterative deepening](Iterative_Deepening "Iterative Deepening")), and use a [window](Window "Window") around this as the alpha-beta [bounds](Bound "Bound"). Because the window is narrower, more beta cutoffs are achieved, and the search takes a shorter time. The drawback is that if the true score is outside this window, then a costly re-search must be made. Typical window sizes are 1/2 to 1/4 of a pawn on either side of the guess.
 
-## Contents
-
-- [1 Gradual Widening](#gradual-widening)
-- [2 PVS and Aspiration](#pvs-and-aspiration)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1995 ...](#1995-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-  - [5.6 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Gradual Widening
 
 Some programs, such as [Crafty](Crafty "Crafty"), also use a gradual widening on re-searches. For instance, if the window is, in pawns:

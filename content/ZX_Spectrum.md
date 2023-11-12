@@ -8,20 +8,6 @@ title: ZX Spectrum
 
 a [Z80A](Z80 "Z80") based [home computer](https://en.wikipedia.org/wiki/Home_computer) released in the [UK](https://en.wikipedia.org/wiki/United_Kingdom) in 1982 by [Sinclair Research Ltd.](https://en.wikipedia.org/wiki/Sinclair_Research) as successor of the [Sinclair ZX81](Sinclair_ZX81 "Sinclair ZX81"). The original Spectrum ran at 3,5 MHz with 16 KiB of [ROM](Memory#ROM "Memory") containing system-routines and [Sinclair BASIC](Basic#Sinclair "Basic"), and either 16 or 48 KiB of [RAM](Memory#ROM "Memory"), a [rubber keyboard](https://en.wikipedia.org/wiki/Chiclet_keyboard), and a simple color graphic display of 256×192 pixel or 32 columns × 24 rows of 8x8 [characters](https://en.wikipedia.org/wiki/ZX_Spectrum_character_set) through an [RF modulator](https://en.wikipedia.org/wiki/RF_modulator) and [television](https://en.wikipedia.org/wiki/Television). An enhanced but largely incompatible version of the Spectrum was marketed in the [USA](https://en.wikipedia.org/wiki/United_States) by [Timex](https://en.wikipedia.org/wiki/Timex_Group_USA) as the [Timex Sinclair 2068](https://en.wikipedia.org/wiki/Timex_Sinclair_2068) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, released in in November 1983. The _ZX Spectrum +3_, released in 1987, had a built-in 3-inch [floppy disk drive](https://en.wikipedia.org/wiki/Floppy_disk), capable of running the [CP/M](https://en.wikipedia.org/wiki/CP/M) operating system <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 ZX Spectrum Vega](#zx-spectrum-vega)
-- [2 ZX Spectrum Vega+](#zx-spectrum-vega.2b)
-- [3 Chess Programs](#chess-programs)
-  - [3.1 Boom](#boom)
-  - [3.2 Dynamic List](#dynamic-list)
-- [4 See also](#see-also)
-- [5 External Links](#external-links)
-  - [5.1 Spectrum](#spectrum)
-  - [5.2 Vega](#vega)
-  - [5.3 Vega+](#vega.2b)
-- [6 References](#references)
-
 ## ZX Spectrum Vega
 
 [ ZX Spectrum Vega [[4]](#cite*note-4)

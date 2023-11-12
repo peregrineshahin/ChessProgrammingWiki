@@ -7,16 +7,6 @@ title: Breakthrough Game
 
 an [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy) board game invented by [Dan Troyka](index.php?title=Dan_Troyka&action=edit&redlink=1 "Dan Troyka (page does not exist)") in 2000 <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>. It can be played on various board sizes, most common on an **8x8** [chessboard](Chessboard "Chessboard") with initially 16 [pawn](Pawn "Pawn") like counters on its two back ranks. Counters may [push](Pawn_Push "Pawn Push") one step straight or diagonally forward if the target square is empty, or [capture](Captures "Captures") one step diagonally if the target square is occupied by an opponent piece. The first player to reach the opponent's back rank or captures all opponent men wins the game <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Solving Small Boards](#solving-small-boards)
-- [2 Programming](#programming)
-- [3 Computer Olympiads](#computer-olympiads)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Solving Small Boards
 
 [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)"), and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") applied race patterns and an extension of [Job-level Proof-number search](Proof-Number_Search "Proof-Number Search") to solve Breakthrough on up to **6x5** boards <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

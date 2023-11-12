@@ -14,13 +14,6 @@ All [system software](https://en.wikipedia.org/wiki/System_software), such as [B
 The successor machines followed the hardware development trends to re-implement the architectures in new logic over the next 25 years,
 with the **B5500**, B6500, B-5700, B6700, B7700, B6800, **B7800**, and finally the Burroughs A series <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Ga Tech CP](Ga_Tech_CP "Ga Tech CP")

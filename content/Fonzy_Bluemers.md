@@ -8,15 +8,6 @@ title: Fonzy Bluemers
 
 a Dutch software developer, computer chess aficionado, tester, and computer chess programmer. He worked on and improved [PolyGlot](PolyGlot "PolyGlot"), and is along with [Pradu Kannan](Pradu_Kannan "Pradu Kannan") and [Andres Valverde](Andres_Valverde "Andres Valverde") co-author of the chess engine [Dirty](Dirty "Dirty"), the project which was born after a chat at his *Dirty Dozen broadcast* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Fonzy working actively on core engine structures and [search](Search "Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2008 ...](#2008-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](https://www.csvn.nl/index.php/nieuws/51-toernooien/588-ict-round-6)

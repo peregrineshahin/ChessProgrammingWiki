@@ -10,17 +10,6 @@ a free [UCI](UCI "UCI") and prior to version 3.0 [Chess Engine Communication Pro
 [Dann Corbit](Dann_Corbit "Dann Corbit") contributed tricks to speed up [bitboard](Bitboards "Bitboards") stuff <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Gaïa played the [FCCC 2003](FCCC_2003 "FCCC 2003") and [FCCC 2004](FCCC_2004 "FCCC 2004") French Computer Chess Championships, and the [Massy 2005](Massy_2005 "Massy 2005") French Programmers Tournament.
 
-## Contents
-
-- [1 Search Features](#search-features)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Gaia](#gaia)
-- [6 References](#references)
-
 ## Search Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

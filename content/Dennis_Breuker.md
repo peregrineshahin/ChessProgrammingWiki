@@ -8,15 +8,6 @@ title: Dennis Breuker
 
 a Dutch computer and games scientist. He defended his [M.Sc.](https://en.wikipedia.org/wiki/Master%27s_degree) at the Computer Science Department of the [Leiden University](Leiden_University "Leiden University") and his [Ph.D.](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) at the Computer Science Department of the [Maastricht University](Maastricht_University "Maastricht University"), where he was author and co-author of various papers with focus on [search algorithms](Search "Search"), the utilization of the [Transposition Table](Transposition_Table "Transposition Table") and [Graph History Interaction](Graph_History_Interaction "Graph History Interaction") (GHI). *Memory versus Search in Games* is the title of his Ph.D. thesis <a id="cite-note-2" href="#cite-ref-2">[2]</a> , a [recommended reading](Recommended_Reading "Recommended Reading") for every chess programmer.
 
-## Contents
-
-- [1 Programs](#programs)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1992 ...](#1992-...)
-  - [2.2 2000 ...](#2000-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Programs
 
 Dennis is author of the chess program [Duck](Duck "Duck"), already written during his studies in Leiden, with later improvements when he was in Maastricht. As co-author of the [Othello](Othello "Othello") program [Aida](https://www.game-ai-forum.org/icga-tournaments/program.php?id=285), Dennis Breuker won the silver medal during the [4th Computer Olympiad 1992](4th_Computer_Olympiad#Othello "4th Computer Olympiad") in London <a id="cite-note-3" href="#cite-ref-3">[3]</a> . A further chess program by Dennis Breuker, [AliBaba](AliBaba "AliBaba"), was written for testing various hashing algorithms - with the permission of the author, a modified version is available from [Dann Corbit's](Dann_Corbit "Dann Corbit") site <a id="cite-note-4" href="#cite-ref-4">[4]</a> and was adopted to [WinBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") by [Jim Ablett](Jim_Ablett "Jim Ablett") <a id="cite-note-5" href="#cite-ref-5">[5]</a> .

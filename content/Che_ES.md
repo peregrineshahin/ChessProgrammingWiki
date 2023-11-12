@@ -10,14 +10,6 @@ a chess program by [Oscar Contreras](index.php?title=Oscar_Contreras&action=edit
 Che played the First [Spanish Computer Chess Championship](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship"), the [SCCC 1993](SCCC_1993 "SCCC 1993") in [Barcelona](https://en.wikipedia.org/wiki/Barcelona),
 where it became runner-up behind [Betsabe](Betsabe "Betsabe"), and the [SCCC 1994](SCCC_1994 "SCCC 1994") in [Valencia](https://en.wikipedia.org/wiki/Valencia) respectively.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Namesake](#namesake)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Games
 
 [SCCC 1993](SCCC_1993 "SCCC 1993"), Che versus [Jupiter](Jupiter "Jupiter") <a id="cite-note-2" href="#cite-ref-2">[2]</a> :

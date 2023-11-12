@@ -9,15 +9,6 @@ a German software developer and as computer chess programmer author of the cross
 He is further co-author of the [Kanji](https://en.wikipedia.org/wiki/Kanji) [character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) software *kanjicanvas* implemented in client side only [JavaScript](JavaScript "JavaScript") <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 and provided a translation of [Yu Nasu's](Yu_Nasu "Yu Nasu") 2018 paper introducing [NNUE](NNUE "NNUE") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. In September 2021, Dominik Klein published *Neural Networks For Chess* <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2015 ...](#2015-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Dominik Klein (**2019**). *The Stroke Correspondence Problem, Revisited*. [arXiv:1909.11995](https://arxiv.org/abs/1909.11995)

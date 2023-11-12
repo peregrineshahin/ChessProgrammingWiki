@@ -8,14 +8,6 @@ title: Andreas Junghanns
 
 a German computer scientist. Junghanns studied at the [Technical University of Chemnitz](Chemnitz_University_of_Technology "Chemnitz University of Technology"), Germany, in Madrid, Spain, and at the [University of Alberta](University_of_Alberta "University of Alberta"), Canada from 1994 until 1999, where he defended his Ph.D. thesis *Pushing the Limits: New Developments in Single-Agent Search* ([Jung 1999](#pushingthelimits)) in 1999. His research interests include [search algorithms](Search "Search") like [single-agent](https://en.wikipedia.org/wiki/Intelligent_agent) search applied to the game of [Sokoban](index.php?title=Sokoban&action=edit&redlink=1 "Sokoban (page does not exist)"). Along with [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), Junghanns co-authored the chess program [The Turk](The_Turk "The Turk"), which was test-bed of their [Uncertainty Cut-Offs](Uncertainty_Cut-Offs "Uncertainty Cut-Offs"). After some years of corporate IT research, Andreas Junghanns co-founded the *QTronic GmbH* 2006 in Berlin, Germany <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1994 ...](#1994-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

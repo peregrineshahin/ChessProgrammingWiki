@@ -7,14 +7,6 @@ title: Elsa
 
 a chess program by [Ludwig Zagler](Ludwig_Zagler "Ludwig Zagler") from [Technical University of Munich](Technical_University_of_Munich "Technical University of Munich"), the successor of [Daja](Daja "Daja"). It played the [Second WCCC 1977](WCCC_1977 "WCCC 1977") in [Toronto](https://en.wikipedia.org/wiki/Toronto), running on [Telefunken](https://en.wikipedia.org/wiki/Telefunken) [TR 440](TR_440 "TR 440") <a id="cite-note-1" href="#cite-ref-1">[1]</a> from [Leibniz-Rechenzentrum](https://en.wikipedia.org/wiki/Leibniz-Rechenzentrum), it lost versus [Master](Master "Master"), drew [Blitz](Blitz "Blitz") and [Black Knight](Black_Knight "Black Knight") and won from [Bs6676](Bs6676 "Bs6676").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 External Links](#external-links)
-  - [2.1 Chess Program](#chess-program)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Selected Games
 
 [WCCC 1977](WCCC_1977 "WCCC 1977"), round 4, [Bs6676](Bs6676 "Bs6676") vs. Elsa <a id="cite-note-2" href="#cite-ref-2">[2]</a>

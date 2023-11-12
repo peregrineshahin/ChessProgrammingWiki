@@ -7,15 +7,6 @@ title: Alybadix
 
 a set of [programs for solving](Category:Problem "Category:Problem") orthodox (Matebadix, Sidebadix, ...) and heterodox (Fairybadix) <a id="cite-note-1" href="#cite-ref-1">[1]</a> [chess problems](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies") and tools, developed by [Ilkka Blom](Ilkka_Blom "Ilkka Blom") since 1980 initially for [Apple II](Apple_II "Apple II") and later for [PCs](IBM_PC "IBM PC") running [DOS](MS-DOS "MS-DOS"). The solver AP.exe is completely written in [x86](X86 "X86") [assembly](Assembly "Assembly") language using the [DJGPP](https://en.wikipedia.org/wiki/DJGPP) suite. Alybadix supports the problem genres [checkmate](Checkmate "Checkmate"), [stalemate](Stalemate "Stalemate"), [helpmate](https://en.wikipedia.org/wiki/Helpmate), helpstalemate, [selfmate](https://en.wikipedia.org/wiki/Selfmate), selfstalemate, [reflexmates](https://en.wikipedia.org/wiki/Reflexmate), and [seriesmover](https://en.wikipedia.org/wiki/Seriesmover) in N moves, and further [Circe chess](https://en.wikipedia.org/wiki/Circe_chess), maximummers <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and many [Fairy](https://en.wikipedia.org/wiki/Fairy_chess) types <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Alybadix is supported by [Paul Wiereyn's](Paul_Wiereyn "Paul Wiereyn") [Windows](Windows "Windows") [GUI](GUI "GUI") [APwin](APwin "APwin"). It comes with a large problem collection and features quality printing supporting [Ghostscript](https://en.wikipedia.org/wiki/Ghostscript) 9.00 or newer <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Engine](#engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [APwin](APwin "APwin")

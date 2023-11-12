@@ -13,15 +13,6 @@ and was invited in 2007 to play a demonstration match against the blindfolded [V
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2009](#2009)
-  - [1.2 2010](#2010)
-  - [1.3 2014](#2014)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2009

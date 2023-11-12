@@ -8,15 +8,6 @@ title: ChihHung Chen
 a Taiwanese computer scientist affiliated with the [National Taiwan Normal University](National_Taiwan_Normal_University "National Taiwan Normal University") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and before with the [Chang Jung University](https://en.wikipedia.org/wiki/Chang_Jung_Christian_University), already working with [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 His research interests include [grid computing](https://en.wikipedia.org/wiki/Grid_computing) and [computer games](Games "Games"), in particular [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"). Along with [Terry Lao](index.php?title=Terry_Lao&action=edit&redlink=1 "Terry Lao (page does not exist)"), he is co-author of the [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") program *TuxedoCat*, and along with Shun-Shii Lin, co-author of the [Chinese Chess](Chinese_Chess "Chinese Chess") engine [Shark](</index.php?title=Shark_(Xiangqi)&action=edit&redlink=1> "Shark (Xiangqi) (page does not exist)"). Along with Shun-Shii Lin and [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), he further co-authored the [Outer-Open Gomoku](index.php?title=Outer-Open_Gomoku&action=edit&redlink=1 "Outer-Open Gomoku (page does not exist)") program and multiple Gold medal winner *OOGiveMeFive* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2015 ...](#2015-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

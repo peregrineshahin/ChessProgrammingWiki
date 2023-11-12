@@ -11,26 +11,6 @@ licensed under the [GNU General Public License](Free_Software_Foundation#GPL "Fr
 Carballo supports the [UCI](UCI "UCI") protocol, and a [HTML5](https://en.wikipedia.org/wiki/HTML5) based [GUI](GUI "GUI") dubbed [Mobialia Chess](index.php?title=Mobialia_Chess&action=edit&redlink=1 "Mobialia Chess (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, developed by [Lukas Laag](index.php?title=Lukas_Laag&action=edit&redlink=1 "Lukas Laag (page does not exist)") with the [Google Web Toolkit](https://en.wikipedia.org/wiki/Google_Web_Toolkit) (GWT) using the *Vectomatic SVG* library <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 Carballo features [pondering](Pondering "Pondering"), a [PolyGlot](PolyGlot "PolyGlot") [opening book](Opening_Book "Opening Book"), and since version 1.2, [Chess960](Chess960 "Chess960"). [Karballo](index.php?title=Karballo&action=edit&redlink=1 "Karballo (page does not exist)") is a [Kotlin](<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>) version of Carballo <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Description](#description)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-    - [2.2.1 Move Ordering](#move-ordering)
-    - [2.2.2 Selectivity](#selectivity)
-  - [2.3 Evaluation](#evaluation)
-    - [2.3.1 Simplified](#simplified)
-    - [2.3.2 Complete](#complete)
-- [3 See also](#see-also)
-- [4 Postings](#postings)
-  - [4.1 2009](#2009)
-  - [4.2 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Etymology
 
 Carballo is actually a [Galician](https://en.wikipedia.org/wiki/Galician_language) word meaning [oak](https://en.wikipedia.org/wiki/Oak), it's all about [search trees](Search_Tree "Search Tree") <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

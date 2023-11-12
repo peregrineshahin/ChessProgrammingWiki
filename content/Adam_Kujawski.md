@@ -10,13 +10,6 @@ a Polish [FIDE](FIDE "FIDE") [master of chess](https://en.wikipedia.org/wiki/FID
 He is author of the first Polish chess program, called [Joanna](Joanna "Joanna"), being a part of his masters thesis from 1994 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 His paper had major impact on chess programming in Poland, containing a good natural language description of most important concepts and techniques.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Evaluation Function Draft](Evaluation_Function_Draft "Evaluation Function Draft")

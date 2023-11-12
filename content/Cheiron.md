@@ -8,19 +8,6 @@ title: Cheiron
 
 a chess program by [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"). [Cheiron](https://de.wikipedia.org/wiki/Cheiron) is the German spelling of [Chiron](https://en.wikipedia.org/wiki/Chiron), a [centaur](https://en.wikipedia.org/wiki/Centaur) creature of the [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology). The program played the [8th World Computer Chess Championship 1995](WCCC_1995 "WCCC 1995") in [Shatin](https://en.wikipedia.org/wiki/Sha_Tin), [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) and the [13th World Microcomputer Chess Championship 1995](WMCCC_1995 "WMCCC 1995") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), the [IPCCC 1994](IPCCC_1994 "IPCCC 1994") and [IPCCC 1997](IPCCC_1997 "IPCCC 1997"), and the [Aegon 1996](Aegon_1996 "Aegon 1996") and [Aegon 1997](Aegon_1997 "Aegon 1997") man-machine tournaments.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-  - [2.1 WCCC 1995](#wccc-1995)
-  - [2.2 Aegon 1996](#aegon-1996)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

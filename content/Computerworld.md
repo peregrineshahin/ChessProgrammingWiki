@@ -7,30 +7,6 @@ title: Computerworld
 
 an IT periodical published in many countries by [International Data Group](https://en.wikipedia.org/wiki/IDG) (IDG) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, which serves the needs of [IT management](https://en.wikipedia.org/wiki/Information_technology_management) via print since June 1967 twice a month <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and online <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Articles](#selected-articles)
-  - [1.1 1970 ...](#1970-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 Computerworld Russia](#computerworld-russia)
-- [3 Computerwoche](#computerwoche)
-  - [3.1 1975](#1975)
-  - [3.2 1976](#1976)
-  - [3.3 1977](#1977)
-  - [3.4 1978](#1978)
-  - [3.5 1979](#1979)
-  - [3.6 1980](#1980)
-  - [3.7 1981](#1981)
-  - [3.8 1982](#1982)
-  - [3.9 1984](#1984)
-  - [3.10 1985](#1985)
-  - [3.11 1987](#1987)
-  - [3.12 1990 ...](#1990-...)
-  - [3.13 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Articles
 
 ## 1970 ...

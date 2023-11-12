@@ -10,15 +10,6 @@ title: Advances in Computer Games 13
 
 from November 20 to 22, [2011](Timeline#2011 "Timeline"), [Tilburg University](Tilburg_University "Tilburg University"), [Tilburg](https://en.wikipedia.org/wiki/Tilburg) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [The Netherlands](https://en.wikipedia.org/wiki/Netherlands). In conjunction with the [16th Computer Olympiad](16th_Computer_Olympiad "16th Computer Olympiad"), the [WCCC 2011](WCCC_2011 "WCCC 2011"), and the [WCSC 2011](WCSC_2011 "WCSC 2011").
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 See also](#see-also)
-- [4 Reports](#reports)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Proceedings
 
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat") (editors) (**2012**). *[Advances in Computer Games](http://link.springer.com/book/10.1007/978-3-642-31866-5)*.

@@ -13,13 +13,6 @@ which contains a spin-off of the engine independent [Cerebellum](index.php?title
 used as playing or [opening book](Opening_Book "Opening Book") with one or two [best moves](Best_Move "Best Move") per node available but without [score](Score "Score") informations.
 The initial Brainfish release of July 2016 consists of about 4.4 million positions, containing the most frequently played positions from engine games, human games, and some positions of rating list.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Artist](Ferdinand_Mosca#ChessArtist "Ferdinand Mosca") by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")

@@ -9,14 +9,6 @@ is a [Best-First search](Best-First "Best-First") algorithm based on [Best-First
 
 BFMMS, [MCαβ](MC%CE%B1%CE%B2 "MCαβ"), the [Rollout Paradigm](Bojun_Huang#Rollout "Bojun Huang") and further [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")-minimax hybrids share the same idea, to combine Best-First with Depth-First searches.
 
-## Contents
-
-- [1 Four Phases](#four-phases)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 References](#references)
-
 ## Four Phases
 
 BFMMS can be divided into four strategic phases, repeated as long as there is time left:

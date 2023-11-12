@@ -11,17 +11,6 @@ His research focuses on development, management and use of enterprise models whi
 in particular enterprise models for interoperability between enterprises and their information systems, and before, on [software performance evaluation](https://en.wikipedia.org/wiki/Software_performance_testing).
 In 1993, along with [Bjørnar Tessem](Bj%C3%B8rnar_Tessem "Bjørnar Tessem"), he contributed to computer chess at the [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference on the topic of [Long-Term Planning](Planning "Planning").
 
-## Contents
-
-- [1 Long-Term Planning in Computer Chess](#long-term-planning-in-computer-chess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1990 ...](#1990-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-  - [2.4 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Long-Term Planning in Computer Chess
 
 *Abstract* <a id="cite-note-2" href="#cite-ref-2">[2]</a>

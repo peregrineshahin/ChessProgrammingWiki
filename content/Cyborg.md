@@ -8,13 +8,6 @@ title: Cyborg
 
 a chess program by [Juul Moormann](index.php?title=Juul_Moormann&action=edit&redlink=1 "Juul Moormann (page does not exist)"), initially written 1981 in [Z80](Z80 "Z80") [assembly](Assembly "Assembly") for the [TRS-80](TRS-80 "TRS-80"), later ported to [8086](8086 "8086") assembly, to run on an [IBM PC](IBM_PC "IBM PC"). The PC version Cyborg **1.0** made its debut at the [DOCCC 1983](DOCCC_1983 "DOCCC 1983") in [Leiden](https://en.wikipedia.org/wiki/Leiden) with a 50% score <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [DOCCC 1983](DOCCC_1983 "DOCCC 1983"), round 6, [GVNAF](GVNA "GVNA") - Cyborg 1.0 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

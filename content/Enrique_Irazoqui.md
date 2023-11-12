@@ -8,17 +8,6 @@ title: Enrique Irazoqui
 
 was a [Catalan](https://en.wikipedia.org/wiki/Catalan_people) professor of literature, expert in [information technology](https://en.wikipedia.org/wiki/Information_technology), [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and computer chess, and actor - most famous for his role as [Jesus Christ](https://en.wikipedia.org/wiki/Jesus) in [The Gospel According to St. Matthew](https://en.wikipedia.org/wiki/The_Gospel_According_to_St._Matthew_%28film%29) (Il vangelo secondo Matteo), Italy 1964 by [Pier Paolo Pasolini](https://en.wikipedia.org/wiki/Pier_Paolo_Pasolini) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1998 ...](#1998-...)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Computer Chess
 
 Enrique Irazoqui was editor of the annual [Computer Chess Digest](Computer_Chess_Reports "Computer Chess Reports"), and organizer and arbiter of various tournaments and matches. In 1997, he was one of the [founders](CCC#Founders "CCC") of the [talkchess computer chess club](CCC "CCC"). Well known were his *[Cadaqués](https://en.wikipedia.org/wiki/Cadaqu%C3%A9s) Computer Tournaments* <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In 2002, he was the arbiter during the [Kramnik vs Deep Fritz](Kramnik_versus_Deep_Fritz_2002 "Kramnik versus Deep Fritz 2002") chess match in [Bahrain](https://en.wikipedia.org/wiki/Bahrain), which ended in a tie. At the [Man vs Machine Team Championship 2004](Man_vs_Machine_Team_Championship#2004 "Man vs Machine Team Championship") in [Bilbao](https://en.wikipedia.org/wiki/Bilbao), Enrique Irazoqui served as co-organizer and computer chess advisor <a id="cite-note-5" href="#cite-ref-5">[5]</a> .

@@ -8,26 +8,6 @@ title: Futility PruningMoveCountBasedPruning
 
 in its pure form implemented at the [frontier nodes](Frontier_Nodes "Frontier Nodes") ([depth](Depth "Depth") == 1) with one [ply](Ply "Ply") left to the horizon. It discards the moves that have no potential of raising [alpha](Alpha "Alpha"), which in turn requires some estimate of a potential value of a move. This is calculated by adding a futility margin (representing the largest conceivable positional gain) to the evaluation of the current position. If this does not exceed alpha then the futility pruning is triggered to skip this move (which further means setting a flag like *f_prune = 1* to indicate not all moves were tried).
 
-## Contents
-
-- [1 Conditions](#conditions)
-- [2 Extended Futility Pruning](#extended-futility-pruning)
-- [3 Move Count Based Pruning](#move-count-based-pruning)
-- [4 Deep Futility Pruning](#deep-futility-pruning)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1995 ...](#1995-...)
-  - [7.2 2000 ...](#2000-...)
-  - [7.3 2005 ...](#2005-...)
-  - [7.4 2010 ...](#2010-...)
-  - [7.5 2015 ...](#2015-...)
-  - [7.6 2020 ...](#2020-...)
-- [8 External Links](#external-links)
-  - [8.1 Pruning](#pruning)
-  - [8.2 Misc](#misc)
-- [9 References](#references)
-
 ## Conditions
 
 For [tactical](Tactics "Tactics") stability, even in such a node we ought to search the following moves:

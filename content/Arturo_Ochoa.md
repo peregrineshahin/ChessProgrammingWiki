@@ -7,15 +7,6 @@ title: Arturo Ochoa
 
 a Venezuelan computer chess expert, early [WinBoard](WinBoard "WinBoard") promoter <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"), who cooperated with many chess programmers and cooked [opening books](Opening_Book "Opening Book") for their engines as used in tournaments or released with the engine.
 
-## Contents
-
-- [1 Notable Engines](#notable-engines)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Notable Engines
 
 - [Green Light Chess](Green_Light_Chess "Green Light Chess") by [Tim Foden](Tim_Foden "Tim Foden") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

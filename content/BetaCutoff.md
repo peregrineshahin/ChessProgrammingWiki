@@ -6,14 +6,6 @@ title: BetaCutoff
 \[ Cut-off <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **beta-cutoff** occurs in the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), if the [score](Score "Score") backed up by the search is greater than or equal to [beta](Beta "Beta") and [fails high](Fail-High "Fail-High"). No further [moves](Moves "Moves") need to be searched, since one [refutation](Refutation_Move "Refutation Move") is already sufficient to avoid the move that led to this [node](Node "Node") or [position](Chess_Position "Chess Position"). Nodes, where a beta-cutoff occurs are then [cut-nodes](Node_Types#CUT "Node Types") where [move ordering](Move_Ordering "Move Ordering") was crucial to try the refutation move as early as possible - typically as first move in 90 to 95 per cent of all cases. In [max versus min alpha-beta](Alpha-Beta#MaxversusMin "Alpha-Beta") a beta-cutoff can only occur for the max-player, while the min-player cuts if below or equal alpha, called **alpha-cutoff**. Since the common [negamax](Negamax "Negamax") implementation makes both players maximizers, [negamax alpha-beta](Alpha-Beta#Negamax "Alpha-Beta") has beta-cutoffs exclusively for both players.
 
-## Contents
-
-- [1 Shallow or Deep](#shallow-or-deep)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Shallow or Deep
 
 A **shallow** cutoff occurs if the [window](Window "Window") was narrowed at the parent node, that is, reduced current beta. A **deep** cutoff occurs if the [window](Window "Window") was narrowed closer to the [root](Root "Root") with an odd ply-distance of at least three to the current node. Deep cutoffs were sometimes omitted in early chess programs if not passing [alpha](Alpha "Alpha") through the [recursive](Recursion "Recursion") call <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

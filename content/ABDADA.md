@@ -8,25 +8,6 @@ title: ABDADA
 
 a loosely synchronized, [distributed search algorithm](Parallel_Search "Parallel Search") developed by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill"). The ABDADA search algorithm is based on [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") (YBWC) ([Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") et al. 1986, 1993) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> and αβ\* ([Vincent David](Vincent_David "Vincent David") 1993) <a id="cite-note-4" href="#cite-ref-4">[4]</a> . From YBWC it retains the basic concept to allow parallel search only if the eldest son has been fully evaluated. From αβ\* as well as [Steve Otto](Steve_Otto "Steve Otto") and [Ed Felten's](Ed_Felten "Ed Felten") algorithm (1988) <a id="cite-note-5" href="#cite-ref-5">[5]</a> which both rely on a [Shared Hash Table](Shared_Hash_Table "Shared Hash Table") and all processors start the search simultaneously at the [root](Root "Root"), ABDADA retains the simple [recursive](Recursion "Recursion") control structure similar to a serial algorithm. With the help of additional [transposition table](Transposition_Table "Transposition Table") information, i.e. the number of processors searching this node, it is possible to control [speculative parallelism](https://en.wikipedia.org/wiki/Speculative_multithreading).
 
-## Contents
-
-- [1 Recursion](#recursion)
-- [2 Algorithm](#algorithm)
-- [3 Pseudo Code](#pseudo-code)
-- [4 Implementations](#implementations)
-  - [4.1 Frenchess](#frenchess)
-  - [4.2 Smash](#smash)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1997 ...](#1997-...)
-  - [7.2 2000 ...](#2000-...)
-  - [7.3 2010 ...](#2010-...)
-- [8 External Links](#external-links)
-  - [8.1 Algorithm](#algorithm-2)
-  - [8.2 Misc](#misc)
-- [9 References](#references)
-
 ## Recursion
 
 While [YBWC](YBWC "YBWC") is difficult to implement recursively, ABDADA is not. In YBWC, when a processor receives an evaluation answer from one of its slaves, it must be able to produce a jump in the search depth if this evaluation produces a pruning of the current master node. So the values of [alpha](Alpha "Alpha") and [beta](Beta "Beta") must at least be kept in [arrays](Array "Array") indexed by [ply](Ply "Ply") distance from root, and special arrangements must be made to counteract the disruption that might occur from confusing depths. Therefor YBWC needs a hugely modified [iterative search](Iterative_Search "Iterative Search") algorithm. In his paper <a id="cite-note-6" href="#cite-ref-6">[6]</a> , Weill states that using ABDADA within a recursive [NegaScout](NegaScout "NegaScout") framework was 30% faster than a none-recursive search, which was observed independently by [Mark Brockington](Mark_Brockington "Mark Brockington") in 1994 <a id="cite-note-7" href="#cite-ref-7">[7]</a> . It can be explained by the fact that within high-level languages and their compilers for certain target platforms, the use of procedure [stacks](Stack "Stack") is much more optimized than the use of indexed arrays, also observed by [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth) concerning the [Quicksort](https://en.wikipedia.org/wiki/Quicksort) algorithm <a id="cite-note-8" href="#cite-ref-8">[8]</a> .

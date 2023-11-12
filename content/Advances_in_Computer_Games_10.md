@@ -8,16 +8,6 @@ title: Advances in Computer Games 10
 [](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2003/fotos/graz_web/03.html) Dom im Berg <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **10th Advances in Computer Games** Conference (ACG) took place at November 24-27, [2003](Timeline#2003 "Timeline"), in [Dom im Berg](https://en.wikipedia.org/wiki/Grazer_Schlo%C3%9Fberg) in [Graz](https://en.wikipedia.org/wiki/Graz), [European Capital of Culture](https://en.wikipedia.org/wiki/European_Capital_of_Culture) in 2003, [Austria](https://en.wikipedia.org/wiki/Austria), in conjunction with the [11th World Computer Chess Championship](WCCC_2003 "WCCC 2003") and the [8th Computer Olympiad](8th_Computer_Olympiad "8th Computer Olympiad"). ACG is the conference of the [ICGA](ICGA "ICGA").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Conference Proceedings](#conference-proceedings)
-- [3 Lectures](#lectures)
-- [4 Reports](#reports)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 [](http://www.yss-aya.com/photo/graz2003/1125/Htmls/PICT1180.html)

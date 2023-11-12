@@ -8,16 +8,6 @@ title: Cumulus
 
 the second chess program by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") and [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot"), written in [C](C "C") with a few [8086](8086 "8086") [Assembly](Assembly "Assembly") snippets <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Cumulus played the [WMCCC 1990](WMCCC_1990 "WMCCC 1990"), [WMCCC 1991](WMCCC_1991 "WMCCC 1991"), and [WCCC 1992](WCCC_1992 "WCCC 1992") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [Aegon 1993](Aegon_1993 "Aegon 1993") and various [Aubervilliers Rapid Open](Aubervilliers_Rapid_Open "Aubervilliers Rapid Open") - the versions since [WCCC 1992](WCCC_1992 "WCCC 1992") already the [Écume](%C3%89cume "Écume") codebase, completely written in Assembly language <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") report <a id="cite-note-5" href="#cite-ref-5">[5]</a> :

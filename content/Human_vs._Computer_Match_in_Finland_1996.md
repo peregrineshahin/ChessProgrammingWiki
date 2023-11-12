@@ -9,13 +9,6 @@ on January 28, 1996, in Shakkikoti, House of Chess <a id="cite-note-1" href="#ci
 Five Finnish chess masters played five PC programs, and narrowly lost the 25 games with **12 - 13**. Time control was G/25 as mentioned by [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") in [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 with results and games given by [Jouni Uski](Jouni_Uski "Jouni Uski") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
-## Contents
-
-- [1 Human](#human)
-- [2 Computer](#computer)
-- [3 Publications](#publications)
-- [4 References](#references)
-
 ## Human
 
 |  #

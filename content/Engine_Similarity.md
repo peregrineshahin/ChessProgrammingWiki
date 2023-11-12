@@ -12,22 +12,6 @@ over a set of carefully selected, quiet [test positions](Test-Positions "Test-Po
 A relative high similarity measure between two engines <a id="cite-note-2" href="#cite-ref-2">[2]</a> could be a symptom of using similar evaluation ideas, features and weights, along with [automated tuning](Automated_Tuning "Automated Tuning") (or trainig), or even code copying aka [cloning](Category:Clone "Category:Clone").
 Similarity testing is intended as first automated "[screening](<https://en.wikipedia.org/wiki/Screening_(medicine)>)" to trigger further investigations in case moves are too similar.
 
-## Contents
-
-- [1 Similarity Testers](#similarity-testers)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1999](#1999)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-  - [4.5 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engines](#chess-engines)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Similarity Testers
 
 In December 2010, [Don Dailey](Don_Dailey "Don Dailey") published **SIM03** to test the similary with a set of [UCI](UCI "UCI") compliant engines with **8238** in-build positions - still freely available from the [Komodo](Komodo "Komodo") site <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

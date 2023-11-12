@@ -9,14 +9,6 @@ a chess program by [Christopher Lutz](Christopher_Lutz "Christopher Lutz") writt
 Bernie participated at the [First IPCCC 1991](IPCCC_1991 "IPCCC 1991") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn) running on a [1040STE](https://en.wikipedia.org/wiki/Atari_ST#STE_models) with 1,000 [nodes per second](Nodes_per_Second "Nodes per Second"), and became shared third with 3/5, tied with [Check Check](Check_Check "Check Check") behind [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") on 256 [transputers](Transputer "Transputer") and [Bobby II](Bobby "Bobby") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 Recognizing the amount of work to furher improve his program, Christopher Lutz then decided to better invest his time in his own chess playing career <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Games
 
 [IPCCC 1991](IPCCC_1991 "IPCCC 1991"), round 2, Bernie - [Nimzo](Nimzo "Nimzo") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Strange computer chess in 1991!

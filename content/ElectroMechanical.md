@@ -7,23 +7,6 @@ title: ElectroMechanical
 
 combine [mechanical](https://en.wikipedia.org/wiki/Mechanics) and [electrical](https://en.wikipedia.org/wiki/Electricity) components to implement their [discrete](https://en.wikipedia.org/wiki/Discrete) or [digital](https://en.wikipedia.org/wiki/Digital_data) [combinatorial logic](Combinatorial_Logic "Combinatorial Logic"), and along with [memory](Memory "Memory"), [sequential logic](Sequential_Logic "Sequential Logic"). Components include [switches](https://en.wikipedia.org/wiki/Switch), [electromagnetic](https://en.wikipedia.org/wiki/Electromagnet) [actuators](https://en.wikipedia.org/wiki/Actuator), and most commonly [relays](https://en.wikipedia.org/wiki/Relay). While pure computing is nowadays the domain of [electronics](https://en.wikipedia.org/wiki/Electronics), [Robots](Robots "Robots"), including [dedicated chess playing devices](Dedicated_Chess_Computers "Dedicated Chess Computers"), along with their [sensors](https://en.wikipedia.org/wiki/Sensor) and actuators are the domain of [mechatronics](https://en.wikipedia.org/wiki/Mechatronics), a design process that includes a combination of [mechanical engineering](https://en.wikipedia.org/wiki/Mechanical_engineering), [electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering), [control engineering](https://en.wikipedia.org/wiki/Control_engineering) and [computer engineering](https://en.wikipedia.org/wiki/Computer_engineering).
 
-## Contents
-
-- [1 Chess Machines](#chess-machines)
-  - [1.1 El Ajedrecista](#el-ajedrecista)
-  - [1.2 Nemes' Chess Machine](#nemes.27-chess-machine)
-  - [1.3 Shannon's Chess Machine](#shannon.27s-chess-machine)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Mechanical Computers](#mechanical-computers)
-  - [5.2 Components](#components)
-  - [5.3 Relay Computers](#relay-computers)
-    - [5.3.1 Early Computers](#early-computers)
-    - [5.3.2 Hobby Projects](#hobby-projects)
-- [6 References](#references)
-
 ## Chess Machines
 
 Beside the early [mechanical](https://en.wikipedia.org/wiki/Mechanical_computer) and [electro mechanical](https://en.wikipedia.org/wiki/Mechanical_computer#Electro-mechanical_computers) [calculators](https://en.wikipedia.org/wiki/Calculator) and general purpose computers, like the relais computers by [Konrad Zuse](Konrad_Zuse "Konrad Zuse"), [Howard H. Aiken](https://en.wikipedia.org/wiki/Howard_H._Aiken), and [George Stibitz](https://en.wikipedia.org/wiki/George_Stibitz), there were early electro-mechanical dedicated chess machines, most notably [El Ajedrecista](El_Ajedrecista "El Ajedrecista"), the electro-mechanical [KRK](KRK "KRK") Solver by [Leonardo Torres y Quevedo](Leonardo_Torres_y_Quevedo "Leonardo Torres y Quevedo") of [1912](Timeline#1912 "Timeline") and [Claude Shannon's](Claude_Shannon "Claude Shannon") relay-based chess machine, built in 1949, to play some endings with up to six pieces. [Tihamér Nemes](Tiham%C3%A9r_Nemes "Tihamér Nemes") designed an electro-mechanical mate solver in the late 40's <a id="cite-note-1" href="#cite-ref-1">[1]</a>.

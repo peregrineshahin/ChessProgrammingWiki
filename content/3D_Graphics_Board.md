@@ -10,30 +10,6 @@ a [3D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics) [projection]
 
 A full perspective projected 3D board requires additional hardware and software resources, such as sophisticated [graphic cards](https://en.wikipedia.org/wiki/Video_card) with [GPUs](GPU "GPU") and 3D graphic libraries or frameworks like [OpenGL](https://en.wikipedia.org/wiki/OpenGL) or [Direct3D](https://en.wikipedia.org/wiki/Microsoft_Direct3D) as subset of the [DirectX](https://en.wikipedia.org/wiki/DirectX) collection.
 
-## Contents
-
-- [1 Ergonomics](#ergonomics)
-- [2 Screenshots & Images](#screenshots-.26-images)
-  - [2.1 Early 3D Boards](#early-3d-boards)
-  - [2.2 Chessmaster](#chessmaster)
-  - [2.3 ChessPartner](#chesspartner)
-  - [2.4 KnightCap](#knightcap)
-  - [2.5 Nemeton](#nemeton)
-  - [2.6 Uragano 3D](#uragano-3d)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Basics](#basics)
-  - [6.2 Projection](#projection)
-  - [6.3 3D Graphics API and Frameworks](#3d-graphics-api-and-frameworks)
-  - [6.4 3D-Editors](#3d-editors)
-  - [6.5 Tutorials](#tutorials)
-  - [6.6 3D Chess](#3d-chess)
-    - [6.6.1 Chessmaster](#chessmaster-2)
-    - [6.6.2 Fritz GUI](#fritz-gui)
-- [7 References](#references)
-
 ## Ergonomics
 
 Despite the more challenging task for the GUI or graphics programmer and progress to simulate the view on a real chessboard, the 3D Board is usually harder to grasp for a human chess player than good [2D Boards](2D_Graphics_Board "2D Graphics Board"). Pieces and specially pawns are often partly covered by pieces in front, and movement of head and eyes of the chess player lack the same visual feedback as looking on a real chess board. Therefor 3D Boards are often featured in mass market products and some programs where authors are interested in 3D graphics programming. The really sophisticated 3D boards of [Chessmaster](Chessmaster "Chessmaster") and [Fritz](Fritz "Fritz") are eye catchers and rich of features, but rarely used for serious playing.

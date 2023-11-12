@@ -10,17 +10,6 @@ an American computer scientist and former computer chess programmer. He started 
 
 From the late 70s, Slate collaborated with [William Blanchard](William_Blanchard "William Blanchard") to build their new chess program [Nuchess](Nuchess "Nuchess"). In the early 80s, David Slate was further involved in the development of programs for [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). Affiliated with [Applied Concepts](Applied_Concepts "Applied Concepts"), and along with Atkin, Slate co-authored the [Gruenfeld](Morphy#Gruenfeld "Morphy") and [Capablanca](Morphy#Capablanca "Morphy") module programs for the [Great Game Machine](Great_Game_Machine "Great Game Machine") and the [Chafitz modular game system](Chafitz_Modular_Game_System "Chafitz Modular Game System"). David Slate further worked with [Peter W. Frey](Peter_W._Frey "Peter W. Frey") on [Pattern](Pattern_Recognition "Pattern Recognition") and Letter Recognition <a id="cite-note-2" href="#cite-ref-2">[2]</a><a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1970 ...](#1970-...)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15f2c0)

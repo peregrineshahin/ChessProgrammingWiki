@@ -6,13 +6,6 @@ title: Duke University
 \[ The [Duke Chapel](https://en.wikipedia.org/wiki/Duke_Chapel) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Duke University**, [Durham](https://en.wikipedia.org/wiki/Durham,_North_Carolina), [North Carolina](https://en.wikipedia.org/wiki/North_Carolina), [United States](https://en.wikipedia.org/wiki/United_States)
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Alan Biermann](Alan_Biermann "Alan Biermann")

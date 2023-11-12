@@ -8,29 +8,6 @@ title: Byte MagazineBYTE310
 
 a monthly [microcomputer](https://en.wikipedia.org/wiki/Microcomputer) periodical, published from September 1975 until July 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In spring of 1979, owner/publisher BYTE Publications, Inc., Virginia Williamson sold the magazine to [McGraw-Hill](https://en.wikipedia.org/wiki/McGraw-Hill). The readership of Byte and advertising revenue were declining when McGraw-Hill sold the magazine to [CMP Media](https://en.wikipedia.org/wiki/UBM_plc), who ceased publication with the July 1998 issue. Specially Volume 3, 1978 has various computer chess related articles. Most BYTE Magazines are available in the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Authors](#selected-authors)
-- [2 Chess Programs](#chess-programs)
-- [3 Selected Articles](#selected-articles)
-  - [3.1 Volume 3 1978](#volume-3-1978)
-    - [3.1.1 Vol. 3, No. 1, January 1978](#vol.-3.2c-no.-1.2c-january-1978)
-    - [3.1.2 Vol. 3, No. 3, March 1978](#vol.-3.2c-no.-3.2c-march-1978)
-    - [3.1.3 Vol. 3, No. 7, July, 1978](#vol.-3.2c-no.-7.2c-july.2c-1978)
-    - [3.1.4 Vol. 3, No. 9, September 1978](#vol.-3.2c-no.-9.2c-september-1978)
-    - [3.1.5 Vol. 3, No. 10, October 1978](#vol.-3.2c-no.-10.2c-october-1978)
-    - [3.1.6 Vol. 3, No. 11, November 1978](#vol.-3.2c-no.-11.2c-november-1978)
-    - [3.1.7 Vol. 3, No. 12, December 1978](#vol.-3.2c-no.-12.2c-december-1978)
-  - [3.2 Volume 4 1979](#volume-4-1979)
-    - [3.2.1 Vol. 4, No. 1, January, 1979](#vol.-4.2c-no.-1.2c-january.2c-1979)
-    - [3.2.2 Vol. 4, No. 11, November 1979](#vol.-4.2c-no.-11.2c-november-1979)
-  - [3.3 Volume 11 1986](#volume-11-1986)
-    - [3.3.1 Vol. 11, No. 12, November 1986](#vol.-11.2c-no.-12.2c-november-1986)
-  - [3.4 Volume 22 1997](#volume-22-1997)
-    - [3.4.1 Vol. 22, No. 7, July 1997](#vol.-22.2c-no.-7.2c-july-1997)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Authors
 
 - [Larry Atkin](Larry_Atkin "Larry Atkin")

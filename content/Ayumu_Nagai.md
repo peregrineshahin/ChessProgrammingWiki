@@ -11,15 +11,6 @@ He holds a M.Sc. and Ph.D. from [University of Tokyo](https://en.wikipedia.org/w
 and was member of [Hiroshi Imai's](Hiroshi_Imai "Hiroshi Imai") research laboratory <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 In the 90s, along with [Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto") and [Norifumi Gotou](index.php?title=Norifumi_Gotou&action=edit&redlink=1 "Norifumi Gotou (page does not exist)"), Ayumu Nagai was co-author of the [Shogi](Shogi "Shogi") program [ISshogi](index.php?title=ISshogi&action=edit&redlink=1 "ISshogi (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, multiple winner and top finisher of CSA tournaments <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [Computer Olympiads](Computer_Olympiad "Computer Olympiad").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

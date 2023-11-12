@@ -6,29 +6,6 @@ title: ConferencesIJCAI1977
 [](File:CG2006.jpg) [Computer and Games 2006](CG_2006 "CG 2006"), [University of Turin](https://en.wikipedia.org/wiki/University_of_Turin) [[1]](#cite_note-1)
 **Conferences** are composed of [presentations](https://en.wikipedia.org/wiki/Presentation), usually followed by a discussion. The work may be bundled in written form as [academic papers](https://en.wikipedia.org/wiki/Academic_publishing), [published](https://en.wikipedia.org/wiki/Publishing) as the [conference proceedings](https://en.wikipedia.org/wiki/Proceedings).
 
-## Contents
-
-- [1 Advances](#Advances)
-  - [1.1 Advances in Computer Chess](#Advances_in_Computer_Chess)
-  - [1.2 Advances in Computer Games](#Advances_in_Computer_Games)
-- [2 Computer and Games](#Computer_and_Games)
-- [3 Workshops](#Workshops)
-  - [3.1 Computer Chess Workshops](#Computer_Chess_Workshops)
-  - [3.2 Heuristic Programming in AI](#Heuristic_Programming_in_AI)
-  - [3.3 Computer Games Workshops](#Computer_Games_Workshops)
-  - [3.4 ECAI Workshops](#ECAI_Workshops)
-  - [3.5 Game Programming Workshops](#Game_Programming_Workshops)
-- [4 AAAI Conferences](#AAAI_Conferences)
-- [5 IFIP Congress](#IFIP_Congress)
-- [6 IJCAI](#IJCAI)
-- [7 IJCCI](#IJCCI)
-- [8 TAAI](#TAAI)
-- [9 Uncertainty in AI](#Uncertainty_in_AI)
-- [10 Miscellaneous](#Miscellaneous)
-- [11 See also](#See_also)
-- [12 External Links](#External_Links)
-- [13 References](#References)
-
 ## Advances
 
 **Advances in Computer Chess**, in 1999 renamed in **Advances in Computer Games** are conferences organized by the [ICCA](ICCA "ICCA"), in 2002 renamed to the [ICGA](ICGA "ICGA").

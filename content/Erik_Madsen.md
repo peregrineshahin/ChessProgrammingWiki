@@ -9,15 +9,6 @@ title: Erik Madsen
 an American professional programmer and application development supervisor specializing in [SharePoint](https://en.wikipedia.org/wiki/Microsoft_SharePoint), [workflow](https://en.wikipedia.org/wiki/Workflow), and [service oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture).
 As an advocate of [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) and [C#](C_sharp "C sharp") [.NET](https://en.wikipedia.org/wiki/.NET_Framework) as well as amateur chess player, Erik is author of [RumbleMinze](RumbleMinze "RumbleMinze") and its successor [MadChess](MadChess "MadChess") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, both written in C# and conform to the [Universal Chess Interface](UCI "UCI").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2012 ...](#2012-...)
-  - [1.2 2015 ...](#2015-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2012 ...

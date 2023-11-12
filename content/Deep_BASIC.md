@@ -10,14 +10,6 @@ The development started in December 2002, and was the author's first attempt at 
 and an [opening book](Opening_Book "Opening Book"). It considers [material](Material "Material") to decide about [lazy evaluation](Lazy_Evaluation "Lazy Evaluation"), and otherwise takes positional [evaluation](Evaluation "Evaluation") terms under account,
 such as [mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure") and [king safety](King_Safety "King Safety") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Screenshot
 
 [](https://web.archive.org/web/20171221075513/http://home.pacific.net.au/~tommyinoz/db.html)

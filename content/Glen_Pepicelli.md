@@ -12,12 +12,6 @@ He contributed to various computer science areas, at [Wikipedia](https://en.wiki
 His excellent publication *Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond* at [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) OnJava.com site <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 about [Bit-Twiddling](Bit-Twiddling "Bit-Twiddling") and [Bitboards](Bitboards "Bitboards") was highly recognized by the chess programming community. Glen Brent Pepicelli died at age 36 on May 10, 2012, after a courageous battle with cancer <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Publications
 
 - Glen Pepicelli (**2005**). *[Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond](https://web.archive.org/web/20050205014648/http://www.onjava.com/pub/a/onjava/2005/02/02/bitsets.html)*. [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) [OnJava.com](https://web.archive.org/web/20050203015229/http://onjava.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2005) » [Java](Java "Java"), [Bit-Twiddling](Bit-Twiddling "Bit-Twiddling"), [Bitboards](Bitboards "Bitboards")

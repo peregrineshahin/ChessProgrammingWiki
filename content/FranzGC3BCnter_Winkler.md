@@ -10,15 +10,6 @@ an Austrian physicist, computer scientist and [AI](Artificial_Intelligence "Arti
 interpretation of [Relativity theory](https://en.wikipedia.org/wiki/Theory_of_relativity) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [spacetime](https://en.wikipedia.org/wiki/Spacetime) [holism](https://en.wikipedia.org/wiki/Holism) <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 and [philosophy of time](https://en.wikipedia.org/wiki/Philosophy_of_space_and_time) <a id="cite-note-5" href="#cite-ref-5">[5]</a> and [mind](https://en.wikipedia.org/wiki/Philosophy_of_mind) <a id="cite-note-6" href="#cite-ref-6">[6]</a>. He defended his Ph.D. thesis on spacetime holism at [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") in 2004 <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1997 ...](#1997-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>

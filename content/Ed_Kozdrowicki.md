@@ -7,13 +7,6 @@ title: Ed Kozdrowicki
 
 an American [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engineering), computer scientist and early computer chess programmer. Along with his fellow [Dennis Cooper](Dennis_Cooper "Dennis Cooper"), Ed Kozdrowicki already started chess programming in the 60s at [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington). Their program [Coko](Coko "Coko"), later affiliated with the Department of Electrical Engineering, [University of California, Davis](https://en.wikipedia.org/wiki/University_of_California,_Davis) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, played the very first [ACM 1970](ACM_1970 "ACM 1970") as well the [ACM 1971](ACM_1971 "ACM 1971"), [ACM 1972](ACM_1972 "ACM 1972") and [ACM 1973](ACM_1973 "ACM 1973") respectively.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

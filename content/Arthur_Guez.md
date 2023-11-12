@@ -8,16 +8,6 @@ title: Arthur Guez
 
 a Canadian computer and neuro scientist, currently researcher at [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") with expertise in [machine learning](Learning "Learning"), in particular [deep learning](Deep_Learning "Deep Learning"), and involved in the [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero") projects. He holds a M.Sc. in machine learning from [McGill University](McGill_University "McGill University") in 2010 and a Ph.D. from *Gatsby Computational Neuroscience Unit* at [University College London](https://en.wikipedia.org/wiki/University_College_London) in 2015 titled *Sample-based Search Methods for Bayes-Adaptive Planning*, where he was supervised by [Peter Dayan](Peter_Dayan "Peter Dayan") and [David Silver](David_Silver "David Silver").
 
-## Contents
-
-- [1 Ph.D. Thesis](#ph.d.-thesis)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2010 ...](#2010-...)
-  - [2.2 2015 ...](#2015-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Ph.D. Thesis
 
 In his Ph.D. thesis, Arthur Guez elaborates on [search](Search "Search") and [planning](Planning "Planning") methods in the face of [uncertainty](https://en.wikipedia.org/wiki/Uncertainty) about the environment inducing the [exploration](https://en.wikipedia.org/wiki/Exploration) versus [exploitation](https://en.wikipedia.org/wiki/Exploitation) trade-off of an [agent-based model](https://en.wikipedia.org/wiki/Agent-based_model) to [optimize](https://en.wikipedia.org/wiki/Optimization_problem) the return by maintaining a [posterior distribution](https://en.wikipedia.org/wiki/Posterior_probability) over possible environments considering all possible future paths. This optimization is equivalent to solving a [Markov decision process](https://en.wikipedia.org/wiki/Markov_decision_process) (MDP) whose hyperstate comprises the agent’s beliefs about the environment, as well as its current state in that environment - the corresponding process is called a [Bayes-Adaptive](https://en.wikipedia.org/wiki/Bayes%27_theorem) MDP (BAMDP), also using a tailored [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"). In *historical notes on Bayesian Adaptive control*, Arthur Guez mentions [Abraham Wald's](Mathematician#AWald "Mathematician") [Sequential Probability Ratio Test (SPRT)](Match_Statistics#SPRT "Match Statistics") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and that [Alan Turing](Alan_Turing "Alan Turing") assisted by [Jack Good](Jack_Good "Jack Good") used a similar sequential testing technique to help decipher [enigma codes](https://en.wikipedia.org/wiki/Enigma_machine) at [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

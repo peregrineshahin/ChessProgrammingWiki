@@ -6,13 +6,6 @@ title: Diagonal Mirroring
 \[.jpg) [Hilma af Klint](Category:Hilma_af_Klint "Category:Hilma af Klint") - Group IX SUW, The Swan No. 7 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Diagonal mirroring** mirrors all [pieces](Pieces "Pieces") along the [main diagonal](Diagonals "Diagonals") or [main anti-diagonal](Anti-Diagonals "Anti-Diagonals"). It is applicable in pawn-less [endgames](Endgame "Endgame") with [castling](Castling "Castling") no longer possible. Along with [horizontal](Horizontal_Mirroring "Horizontal Mirroring") and/or [vertical flipping](Vertical_Flipping "Vertical Flipping"), diagonal mirroring is used in pawn-less [endgame tablebases](Endgame_Tablebases "Endgame Tablebases") to restrict a white king to the 10 squares of the a1-d4-d1 triangle of the board.
 
-## Contents
-
-- [1 Mirroring an 8x8 Board](#mirroring-an-8x8-board)
-- [2 Sample Position](#sample-position)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-
 ## Mirroring an 8x8 Board
 
 An [8x8 Board](8x8_Board "8x8 Board") with a [rank-file mapping](Squares "Squares") needs to swap [rank](Ranks "Ranks") and [file](Files "Files"). A pure 8x8 Board may be mirrored along the main diagonal that way in [C](C "C"):

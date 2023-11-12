@@ -7,17 +7,6 @@ title: Chute
 
 the chess program from the [University of Toronto](University_of_Toronto "University of Toronto") by [Michael Valenti](Michael_Valenti "Michael Valenti") and [Zvonko Vranesic](Zvonko_Vranesic "Zvonko Vranesic"). Chute was subject of Valenti's Masters Thesis supervised by Vranesic <a id="cite-note-1" href="#cite-ref-1">[1]</a>, later also published in many parts in the [Personal Computing](Personal_Computing "Personal Computing") magazine. Chute participated at four consecutive [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1974](ACM_1974 "ACM 1974"), [ACM 1975](ACM_1975 "ACM 1975"), [ACM 1976](ACM_1976 "ACM 1976") and [ACM 1977](ACM_1977 "ACM 1977") and the [WCCC 1977](WCCC_1977 "WCCC 1977") in [Toronto](https://en.wikipedia.org/wiki/Toronto).
 
-## Contents
-
-- [1 Experiences with Chute](#experiences-with-chute)
-- [2 Selected Games](#selected-games)
-- [3 Publications](#publications)
-  - [3.1 1974 ...](#1974-...)
-  - [3.2 1978](#1978)
-  - [3.3 1979](#1979)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Experiences with Chute
 
 Abstract of *Experiences with Chute* during the [WCCC 1977](WCCC_1977 "WCCC 1977") in the Proceedings of the 1977 annual [ACM](ACM "ACM") conference <a id="cite-note-2" href="#cite-ref-2">[2]</a> :

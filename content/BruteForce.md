@@ -6,20 +6,6 @@ title: BruteForce
 [](https://en.wikipedia.org/wiki/Brute_Force_%281947_film%29) Brute Force, 1947 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Brute-Force** performs an exhaustive search, which enumerates all possible candidates for the solution to prove whether it satisfies the [problem statement](https://en.wikipedia.org/wiki/Problem_statement). Brute-force algorithms are conceptually simple, but usually suffer from exponential growing [search space](Search_Space "Search Space").
 
-## Contents
-
-- [1 Search Algorithms](#search-algorithms)
-- [2 Backtracking](#backtracking)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-  - [4.1 1949](#1949)
-  - [4.2 1970 ...](#1970-...)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 1990 ...](#1990-...)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Search Algorithms
 
 In 1949, [Claude Shannon](Claude_Shannon "Claude Shannon") categorized brute-force [minimax search](Minimax "Minimax") as [Type A strategy](Type_A_Strategy "Type A Strategy"), which enumerates and minimaxes all leaf positions of a [tree](Search_Tree "Search Tree") with an uniform [depth](Depth "Depth"), and concluded a machine operating according to the type A strategy would be both slow and a weak player <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Considering the [branching factor](Branching_Factor "Branching Factor") potentiated by depth, Shannon favored the [Type B strategy](Type_B_Strategy "Type B Strategy"), a selective approach only searching "important" branches as the most promising.

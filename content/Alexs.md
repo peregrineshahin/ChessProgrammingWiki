@@ -8,17 +8,6 @@ title: Alexs
 a chess program by [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen"), apparently an application of ALEXS (Automatically Learning EXpert System), a [neural network](Neural_Networks "Neural Networks") approach with a learning efficiency beyond of [genetic learning](Genetic_Programming "Genetic Programming"),
 as elaborated and demonstrated by Alex van Tiggelen and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") at [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6") in the domain of specific [endgames](Endgame "Endgame"), in particular the endgame of two knights versus h-pawn <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and by Van Tiggelen casted to the [middlegame](Middlegame "Middlegame") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Alexs played the [DOCCC 1996](DOCCC_1996 "DOCCC 1996") and the [DOCCC 1998](DOCCC_1998 "DOCCC 1998"), according to [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> it was based on the Dutch [Nightmare](Nightmare_NL "Nightmare NL") by [Joost Buijs](Joost_Buijs "Joost Buijs"), with an [automatically tuned](Automated_Tuning "Automated Tuning") [evaluation](Evaluation "Evaluation") in 1996, but manually tuned parameters in 1998. A time-served version of Alexs was commercially available through [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") in 1999 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 Bionic Impakt](#bionic-impakt)
-  - [1.2 CilkChess](#cilkchess)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Selected Games
 
 ## Bionic Impakt

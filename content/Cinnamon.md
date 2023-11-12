@@ -11,21 +11,6 @@ Cinnamon was first released in February 2013 <a id="cite-note-2" href="#cite-ref
 It targets multiple hardware platforms and [operating systems](https://en.wikipedia.org/wiki/Operating_system) such as [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android"),
 also available for the [Raspberry Pi](Raspberry_Pi "Raspberry Pi"), and further provides a [JavaScript](JavaScript "JavaScript") library to play with [chessboard.js](index.php?title=Chessboard.js&action=edit&redlink=1 "Chessboard.js (page does not exist)") or any js [GUI](GUI "GUI").
 
-## Contents
-
-- [1 Sliding Piece Attacks](#sliding-piece-attacks)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-  - [2.4 Misc](#misc)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc-2)
-- [6 References](#references)
-
 ## Sliding Piece Attacks
 
 Cinnamon **1.2** applied a kind of [classical approach](Classical_Approach "Classical Approach") to generate ray-wise [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), [captures](Captures "Captures") and [quiet moves](Quiet_Moves "Quiet Moves").

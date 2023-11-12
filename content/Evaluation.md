@@ -12,39 +12,6 @@ Recently, there are two main ways to build an evaluation: traditional **hand-cra
 
 Beginning chess players learn to do this starting with the [value](Point_Value "Point Value") of the [pieces](Pieces "Pieces") themselves. Computer evaluation functions also use the value of the [material balance](Material "Material") as the most significant aspect and then add other considerations.
 
-## Contents
-
-- [1 Where to Start](#Where_to_Start)
-  - [1.1 Side to move relative](#Side_to_move_relative)
-  - [1.2 Linear vs. Nonlinear](#Linear_vs._Nonlinear)
-  - [1.3 General Aspects](#General_Aspects)
-- [2 Basic Evaluation Features](#Basic_Evaluation_Features)
-- [3 Considering Game Phase](#Considering_Game_Phase)
-- [4 Miscellaneous](#Miscellaneous)
-- [5 See also](#See_also)
-- [6 Publications](#Publications)
-  - [6.1 1949](#1949)
-  - [6.2 1950 ...](#1950_...)
-  - [6.3 1960 ...](#1960_...)
-  - [6.4 1970 ...](#1970_...)
-  - [6.5 1980 ...](#1980_...)
-  - [6.6 1990 ...](#1990_...)
-  - [6.7 2000 ...](#2000_...)
-  - [6.8 2010 ...](#2010_...)
-  - [6.9 2015 ...](#2015_...)
-- [7 Blog & Forum Posts](#Blog_.26_Forum_Posts)
-  - [7.1 1993 ...](#1993_...)
-  - [7.2 1995 ...](#1995_...)
-  - [7.3 2000 ...](#2000_..._2)
-  - [7.4 2005 ...](#2005_...)
-  - [7.5 2010 ...](#2010_..._2)
-  - [7.6 2015 ...](#2015_..._2)
-  - [7.7 2020 ...](#2020_...)
-- [8 External Links](#External_Links)
-  - [8.1 Mathematical Foundations](#Mathematical_Foundations)
-  - [8.2 Chess Evaluation](#Chess_Evaluation)
-- [9 References](#References)
-
 ## Where to Start
 
 The first thing to consider when writing an evaluation function is how to score a move in [Minimax](Minimax "Minimax") or the more common [NegaMax](Negamax "Negamax") framework. While Minimax usually associates the white side with the max-player and black with the min-player and always evaluates from the white point of view, NegaMax requires a symmetric evaluation in relation to the [side to move](Side_to_move "Side to move"). We can see that one must not score the move per se – but the result of the move (i.e. a positional evaluation of the board as a result of the move). Such a symmetric evaluation function was first formulated by [Claude Shannon](Claude_Shannon "Claude Shannon") in 1949 [[2]](#cite_note-2) :

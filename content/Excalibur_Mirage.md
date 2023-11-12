@@ -11,19 +11,6 @@ The computer features a [X-Y plotter](https://en.wikipedia.org/wiki/X%E2%80%93Y_
 a [sensory board](Sensory_Board "Sensory Board"), [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display), and a control button panel. The program is [Ron Nelson's](Ron_Nelson "Ron Nelson") initial chess program developed for Excalibur, and ran on [Hitachi's](https://en.wikipedia.org/wiki/Hitachi) [H8](H8 "H8") controller at 10 MHz with 48 KiB [ROM](Memory#ROM "Memory") and 2 KiB [RAM](Memory#RAM "Memory").
 The development was supported by chess consultant and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Failure Rates](#failure-rates)
-- [2 Attack Maps](#attack-maps)
-- [3 Tactical Quiescence](#tactical-quiescence)
-- [4 See also](#see-also)
-- [5 Manual](#manual)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Computer](#chess-computer)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Failure Rates
 
 Quote by [Ron Nelson](Ron_Nelson "Ron Nelson") <a id="cite-note-5" href="#cite-ref-5">[5]</a>

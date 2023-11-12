@@ -6,15 +6,6 @@ title: Dartmouth College
 \[ Dartmouth College Campus <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 [Dartmouth College](https://en.wikipedia.org/wiki/Dartmouth_College), [Hanover](https://en.wikipedia.org/wiki/Hanover,_New_Hampshire), [New Hampshire](https://en.wikipedia.org/wiki/New_Hampshire) the [United States](https://en.wikipedia.org/wiki/United_States).
 
-## Contents
-
-- [1 People](#people)
-  - [1.1 Scientists](#scientists)
-  - [1.2 Graduate Students](#graduate-students)
-- [2 Chess Programs](#chess-programs)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 ## Scientists

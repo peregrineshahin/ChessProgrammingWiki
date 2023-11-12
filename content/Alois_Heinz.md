@@ -11,14 +11,6 @@ He received a [diplom](https://en.wikipedia.org/wiki/Diplom) degree in CS from [
 a Ph.D. in mathematics, and [habilitaion](https://en.wikipedia.org/wiki/Habilitation) in CS from [University of Freiburg](https://en.wikipedia.org/wiki/University_of_Freiburg) in 1990 and 1994 respectively.
 His reaearch includes [machine learning](Learning "Learning"), [neural networks](Neural_Networks "Neural Networks") and neural trees as descendants of [decision trees](https://en.wikipedia.org/wiki/Decision_tree) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, also applied to [evaluation](Evaluation "Evaluation") of a [alpha-beta search](Alpha-Beta "Alpha-Beta") as generalization of [lazy evaluation](Lazy_Evaluation "Lazy Evaluation") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

@@ -6,33 +6,6 @@ title: Endgame
 [](https://www.dorotheatanning.org/life-and-work/view/229/) [Dorothea Tanning](Category:Dorothea_Tanning "Category:Dorothea Tanning") - End Game, 1944 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 In the **Endgame** chess programs usually have quite a lot of difficulties. Even the most simple endgames often just lead to a mate after 10 to 15 plys or more, which is far beyond the horizon for engines without the specific endgame knowledge. There are some concepts that a chess programmer should implement to overcome the most basic problems. Usually chess engines activate this special Endgame knowledge as soon as the material on board reaches a certain lower-bound.
 
-## Contents
-
-- [1 Transposition Tables](#transposition-tables)
-- [2 Evaluation](#evaluation)
-- [3 Special Knowledge](#special-knowledge)
-  - [3.1 King and Pawns](#king-and-pawns)
-  - [3.2 Pieces](#pieces)
-  - [3.3 Endgame Tablebases](#endgame-tablebases)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-  - [5.1 1960 ...](#1960-...)
-  - [5.2 1970 ...](#1970-...)
-  - [5.3 1980 ...](#1980-...)
-  - [5.4 1990 ...](#1990-...)
-  - [5.5 1995 ...](#1995-...)
-  - [5.6 2000 ...](#2000-...)
-  - [5.7 2005 ...](#2005-...)
-  - [5.8 2010 ...](#2010-...)
-  - [5.9 2015 ...](#2015-...)
-  - [5.10 2020 ...](#2020-...)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2000 ...](#2000-...-2)
-  - [6.2 2010 ...](#2010-...-2)
-  - [6.3 2020 ...](#2020-...-2)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Transposition Tables
 
 Nowhere else are the [Transposition Hash Tables](Transposition_Table "Transposition Table") more efficient than in Endgames. They are invaluable.

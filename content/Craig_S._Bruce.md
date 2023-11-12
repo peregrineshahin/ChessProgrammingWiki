@@ -14,13 +14,6 @@ He further is a [8-bit](6502 "6502") [Commodore VIC-20](Commodore_VIC-20 "Commod
 and along with his fellow [R. Kevin Phillips](R._Kevin_Phillips "R. Kevin Phillips"), author of the chess program [KC Chess](KC_Chess "KC Chess") to run under [MS-DOS](MS-DOS "MS-DOS") [computers](IBM_PC "IBM PC"), written in [Turbo Pascal](Pascal#TurboPascal "Pascal") for their undergraduate final project at the [University of New Brunswick](https://en.wikipedia.org/wiki/University_of_New_Brunswick) in 1990
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Quotations](#selected-quotations)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Quotations
 
 by Craig S. Bruce <a id="cite-note-5" href="#cite-ref-5">[5]</a>

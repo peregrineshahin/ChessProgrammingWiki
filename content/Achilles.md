@@ -8,15 +8,6 @@ title: Achilles
 
 a [parallel](Parallel_Search "Parallel Search") chess system by [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") based on his [Axon 3](Axon "Axon") engine. In July 2007, at the Faculty of Electronic Engineering, [University of Niš](https://en.wikipedia.org/wiki/University_of_Ni%C5%A1), Achilles won a four game match versus [Grandmaster](https://en.wikipedia.org/wiki/Grandmaster_%28chess%29) [Igor Miladinović](https://en.wikipedia.org/wiki/Igor_Miladinovi%C4%87) with 3½ - ½, running on a [cluster](https://en.wikipedia.org/wiki/Computer_cluster) of 12 [AMD](AMD "AMD") [x64](X86-64 "X86-64"), 1.8 GHz with an own written [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) cluster chess [operating system](https://en.wikipedia.org/wiki/Operating_system). Game was two hours per side <a id="cite-note-2" href="#cite-ref-2">[2]</a> . [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") was responsible for the [opening book](Opening_Book "Opening Book") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Axon](Axon "Axon")

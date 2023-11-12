@@ -8,13 +8,6 @@ title: Ari Weinstein
 an American computer scientist at [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"). He holds a Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University) under advisor [Michael L. Littman](Michael_L._Littman "Michael L. Littman") on *Local Planning For Continuous Markov Decision Processes*, covering algorithms that create plans to maximize a numeric reward over time. While a general formulation of this problem in terms of
 [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") has traditionally been restricted to small discrete domains, Weinstein thesis include both continuous and high dimensional domains, with simulations of swimming, riding a bicycle, and walking as concrete examples.
 
-## Contents
-
-- [1 FSSS-Minimax](#fsss-minimax)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## FSSS-Minimax
 
 In their paper *Rollout-based Game-tree Search Outprunes Traditional Alpha-beta*, along with [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)") and his advisor Michael Littman <a id="cite-note-1" href="#cite-ref-1">[1]</a>, Weinstein introduce the rollout-based *FSSS* (Forward-search sparse sampling) <a id="cite-note-2" href="#cite-ref-2">[2]</a> applied to game-tree [search](Search "Search"), outpruning [alpha-beta](Alpha-Beta "Alpha-Beta") both empirically and formally. FSSS-Minimax only visits parts of the tree that alpha-beta visits, and is in terms of related work similar to the *Score Bounded* [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") introduced by [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") and [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

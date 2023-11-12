@@ -10,14 +10,6 @@ a Turkish German [Webmaster](https://en.wikipedia.org/wiki/Webmaster) <a id="cit
 In 1995 he started chess programming, began to learn the [C](C "C") programming language to write the engine [EnginMax](EnginMax "EnginMax") using the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and later [UCI](UCI "UCI").
 In 2004, he started to write his new UCI engine [Tornado](Tornado "Tornado") from scratch, which is based on [bitboards](Bitboards "Bitboards").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

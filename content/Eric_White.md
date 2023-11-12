@@ -7,14 +7,6 @@ title: Eric White
 
 an Australian technologist, entrepreneur, businessman and manufacturer of [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics) and [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). Starting computer chess business in the late 70s, founder and along with [Ken Cohen](Ken_Cohen "Ken Cohen") co-founder of the [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) manufacturers *Cassia* (1979-1981), *White and Allcock* (1981-1984) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, [Newcrest Technology](Newcrest_Technology "Newcrest Technology") (1984-1991) aka *CXG Systems*, *National Telecommunications System Ltd.* (1991-1993), *Krypton Ltd.* (1994), *Timorite Ltd.* (1995-1996) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, *Systema Leisure Ltd.* (1997-2001), and subsequently other Hong Kong companies <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Eric White had his computer chess debut with the [Cassia Chess Mate](Cassia_Chess_Mate "Cassia Chess Mate") <a id="cite-note-4" href="#cite-ref-4">[4]</a> which was a [clone](Category:Clone "Category:Clone") of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Fidelity Chess Challenger 10 (A)](Chess_Challenger "Chess Challenger") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Collaborations](#collaborations)
-- [2 Affiliated Programmers](#affiliated-programmers)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Collaborations
 
 In 1981, Eric White started the collaboration with [David Levy's](David_Levy "David Levy") and [Kevin O’Connell's](Kevin_O%E2%80%99Connell "Kevin O’Connell") new company [Intelligent Software](Intelligent_Software "Intelligent Software"). *White and Allcock's* first own dedicated chess computer was the [CXG Sensor Computachess](CXG_Sensor_Computachess "CXG Sensor Computachess") <a id="cite-note-6" href="#cite-ref-6">[6]</a> with a 4-bit [Hitachi](https://en.wikipedia.org/wiki/Hitachi_Ltd.) processor [HD44801](HMCS4xC "HMCS4xC"), and the program by [Mark Taylor](Mark_Taylor "Mark Taylor") using only 160 [nibbles](Nibble "Nibble") of [RAM](Memory#RAM "Memory"), which predecessor was already instantiated in the [SciSys](Saitek "Saitek") [Mini Chess](Mini_Chess "Mini Chess") series earlier this year.

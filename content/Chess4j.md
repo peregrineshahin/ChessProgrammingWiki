@@ -11,20 +11,6 @@ and first published in September 2012 <a id="cite-note-1" href="#cite-ref-1">[1]
 The engine was hosted on [SourceForge](https://en.wikipedia.org/wiki/SourceForge), and meant to be a test bed for various interests, including experimenting with different [JVM based languages](https://en.wikipedia.org/wiki/List_of_JVM_languages), [parallel](Parallel_Search "Parallel Search") and [distributed](https://en.wikipedia.org/wiki/Distributed_computing) programming techniques, and [machine learning](Learning "Learning").
 Since version 3.2 released in March 2017, chess4j became a [bitboard](Bitboards "Bitboards") engine, using [magic bitboards](Magic_Bitboards "Magic Bitboards") to [generate moves](Move_Generation "Move Generation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, now hosted on [GitHub](https://en.wikipedia.org/wiki/GitHub).
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2012 ...](#2012-...)
-  - [3.2 2015 ...](#2015-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

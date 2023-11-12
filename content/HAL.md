@@ -14,19 +14,6 @@ first appearing in [2001: A Space Odyssey](<https://en.wikipedia.org/wiki/2001:_
 HAL was written in [Turbo Pascal](Pascal#TurboPascal "Pascal") to run under the [MS-DOS](MS-DOS "MS-DOS") [command line](CLI "CLI"), and was part of Wheeler's Ph.D. research during the late 80s and early 90s,
 specifically on [linear](https://en.wikipedia.org/wiki/Linearity) [symbolic](https://en.wikipedia.org/wiki/Symbolic_computation) [problem-solving](https://en.wikipedia.org/wiki/Problem_solving) systems and [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing).
 
-## Contents
-
-- [1 Header](#header)
-- [2 Description](#description)
-  - [2.1 User Interface](#user-interface)
-  - [2.2 Board Representation](#board-representation)
-  - [2.3 Search](#search)
-  - [2.4 Evaluation](#evaluation)
-- [3 See also](#see-also)
-- [4 Postings](#postings)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Header
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

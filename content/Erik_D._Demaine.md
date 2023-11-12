@@ -10,15 +10,6 @@ a Canadian American mathematician, computer scientist and professor of computer 
 His research interests include [data structures](Data "Data") such as [binary search trees](https://en.wikipedia.org/wiki/Binary_search_tree), the [mathematics of paper folding](https://en.wikipedia.org/wiki/Mathematics_of_paper_folding) as well as [combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory).
 Mathematical origami artwork by Erik and his father [Martin L. Demaine](index.php?title=Martin_L._Demaine&action=edit&redlink=1 "Martin L. Demaine (page does not exist)") was part of the *Design and the Elastic Mind* exhibit at the [Museum of Modern Art](https://en.wikipedia.org/wiki/Museum_of_Modern_Art) in 2008 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

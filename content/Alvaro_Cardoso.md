@@ -8,16 +8,6 @@ title: Alvaro Cardoso
 a Portuguese [checkers](Checkers "Checkers") programmer, and author of the Portuguese checkers (Spanish checkers, classical checkers, Jogo de Damas Clássicas
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>) engine *Profound*, initially written in [Powerbasic 2.1](Basic "Basic") augmented with many [assembly](Assembly "Assembly") instructions <a id="cite-note-2" href="#cite-ref-2">[2]</a>, considered as one of the strongest classical checkers engines <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Alvaro is long term member in [CCC](CCC "CCC").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

@@ -9,13 +9,6 @@ title: Alex Kure
 an Austrian software developer, computer chess programmer and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"). Along with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") he is co-author as well as opening book author of the chess program [Hydra](Hydra_97 "Hydra 97") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and the [FPGA](FPGA "FPGA") program [Brutus](Brutus "Brutus").
 He is further opening book author of the commercial chess program [Fritz](Fritz "Fritz") by [ChessBase](ChessBase "ChessBase").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), Alex Kure, [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2004**). *Parallel Brutus: The First Distributed, FPGA Accelerated Chess Program*. [IPDPS’04](http://dl.acm.org/citation.cfm?id=645610&picked=prox)

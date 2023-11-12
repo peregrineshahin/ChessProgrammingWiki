@@ -5,22 +5,6 @@ title: Fiftymove Rule
 
 The **Fifty-move rule** states that a [game of chess](Chess_Game "Chess Game") is considered [drawn](Draw "Draw") after **fifty** consecutive [full moves](Moves "Moves") without a [capture](Captures "Captures") or a [pawn move](Pawn_Push "Pawn Push"). If the last move of such series delivers a [checkmate](Checkmate "Checkmate"), this takes precedence over the 50 move rule. Inside a chess program, the [halfmove clock](Halfmove_Clock "Halfmove Clock") takes care of enforcing fifty-move rule. If the halfmove clock becomes greater or equal than 100, and the [side to move](Side_to_move "Side to move") has at least one [legal move](Legal_Move "Legal Move"), a [draw score](Score#DrawScore "Score") should be assigned to that [node](Node "Node"), with appropriate [protocol](Protocols "Protocols") handling and [game state](Chess_Game#endofgame "Chess Game") transitions, if the node is already the [root](Root "Root") and there is no mate in one.
 
-## Contents
-
-- [1 Fide Rule](#fide-rule)
-  - [1.1 Since July 01, 2014](#since-july-01.2c-2014)
-  - [1.2 Temporary Exceptions](#temporary-exceptions)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1998 ...](#1998-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-  - [4.5 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Fide Rule
 
 ```C++

@@ -9,23 +9,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Also, since DanaSah **6.1** in May 2016, [Chess960](Chess960 "Chess960") is supported, available as [Windows](Windows "Windows"), [Linux](Linux "Linux") and [Android](Android "Android") binary.
 DanaSah **8.8**, released in April 2021, supports [Stockfish](Stockfish_NNUE "Stockfish NNUE") compatible [NNUE](NNUE "NNUE") networks <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Photos & Games](#photos-.26-games)
-- [3 Etymology](#etymology)
-- [4 Features](#features)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2005 ...](#2005-...)
-  - [6.2 2010 ...](#2010-...)
-  - [6.3 2015 ...](#2015-...)
-  - [6.4 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Tournament Play
 
 DanaSah played on-line the [CCT9](CCT9 "CCT9"), [CCT10](CCT10 "CCT10") and [CCT12](CCT12 "CCT12") [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), and the [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), the First Annual ACCA World Computer Rapid Chess Championship. Over the board, DanaSah played the [WCCC 2009](WCCC_2009 "WCCC 2009") blitz tournament in [Pamplona](https://en.wikipedia.org/wiki/Pamplona), [Spain](https://en.wikipedia.org/wiki/Spain) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and won the [4th Chess Computer Cup](CCC_2009 "CCC 2009") in [Carugate](https://en.wikipedia.org/wiki/Carugate), [Italy](https://en.wikipedia.org/wiki/Italy) the same year, and further played the [IOCSC 2010](IOCSC_2010 "IOCSC 2010") and [IOCSC 2012](IOCSC_2012 "IOCSC 2012") [Italian Open Chess Software Cups](Italian_Computer_Chess_Championship#IOCSC "Italian Computer Chess Championship"), the latter in the original category.

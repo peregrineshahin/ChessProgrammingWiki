@@ -8,14 +8,6 @@ title: Bart Weststrate
 
 a Dutch software developer, computer chess programmer and author of the former commercial chess program [Kallisto](Kallisto "Kallisto"), which had its debut at [DOCCC 1987](DOCCC_1987 "DOCCC 1987"), and is still active in development.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 DOCCC 2004](#doccc-2004)
-  - [1.2 ICT 2013](#ict-2013)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos
 
 ## [DOCCC 2004](DOCCC_2004 "DOCCC 2004")

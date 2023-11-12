@@ -8,33 +8,6 @@ title: 3rd Computer OlympiadWorkshop
 \[ [Maastricht University](Maastricht_University "Maastricht University") [[1]](#cite_note-1)
 The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1991 "Timeline"), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands). The chess tournament was dominated by the two [Chessmachines](ChessMachine "ChessMachine") with [ARM2](ARM2 "ARM2") processors, where [Ed Schröder's](Ed_Schroder "Ed Schroder") [Gideon](Gideon "Gideon") gained the upper hand over [The King](The_King "The King") version by [Johan de Koning](Johan_de_Koning "Johan de Koning"), and consequently won the Gold medal. The third Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad") conference, proceedings edited by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Victor Allis](Victor_Allis "Victor Allis"), published in 1992 [[2]](#cite_note-2).
 
-## Contents
-
-- [1 Results](#Results)
-  - [1.1 Awari](#Awari)
-  - [1.2 Bridge](#Bridge)
-  - [1.3 Chess](#Chess)
-    - [1.3.1 Final Standing](#Final_Standing)
-    - [1.3.2 Participants](#Participants)
-    - [1.3.3 Selected Games](#Selected_Games)
-  - [1.4 Chinese Chess](#Chinese_Chess)
-  - [1.5 Draughts](#Draughts)
-  - [1.6 Go](#Go)
-    - [1.6.1 19x19](#19x19)
-    - [1.6.2 9x9](#9x9)
-  - [1.7 Gomoku](#Gomoku)
-  - [1.8 Nine Men’s Morris](#Nine_Men.E2.80.99s_Morris)
-  - [1.9 Othello](#Othello)
-  - [1.10 Qubic](#Qubic)
-  - [1.11 Renju](#Renju)
-  - [1.12 Scrabble](#Scrabble)
-- [2 Publications](#Publications)
-  - [2.1 Reports](#Reports)
-  - [2.2 Heuristic Programming in AI](#Heuristic_Programming_in_AI)
-- [3 Forum Posts](#Forum_Posts)
-- [4 External Links](#External_Links)
-- [5 References](#References)
-
 ## Results
 
 ## [Awari](Awari "Awari")

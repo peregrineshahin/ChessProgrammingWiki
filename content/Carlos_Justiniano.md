@@ -9,13 +9,6 @@ title: Carlos Justiniano
 an American technologist, veteran software developer, entrepreneur and author, during the mid 90s project manager and technical lead on the [Chessmaster 5000](Chessmaster "Chessmaster") at [Mindscape](index.php?title=Mindscape&action=edit&redlink=1 "Mindscape (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Inspired by the [SETI@home](https://en.wikipedia.org/wiki/SETI@home) project in 2001 he began work on a personal project to create the largest distributed networked chess playing machine. Carlos was joined a few months later by [Colin Frayn](Colin_Frayn "Colin Frayn") and together with hundreds of volunteers they created [ChessBrain](ChessBrain "ChessBrain") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

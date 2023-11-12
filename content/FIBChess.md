@@ -9,13 +9,6 @@ a [Java](Java "Java") chess program by [Guillermo Baches García](Guillermo_Bach
 during the development affiliated with [Barcelona School of Informatics](http://www.fib.upc.edu/en.html) (Facultat d'Informàtica de Barcelona, FIB) of [Polytechnic University of Catalonia](https://en.wikipedia.org/wiki/Polytechnic_University_of_Catalonia), [Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Spain](https://en.wikipedia.org/wiki/Spain).
 FIBChess played the [WCCC 2004](WCCC_2004 "WCCC 2004") in [Ramat Gan](https://en.wikipedia.org/wiki/Ramat_Gan) operated by [Alejandro González Romero](Alejandro_Gonz%C3%A1lez_Romero "Alejandro González Romero"), and the [WCCC 2006](WCCC_2006 "WCCC 2006") in [Turin](https://en.wikipedia.org/wiki/Turin) operated by its author himself.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 11, FIBChess - [Spike](Spike "Spike")

@@ -7,22 +7,6 @@ title: ChessGUI
 
 a free Graphical User Interface for [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compatible engines running under [Windows](Windows "Windows"), developed by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh") using the [Visual Component Library](https://en.wikipedia.org/wiki/Visual_Component_Library) of [Borland's](https://en.wikipedia.org/wiki/Borland) [C++Builder 5.0](https://en.wikipedia.org/wiki/C++Builder), starting as GUI for his engines [BigLion](BigLion "BigLion"), [Taktix](index.php?title=Taktix&action=edit&redlink=1 "Taktix (page does not exist)"), and [ArcBishop](index.php?title=ArcBishop&action=edit&redlink=1 "ArcBishop (page does not exist)"). ChessGUI has a classical frame window with multiple hierarchical [tabbed views](https://en.wikipedia.org/wiki/Tab_%28GUI%29) on the current tournament or game document and engine outputs.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Testing Framework](#testing-framework)
-  - [1.2 Live Broadcast](#live-broadcast)
-  - [1.3 Support](#support)
-- [2 Screenshot](#screenshot)
-- [3 Retirement](#retirement)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2007 ...](#2007-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Features
 
 ## Testing Framework

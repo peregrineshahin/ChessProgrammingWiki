@@ -11,14 +11,6 @@ His research interests include computational [decision making](https://en.wikipe
 Along with Dana S. Nau et al., he further worked and published on [search pathology](Search_Pathology "Search Pathology") and how to avoid it <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 As game programmer, he is author of the [KriegSpiel](KriegSpiel "KriegSpiel") bot [Kbott](https://www.game-ai-forum.org/icga-tournaments/program.php?id=243), which played the [11th Computer Olympiad, KriegSpiel](11th_Computer_Olympiad#KriegSpiel "11th Computer Olympiad") 2006 in [Turin](https://en.wikipedia.org/wiki/Turin).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

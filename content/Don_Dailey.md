@@ -10,33 +10,6 @@ was an American computer games and chess researcher and programmer, and along wi
 
 In October 2013, Don Dailey announced the release of Komodo 6 and also bad news concerning the future status of Komodo due to his fatal illness of a acute form of [Leukemia](https://en.wikipedia.org/wiki/Leukemia) <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and introduced [Mark Lefler](Mark_Lefler "Mark Lefler") as new member of the Komodo team <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Don Dailey died November 22, 2013, in [Roanoke, Virginia](https://en.wikipedia.org/wiki/Roanoke,_Virginia) at age 57, just about the same time that Komodo pulled ahead of [Stockfish](Stockfish "Stockfish") by winning game 2 in the [TCEC final](TCEC_Season_5#Superfinal "TCEC Season 5") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
-## Contents
-
-- [1 Rex](#rex)
-- [2 Heuristic Software](#heuristic-software)
-- [3 MIT Connection](#mit-connection)
-- [4 Corel and Mini](#corel-and-mini)
-- [5 Doch and Komodo](#doch-and-komodo)
-- [6 Images & Games](#images-.26-games)
-  - [6.1 WCCC 1986](#wccc-1986)
-  - [6.2 WCCC 1999](#wccc-1999)
-- [7 Don's Programs](#don.27s-programs)
-  - [7.1 Arimaa](#arimaa)
-  - [7.2 Chess](#chess)
-  - [7.3 Go](#go)
-  - [7.4 Khet](#khet)
-- [8 Selected Publications](#selected-publications)
-- [9 Forum Posts](#forum-posts)
-  - [9.1 1998 ...](#1998-...)
-  - [9.2 2008 ...](#2008-...)
-  - [9.3 2010 ...](#2010-...)
-  - [9.4 2012 ...](#2012-...)
-- [10 External Links](#external-links)
-  - [10.1 Don Dailey](#don-dailey)
-  - [10.2 Interviews](#interviews)
-  - [10.3 Don's Avatars](#don.27s-avatars)
-- [11 References](#references)
-
 ## Rex
 
 Don Dailey's first chess program in the 80s, first in collaboration with [Sam Sloan](Sam_Sloan "Sam Sloan") and later with [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [Rex](Rex "Rex"), competed at various [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"). Rex was further improved and marketed as [RexChess](RexChess "RexChess") <a id="cite-note-8" href="#cite-ref-8">[8]</a> .

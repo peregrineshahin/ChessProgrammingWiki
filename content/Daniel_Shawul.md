@@ -10,17 +10,6 @@ an Ethiopian computer scientist and [civil engineer](https://en.wikipedia.org/wi
 
 As computer chess and games programmer, Daniel is author of the chess engines [DanChess](DanChess "DanChess"), [Scorpio](Scorpio "Scorpio") with [its own](Scorpio_Bitbases "Scorpio Bitbases") open source [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") (EGBBs) format, and the [general game playing](General_Game_Playing "General Game Playing") engine [Nebiyu](Nebiyu "Nebiyu") based on Scorpio, able to play [Chess variants](Chess#Variants "Chess"), [Checkers](Checkers "Checkers"), [Reversi](Othello "Othello"), [Go](Go "Go") and [Amazons](Amazons "Amazons") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2005 ...](#2005-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-  - [2.4 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Daniel Abdi, Simon Levine, [Girma T. Bitsuamlak](http://www.eng.uwo.ca/civil/faculty/bitsuamlak_g/index.html) (**2009**). *Application of an Artificial Neural Network Model for Boundary Layer Wind Tunnel Profile Development*. 11th Americas conference on wind Engineering, [pdf](http://www.iawe.org/Proceedings/11ACWE/11ACWE-Abdi.pdf)

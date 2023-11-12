@@ -8,14 +8,6 @@ title: Hawren Fang
 
 a Taiwanese mathematician, computer scientist, software engineer and former research associate at [University of Minnesota](University_of_Minnesota "University of Minnesota"). He holds a B.Sc. in mathematics (1995) and M.Sc. (1997) in computer science and information engineering from [National Taiwan University](National_Taiwan_University "National Taiwan University"), and a M.Sc. (2003) and Ph.D. (2006) in mathematics from [University of Maryland, College Park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park). His research interests include [numerical linear algebra](https://en.wikipedia.org/wiki/Numerical_linear_algebra) and [analysis](https://en.wikipedia.org/wiki/Numerical_analysis), [numerical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [machine learning](Learning "Learning") and [data mining](https://en.wikipedia.org/wiki/Data_mining), and [computer games](Games "Games").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

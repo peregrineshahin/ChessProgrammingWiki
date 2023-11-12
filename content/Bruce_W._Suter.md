@@ -11,17 +11,6 @@ His research interests include [signal](https://en.wikipedia.org/wiki/Signal_pro
 and [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform). Bruce W. Suter received a M.Sc. degree in [electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) and Ph.D. in computer science from [University of South Florida](https://en.wikipedia.org/wiki/University_of_South_Florida) in 1972 and 1988 respectively, held visiting appointments at [Harvard University](Harvard_University "Harvard University") and the [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"),
 and has also been with [Honeywell, Inc.](https://en.wikipedia.org/wiki/Honeywell), [Litton Industries](https://en.wikipedia.org/wiki/Litton_Industries), and the [University of Alabama at Birmingham](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham"), where he was [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") Ph.D. advisor on [parallel search](Parallel_Search "Parallel Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and further co-authored with Hyatt and [Harry Nelson](Harry_Nelson "Harry Nelson") on that topic <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1974 ...](#1974-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

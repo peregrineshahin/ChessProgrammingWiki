@@ -8,16 +8,6 @@ The **Fédération Internationale des Échecs (FIDE)** or **World Chess Federati
 the [World Youth Chess Championship](https://en.wikipedia.org/wiki/World_Youth_Chess_Championship), the [Chess Olympiad](https://en.wikipedia.org/wiki/Chess_Olympiad), the [World Team Chess Championship](https://en.wikipedia.org/wiki/World_Team_Chess_Championship) and regional championships.
 The FIDE was founded 1924 in [Paris](https://en.wikipedia.org/wiki/Paris) at the [1st unofficial Chess Olympiad](https://en.wikipedia.org/wiki/1st_unofficial_Chess_Olympiad) as a kind of players' union by 15 participants and representatives of their countries.
 
-## Contents
-
-- [1 Founding Members](#founding-members)
-- [2 FIDE Presidents](#fide-presidents)
-- [3 FIDE and ICGA](#fide-and-icga)
-- [4 FIDE CC Events](#fide-cc-events)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Founding Members
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

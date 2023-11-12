@@ -13,13 +13,6 @@ and was lead programmer of [Hydra](Hydra "Hydra") and principle author of the ch
 and **Shark**, in 2008 mentioned on the now defunct Hydra site, and from May 2008 until December 2009 on Wikipedia
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Engines](#engines)
-- [2 Postings](#postings)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Engines
 
 - **Cryptic** runs on modern high speed multi-processor CPU. It is programmed in mixed [C](C "C") and [Assembly](Assembly "Assembly") Language. It is aimed to be the world's top single machine Chess Engine.

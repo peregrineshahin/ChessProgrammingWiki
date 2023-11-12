@@ -8,15 +8,6 @@ title: Daisuke Takahashi
 
 a Japanese mathematician, computer scientist and associate professor at Center for Computational Sciences, [University of Tsukuba](https://en.wikipedia.org/wiki/University_of_Tsukuba). His research interests include [massively parallel](https://en.wikipedia.org/wiki/Massive_parallel_processing) and [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") computing, [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform), and [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") applied to [Shogi](Shogi "Shogi"). He was holding the world record for computing the largest number of digits of [π](https://en.wikipedia.org/wiki/Pi) from April 29, 2009 to December 31, 2009 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1999](#1999)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

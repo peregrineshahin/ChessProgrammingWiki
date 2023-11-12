@@ -8,13 +8,6 @@ title: HansJoachim Kraas
 
 a German computer scientist, county league tournament chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> and former computer chess programmer. Along with [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), Hans-Joachim Kraas is co-author of the chess programs [Bobby](Bobby "Bobby"), Bobby II, and [Doctor?](Doctor%3F "Doctor?") . He holds a Ph.D. from [Technical University of Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) with a thesis on [parallelization](Parallel_Search "Parallel Search") of [SSS\*](SSS*_and_Dual* "SSS* and Dual*") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Kraas is co-author of *Das große Computerschachbuch* (German), describing chess programming topics, and the didactic chess program [Demoschach](index.php?title=Demoschach&action=edit&redlink=1 "Demoschach (page does not exist)") written in [Basic](Basic "Basic").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](File:SchrueferKraasWeinerLang1986.JPG)

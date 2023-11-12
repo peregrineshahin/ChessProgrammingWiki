@@ -9,16 +9,6 @@ title: Caligula PC
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Pedro Castro](Pedro_Castro "Pedro Castro"), initially based on [Tom's Simple Chess Program](TSCP "TSCP") by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") with its [10x12 mailbox](10x12_Board "10x12 Board") board representation.
 Caligula is not a substitute for [DanaSah](DanaSah "DanaSah"), Pedro Castro's first engine, but has a more aggressive [search](Search "Search"), while its [evaluation](Evaluation "Evaluation") seems to be a little worse <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Namesake](#namesake)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [DanaSah](DanaSah "DanaSah")

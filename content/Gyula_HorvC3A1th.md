@@ -12,14 +12,6 @@ After more than a decade of recreation and abstinence from competing in internat
 
 As a surprise for the computer chess scene in November 2013, Gyula Horváth turned out to be the author of the [Deep Fritz 14](Fritz "Fritz") native [ChessBase](ChessBase "ChessBase") engine <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Quotes
 
 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

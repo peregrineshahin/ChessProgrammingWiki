@@ -10,15 +10,6 @@ a chess program by engine author [Michael Ehrig](Michael_Ehrig "Michael Ehrig"),
 Greif played the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in Munich <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [Aegon 1994](Aegon_1994 "Aegon 1994") Man-Machine tournament in [The Hague](https://en.wikipedia.org/wiki/The_Hague), and the [IPCCC 1994](IPCCC_1994 "IPCCC 1994") in [Paderborn](Paderborn_University "Paderborn University"). At the private [Clodra](https://de.wikipedia.org/wiki/Clodra) chess tournament organized by [Rainer Serfling](Rainer_Serfling "Rainer Serfling") in November 1994,
 Greif was recognized as a [clone](Category:Clone "Category:Clone") of [Chrilly Donninger's](Chrilly_Donninger "Chrilly Donninger") program [Nimzo 2](Nimzo "Nimzo") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Nimzo](Nimzo "Nimzo")

@@ -11,20 +11,6 @@ written in [C++](Cpp "Cpp"), first released in December 2018 <a id="cite-note-2"
 Googleplex Starthinker is a [bitboard](Bitboards "Bitboards") engine and generates [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") [Kindergarten](Kindergarten_Bitboards "Kindergarten Bitboards") like,
 by looking up four pre-calculated line attack arrays, 32-Kbyte each, indexed by square and [inner six bit](First_Rank_Attacks#TheOuterSquares "First Rank Attacks") [line occupancy](Occupancy_of_any_Line "Occupancy of any Line") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Etymology
 
 In the scripts for [Fit the Fourth](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_Primary_and_Secondary_Phases#Fit_the_Fourth) of the [The Hitchhiker's Guide to the Galaxy radio series](<https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(radio_series)>),

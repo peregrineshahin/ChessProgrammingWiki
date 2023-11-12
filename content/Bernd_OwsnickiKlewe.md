@@ -11,15 +11,6 @@ He defended his Ph.D. in 1985 on *[Chess Knowledge Representation](Knowledge "Kn
 At the [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4") conference 1984, Bernd Owsnicki and his fellow [Kai von Luck](Kai_von_Luck "Kai von Luck") discussed a method of [plan construction](Planning "Planning") in computer chess with results from its application in a program called [N.N.](N.N. "N.N.").
 They illustrate three categories of possible errors, each with its own cause and each with a different level of solvability <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1980 ...](#1980-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

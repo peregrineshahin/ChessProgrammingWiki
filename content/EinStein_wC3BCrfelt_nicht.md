@@ -8,26 +8,6 @@ title: EinStein wC3BCrfelt nicht
 
 a turn-based two-player board game of [chance](https://en.wikipedia.org/wiki/Game_of_chance) and strategy, designed by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") in 2004. It was the official game of an exhibition about [Albert Einstein](Mathematician#AEinstein "Mathematician") in Germany during the [World Year of Physics 2005](https://en.wikipedia.org/wiki/World_Year_of_Physics_2005) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Ingo introduced his game to computer chess programmers at the [IPCCC 2005](IPCCC_2005 "IPCCC 2005") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), where it was immediately played with enthusiasm between rounds <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, further spread and played during the [ICT 2005](ICT_2005 "ICT 2005") in [Leiden](https://en.wikipedia.org/wiki/Leiden) the same year.
 
-## Contents
-
-- [1 Rules](#rules)
-- [2 Computer Ewn](#computer-ewn)
-- [3 Computer Olympiads](#computer-olympiads)
-- [4 Photos](#photos)
-  - [4.1 ICT 2005](#ict-2005)
-  - [4.2 Tilburg 2011](#tilburg-2011)
-- [5 Publications](#publications)
-  - [5.1 2009](#2009)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2005 ...](#2005-...)
-  - [6.2 2010 ...](#2010-...-2)
-- [7 External Links](#external-links)
-  - [7.1 Tournaments](#tournaments)
-  - [7.2 Online Play](#online-play)
-- [8 References](#references)
-
 ## Rules
 
 Played on a 5x5 board, each player has six cubes or stones numbered one to six, initially placed on the diagonal opposed six corner squares, ordered by their players discretion or randomly <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The object of the game is to either get an own stone to the opponent's corner, or to remove all of the opponent's stones. A move consists of rolling a [six-sided dice](https://en.wikipedia.org/wiki/Dice) to determine a stone to move by its number, and pushing that stone one step forward in one of the three directions [closer](Manhattan-Distance "Manhattan-Distance") to opponent's corner. Own and opponent stones on the target square are (self) captured and removed from the board. If the matching stone is no longer on the board, the player choose a remaining one whose number is either next-highest or next-lowest. The fewer stones, the more "mobile" they are. With only one stone (German: "Ein Stein") left, rolling the dice is no longer necessary. This feature along with Albert Einstein's quote "[God doesn't play with dice](https://en.wikipedia.org/wiki/Albert_Einstein#Modern_quantum_theory)" <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> was eponym of the game <a id="cite-note-9" href="#cite-ref-9">[9]</a>.

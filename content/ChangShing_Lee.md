@@ -8,18 +8,6 @@ title: ChangShing Lee
 
 a Taiwanese computer scientist and professor at [National University of Tainan (NUTN)](https://en.wikipedia.org/wiki/National_University_of_Tainan). His major research interests are in [ontology applications](https://en.wikipedia.org/wiki/Ontology_engineering), [knowledge management](https://en.wikipedia.org/wiki/Knowledge_management), [capability maturity model integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration), [semantic web](https://en.wikipedia.org/wiki/Semantic_Web), and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"). He is also interested in [intelligent agent](https://en.wikipedia.org/wiki/Intelligent_agent), [web services](https://en.wikipedia.org/wiki/Web_service), [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic), [genetic algorithm](Genetic_Programming "Genetic Programming"), and [image processing](https://en.wikipedia.org/wiki/Image_processing). Chang-Shing Lee holds several patents on [ontology engineering](https://en.wikipedia.org/wiki/Ontology_engineering), [document classificaton](https://en.wikipedia.org/wiki/Document_classification), [image filtering](<https://en.wikipedia.org/wiki/Kernel_(image_processing)>) and [health care](https://en.wikipedia.org/wiki/Health_care).
 
-## Contents
-
-- [1 MogoTW](#mogotw)
-- [2 FML-based Prediction](#fml-based-prediction)
-- [3 PFML-based BCI Agent](#pfml-based-bci-agent)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 2007 ...](#2007-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## MogoTW
 
 Chang-Shing Lee is co-programmer of the [Go](Go "Go") playing program *MogoTW* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, a joint project between the [MoGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=515) team and a Taiwanese team <a id="cite-note-4" href="#cite-ref-4">[4]</a>. It shares code with MoGo.

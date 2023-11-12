@@ -5,14 +5,6 @@ title: Center
 
 The **Center** of the [chessboard](Chessboard "Chessboard") are the four inner squares {d4, e4, d5, e5}. Pawn placement and piece control of the center is crucial. The extended center incorporates the next concentric ring around the center, including C- and F-[file](Files "Files") as well as third and sixth [rank](Ranks "Ranks").
 
-## Contents
-
-- [1 Bitboards](#bitboards)
-  - [1.1 Center](#center)
-  - [1.2 Extended Center](#extended-center)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-
 ## Bitboards
 
 ## Center

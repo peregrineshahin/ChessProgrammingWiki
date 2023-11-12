@@ -8,13 +8,6 @@ title: Chess Champion MK II
 
 [Novag's](Novag "Novag") second [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") released in 1979. It had a [6502](6502 "6502") compatible 6504 8-Bit processor running with 1 MHz, 5 KiB [ROM](Memory#ROM "Memory"), and 320 bytes [RAM](Memory#RAM "Memory"). The program was based on [Peter Jennings'](Peter_Jennings "Peter Jennings") [Microchess 1.5](MicroChess "MicroChess").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Champion MK I](Chess_Champion_MK_I "Chess Champion MK I")

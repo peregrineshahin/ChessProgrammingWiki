@@ -8,15 +8,6 @@ title: Colin Jenkins
 a British scientific software developer from the [Mumbles district](https://en.wikipedia.org/wiki/Mumbles_%28district%29) of [Swansea](https://en.wikipedia.org/wiki/Swansea), [Wales](https://en.wikipedia.org/wiki/Wales).
 He holds a [B.Sc.](https://en.wikipedia.org/wiki/Bachelor_of_Science) with [Honours](https://en.wikipedia.org/wiki/Honours_degree) in mathematics and computer science in 1982 from the [University of South Wales](https://en.wikipedia.org/wiki/University_of_South_Wales), and a [M.Sc.](https://en.wikipedia.org/wiki/Master_of_Science) in [cognition](Cognition "Cognition"), computing & [psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)") in 1984 from [University of Warwick](https://en.wikipedia.org/wiki/University_of_Warwick). While professionally working in the fields of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [cognitive science](Cognition "Cognition") and psychology, [massively parallel](https://en.wikipedia.org/wiki/Massively_parallel_%28computing%29) [hardware architectures](Hardware "Hardware"), [robotics](https://en.wikipedia.org/wiki/Robotics), and [signal processing](https://en.wikipedia.org/wiki/Signal_processing), he cares about [public health](https://en.wikipedia.org/wiki/Public_health) and is interested in [infectious disease modelling](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease), and further started chess programming with his [JavaScript](JavaScript "JavaScript") engine [Lozza](Lozza "Lozza") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2014 ...](#2014-...)
-  - [1.2 2015 ...](#2015-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2014 ...

@@ -14,17 +14,6 @@ and [magic bitboards](Magic_Bitboards "Magic Bitboards") <a id="cite-note-5" hre
 Barbarossa applies an [alpha-beta](Alpha-Beta "Alpha-Beta") search <a id="cite-note-6" href="#cite-ref-6">[6]</a> utilizing a [transposition table](Transposition_Table "Transposition Table") indexed by [Zobrist keys](Zobrist_Hashing "Zobrist Hashing"), and uses the [functional programming](https://en.wikipedia.org/wiki/Functional_programming) concept of [monad transformers](https://en.wikipedia.org/wiki/Monad_%28functional_programming%29) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> in [continuation passing style](https://en.wikipedia.org/wiki/Continuation-passing_style) to control the [search](Search "Search").
 Some [evaluation](Evaluation "Evaluation") parameters were [tuned](Automated_Tuning "Automated Tuning") by [Rémi Coulom's](R%C3%A9mi_Coulom "Rémi Coulom") [CLOP](CLOP "CLOP"), and more recently by [MMTO](Minimax_Tree_Optimization "Minimax Tree Optimization") as introduced by [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") and [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") in the domain of [Shogi](Shogi "Shogi") <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>. Discrete [SPSA](SPSA "SPSA") (DSPSA), introduced by [Qi Wang](index.php?title=Qi_Wang&action=edit&redlink=1 "Qi Wang (page does not exist)") <a id="cite-note-11" href="#cite-ref-11">[11]</a> was applied in pawn evaluation tuning <a id="cite-note-12" href="#cite-ref-12">[12]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2012 ...](#2012-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Abulafia](Abulafia "Abulafia")

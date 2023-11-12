@@ -7,15 +7,6 @@ title: Bibob
 
 a [Windows](Windows "Windows") [bitboard](Bitboards "Bitboards") [MDI](https://en.wikipedia.org/wiki/Multiple_document_interface) observer, editor and calculator by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") - so far in [Little-Endian Rank-File Mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations"), since version 2.2 all eight orthogonal mappings. This application is a little overdressed and was intended as play ground for some [MFC](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library) [GUI](GUI "GUI") features such as [toolbars](https://en.wikipedia.org/wiki/Toolbar) with various controls like a [Combo box](https://en.wikipedia.org/wiki/Combo_box). For debugging under Windows, to inspect bitboards, one may [copy](https://en.wikipedia.org/wiki/Cut,_copy,_and_paste) the content of 64-bit variables from a Debugger to the [clipboard](https://en.wikipedia.org/wiki/Clipboard_%28computing%29) to paste it into a Bibob document window. Bibob accepts pasting [decimal](https://en.wikipedia.org/wiki/Decimal) or [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) strings as well as [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation").
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Features](#features)
-  - [2.1 Update 2.2](#update-2.2)
-  - [2.2 Square Mapping Modes](#square-mapping-modes)
-- [3 Executable and Sources](#executable-and-sources)
-- [4 External Links](#external-links)
-
 ## Screenshot
 
 ## [](File:Bibob.JPG) Features

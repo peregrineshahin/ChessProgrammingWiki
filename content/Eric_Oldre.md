@@ -20,15 +20,6 @@ Sinobyl was later ported to [C#](C_sharp "C sharp")
 released in 2014 as [NoraGrace](NoraGrace "NoraGrace"), dedicated to *Nora Grace Oldre* who was taken from Eric and his wife unexpectedly a few days before she was due to be born
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2004](#2004)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2004

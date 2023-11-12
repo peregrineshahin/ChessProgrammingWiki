@@ -8,25 +8,6 @@ title: Gaviota
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compatible chess engine written by [FM](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.28FM.29) [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") in the [C](C "C") programming language. When It was released in 2001, it was the first Argentinian engine available. Gaviota supports its [own endgame tablebases](Gaviota_Tablebases "Gaviota Tablebases"), [book](Opening_Book "Opening Book"), and can use several processors ([SMP](SMP "SMP")). It has the ability to [learn](Book_Learning "Book Learning") by remembering book lines and positions that were not good. Gaviota avoids them in following games. There are versions for [Linux](Linux "Linux"), [Android](Android "Android"), [Windows](Windows "Windows"), and [Mac OS](Mac_OS "Mac OS") (0.86) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The Gaviota team is completed by tester [Adam Hair](Adam_Hair "Adam Hair") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Etymology](#etymology)
-- [3 Tournament Play](#tournament-play)
-- [4 Selected Games](#selected-games)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2000 ...](#2000-...)
-  - [5.2 2005 ...](#2005-...)
-  - [5.3 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc-2)
-- [7 References](#references)
-
 ## Features
 
 based on Gaviota's change log until **v1.0** <a id="cite-note-5" href="#cite-ref-5">[5]</a> and [Forum Posts](Computer_Chess_Forums "Computer Chess Forums")

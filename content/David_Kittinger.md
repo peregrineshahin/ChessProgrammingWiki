@@ -10,15 +10,6 @@ an American electrical engineer and computer chess programmer, active since 1979
 
 In 1995 during the [WCCC 1995](WCCC_1995 "WCCC 1995") in Hong Kong, David told [Bruce Moreland](Bruce_Moreland "Bruce Moreland") about a [move generation scheme](Move_Generation "Move Generation"), which was later called [0x88](0x88 "0x88") <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](File:Kittinger1983.JPG)

@@ -5,37 +5,6 @@ title: Dictionary
 
 This page is intended as a dictionary, glossary or proxy of common chess programming terms. It is intended to facilitate the navigation, especially for the pages that do not have a clearly defined ancestor, and as a cross-reference between the pages containing similar material covered from the different angles. The latter situation might indicate that some kind of merging or re-editing is necessary.
 
-## Contents
-
-- [1 Dictionary](#dictionary)
-  - [1.1 A](#a)
-  - [1.2 B](#b)
-  - [1.3 C](#c)
-  - [1.4 D](#d)
-  - [1.5 E](#e)
-  - [1.6 F](#f)
-  - [1.7 G](#g)
-  - [1.8 H](#h)
-  - [1.9 I](#i)
-  - [1.10 J](#j)
-  - [1.11 K](#k)
-  - [1.12 L](#l)
-  - [1.13 M](#m)
-  - [1.14 N](#n)
-  - [1.15 O](#o)
-  - [1.16 P](#p)
-  - [1.17 Q](#q)
-  - [1.18 R](#r)
-  - [1.19 S](#s)
-  - [1.20 T](#t)
-  - [1.21 U](#u)
-  - [1.22 V](#v)
-  - [1.23 W](#w)
-  - [1.24 X](#x)
-  - [1.25 Y](#y)
-  - [1.26 Z](#z)
-- [2 External Links](#external-links)
-
 ## Dictionary
 
 Please enter the words in an alphabetical order.

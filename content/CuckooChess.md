@@ -8,16 +8,6 @@ title: CuckooChess
 
 an advanced free [open source chess program](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") written in [Java](Java "Java") by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"). CuckooChess provides an own [GUI](GUI "GUI"), and optionally supports the [UCI](UCI "UCI") protocol for the use with external GUIs such as [Arena](Arena "Arena"). An [Android](Android "Android") port is available, where its GUI is also base of Peter Österlund's [Stockfish](Stockfish "Stockfish") port dubbed [DroidFish](DroidFish "DroidFish") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Internals](#internals)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Internals
 
 CuckooChess applies many of the standard methods for computer chess programs, such as [iterative deepening](Iterative_Deepening "Iterative Deepening"), [negascout](NegaScout "NegaScout"), [aspiration windows](Aspiration_Windows "Aspiration Windows"), [quiescence search](Quiescence_Search "Quiescence Search") with [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") pruning and [MVV/LVA](MVV-LVA "MVV-LVA") move ordering, [hash table](Transposition_Table "Transposition Table"), [history heuristic](History_Heuristic "History Heuristic"), [recursive null moves](Null_Move_Pruning "Null Move Pruning"), [futility pruning](Futility_Pruning "Futility Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), [opening book](Opening_Book "Opening Book") and [magic bitboards](Magic_Bitboards "Magic Bitboards"). CuckooChess name was chosen because it's [transposition table](Transposition_Table "Transposition Table") is based on [Cuckoo hashing](https://en.wikipedia.org/wiki/Cuckoo_hashing) <a id="cite-note-3" href="#cite-ref-3">[3]</a> .

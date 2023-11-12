@@ -14,23 +14,6 @@ and Ethereal **12.75 SF-NNUE**, the latter a [NNUE](NNUE "NNUE") implementation 
 However, Andrew Grant voted for another direction, and announced a commercial release of Ethereal **13.00** (NNUE) ,
 the free standard version still available on [Github](https://en.wikipedia.org/wiki/GitHub) [[6]](#cite-note-ethereal13nnue-6).
 
-## Contents
-
-- [1 Ethereal 13 (NNUE)](#ethereal-13-.28nnue.29)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-  - [2.4 Misc](#misc)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2016 ...](#2016-...)
-  - [4.2 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc-2)
-- [6 References](#references)
-
 ## Ethereal 13 (NNUE)
 
 **Ethereal 13 (NNUE)**, the commercial Ethereal version for [AVX2](AVX2 "AVX2") systems was released on June 04, 2021. The program comes with two [NNUEs](NNUE "NNUE") for [evaluation](Evaluation "Evaluation"),

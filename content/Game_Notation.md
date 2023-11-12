@@ -5,19 +5,6 @@ title: Game Notation
 
 **Game Notation** refers to the recording of [moves](Moves "Moves") of the chess game including players or programs names, date, name of event and site - in human competitive chess each side is required to fill and sign a [score sheet](https://en.wikipedia.org/wiki/Scoresheet_%28chess%29#Score_sheet). In official computer chess over the board [tournaments](Tournaments_and_Matches "Tournaments and Matches"), it was required for human operators as well, but was practically relaxed since programs keep their internal [move list](Move_List "Move List") persistent and were able to restart for instance after a power failure <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In Chess [GUIs](GUI "GUI"), the game notation is presented inside a [notation window](GUI#NotationWindow "GUI"), which may allow certain interactions, like scrolling the list, or replaying the game.
 
-## Contents
-
-- [1 Chess Notation](#chess-notation)
-- [2 Sample Score sheet](#sample-score-sheet)
-  - [2.1 Image](#image)
-  - [2.2 PGN](#pgn)
-- [3 Notations](#notations)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Chess Notation
 
 While the move numeration is quite obvious, starting with move number one, there are various [Chess notations](https://en.wikipedia.org/wiki/Chess_notation) with different move [syntax](https://en.wikipedia.org/wiki/Syntax) defined. Most common in printed and electronic chess media, also in chess programs and [databases](Databases "Databases"), is the [Algebraic Chess Notation](Algebraic_Chess_Notation "Algebraic Chess Notation"), especially its short form called [SAN](Algebraic_Chess_Notation#SAN "Algebraic Chess Notation"). [Descriptive chess notation](https://en.wikipedia.org/wiki/Descriptive_chess_notation) was used in English and Spanish-language literature until the late 20th century, but is today somehow obsolete.

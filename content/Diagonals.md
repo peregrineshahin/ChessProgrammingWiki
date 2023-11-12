@@ -6,18 +6,6 @@ title: Diagonals
 [](http://www.cs.berkeley.edu/%7Eug/slide/gallery/kleinbottle/index.shtml) [Nexus](https://en.wikipedia.org/wiki/Nexus) of a [chessboard](Chessboard "Chessboard") [Klein bottle](https://en.wikipedia.org/wiki/Klein_bottle) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 **Diagonals** go from south-west to north-east on a chess board, the main diagonal is a1/h8. There are 15 diagonals, with line-length from 1 to 8. A Diagonal is monochrome, all their [squares](Squares "Squares") are either white or black.
 
-## Contents
-
-- [1 Main Diagonal](#main-diagonal)
-- [2 Square Mapping Notes](#square-mapping-notes)
-- [3 Square Difference](#square-difference)
-- [4 Enumeration](#enumeration)
-- [5 Alternative Enumeration](#alternative-enumeration)
-- [6 Two Squares on a Diagonal](#two-squares-on-a-diagonal)
-- [7 See also](#see-also)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Main Diagonal
 
 |  |  |  |

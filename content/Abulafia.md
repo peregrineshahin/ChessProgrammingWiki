@@ -12,19 +12,6 @@ Abulafia uses [monad transformers](https://en.wikipedia.org/wiki/Monad_%28functi
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 in [continuation passing style](https://en.wikipedia.org/wiki/Continuation-passing_style) to control the [search](Search "Search").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

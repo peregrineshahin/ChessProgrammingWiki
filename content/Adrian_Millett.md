@@ -12,13 +12,6 @@ and along with [Derek Oldbury](Derek_Oldbury "Derek Oldbury") co-author of the C
 Checkermate at the [2nd Computer Olympiad, London 1990](2nd_Computer_Olympiad#Checkers "2nd Computer Olympiad"), both in [8x8 Checkers](Checkers "Checkers") - Dynamo played 10x10 [Draughts](Draughts "Draughts") at the [4th Computer Olympiad, London 1992](4th_Computer_Olympiad#Draughts "4th Computer Olympiad").
 In 1995, Adrian Millett introduced the [Portable Draughts Notation](https://en.wikipedia.org/wiki/Portable_Draughts_Notation) based on the [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") in Chess <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Genius GUI](#genius-gui)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Genius GUI
 
 Adrian Millett is developer of the [Windows](Windows "Windows") [GUI](GUI "GUI") for [Chess Genius 4](Chess_Genius "Chess Genius") <a id="cite-note-6" href="#cite-ref-6">[6]</a>

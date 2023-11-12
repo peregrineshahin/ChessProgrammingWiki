@@ -7,13 +7,6 @@ title: CMU Chess Program
 
 an early chess program developed by [Joseph S. Rubenfeld](Joseph_S._Rubenfeld "Joseph S. Rubenfeld") and [Robert W. Walker](index.php?title=Robert_W._Walker&action=edit&redlink=1 "Robert W. Walker (page does not exist)") for the [CDC G-21](https://en.wikipedia.org/wiki/Bendix_G-20) system <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), which was written in [ALGOL 20](Algol "Algol") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, not supporting [recursion](Recursion "Recursion"). In a letter to [Allen Newell](Allen_Newell "Allen Newell") and [Herbert Simon](Herbert_Simon "Herbert Simon"), after losing from [Mac Hack VI](Mac_Hack "Mac Hack") on a [PDP-10](PDP-10 "PDP-10") on April 20, 1967, [L. Stephen Coles](L._Stephen_Coles "L. Stephen Coles") mentioned a program by Rubenfeld for the G-21, which could make no more than a few moves a day due to [teletype](https://en.wikipedia.org/wiki/Teletype_Model_33) restrictions <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The listing of the CMU Chess Program is available via the CIT G-21 site <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Mac Hack VI](Mac_Hack "Mac Hack")

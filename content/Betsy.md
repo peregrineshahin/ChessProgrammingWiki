@@ -10,16 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Landon Rabern](Lan
 Originally written in [Pascal](Pascal "Pascal") with its own [text interface](CLI "CLI") it was rewritten in C using [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"). Betsy applies [PVS](Principal_Variation_Search "Principal Variation Search") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), and various standard and some aggressive non-standard [extensions](Extensions "Extensions") and [reductions](Reductions "Reductions").
 According to a former [Arena](Arena "Arena") site, Betsy was the first published chess engine able to play [Chess960](Chess960 "Chess960") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and was therefore Arena partner engine.
 
-## Contents
-
-- [1 Neural Networks](#neural-networks)
-- [2 C# Port](#c.23-port)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Neural Networks
 
 Quote by [Landon Rabern](Landon_Rabern "Landon Rabern") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

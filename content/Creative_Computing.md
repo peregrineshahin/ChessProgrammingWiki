@@ -9,20 +9,6 @@ title: Creative Computing
 
 was an American computer magazine, one of the earliest covering the [microcomputer revolution](https://en.wikipedia.org/wiki/Microcomputer_revolution). Published from October 1974 until December 1985, Creative Computing covered the whole spectrum of hobbyist/home/personal computing in a more accessible format than the rather technically oriented [BYTE](Byte_Magazine "Byte Magazine"). The magazine was founded by [David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), who sold it to [Ziff-Davis](https://en.wikipedia.org/wiki/Ziff_Davis) in the early 1980s, but remained as Editor-in-Chief <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The *Best of Creative Computing* with creative cover arts by the [underground cartoonists](https://en.wikipedia.org/wiki/Underground_comix) [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb) <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [Gilbert Shelton](https://en.wikipedia.org/wiki/Gilbert_Shelton) <a id="cite-note-5" href="#cite-ref-5">[5]</a>, edited by David Ahl, was published in three volumes from 1976 to 1980, available from the AtariArchives <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Authors](#selected-authors)
-- [3 Selected Articles](#selected-articles)
-  - [3.1 1977](#1977)
-  - [3.2 1980](#1980)
-  - [3.3 1983](#1983)
-- [4 External Links](#external-links)
-  - [4.1 Creative Computing](#creative-computing)
-  - [4.2 Best of Creative Computing](#best-of-creative-computing)
-  - [4.3 Misc](#misc)
-- [5 References](#references)
-
 ## Computer Chess
 
 Computer Chess in CC was covered by various tournament reports, for instance by [Monty Newborn](Monroe_Newborn "Monroe Newborn") and [Tony Harrington](Tony_Harrington "Tony Harrington"), as well as game programming and [algorithms](Algorithms "Algorithms"), most notably by [David Levy](David_Levy "David Levy") on [Alpha-Beta](Alpha-Beta "Alpha-Beta") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

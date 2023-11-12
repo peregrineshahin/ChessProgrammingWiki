@@ -8,21 +8,6 @@ title: ICE
 
 an [UCI](UCI "UCI") compliant chess engine written in [C++](Cpp "Cpp") by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), in late 2010 and 2011 translated from his [Pascal](Pascal "Pascal") based [mACE](index.php?title=MACE&action=edit&redlink=1 "MACE (page does not exist)") engine, started a year earlier. Subsequent versions steadily improved, and the development of mACE and iCE over the years is documented in Thomas mACE blog <a id="cite-note-2" href="#cite-ref-2">[2]</a>, along with elaborating on all kind of chess programming topics.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Postings](#postings)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Ice](#ice)
-    - [4.2.1 Games](#games)
-    - [4.2.2 Sculptures](#sculptures)
-    - [4.2.3 Sports](#sports)
-    - [4.2.4 Ice Chess](#ice-chess)
-    - [4.2.5 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 iCE uses [magic bitboards](Magic_Bitboards "Magic Bitboards") and a [fail-hard](Fail-Hard "Fail-Hard") [PVS](Principal_Variation_Search "Principal Variation Search") framework. Beside code cleanup, [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) and tuning, iCE **2.0** from September 2014 features [history heuristic](History_Heuristic "History Heuristic"), [late move](Late_Move_Reductions "Late Move Reductions") [pruning](Pruning "Pruning"), [razoring](Razoring "Razoring") and [counter move heuristic](Countermove_Heuristic "Countermove Heuristic"). Further, compared to iCE **1.0** [LMR](Late_Move_Reductions "Late Move Reductions") became less aggressive, [lazy evaluation](Lazy_Evaluation "Lazy Evaluation") was removed <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and LMR added at the [root](Root "Root"). The former pure [pawn hash table](Pawn_Hash_Table "Pawn Hash Table") now incorporates king positions to hash additional terms <a id="cite-note-4" href="#cite-ref-4">[4]</a>. iCE's [evaluation](Evaluation "Evaluation") is the result of an extensive [automated tuning](Automated_Tuning "Automated Tuning") process using the [PBIL](Genetic_Programming#PBIL "Genetic Programming") <a id="cite-note-5" href="#cite-ref-5">[5]</a> type of [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

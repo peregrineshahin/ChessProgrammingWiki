@@ -9,18 +9,6 @@ title: Crabby
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Alex Johnson](index.php?title=Alex_Johnson&action=edit&redlink=1 "Alex Johnson (page does not exist)"), written in [Rust](Rust "Rust"), and released on [GitHub](https://en.wikipedia.org/wiki/GitHub) under the [GPL license](Free_Software_Foundation#GPL "Free Software Foundation").
 Crabby gets its name from the Rust mascot, Ferris the Crab <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

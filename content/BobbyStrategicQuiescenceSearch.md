@@ -10,22 +10,6 @@ a chess program by [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas")
 
 The development of Bobby started in 1982 as part of Kraas' and Schrüfer's MSc thesis. It was written entirely in [Pascal](Pascal "Pascal") on the [IBM 4341-2](IBM_370 "IBM 370") <a id="cite-note-4" href="#cite-ref-4">[4]</a> of the [TU Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig). In 1987 Bobby II was a complete redesign in [C](C "C") on a [Atari ST](Atari_ST "Atari ST") microcomputer. A commercial successor of Bobby II is the program [Doctor?](Doctor%3F "Doctor?"), market by [ChessBase](ChessBase "ChessBase") as 16-bit engine in 1995 as analysis engine for [ChessBase/Windows 1.0](</ChessBase_(Database)> "ChessBase (Database)"), and in 1998 as 32-bit add-on engine of the [Fritz 5.32](Fritz "Fritz") package <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. According to *Das große Computerschachbuch*. <a id="cite-note-7" href="#cite-ref-7">[7]</a> , Bobby had a sophisticated [evaluation](Evaluation "Evaluation"), with respect to [king safety](King_Safety "King Safety") and [passed pawns](Passed_Pawn "Passed Pawn"). Bobby's search was a STC-Search (solution tree cost oriented search) <a id="cite-note-8" href="#cite-ref-8">[8]</a> , as elaborated in Schrüfer's 1988 PhD thesis <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 Mephisto](#mephisto)
-  - [1.2 Sun Phoenix](#sun-phoenix)
-- [2 Strategic Quiescence Search](#strategic-quiescence-search)
-  - [2.1 Pseudo Code](#pseudo-code)
-  - [2.2 Eval+](#eval.2b)
-  - [2.3 History Update](#history-update)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Photos & Games
 
 ## Mephisto

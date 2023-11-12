@@ -8,16 +8,6 @@ title: CCCP US
 
 the Columbia Computer Chess Program developed by a group of students at [Columbia University](Columbia_University "Columbia University"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), and [Ben Yalow](Ben_Yalow "Ben Yalow"), written in [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)"). CCCP played the [ACM 1971](ACM_1971 "ACM 1971"), where it ran on [IBM 360/91](IBM_360 "IBM 360") at Columbia University. The project already started during the [ACM 1970](ACM_1970 "ACM 1970") in collaboration with [Hans Berliner](Hans_Berliner "Hans Berliner") from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), when [J. Biit](J._Biit "J. Biit") was operated through a chess [GUI](GUI "GUI") written at Columbia for the [IBM 2250 Display Unit](https://en.wikipedia.org/wiki/IBM_2250). The four students continued to develop J. Biit, replacing the back end with a much better set of algorithms, evolving into CCCP (a pun on the [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic) abbreviation for the official name of the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union), Сою́з Сове́тских Социалисти́ческих Респу́блик) after one year of effort <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Team Effort](#team-effort)
-- [2 Selected Games](#selected-games)
-- [3 The Computer Was a Fish](#the-computer-was-a-fish)
-- [4 Namesake](#namesake)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Team Effort
 
 [Andrew Koenig](Andrew_Koenig "Andrew Koenig") on the individual roles of the programming team <a id="cite-note-3" href="#cite-ref-3">[3]</a>

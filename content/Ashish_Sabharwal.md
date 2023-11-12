@@ -8,14 +8,6 @@ title: Ashish Sabharwal
 
 an [Indian American](https://en.wikipedia.org/wiki/Indian_Americans) mathematician, computer scientist, and senior research scientist at the [Allen Institute for Artificial Intelligence](https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence) (AI2) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, exploring new avenues in [probabilistic inference](https://en.wikipedia.org/wiki/Statistical_relational_learning), combinatorial reasoning, and [discrete optimization](https://en.wikipedia.org/wiki/Discrete_optimization). Before, he spent at [Thomas J. Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center) and [Cornell University](https://en.wikipedia.org/wiki/Cornell_University). He defended his Ph.D. in 2005 from [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington), [Seattle](https://en.wikipedia.org/wiki/Seattle) on algorithmic applications of [propositional proof](https://en.wikipedia.org/wiki/Propositional_proof_system) [complexity](https://en.wikipedia.org/wiki/Proof_complexity), [SAT solvers](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), after graduating from the [Indian Institute of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology), [Kanpur](https://en.wikipedia.org/wiki/Kanpur). Along with [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan") and [Bart Selman](Bart_Selman "Bart Selman"), Ashish Sabharwal researched on properties of adversarial search spaces that play a key role in the success or failure of [UCT](UCT "UCT") and similar sampling-based approaches <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

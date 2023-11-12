@@ -8,20 +8,6 @@ title: ChessPartner
 
 a fully developed, commercial [Windows](Windows "Windows") chess [GUI](GUI "GUI") market by [Lokasoft](Lokasoft "Lokasoft"), incorporating its native chess engine [LChess](LChess "LChess") and supporting any [WinBoard](WinBoard "WinBoard") or [UCI](UCI "UCI") compatible chess engine via its internal adapter. ChessPartner evolved from the LChess GUI by [Lex Loep](Lex_Loep "Lex Loep") and [Ger Neef](index.php?title=Ger_Neef&action=edit&redlink=1 "Ger Neef (page does not exist)"), ported to Windows 3.0 in 1991 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Online Client](#online-client)
-- [2 Databases](#databases)
-- [3 GUI](#gui)
-- [4 Screenshots](#screenshots)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 1998 ...](#1998-...)
-  - [6.2 2000 ...](#2000-...)
-  - [6.3 2010 ...](#2010-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Online Client
 
 ChessPartner features as client for online play with various [Chess Server](Chess_Server "Chess Server") to challenge and play against other human players or engines.

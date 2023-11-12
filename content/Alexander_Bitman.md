@@ -10,16 +10,6 @@ was a Russian programmer, chess master <a id="cite-note-2" href="#cite-ref-2">[2
 
 On September 9, 2013, Alexander Rafailovich Bitman was killed by a hit-and-run car accident at the Institute of Systems Analysis, [Bersenevskaya waterfront](http://commons.wikimedia.org/wiki/Category:Bersenevskaya_Embankment) in Moscow <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Quotes](#quotes)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 [](ITEP_Chess_Program#Video "ITEP Chess Program#Video")

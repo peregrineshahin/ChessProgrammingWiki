@@ -8,14 +8,6 @@ title: Bruce Moreland
 
 an American computer scientist, former [Microsoft](Microsoft "Microsoft") employee and computer chess programmer, author of [Ferret](Ferret "Ferret"), one of the strongest chess engines at its time <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Bruce published the [open source chess program](Category:Open_Source "Category:Open Source") [Gerbil](Gerbil "Gerbil") for educational purpose, and maintained a great computer chess programming site. The Gerbil site <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [programming topics](#topics) are archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Publications](#publications)
-- [3 Forum Post](#forum-post)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos & Games
 
 [](File:MorschCongratsMoreland.jpg)

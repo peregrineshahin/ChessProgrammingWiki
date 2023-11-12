@@ -8,17 +8,6 @@ title: Bao
 
 a traditional [mancala board game](https://en.wikipedia.org/wiki/Mancala) played in most of [East Africa](https://en.wikipedia.org/wiki/East_Africa), most popular among the [Swahili people](https://en.wikipedia.org/wiki/Swahili_people) of [Tanzania](https://en.wikipedia.org/wiki/Tanzania), especially [Zanzibar](https://en.wikipedia.org/wiki/Zanzibar) and [Kenya](https://en.wikipedia.org/wiki/Kenya). Bao is the [swahili](https://en.wikipedia.org/wiki/Swahili_language) word for *board* or *board game*. <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Bao is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy game](https://en.wikipedia.org/wiki/Abstract_strategy_game), and considered as one of the most complex mancala games. The Bao board has four rows of eight pits, each player owns two adjacent rows.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1978 ...](#1978-...)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Awari](Awari "Awari")

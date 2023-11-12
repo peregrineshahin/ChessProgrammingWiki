@@ -12,14 +12,6 @@ which allows to use a desktop machine and engines to analyse [chess positions](C
 [tablet](https://en.wikipedia.org/wiki/Tablet_computer) or laptop with an [Internet connection](https://en.wikipedia.org/wiki/Internet_access)
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2012](#2012)
-  - [1.2 2013](#2013)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2012

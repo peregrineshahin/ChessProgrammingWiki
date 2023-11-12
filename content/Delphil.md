@@ -11,16 +11,6 @@ Most changes were done in [evaluation](Evaluation "Evaluation"), further a [tran
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Delphil 3.2, released on September 28, 2014, applies a [parallel search](Parallel_Search "Parallel Search") with up to 32 processors simultaneously, and is able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2005 ...](#2005-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Delphil's Desperado versus Spark](Stalemate#SparkDelphil "Stalemate")

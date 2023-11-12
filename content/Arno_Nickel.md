@@ -11,15 +11,6 @@ and organizer of online [Freestyle](https://en.wikipedia.org/wiki/Advanced_Chess
 Arno Nickel was the Freestyle and [Correspondence Chess](https://en.wikipedia.org/wiki/Correspondence_chess) consultant inside the [Hydra-Team](Hydra "Hydra") <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 and subsequently in 2008, became general manager of [InfinityChess](index.php?title=InfinityChess&action=edit&redlink=1 "InfinityChess (page does not exist)") located in [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi) <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2014](#2014)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Arno Nickel (**2012**). *[Die schöne neue Welt der Schachengines](http://www.edition-marco-shop.de/Schachgeschehen/Computerschach/Die-schoene-neue-Welt-der-Schachengines)*. [SCHACH](http://www.zeitschriftschach.de/) 2, 3, 5, 6, 2012 (German) <a id="cite-note-5" href="#cite-ref-5">[5]</a>

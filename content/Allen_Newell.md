@@ -8,21 +8,6 @@ title: Allen Newell
 
 was a American researcher in computer science and pioneer in the field of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and chess software <a id="cite-note-2" href="#cite-ref-2">[2]</a> at the [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Pittsburgh, Pennsylvania. In [1958](Timeline#1958 "Timeline"), Allen Newell, [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), and [Herbert Simon](Herbert_Simon "Herbert Simon") developed the chess program [NSS](NSS "NSS") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. It was written in a high-level language. Allen Newell and Herbert Simon were co-inventors of the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), which was independently approximated or invented by [John McCarthy](John_McCarthy "John McCarthy"), [Arthur Samuel](Arthur_Samuel "Arthur Samuel") and [Alexander Brudno](Alexander_Brudno "Alexander Brudno") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Allen Newell and Herbert Simon received the [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) in 1975. Two of Allen Newell's students, [Hans Berliner](Hans_Berliner "Hans Berliner") and [James Gillogly](James_Gillogly "James Gillogly") became computer chess researchers and authors of famous chess computers.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Quotes](#quotes)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1955 ...](#1955-...)
-  - [4.2 1960 ...](#1960-...)
-  - [4.3 1970 ...](#1970-...)
-  - [4.4 1980 ...](#1980-...)
-  - [4.5 1990 ...](#1990-...)
-  - [4.6 2000 ...](#2000-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1)

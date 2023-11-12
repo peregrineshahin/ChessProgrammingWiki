@@ -8,22 +8,6 @@ title: Glass
 
 an [UCI](UCI "UCI") compliant chess engine, written by the authors of the [CPW-Engine](CPW-Engine "CPW-Engine"), [Pawel Koziol](Pawel_Koziol "Pawel Koziol") and [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), first released in December 2008 <a id="cite-note-2" href="#cite-ref-2">[2]</a> - and not to confused with [Chess for Glass](Chess_for_Glass "Chess for Glass"). Glass comes with 21 documented personalities at varying levels of strength <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and with its own [opening book](Opening_Book "Opening Book") format <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Version Glass 2.0 PERSONALITY, released on February 25, 2012, was announced as the last version of this developement line <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2008 ...](#2008-...)
-  - [3.2 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>

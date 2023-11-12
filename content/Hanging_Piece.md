@@ -5,14 +5,6 @@ title: Hanging Piece
 
 A **hanging piece** is an [attacked](Attacks "Attacks") [piece](Pieces "Pieces") not defended by own man exposed to [capture](Captures "Captures"). While hanging is often used synonymously with being [en prise](En_prise "En prise"), the latter actually requires not necessary undefended, but also defended insufficiently. To avoid confusion with [hanging pawns](Hanging_Pawns "Hanging Pawns"), which refer a [duo](</Duo_Trio_Quart_(Bitboards)> "Duo Trio Quart (Bitboards)") of [open](</Open_Pawns_(Bitboards)> "Open Pawns (Bitboards)") and [half-isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") pawns, undefended or loose pawns are therefor not called hanging. [Loose pieces](Loose_Piece "Loose Piece") and undefended pawns, even if actually not attacked and [en prise](En_prise "En prise"), may be considered in [evaluation](Evaluation "Evaluation"), specially if there are more than one or even two per side, and the opponent has forces and possibilities for [double attacks](Double_Attack "Double Attack") and [knight forks](Knight_Pattern#KnightForks "Knight Pattern"). [Game phase](Game_Phases "Game Phases"), an exposed [king](King "King") and the presence of the opponent queen can be considered as well in that evaluation term.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-
 ## See also
 
 - [En prise](En_prise "En prise")

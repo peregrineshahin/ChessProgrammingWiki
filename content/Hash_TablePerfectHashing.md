@@ -8,30 +8,6 @@ A **Hash Table**, or a Hash Map, is a data structure that associates identifiers
 
 In a well-dimensioned hash table, the average cost for each lookup is independent of the number of elements stored in the table. In general programming as well in computer chess, hash tables often serve as [cache](https://en.wikipedia.org/wiki/Cache) for once calculated values, to save relative expensive computations over and over again.
 
-## Contents
-
-- [1 Perfect Hashing](#Perfect_Hashing)
-- [2 Minimal Perfect Hashing](#Minimal_Perfect_Hashing)
-- [3 Search Tables](#Search_Tables)
-- [4 Class Libraries](#Class_Libraries)
-- [5 Publications](#Publications)
-  - [5.1 1968](#1968)
-  - [5.2 1970 ...](#1970_...)
-  - [5.3 1980 ...](#1980_...)
-  - [5.4 1990 ...](#1990_...)
-  - [5.5 2000 ...](#2000_...)
-  - [5.6 2010 ...](#2010_...)
-  - [5.7 2020 ...](#2020_...)
-- [6 Forum Posts](#Forum_Posts)
-  - [6.1 1998 ...](#1998_...)
-  - [6.2 2000 ...](#2000_..._2)
-  - [6.3 2005 ...](#2005_...)
-  - [6.4 2010 ...](#2010_..._2)
-  - [6.5 2015 ...](#2015_...)
-  - [6.6 2020 ...](#2020_..._2)
-- [7 External Links](#External_Links)
-- [8 References](#References)
-
 ## Perfect Hashing
 
 \[ A perfect hash function [[2]](#cite_note-2)

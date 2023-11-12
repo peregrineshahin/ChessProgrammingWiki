@@ -9,15 +9,6 @@ title: Hagen Huwig
 a German mathematician and computer scientist with research interests in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory).
 While Ph.D. student at [University of Dortmund](University_of_Dortmund "University of Dortmund") during the mid 70s, he led a project team to develop the chess program [Proscha](Proscha "Proscha") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, written in [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") for the [IBM 370](IBM_370 "IBM 370"). Proscha played the [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1975 ...](#1975-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

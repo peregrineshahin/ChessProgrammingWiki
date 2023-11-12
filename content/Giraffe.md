@@ -8,20 +8,6 @@ title: Giraffe
 
 an experimental [open source chess engine](Category:Open_Source "Category:Open Source") by [Matthew Lai](Matthew_Lai "Matthew Lai") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), compliant to the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"), written in [C++11](Cpp "Cpp") and based on [deep learning](Deep_Learning "Deep Learning"), which is topic of Matthew's master's thesis in August 2015 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Giraffe uses the [Eigen linear algebra library](https://en.wikipedia.org/wiki/Eigen_%28C%2B%2B_library%29) <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and [Pradyumna Kannan's](Pradu_Kannan "Pradu Kannan") [magic move generator](Magic_Bitboards "Magic Bitboards") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. As employee of [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), Matthew Lai announced the discontinuation of the Giraffe project in January 2016 <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2015](#2015)
-  - [4.2 2016](#2016)
-  - [4.3 2017...](#2017...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Giraffe's [evaluation function](Evaluation_Function "Evaluation Function") is a [deep neural network](Neural_Networks#Deep "Neural Networks") trained by [TDLeaf](Temporal_Difference_Learning#TDLeaf "Temporal Difference Learning") <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Its feature representation includes a map of [static exchange evaluations](Static_Exchange_Evaluation "Static Exchange Evaluation") for all squares and sides <a id="cite-note-9" href="#cite-ref-9">[9]</a> , a structure already proposed by [Russell M. Church](index.php?title=Russell_M._Church&action=edit&redlink=1 "Russell M. Church (page does not exist)") and [Kenneth W. Church](Kenneth_W._Church "Kenneth W. Church") in *Plans, Goals, and Search Strategies for the Selection of a Move in Chess* <a id="cite-note-10" href="#cite-ref-10">[10]</a> . Probability-based evaluation [scores](Score "Score") are not in [centipawns](Centipawns "Centipawns") nor linear to [material](Material "Material") , and span a +-10,000 range, with [mate scores](Checkmate#MateScore "Checkmate") of +- 30,000. The [search](Search "Search") recently changed from traditional depth-based [iterative deepening](Iterative_Deepening "Iterative Deepening") to assigning number of nodes (or time) to child nodes <a id="cite-note-11" href="#cite-ref-11">[11]</a> . Node budget allocation will also become [neural network](Neural_Networks "Neural Networks") based.

@@ -8,16 +8,6 @@ title: Albert Bertilsson
 
 a Swedish computer scientist, programmer and consultant/architect on the [Microsoft](Microsoft "Microsoft") [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework). Albert is author of the chess engines [#Chess](Sharp_Chess "Sharp Chess"), written entierly in [C#](C_sharp "C sharp"), and [Sharper](Sharper "Sharper") written in [C++](Cpp "Cpp"). In December 2003, Albert started a distributed project <a id="cite-note-2" href="#cite-ref-2">[2]</a> to calculate [perft(11)](Perft_Results "Perft Results") of the [initial position](Initial_Position "Initial Position"), taking over a week to calculate <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2003](#2003)
-    - [1.1.1 February ...](#february-...)
-    - [1.1.2 April ...](#april-...)
-  - [1.2 2004](#2004)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2003

@@ -5,17 +5,6 @@ title: Bitboard BoardDefinition
 
 To represent the board we typically need one bitboard for each [piece-type](Pieces#PieceTypeCoding "Pieces") and [color](Color "Color") - likely encapsulated inside a class or structure, or as an [array](Array "Array") of bitboards as part of a [position](Chess_Position "Chess Position") object. A one-bit inside a bitboard implies the existence of a piece of this piece-type on a certain [square](Squares "Squares") - one to one associated by the bit-position <a id="cite-note-1" href="#cite-ref-1">[1]</a>:
 
-## Contents
-
-- [1 Classical Board](#classical-board)
-  - [1.1 Structure](#structure)
-  - [1.2 Array](#array)
-- [2 Denser Board](#denser-board)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Classical Board
 
 Those bitboards may part of a central position object which is [incrementally updated](Incremental_Updates "Incremental Updates") while [making](Make_Move "Make Move") or [unmaking](Unmake_Move "Unmake Move") [moves](Moves "Moves").

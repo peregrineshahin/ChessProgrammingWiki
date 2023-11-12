@@ -7,13 +7,6 @@ title: Alexander Zhivotovsky
 
 is a Russian computer scientist. In [1963](Timeline#1963 "Timeline") <a id="cite-note-1" href="#cite-ref-1">[1]</a> at [Alexander Kronrod’s](Alexander_Kronrod "Alexander Kronrod") laboratory at the Moscow [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") (**ITEP**), Alexander Zhivotovsky co-developed the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"), together with [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") and [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov"), advised by Russian chess master [Alexander Bitman](Alexander_Bitman "Alexander Bitman") and three-time world champion [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"). At the end of 1966 a [four game match](Stanford-ITEP_Match "Stanford-ITEP Match") began between the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program"), running on a [IBM 7090](IBM_7090 "IBM 7090") computer, and the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") on a Soviet [M-20](M-20 "M-20") computer. The match played over nine months was won 3-1 by the The **ITEP** program, despite playing on slower hardware.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 References](#references)
-
 ## Photos
 
 [](ITEP_Chess_Program#Video "ITEP Chess Program#Video")

@@ -9,13 +9,6 @@ title: Bionic
 a chess program written in [Basic](Basic "Basic") by [Hans Secelle](Hans_Secelle "Hans Secelle") during the early 90s. Bionic participated at four [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), [1994](DOCCC_1994 "DOCCC 1994"), [1995](DOCCC_1995 "DOCCC 1995"), [1996](DOCCC_1996 "DOCCC 1996") and [1997](DOCCC_1997 "DOCCC 1997"), and three [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"), [1995](Aegon_1995 "Aegon 1995"), [1996](Aegon_1996 "Aegon 1996") and [1997](Aegon_1997 "Aegon 1997").
 While Bionic was a slow searcher, it was an attempt of a knowledgeable program, inspired from ideas of *[Schaken voor Computers](Peter_van_Diepen#SchakenvoorComputers "Peter van Diepen")* by [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), and *[Het Computerschaakboek](Hans-Joachim_Kraas#Computerschachbuch "Hans-Joachim Kraas")* by [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), and Rainer Bartel <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Bionic Impakt](#bionic-impakt)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Bionic Impakt
 
 *See main article [Bionic Impakt](Bionic_Impakt "Bionic Impakt")*

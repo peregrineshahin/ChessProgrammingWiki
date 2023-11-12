@@ -8,15 +8,6 @@ title: Ax
 
 a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Pham Hong Nguyen](Pham_Hong_Nguyen "Pham Hong Nguyen"), written in [C++](Cpp "Cpp"), first released May 24, 2002 <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The first version **0.1** used to allocate the [transposition table](Transposition_Table "Transposition Table") around the half of physical memory size, if that fails one quarter. Subsequent versions feature configurable hash sizes <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [FirstChess](FirstChess "FirstChess")

@@ -7,14 +7,6 @@ title: HungHsuan Lin
 
 a Taiwanese computer scientist at Department of Computer Science and [Information Engineering](https://en.wikipedia.org/wiki/Information_engineering), [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu). His research interests include computer games and [machine learning](Learning "Learning"). He is co-author of the [Chinese Chess](Chinese_Chess "Chinese Chess") program [Chimo](index.php?title=Chimo&action=edit&redlink=1 "Chimo (page does not exist)"), and the [Connect6](Connect6 "Connect6") program [NCTU6-Lite](https://www.game-ai-forum.org/icga-tournaments/program.php?id=585), Gold medal winner of the [13th Computer Olympiad](13th_Computer_Olympiad#Connect6 "13th Computer Olympiad") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

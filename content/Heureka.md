@@ -15,14 +15,6 @@ Borgstädt clarified Goliath and Heureka were different programs, possibly shari
 Heureka, in English the /h/ is dropped for [Eureka](https://en.wikipedia.org/wiki/Eureka_%28word%29), is an interjection used to celebrate a discovery,
 a transliteration of a word attributed to [Archimedes](Mathematician#Archimedes "Mathematician") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 External Links](#external-links)
-  - [2.1 Chess Program](#chess-program)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Selected Games
 
 [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), round 8, Heureka - [Schach 3.0](Schach "Schach") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>

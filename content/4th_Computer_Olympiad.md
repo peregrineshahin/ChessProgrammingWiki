@@ -8,32 +8,6 @@ title: 4th Computer Olympiad
 \[ Park Lane Hotel [[1]](#cite_note-1)
 The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1992 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). [David Levy](David_Levy "David Levy") was the organizer. The event was sponsored by [AST](https://en.wikipedia.org/wiki/AST_Research), [Walter Bannerman](Walter_Bannerman "Walter Bannerman") was supported by [Unicible S.A.](http://fr.wikipedia.org/wiki/Unicible), [Lausanne](https://en.wikipedia.org/wiki/Lausanne) and [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), Lausanne [[2]](#cite_note-2) . A few days later at the same place, [Marion Tinsley](https://en.wikipedia.org/wiki/Marion_Tinsley) won the [Checkers](Checkers "Checkers") Man vs. Machine World Championship by virtue of a 4-2 score (with 33 draws) over [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) [[3]](#cite_note-3) [[4]](#cite_note-4). The [Heuristic Programming in Artificial Intelligence](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") conference was again held during the 4th Computer Olympiad, but proceedings were not published.
 
-## Contents
-
-- [1 Results](#Results)
-  - [1.1 Awari](#Awari)
-  - [1.2 Backgammon](#Backgammon)
-  - [1.3 Bridge](#Bridge)
-  - [1.4 Chess](#Chess)
-    - [1.4.1 Final Standing](#Final_Standing)
-    - [1.4.2 Participants](#Participants)
-    - [1.4.3 Promotion Bug](#Promotion_Bug)
-  - [1.5 Chinese Chess](#Chinese_Chess)
-  - [1.6 Draughts](#Draughts)
-  - [1.7 Gin rummy](#Gin_rummy)
-  - [1.8 Go](#Go)
-    - [1.8.1 19x19](#19x19)
-    - [1.8.2 9x9](#9x9)
-  - [1.9 Gomoku](#Gomoku)
-  - [1.10 Othello](#Othello)
-  - [1.11 Renju](#Renju)
-  - [1.12 Scrabble](#Scrabble)
-- [2 Reports](#Reports)
-- [3 Conference on Computer Games](#Conference_on_Computer_Games)
-- [4 Forum Posts](#Forum_Posts)
-- [5 External Links](#External_Links)
-- [6 References](#References)
-
 ## Results
 
 ## [Awari](Awari "Awari")

@@ -5,33 +5,6 @@ title: Chess Problems Compositions and Studies
 
 A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Composer "Category:Chess Composer"), is presented to (human) solvers with a particular task to be achieved. Chess problems include the sub-genre of [directmates](Checkmate "Checkmate"), [helpmates](https://en.wikipedia.org/wiki/Helpmate) and [selfmates](https://en.wikipedia.org/wiki/Selfmate) in a pre-determined number of moves, and [retrograde analysis problems](Retrograde_Analysis "Retrograde Analysis"). Beside chess problems in classical or orthodox chess, [Fairy chess](https://en.wikipedia.org/wiki/Fairy_chess) offers an own branch of problem solving. Unlike problems, which often present very artificial looking positions, **Studies** or [endgame studies](https://en.wikipedia.org/wiki/Endgame_study) often appear that they could occur in a game, and represent a sort of puzzle, usually not requiring a solution in a fixed number of moves. Dedicated [chess problem and composition software](Category:Problem "Category:Problem") is used as composition tool, and to prove correctness and uniqueness of chess problems. [Chess aesthetics](https://en.wikipedia.org/wiki/Chess_aesthetics) or beauty in chess is generally appreciated by both players and composers, awarded in certain championships also in the world of chess composition.
 
-## Contents
-
-- [1 Studies in CPW](#Studies_in_CPW)
-- [2 Chess Composer](#Chess_Composer)
-- [3 See also](#See_also)
-- [4 Selected Publications](#Selected_Publications)
-  - [4.1 1960 ...](#1960_...)
-  - [4.2 1970 ...](#1970_...)
-  - [4.3 1980 ...](#1980_...)
-  - [4.4 1990 ...](#1990_...)
-  - [4.5 2000 ...](#2000_...)
-  - [4.6 2010 ...](#2010_...)
-  - [4.7 2020 ...](#2020_...)
-- [5 Blog & Forum Posts](#Blog_.26_Forum_Posts)
-  - [5.1 2000 ...](#2000_..._2)
-  - [5.2 2010 ...](#2010_..._2)
-  - [5.3 2015 ...](#2015_...)
-- [6 External Links](#External_Links)
-  - [6.1 Endgame Studies](#Endgame_Studies)
-    - [6.1.1 General](#General)
-    - [6.1.2 Studies](#Studies)
-  - [6.2 Problem Blogs](#Problem_Blogs)
-  - [6.3 Magazines](#Magazines)
-  - [6.4 Software](#Software)
-  - [6.5 Penrose Puzzle](#Penrose_Puzzle)
-- [7 References](#References)
-
 ## Studies in CPW
 
 - [Behting Study](Behting_Study "Behting Study")

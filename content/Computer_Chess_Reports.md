@@ -7,15 +7,6 @@ title: Computer Chess Reports
 
 an American computer chess periodical published quarterly from 1985 until 1996 by *Computer Chess Digest Incorporated* associated with [ICD Corporation](index.php?title=ICD_Corporation&action=edit&redlink=1 "ICD Corporation (page does not exist)"), as successor of the annual **Computer Chess Digest**, released in 1983 and 1984. Computer Chess Digest was primary edited by [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui"), CCR by [Robert Sostack](index.php?title=Robert_Sostack&action=edit&redlink=1 "Robert Sostack (page does not exist)") and from 1987 by [Larry Kaufman](Larry_Kaufman "Larry Kaufman").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Selected Authors](#selected-authors)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Quotes
 
 Quote from [rec.games.chess.computer](Computer_Chess_Forums "Computer Chess Forums") FAQ: <a id="cite-note-1" href="#cite-ref-1">[1]</a>:

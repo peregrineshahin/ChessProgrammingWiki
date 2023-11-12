@@ -5,15 +5,6 @@ title: Chess Query Language
 
 The **Chess Query Language** (CQL) is a structured [query language](https://en.wikipedia.org/wiki/Query_language) to search for games, problems, and studies that match specific themes from a collection in [Portable Game Notation](Portable_Game_Notation "Portable Game Notation"). CQL was developed by [Gady Costeff](Gady_Costeff "Gady Costeff") and [Lewis Stiller](Lewis_Stiller "Lewis Stiller"). It is Copyright (c) 2003-2021 and is free. The current version is **6.1** and the documentation and download of the executable can be found on the website of Gady Costeff <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Sample query](#sample-query)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Sample query
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

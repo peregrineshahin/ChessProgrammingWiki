@@ -10,16 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Beside the [transposition table](Transposition_Table "Transposition Table"), Bestia features a [pawn hash table](Pawn_Hash_Table "Pawn Hash Table"), and is able to [learn](Learning "Learning") from its failures <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 Bestia participated at three [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open"), and won two times operated by [Gábor Szõts](Gabor_Szots "Gabor Szots"), the [MASPV 2001](MASPV_2001 "MASPV 2001") and the [MASPV 2003](MASPV_2003 "MASPV 2003"), both with a 100% score.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Bestia Misc](#bestia-misc)
-  - [3.3 Beast](#beast)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](http://titanic.nyme.hu/~wyx/maspv2003/images.htm)

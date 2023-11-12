@@ -10,15 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Grant Osborne](Gran
 The 32-bit [Windows](Windows "Windows") version 3.3 from 2005 is available from [Ron Murawski's](Ron_Murawski "Ron Murawski") download site <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 AtlanChess 5.52 played [Olivier Deville's](Olivier_Deville "Olivier Deville") [ChessWar](ChessWar "ChessWar") XVII E in 2010/11 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Atlas](Atlas "Atlas")

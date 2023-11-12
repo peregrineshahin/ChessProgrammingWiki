@@ -10,19 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Drofa started as [fork](<https://en.wikipedia.org/wiki/Fork_(software_development)>) of [Shallow Blue](Shallow_Blue "Shallow Blue") and improved considerably in subsequent versions, also incorporating [knowledge](Knowledge "Knowledge") from several open source engines such as [Vice](Vice "Vice"), [Weiss](Weiss "Weiss"), [Ethereal](Ethereal "Ethereal") and [Stockfish](Stockfish "Stockfish"),
 due to [AdaGrad](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#AdaGrad) [tuning](Automated_Tuning "Automated Tuning") as proposed by [Andrew Grant](Andrew_Grant "Andrew Grant"), and using [Koivisto's](Koivisto "Koivisto") [OpenBench](OpenBench "OpenBench") instance <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

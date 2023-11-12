@@ -8,15 +8,6 @@ title: Dark Horse
 
 an early chess program by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman"), written in [Fortran](Fortran "Fortran") to run on a [CDC 6600](CDC_6600 "CDC 6600") [mainframe computer](https://en.wikipedia.org/wiki/Mainframe_computer) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and later on a 36-bit one's complement [UNIVAC 1100](UNIVAC_1100 "UNIVAC 1100") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Dark Horse played the [WCCC 1977](WCCC_1977 "WCCC 1977") in [Toronto](https://en.wikipedia.org/wiki/Toronto), the [WCCC 1980](WCCC_1980 "WCCC 1980") in [Linz](https://en.wikipedia.org/wiki/Linz), and was runner-up at the [ECCC 1979](ECCC_1979 "ECCC 1979") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-  - [3.1 Chess program](#chess-program)
-  - [3.2 Dark Horses elsewhere](#dark-horses-elsewhere)
-- [4 References](#references)
-
 ## See also
 
 - [Black Knight](Black_Knight "Black Knight")

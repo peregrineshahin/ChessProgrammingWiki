@@ -8,15 +8,6 @@ title: AliBaba
 
 an experimental chess engine by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") written for testing various [hashing algorithms](Transposition_Table "Transposition Table") and [replacement schemes](Transposition_Table#ReplacementStrategies "Transposition Table") as subject of his Ph.D. thesis *Memory versus Search in Games* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. With the permission of the author, a modified [open source](Category:Open_Source "Category:Open Source") version was made available by [Dann Corbit](Dann_Corbit "Dann Corbit") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, later adopted to [WinBoard](WinBoard "WinBoard") by [Jim Ablett](Jim_Ablett "Jim Ablett") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. AliBaba uses a [16x12 board](Vector_Attacks#16x12 "Vector Attacks") and applies [PVS](Principal_Variation_Search "Principal Variation Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with [late move reductions](Late_Move_Reductions "Late Move Reductions") within the obligatory [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Disney's Aladdin Chess Adventures](Disney%27s_Aladdin_Chess_Adventures "Disney's Aladdin Chess Adventures")

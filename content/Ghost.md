@@ -10,18 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 The name was taken from the name of [Wolf Larsen's](https://en.wikipedia.org/wiki/The_Sea-Wolf#Wolf_Larsen) seal-hunting schooner in the novel [The Sea-Wolf](https://en.wikipedia.org/wiki/The_Sea-Wolf) by [Jack London](https://en.wikipedia.org/wiki/Jack_London).
 Ghost started its life in about 2000 as subject of a school project, the first version appeared in early 2001, playing online at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and later in rating list tournaments such as [CCRL](CCRL "CCRL") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Subsequent versions were Ghost 1, Ghost 2, and Ghost 3. Executables are available for [Windows](Windows "Windows") and [Linux](Linux "Linux") platforms. Likely, the current Ghost is [bitboard](Bitboards "Bitboards") based, due to the much faster 64-bit executable.
 
-## Contents
-
-- [1 Ghost 1](#ghost-1)
-- [2 Ghost 2](#ghost-2)
-- [3 Ghost 3](#ghost-3)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Ghost 1
 
 Ghost 1 performed [NegaScout](NegaScout "NegaScout"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), [killer heuristic](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning") with [depth reduction](Depth_Reduction_R "Depth Reduction R") of 3, [razoring](Razoring "Razoring") and [futility pruning](Futility_Pruning "Futility Pruning"), and a unique technique to detect [perpetual checks](Check#Perpetual "Check").

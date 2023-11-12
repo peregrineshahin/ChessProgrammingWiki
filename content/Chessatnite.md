@@ -8,18 +8,6 @@ title: Chessatnite
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant [open source](Category:Open_Source "Category:Open Source") chess engine, by [Franziskus Domig](index.php?title=Franziskus_Domig&action=edit&redlink=1 "Franziskus Domig (page does not exist)"), [Panayiotis Lipiridis](index.php?title=Panayiotis_Lipiridis&action=edit&redlink=1 "Panayiotis Lipiridis (page does not exist)"), [Radoslav Petrik](index.php?title=Radoslav_Petrik&action=edit&redlink=1 "Radoslav Petrik (page does not exist)") and [Thai Gia Tuong](index.php?title=Thai_Gia_Tuong&action=edit&redlink=1 "Thai Gia Tuong (page does not exist)"),
 written in [C](C "C")/[C++](Cpp "Cpp"), and released under the [MIT license](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology") <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

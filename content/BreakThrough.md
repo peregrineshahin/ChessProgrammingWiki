@@ -8,14 +8,6 @@ title: BreakThrough
 a chess program by [Werner Koch](Werner_Koch "Werner Koch"), which participated at three [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in Munich running on a [SPARC](SPARC "SPARC") processor, the [WMCCC 1995](WMCCC_1995 "WMCCC 1995") in Paderborn and the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in Jakarta <a id="cite-note-1" href="#cite-ref-1">[1]</a>, as well as various [International Paderborn Computer Chess Championships](IPCCC "IPCCC").
 In its [evaluation](Evaluation "Evaluation"), BreakThrough considers rather complex [tactical motives](Tactics "Tactics"), such as [overloaded pieces](Overloading "Overloading").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 External Links](#external-links)
-  - [2.1 Chess Program](#chess-program)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## See also
 
 - [Breakthrough (Game)](</Breakthrough_(Game)> "Breakthrough (Game)")

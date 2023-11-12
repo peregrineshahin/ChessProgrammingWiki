@@ -8,23 +8,6 @@ title: BigLion
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard") and [UCI](UCI "UCI") compliant chess engine by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), written in [C++](Cpp "Cpp") using [Borland](https://en.wikipedia.org/wiki/Borland) [C++Builder 5.0](https://en.wikipedia.org/wiki/C++Builder), first released in April 2002 as announced by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Since 2.23w in fall 2005, BigLion is able to play [Chess960](Chess960 "Chess960") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Hash Tables](#hash-tables)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2002 ...](#2002-...)
-  - [3.2 2005 ...](#2005-...)
-  - [3.3 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

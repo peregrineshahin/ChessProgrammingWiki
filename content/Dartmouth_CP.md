@@ -8,15 +8,6 @@ title: Dartmouth CP
 
 a chess program developed in the early 70s at [Dartmouth College](Dartmouth_College "Dartmouth College") by a team lead by professor [Larry Harris](Larry_Harris "Larry Harris"). Primary author was [Warren Montgomery](Warren_Montgomery "Warren Montgomery") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, supported by co-authors [Danny Kopec](Danny_Kopec "Danny Kopec"), [Hal Terrie](Hal_Terrie "Hal Terrie"), [David Levner](index.php?title=David_Levner&action=edit&redlink=1 "David Levner (page does not exist)") and others <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Dartmouth CP was written in [GCOS](https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System) [assembly](Assembly "Assembly"), the language for the [GE-635](Honeywell_6000 "Honeywell 6000"), to run under the [Dartmouth Time Sharing System](https://en.wikipedia.org/wiki/Dartmouth_Time_Sharing_System). In his 1973 paper on [Bandwidth Search](index.php?title=Bandwidth_Search&action=edit&redlink=1 "Bandwidth Search (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which was applied successfully to chess and therefor likely to Dartmouth CP, [Larry Harris](Larry_Harris "Larry Harris") acknowledged professor [Steve Garland](index.php?title=Steve_Garland&action=edit&redlink=1 "Steve Garland (page does not exist)") and the undergraduates [Warren Montgomery](Warren_Montgomery "Warren Montgomery"), [Dave Chenerow](index.php?title=Dave_Chenerow&action=edit&redlink=1 "Dave Chenerow (page does not exist)"), [Dexter Kozen](index.php?title=Dexter_Kozen&action=edit&redlink=1 "Dexter Kozen (page does not exist)"), and [Steve Poulsen](index.php?title=Steve_Poulsen&action=edit&redlink=1 "Steve Poulsen (page does not exist)") for their work on that topic <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Challenging Chess](#challenging-chess)
-- [2 Evaluation](#evaluation)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Challenging Chess
 
 Excerpt from [Danny Kopec's](Danny_Kopec "Danny Kopec") *Recent developments in computer chess* <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

@@ -12,12 +12,6 @@ Along with [Russell Newman](Russell_Newman "Russell Newman"), Moreton has develo
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and is co-author of the chess engine [Rival](Rival "Rival") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Rival Chess 1.5.041](https://groups.google.com/d/msg/rec.games.chess.computer/3Xd8OM2Pwec/FTelUbCcPS4J) by Chris Moreton, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 03, 1998

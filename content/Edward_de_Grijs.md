@@ -12,14 +12,6 @@ high performance [digital signal processing](https://en.wikipedia.org/wiki/Digit
 [analytics](https://en.wikipedia.org/wiki/Analytics) and [collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering), [data mining](https://en.wikipedia.org/wiki/Data_mining),
 and [predictive modelling](https://en.wikipedia.org/wiki/Predictive_modelling).
 
-## Contents
-
-- [1 Game Programming](#game-programming)
-- [2 Prize Winning](#prize-winning)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Game Programming
 
 As a chess and [Go](Go "Go") programmer, Edward de Grijs is author of the chess playing entity [Explorer](Explorer "Explorer"), playing the [DOCCC 1991](DOCCC_1991 "DOCCC 1991") and the [DOCCC 1993](DOCCC_1993 "DOCCC 1993"),

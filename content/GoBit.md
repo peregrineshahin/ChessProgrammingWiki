@@ -9,13 +9,6 @@ a didactic [open source chess engine](Category:Open_Source "Category:Open Source
 and introduced in a series of 31 [YouTube](https://en.wikipedia.org/wiki/YouTube) videos in 2018 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 GoBit features state of the art [search](Search "Search") techniques and is based on [bitboards](Bitboards "Bitboards").
 
-## Contents
-
-- [1 External Links](#external-links)
-  - [1.1 GitHub](#github)
-  - [1.2 Video Tutorials](#video-tutorials)
-- [2 References](#references)
-
 ## External Links
 
 ## GitHub

@@ -7,14 +7,6 @@ Since in the [initial position](Initial_Position "Initial Position") [bishops](B
 
 [Larry Kaufman](Larry_Kaufman "Larry Kaufman") proposed the value of half a pawn <a id="cite-note-1" href="#cite-ref-1">[1]</a>. It must be stressed, however, that this number is a part of a broader system, in which knights are stronger with many pawns on the board.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Bishop versus Knight](Bishop_versus_Knight "Bishop versus Knight")

@@ -10,17 +10,6 @@ dedicated to his daughter Clara <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 The development of Clarabit started in summer 2006, and it was first public released in February 2008 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Clarabit executables are provided to run under [Linux](Linux "Linux") and [Windows](Windows "Windows"), 32 as well as 64 bit versions. Clarabit played the [CCT9](CCT9 "CCT9"), [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), [CCT10](CCT10 "CCT10"), and [CCT11](CCT11 "CCT11") tournaments.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Features
 
 Clarabit is [Bitboard](Bitboards "Bitboards") based and applies [Magic bitboards](Magic_Bitboards "Magic Bitboards"),

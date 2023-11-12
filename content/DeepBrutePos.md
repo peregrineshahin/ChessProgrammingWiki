@@ -10,16 +10,6 @@ an experimental chess engine by [Folkert van Heusden](Folkert_van_Heusden "Folke
 Pos was a wild experiment, while DeepBrutePos is a more conventional [brute force](Brute-Force "Brute-Force") [negamax](Negamax "Negamax") with [alpha-beta](Alpha-Beta "Alpha-Beta") program, using [iterative deepening](Iterative_Deepening "Iterative Deepening") with [transposition table](Transposition_Table "Transposition Table") and [quiescence search](Quiescence_Search "Quiescence Search") within a [multithreaded](Parallel_Search "Parallel Search") implementation.
 It "talks" both the [XBoard](XBoard "XBoard") and [UCI](UCI "UCI") protocols.
 
-## Contents
-
-- [1 Puppet Master](#puppet-master)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Puppet Master
 
 Apart from being a regular chess engine, it also includes a "[puppet master](PuppetMaster "PuppetMaster")" mode with which it presents itself as an UCI- or XBoard engine and underneath talks to UCI or XBoard engines running on other systems. For each move it asks them what move to do and then selects the most common suggested one <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

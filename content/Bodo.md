@@ -8,23 +8,6 @@ title: Bodo
 
 a chess engine by [Joel Veness](Joel_Veness "Joel Veness") initially written in [C](C "C") using [XBoard](XBoard "XBoard"), and with a rewrite of version 0.5 in 2005 in [C++](Cpp "Cpp") supporting [UCI](UCI "UCI"). Bodo is a [bitboard](Bitboards "Bitboards") program <a id="cite-note-3" href="#cite-ref-3">[3]</a>, its [search](Search "Search") relies on [PVS](Principal_Variation_Search "Principal Variation Search") based [alpha-beta](Alpha-Beta "Alpha-Beta") with [null move heuristic](Null_Move_Pruning "Null Move Pruning"), [iterative deepening](Iterative_Deepening "Iterative Deepening"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), and exploits its [transposition table](Transposition_Table "Transposition Table") with [enhanced transposition cutoffs](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). The [quiescence search](Quiescence_Search "Quiescence Search") uses [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") for [pruning](Pruning "Pruning"). The [evaluation function](Evaluation_Function "Evaluation Function") has emphasis on attacking the king and keeping the pieces active. Evaluation 'personalities' are configurable without recompile.
 
-## Contents
-
-- [1 Bootstrapping](#bootstrapping)
-- [2 Tournaments](#tournaments)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-    - [7.2.1 Bodo Cranium](#bodo-cranium)
-    - [7.2.2 People, Culture and Language](#people.2c-culture-and-language)
-    - [7.2.3 Genus](#genus)
-    - [7.2.4 Musicvideo](#musicvideo)
-- [8 References](#references)
-
 ## Bootstrapping
 
 A modified version of the tournament chess engine Bodo, [Meep](Meep "Meep"), was used to implement [learning algorithms](Learning "Learning") - the hand-crafted evaluation function of Bodo was removed and replaced by a weighted [linear combination](https://en.wikipedia.org/wiki/Linear_combination) of 1812 features. Given a position s, a [feature vector](https://en.wikipedia.org/wiki/Feature_vector) Φ(s) can be constructed from the 1812 numeric values of each feature. The majority of these features are binary. Φ(s) is typically sparse, with approximately 100 features active in any given position. Five wellknown, chess specific feature construction concepts: [material](Material "Material"), [piece square tables](Piece-Square_Tables "Piece-Square Tables"), [pawn structure](Pawn_Structure "Pawn Structure"), [mobility](Mobility "Mobility") and [king safety](King_Safety "King Safety") were used to generate the 1812 distinct features. These features were a strict subset of the features used in Bodo, which are themselves simplistic compared to a typical tournament engine <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

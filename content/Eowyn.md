@@ -8,15 +8,6 @@ title: Eowyn
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible private chess engine by [Walter Ravenek](Walter_Ravenek "Walter Ravenek") written in [Java](Java "Java") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Eowyn played the [ICT 2008](ICT_2008 "ICT 2008") in Leiden.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 Crashtest Dummy](#crashtest-dummy)
-  - [1.2 Zzzzzz](#zzzzzz)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -9,15 +9,6 @@ a commercial chess program by [Wolfgang Delmare](Wolfgang_Delmare "Wolfgang Delm
 It was a 16-bit [8086](8086 "8086") and later 32-bit [x86](X86 "X86") program running on [PCs](IBM_PC "IBM PC") under [MS-DOS](MS-DOS "MS-DOS") with a pleasant [GUI](GUI "GUI").
 Check Check was the first commercial chess program using own three and four men [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, spending the "huge" amount of 16MB [hard disk](https://en.wikipedia.org/wiki/Hard_disk_drive) space.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Tournament Play](#tournament-play)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Screenshot
 
 [](http://www.septober.de/chess/index.htm)

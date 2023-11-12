@@ -11,15 +11,6 @@ Dimitri applies common [search](Search "Search") techniques such as [alpha-beta]
 along with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [futility pruning](Futility_Pruning "Futility Pruning"), and [LMR](Late_Move_Reductions "Late Move Reductions") - its [evaluation](Evaluation "Evaluation") is aware of threats, [center control](Center_Control "Center Control"), and [king safety](King_Safety "King Safety"), and features a [tapered eval](Tapered_Eval "Tapered Eval") using [piece-square tables](Piece-Square_Tables "Piece-Square Tables").
 First published in 2003 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, one year before Luigino Viscione's second engine [ECE](ECE "ECE") appeared, Dimitri **3** came back after ten years in April 2017 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [ECE](ECE "ECE")

@@ -12,41 +12,6 @@ or its version known as **History Pruning** and **History Reductions** <a id="ci
 
 
 
-## Contents
-
-* [1 Common Conditions](#common-conditions)
-* [2 Less Common Conditions](#less-common-conditions)
-* [3 Reduction Depth](#reduction-depth)
-* [4 Re-searches](#re-searches)
-* [5 Test Results](#test-results)
-* [6 See also](#see-also)
-* [7 Publications](#publications)
-* [8 Forum Posts](#forum-posts)
-	+ [8.1 2004](#2004)
-	+ [8.2 2005 ...](#2005-...)
-	+ [8.3 2010 ...](#2010-...)
-	+ [8.4 2015 ...](#2015-...)
-	+ [8.5 2020 ...](#2020-...)
-* [9 External Links](#external-links)
-* [10 References](#references)
-
-
-
-
-
-
-Most programs do not reduce these types of [moves](Moves "Moves"):
-
-
-
-* [Tactical Moves](Tactical_Moves "Tactical Moves") ([captures](Captures "Captures") and [promotions](Promotions "Promotions"))
-* Moves while in [check](Check "Check")
-* Moves which give check
-* Moves that cause a search [extension](Extensions "Extensions")
-* Anytime in a [PV-Node](Node_Types#PV "Node Types") in a [PVS](Principal_Variation_Search "Principal Variation Search") search
-* [Depth](Depth "Depth") < 3 (sometimes depth < 2)
-
-
 ## Less Common Conditions
 
 

@@ -10,13 +10,6 @@ title: Cchesscli
 a lightweight [command line](CLI "CLI") [tournament manager](Tournament_Manager "Tournament Manager") for [UCI](UCI "UCI") chess engines, primarily developed by Lucas Braesch aka lucasart. Developed on [Linux](Linux "Linux"), c-chess-cli was written in pure [C](C "C"), only using the [C standard library](https://en.wikipedia.org/wiki/C_standard_library) and [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 c-chess-cli is [free software](https://en.wikipedia.org/wiki/Free_software) licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation") and among multiple other things features [sequential probability ratio test](Match_Statistics#SPRT "Match Statistics") in two engine matches, and **sampling** for the purpose to generate data for [supervised](Supervised_Learning "Supervised Learning") [tuning](Automated_Tuning "Automated Tuning") and training <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Automated Tuning](Automated_Tuning "Automated Tuning")

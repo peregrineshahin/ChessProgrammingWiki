@@ -5,31 +5,6 @@ title: Graphics Programming
 
 **Graphics Programming** in computer chess is essentially about drawing [chess positions](Chess_Position "Chess Position") or diagrams within a [user interface](User_Interface "User Interface") to give [users](https://en.wikipedia.org/wiki/User_%28computing%29) a visual [feedback](https://en.wikipedia.org/wiki/Feedback) of the game state, while [interacting](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) with the program.
 
-## Contents
-
-- [1 Visualization](#visualization)
-- [2 Pseudo Graphics](#pseudo-graphics)
-  - [2.1 ASCII Diagrams](#ascii-diagrams)
-  - [2.2 Semigraphics](#semigraphics)
-- [3 High Resolution Graphics](#high-resolution-graphics)
-  - [3.1 DOS Area](#dos-area)
-  - [3.2 Abstraction](#abstraction)
-  - [3.3 Screenshots](#screenshots)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-  - [5.1 1979](#1979)
-  - [5.2 1990 ...](#1990-...)
-  - [5.3 2000 ...](#2000-...)
-  - [5.4 2010 ...](#2010-...)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Algorithms](#algorithms)
-  - [7.2 Coordinates](#coordinates)
-  - [7.3 Geometric primitives](#geometric-primitives)
-  - [7.4 Toolkits, Libraries and APIs](#toolkits.2c-libraries-and-apis)
-  - [7.5 Misc](#misc)
-- [8 References](#references)
-
 ## Visualization
 
 - [2D Graphics Board](2D_Graphics_Board "2D Graphics Board")

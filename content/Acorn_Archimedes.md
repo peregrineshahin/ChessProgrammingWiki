@@ -8,20 +8,6 @@ title: Acorn Archimedes
 
 a family of [personal computers](https://en.wikipedia.org/wiki/Personal_computer) or [workstations](https://en.wikipedia.org/wiki/Workstation) by [Acorn Computers Ltd](index.php?title=Acorn_Computers_Ltd&action=edit&redlink=1 "Acorn Computers Ltd (page does not exist)") launched from July 1987 to the 90s, their first general purpose computer based on their own 32-bit [ARM architecture](https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures) with [ARM2](ARM2 "ARM2") and later ARM3 [CMOS](https://en.wikipedia.org/wiki/CMOS) [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) processors running at 8 MHz. Acorn Archimedes were mounted in two-part cases with a small central unit, and [monitor](https://en.wikipedia.org/wiki/Computer_monitor) on top, and a separate [keyboard](https://en.wikipedia.org/wiki/Computer_keyboard) and three-button [mouse](https://en.wikipedia.org/wiki/Computer_mouse). The [RISC OS](https://en.wikipedia.org/wiki/RISC_OS) operating system employs [cooperative multitasking](https://en.wikipedia.org/wiki/Cooperative_multitasking), featuring a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) and a [WIMP](<https://en.wikipedia.org/wiki/WIMP_(computing)>) [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface). The core OS was stored in [ROM](Memory#ROM "Memory"). While the Archimedes is no longer sold, computers such as the [Raspberry Pi](Raspberry_Pi "Raspberry Pi") can still run its operating system <a id="cite-note-2" href="#cite-ref-2">[2]</a>, RISC OS (at least later versions) as they use ARM chips that are (mostly) compatible <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Models](#models)
-- [2 ARM Development](#arm-development)
-- [3 Chess Programs](#chess-programs)
-- [4 See also](#see-also)
-- [5 Manuals](#manuals)
-- [6 External Links](#external-links)
-  - [6.1 Acorn Archimedes](#acorn-archimedes)
-  - [6.2 Software](#software)
-  - [6.3 Chess Programs](#chess-programs-2)
-  - [6.4 Archimedes](#archimedes)
-- [7 References](#references)
-
 ## Models
 
 |  Model

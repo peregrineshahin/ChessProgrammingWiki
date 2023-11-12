@@ -8,21 +8,6 @@ title: Bob Herschberg
 
 was a Dutch chemist, computer scientist, and from 1978 until his retirement at January 16, 1998, professor of Computer Science at the [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). With [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Bob Herschberg was long time editor of the [ICCA Journal](ICGA_Journal "ICGA Journal") as well as editor of the [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference proceedings.
 
-## Contents
-
-- [1 Biography](#biography)
-- [2 Poems](#poems)
-- [3 Quotes](#quotes)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1966](#1966)
-  - [4.2 1977](#1977)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 1985 ...](#1985-...)
-  - [4.5 1990 ...](#1990-...)
-  - [4.6 1995 ...](#1995-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Biography
 
 Born 1928 in [Rotterdam](https://en.wikipedia.org/wiki/Rotterdam), Israel Samuel Herschberg visited the [Gymnasium Erasmianum](https://en.wikipedia.org/wiki/Gymnasium_Erasmianum) until the [Nuremberg Laws](https://en.wikipedia.org/wiki/Nuremberg_Laws) were applied during the [German Occupation of the Netherlands](https://en.wikipedia.org/wiki/History_of_the_Netherlands_%281939%E2%80%931945%29) in [World War II](https://en.wikipedia.org/wiki/World_War_II). He continued at the *Joodse Lycea* ([Jewish](https://en.wikipedia.org/wiki/Jews) College) in Rotterdam and [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam), until he got arrested in April 1944, and imprisoned in the [Bergen-Belsen](https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp) [Nazi concentration camp](https://en.wikipedia.org/wiki/Nazi_concentration_camp) (via [Westerbork](https://en.wikipedia.org/wiki/Westerbork_%28camp%29)). After his liberation he continued at Gymnasium Erasmianum and got a diplom in 1946 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

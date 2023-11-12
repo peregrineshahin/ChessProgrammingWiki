@@ -7,19 +7,6 @@ title: ChipTest
 
 a chess program running on a [Sun-3](Sun#3 "Sun") [workstation](https://en.wikipedia.org/wiki/Computer_workstation) using a high speed [move generator](Move_Generation "Move Generation") in [hardware](Hardware "Hardware"). It was the predecessor of [Deep Thought](Deep_Thought "Deep Thought"), which later emerged to [Deep Blue](Deep_Blue "Deep Blue"). The project started in 1985 by two students at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") who did the chip design of the move generator <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"). Later in 1986 they were joined by [HiTech](HiTech "HiTech") member [Murray Campbell](Murray_Campbell "Murray Campbell"). ChipTest played two [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1986](ACM_1986 "ACM 1986") and [ACM 1987](ACM_1987 "ACM 1987"), and it won the latter with a perfect score. At ACM 1986, ChipTest searched about 100K [positions per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, in 1987 500K <a id="cite-note-3" href="#cite-ref-3">[3]</a>, already employing [singular extensions](Singular_Extensions "Singular Extensions") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Move Generation](#move-generation)
-- [2 Evaluation](#evaluation)
-- [3 Selected Games](#selected-games)
-  - [3.1 Bebe](#bebe)
-  - [3.2 Cray Blitz](#cray-blitz)
-  - [3.3 Sun Phoenix](#sun-phoenix)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Move Generation
 
 The [move generator](Move_Generation "Move Generation"), a [combinational logic](Combinatorial_Logic "Combinatorial Logic") 8x8 [array](Array "Array") is effectively a silicon chessboard in [VLSI design](VLSI_Design "VLSI Design"). The basic move generation algorithm is the same as in the [Belle](Belle "Belle") [move generator](Belle#Hardware "Belle"), where a disable-stack implements the bookkeeping of victims and per victim, of aggressors. In ChipTest and its successors, the last move searched from the position, which need to be stored for [unmake move](Unmake_Move "Unmake Move") anyway, implies the priority levels of the last victim and the last attacking piece is used for the [sequential logic](Sequential_Logic "Sequential Logic") to compute the disable-mask on the fly, using distinct square priorities to discriminate equal valued victims and aggressors <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

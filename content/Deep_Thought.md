@@ -8,21 +8,6 @@ title: Deep Thought
 
 was a computer chess machine built at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in the 1980's, the predecessor to [Deep Blue](Deep_Blue "Deep Blue"). The project was initially started 1985 as [ChipTest](ChipTest "ChipTest") by the computer science doctoral students [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"). [Murray Campbell](Murray_Campbell "Murray Campbell"), former co-developer of [HiTech](HiTech "HiTech"), joined the ChipTest team a few month later - followed by [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk"), [Mike Browne](Mike_Browne "Mike Browne") and [Peter Jansen](Peter_Jansen "Peter Jansen"). The program was named Deep Thought after the fictional computer of the same name <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Achievements](#achievements)
-- [3 Hardware](#hardware)
-- [4 Software](#software)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1989](#1989)
-  - [7.2 1990 ...](#1990-...)
-  - [7.3 2000 ...](#2000-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/stl-430b9bbd52f71/)

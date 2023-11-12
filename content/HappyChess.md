@@ -12,15 +12,6 @@ published by the German [Happy Computer](https://de.wikipedia.org/wiki/Happy_Com
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Happy-Chess has an own [2D graphics board](2D_Graphics_Board "2D Graphics Board") [graphical user interface](GUI "GUI"). It can only play with the black pieces.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Master Chess](Master_Chess "Master Chess")

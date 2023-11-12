@@ -8,28 +8,6 @@ title: HiTech
 
 a chess entity (special purpose hardware + software) by [Hans Berliner](Hans_Berliner "Hans Berliner") and a crew of assorted experts at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh%2C_Pennsylvania) - [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Andrew James Palay](Andrew_James_Palay "Andrew James Palay") and later [Andy Gruss](index.php?title=Andy_Gruss&action=edit&redlink=1 "Andy Gruss (page does not exist)"), [Larry Slomer](index.php?title=Larry_Slomer&action=edit&redlink=1 "Larry Slomer (page does not exist)") and [Chris McConnell](Chris_McConnell "Chris McConnell"). [Move generation](Move_Generation "Move Generation") and [pattern recognition](Pattern_Recognition "Pattern Recognition") for [evaluation](Evaluation "Evaluation") purposes was done in [hardware](Hardware "Hardware") - With 64 chips in parallel. Search algorithm was either [alpha-beta](Alpha-Beta "Alpha-Beta") as well as [B\*](B* "B*") ([ACM 1993](ACM_1993 "ACM 1993")).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Quotes](#quotes)
-- [3 Achievements](#achievements)
-- [4 Games](#games)
-  - [4.1 Match Hitech-Lautier, 1987](#match-hitech-lautier.2c-1987)
-  - [4.2 Match Hitech-Apicella, 1988](#match-hitech-apicella.2c-1988)
-- [5 Description](#description)
-  - [5.1 1987](#1987)
-  - [5.2 1995](#1995)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1990 ...](#1990-...)
-  - [8.2 2000 ...](#2000-...)
-  - [8.3 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-  - [9.1 Chess Entity](#chess-entity)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07ad4c1)

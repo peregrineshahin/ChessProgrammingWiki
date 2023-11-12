@@ -7,24 +7,6 @@ title: General Game PlayingGDL
 
 an approach of Artificial Intelligence programs to be able to play more than one game successfully. For games like [chess](Chess "Chess"), computers are programmed to play these games using a specially designed algorithm - a chess playing program cannot play [checkers](Checkers "Checkers"). A General Game Playing system, if well designed, would be able to help in other areas, such as in providing intelligence for search and rescue missions [[1]](#cite_note-1). One well known commercial General Game program is [Zillions of Games](Zillions_of_Games "Zillions of Games") by [Jeff Mallett](Jeff_Mallett "Jeff Mallett") and [Mark Lefler](Mark_Lefler "Mark Lefler") [[2]](#cite_note-2) .
 
-## Contents
-
-- [1 GVGP](#GVGP)
-- [2 Selected Publications](#Selected_Publications)
-  - [2.1 1968 ...](#1968_...)
-  - [2.2 1970 ...](#1970_...)
-  - [2.3 1990 ...](#1990_...)
-  - [2.4 2000 ...](#2000_...)
-  - [2.5 2005 ...](#2005_...)
-  - [2.6 2010 ...](#2010_...)
-  - [2.7 2015 ...](#2015_...)
-  - [2.8 2020 ...](#2020_...)
-- [3 External Links](#External_Links)
-  - [3.1 General Game Playing](#General_Game_Playing)
-  - [3.2 GDL](#GDL)
-  - [3.3 Player](#Player)
-- [4 References](#References)
-
 ## GVGP
 
 General video game playing (GVGP) is the concept of GGP adjusted to the purpose of playing [video games](https://en.wikipedia.org/wiki/Video_game) [[3]](#cite_note-3), and to apply [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") to master video and [Atari](Atari_8-bit "Atari 8-bit") games of skill and strategy.

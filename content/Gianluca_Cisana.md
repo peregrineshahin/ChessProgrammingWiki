@@ -10,14 +10,6 @@ an Italian photographer and freelance programmer <a id="cite-note-2" href="#cite
 He is author of the [WinBoard](WinBoard "WinBoard") compliant chess engine [BremboCE](BremboCE "BremboCE"). The chess engine's name is related to the river [Brembo](https://en.wikipedia.org/wiki/Brembo_%28river%29) in the [Province of Bergamo](https://en.wikipedia.org/wiki/Province_of_Bergamo), situated near Gianluca's home <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Gianluca further hosts a chess [tactics](Tactics "Tactics") training site <a id="cite-note-4" href="#cite-ref-4">[4]</a>, providing the *Ideachess* [Android](Android "Android") app <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2002 ...](#2002-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2002 ...

@@ -11,15 +11,6 @@ He has written the [correspondence or email chess](https://en.wikipedia.org/wiki
 a client program for *XfccBasic* <a id="cite-note-3" href="#cite-ref-3">[3]</a> [Web Services](https://en.wikipedia.org/wiki/Web_service),
 the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine [EveAnn](EveAnn "EveAnn"), and in collaboration with [Pradu Kannan](Pradu_Kannan "Pradu Kannan") and [Fonzy Bluemers](Fonzy_Bluemers "Fonzy Bluemers") the [WinBoard](WinBoard "WinBoard") engine [Dirty](Dirty "Dirty"), which is a hybrid between [Buzz](Buzz "Buzz") ([Search](Search "Search")) and EveAnn ([Evaluation](Evaluation "Evaluation")) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2007 ...

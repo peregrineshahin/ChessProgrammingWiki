@@ -7,21 +7,6 @@ title: Extended Position Description
 
 describes a chess position similar to the [Forsyth-Edwards Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") (FEN). Unlike FEN, **EPD** is designed to be expandable by the addition of new operations. **EPD** was developed by [John Stanback](John_Stanback "John Stanback") and [Steven Edwards](Steven_Edwards "Steven Edwards"). Its first implementation is in Stanback's chessplaying program [Zarkov](Zarkov "Zarkov"). Steven Edwards specified the **EPD** standard for computer chess applications as part of the [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 EPD Syntax](#epd-syntax)
-  - [1.1 Piece Placement](#piece-placement)
-  - [1.2 Side to move](#side-to-move)
-  - [1.3 Castling ability](#castling-ability)
-  - [1.4 En passant target square](#en-passant-target-square)
-  - [1.5 Operations](#operations)
-  - [1.6 Opcode mnemonics](#opcode-mnemonics)
-- [2 Examples](#examples)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## EPD Syntax
 
 One EPD string or record consists of one text line of variable length composed of four fields separated by a space character followed by zero or more operations. The four data fields, which describe the position, are common with the [FEN-Specification](Forsyth-Edwards_Notation#FEN_Syntax "Forsyth-Edwards Notation"), while the [halfmove clock](Halfmove_Clock "Halfmove Clock") and [full move counter](Forsyth-Edwards_Notation#Fullmovecounter "Forsyth-Edwards Notation"), obligatory in Forsyth-Edwards Notation are replaced by optional **hmvc** and **fmvn** operations, and 0, 1 are their default values <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

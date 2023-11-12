@@ -8,21 +8,6 @@ title: Embla
 
 an [UCI](UCI "UCI") compliant chess engine by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), first released in August 2015 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Since version 0.8 Embla supports [Syzygy endgame bases](Syzygy_Bases "Syzygy Bases"), since version 2.0.0, Embla features [Lazy SMP](Lazy_SMP "Lazy SMP"). So far, Embla played thd [PT 49](PT_49 "PT 49"), [PT 50](PT_50 "PT 50") and [PT 51](PT_51 "PT 51") over the board. The program is further incorporated inside Folkert's self made chess computer board, dubbed [Embla Board](index.php?title=Embla_Board&action=edit&redlink=1 "Embla Board (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and is tested within a [Raspberry Pi](Raspberry_Pi "Raspberry Pi") cluster. The engine was available as source for [Linux](Linux "Linux"), [Android](Android "Android"), [MacOS X](Mac_OS "Mac OS") and [Windows](Windows "Windows") operating systems.
 
-## Contents
-
-- [1 Embla Cluster](#embla-cluster)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2015](#2015)
-  - [3.2 2016](#2016)
-  - [3.3 2017](#2017)
-  - [3.4 2018](#2018)
-  - [3.5 2020](#2020)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Embla Cluster
 
 [](File:EmblaCluster1.jpg)

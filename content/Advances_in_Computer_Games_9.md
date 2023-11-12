@@ -8,13 +8,6 @@ title: Advances in Computer Games 9
 
 The **9th Advances in Computer Chess** Conference (ACC, changed to Advances in Computer Games ACG) took place at June 16 - 18, [1999](Timeline#1999 "Timeline"), in Paderborn, Germany. All lectures will be given in the [Heinz Nixdorf MuseumsForum](Heinz_Nixdorf_MuseumsForum "Heinz Nixdorf MuseumsForum") (HNF), Fürstenallee 7, 33102 Paderborn. ACC is the conference of the [ICCA](ICCA "ICCA"). 14-15 accepted papers and 5 invited papers will appear in the series *Advances in Computer Chess* by [University of Limburg](Maastricht_University "Maastricht University"), Maastricht. The proceedings will be edited by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Burkhard Monien](Burkhard_Monien "Burkhard Monien"). They are expected to be published in January 2000.
 
-## Contents
-
-- [1 Conference Proceedings](#conference-proceedings)
-- [2 Lectures](#lectures)
-- [3 Publications](#publications)
-- [4 References](#references)
-
 ## Conference Proceedings
 
 - **Advances in Computer Games 9**

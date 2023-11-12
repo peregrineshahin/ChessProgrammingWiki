@@ -8,41 +8,6 @@ title: Flipping Mirroring and RotatingMirrorHorizontally
 
 might be useful to transform bitboards in various ways. Considering the [fourfold symmetry](Chessboard#FourFoldSymmetry "Chessboard") of the [chessboard](Chessboard "Chessboard"), the first paragraph covers the whole bitboard performing [bit-twiddling](Bit-Twiddling "Bit-Twiddling")-techniques. Various multiplications to flip or mirror certain subsets of the bitboard like [files](Files "Files"), [ranks](Ranks "Ranks") and even [diagonals](Diagonals "Diagonals") and [anti-diagonals](Anti-Diagonals "Anti-Diagonals") are mentioned in the second section.
 
-## Contents
-
-- [1 The whole Bitboard](#The_whole_Bitboard)
-  - [1.1 Flip and Mirror](#Flip_and_Mirror)
-    - [1.1.1 Vertical](#Vertical)
-    - [1.1.2 Horizontal](#Horizontal)
-    - [1.1.3 Generalized](#Generalized)
-    - [1.1.4 Diagonal](#Diagonal)
-    - [1.1.5 Anti-Diagonal](#Anti-Diagonal)
-  - [1.2 Rotating](#Rotating)
-    - [1.2.1 By 180 degrees - Bit-Reversal](#By_180_degrees_-_Bit-Reversal)
-    - [1.2.2 By 90 degrees Clockwise](#By_90_degrees_Clockwise)
-    - [1.2.3 By 90 degrees Anti-Clockwise](#By_90_degrees_Anti-Clockwise)
-  - [1.3 Pseudo-Rotation by 45 degrees](#Pseudo-Rotation_by_45_degrees)
-    - [1.3.1 Clockwise](#Clockwise)
-    - [1.3.2 Anti-Clockwise](#Anti-Clockwise)
-- [2 Rank, File and Diagonal](#Rank.2C_File_and_Diagonal)
-  - [2.1 Flip about the Anti-Diagonal](#Flip_about_the_Anti-Diagonal)
-    - [2.1.1 File to a Rank](#File_to_a_Rank)
-    - [2.1.2 Rank to File](#Rank_to_File)
-  - [2.2 Flip about the Diagonal](#Flip_about_the_Diagonal)
-    - [2.2.1 File to a Rank](#File_to_a_Rank_2)
-  - [2.3 Diagonals to Ranks](#Diagonals_to_Ranks)
-  - [2.4 Mirror Horizontally](#Mirror_Horizontally)
-- [3 See also](#See_also)
-- [4 Publications](#Publications)
-- [5 Forum Posts](#Forum_Posts)
-- [6 External Links](#External_Links)
-  - [6.1 Flipping](#Flipping)
-  - [6.2 Mirroring](#Mirroring)
-  - [6.3 Rotation](#Rotation)
-  - [6.4 Reflection](#Reflection)
-  - [6.5 Smoke 'n' Mirrors](#Smoke_.27n.27_Mirrors)
-- [7 References](#References)
-
 ## The whole Bitboard
 
 Following [C](C "C")-routines perform [parallel prefix algorithms](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") to [swap bits](General_Setwise_Operations#SwappingBits "General Setwise Operations") in various ways. They are not intended to use extensively inside a chess program - e.g. to implement [rotated](Rotated_Bitboards "Rotated Bitboards") or [reverse bitboards](Reverse_Bitboards "Reverse Bitboards") on the fly - but may be used for initialization purposes. They may convert sets between the eight different [square mappings](Square_Mapping_Considerations "Square Mapping Considerations"), considering rank-file or file-rank [endianness](Endianness "Endianness"). An exception might be the vertical flipping, which could be done by one fast [x86-64](X86-64 "X86-64") byteswap ([bswap](X86-64#gpinstructions "X86-64")) instruction [[2]](#cite_note-2) . See the bswap-application of [hyperbola quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") to determine vertical or diagonal sliding attacks. Flipping, mirroring and rotating is distributive over the basic bitwise operations such as intersection, union, one's complement and xor, as demonstrated in hyperbola quintessence as well.

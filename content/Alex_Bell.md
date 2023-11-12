@@ -8,16 +8,6 @@ title: Alex Bell
 
 a British computer scientist and early computer chess and [game](Games "Games") programmer from [Manchester University](University_of_Manchester "University of Manchester") and [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"). Bell started chess and games programming in the early 60s, initially working for [Nils Barricelli](Nils_Barricelli "Nils Barricelli") and his chess program for [symbio-organisms](https://en.wikipedia.org/wiki/Evolutionary_algorithm) research. He also wrote his own programs for [Kalah](Kalah "Kalah") and Chess, which was called [Atlas](Atlas "Atlas"). Alex Bell published various papers about those topics, his 1972 book *Games Playing with Computers* is a real quarry and covers a broad range of basic AI-algorithms and games. Fortunately, thanks to the [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) archive, it is available online <a id="cite-note-2" href="#cite-ref-2">[2]</a>, as well as other valuable resources quoted here in the chess programming wiki. In the 70s Atlas evolved to [Master](Master "Master") in collaboration with [Peter Kent](Peter_Kent "Peter Kent"), [John Birmingham](John_Birmingham "John Birmingham") and chess expert [John Waldron](John_Waldron "John Waldron"). Alex Bell was further involved to establish [computer chess conferences](Conferences "Conferences") .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Atlas](#atlas)
-- [3 Master](#master)
-- [4 Computer Chess Conferences](#computer-chess-conferences)
-- [5 Selected Publications](#selected-publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 [](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm)

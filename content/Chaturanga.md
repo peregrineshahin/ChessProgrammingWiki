@@ -8,14 +8,6 @@ title: Chaturanga
 
 a chess program by [John Poduska Jr.](John_Poduska_Jr. "John Poduska Jr.") written in [Pascal](Pascal "Pascal"). In 1981 it searched about 1000 [Nodes per second](Nodes_per_Second "Nodes per Second") on a [68000](68000 "68000") based [Apollo](https://en.wikipedia.org/wiki/Apollo_Computer) [workstation](https://en.wikipedia.org/wiki/Workstation) <a id="cite-note-3" href="#cite-ref-3">[3]</a> . It competed twice at [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), the [ACM 1981](ACM_1981 "ACM 1981") and [ACM 1982](ACM_1982 "ACM 1982").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Etymology](#etymology)
-- [3 Namesake](#namesake)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Quotes
 
 from *Chess and Machine Intuition* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

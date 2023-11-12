@@ -10,15 +10,6 @@ a chess program by [Martin Anders](index.php?title=Martin_Anders&action=edit&red
 developed in 1996 when the authors were graduate students at [Hamburg University of Applied Sciences](https://en.wikipedia.org/wiki/Hamburg_University_of_Applied_Sciences).
 Confucius played the [IPCCC 1997](IPCCC_1997 "IPCCC 1997"), running on a [Sun Ultrasparc](SPARC "SPARC") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Photos](#photos)
-- [3 Selected Game](#selected-game)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Etymology
 
 In 1994, both authors spent half a year in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) as [exchange students](https://en.wikipedia.org/wiki/Student_exchange_program),

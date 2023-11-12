@@ -11,15 +11,6 @@ He holds a Ph.D. in [IT law](https://en.wikipedia.org/wiki/IT_law) in 2014 from 
 As a chess player and chess programmer with interests in [Bughouse](index.php?title=Bughouse&action=edit&redlink=1 "Bughouse (page does not exist)") and [Crazyhouse](Crazyhouse "Crazyhouse"), Georg von Zimmermann is author of the [open source engine](Category:Open_Source "Category:Open Source") [Sunsetter](Sunsetter "Sunsetter"),
 where one version plays normal chess and another one is dedicated to Crazyhouse and Bughouse. He further contributed to the development of [Sjeng](Sjeng "Sjeng") by primary author [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and co-authored and edited a textbook about Bughouse Chess <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1999](#1999)
-  - [2.2 2000 ...](#2000-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Georg von Zimmermann (ed.) (**2006**). *Bughouse Chess*. [Books on Demand GmbH](https://de.wikipedia.org/wiki/Books_on_Demand)

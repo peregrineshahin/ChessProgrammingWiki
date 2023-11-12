@@ -9,24 +9,6 @@ title: IBM PC
 the progenitor of the [PC compatible](https://en.wikipedia.org/wiki/IBM_PC_compatible) hardware platform. The original [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") version was model number **5150** with [Intel](Intel "Intel") [8088](8086 "8086") running at 4.77 MHz and 16 or 64 [Kibibyte](https://en.wikipedia.org/wiki/Kibibyte) of [RAM](Memory#RAM "Memory"), introduced on August 12, [1981](Timeline#1981 "Timeline"). Pricing started at US$1,565 (equivalent to $4,080 in 2015) for a configuration with 16 K RAM, [Color Graphics Adapter](https://en.wikipedia.org/wiki/Color_Graphics_Adapter), and no disk drives. Most 5150s had one or two 5.25-inch [floppy disk](https://en.wikipedia.org/wiki/Floppy_disk) drives, either [single-sided double-density](https://en.wikipedia.org/wiki/Floppy_disk_format#Single_Sided.2C_Double_Density) (SSDD) or [double-sided](https://en.wikipedia.org/wiki/Double-sided_disk) double-density (DSDD) <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 The [XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) with 256 K RAM (expandable up to 640 K) and built-in [hard drive](https://en.wikipedia.org/wiki/Hard_disk_drive) followed in 1983, the [AT](https://en.wikipedia.org/wiki/IBM_Personal_Computer/AT) with [80286](https://en.wikipedia.org/wiki/Intel_80286) processor @ 8 MHz in 1984, and [PS/2](https://en.wikipedia.org/wiki/IBM_Personal_System/2) in 1987, with the follow-on of the [IBM PC series](https://en.wikipedia.org/wiki/IBM_PC_Series) until 2000, along with 32-bit [x86](X86 "X86") compatibles. The term "IBM PC compatible" is not commonly used any more because most current mainstream desktop and laptop computers are based on the PC architecture with [x86-64](X86-64 "X86-64") processor and IBM no longer making PCs <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
-## Contents
-
-- [IBM PC](#ibm-pc)
-  - [Contents](#contents)
-- [Project Chess](#project-chess)
-- [Timeline](#timeline)
-- [Operating Systems](#operating-systems)
-- [See also](#see-also)
-- [Manuals](#manuals)
-- [Forum Posts](#forum-posts)
-- [External Links](#external-links)
-  - [PC](#pc)
-  - [Compatibles](#compatibles)
-  - [DOS](#dos)
-  - [Graphics Adapter](#graphics-adapter)
-  - [Keyboard](#keyboard)
-- [References](#references)
-
 ## Project Chess
 
 In July 1980, [William C. Lowe](http://www-03.ibm.com/ibm/history/exhibits/builders/builders_lowe.html) assembles the members of "Project Chess", known as the "Dirty Dozen", the twelve engineers chosen to design and build a prototype personal computer, in [Boca Raton, Florida](https://en.wikipedia.org/wiki/Boca_Raton,_Florida). [Don Estridge](https://en.wikipedia.org/wiki/Don_Estridge) is project manager, Jack Sams heads the software effort <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

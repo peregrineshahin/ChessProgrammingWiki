@@ -9,18 +9,6 @@ title: Hector
 a chess program by [Maarten Bults](index.php?title=Maarten_Bults&action=edit&redlink=1 "Maarten Bults (page does not exist)"), written in [Turbo Pascal](Pascal#TurboPascal "Pascal") to run on a [PC](IBM_PC "IBM PC") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Hector played five consecutive [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") from [1992](DOCCC_1992 "DOCCC 1992") until [1996](DOCCC_1996 "DOCCC 1996"), and three [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"), [Aegon 1995](Aegon_1995 "Aegon 1995"), [Aegon 1996](Aegon_1996 "Aegon 1996"), and [Aegon 1997](Aegon_1997 "Aegon 1997").
 
-## Contents
-
-- [1 Games](#games)
-  - [1.1 Aegon 1995](#aegon-1995)
-    - [1.1.1 Zsuzsa Polgar](#zsuzsa-polgar)
-    - [1.1.2 David Bronstein](#david-bronstein)
-  - [1.2 DOCCC 1996](#doccc-1996)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Games
 
 ## Aegon 1995

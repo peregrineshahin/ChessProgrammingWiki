@@ -9,14 +9,6 @@ title: Grok
 a private chess engine developed by [Peter Kappler](Peter_Kappler "Peter Kappler"), written in [Java](Java "Java"), development actually inactive <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Primary [board representation](Board_Representation "Board Representation") is [mailbox](Mailbox "Mailbox"). Grok averages around 250k [nps](Nodes_per_Second "Nodes per Second") in the [middlegame](Middlegame "Middlegame") on an [Athlon](https://en.wikipedia.org/wiki/Athlon) 1400 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Etymology
 
 [Grok](https://en.wikipedia.org/wiki/Gro) is a [neologism](https://en.wikipedia.org/wiki/Neologism) coined by American writer [Robert A. Heinlein](Category:Robert_Heinlein "Category:Robert Heinlein") for his 1961 science fiction novel [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land),

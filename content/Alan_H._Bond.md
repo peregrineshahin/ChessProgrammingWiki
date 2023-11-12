@@ -11,17 +11,6 @@ His research interests include distributed [artificial intelligence](Artificial_
 Alan Bond received the B.A. in [physics](https://en.wikipedia.org/wiki/Physics) in 1961 and the M.A. degree in 1966 from [Magdalen College, Oxford](https://en.wikipedia.org/wiki/Magdalen_College,_Oxford) and the Ph.D. in [theoretical physics](https://en.wikipedia.org/wiki/Theoretical_physics) from [Imperial College London](https://en.wikipedia.org/wiki/Imperial_College_London) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Since then he had various research and lecturer positions in the UK and US, beside others at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") and [Queen Mary, University of London](Queen_Mary,_University_of_London "Queen Mary, University of London") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 He was tutor and advisor of [John J. Scott](John_J._Scott "John J. Scott"), an early British computer chess programmer, and was along with [Alex Bell](Alex_Bell "Alex Bell") supporter and promoter of early [Computer Chess Conferences](Conferences "Conferences"), the forerunner of [Advances in Computer Chess](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1968 ...](#1968-...)
-  - [1.2 1970 ...](#1970-...)
-  - [1.3 1980 ...](#1980-...)
-  - [1.4 1990 ...](#1990-...)
-  - [1.5 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

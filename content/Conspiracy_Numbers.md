@@ -6,25 +6,6 @@ title: Conspiracy Numbers
 [](File:ACC5Schaeffer.jpg) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") on *Conspiracy Numbers.* <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Conspiracy Numbers** of the [root](Root "Root") or [interior nodes](Interior_Node "Interior Node") of a [search tree](Search_Tree "Search Tree") for some value **V** are defined as the least number of conspirators, that are [leaves](Leaf_Node "Leaf Node") that must change their evaluation value to **V** in order to change the minimax value of the interior node or root <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Conspiracy Numbers and their possible application for [Minimax](Minimax "Minimax") search within a [best-first search](Best-First "Best-First") algorithm was first described by [David McAllester](David_McAllester "David McAllester") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Sample](#sample)
-  - [1.1 Minimax Tree](#minimax-tree)
-  - [1.2 Conspiracy Numbers](#conspiracy-numbers)
-- [2 Recursive Definition](#recursive-definition)
-- [3 Conspiracy Theory](#conspiracy-theory)
-- [4 Search Algorithms](#search-algorithms)
-- [5 Publications](#publications)
-  - [5.1 1985 ...](#1985-...)
-  - [5.2 1990 ...](#1990-...)
-  - [5.3 1995 ...](#1995-...)
-  - [5.4 2000 ...](#2000-...)
-  - [5.5 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-  - [6.1 Conspiracy Numbers](#conspiracy-numbers-2)
-  - [6.2 Conspiracy](#conspiracy)
-- [7 References](#references)
-
 ## Sample
 
 ## Minimax Tree

@@ -7,13 +7,6 @@ A **Byte**, more precise an **Octet**, is a unit of measurement of information s
 
 The programming languages [C](C "C") and [C++](Cpp "Cpp") define a byte as a "addressable unit of data storage large enough to hold any member of the basic character set of the execution environment".
 
-## Contents
-
-- [1 Char](#char)
-- [2 SWAR Bytes](#swar-bytes)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-
 ## Char
 
 The [C](C "C")-datatype **unsigned char** covers one byte and has a numerical range of 0 to 255. The primitive **char** in [Java](Java "Java") is a signed byte, and ranges from -128 to +127. Same is likely true for signed char in C, though [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) is not strictly specified. Same is true for signed right shifts, where [x86](X86 "X86") performs shift arithmetical right, but other processors and their compilers possibly shift in always zeros. Bytes are therefor often type defined as **unsigned char** in C:

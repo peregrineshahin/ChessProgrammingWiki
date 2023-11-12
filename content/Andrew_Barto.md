@@ -8,16 +8,6 @@ title: Andrew Barto
 
 an American computer scientist, [AI](Artificial_Intelligence "Artificial Intelligence")-researcher and Professor of Computer Science, [University of Massachusetts](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst), [Amherst](https://en.wikipedia.org/wiki/Amherst,_Massachusetts). His research centers on learning in natural and artificial systems, and he has studied machine learning algorithms since 1977, contributing to the development of the computational theory and practice of [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1980 ...](#1980-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

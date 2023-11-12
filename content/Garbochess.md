@@ -8,21 +8,6 @@ title: Garbochess
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Gary Linscott](Gary_Linscott "Gary Linscott"). Starting with a [0x88](0x88 "0x88") board representation in [C#](C_sharp "C sharp"), which later evolved to the [JavaScript](JavaScript "JavaScript") version [Garbochess-JS](Garbochess-JS "Garbochess-JS") <a id="cite-note-2" href="#cite-ref-2">[2]</a> aka *Ajax chess* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and was also incorporated in *Silverlight Chess* <a id="cite-note-4" href="#cite-ref-4">[4]</a> for the [Microsoft](Microsoft "Microsoft") [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight) framework, Version 2 was a complete rewrite in [C++](Cpp "Cpp") using [bitboards](Bitboards "Bitboards") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Move Generation](#move-generation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2007 ...](#2007-...)
-  - [3.2 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

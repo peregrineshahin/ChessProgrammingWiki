@@ -5,20 +5,6 @@ title: 10x12 Board
 
 The **10x12 Board** embeds the [8x8 board](8x8_Board "8x8 Board") [array](Array "Array"), surrounded by [sentinel](https://en.wikipedia.org/wiki/Sentinel_value) [files](Files "Files") and [ranks](Ranks "Ranks") to recognize off the board indices while [generating moves](Move_Generation "Move Generation") using offsets per [piece](Pieces "Pieces") and [direction](Direction "Direction") to determine [move target squares](Target_Square "Target Square"). Two ranks at the bottom and top are necessary to ensure even knight jumps from the corners result in valid array indices greater or equal zero and less than 120.
 
-## Contents
-
-- [1 Programs](#programs)
-  - [1.1 COKO III](#coko-iii)
-  - [1.2 Sargon](#sargon)
-  - [1.3 TSCP](#tscp)
-    - [1.3.1 Square Mapping](#square-mapping)
-    - [1.3.2 Offset Move Generation](#offset-move-generation)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Programs
 
 ## COKO III

@@ -10,25 +10,6 @@ was an American [electrical engineer](https://en.wikipedia.org/wiki/Electrical_e
 
 In [1949](Timeline#1949 "Timeline") Shannon published a groundbreaking paper on computer chess entitled *Programming a Computer for Playing Chess* <a id="cite-note-2" href="#cite-ref-2">[2]</a> . It describes how a machine or computer could be made to play a reasonable game of chess. His process for having the computer decide on which move to make is a [minimax](Minimax "Minimax") procedure, based on an [evaluation](Evaluation "Evaluation") function of a given chess position.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Chess Automation](#chess-automation)
-  - [1.2 WCCC 1980](#wccc-1980)
-  - [1.3 WCCC 1989](#wccc-1989)
-- [2 Shannon's Types](#shannon.27s-types)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1938 ...](#1938-...)
-  - [4.2 1950 ...](#1950-...)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 2000 ...](#2000-...)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Videos](#videos)
-  - [6.2 100th Birthday](#100th-birthday)
-- [7 References](#references)
-
 ## Photos
 
 ## Chess Automation

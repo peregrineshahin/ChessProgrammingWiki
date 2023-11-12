@@ -10,20 +10,6 @@ The **Sixth Computer Olympiad** took place from August 19 to 23, [2001](Timeline
 
 During the 6th Computer Olympiad a [workshop on computer games](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") was held nearby in the building at Tongersestraat 6 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk").
 
-## Contents
-
-- [1 Results](#results)
-  - [1.1 Amazons](#amazons)
-  - [1.2 Chinese Chess](#chinese-chess)
-  - [1.3 Gipf](#gipf)
-  - [1.4 Lines of Action](#lines-of-action)
-  - [1.5 Shogi](#shogi)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Workshop](#workshop)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Results
 
 ## [Amazons](Amazons "Amazons")

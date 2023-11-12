@@ -8,18 +8,6 @@ title: CXG Star Chess
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with integrated travel sensory pegboard and a [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)")  [6800](6800 "6800") compatible *Newcrest* [6301V](6800#6301 "6800") 8-bit controller including 4 KiB [ROM](Memory#ROM "Memory") and 256 Byte [RAM](Memory#RAM "Memory"), produced and released by [Newcrest Technology](Newcrest_Technology "Newcrest Technology") in **1985** as successor of the [CXG Computachess III](CXG_Sensor_Computachess#III "CXG Sensor Computachess") which had the [Hitachi](https://en.wikipedia.org/wiki/Hitachi_Ltd.) [HD6301V1](6800#6301 "6800") on board. Like the Computachess III, the CXG Star Chess program was based on [Kaare Danielsen's](Kaare_Danielsen "Kaare Danielsen") first program, [LogiChess](LogiChess "LogiChess"). The same program was also inside the *CXG Enterprise S* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, also sold by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") as *Mephisto Merlin 4K* <a id="cite-note-3" href="#cite-ref-3">[3]</a>. This 6800 LogiChess branch was still in production in the 2000s, as used in all the **Lexibook** computers <a id="cite-note-4" href="#cite-ref-4">[4]</a> with [68HC08](https://en.wikipedia.org/wiki/Freescale_68HC08) compatible microcontrollers <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 CXG Advanced Star Chess](#cxg-advanced-star-chess)
-  - [1.1 Oracle](#oracle)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Star Chess](#star-chess)
-  - [4.2 Advanced Star](#advanced-star)
-  - [4.3 Lexibook](#lexibook)
-- [5 References](#references)
-
 ## CXG Advanced Star Chess
 
 [](http://www.flickr.com/photos/10261668@N05/859029458/in/set-72157600923816793) CXG 211 Advanced Star Chess Box <a id="cite-note-8" href="#cite-ref-8">[8]</a>

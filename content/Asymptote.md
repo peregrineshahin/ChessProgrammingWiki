@@ -8,19 +8,6 @@ title: Asymptote
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Maximilian Lupke](Maximilian_Lupke "Maximilian Lupke"), written in [Rust](Rust "Rust") and licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"), first released in July 2018.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc-2)
-- [4 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

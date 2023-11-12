@@ -7,17 +7,6 @@ title: Freezer
 
 an endgame analysis tool by [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") running under [Windows](Windows "Windows") able to generate restricted endgame databases with up to eight pieces or even more with blocked pawns, by relying on [A priory](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) information in the database generation process using six piece [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"). User defined rules for piece-square combinations and material balance are essential to significantly reduce the number of total positions and generation time, otherwise restricted to 2^29 = 536,870,912 positions <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Freezer is commercial, first released in May 2005, and also available through [shredderchess.com](Shredder "Shredder") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Freezer](#chess-freezer)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Screenshot
 
 [](http://www.freezerchess.com/index.php?topic=screenshots)

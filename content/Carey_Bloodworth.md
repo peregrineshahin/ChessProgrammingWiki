@@ -18,15 +18,6 @@ Carey's abandoned computer chess sites *Classic Computer Chess - ... The program
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>,
 and are often referred in the [Chess Programming Wiki](Home "Home").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1999](#1999)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1999

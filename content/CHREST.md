@@ -9,15 +9,6 @@ a [cognitive architecture](Cognition "Cognition") that models human [perception]
 
 CHREST consists of a blending of ideas proposed in earlier computer models of different aspects of chess <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [Mater](Mater "Mater") by [Baylor](George_Baylor "George Baylor") and [Simon](Herbert_Simon "Herbert Simon") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Perceiver](Perceiver "Perceiver") by [Barenfeld](Michael_Barenfeld "Michael Barenfeld") and Simon <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and [MAPP](MAPP "MAPP") by [Gilmartin](Kevin_J._Gilmartin "Kevin J. Gilmartin") and Simon <a id="cite-note-6" href="#cite-ref-6">[6]</a> and originated from modeling work on chess expertise.
 
-## Contents
-
-- [1 CHUMP](#chump)
-- [2 Architecture](#architecture)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## CHUMP
 
 One application of CHREST was the [pattern learning](index.php?title=Pattern_Learning&action=edit&redlink=1 "Pattern Learning (page does not exist)") chess program [CHUMP](CHUMP "CHUMP") by Gobet and [Peter Jansen](Peter_Jansen "Peter Jansen") <a id="cite-note-7" href="#cite-ref-7">[7]</a> , where an [eye movement](Eye_Movements "Eye Movements") simulator, the only part of the system where the rules of the game influence the learning process, scans the board, and directs its attention to [pieces](Pieces "Pieces") and [squares](Squares "Squares") it expects, given the current node in its discrimination net, attack, defense and [proximity relations](Distance "Distance") between pieces.

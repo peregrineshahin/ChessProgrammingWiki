@@ -8,20 +8,6 @@ title: AsmFish
 
 a [port](Stockfish#ports "Stockfish") of Stockfish in [x86-64](X86-64 "X86-64") [assembly](Assembly "Assembly") by [Mohammed Li](index.php?title=Mohammed_Li&action=edit&redlink=1 "Mohammed Li (page does not exist)"), optional using [AVX2](AVX2 "AVX2") and [BMI2](BMI2 "BMI2") instructions, assembled with [FASM](https://en.wikipedia.org/wiki/FASM) to run under [Windows](Windows "Windows") or [UNIX](Unix "Unix")/[Linux](Linux "Linux"), first released in June 2016. The fun project is about to demonstrate how an experienced assembly programmer can optimize a program compared with [GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. A few structural optimizations were also applied, such as elimination of [piece lists](Piece-Lists "Piece-Lists") as already tried in Stockfish <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which were later reinstalled due to the slower but stronger **pedantFish** (asmFish with PEDANTIC = 1) with the same node counts as Stockfish, became default <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Critical functions in asmFish were not conform to the x86-64 [ABI](https://en.wikipedia.org/wiki/Application_binary_interface) concerning register usage and [calling convention](https://en.wikipedia.org/wiki/Calling_convention) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Some less time critical code was ported using GCC generated assembly output, such as [Ronald de Man's](Ronald_de_Man "Ronald de Man") probing code for [Syzygy Bases](Syzygy_Bases "Syzygy Bases"). asmFish further supports [large pages](Memory#HugePages "Memory"), and its [parallel search](Parallel_Search "Parallel Search") is [numa](NUMA "NUMA") aware <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2015](#2015)
-  - [2.2 2016](#2016)
-  - [2.3 2017](#2017)
-  - [2.4 2018](#2018)
-  - [2.5 2019](#2019)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [CFish](CFish "CFish")

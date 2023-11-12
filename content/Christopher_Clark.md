@@ -10,13 +10,6 @@ an American computer scientist and researcher at [Allen Institute for Artificial
 He received a M.Sc. in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") from the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh"), where he studied [machine learning](Learning "Learning")
 and completed a thesis on using [deep convolutional neural networks](Neural_Networks#Convolutional "Neural Networks") for the game of [Go](Go "Go") to [learn](Deep_Learning "Deep Learning") and predict the moves made by expert Go players.
 
-## Contents
-
-- [1 DCNNs in Go](#dcnns-in-go)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## DCNNs in Go
 
 As reported in their 2014 paper *Teaching Deep Convolutional Neural Networks to Play Go*, Clark and [Amos Storkey](Amos_Storkey "Amos Storkey") trained an 8-layer [convolutional neural network](Go#CNN "Go") <a id="cite-note-2" href="#cite-ref-2">[2]</a> by [supervised learning](Supervised_Learning "Supervised Learning") from a database of human professional games to predict the moves made by expert [Go](Go "Go") players.

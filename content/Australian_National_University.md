@@ -6,14 +6,6 @@ title: Australian National University
 \[.jpg) Campus of ANU in [Acton](https://en.wikipedia.org/wiki/Acton,_Australian_Capital_Territory), [Canberra](https://en.wikipedia.org/wiki/Canberra) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Australian National University**, [Canberra](https://en.wikipedia.org/wiki/Canberra), [Australia](https://en.wikipedia.org/wiki/Australia)
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 Tournaments](#tournaments)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## People
 
 - [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter")

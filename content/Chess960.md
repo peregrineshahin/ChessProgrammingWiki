@@ -7,22 +7,6 @@ title: Chess960
 
 a chess variant invented by former [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Champion) [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer), introduced on June 19, 1996 in [Buenos Aires](https://en.wikipedia.org/wiki/Buenos_Aires), [Argentina](https://en.wikipedia.org/wiki/Argentina) <a id="cite-note-1" href="#cite-ref-1">[1]</a> . Randomizing the pieces on its back rank has been known as *Shuffle Chess*, but Chess960 introduces rules so that [castling](Castling "Castling") options are retained in all starting positions, one player's bishops must start on opposite-color squares, and the king must start on a square between the rooks, resulting in 960 unique positions, while the classical [initial position](Initial_Position "Initial Position") is one of them. Chess960 practically handicaps the application of [opening theory](http://en.wikibooks.org/wiki/Chess_Opening_Theory) in classical chess with the [memorization](Opening_Book "Opening Book") of opening moves, both for human as well for chess programs.
 
-## Contents
-
-- [1 Castling moves with chess GUIs](#castling-moves-with-chess-guis)
-- [2 Programming](#programming)
-  - [2.1 Initial positions](#initial-positions)
-  - [2.2 Notations](#notations)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2005 ...](#2005-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Castling moves with chess GUIs
 
 For chess, players make a castling move by moving their Kings to two cells, left or right. However, for Chess960 sometimes they can’t move their King to two cells since the target cell may be still occupied by a piece and/or the distance between the King and the target cell may vary from 1 to 6 (not only 2 cells). Many chess GUIs solved that difficulty/ambiguity by changing the way to make castling move: move the King to capture its own Rooks.

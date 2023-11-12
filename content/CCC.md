@@ -5,23 +5,6 @@ title: CCC
 
 The **Computer Chess Club** (CCC, Talkchess) is a [moderated](https://en.wikipedia.org/wiki/Internet_forum#Moderators) computer chess [forum](https://en.wikipedia.org/wiki/Internet_forum), established since 1997.
 
-## Contents
-
-- [1 Discrimination](#discrimination)
-- [2 CCC Links](#ccc-links)
-- [3 CCC History](#ccc-history)
-  - [3.1 The Founders](#the-founders)
-  - [3.2 Moderators](#moderators)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1997](#1997)
-  - [4.2 1998](#1998)
-  - [4.3 1999](#1999)
-  - [4.4 2000 ...](#2000-...)
-  - [4.5 2010 ...](#2010-...)
-  - [4.6 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Discrimination
 
 Since May 19, 2020, the forum is [blocked](https://en.wikipedia.org/wiki/IP_address_blocking) for several [IP-ranges](https://en.wikipedia.org/wiki/IP_address) [outside the US](https://en.wikipedia.org/wiki/Geo-blocking) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Appeal by [Pawel Koziol](Pawel_Koziol "Pawel Koziol") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

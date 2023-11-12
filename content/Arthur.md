@@ -8,21 +8,6 @@ title: Arthur
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible, portable chess engine by [Walter Ravenek](Walter_Ravenek "Walter Ravenek"). Developed in the 90s, Arthur had an own [graphical user interface](GUI "GUI") for the [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh") computer.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Descriptions](#descriptions)
-  - [2.1 1997](#1997)
-  - [2.2 1999](#1999)
-- [3 Computer Judgment](#computer-judgment)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Tournament Play
 
 Arthur played various [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") with strong results, for instance becoming third at the [DOCCC 1998](DOCCC_1998 "DOCCC 1998") behind [The King](The_King "The King") and [CilkChess](CilkChess "CilkChess"). It further played multiple [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") in the 90s, the [IPCCC 1994](IPCCC_1994 "IPCCC 1994"), the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris) and the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn).

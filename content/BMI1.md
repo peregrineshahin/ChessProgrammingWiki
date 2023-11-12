@@ -7,21 +7,6 @@ title: BMI1
 
 an x86-64 expansion of [bit-manipulation](Bit-Twiddling#BitManipulation "Bit-Twiddling") instructions by [Intel](Intel "Intel"), introduced in conjunction with the [Advanced Vector Extensions](AVX "AVX") [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") instruction set. With the [Bulldozer microarchitecture](https://en.wikipedia.org/wiki/Bulldozer_%28microarchitecture%29), BMI1 as well as [AVX](AVX "AVX") are also available on [AMD](AMD "AMD") processors under the initial name BMI, along with their [Trailing Bit Manipulation Instructions](TBM "TBM") (TBM) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Most BMI1 instructions (except LZCNT and TZCNT) employ the [VEX prefix](https://en.wikipedia.org/wiki/VEX_prefix) encoding to support up to three-operand syntax with non-destructive source operands on 32- or 64-bit general-purpose registers. BMI1 (ANDN, BEXTR, BLSI, BLSMK, BLSR, TZCNT) requires bit 3 set in EBX of [CPUID](https://en.wikipedia.org/wiki/CPUID) with EAX=07H, ECX=0H. LZCNT, not exactly member of BMI1, requires bit 5 set in ECX of CPUID EAX=80000001H. With the advent of [AVX2](AVX2 "AVX2"), some more [bit-twiddling](Bit-Twiddling "Bit-Twiddling") on general-purpose registers is proposed with [BMI2](BMI2 "BMI2").
 
-## Contents
-
-- [1 Instructions](#instructions)
-  - [1.1 ANDN](#andn)
-  - [1.2 BEXTR](#bextr)
-  - [1.3 BLSI](#blsi)
-  - [1.4 BLSMSK](#blsmsk)
-  - [1.5 BLSR](#blsr)
-  - [1.6 LZCNT](#lzcnt)
-  - [1.7 TZCNT](#tzcnt)
-- [2 See also](#see-also)
-- [3 Manuals](#manuals)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Instructions
 
 BMI1 instructions may speedup various [bitboard](Bitboards "Bitboards") [operations](General_Setwise_Operations "General Setwise Operations"), such as [relative complement](General_Setwise_Operations#RelativeComplement "General Setwise Operations"), and [isolation](General_Setwise_Operations#LS1BIsolation "General Setwise Operations"), [reset](General_Setwise_Operations#LS1BReset "General Setwise Operations") and [separation](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") of the [least significant one bit](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations"), they combine two instructions and reduce register pressure. [Leading](BitScan#LeadingZeroCount "BitScan") and [trailing zero count](BitScan#TrailingZeroCount "BitScan") are useful for [scanning bits](BitScan "BitScan") with possibly empty sets.

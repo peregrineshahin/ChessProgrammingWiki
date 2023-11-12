@@ -8,17 +8,6 @@ title: CSA
 
 an organization dedicated to computer [Shogi](Shogi "Shogi") (Japanes Chess). The CSA organizer of the annual [World Computer Shogi Championship](World_Computer_Shogi_Championship "World Computer Shogi Championship") and the [Game Programming Workshops](Conferences#GPW "Conferences") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 CSA Board](#csa-board)
-- [2 CSA Events](#csa-events)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2008 ...](#2008-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## CSA Board
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -7,16 +7,6 @@ title: Chess for Glass
 
 written by [Aart Bik](Aart_Bik "Aart Bik"), is Glassware <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> that runs directly on a [Google Glass](https://en.wikipedia.org/wiki/Google_Glass) device. The user can [enter moves](Entering_Moves "Entering Moves") by simply saying the moves ([voice input](index.php?title=Voice_User_Interface&action=edit&redlink=1 "Voice User Interface (page does not exist)") feature), or by using the [touchpad](https://en.wikipedia.org/wiki/Touchpad). Other features include a choice in board color, spoken move announcements, and the ability to import any third party chess engine to replace the friendly built-in [Java](Java "Java") engine. Chess for Glass recognizes all [ChessBase](ChessBase "ChessBase") compatible engines that are installed on the same Glass device, and supports both the popular [UCI](UCI "UCI") and [XBoard](XBoard "XBoard")/[WinBoard](WinBoard "WinBoard") protocols.
 
-## Contents
-
-- [1 Images](#images)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Google Glass](#google-glass)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Images
 
 [](http://www.aartbik.com/GLASS/index.html)

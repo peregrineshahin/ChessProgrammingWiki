@@ -8,14 +8,6 @@ title: Cassia Chess Mate
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") released in 1979 by [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) based manufacturer **Cassia** by [Eric White](Eric_White "Eric White") and [Ken Cohen](Ken_Cohen "Ken Cohen"), forerunner of [White and Allcock](Newcrest_Technology "Newcrest Technology"), the computer also shipped as *Toytronic Chess Electronics* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Cassia Chess Mate and relatives, such as the **CXG Computachess I** in 1981 were [clones](Category:Clone "Category:Clone") of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Fidelity Chess Challenger 10](Chess_Challenger "Chess Challenger") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. While the *CXG Computachess I* was stopped from shipping into the US, it seems the *Chess Mate* was further shipped to Europe <a id="cite-note-6" href="#cite-ref-6">[6]</a>, according to [Ron Nelson](Ron_Nelson "Ron Nelson"), with an operating manual logo looking like the CXG Computachess one <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Chess Challenger](Chess_Challenger "Chess Challenger")

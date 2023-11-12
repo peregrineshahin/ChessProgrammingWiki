@@ -11,17 +11,6 @@ His research interests include [machine learning](Learning "Learning"), [neural 
 In 1989, Charles Elkan applied [conspiracy numbers](Conspiracy_Numbers "Conspiracy Numbers") to [theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 similar to [Victor Allis'](Victor_Allis "Victor Allis") [Proof-number search](Proof-Number_Search "Proof-Number Search") algorithm.
 
-## Contents
-
-- [1 Fuzzy Paradox](#fuzzy-paradox)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1988 ...](#1988-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Fuzzy Paradox
 
 \[ Implication

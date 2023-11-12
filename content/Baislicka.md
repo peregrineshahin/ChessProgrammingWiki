@@ -7,13 +7,6 @@ title: Baislicka
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") under the [MIT License](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology") by [Robert Taylor](index.php?title=Robert_Taylor&action=edit&redlink=1 "Robert Taylor (page does not exist)") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, written in [C](C "C"), first published in 2017.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Features
 
 Features based on [Baislicka/README.txt at master · kz04px/Baislicka · GitHub](https://github.com/kz04px/Baislicka/blob/master/README.txt)

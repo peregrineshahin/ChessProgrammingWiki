@@ -8,15 +8,6 @@ title: Harold van der Heijden
 
 a Dutch [chess endgame study composer](Category:Chess_Composer "Category:Chess Composer"), collector and researcher, awarded in 2001 by the [Permanent Commission of the FIDE for Chess Compositions (PCCC)](https://en.wikipedia.org/wiki/Permanent_Commission_of_the_FIDE_for_Chess_Compositions) with the title of [International Judge for Chess Compositions](https://en.wikipedia.org/wiki/International_Judge_of_Chess_Compositions) for endgame studies, and secretary of the [Dutch-Flemish](https://en.wikipedia.org/wiki/Flemish) **ARVES**, the *[Alexander Rueb](https://en.wikipedia.org/wiki/Alexander_Rueb) Vereniging voor Schaakeindspelstudie* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Van der Heijden maintains and sells the largest collection of endgame studies in [PGN-format](Portable_Game_Notation "Portable Game Notation") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and is along with [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Matej Guid](Matej_Guid "Matej Guid"), [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") and [Guy Haworth](Guy_Haworth "Guy Haworth") involved in [Data-Mining](https://en.wikipedia.org/wiki/Data_mining) of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") in conjunction with his endgame study database <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Publications](#publications)
-  - [1.1 1996 ...](#1996-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

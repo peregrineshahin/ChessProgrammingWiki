@@ -10,13 +10,6 @@ was a Latvian American electrical engineer, mathematician, [International Master
 
 In 1961, Kalme graduated with honors in electrical engineering from [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania), and received his Ph.D. degree in mathematics in 1967 at [New York University](https://en.wikipedia.org/wiki/New_York_University) under thesis advisor [Lipman Bers](Mathematician#LipmanBers "Mathematician") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. He became a professor of mathematics at the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley") for two years, and at [University of Southern California](University_of_Southern_California "University of Southern California") for four years. When [Latvia](https://en.wikipedia.org/wiki/Latvia) [restored its independence](https://en.wikipedia.org/wiki/Latvia#Restoration_of_independence_in_1991) in 1991 from the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union), Kalme returned to Latvia, where he worked on a National Strategy for Bringing Computer Literacy to Latvian Schools <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 In the early 70s at [University of Southern California](University_of_Southern_California "University of Southern California"), Charles Kalme became team member and chess advisor of the [USC CP](USC_CP "USC CP") team around [Albert Zobrist](Albert_Zobrist "Albert Zobrist") and [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

@@ -6,14 +6,6 @@ title: All Shortest Paths
 \[ Pathfinding <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **All shortest Paths** algorithm to determine King paths for instance in blocked [pawn endgames](Pawn_Endgame "Pawn Endgame") was introduced by [Steffan Westcott](Steffan_Westcott "Steffan Westcott") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-## Contents
-
-- [1 The Algorithm](#the-algorithm)
-- [2 Optimization](#optimization)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## The Algorithm
 
 The following routine determines if a path of set bits in 'path' 8-way connect (ie. king move) any set bit in sq1 with any set bit in sq2 (this is the same as Squares Are Connected). Also, it will return an [array](Array "Array") of bitboards showing all possible shortest paths - This is probably best explained by showing an example:

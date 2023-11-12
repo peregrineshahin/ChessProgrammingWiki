@@ -9,14 +9,6 @@ a Polish computer scientist at the Institute of Computing Science,
 [Poznań University of Technology](https://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Technology).
 His research interest include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [evolutionary computation](Genetic_Programming#EvolutionaryComputation "Genetic Programming") and [genetic programming](Genetic_Programming "Genetic Programming").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>

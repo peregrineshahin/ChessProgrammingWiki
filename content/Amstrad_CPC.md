@@ -8,15 +8,6 @@ title: Amstrad CPC
 
 a series of [Z80A](Z80 "Z80") based "all in one" [home computers](https://en.wikipedia.org/wiki/Home_computer), produced by [Amstrad](https://en.wikipedia.org/wiki/Amstrad) between 1984 and 1990, in German speaking countries branded by Amstrad partner [Schneider Rundfunkwerke AG](https://en.wikipedia.org/wiki/Schneider_Rundfunkwerke_AG) as **Schneider CPC**. The [Zilog](https://en.wikipedia.org/wiki/Zilog) Z80A processor ran at 4 MHz. The computer issued 64 KiB or up to 128 KiB of [RAM](Memory#RAM "Memory") using [bank switching](https://en.wikipedia.org/wiki/Bank_switching), expandable to 576 KiB, a [video display controller](https://en.wikipedia.org/wiki/Video_display_controller) with 3 modes of 16, 4 and 2 colors, the latter with a resolution of 640x200 pixels and 80 text colums, [AY-3-8910](https://en.wikipedia.org/wiki/General_Instrument_AY-3-8910) [sound chip](https://en.wikipedia.org/wiki/Sound_chip), [tape recorder](https://en.wikipedia.org/wiki/Tape_recorder) ([464](https://en.wikipedia.org/wiki/Amstrad_CPC_464)) or [3" floppy drive](https://en.wikipedia.org/wiki/Floppy_disk_variants#3-inch_diskettes:_Amstrad_CPC.2C_Oric.2C_PCW.2C_Spectrum.2C_etc.) (optional external in 464) and two [RS-232](https://en.wikipedia.org/wiki/RS-232) [serial ports](https://en.wikipedia.org/wiki/Serial_port). The CPC had its [native operating systen](https://en.wikipedia.org/wiki/Operating_system) [AMSDOS](https://en.wikipedia.org/wiki/AMSDOS) and [Locomotive](https://en.wikipedia.org/wiki/Locomotive_BASIC) [BASIC](Basic "Basic") interpreter in 32 KiB [ROM](Memory#ROM "Memory"), and was able to boot [CP/M](https://en.wikipedia.org/wiki/CP/M) and [SymbOS](https://en.wikipedia.org/wiki/SymbOS) from disk <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 CPC](#cpc)
-  - [3.2 Emulation](#emulation)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Category:CPC](Category:CPC "Category:CPC")

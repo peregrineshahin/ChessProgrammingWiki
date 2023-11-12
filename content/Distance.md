@@ -6,21 +6,6 @@ title: Distance
 [](https://artsandculture.google.com/asset/colors-from-a-distance/kAHBsV7-F_nsQw) [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Colors from a Distance <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The term **Distance** refers to the minimal number of [moves](Moves "Moves") a certain [piece](Pieces "Pieces"), which resides on the first square, needs, to reach the second square. The so called [Chebyshev distance](https://en.wikipedia.org/wiki/Chebyshev_distance) is the minimal number of [king](King "King") moves between those squares on the otherwise empty board. The so called [Manhattan- or Taxi-distance](Manhattan-Distance "Manhattan-Distance") is restricted to orthogonal king moves, while [knight-distance](Knight-Distance "Knight-Distance") refers to [knight](Knight "Knight") moves. In a wider sense, distance can be interpreted as a generalization of [mobility](Mobility "Mobility"), for instance determined by [fill algorithms](Fill_Algorithms "Fill Algorithms") in [bitboards](Bitboards "Bitboards").
 
-## Contents
-
-- [1 Chebyshev Distance](#chebyshev-distance)
-  - [1.1 Routine](#routine)
-  - [1.2 Lookup](#lookup)
-  - [1.3 Lookup by 0x88 Difference](#lookup-by-0x88-difference)
-  - [1.4 Lookup of Array 15\*15](#lookup-of-array-15.2a15)
-- [2 Applications](#applications)
-- [3 The Value of Reaching a Square](#the-value-of-reaching-a-square)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Chebyshev Distance
 
 The Chebyshev distance is the maximum of the absolute [rank-](Ranks#RankDistance "Ranks") and [file-distance](Files#FileDistance "Files") of both squares.

@@ -5,19 +5,6 @@ title: CPWEngine
 
 The **CPW-Engine** (the **C**hess**P**rogramming **W**iki Engine) was developed by [Pawel Koziol](Pawel_Koziol "Pawel Koziol") and [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), who tried to put some of the theory presented on this pages into practice. The CPW is a fully functional chess engine intended as guidance to new programmers and exemplify some ideas. If You have any ideas how to simplify it, feel free to use "discussion" option. See also [CPW history](CPW_history "CPW history") on how the engine has evolved. A revised 2014 version 1.1 was provided Pawel Koziol <a id="cite-note-1" href="#cite-ref-1">[1]</a>, full code is further available at [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 The aims for the engine](#the-aims-for-the-engine)
-- [2 Playing strength](#playing-strength)
-- [3 Parts](#parts)
-- [4 Features](#features)
-- [5 To do](#to-do)
-- [6 Known Deficiencies](#known-deficiencies)
-- [7 See also](#see-also)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## The aims for the engine
 
 - Readability

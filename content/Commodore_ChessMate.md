@@ -8,13 +8,6 @@ title: Commodore ChessMate
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") by [Commodore](https://en.wikipedia.org/wiki/Commodore_International) with a program based on [MicroChess](MicroChess "MicroChess") by [Peter Jennings](Peter_Jennings "Peter Jennings"), released in 1978. The computer was built in [KIM-1](KIM-1 "KIM-1") technology and had a [MOS Technology](https://en.wikipedia.org/wiki/MOS_Technology) processor of the [6502](6502 "6502") family, the 28 pin **6504** could only address 8 kibibytes, where the chess program was persistant in 5 kibibytes of [ROM](Memory#ROM "Memory"), and used only 320 bytes of [RAM](Memory#RAM "Memory") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . For user interaction, it had a [membrane keyboard](https://en.wikipedia.org/wiki/Membrane_keyboard), four [seven-segment displays](https://en.wikipedia.org/wiki/Seven-segment_display), and four further status [LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode).
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Tournament Play
 
 Commodore ChessMate played the [Second West Coast Computer Faire Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") in March 1978, where it became runner-up behind [Sargon](Sargon "Sargon") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

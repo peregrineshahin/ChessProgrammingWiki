@@ -8,18 +8,6 @@ title: BP
 
 a chess program by [Robert Cullum](Robert_Cullum "Robert Cullum"). BP was a [selective](Selectivity "Selectivity") program written in [C](C "C") and [x86](X86 "X86") [assembly](Assembly "Assembly") language to run on a [Compaq 386](https://en.wikipedia.org/wiki/Compaq_Deskpro_386#Deskpro_386) [IBM PC](IBM_PC "IBM PC") or compatible <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 WCCC 1989](#wccc-1989)
-  - [1.2 ACM 1991](#acm-1991)
-- [2 Tournament Play](#tournament-play)
-- [3 Selected Games](#selected-games)
-  - [3.1 WCCC 1989](#wccc-1989-2)
-  - [3.2 Illinois Open 1991](#illinois-open-1991)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Descriptions
 
 ## [WCCC 1989](WCCC_1989 "WCCC 1989")

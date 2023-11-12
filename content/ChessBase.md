@@ -8,22 +8,6 @@ title: ChessBase
 
 *For the Chess database see main article [ChessBase (Database)](</ChessBase_(Database)> "ChessBase (Database)").*
 
-## Contents
-
-- [1 History and Products](#history-and-products)
-  - [1.1 Fritz Family](#fritz-family)
-  - [1.2 Young Talents](#young-talents)
-  - [1.3 Misc](#misc)
-- [2 Publications](#publications)
-- [3 Best-Publication Award](#best-publication-award)
-  - [3.1 Quote 1999](#quote-1999)
-  - [3.2 Quote 2010](#quote-2010)
-  - [3.3 Quote 2011](#quote-2011)
-  - [3.4 Winners](#winners)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## History and Products
 
 ChessBase was founded in 1986 by Physicist [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber") and Journalist [Frederic Friedel](Frederic_Friedel "Frederic Friedel") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, eponymous was the [chess game database](</ChessBase_(Database)> "ChessBase (Database)") developed by Wüllenweber for [Atari ST](Atari_ST "Atari ST") computers. End of the 80s the chess database program was ported by [Mathias Feist](Mathias_Feist "Mathias Feist") to the [IBM PC](IBM_PC "IBM PC") and [MS-DOS](MS-DOS "MS-DOS") operating system, released as ChessBase 3.0 for Atari and PC. ChessBase 4.0 was the last Atari release, and already included the chess playing program [Fritz](Fritz "Fritz") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, based on the program [Quest](Quest "Quest") by [Frans Morsch](Frans_Morsch "Frans Morsch"), which was also market as stand alone product.

@@ -11,15 +11,6 @@ The [open source program](Category:Open_Source "Category:Open Source") is publis
 and provides an own [user interface](User_Interface "User Interface"), but accepts illegal moves, while attempts to enter legal moves such as [castling](Castling "Castling") and [en passant](En_passant "En passant") were not recognized as such,
 yielding in illegal moves made with the king and pawn. [BMCP(JS)](</BMCP(JS)> "BMCP(JS)") is a [JavaScript](JavaScript "JavaScript") port of BMCP <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 GitHub](#github)
-  - [3.2 YouTube](#youtube)
-- [4 References](#references)
-
 ## See also
 
 - [BBC](BBC "BBC")

@@ -10,15 +10,6 @@ an American computer scientist and computer games researcher and programmer, who
 He defended his B.Sc. degree in 2011 at [Harvard College](https://en.wikipedia.org/wiki/Harvard_College), [Harvard University](Harvard_University "Harvard University"), delivering the thesis *Move Ranking and Evaluation in the Game of Arimaa* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 David J. Wu is author of the [Arimaa](Arimaa "Arimaa") bot **Sharp**, and inspired by [AlphaZero](AlphaZero "AlphaZero"), the [Go](Go "Go") playing program **KataGo** <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Sharp](#sharp)
-- [2 KataGo](#katago)
-- [3 Selected Publications](#selected-publications)
-- [4 Postings](#postings)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Sharp
 
 The [Arimaa](Arimaa "Arimaa") playing bot **Sharp** won the 2015 *Arimaa Challenge* and the then $12,000 USD prize by defeating each of three top-ranked human players in a three game series <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

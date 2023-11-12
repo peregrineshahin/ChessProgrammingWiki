@@ -10,19 +10,6 @@ a chess engine by [Marco Pagnoncelli](Marco_Pagnoncelli "Marco Pagnoncelli"), wr
 CyberPagno played the [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT5") [online tournaments](Tournaments_and_Matches#online "Tournaments and Matches") and various [Italian Computer Chess Championships](Italian_Computer_Chess_Championship "Italian Computer Chess Championship") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 After a break of several years, Marco worked on his engine again and released CyberPagno **2.2** in November 2014 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the version which played the [IGT 2014](IGT_2014 "IGT 2014") and [IGT 2015](IGT_2015 "IGT 2015") successfully.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Photos](#photos)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2002 ...](#2002-...)
-  - [4.2 2014 ...](#2014-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 CyberPagno applies [PVS](Principal_Variation_Search "Principal Variation Search") within an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

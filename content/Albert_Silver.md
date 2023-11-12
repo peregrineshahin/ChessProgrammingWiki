@@ -11,27 +11,6 @@ chess and computer chess journalist, aficionado, tester and expert, from 1999 - 
 and editor and writer at [ChessBase News](ChessBase "ChessBase") [[3]](#cite_note-3) [[4]](#cite_note-4).
 He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gambit Suite* [[6]](#cite_note-6) [[7]](#cite_note-7) meant to be used in [test matches](Engine_Testing#Matches "Engine Testing") between [engines](Engines "Engines"), and served as moderator in [CCC](CCC "CCC").
 
-## Contents
-
-- [1 Deus X](#Deus_X)
-- [2 Fat Fritz 2](#Fat_Fritz_2)
-- [3 Interviews](#Interviews)
-- [4 Selected Articles](#Selected_Articles)
-  - [4.1 2010 ...](#2010_...)
-  - [4.2 2015 ...](#2015_...)
-  - [4.3 2020 ...](#2020_...)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 1998 ...](#1998_...)
-  - [5.2 2000 ...](#2000_...)
-  - [5.3 2005 ...](#2005_...)
-  - [5.4 2010 ...](#2010_..._2)
-  - [5.5 2015 ...](#2015_..._2)
-  - [5.6 2020 ...](#2020_..._2)
-  - [5.7 Silver Openings Suite](#Silver_Openings_Suite)
-  - [5.8 Silver Test Positions](#Silver_Test_Positions)
-- [6 External Links](#External_Links)
-- [7 References](#References)
-
 ## Deus X
 
 Fascinated by the development initiated by [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") with [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero"), and the AlphaZero inspired open source community project [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero"), combining [Deep learning](Deep_Learning "Deep Learning") techniques with [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"),

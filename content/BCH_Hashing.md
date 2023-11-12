@@ -8,17 +8,6 @@ title: BCH Hashing
 
 a fast [incremental](Incremental_Updates "Incremental Updates") [Hash function](https://en.wikipedia.org/wiki/Hash_function) to transform a board [position](Chess_Position "Chess Position") into a number of a set length, quite similar to [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing"). It was proposed by [Tony Warnock](Tony_Warnock "Tony Warnock") and [Burton Wendroff](Burton_Wendroff "Burton Wendroff") in 1988 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, relying on [BCH codes](https://en.wikipedia.org/wiki/BCH_code) invented by [Alexis Hocquenghem](Mathematician#Hocquenghem "Mathematician") in 1959 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and independently by [Raj Chandra Bose](Mathematician#RCBose "Mathematician") and [Dwijendra Kumar Ray-Chaudhuri](Mathematician#RayChaudhuri "Mathematician") in 1960 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. They used a BCH signature length of 81 (or more) bits to protect 16 bits from the full position string of 749 (64\*12 - 2\*2\*8 + 4 + 8 + 1) bits, which is sufficient to avoid [collisions](Transposition_Table#KeyCollisions "Transposition Table") within an 8 ply search. They stored 63 bits of the BCH signature as "lock" inside the table, and used 18 (or more) lower bits as index. [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") elaborates on BCH codes inside his thesis as well <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and refers [Elwyn Berlekamp's](Elwyn_Berlekamp "Elwyn Berlekamp") *Algebraic Coding Theory* <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Tony Warnock](#tony-warnock)
-  - [1.2 Kathe and Dan Spracklen](#kathe-and-dan-spracklen)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Postings](#postings)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Quotes
 
 ## [Tony Warnock](Tony_Warnock "Tony Warnock")

@@ -8,31 +8,6 @@ title: Depth
 
 Despite [quiescence search](Quiescence_Search "Quiescence Search"), where usually winning captures and even some checks are tried at or behind the search horizon, until positions become sufficiently quite, [selectivity](Selectivity "Selectivity") of modern chess programs, caused by [extensions](Extensions "Extensions"), [pruning](Pruning "Pruning") and [reductions](Reductions "Reductions"), notably [check extensions](Check_Extensions "Check Extensions"), [NMP](Null_Move_Pruning "Null Move Pruning") and [LMR](Late_Move_Reductions "Late Move Reductions"), leads to bushy, non-uniform [trees](Search_Tree "Search Tree") where some branches are searched deeper than nominal, but others shallower. A [depth reduction R](Depth_Reduction_R "Depth Reduction R") of multiple plies is often performed in forward pruning techniques like [null move pruning](Null_Move_Pruning "Null Move Pruning") and [multi-cut](Multi-Cut "Multi-Cut").
 
-## Contents
-
-- [1 Draft versus Ply-Index](#Draft_versus_Ply-Index)
-- [2 Fractional Plies](#Fractional_Plies)
-- [3 Depth Comparison of different programs](#Depth_Comparison_of_different_programs)
-- [4 Selective Search Depth](#Selective_Search_Depth)
-- [5 Maximum Search Depth](#Maximum_Search_Depth)
-- [6 Diminishing Returns](#Diminishing_Returns)
-- [7 See also](#See_also)
-- [8 Publications](#Publications)
-  - [8.1 1978 ...](#1978_...)
-  - [8.2 1980 ...](#1980_...)
-  - [8.3 1990 ...](#1990_...)
-  - [8.4 2000 ...](#2000_...)
-  - [8.5 2010 ...](#2010_...)
-- [9 Postings](#Postings)
-  - [9.1 1983 ...](#1983_...)
-  - [9.2 1996 ...](#1996_...)
-  - [9.3 2000 ...](#2000_..._2)
-  - [9.4 2010 ...](#2010_..._2)
-  - [9.5 2015 ...](#2015_...)
-  - [9.6 2020 ...](#2020_...)
-- [10 External Links](#External_Links)
-- [11 References](#References)
-
 ## Draft versus Ply-Index
 
 Most likely inside the search routine, a ply-index is used to index [stacks](Stack "Stack") or [arrays](Array "Array") with pre-saved search information. This index is initialized with zero at the [root](Root "Root"), and is then incremented after making a move each time the [recursive](Recursion "Recursion") search is called. This index measures the ply-distance from the current [node](Node "Node") to the root and would therefor be sufficient to determine the remaining depth to the horizon, also called draft:

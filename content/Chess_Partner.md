@@ -8,13 +8,6 @@ title: Chess Partner
 
 an early chess program for the [IBM PC](IBM_PC "IBM PC") by [Scott Murray](index.php?title=Scott_Murray&action=edit&redlink=1 "Scott Murray (page does not exist)"); commercially released in 1983, running under [DOS 1.1](MS-DOS "MS-DOS") or later. It requires a [color graphics adapter](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) and 128KiB of [memory](Memory "Memory"). In his review, along with the [SPOC](SPOC "SPOC") program, chess player and programmer [Dave Whitehouse's](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") recommendation was to wait for something better to come along <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Partner 2000](Chess_Partner_2000 "Chess Partner 2000")

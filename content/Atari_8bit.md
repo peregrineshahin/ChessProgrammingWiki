@@ -7,14 +7,6 @@ title: Atari 8bit
 The **Atari 8-bit** was a series of [home computers](https://en.wikipedia.org/wiki/Home_computer) based on the [6502](6502 "6502") processor with custom coprocessor chips,
 manufactured by [Atari Corporation](https://en.wikipedia.org/wiki/Atari_Corporation) from 1979 to 1992. The [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) was a [Video game console](https://en.wikipedia.org/wiki/Video_game_console) already released 1977.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Chess Programs
 
 - [Category:Atari 8-bit](Category:Atari_8-bit "Category:Atari 8-bit")

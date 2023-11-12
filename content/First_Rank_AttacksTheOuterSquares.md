@@ -5,16 +5,6 @@ title: First Rank AttacksTheOuterSquares
 
 The technique of [occupancy](Occupancy "Occupancy") lookups is base for [Rotated bitboards](Rotated_Bitboards "Rotated Bitboards"), [Kindergarten bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") and [Magic bitboards](Magic_Bitboards "Magic Bitboards"). The first [rank](Ranks "Ranks") with an occupancy in the [byte](Byte "Byte") range serves as teaser to introduce occupancy lookups.
 
-## Contents
-
-- [1 Introduction to Occupancy Lookup](#introduction-to-occupancy-lookup)
-  - [1.1 One Byte Only](#one-byte-only)
-  - [1.2 Overdetermined?](#overdetermined.3f)
-  - [1.3 The Outer Squares](#the-outer-squares)
-- [2 Attacks on all Ranks](#attacks-on-all-ranks)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-
 ## Introduction to Occupancy Lookup
 
 ## One Byte Only

@@ -9,15 +9,6 @@ title: Belka
 an [UCI](UCI "UCI") compliant, experimental chess engine based on the disputed engine [Strelka 1.x](Strelka "Strelka") by [Jury Osipov](Jury_Osipov "Jury Osipov") with modifications by [Igor Korshunov](Igor_Korshunov "Igor Korshunov").
 Belka 1.8.13 reads user adjustable [evaluation](Evaluation "Evaluation") parameters from a text file <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Eichhörnchen](Eichh%C3%B6rnchen "Eichhörnchen")

@@ -7,15 +7,6 @@ title: Bruce Wright
 
 an American computer scientist, programmer and independent computer software professional <a id="cite-note-1" href="#cite-ref-1">[1]</a>. As graduate student at the [Duke University](Duke_University "Duke University") in the 70s, Bruce Wright was early chess programmer and along with [Tom Truscott](Tom_Truscott "Tom Truscott") and [Eric Jensen](Eric_Jensen "Eric Jensen"), co-author of the chess program [Duchess](Duchess "Duchess"), which competed at [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") from 1974 to 1979 and 1981, and the 2nd and 3rd [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship") in [Toronto 1977](WCCC_1977 "WCCC 1977") and [Linz 1980](WCCC_1980 "WCCC 1980").
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Usenet Posts](#usenet-posts)
-  - [2.1 1982](#1982)
-  - [2.2 1996](#1996)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - [C. Frank Starmer](http://frank.itlab.us/), Bruce C. Wright (**1981**). *Minimizing the Impact of System Timing Constraints: Experience with a Microprocessor-Based Interface for Supporting Real-Time Graphics Data Entry*. IEEE Real-Time Systems Symposium'1981

@@ -8,14 +8,6 @@ title: Chess 7.0
 
 a chess program in [6502](6502 "6502") [Assembly](Assembly "Assembly") by [Larry Atkin](Larry_Atkin "Larry Atkin") for [Apple II](Apple_II "Apple II"), [Atari 800](Atari_8-bit "Atari 8-bit"), and [Commodore 64](Commodore_64 "Commodore 64") [home computers](https://en.wikipedia.org/wiki/Home_computer), published by [Odesta](https://en.wikipedia.org/wiki/Helix_%28database%29) in 1982/1983. The program was based on the [Capablanca](Morphy#Capablanca "Morphy") module programs for the [Great Game Machine](Great_Game_Machine "Great Game Machine") and the [Chafitz modular game system](Chafitz_Modular_Game_System "Chafitz Modular Game System") which interfaced directly to an 8-character 16- segment display, and a 12-key keypad. Later it became **How About a Nice Game of Chess** <a id="cite-note-2" href="#cite-ref-2">[2]</a> for the [Apple IIe](Apple_II "Apple II") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Chess](</Chess_(Program)> "Chess (Program)")

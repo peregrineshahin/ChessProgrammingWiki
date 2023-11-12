@@ -8,18 +8,6 @@ title: Aviezri Fraenkel
 
 an Israeli mathematician, computer scientist and pioneer in [combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory) and [game complexity](https://en.wikipedia.org/wiki/Game_complexity), in particular interested in [Wythoff's game](https://en.wikipedia.org/wiki/Wythoff%27s_game) and the game of [Nim](https://en.wikipedia.org/wiki/Nim). He is affiliated with the Department of Computer Science and Applied Mathematics at [Weizmann Institute of Science](https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science), [Rehovot](https://en.wikipedia.org/wiki/Rehovot). Fraenkel was member of the team who built the [WEIZAC](https://en.wikipedia.org/wiki/WEIZAC), the first computer in [Israel](https://en.wikipedia.org/wiki/Israel), and received his Ph.D. in 1961 from [University of California, Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles) on *Rational Approximations to Algebraic Numbers* under advisor [Ernst Gabor Straus](Mathematician#EGStraus "Mathematician") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Aviezri Fraenkel is combinatorial game Section Editor of the [ICGA Journal](ICGA_Journal "ICGA Journal").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1960 ...](#1960-...)
-  - [1.2 1970 ...](#1970-...)
-  - [1.3 1980 ...](#1980-...)
-  - [1.4 1990 ...](#1990-...)
-  - [1.5 2000 ...](#2000-...)
-  - [1.6 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

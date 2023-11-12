@@ -8,13 +8,6 @@ title: Barbara Liskov
 
 an American mathematician, computer scientist and Ford Professor at [MIT School of Engineering](https://en.wikipedia.org/wiki/MIT_School_of_Engineering) at [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). In 1968 [Stanford University](Stanford_University "Stanford University") made her the first woman in the United States to be awarded a Ph.D. from a computer science department, advised by [John McCarthy](John_McCarthy "John McCarthy"). The topic of her Ph.D. thesis was a *computer program to play chess end games*, where she proposed the [Killer Heuristic](Killer_Heuristic "Killer Heuristic") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. [Huberman's program](Huberman "Huberman") could solve KQK, [KRK](KRK "KRK"), KBBK, [KBNK](KBNK_Endgame "KBNK Endgame"), and KNNNK <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Turing Award](#turing-award)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Turing Award
 
 Barbara Liskov received the 2008 [ACM Turing Award](ACM#ACMTuringAward "ACM") for her work on practical and theoretical foundations of [programming language](Languages "Languages") and [systems design](https://en.wikipedia.org/wiki/Systems_design), especially related to [data](Data "Data") [abstraction](https://en.wikipedia.org/wiki/Abstraction_%28computer_science%29), [fault tolerance](https://en.wikipedia.org/wiki/Fault-tolerant_design), and [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) <a id="cite-note-5" href="#cite-ref-5">[5]</a>

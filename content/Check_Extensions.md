@@ -7,17 +7,6 @@ title: Check Extensions
 
 If a program does not consider checks in the [quiescence search](Quiescence_Search "Quiescence Search"), then we should take care that it does not enter it while in check. This is also a form of check extension <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In its most straightforward form, check extension is implemented in [TSCP](TSCP "TSCP").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-  - [2.4 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Checks in Quiescence Search](Quiescence_Search#Checks "Quiescence Search")

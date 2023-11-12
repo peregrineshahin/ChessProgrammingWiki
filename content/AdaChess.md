@@ -11,16 +11,6 @@ The development started in early 2012 and the first version has been released on
 AdaChess is a [console application](https://en.wikipedia.org/wiki/Console_application) without own [GUI](GUI "GUI"), but supports the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard") protocol.
 So far, AdaChess played the [IGT 2014](IGT_2014 "IGT 2014"), [IGT 2015](IGT_2015 "IGT 2015"), [IGT 2016](IGT_2016 "IGT 2016"), [IGT 2017](IGT_2017 "IGT 2017") and [IGT 2018](IGT_2018 "IGT 2018") [G 6](G_6 "G 6") tournaments, and the [PT 54](PT_54 "PT 54") [CSVN](CSVN "CSVN") tournament <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, all over the board.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

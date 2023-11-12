@@ -8,13 +8,6 @@ title: Claudio Della Corte
 
 an Italian computer chess programmer, and author of the chess engine [Esc](Esc "Esc"). Claudio Della Corte is founding member of the [Gruppo Scacchi e Informatica - G 6](G_6 "G 6"), the Italian Computer Chess Association.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2001 ...](#2001-...)
-  - [1.2 2003 ...](#2003-...)
-- [2 References](#references)
-
 ## Forum Posts
 
 ## 2001 ...

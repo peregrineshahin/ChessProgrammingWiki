@@ -10,15 +10,6 @@ As a chess player Fermin started first chess activities in the 1980s, and wrote 
 In 2007, Fermin Serrano started the development of his engine [Rodin](Rodin "Rodin") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 He is further author of the [FSTM](index.php?title=FSTM&action=edit&redlink=1 "FSTM (page does not exist)") tournament manager <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2008 ...](#2008-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2008 ...

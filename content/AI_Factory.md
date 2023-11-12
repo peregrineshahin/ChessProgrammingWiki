@@ -7,21 +7,6 @@ title: AI Factory
 
 an independent, [UK-based](https://en.wikipedia.org/wiki/United_Kingdom) [game development](https://en.wikipedia.org/wiki/Video_game_development) and publishing company, with headquarters in [Pinner](https://en.wikipedia.org/wiki/Pinner), near [London](https://en.wikipedia.org/wiki/London), incorporated in April 2003, founded by [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), [Dan Orme](index.php?title=Dan_Orme&action=edit&redlink=1 "Dan Orme (page does not exist)"), and [Kirstie Berry](index.php?title=Kirstie_Berry&action=edit&redlink=1 "Kirstie Berry (page does not exist)"). Most AI Factory titles, [AI](Artificial_Intelligence "Artificial Intelligence") [games](Games "Games") such as [board-](https://en.wikipedia.org/wiki/Board_game) and [card games](https://en.wikipedia.org/wiki/Card_game), [puzzles](https://en.wikipedia.org/wiki/Puzzle), and [life simulation games](https://en.wikipedia.org/wiki/Life_simulation_game) were entirely developed in-house <a id="cite-note-1" href="#cite-ref-1">[1]</a>, including instances where [3rd party](https://en.wikipedia.org/wiki/Third_party) developers have licensed the AI game technology <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Chess Programs](#chess-programs)
-- [3 People](#people)
-  - [3.1 Founders](#founders)
-  - [3.2 Selected Associates](#selected-associates)
-- [4 AI Factory Articles](#ai-factory-articles)
-  - [4.1 2005 ...](#2005-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Selected Games
 
 - [Amazons](Amazons "Amazons")

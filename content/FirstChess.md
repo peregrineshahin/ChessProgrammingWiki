@@ -8,17 +8,6 @@ title: FirstChess
 
 a very simple [open source chess program](Category:Open_Source "Category:Open Source") with a [command line interface](CLI "CLI") by [Pham Hong Nguyen](Pham_Hong_Nguyen "Pham Hong Nguyen"), written in [C](C "C") for didactic purpose, introduced in 2002 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Since FirstChess lacks [en passant](En_passant "En passant") and [castling](Castling "Castling"), there is implicit invitation to improve it.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board](#board)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 ## Board

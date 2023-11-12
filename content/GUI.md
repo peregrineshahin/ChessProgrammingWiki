@@ -8,42 +8,6 @@ title: GUI
 
 a user interface where [interaction](https://en.wikipedia.org/wiki/Interaction) between user and a (chess) program takes place. Opposed to the sequential nature of a pure text based [command-line interface](CLI "CLI"), where a program prints its output and prompts for input, a [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) allows a more sophisticated, graphical presentation of the programs output, as well within its [event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) a more flexible user interaction not only by typing text commands, but using a [pointingdevice](https://en.wikipedia.org/wiki/Pointing_device), a [mouse](https://en.wikipedia.org/wiki/Mouse_%28computing%29) or a pen or finger pointing on and touching a [graphics tablet](https://en.wikipedia.org/wiki/Graphics_tablet) with its [touchscreen](https://en.wikipedia.org/wiki/Touchscreen), for random and [direct manipulation](https://en.wikipedia.org/wiki/Direct_manipulation) of graphical elements. A GUI dedicated to play chess typically has a graphical [board](Chessboard "Chessboard") and [game](Chess_Game "Chess Game") representation, where the user may [enter moves](Entering_Moves "Entering Moves") by [clicking](https://en.wikipedia.org/wiki/Point-and-click) and [dragging](https://en.wikipedia.org/wiki/Drag-and-drop) a piece, quite similar to moving a piece on a "real" chess board.
 
-## Contents
-
-- [1 Historical Chess GUI](#Historical_Chess_GUI)
-- [2 Playing Chess](#Playing_Chess)
-- [3 MVC](#MVC)
-- [4 Chess GUI Issues](#Chess_GUI_Issues)
-- [5 Front End](#Front_End)
-- [6 Chess GUIs](#Chess_GUIs)
-- [7 GUI Shots](#GUI_Shots)
-- [8 GUI Elements](#GUI_Elements)
-  - [8.1 Main Window](#Main_Window)
-  - [8.2 Dialog Windows](#Dialog_Windows)
-- [9 Chess GUI Elements](#Chess_GUI_Elements)
-  - [9.1 Game Window](#Game_Window)
-  - [9.2 Board Window](#Board_Window)
-  - [9.3 Notation Window](#Notation_Window)
-  - [9.4 Information Windows](#Information_Windows)
-- [10 Mobile GUIs](#Mobile_GUIs)
-- [11 Operating Systems](#Operating_Systems)
-- [12 Quotes](#Quotes)
-- [13 See also](#See_also)
-- [14 Publications](#Publications)
-- [15 Forum Posts](#Forum_Posts)
-  - [15.1 2000 ...](#2000_...)
-  - [15.2 2005 ...](#2005_...)
-  - [15.3 2010 ...](#2010_...)
-  - [15.4 2015 ...](#2015_...)
-  - [15.5 2020 ...](#2020_...)
-- [16 External Links](#External_Links)
-  - [16.1 General](#General)
-  - [16.2 Computer Chess](#Computer_Chess)
-  - [16.3 Web Development](#Web_Development)
-  - [16.4 Tutorial](#Tutorial)
-  - [16.5 Toolkits, Libraries and API](#Toolkits.2C_Libraries_and_API)
-- [17 References](#References)
-
 ## Historical Chess GUI
 
 [](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/)

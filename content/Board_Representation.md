@@ -8,22 +8,6 @@ A chess program needs an internal **board representation** to maintain [chess po
 
 To begin with, we further elaborate on the pure data structures to represent the board and its piece-placement. There are piece centric and square centric representations as well as hybrid solutions.
 
-## Contents
-
-- [1 Piece Centric](#piece-centric)
-- [2 Square Centric](#square-centric)
-- [3 Hybrid Solutions](#hybrid-solutions)
-- [4 Move Generation](#move-generation)
-- [5 Make and Unmake](#make-and-unmake)
-- [6 See Also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1999](#1999)
-  - [8.2 2000 ...](#2000-...)
-  - [8.3 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Piece Centric
 
 A **piece centric** representation keeps [lists](Linked_List "Linked List"), [arrays](Array "Array") or sets of all [pieces](Pieces "Pieces") still on the board - with the associated information which [square](Squares "Squares") they occupy. A popular piece centric representative is the set-wise [bitboard-approach](Bitboards "Bitboards"). One 64-bit word for each piece type, where one-bits associate their [occupancy](Occupancy "Occupancy").

@@ -8,15 +8,6 @@ title: David McAllester
 
 an American computer scientist, Professor and Chief Academic Officer at [Toyota Technological Institute at Chicago](https://en.wikipedia.org/wiki/Toyota_Technological_Institute_at_Chicago). He received his B.S., M.S., and Ph.D. degrees from the [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") in 1978, 1979, and 1987 respectively. His research interests covers [machine learning](Learning "Learning") theory, the theory of [programming languages](Languages "Languages"), [automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning), [AI](Artificial_Intelligence "Artificial Intelligence") [planning](Planning "Planning"), [computer game](Games "Games") playing, and [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). In 1988, McAllester proposed the [best-first search](Best-First "Best-First") algorithm [Conspiracy Number Search](Conspiracy_Number_Search "Conspiracy Number Search"), and in 1993 along with [Deniz Yuret](Deniz_Yuret "Deniz Yuret"), the [depth-first](Depth-First "Depth-First") [Alpha-Beta Conspiracy Search](index.php?title=Alpha-Beta_Conspiracy_Search&action=edit&redlink=1 "Alpha-Beta Conspiracy Search (page does not exist)"), republished in 2002 in the [ICGA Journal](ICGA_Journal#25_1 "ICGA Journal") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and mentioned by the [Deep Blue](Deep_Blue "Deep Blue") team <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1985 ...](#1985-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

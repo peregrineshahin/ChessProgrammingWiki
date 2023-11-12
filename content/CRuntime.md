@@ -8,48 +8,6 @@ title: CRuntime
 
 a pragmatical, general purpose, [block structured](https://en.wikipedia.org/wiki/Statement_block), [procedural](https://en.wikipedia.org/wiki/Procedural_programming), [imperative](https://en.wikipedia.org/wiki/Imperative_programming) [programming language](https://en.wikipedia.org/wiki/Programming_language). C was developed in **1972** by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) at the [Bell Laboratories](Bell_Laboratories "Bell Laboratories"). It was first intended as a [system](https://en.wikipedia.org/wiki/System_software) programming language for the [Unix](Unix "Unix") operating system, but has spread to many other platforms and application programming as well. C and its derivations are likely the most often used languages so far for computer chess programming.
 
-## Contents
-
-- [1 Revisions](#revisions)
-- [2 See also](#see-also)
-- [3 Data](#data)
-  - [3.1 Data Types](#data-types)
-    - [3.1.1 Basic Data Types](#basic-data-types)
-    - [3.1.2 Pointer](#pointer)
-    - [3.1.3 Array](#array)
-    - [3.1.4 Struct](#struct)
-    - [3.1.5 Bitfield](#bitfield)
-    - [3.1.6 Union](#union)
-  - [3.2 Variables](#variables)
-- [4 Instructions](#instructions)
-  - [4.1 Expressions](#expressions)
-  - [4.2 Functions](#functions)
-  - [4.3 Operators](#operators)
-  - [4.4 Control Flow](#control-flow)
-    - [4.4.1 Goto](#goto)
-    - [4.4.2 If else](#if-else)
-    - [4.4.3 Switch case](#switch-case)
-    - [4.4.4 Function Pointer](#function-pointer)
-    - [4.4.5 For](#for)
-    - [4.4.6 While](#while)
-    - [4.4.7 Do while](#do-while)
-- [5 Preprocessor](#preprocessor)
-- [6 Portabilty](#portabilty)
-- [7 Libraries](#libraries)
-- [8 C and C++ Compiler](#c-and-c.2b.2b-compiler)
-- [9 Publications](#publications)
-  - [9.1 1978 ...](#1978-...)
-  - [9.2 2010 ...](#2010-...)
-- [10 Forum Posts](#forum-posts)
-  - [10.1 1999](#1999)
-  - [10.2 2000 ...](#2000-...)
-  - [10.3 2005 ...](#2005-...)
-  - [10.4 2010 ...](#2010-...-2)
-  - [10.5 2015 ...](#2015-...)
-  - [10.6 2020 ...](#2020-...)
-- [11 External Links](#external-links)
-- [12 References](#references)
-
 ## Revisions
 
 Due to explicit [pointers](<https://en.wikipedia.org/wiki/Pointer_(computer_programming)>) (address of a variable or function), C might be considered as a high level assembly language, and has some weak spots in its initial design and implementation, which are addressed in

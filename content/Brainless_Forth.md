@@ -10,15 +10,6 @@ an [open source chess program](Category:Open_Source "Category:Open Source") by [
 Brainless is written in [ANS Forth](Forth "Forth") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and uses the Forth terminal via [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code) [color terminals](https://en.wikipedia.org/wiki/Computer_terminal#Graphical_terminals) and [Unicode](2D_Graphics_Board#Unicode "2D Graphics Board") chess piece glyphs for [quasi-graphical display](Graphics_Programming "Graphics Programming") to [interact with the user](User_Interface "User Interface").
 It features a [10x12 Board](10x12_Board "10x12 Board"), [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [futility pruning](Futility_Pruning "Futility Pruning") and [killer heuristic](Killer_Heuristic "Killer Heuristic").
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Namesake
 
 - [Brainless](Brainless "Brainless") by [Matthew Lai](Matthew_Lai "Matthew Lai"), [Wieland Belka](Wieland_Belka "Wieland Belka") and [Pawel Koziol](Pawel_Koziol "Pawel Koziol")

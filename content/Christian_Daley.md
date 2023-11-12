@@ -9,14 +9,6 @@ title: Christian Daley
 an American computer scientist and software engineer, M.Sc. in CS from [UC Santa Barbara](https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara) in 2019 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 He is author of the [UCI](UCI "UCI") compliant [open source chess engines](Category:Open_Source "Category:Open Source") [JFresh](JFresh "JFresh") and its successor [Spartan](Spartan "Spartan") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2013](#2013)
-  - [1.2 2014 ...](#2014-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2013

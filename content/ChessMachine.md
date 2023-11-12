@@ -8,13 +8,6 @@ title: ChessMachine
 
 a chess playing entity by [TASC](TASC "TASC"), extending an [IBM PC](IBM_PC "IBM PC") with a pluggable [ISA card](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) containing an [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) processor and [RAM](Memory#RAM "Memory") from 128 [KiB](https://en.wikipedia.org/wiki/Kibibyte) up to 1 [MiB](https://en.wikipedia.org/wiki/Mebibyte), to upload and run two bundled chess programs, either [Gideon](Gideon "Gideon") by [Ed Schöder](Ed_Schroder "Ed Schroder"), the World Microcomputer Chess Champion of the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") and as *Chessmachine WK* the World Computer Chess Champion of the [WCCC 1992](WCCC_1992 "WCCC 1992") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and [The King](The_King "The King") by [Johan de Koning](Johan_de_Koning "Johan de Koning"). The PC had its own control program, and a [GUI](GUI "GUI") to interact with the machine, both written by TASC developer [Marc Derksen](Marc_Derksen "Marc Derksen"). The ChessMachine was manufactured and sold between 1991 and 1995 as RISC successor of [The Final Chesscard](The_Final_Chesscard "The Final Chesscard").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Gideon](Gideon "Gideon")

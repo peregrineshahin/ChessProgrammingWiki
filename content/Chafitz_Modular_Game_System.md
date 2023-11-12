@@ -8,14 +8,6 @@ title: Chafitz Modular Game System
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") module system designed by [John Aker](John_Aker "John Aker") (electronics) and [Alan Mead](Alan_Mead "Alan Mead"), manufactured by [Applied Concepts](Applied_Concepts "Applied Concepts") and distributed by [Chafitz](Chafitz "Chafitz"), identical in construction with the akin [Great Game Machine](Great_Game_Machine "Great Game Machine") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The MGS had exchangeable modules with programs from multiple authors, [Sargon 2.5](Sargon "Sargon") by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), [Boris 2.5](Boris "Boris") based on Sargon 2.5 improved by John Aker and [Terry Fredrick](Terry_Fredrick "Terry Fredrick"), [Morphy](Morphy "Morphy") by John Aker, the opening module [Gruenfeld](Morphy#Gruenfeld "Morphy") by [Larry Atkin](Larry_Atkin "Larry Atkin"), [David Slate](David_Slate "David Slate") and [John Jacobs](index.php?title=John_Jacobs&action=edit&redlink=1 "John Jacobs (page does not exist)"), the endgame module [Capablanca](Morphy#Capablanca "Morphy") by Atkin and Slate, and the [Steinitz](Steinitz "Steinitz") module by Atkin, all [6502](6502 "6502") based. There were also other game modules available, such as [Checkers](Checkers "Checkers") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and the [Othello](Othello "Othello") program [Odin](Peter_W._Frey#Odin "Peter W. Frey") by [Peter W. Frey](Peter_W._Frey "Peter W. Frey") and Larry Atkin.
 
-## Contents
-
-- [1 Sargon at WMCCC 1980](#sargon-at-wmccc-1980)
-- [2 Modules and Manuals](#modules-and-manuals)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Sargon at WMCCC 1980
 
 The Chafitz Modular Game System with the Sargon 2.5 program incorporated, participated at the [First World Microcomputer Chess Championship](WMCCC_1980 "WMCCC 1980") 1980 in [London](https://en.wikipedia.org/wiki/London), competing with four other Sargon incarnations and finished 7th of 15 with 2½ out of 5 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, losing the last rounds from runner-up [Boris Experimental](Boris "Boris") and tournament winner [Chess Challenger](Chess_Challenger "Chess Challenger"), both with Spracklen programs as well.

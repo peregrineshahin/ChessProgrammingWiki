@@ -12,16 +12,6 @@ As programmer Hans is author of the [Connect Four](Connect_Four "Connect Four") 
 He has operated various programs, most notably [Nona](Nona "Nona"), [Rebel](Rebel "Rebel"), [ProDeo](ProDeo "ProDeo"), [Chess Tiger](Chess_Tiger "Chess Tiger"), [Rybka](Rybka "Rybka"), which he represented at various [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") and [International CSVN Tournaments](International_CSVN_Tournament "International CSVN Tournament"), [HIARCS](HIARCS "HIARCS") at the [WCCC 2011](WCCC_2011 "WCCC 2011") and the [WCSC 2011](WCSC_2011 "WCSC 2011"), and [Komodo](Komodo "Komodo") at [CSVN Programmers Tournaments](CSVN_Programmers_Tournament "CSVN Programmers Tournament").
 In October 2010, Hans van der Zijden superseded [Eric van Reem](Eric_van_Reem "Eric van Reem") as editor of [Computerschaak](Computerschaak "Computerschaak"), the organ of the [Dutch Computer Chess Federation (CSVN)](CSVN "CSVN").
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 1986](#1986)
-  - [1.2 2007](#2007)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 ## 1986

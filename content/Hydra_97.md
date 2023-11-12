@@ -8,16 +8,6 @@ title: Hydra 97
 
 a chess program by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") supported by co-developer and [book author](Category:Opening_Book_Author "Category:Opening Book Author") [Alex Kure](Alex_Kure "Alex Kure"), based on [Nimzo 3.5](Nimzo "Nimzo"). Hydra was written in [386](X86 "X86") [assembly](Assembly "Assembly"), running under [Windows](Windows "Windows"). Hydra 97 played the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris) with 7/11 for 4th to 8th place.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Quotes
 
 [Andreas Mader](Andreas_Mader "Andreas Mader") on Hydra <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

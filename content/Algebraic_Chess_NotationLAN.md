@@ -5,37 +5,6 @@ title: Algebraic Chess NotationLAN
 
 **Algebraic Chess Notation** is a chess notation to record and represent [moves](Moves "Moves") of a [human readable](https://en.wikipedia.org/wiki/Human-readable_medium) [game notation](Game_Notation "Game Notation"). It is based on a system developed by [Philipp Stamma](https://en.wikipedia.org/wiki/Philipp_Stamma) to notate the [target square](Target_Square "Target Square") by [algebraic coordinates](Squares#Algebraic "Squares"), and various forms to represent the [origin square](Origin_Square "Origin Square") of the move, either by language dependent [piece initials](https://en.wikipedia.org/wiki/Algebraic_chess_notation#Naming_the_pieces_in_various_languages) and/or [file](Files "Files"), [rank-](Ranks "Ranks") or [square](Squares "Squares") notation of the from- or origin square. [Promotions](Promotions "Promotions") must be disambiguated by including the promoted piece type, and [castling](Castling "Castling") usually has their own symbol strings ('O-O', 'O-O-O'). Some format variations also specify a [captured](Captures "Captures") piece, if any, for the purpose to make the notation reversible, and to go backward as easy as forward while re-playing a game.
 
-## Contents
-
-- [1 Sequence of Moves](#sequence-of-moves)
-- [2 Pure coordinate notation](#pure-coordinate-notation)
-  - [2.1 XBoard](#xboard)
-  - [2.2 UCI](#uci)
-  - [2.3 Output Samples](#output-samples)
-  - [2.4 ICCF numeric notation](#iccf-numeric-notation)
-- [3 Smith Notation](#smith-notation)
-- [4 Long Algebraic Notation (LAN)](#long-algebraic-notation-.28lan.29)
-- [5 Standard Algebraic Notation (SAN)](#standard-algebraic-notation-.28san.29)
-  - [5.1 Ambiguities](#ambiguities)
-  - [5.2 Captures](#captures)
-  - [5.3 En passant](#en-passant)
-  - [5.4 Pawn promotion](#pawn-promotion)
-  - [5.5 Castling](#castling)
-  - [5.6 Converting Moves](#converting-moves)
-  - [5.7 XBoard 2](#xboard-2)
-- [6 Figurine Algebraic Notation (FAN)](#figurine-algebraic-notation-.28fan.29)
-  - [6.1 Vector Graphics](#vector-graphics)
-  - [6.2 LaTeX](#latex)
-- [7 Reading Chess](#reading-chess)
-- [8 See also](#see-also)
-- [9 Publications](#publications)
-- [10 Forum Posts](#forum-posts)
-  - [10.1 2000 ...](#2000-...)
-  - [10.2 2010 ...](#2010-...)
-  - [10.3 2020 ...](#2020-...)
-- [11 External Links](#external-links)
-- [12 References](#references)
-
 ## Sequence of Moves
 
 Chess programs need to convert the [list](Move_List "Move List") of [encoded moves](Encoding_Moves "Encoding Moves") into a sequence of printable strings, or to render them inside a [notation window](GUI#NotationWindow "GUI"). The move number of the game, starting by '1.' from the [initial position](Initial_Position "Initial Position"), is prefix of the white halfmove, followed by a the black reply, often in a second column of a grid view. If a move notation starts with Black, also after embedded comments or annotations, a trailing [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) is used instead of a single dot.

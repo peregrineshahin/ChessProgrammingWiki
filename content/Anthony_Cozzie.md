@@ -8,16 +8,6 @@ title: Anthony Cozzie
 
 an American computer scientist with a Ph.D. from [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign") on the topic of *Detecting and Combining Programming Patterns* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, creative thinker, intuitive programmer, [cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitan) world traveler, [erudite](https://en.wikipedia.org/wiki/Erudition) [conversationalist](https://en.wikipedia.org/wiki/Conversation), modest, all-around good guy <a id="cite-note-3" href="#cite-ref-3">[3]</a>. As retired computer chess programmer <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, Anthony is author of the world class chess program [Zappa](Zappa "Zappa") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, the winner of the [WCCC 2005](WCCC_2005 "WCCC 2005") in [Reykjavík](https://en.wikipedia.org/wiki/Reykjav%C3%ADk), and after the [Rybka](Rybka "Rybka") [disqualification](World_Computer_Chess_Championship#RybkaDisqualification "World Computer Chess Championship") in 2011, the [WCCC 2007](WCCC_2007 "WCCC 2007") in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam).
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 Reykjavík 2005](#reykjav.c3.adk-2005)
-  - [1.2 Mexico-City 2007](#mexico-city-2007)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos & Games
 
 ## Reykjavík 2005

@@ -7,19 +7,6 @@ title: Ferranti Mark 1
 
 the world's first commercially available general-purpose electronic computer, produced by [Ferranti](https://en.wikipedia.org/wiki/Ferranti) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The first machine was delivered to the [University of Manchester](University_of_Manchester "University of Manchester") in February 1951 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Ferranti Mark 1 was a tidied up and commercialized version of the [Manchester Mark 1](https://en.wikipedia.org/wiki/Manchester_Mark_1) developed in 1948-1949 at the University of Manchester, which was a further development of the [Manchester Small-Scale Experimental Machine](https://en.wikipedia.org/wiki/Manchester_Small-Scale_Experimental_Machine) (SSEM, nicked Baby) by [Frederic C. Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams), [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) and Geoff Tootill <a id="cite-note-3" href="#cite-ref-3">[3]</a>. During the 1940s, [Alan Turing](Alan_Turing "Alan Turing") and others such as [Konrad Zuse](Konrad_Zuse "Konrad Zuse") developed the idea of using the computer's own [memory](Memory "Memory") to hold both the [program](index.php?title=Program&action=edit&redlink=1 "Program (page does not exist)") and [data](Data "Data"). It was [John von Neumann](John_von_Neumann "John von Neumann") who became widely credited with defining that [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer) architecture, on which the Mark 1 was based <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Memory](#memory)
-- [2 Instructions](#instructions)
-- [3 Console](#console)
-- [4 Checkers](#checkers)
-- [5 Chess](#chess)
-- [6 Quotes](#quotes)
-- [7 See also](#see-also)
-- [8 Selected Publications](#selected-publications)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Memory
 
 The Mark 1 used a 20-[bit](Bit "Bit") word stored as a single line of dots on a [Williams-Kilburn tube](https://en.wikipedia.org/wiki/Williams_tube), each tube storing 64 lines. Instructions were stored in a single word, while numbers were stored in two words (40 bits). The [main memory](Memory "Memory") had eight tubes, each storing one page of 64 words. Other tubes stored the single 80-bit accumulator (A), the 40-bit multiplicand/quotient register (MQ) and eight B-lines, or index registers, used to modify instructions. An extra 20-bit word per tube stored an offset value into the secondary storage, a 512-page [magnetic drum](https://en.wikipedia.org/wiki/Magnetic_drum).

@@ -8,15 +8,6 @@ title: Gambit Fruit
 
 a [GPL](Free_Software_Foundation#GPL "Free Software Foundation") licensed, [Fruit](Fruit "Fruit") and [Toga](Toga "Toga") derivative [open source engine](Category:Open_Source "Category:Open Source") written by [Ryan Benitez](Ryan_Benitez "Ryan Benitez") in [C++](Cpp "Cpp"). It has some interesting changes primarily based on the last open-source-version Fruit **2.1**, the goal being a fun free and aggressive chess engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Short after its release in end of 2005, Ryan joined forces with [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") and [Joachim Rang](index.php?title=Joachim_Rang&action=edit&redlink=1 "Joachim Rang (page does not exist)") for a commercial Fruit, and incorporated Gambit Fruit features into Fruit 2.2 and subsequent versions.
 
-## Contents
-
-- [1 Added Features](#added-features)
-- [2 Acknowledgment](#acknowledgment)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Added Features
 
 and changes in Gambit Fruit:

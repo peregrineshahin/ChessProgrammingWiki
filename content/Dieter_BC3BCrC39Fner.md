@@ -12,16 +12,6 @@ a German IT-architect, chess programmer, chemist and former member of the *The S
 Dieter Bürßner started chess programming in the 80s, using [Atari ST](Atari_ST "Atari ST"), [PC](IBM_PC "IBM PC") and computers at the University, such as [VAX](VAX "VAX"), [MIPS](index.php?title=MIPS&action=edit&redlink=1 "MIPS (page does not exist)") and others <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 After some chess programming gaps, he started the development of his chess engine [Yace](Yace "Yace") in the early 90s.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2005 ...](#2005-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://chess.fsv.de/Pics/Paderborn2003/baderborn2003a.htm)

@@ -8,16 +8,6 @@ title: BremboCE
 
 a [WinBoard](WinBoard "WinBoard") compliant chess engine written by [Gianluca Cisana](Gianluca_Cisana "Gianluca Cisana"). BremboCE was initially written in [C](C "C"), and first released in February 2002, after Gianluca studied [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [TSCP](TSCP "TSCP") and learned how to program a chess engine. It had its not too bad tournament debut at [CIPS 2002](CIPS_2002 "CIPS 2002") with 3/6. The latest C-version was 0.4 from August 2002. The engine name is based upon the river [Brembo](https://en.wikipedia.org/wiki/Brembo_%28river%29) in the [Province of Bergamo](https://en.wikipedia.org/wiki/Province_of_Bergamo), situated near the author's home <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Java](#java)
-- [2 Photos and Games](#photos-and-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Java
 
 After a gap of seven years, in 2009, Gianluca continued the development porting BremboCE from C to [Java](Java "Java"),

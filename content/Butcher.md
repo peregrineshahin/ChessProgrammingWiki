@@ -8,17 +8,6 @@ title: Butcher
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine by [Marek Kołacz](Marek_Ko%C5%82acz "Marek Kołacz"), written in [C](C "C"), first released in September 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Executables are available for [Windows](Windows "Windows") and [Linux](Linux "Linux"), early versions ran under [DOS](MS-DOS "MS-DOS").
 
-## Contents
-
-- [1 Parallel Search](#parallel-search)
-- [2 Tournament Play](#tournament-play)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Parallel Search
 
 Since version 1.60, Butcher is able to perform a [parallel search](Parallel_Search "Parallel Search") under [Windows](Windows "Windows") using [processes](Process "Process") and a [shared hash table](Shared_Hash_Table "Shared Hash Table"). A master process spawns worker processes, which run independently without any supervision. The Master process prepares all the structures necessary to split the node and continues the search. Worker processes simply use existing "split nodes" to start their search and report the results. The master process is responsible to kill the workers upon exit <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

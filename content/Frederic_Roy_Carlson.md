@@ -7,13 +7,6 @@ title: Frederic Roy Carlson
 
 an American entrepreneur, [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engineering) and [educational](https://en.wikipedia.org/wiki/Educational_psychology) [psychologist](Category:Psychologist "Category:Psychologist") with a Ph.D. from [University of Southern California](University_of_Southern_California "University of Southern California") in 1970, where he continued his academical career until 1989 as a professor of electrical engineering, computer science, education, and communications <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 While affiliated with the [University of Southern California](University_of_Southern_California "University of Southern California") in the 70s, Carlson researched on computer chess, and was along with [Albert Zobrist](Albert_Zobrist "Albert Zobrist") and [Charles Kalme](Charles_Kalme "Charles Kalme") co-author of the chess programs [USC CP](USC_CP "USC CP") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Tyro](Tyro "Tyro"), participating at five [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1972](ACM_1972 "ACM 1972") and [ACM 1973](ACM_1973 "ACM 1973") with [USC CP](USC_CP "USC CP") and [ACM 1974](ACM_1974 "ACM 1974"), [ACM 1975](ACM_1975 "ACM 1975") and [ACM 1977](ACM_1977 "ACM 1977") with [Tyro](Tyro "Tyro") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

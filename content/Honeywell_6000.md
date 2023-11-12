@@ -10,21 +10,6 @@ a family of [36-bit](https://en.wikipedia.org/wiki/36-bit) [mainframe computers]
 
 Systems were constructed of three main kinds of interconnected units, [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit), system control units including [memory](Memory "Memory"), and [I/O](https://en.wikipedia.org/wiki/Input/output) [multiplexer](https://en.wikipedia.org/wiki/Multiplexer) (IOM) to connect [peripherals](https://en.wikipedia.org/wiki/Peripheral), [disk storage](https://en.wikipedia.org/wiki/Disk_storage) and [tape drives](https://en.wikipedia.org/wiki/Tape_drive).
 
-## Contents
-
-- [1 Selected Systems](#selected-systems)
-  - [1.1 GE-635/645](#ge-635.2f645)
-  - [1.2 Level 66/68](#level-66.2f68)
-  - [1.3 DPS 8](#dps-8)
-- [2 Chess Programs](#chess-programs)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Manuals](#manuals)
-- [6 Brochures](#brochures)
-- [7 Postings](#postings)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Selected Systems
 
 ## GE-635/645

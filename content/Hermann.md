@@ -11,19 +11,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Hermann uses [bitboards](Bitboards "Bitboards") as basic data structure, determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [fixed shift magic bitboards](Magic_Bitboards#FixedShiftFancy "Magic Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and applies [neural networks](Neural_Networks "Neural Networks") for [material evaluation](Material "Material") and [timing](Time_Management "Time Management") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In 2011, Volker Annuss confirmed his soft spot for his engine names associated with the legacy of [romantic](https://en.wikipedia.org/wiki/Romantic_nationalism) [German nationalism](https://en.wikipedia.org/wiki/German_nationalism) by calling Hermann's completely restructured successor with its [Latinised](https://en.wikipedia.org/wiki/Latinization) name [Arminius](Arminius "Arminius") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 In Germany, Arminius was rechristened *Hermann* (Heer Mann - army man) by [Martin Luther](https://en.wikipedia.org/wiki/Martin_Luther), and he became an emblem of the revival of German nationalism fueled by the [Napoleon wars](https://en.wikipedia.org/wiki/Napoleonic_Wars) in the 19th century <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2008 ...](#2008-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2020 ..](#2020-..)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Photos & Games
 
 [](http://old.csvn.nl/gallery24.html)

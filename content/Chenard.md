@@ -10,20 +10,6 @@ an [open source chess program](Category:Open_Source "Category:Open Source") by [
 The source code of the didactic program is well structured and documented, is in the [public domain](https://en.wikipedia.org/wiki/Public_domain) with attribution of author's name and web address required in distributed works <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 A [Windows](Windows "Windows") version comes with an own [GUI](GUI "GUI"), other versions for [Windows](Windows "Windows") and [Linux](Linux "Linux") support the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard") or [XBoard](XBoard "XBoard"), its own native [command line interface](CLI "CLI"), or [teletype](https://en.wikipedia.org/wiki/Teleprinter) chess.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-  - [1.3 EGDB](#egdb)
-- [2 Screen Shot](#screen-shot)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Chenard provides a [genetic algorithm](Genetic_Programming#GeneticAlgorithm "Genetic Programming") framework for evolving [move ordering](Move_Ordering "Move Ordering") and [evaluation](Evaluation "Evaluation") heuristics.

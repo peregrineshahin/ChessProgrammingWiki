@@ -3,13 +3,6 @@ title: Cartoons
 ---
 **[Home](Home "Home") * Cartoons**
 
-## Contents
-
-- [1 Ragsdale](#ragsdale)
-- [2 Diaz](#diaz)
-- [3 Misc](#misc)
-- [4 References](#references)
-
 ## Ragsdale
 
 Cartoons by **Jeff Ragsdale** covering participants and tournament director of the [ACM 1987](ACM_1987 "ACM 1987"), published in various issues of [ICCA Journal](ICGA_Journal "ICGA Journal") in 1987, 1988 and 1989 <a id="cite-note-1" href="#cite-ref-1">[1]</a> reprinted in *Kings Move - Welcome to the 1989 AGT World Computer Chess Championship* <a id="cite-note-2" href="#cite-ref-2">[2]</a>

@@ -9,14 +9,6 @@ an Australian computer scientist, software developer and engineer at [Amazon](<h
 He holds a Bachelor of Science (1997) and a Master of Information Technology (2005) from [The University of Queensland](https://en.wikipedia.org/wiki/University_of_Queensland), [Brisbane](https://en.wikipedia.org/wiki/Brisbane), [Queensland](https://en.wikipedia.org/wiki/Queensland), [Australia](https://en.wikipedia.org/wiki/Australia).
 Alejandro Dubrovsky is author of the [open source chess engine](Category:Open_Source "Category:Open Source") [Small Potato](Small_Potato "Small Potato") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2002](#2002)
-  - [1.2 2003 ...](#2003-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2002

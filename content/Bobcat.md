@@ -8,20 +8,6 @@ title: Bobcat
 
 an [open source chess engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), written in [C++](Cpp "Cpp") by [Gunnar Harms](Gunnar_Harms "Gunnar Harms"). The so far only concrete implementation of the [abstract](Cpp#AbstractClass "Cpp") [protocol](Protocols "Protocols") class supports [UCI](UCI "UCI"). The development started in the second half of 2008, and the program played on [FICS](index.php?title=Free_Internet_Chess_Server&action=edit&redlink=1 "Free Internet Chess Server (page does not exist)") under the handle 'Almere', the name of Gunnar's [home town](https://en.wikipedia.org/wiki/Almere) on the [Flevopolder](https://en.wikipedia.org/wiki/Flevopolder), two meters below [sea level](https://en.wikipedia.org/wiki/Sea_level) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Bobcat played the [CCT13](CCT13 "CCT13") with 4½/7 and the [WCRCC 2011](WCRCC_2011 "WCRCC 2011") with 6/10. Bobcat's [opening book](Opening_Book "Opening Book") is made by [Denis Mendoza](Denis_Mendoza "Denis Mendoza") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Bitboards](#bitboards)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 ## Bitboards

@@ -8,25 +8,6 @@ title: Andscacs
 
 an [UCI](UCI "UCI") compliant chess engine by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"). Its development started in September 2013, and the first release was published in February 2014 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Andscacs soon evolved to a top engine, becoming runner-up at the [IGWT III](IGWT_III "IGWT III") losing the final from [Chiron](Chiron "Chiron") with the narrowest margin of 4½ - 5½, but taking revenge one year later at the [IGWT IV](IGWT_IV "IGWT IV"), this time with 6½ - 5½ to its favour. At the [Tenth Annual ACCA World Computer Rapid Chess Championship 2016](WCRCC_2016 "WCRCC 2016"), Andscacs emphasized its ambitions, and became runner-up without losing a single game, but 12 wins and 3 draws, and thus the only program preventing later winner [Komodo](Komodo "Komodo") from a 100% score.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-  - [1.3 Tuning](#tuning)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2014](#2014)
-  - [2.2 2015](#2015)
-  - [2.3 2016](#2016)
-  - [2.4 2017](#2017)
-  - [2.5 2018](#2018)
-  - [2.6 2020](#2020)
-  - [2.7 2021](#2021)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Description
 
 Being a [bitboard](Bitboards "Bitboards") engine, Andscacs determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") ray-wise, quite similar to the [classical approach](Classical_Approach "Classical Approach") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Since version **0.70**, Andscacs uses [magic bitboards](Magic_Bitboards "Magic Bitboards") to speed the attack calculations <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

@@ -8,13 +8,6 @@ title: Chris McConnell
 an American computer scientist and [Microsoft](Microsoft "Microsoft") employee, alumnus from the [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University").
 At CMU as P.D. Student, Chris McConnell worked with [Berliner](Hans_Berliner "Hans Berliner") on the chess program [HiTech](HiTech "HiTech") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and was involved in researching the [B\*](B* "B*") probability based [search](Search "Search") and in [tuning](Automated_Tuning "Automated Tuning") [evaluation](Evaluation "Evaluation").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-- [4 What links here?](#what-links-here.3f)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

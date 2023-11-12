@@ -10,15 +10,6 @@ first released in July 2004 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 GES applies [PVS](Principal_Variation_Search "Principal Variation Search") with [aspiration](Aspiration_Windows "Aspiration Windows"), a [main transposition table](Transposition_Table "Transposition Table") and [pawn hash table](Pawn_Hash_Table "Pawn Hash Table") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [verified null move pruning](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning"),
 and a rudimentary [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"). GES' [extension](Extensions "Extensions") policy was to add one [ply](Ply "Ply") if any of the conditions met, which were [checks](Check_Extensions "Check Extensions"), [pawns to 2nd/7th rank](Passed_Pawn_Extensions "Passed Pawn Extensions"), [mate threats](Mate_Threat_Extensions "Mate Threat Extensions"), [single replies](One_Reply_Extensions "One Reply Extensions"), and [recaptures](Recapture_Extensions "Recapture Extensions"), and later tried aggregated but [fractional extensions](Extensions#FractionalExtensions "Extensions") without obvious progress <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2004](#2004)
-  - [2.2 2005](#2005)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Xpdnt](Xpdnt "Xpdnt")

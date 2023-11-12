@@ -7,14 +7,6 @@ title: David Blackman
 
 an Australian chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, software developer, and as computer chess programmer author of the chess program [Desperado](Desperado "Desperado"), which has been under development since 1989, and played in most of the [NC3 tournaments](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), and all the [ANU Carbon-Silicon Tournaments](ANU_Carbon-Silicon_Tournaments "ANU Carbon-Silicon Tournaments") before..
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1995...](#1995...)
-  - [1.2 2000 ....](#2000-....)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1995...

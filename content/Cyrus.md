@@ -8,18 +8,6 @@ title: Cyrus
 
 [Richard Lang's](Richard_Lang "Richard Lang") first chess program, written in [Assembly](Assembly "Assembly") for a [Z80](Z80 "Z80") CPU. Starting programming in January 1981, his tournament debut at the [2nd European Microcomputer Chess Championship](European_MCC_1981 "European MCC 1981") at the [PCW](Personal_Computer_World "Personal Computer World") Show 1981 in London was already a breakthrough. Cyrus was the clear winner with 5 out of 5 in a field of 12 Micros. Cyrus ran on a [Nascom](https://en.wikipedia.org/wiki/Nascom) microcomputer using a 4 MHz Z80 CPU, and Lang immediately was offered two contracts by [David Levy](David_Levy "David Levy") and [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell"), one for Cyrus, and one to work as programmer for [Intelligent Software](Intelligent_Software "Intelligent Software"). Lang accepted, and *Cyrus IS-Chess* for the [Sinclair ZX Spectrum](ZX_Spectrum "ZX Spectrum") was his first commercial entry, followed by programs for various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") merchandised by *Intelligent Software*, as well a further improved version of Cyrus, Cyrus II. In an 2003 interview, Richard Lang stated that there is still much of Cyrus in current versions of [Chess Genius](Chess_Genius "Chess Genius"). For example, he had never used [quiescence searches](Quiescence_Search "Quiescence Search") and relied instead on a [static swap off routine](Static_Exchange_Evaluation "Static Exchange Evaluation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 ACM 1981 Blitz](#acm-1981-blitz)
-- [2 Intelligent Software](#intelligent-software)
-- [3 Cyrus II](#cyrus-ii)
-- [4 Cyrus 68K](#cyrus-68k)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## ACM 1981 Blitz
 
 An improved version of Cyrus appeared at the [ACM Speed Chess Tournament 1981](ACM_1981 "ACM 1981"), running on an [Osborne](https://en.wikipedia.org/wiki/Osborne_Computer_Corporation) Z80 microcomputer and matched against mainframe programs, beating [Cray Blitz](Cray_Blitz "Cray Blitz") and [Chess 4.5](</Chess_(Program)> "Chess (Program)"), and only losing to [Belle](Belle "Belle") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

@@ -5,15 +5,6 @@ title: Depth Reduction R
 
 **R** is a common name for a constant or variable signifying [depth](Depth "Depth") reduction used in the [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, [Null Move Reductions](Null_Move_Reductions "Null Move Reductions") and independently in [Multi-Cut](Multi-Cut "Multi-Cut") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In many null move implementations it is either 2 or 3, the exact formula being depth - R - 1.
 
-## Contents
-
-- [1 Variable Reduction](#variable-reduction)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1997 ...](#1997-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 References](#references)
-
 ## Variable Reduction
 
 When **R** becomes a variable, then we say that a program uses [adaptive null move pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning"), first described by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, using R=3 when normal search depth exceeds 6 plies and R=2 otherwise, while more recently most engines account increased search depth with greater reductions <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

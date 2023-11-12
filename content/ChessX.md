@@ -13,16 +13,6 @@ Initially, ChessX has started as a continuation of [SCID](SCID "SCID"), but afte
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Initially developed by [Michal Rudolf](Michal_Rudolf "Michal Rudolf"), current developers and maintainers include [James Coons](index.php?title=James_Coons&action=edit&redlink=1 "James Coons (page does not exist)") and [Jens Nissen](index.php?title=Jens_Nissen&action=edit&redlink=1 "Jens Nissen (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 GUI](#gui)
-- [2 Database](#database)
-- [3 Features](#features)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## GUI
 
 The ChessX [GUI](GUI "GUI") implements a [tabbed document interface](https://en.wikipedia.org/wiki/Tab_%28GUI%29), the frame-window with caption, [menu](https://en.wikipedia.org/wiki/Menu_bar)- and [toolbars](https://en.wikipedia.org/wiki/Toolbar), and [status bar](https://en.wikipedia.org/wiki/Status_bar) at the bottom. A document window represents a game, and consists of a [board window](GUI#BoardWindow "GUI") with configurable [notation pane](GUI#NotationWindow "GUI"), game list of the current database, [opening](Opening_Book "Opening Book") tree and [ECO](ECO "ECO") panes, up to two analyze panes, and a database list window.

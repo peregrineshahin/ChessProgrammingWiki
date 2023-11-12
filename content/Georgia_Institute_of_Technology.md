@@ -8,13 +8,6 @@ title: Georgia Institute of Technology
 
 is a [public](https://en.wikipedia.org/wiki/Public_university) [research university](https://en.wikipedia.org/wiki/Research_university) and [institute of technology](https://en.wikipedia.org/wiki/Institute_of_technology) in [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Georgia](https://en.wikipedia.org/wiki/Georgia_%28U.S._state%29), [United States](https://en.wikipedia.org/wiki/United_States).
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Lawrence Futrell](Lawrence_Futrell "Lawrence Futrell")

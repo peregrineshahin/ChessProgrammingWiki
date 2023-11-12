@@ -15,13 +15,6 @@ Giancarlo came back <a id="cite-note-4" href="#cite-ref-4">[4]</a> as co-author 
 which competed at the [WCCC 2009](WCCC_2009 "WCCC 2009") in Pamplona. Equinox has won the [IOCSC 2011](IOCSC_2011 "IOCSC 2011") beating [Chiron](Chiron "Chiron") - [last years edition](IOCSC_2010 "IOCSC 2010") winner - at the end of an intense play-off match.
 At the [IOCSC 2012](IOCSC_2012 "IOCSC 2012"), Equinox competed as "free" engine <a id="cite-note-6" href="#cite-ref-6">[6]</a> and became runner up behind [Vitruvius](Vitruvius "Vitruvius"). Giancarlo Delli Colli died in June 2017 after battling two years against [pancreatic cancer](https://en.wikipedia.org/wiki/Pancreatic_cancer) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.facebook.com/photo.php?fbid=410803932329857&set=pb.356448134432104.-2207520000.1364194825&type=3&theater)

@@ -6,18 +6,6 @@ title: Chess Champion MK I
 [](http://www.xs4all.nl/%7Etluif/chescom/EngNovCCM1.html) Chess Champion MK I <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Chess Champion MK I** was [Novag's](Novag "Novag") first [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") released in September 1978. It had a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-Bit processor running at 1.78 MHz, with 2 KiB [ROM](Memory#ROM "Memory") and 256 byte [RAM](Memory#RAM "Memory").
 
-## Contents
-
-- [1 A Clone](#a-clone)
-- [2 Karpov Challenge](#karpov-challenge)
-- [3 Legal Actions](#legal-actions)
-  - [3.1 Data Cash Systems vs JS&A](#data-cash-systems-vs-js.26a)
-  - [3.2 Karpov's Endorsement](#karpov.27s-endorsement)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## A Clone
 
 The program was a [clone](Category:Clone "Category:Clone") of the *Data Cash Systems Inc.* [CompuChess](CompuChess "CompuChess") program, which was developed by [David B. Goodrich](index.php?title=David_B._Goodrich&action=edit&redlink=1 "David B. Goodrich (page does not exist)") & Associates <a id="cite-note-2" href="#cite-ref-2">[2]</a> , while other sources assume [David Levy](David_Levy "David Levy") was involved in the development <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

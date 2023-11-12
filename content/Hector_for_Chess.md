@@ -11,18 +11,6 @@ a [general game playing](General_Game_Playing "General Game Playing") [search](S
 Hector for Chess played the [WCCC 2010](WCCC_2010 "WCCC 2010") and [WCSC 2010](WCSC_2010 "WCSC 2010") [ICGA](ICGA "ICGA") [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship") and [World Chess Software Championship](World_Chess_Software_Championship "World Chess Software Championship") in [Kanazawa](https://en.wikipedia.org/wiki/Kanazawa,_Ishikawa) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, four [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), the [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), [WCRCC 2009](WCRCC_2009 "WCRCC 2009"), and [WCRCC 2010](WCRCC_2010 "WCRCC 2010"), the [CCT11](CCT11 "CCT11"), and the [MASPV 2007](MASPV_2007 "MASPV 2007") and [MASPV 2008](MASPV_2008 "MASPV 2008") [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open").
 Its predecessor under the name Hector was written in [Delphi](Delphi "Delphi"), and competed at the [MASPV 2001](MASPV_2001 "MASPV 2001") and [MASPV 2002](MASPV_2002 "MASPV 2002") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, where it had tough fights versus the [Pandora](Pandora#HectorPandora "Pandora").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 Telepath](#telepath)
-  - [1.2 Fridolin](#fridolin)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 ## Telepath

@@ -5,17 +5,6 @@ title: Go Programming Language
 
 **Go** is a [C](C "C") like [concurrent programming language](https://en.wikipedia.org/wiki/Concurrent_programming_language#Concurrent_programming_languages) by [Google Inc.](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)"). Go uses [Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_%28computer_science%29) for [dynamic allocated](https://en.wikipedia.org/wiki/Dynamic_memory_allocation) [memory](Memory "Memory"), and was designed in 2007 by [Robert Griesemer](https://research.google.com/pubs/author96.html), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), and [Ken Thompson](Ken_Thompson "Ken Thompson"). Go has built-in facilities, as well as library support, for writing [concurrent programs](https://en.wikipedia.org/wiki/Concurrent_computing), such as **goroutines**, a type of [light-weight process](https://en.wikipedia.org/wiki/Light-weight_process) <a id="cite-note-1" href="#cite-ref-1">[1]</a> and [channels](<https://en.wikipedia.org/wiki/Channel_(programming)>) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 golang](#golang)
-  - [4.2 Repositories](#repositories)
-  - [4.3 Tutorials](#tutorials)
-- [5 References](#references)
-
 ## Chess Programs
 
 - [Category: Chess Engines](Category:Go_Proglanguage "Category:Go Proglanguage")

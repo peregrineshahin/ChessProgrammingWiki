@@ -9,14 +9,6 @@ title: Advances in Computer Games 17
 
 November 23-25, [2021](Timeline#2021 "Timeline"), held online. ACG is the conference of the [ICGA](ICGA "ICGA").
 
-## Contents
-
-- [1 Keynote Speakers](#keynote-speakers)
-- [2 Accepted Papers](#accepted-papers)
-- [3 External Links](#external-links)
-- [4 Forum Posts](#forum-posts)
-- [5 References](#references)
-
 ## Keynote Speakers
 
 - [David Silver](David_Silver "David Silver")

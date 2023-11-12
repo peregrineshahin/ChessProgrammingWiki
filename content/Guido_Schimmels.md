@@ -9,14 +9,6 @@ a German software developer contributing to [FSF GNU](Free_Software_Foundation "
 He further is contributor of the [Ultimate++](https://en.wikipedia.org/wiki/Ultimate%2B%2B) framework <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 In the late 90s and early 2000s, Guido Schimmels was engaged in computer chess programming, and made a couple of posts in [CCC](CCC "CCC").
 
-## Contents
-
-- [1 PVS vs. NegaScout](#pvs-vs.-negascout)
-  - [1.1 PVS](#pvs)
-  - [1.2 NegaScout](#negascout)
-- [2 Forum Posts](#forum-posts)
-- [3 References](#references)
-
 ## PVS vs. NegaScout
 
 Guido Schimmels in a [CCC](CCC "CCC") post on the difference of [PVS](Principal_Variation_Search "Principal Variation Search") vs. [NegaScout](NegaScout "NegaScout") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

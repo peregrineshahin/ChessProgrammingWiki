@@ -11,16 +11,6 @@ His research covers the fields of [machine learning](Learning "Learning"), [auto
 He defended his M.Sc. degree on stochastic [local search](<https://en.wikipedia.org/wiki/Local_search_(optimization)>) at [Darmstadt University of Technology](Darmstadt_University_of_Technology "Darmstadt University of Technology") in 2004 under [Thomas Stützle](Mathematician#TStuetzle "Mathematician") and [Holger H. Hoos](Mathematician#HHHoos "Mathematician"),
 and his Ph.D. on *Automating the Configuration of Algorithms for Solving Hard Computational Problems* at [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia) in 2009 under Holger H. Hoos, [Kevin Leyton-Brown](Mathematician#LeytonBrown "Mathematician") and [Kevin P. Murphy](Mathematician#KPMurphy "Mathematician").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2002 ...](#2002-...)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

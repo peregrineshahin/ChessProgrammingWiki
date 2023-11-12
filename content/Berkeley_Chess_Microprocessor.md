@@ -10,14 +10,6 @@ a chess microprocessor developed by [James Testa](James_Testa "James Testa") and
 
 The BCM was a 200,000 [transistor](https://en.wikipedia.org/wiki/Transistor) [VLSI chip](VLSI_Design "VLSI Design"), 1.2 [micron](https://en.wikipedia.org/wiki/Micrometre) [CMOS](https://en.wikipedia.org/wiki/CMOS) [die](https://en.wikipedia.org/wiki/Die_%28integrated_circuit%29), 11 mm by 9 mm in area, able to [generate](Move_Generation "Move Generation") three million [legal moves](Legal_Move "Legal Move") per second. The chip incorporates a move generator, a basic [positional evaluator](Evaluation "Evaluation") and [search](Search "Search") control, can detect [pins](Pin "Pin") and [X-ray attacks](</X-ray_Attacks_(Bitboards)> "X-ray Attacks (Bitboards)"), and has an [ALU](Combinatorial_Logic#ALU "Combinatorial Logic") for each [square](Squares "Squares") to sum the values of attacking pieces to perform a kind of parallel [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") for [move ordering](Move_Ordering "Move Ordering") and [evaluation](Evaluation "Evaluation") purposes such as [mobility](Mobility "Mobility") and [square control](Square_Control "Square Control").
 
-## Contents
-
-- [1 Move Generation](#move-generation)
-- [2 Zerker](#zerker)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 References](#references)
-
 ## Move Generation
 
 While the [move generation](Move_Generation "Move Generation") design is similar to [Belle's](Belle "Belle"), legal move generation in hardware was already designed by Alvin Despain in the 70s, as described by [Ozalp Babaoglu](Ozalp_Babaoglu "Ozalp Babaoglu") in his 1977 thesis <a id="cite-note-5" href="#cite-ref-5">[5]</a> , but as noted by [Joe Condon](Joe_Condon "Joe Condon") and [Ken Thompson](Ken_Thompson "Ken Thompson"), never obtained funding for full construction <a id="cite-note-6" href="#cite-ref-6">[6]</a> . Both, attackers and victims, emit signals in all directions simultaneously so that it is a matter of [combinatorial logic](Combinatorial_Logic "Combinatorial Logic") in the square receivers to detect pins. [Find victim](Belle#FindVictim "Belle") and [find attacker](Belle#FindAggressor "Belle") cycles use programmable priority arbiters for [move ordering](Move_Ordering "Move Ordering") during full width as well as [quiescence search](Quiescence_Search "Quiescence Search"). A 25–level ply [stack](Stack "Stack") to enable or disable [origin-](Origin_Square "Origin Square") and [target squares](Target_Square "Target Square") keeps track of the move generation stage, and controls which move is generated next. This is how the bookkeeping works in sequential [C](C "C") like pseudo code with [Bitboards](Bitboards "Bitboards") (omitting legal move logic):

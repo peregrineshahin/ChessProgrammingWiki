@@ -8,16 +8,6 @@ title: Eric Postma
 
 a Dutch computer scientist and associate professor at *Tilburg Centre for Creative Computing* (TiCC) of [Tilburg University](Tilburg_University "Tilburg University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He holds a Ph.D. degree from [Maastricht University](Maastricht_University "Maastricht University") under [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") in 1994, and as a professor followed him in 2008 to Tilburg to establish TiCC <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His research interests include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [knowledge representation](Knowledge "Knowledge"), [neural networks](Neural_Networks "Neural Networks"), [cognition](Cognition "Cognition") and [visual perception](https://en.wikipedia.org/wiki/Visual_perception).
 
-## Contents
-
-- [1 Neural MoveMap](#neural-movemap)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1994 ...](#1994-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Neural MoveMap
 
 Along with [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Eric Postma worked on using [neural networks](Neural_Networks "Neural Networks") in computer chess to improve [move ordering](Move_Ordering "Move Ordering") in [alpha-beta](Alpha-Beta "Alpha-Beta"), the

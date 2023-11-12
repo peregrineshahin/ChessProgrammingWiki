@@ -9,15 +9,6 @@ title: Erin Dame
 an American chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and software and web developer affiliated with the Research Computing Center, [University of New Hampshire](https://en.wikipedia.org/wiki/University_of_New_Hampshire), where he already received his BSc. degree in computer science in 1996.
 Combining his professional and avocational interests, he is working on his own chess engine dubbed [RookieMonster](index.php?title=RookieMonster&action=edit&redlink=1 "RookieMonster (page does not exist)") since May 2016 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2016](#2016)
-  - [1.2 2017](#2017)
-  - [1.3 2018 ...](#2018-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2016

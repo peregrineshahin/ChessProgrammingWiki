@@ -9,21 +9,6 @@ title: Amyan
 a chess engine written by [Antonio Dieguez](Antonio_Dieguez "Antonio Dieguez") running under [Windows](Windows "Windows"), compliant to the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard"), and the [Universal Chess Interface](UCI "UCI") (UCI).
 Amyan was first released in 2000, the still available Amyan 1.522 Version released in 2002 comes with an own [GUI](GUI "GUI"). The program is written in [C++](Cpp "Cpp"), a ported [Java](Java "Java") [applet](https://en.wikipedia.org/wiki/Java_applet) is able to run in a [Web browser](https://en.wikipedia.org/wiki/Web_browser) using a [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Description](#description)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2000 ...](#2000-...)
-  - [5.2 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Tournament Play
 
 Amyan played the [CCT4](CCT4 "CCT4"), [CCT5](CCT5 "CCT5") and [CCT6](CCT6 "CCT6") [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), and became the **First Annual** [ACCA Americas' Computer Chess Champion](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship") at [ACCA 2006](ACCA_2006 "ACCA 2006"), to further play the [ACCA 2009](ACCA_2009 "ACCA 2009"). At the [4th Chess Computer Cup 2008](CCC_2009 "CCC 2009") in [Carugate](https://en.wikipedia.org/wiki/Carugate), [Italy](https://en.wikipedia.org/wiki/Italy), Amyan was tied with winner [DanaSah](DanaSah "DanaSah"), both with 5/6 and also equal [sum of opponent scores](https://en.wikipedia.org/wiki/Buchholz_system), but Amyan played the draw versus [Chiron](Chiron "Chiron") in round 2, DanaSah in round 5 gaining higher [cumulative score](https://en.wikipedia.org/wiki/Tie-breaking_in_Swiss-system_tournaments#Cumulative).

@@ -7,26 +7,6 @@ title: Chunking
 
 a term in [cognitive science](Cognition "Cognition") where individual units of information are structured into larger meaningful units to improve memory performance. The concept of chunking was first put forward in 1956 by psychologist [George A. Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller) in [The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), where he researched how many numbers we can reliably remember a few minutes after we've been told them only once.
 
-## Contents
-
-- [1 Chunking in Chess](#Chunking_in_Chess)
-- [2 Chunking Hypothesis](#Chunking_Hypothesis)
-- [3 Chess Patterns](#Chess_Patterns)
-- [4 See also](#See_also)
-- [5 Publications](#Publications)
-  - [5.1 1920 ...](#1920_...)
-  - [5.2 1940 ...](#1940_...)
-  - [5.3 1950 ...](#1950_...)
-  - [5.4 1960 ...](#1960_...)
-  - [5.5 1970 ...](#1970_...)
-  - [5.6 1980 ...](#1980_...)
-  - [5.7 1990 ...](#1990_...)
-  - [5.8 2000 ...](#2000_...)
-  - [5.9 2010 ...](#2010_...)
-  - [5.10 2020 ...](#2020_...)
-- [6 External Links](#External_Links)
-- [7 References](#References)
-
 ## Chunking in Chess
 
 In chess and computer chess, chunking is about to [recognize relevant patterns](Pattern_Recognition "Pattern Recognition") of a [chess position](Chess_Position "Chess Position"). A chunk is a group of [pieces](Pieces "Pieces"), in some sense a [semantic](https://en.wikipedia.org/wiki/Semantics) unit, a meaningful pattern that is recognized at a glance by a chess master. Reasoning about a position in terms of such chunks as atomic units, instead of individual pieces, reduces the complexity of a position from, say, 30 units to about 7 units, assuming that each chunk consists of 4 or 5 pieces. Pieces within a single chunk are closely related in terms of attack- and defense properties of the pieces as well as common color, type and proximity.

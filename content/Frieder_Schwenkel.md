@@ -8,15 +8,6 @@ title: Frieder Schwenkel
 
 was a German mathematician, computer scientist, and professor at [University of Hamburg](University_of_Hamburg "University of Hamburg"). He received his Ph.D. in 1966 on the [semantic theory](https://en.wikipedia.org/wiki/Semantics) in [programming languages](Languages "Languages") at [University of Tübingen](https://en.wikipedia.org/wiki/University_of_T%C3%BCbingen) where his advisors were [Karl Longin Zeller](Mathematician#KLZeller "Mathematician") and [Hellmuth Kneser](Mathematician#HKneser "Mathematician") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Already during the early 60s in Tübingen, along with his fellow [Gerd Veenker](Gerd_Veenker "Gerd Veenker"), Frieder Schwenkel developed a particular interest in non-numeric computation such as game playing and [theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. He was a strong chess player and early computer chess expert and promoter <a id="cite-note-6" href="#cite-ref-6">[6]</a>. During the late 70s, he motivated his students [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Manfred Allers](index.php?title=Manfred_Allers&action=edit&redlink=1 "Manfred Allers (page does not exist)"), [Dirk Hauschildt](index.php?title=Dirk_Hauschildt&action=edit&redlink=1 "Dirk Hauschildt (page does not exist)") and [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") to work on computer chess and supported the development of [Murks](Murks "Murks") and [MicroMurks](MicroMurks "MicroMurks"). In 1982/83, along with Dieter Steinwender, Frieder Schwenkel played a correspondence chess game versus [Belle](Belle "Belle") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1960 ...](#1960-...)
-  - [1.2 1970 ...](#1970-...)
-  - [1.3 1980 ...](#1980-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 ## 1960 ...

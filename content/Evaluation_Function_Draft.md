@@ -5,16 +5,6 @@ title: Evaluation Function Draft
 
 This page is meant to show an example of a relatively simple evaluation function. It is designed specifically for those who have good programming skills but want to get some ideas about chess knowledge required to attain a reasonable playing strength.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Prequisites](#prequisites)
-- [3 Initialization](#initialization)
-  - [3.1 Distance](#distance)
-  - [3.2 Others](#others)
-- [4 King Safety](#king-safety)
-- [5 References](#references)
-
 ## Features
 
 Proposed evaluation function should deal with the following issues

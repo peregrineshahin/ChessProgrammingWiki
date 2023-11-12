@@ -11,16 +11,6 @@ and since version 0.70 the [UCI protocol](UCI "UCI"). Celes was initially called
 It applies [alpha-beta](Alpha-Beta "Alpha-Beta") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows"), further using the [killer](Killer_Heuristic "Killer Heuristic") and [null-move heuristic](Null_Move_Pruning "Null Move Pruning").
 Celes utilizes a [main transposition table](Transposition_Table "Transposition Table"), a separate [opening book](Opening_Book "Opening Book") transposition table, which covers [transpositions](Transposition "Transposition") of opening lines, and caches its [evaluation](Evaluation "Evaluation") results due to a [evaluation hash table](Evaluation_Hash_Table "Evaluation Hash Table") and [pawn hash table](Pawn_Hash_Table "Pawn Hash Table") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Photos](#photos)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Tournament Play
 
 31337/Celes played three [CSVN](CSVN "CSVN") tournaments over the board, the [ICT 2001](ICT_2001 "ICT 2001"), [DOCCC 2002](DOCCC_2002 "DOCCC 2002") and the [ICT 2003](ICT_2003 "ICT 2003"), as well as four [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [CCT3](CCT3 "CCT3"), [CCT4](CCT4 "CCT4"), [CCT5](CCT5 "CCT5") and [CCT6](CCT6 "CCT6").

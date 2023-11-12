@@ -6,13 +6,6 @@ title: Delft University of Technology
 \[ Entrance to the Mekelpark, with the statue of Prometheus, university's symbol <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Delft University of Technology**, [Delft](https://en.wikipedia.org/wiki/Delft), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands).
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs and Authors](#chess-programs-and-authors)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Huib Aldewereld](index.php?title=Huib_Aldewereld&action=edit&redlink=1 "Huib Aldewereld (page does not exist)")

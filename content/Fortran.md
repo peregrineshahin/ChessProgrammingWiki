@@ -7,16 +7,6 @@ title: Fortran
 
 a general purpose, [procedural](https://en.wikipedia.org/wiki/Procedural_programming) and [imperative](https://en.wikipedia.org/wiki/Imperative_programming_language) [programming language](https://en.wikipedia.org/wiki/Programming_language). Fortran was proposed and designed by [John W. Backus](https://en.wikipedia.org/wiki/John_Backus) as alternative for the [IBM 704](IBM_704 "IBM 704") [assembly](Assembly "Assembly") language. A draft specification for the [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") mathematical **For**mula **Tran**slating System was completed by mid 1954. The first Fortran compiler appeared in 1957 and was the first widely used [high-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language). Successive versions have added varios features over the years, such as [recursive routines](Recursion "Recursion") and [dynamic memory allocation](https://en.wikipedia.org/wiki/Dynamic_memory_allocation) in [Fortran 90](https://en.wikipedia.org/wiki/Fortran#Fortran_90). Many early chess programs were written in Fortran.
 
-## Contents
-
-- [1 Punched card](#punched-card)
-- [2 Sample Chess Code](#sample-chess-code)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Punched card
 
 \[

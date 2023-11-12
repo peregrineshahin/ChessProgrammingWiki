@@ -10,20 +10,6 @@ a Dutch computer scientist, compiler architect and researcher at [Google Inc.](i
 
 As chess programmer, Aart is author of the [UCI](UCI "UCI") compatible chess engine [BikJump](BikJump "BikJump"), and the standalone chess application [Chess for Android](Chess_for_Android "Chess for Android") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , which can import other [UCI Engines](Category:UCI "Category:UCI") or [WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard") engines which are natively compiled for Android ([ARMv5TE](index.php?title=ARMv5TE&action=edit&redlink=1 "ARMv5TE (page does not exist)") for most mobile devices, [x86](X86 "X86") for some) <a id="cite-note-4" href="#cite-ref-4">[4]</a> . More recently, he implemented [Chess for Glass](Chess_for_Glass "Chess for Glass") <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Compiler Architect](#compiler-architect)
-  - [1.1 Java Compiler](#java-compiler)
-  - [1.2 Vectorization](#vectorization)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2005 ...](#2005-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Compiler Architect
 
 ## Java Compiler

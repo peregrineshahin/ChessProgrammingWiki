@@ -5,13 +5,6 @@ title: CSVN Programmers Tournament
 
 The **CSVN Programmers Tournament** supersedes the [Dutch Open Computer Chess Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") and the [International CSVN Tournament](International_CSVN_Tournament "International CSVN Tournament") since autumn [2013](Timeline#2013 "Timeline"). The [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") Cup is always connected with the programmer tournament in the spring <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 References](#references)
-
 ## Editions
 
 |  Edition

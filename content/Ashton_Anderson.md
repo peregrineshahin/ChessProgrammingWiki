@@ -10,14 +10,6 @@ a Canadian computer scientist and assistant professor at [University of Toronto]
 In 2008, he graduated from [McGill University](McGill_University "McGill University") with a Bachelor of Engineering in software engineering, and completed his Master's degree in computer science at [Stanford University](Stanford_University "Stanford University") in June 2010 under [Yoav Shoham](Mathematician#Shoham "Mathematician"), and his Ph.D. at Stanford in 2015 under [Jure Leskovec](Mathematician#JLeskovec "Mathematician").
 As a chess player, along with [Reid McIlroy-Young](Reid_McIlroy-Young "Reid McIlroy-Young"), [Russell Wang](Russell_Wang "Russell Wang"), [Siddhartha Sen](Siddhartha_Sen "Siddhartha Sen") and [Jon Kleinberg](Jon_Kleinberg "Jon Kleinberg"), Ashton Anderson is involved in the [Maia Chess](Maia_Chess "Maia Chess") project of a human-like [neural network](Neural_Networks "Neural Networks") chess engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

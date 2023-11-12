@@ -8,24 +8,6 @@ title: Cheese
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant free chess engine by [Patrice Duhamel](Patrice_Duhamel "Patrice Duhamel"), written in [C](C "C"). The development started in early 2006, using [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") and [alpha-beta](Alpha-Beta "Alpha-Beta") search, improving rapidly, and first released in October 2007 as version 1.0. Since 2012, one can expect yearly updates with steady improvements. Since version 1.8 in March 2016, Cheese is able to play [Chess960](Chess960 "Chess960") (FRC). It is available for all major platforms and operating systems, [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Features](#selected-features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2006 ...](#2006-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Selected Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

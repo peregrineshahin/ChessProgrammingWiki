@@ -10,14 +10,6 @@ an American engineer, [USCF](https://en.wikipedia.org/wiki/United_States_Chess_F
 columnist and instructor. He earned a B.Sc. in mathematics in 1971 and a M.Sc in engineering in 1983, both from the [Pennsylvania State University](https://en.wikipedia.org/wiki/Pennsylvania_State_University) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 As early member of the [ICCA](ICCA "ICCA"), Dan Heisman volunteered at the [Deep Blue](Deep_Blue "Deep Blue") versus [Garry Kasparov](Garry_Kasparov "Garry Kasparov") matches in [1996](Kasparov_versus_Deep_Blue_1996 "Kasparov versus Deep Blue 1996") and [1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Positional Evaluation](#positional-evaluation)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Positional Evaluation
 
 In his book *Elements of Positional Evaluation* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Dan Heisman

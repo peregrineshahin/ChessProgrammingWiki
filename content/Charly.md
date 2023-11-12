@@ -9,18 +9,6 @@ title: Charly
 an early chess program developed in 1967/68 by [Gerald Tripard](Gerald_Tripard "Gerald Tripard"), [Gerhard Rudolf](index.php?title=Gerhard_Rudolf&action=edit&redlink=1 "Gerhard Rudolf (page does not exist)") and [Werner Joho](Werner_Joho "Werner Joho") at [ETH Zurich](ETH_Zurich "ETH Zurich"),
 to run on a [CDC 1604](CDC_1604 "CDC 1604").
 
-## Contents
-
-- [1 Description](#description)
-- [2 ETH-MIT Match](#eth-mit-match)
-  - [2.1 Game 1](#game-1)
-  - [2.2 Games 2 and 3](#games-2-and-3)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 The main tree [search](Search "Search") went 4 [plies](Ply "Ply") [deep](Depth "Depth"), with the final position including an extensive [evaluation of all possible exchanges](Static_Exchange_Evaluation "Static Exchange Evaluation") on the square occupied by the piece being moved there on the last ply.

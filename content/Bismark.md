@@ -10,14 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Bismark's board is represented as two-dimensional [8x8](8x8_Board "8x8 Board") [array](Array "Array") of [squares](Squares "Squares") and a [vector of pieces](Piece-Lists "Piece-Lists").
 The engine applies [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") [PVS](Principal_Variation_Search "Principal Variation Search") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [transposition table](Transposition_Table "Transposition Table") and a pure capture [quiescence search](Quiescence_Search "Quiescence Search") within the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop. Beside [material](Material "Material") as dominating term, Bismark's [evaluation](Evaluation "Evaluation") aggregates values of [middlegame](Middlegame "Middlegame") and [endgame](Endgame "Endgame") [piece-square tables](Piece-Square_Tables "Piece-Square Tables") along with [king tropism](King_Safety#KingTropism "King Safety"), finally [tapered](Tapered_Eval "Tapered Eval") by current [game phase](Game_Phases "Game Phases") using [float arithmetic](Float "Float"). Further, Bismark considers various [pawn structure](Pawn_Structure "Pawn Structure") terms, with appropriate bonuses for [passers](Passed_Pawn "Passed Pawn") and [candidates](Candidate_Passed_Pawn "Candidate Passed Pawn") and penalties for [doubled pawns](Doubled_Pawn "Doubled Pawn") and [islands](Pawn_Islands "Pawn Islands"), as well as beneficial piece positions such as [knight outposts](Outposts "Outposts"), [rook on open or semi-open file](Rook_on_Open_File "Rook on Open File") and [bishop pair](Bishop_Pair "Bishop Pair") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Bismark and Powder](http://www.talkchess.com/forum/viewtopic.php?t=44760) by Geert Maeckelbergh, [CCC](CCC "CCC"), August 10, 2012

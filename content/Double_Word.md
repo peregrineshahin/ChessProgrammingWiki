@@ -5,17 +5,6 @@ title: Double Word
 
 According to [Intel's](Intel "Intel") definition of a [x86](X86 "X86") 16-bit [Word](Word "Word"), a **Double Word** refers a 32-bit entity, while [IBM 360](IBM_360 "IBM 360") and successors with 32-bit words have double words with 64-bit.
 
-## Contents
-
-- [1 Integer and long](#integer-and-long)
-- [2 Ranges](#ranges)
-- [3 Alignment](#alignment)
-- [4 Endianness](#endianness)
-  - [4.1 Litte-endian Layout](#litte-endian-layout)
-  - [4.2 Big-endian Layout](#big-endian-layout)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-
 ## Integer and long
 
 Even in [x86-64](X86-64 "X86-64"), double words are still considered as default word size. [x86](X86 "X86") and and [x86-64](X86-64 "X86-64") [C-Compiler](index.php?title=C-Compiler&action=edit&redlink=1 "C-Compiler (page does not exist)") use double words as signed and unsigned integers, [Java](Java "Java") integers as well. Microsoft 64 bit compiler long is a 32-bit Double word as well, while with 64-bit [GCC](Free_Software_Foundation#GCC "Free Software Foundation") uses 64-bit [Quad Words](Quad_Word "Quad Word") as longs.

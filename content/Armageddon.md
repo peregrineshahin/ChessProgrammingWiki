@@ -8,17 +8,6 @@ title: Armageddon
 
 a Polish chess program, a [WinBoard](WinBoard "WinBoard") compliant engine, optionally with an own [GUI](GUI "GUI"), written by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"). Its first release comes from [December 31](https://en.wikipedia.org/wiki/December_31), 1999, and the name is a pun based on prediction that the [world](https://en.wikipedia.org/wiki/World) would [end](https://en.wikipedia.org/wiki/End_time) in [2000](Timeline#2000 "Timeline") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Armageddon](#armageddon)
-  - [4.3 Time Problems](#time-problems)
-- [5 References](#references)
-
 ## Tournament Play
 
 Armageddon regularly played the [Polish Computer Chess Championship](Polish_Computer_Chess_Championship "Polish Computer Chess Championship") and became runner up at the [PCCC 2002](PCCC_2002 "PCCC 2002") and [PCCC 2003](PCCC_2003 "PCCC 2003"). It further participated at the [CCT3](CCT3 "CCT3"), [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT5") on-line tournaments.

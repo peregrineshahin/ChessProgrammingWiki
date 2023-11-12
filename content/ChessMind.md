@@ -8,15 +8,6 @@ title: ChessMind
 
 an [UCI](UCI "UCI") compliant chess engine by [Luca Hemmerich](Luca_Hemmerich "Luca Hemmerich"), first released in April 2010 by the then 15 years old author, soon followed by ChessMind **0.82** with improved [evaluation](Evaluation "Evaluation") and better at [tactics](Tactics "Tactics") despite lower [search depth](Depth "Depth") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Cognition](Cognition "Cognition")

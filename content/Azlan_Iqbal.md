@@ -11,20 +11,6 @@ Azlan Iqbal's research interests focus on [multimedia](https://en.wikipedia.org/
 He holds a Bachelor's and a Master's degree in Computer Science from [Universiti Putra Malaysia](https://en.wikipedia.org/wiki/Universiti_Putra_Malaysia), and defended his Ph.D. in 2008 on *A Discrete Computational Aesthetics Model for a Zero-Sum Perfect Information Game* at the [University of Malaya](https://en.wikipedia.org/wiki/University_of_Malaya), [Kuala Lumpur](https://en.wikipedia.org/wiki/Kuala_Lumpur), [Malaysia](https://en.wikipedia.org/wiki/Malaysia), and various of his papers on computational aesthetics of the Game of [Chess](Chess "Chess") were published in the [ICGA Journal](ICGA_Journal "ICGA Journal").
 He developed a computational chess aesthetics model and incorporated it into a computer program called [Chesthetica](index.php?title=Chesthetica&action=edit&redlink=1 "Chesthetica (page does not exist)") that can be used to automatically evaluate the beauty of thousands of three-move chess problems in a way that correlates well with human assessment <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2006 ...](#2006-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-- [3 ChessBase Articles](#chessbase-articles)
-  - [3.1 2009](#2009)
-  - [3.2 2010 ...](#2010-...-2)
-  - [3.3 2015 ...](#2015-...-2)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Chesthetica](index.php?title=Chesthetica&action=edit&redlink=1 "Chesthetica (page does not exist)")

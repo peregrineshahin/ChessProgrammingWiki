@@ -8,15 +8,6 @@ title: C389cume
 
 [Marc-François Baudot's](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot") and [Jean-Christophe Weill's](Jean-Christophe_Weill "Jean-Christophe Weill") third chess program and as successor of [Cumulus](Cumulus "Cumulus") completely written in [8086](8086 "8086") [Assembly](Assembly "Assembly") language, while Cumulus was written in [C](C "C") with a few assembly routines <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Tournament Play
 
 Écume already played the [WCCC 1992](WCCC_1992 "WCCC 1992"), but still called Cumulus then <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Écume further played the [12th World Microcomputer Chess Championship](WMCCC_1993 "WMCCC 1993") 1993 in Munich, the [Aubervilliers Rapid Open 1994](Aubervilliers_Rapid_Open#1994 "Aubervilliers Rapid Open"), and the [Aegon 1994](Aegon_1994 "Aegon 1994").

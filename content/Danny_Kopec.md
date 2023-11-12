@@ -10,18 +10,6 @@ was an American computer scientist, associate professor at the [Brooklyn College
 
 Danny Kopec died on June 12, 2016 from [pancreatic cancer](https://en.wikipedia.org/wiki/Pancreatic_cancer) <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
-## Contents
-
-- [1 Chess Endgames](#chess-endgames)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1977 ...](#1977-...)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 1990 ...](#1990-...)
-  - [2.4 2000 ...](#2000-...)
-  - [2.5 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Endgames
 
 Quote by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden") in *I remember [Donald Michie](Donald_Michie "Donald Michie")* <a id="cite-note-12" href="#cite-ref-12">[12]</a> :

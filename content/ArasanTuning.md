@@ -11,34 +11,6 @@ Despite its own GUI, Arasan early supported the [Chess Engine Communication Prot
 | அரசன் |
 |  அரசன் [[5]](#cite_note-5) (Arasan) , King in [Tamil language](https://en.wikipedia.org/wiki/Tamil_language) [[6]](#cite_note-6) |
 
-## Contents
-
-- [1 Selected Features](#Selected_Features)
-  - [1.1 Board Representation](#Board_Representation)
-    - [1.1.1 Bitboard Trials](#Bitboard_Trials)
-    - [1.1.2 Magic Bitboards](#Magic_Bitboards)
-    - [1.1.3 PEXT/PDEP Bitboards](#PEXT.2FPDEP_Bitboards)
-  - [1.2 Search](#Search)
-  - [1.3 Evaluation](#Evaluation)
-    - [1.3.1 NNUE](#NNUE)
-    - [1.3.2 Traditional](#Traditional)
-    - [1.3.3 Automated Tuning](#Automated_Tuning)
-  - [1.4 Syzygy Bases](#Syzygy_Bases)
-- [2 Tournament Play](#Tournament_Play)
-- [3 Photos & Games](#Photos_.26_Games)
-- [4 See also](#See_also)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 1995 ...](#1995_...)
-  - [5.2 2000 ...](#2000_...)
-  - [5.3 2005 ...](#2005_...)
-  - [5.4 2010 ...](#2010_...)
-  - [5.5 2015 ...](#2015_...)
-  - [5.6 2020 ...](#2020_...)
-- [6 External Links](#External_Links)
-  - [6.1 Chess Engine](#Chess_Engine)
-  - [6.2 Misc](#Misc)
-- [7 References](#References)
-
 ## Selected Features
 
 [[7]](#cite_note-7)

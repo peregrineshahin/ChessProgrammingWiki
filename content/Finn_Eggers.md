@@ -11,12 +11,6 @@ Along with [Kim Kåhre](Kim_K%C3%A5hre "Kim Kåhre") and [Eugenio Bruno](index.p
 and has also published the [Java](Java "Java") bot [Chess](</index.php?title=Chess_(Java)&action=edit&redlink=1> "Chess (Java) (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Finn Eggers also has a [YouTube](https://en.wikipedia.org/wiki/YouTube) channel providing tutorials on [neural networks](Neural_Networks "Neural Networks") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=353) by Finn Eggers, [CCC](CCC "CCC"), September 02, 2020

@@ -9,21 +9,6 @@ title: CC Sapiens
 a computer chess project headed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") during the early 90s after the [dissolution of the Soviet Union](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union). Further contributors, specially on the application of [economic planning](https://en.wikipedia.org/wiki/Economic_planning) (EC Sapiens) were mathematician [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov"), and the economists [Evgeniĭ Dmitrievich Cherevik](Evgeni%C4%AD_Dmitrievich_Cherevik "Evgeniĭ Dmitrievich Cherevik") and [Vitaly Vygodsky](Vitaly_Vygodsky "Vitaly Vygodsky").
 CC Sapiens was a trial to resurrect the [Pioneer](Pioneer "Pioneer") project with the aim to develop a chess program to model a Chess Master's Mind - ultimately terminated with Botvinnik's death in May 1995. Botvinnik's attempt to demonstrate the ability of CC Sapiens on three selected positions with narrow [search trees](Search_Tree "Search Tree") in [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal") <a id="cite-note-2" href="#cite-ref-2">[2]</a> was criticized by [Hans Berliner](Hans_Berliner "Hans Berliner") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> and Botvinnik's old chess rival [David Bronstein](David_Bronstein "David Bronstein") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, due to obvious flaws and allegation of forged results <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 A Muse A-Musing](#a-muse-a-musing)
-- [2 Kasparov - Ribli](#kasparov---ribli)
-- [3 Solving Shannon's Problem](#solving-shannon.27s-problem)
-  - [3.1 Abstract](#abstract)
-  - [3.2 Chains](#chains)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Program](#chess-program)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## A Muse A-Musing
 
 Excerpt of the Editorial, [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal") by [Bob Herschberg](Bob_Herschberg "Bob Herschberg") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-7" href="#cite-ref-7">[7]</a>:

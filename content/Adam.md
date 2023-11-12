@@ -12,15 +12,6 @@ Adam 3.3, released in March 2011, is compatible with [UCI](UCI "UCI") only.
 Adam was active over the board from 2002 until 2006 in participating several [French Computer Chess Championship](French_Computer_Chess_Championship "French Computer Chess Championship") and [French Programmers Tournaments](French_Programmers_Tournament "French Programmers Tournament").
 At the [FCCC 2003](FCCC_2003 "FCCC 2003"), running in a [Pentiom 3](X86 "X86"), 1.3 GHz, Adam searched about 250 [KNPS](Nodes_per_Second "Nodes per Second") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Eden](Eden "Eden")

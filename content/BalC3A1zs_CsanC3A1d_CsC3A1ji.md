@@ -11,16 +11,6 @@ and before, from 2009 until 2012, at [University of Melbourne](https://en.wikipe
 He holds a M.Sc. in computer science and mathematics in 2001, and a [M.A.](https://en.wikipedia.org/wiki/Master_of_Arts) in Philosophy in 2006, both from [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University), [Budapest](https://en.wikipedia.org/wiki/Budapest), and a Ph.D. in 2008 from [Budapest University of Technology and Economics](https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics).
 His research interests include statistical [machine learning](Learning "Learning"), [probabilistic models](https://en.wikipedia.org/wiki/Statistical_model), [stochastic approximation](https://en.wikipedia.org/wiki/Stochastic_approximation), [philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science), [foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics) and [logic](https://en.wikipedia.org/wiki/Mathematical_logic#Foundations_of_mathematics), and [operations research](https://en.wikipedia.org/wiki/Operations_research).
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Photos](#photos)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Computer Chess
 
 In the early 2000s, Balázs Csanád Csáji developed the chess program [Pandora](Pandora "Pandora"), which competed at the [MASPV 2001](MASPV_2001 "MASPV 2001") and [MASPV 2002](MASPV_2002 "MASPV 2002") [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open").

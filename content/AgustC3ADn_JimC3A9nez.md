@@ -9,15 +9,6 @@ title: AgustC3ADn JimC3A9nez
 a Spanish industrial engineer and full professor at the [Universidad Politécnica de Madrid](Technical_University_of_Madrid "Technical University of Madrid") (UPM). His research interests include [continuously process control](https://en.wikipedia.org/wiki/Process_control), [fuzzy control](https://en.wikipedia.org/wiki/Fuzzy_control_system) and [robots](Robots "Robots").
 Along with [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo") et al., he published on [bitboards](Bitboards "Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -13,16 +13,6 @@ The 4-bit program, developed by [Ron Nelson](Ron_Nelson "Ron Nelson") during his
 applies sophisticated [PV move](PV-Move "PV-Move") and [killer move](Killer_Move "Killer Move") [ordering heuristics](Move_Ordering "Move Ordering") <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 and was slightly customized for the new hardware.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Manual](#manual)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Computer](#chess-computer)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Arthur](Arthur "Arthur")

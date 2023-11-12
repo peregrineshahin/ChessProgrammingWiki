@@ -8,31 +8,6 @@ title: FPGA
 
 a [field-programmable](https://en.wikipedia.org/wiki/Field-programmability) [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) consisting of a two-dimensional [array](Array "Array") of logic blocks interconnected by a hierarchy of reconfigurable routing channels. The behavior of a FPGA is defined by a schematic design or by a [hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL), most notably [VHDL](https://en.wikipedia.org/wiki/VHDL) and [Verilog](https://en.wikipedia.org/wiki/Verilog). FPGA cards of their main suppliers [Xilinx](https://en.wikipedia.org/wiki/Xilinx) <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Altera](https://en.wikipedia.org/wiki/Altera) <a id="cite-note-3" href="#cite-ref-3">[3]</a> can be plugged into a [PC](IBM_PC "IBM PC") with communication over the [PCI](https://en.wikipedia.org/wiki/Conventional_PCI) or [PCI Express](https://en.wikipedia.org/wiki/PCI_Express) bus. [IBM's](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") [POWER8](https://en.wikipedia.org/wiki/POWER8) processor, introduced in August 2013, features a CAPI port (Coherent Accelerator Processor Interface) is layered on top of [PCI Express 3.0](https://en.wikipedia.org/wiki/PCI_Express#PCI_Express_3.x) suited to connect custom hardware such as FPGAs <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Architecture](#architecture)
-  - [1.1 Structure](#structure)
-  - [1.2 Blocks and Cells](#blocks-and-cells)
-  - [1.3 Routing](#routing)
-- [2 FPGA in Computer Chess](#fpga-in-computer-chess)
-  - [2.1 Boulé](#boul.c3.a9)
-  - [2.2 Donninger](#donninger)
-- [3 Publications](#publications)
-  - [3.1 1997 ...](#1997-...)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2005 ...](#2005-...)
-  - [3.4 2010 ...](#2010-...)
-  - [3.5 2015 ...](#2015-...)
-  - [3.6 2020 ...](#2020-...)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000 ...](#2000-...-2)
-  - [4.2 2005 ...](#2005-...-2)
-  - [4.3 2010 ...](#2010-...-2)
-- [5 External Links](#external-links)
-  - [5.1 Vendors](#vendors)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Architecture
 
 ## Structure

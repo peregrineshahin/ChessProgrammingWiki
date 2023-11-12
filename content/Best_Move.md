@@ -7,16 +7,6 @@ title: Best Move
 
 The **Best Move** in the context of [search algorithms](Search "Search") like [Alpha-Beta](Alpha-Beta "Alpha-Beta") or [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), is found at the [root](Root "Root") or any other confirmed [PV-node](Node_Types#PV "Node Types"). It is that move which gained the maximum score, which is [exact](Exact_Score "Exact Score") since it exceeds [alpha](Alpha "Alpha") but is still below [beta](Beta "Beta") and therefor not good enough to refute opponent's previous move, which may become his best move and part of the [principal variation](Principal_Variation "Principal Variation") as well.
 
-## Contents
-
-- [1 Best so far](#best-so-far)
-- [2 TT-Entry](#tt-entry)
-- [3 PV-Table](#pv-table)
-- [4 Cut-Node](#cut-node)
-- [5 All-Node](#all-node)
-- [6 See also](#see-also)
-- [7 Forum Posts](#forum-posts)
-
 ## Best so far
 
 If an alpha increase occurs, the recently searched move is the best so far and needs to be stored on an explicit or implicit [stack](Stack "Stack"), which also might be the [triangular PV-Table](Triangular_PV-Table "Triangular PV-Table") if available.

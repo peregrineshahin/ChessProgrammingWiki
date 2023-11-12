@@ -8,26 +8,6 @@ title: Amiga
 
 a family of personal computers marketed by [Commodore International](https://en.wikipedia.org/wiki/Commodore_International) from the mid 80s to the mid 90s. Amiga was based on [68000](68000 "68000") series of microprocessors and a custom chipset with graphics and sound capabilities, and had a [pre-emptive multitasking](https://en.wikipedia.org/wiki/Preemption_%28computing%29#Preemptive_multitasking) operating system called [AmigaOS](https://en.wikipedia.org/wiki/AmigaOS). While especially the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) was quite successful in Europe, later models had a hard time to compete versus the upcoming [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh") and the [IBM PC](IBM_PC "IBM PC") and its compatibles. After Commodore's demise 1994 Escom continued the Amiga series in 1995 and 1996, after Escom's demise production of the last model, the Amiga 4000T, was continued by QuikPak into at least 1997. Holders of trademarks, patents and copyright changed over the years. The PowerPC based AmigaOS 4<a id="cite-note-2" href="#cite-ref-2">[2]</a> and the AmigaOS 3.2<a id="cite-note-3" href="#cite-ref-3">[3]</a>branch for the original 68k series are currently under development by [Hyperion Entertainment](https://www.hyperion-entertainment.com/).
 
-## Contents
-
-- [1 Amiga Engines](#amiga-engines)
-- [2 Amiga GUIs](#amiga-guis)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Companies](#companies)
-  - [5.2 Models](#models)
-    - [5.2.1 Commodore](#commodore)
-    - [5.2.2 Escom](#escom)
-    - [5.2.3 QuikPak](#quikpak)
-    - [5.2.4 EyeTech](#eyetech)
-    - [5.2.5 Hyperion Entertainment](#hyperion-entertainment)
-    - [5.2.6 Apollo Computers](#apollo-computers)
-  - [5.3 OS & Firmware](#os-.26-firmware)
-  - [5.4 Chess Programs](#chess-programs)
-  - [5.5 Misc](#misc)
-- [6 References](#references)
-
 ## Amiga Engines
 
 - [Category:Amiga](Category:Amiga "Category:Amiga")

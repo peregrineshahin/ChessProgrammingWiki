@@ -8,15 +8,6 @@ title: Gothmog
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant chess engine by [Tord Romstad](Tord_Romstad "Tord Romstad"). Gothmog was a [MTD(f)](</MTD(f)> "MTD(f)") searcher <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and according to its self-critical author seemed to have degenerated into a highly complicated random move generator <a id="cite-note-4" href="#cite-ref-4">[4]</a> , which further was big, horrendously complicated, buggy, and has almost completely unreadable source code. In 2004, Tord almost resigned to continue working on Gothmog in favour to his new engine [Glaurung](Glaurung "Glaurung") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Glaurung](Glaurung "Glaurung")

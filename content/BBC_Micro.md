@@ -8,25 +8,6 @@ title: BBC Micro
 
 a series of 8-bit [6502](6502 "6502") based [home computers](https://en.wikipedia.org/wiki/Home_computer) by [Acorn Computers Ltd](index.php?title=Acorn_Computers_Ltd&action=edit&redlink=1 "Acorn Computers Ltd (page does not exist)"), initially designed by a team including [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) and [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), first released in December 1981. The Micro was contracted by the [British Broadcasting Corporation (BBC)](https://en.wikipedia.org/wiki/BBC) after a [call for bids](https://en.wikipedia.org/wiki/Call_for_bids) for a computer to accompany the [TV series](https://en.wikipedia.org/wiki/The_Computer_Programme) and literature for their *Computer Literacy Project* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which was won by Acorn with the Proton, a successor of the [Acorn Atom](Acorn_Atom "Acorn Atom") - renamed the BBC Micro. Acorn also employed the machine to simulate and develop the [ARM architecture](ARM2 "ARM2") which, many years later, has become hugely successful <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Hardware](#hardware)
-- [2 Models](#models)
-- [3 Software](#software)
-- [4 Chess Programs](#chess-programs)
-- [5 First Computer Go Tournament](#first-computer-go-tournament)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Manuals](#manuals)
-- [9 Forum Posts](#forum-posts)
-- [10 External Links](#external-links)
-  - [10.1 BBC Micro](#bbc-micro)
-  - [10.2 Software](#software-2)
-  - [10.3 Chess Programs](#chess-programs-2)
-  - [10.4 Computer Literacy Project](#computer-literacy-project)
-  - [10.5 Misc](#misc)
-- [11 References](#references)
-
 ## Hardware
 
 The BBC Micro had a [6502](6502 "6502") processor running at full 2 MHz speed, accessing fast [DRAM](Memory#RAM "Memory"), alternating concurrently with the [MC6845](https://en.wikipedia.org/wiki/Motorola_6845) [video display controller](https://en.wikipedia.org/wiki/Video_display_controller), featuring eight display modes for text and graphics varied between 20 and 40-column text suitable for a [TV](https://en.wikipedia.org/wiki/Television#Electronic), to 80-column text requiring an [RGB-connected](https://en.wikipedia.org/wiki/Component_video#RGB_analog_component_video) [video monitor](https://en.wikipedia.org/wiki/Computer_monitor). As noted by [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) in a recent interview <a id="cite-note-6" href="#cite-ref-6">[6]</a>, the alternating fast 4 MHz RAM access required some address [multiplexing](https://en.wikipedia.org/wiki/Multiplexing) using exactly the 81LS95 [tri-state](https://en.wikipedia.org/wiki/Three-state_logic) octal buffer <a id="cite-note-7" href="#cite-ref-7">[7]</a> from [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) - for unknown reasons, 81LS95 from other vendors were not working.

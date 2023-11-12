@@ -8,24 +8,6 @@ title: Chess Genius
 
 a series of chess engines by [Richard Lang](Richard_Lang "Richard Lang"), written in [assembly](Assembly "Assembly") for various processor architectures such as [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000](68000 "68000") and [Intel](Intel "Intel") [8086](8086 "8086") and [x86](X86 "X86"), and successor of Lang's [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") 68000 based [Mephisto Vancouver](Mephisto_Vancouver "Mephisto Vancouver") program incorporating small improvements, the 8086 version first released in 1992 as [PC](IBM_PC "IBM PC") program running under 16-bit [MS-DOS](MS-DOS "MS-DOS") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Chess **Genius 2** won the [manufacturers](WMCCC_1993#Manufacturers "WMCCC 1993") and Absolute World Microcomputer Chess Champion titles at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") running on the PC based [Mephisto Wundermaschine](Mephisto_Wundermaschine "Mephisto Wundermaschine"), and was also shipped as [Mephisto Genius 68030](Mephisto_Genius_68030 "Mephisto Genius 68030") [module](Module "Module") for [Mephisto module systems](Mephisto_Module_Systems "Mephisto Module Systems").
 
-## Contents
-
-- [1 Windows](#windows)
-- [2 Intel Grand Prix](#intel-grand-prix)
-- [3 Android](#android)
-- [4 Instances](#instances)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1993 ...](#1993-...)
-  - [7.2 1995 ...](#1995-...)
-  - [7.3 2000 ...](#2000-...)
-  - [7.4 2005 ...](#2005-...)
-  - [7.5 2010 ...](#2010-...)
-  - [7.6 2015 ...](#2015-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Windows
 
 [](http://pcsol-sage.tripod.com/pages/chess.htm) Chess Genius Classic 7.1 for [Windows](Windows "Windows") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

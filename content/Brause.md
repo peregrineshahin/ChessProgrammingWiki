@@ -9,14 +9,6 @@ title: Brause
 a [Crafty clone](Crafty#CraftyClones "Crafty") by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Before Steffen restarted the development of his own chess program [Hossa](Hossa "Hossa") in 1998, he ran [Crafty](Crafty "Crafty") along with a special [opening book](Opening_Book "Opening Book") assembled by himself under the nick *Brause* on several [Internet Chess Server](Chess_Server "Chess Server") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, especially to examine the [Halloween Gambit](https://en.wikipedia.org/wiki/Four_Knights_Game,_Halloween_Gambit) (Müller-Schulze Gambit) in the [Four Knights Game](https://en.wikipedia.org/wiki/Four_Knights_Game) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Sample Game](#sample-game)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Sample Game
 
 A sample game from [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9) site <a id="cite-note-6" href="#cite-ref-6">[6]</a> :

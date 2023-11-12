@@ -11,13 +11,6 @@ while the former was caused by not using [recapture extensions](Recapture_Extens
 Chepla's [evaluation](Evaluation "Evaluation") is fast and simple, uses [lazy evaluation](Lazy_Evaluation "Lazy Evaluation") and an [evaluation cache](Evaluation_Hash_Table "Evaluation Hash Table") otherwise <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Chepla played the [CCT6](CCT6 "CCT6"), [CCT7](CCT7 "CCT7") and [CCT8](CCT8 "CCT8") [tournaments](CCT_Tournaments "CCT Tournaments").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [CCT6](CCT6 "CCT6"), round 8, [MessChess](MessChess "MessChess") - Chepla <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

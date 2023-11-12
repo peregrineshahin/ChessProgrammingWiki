@@ -6,32 +6,6 @@ title: Dedicated Chess Computers
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc190001) [Mephisto X](Mephisto "Mephisto") aka [Mephisto Portorose](Mephisto_Portorose "Mephisto Portorose") at [ACM 1989](ACM_1989 "ACM 1989") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Dedicated chess computers** are for the sole purpose to play or analyze a [game of chess](Chess_Game "Chess Game"). Minimalistic models provide a rudimentary, modal [user interface](User_Interface "User Interface"), realized by [seven-segment displays](https://en.wikipedia.org/wiki/Seven-segment_display) or [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display) to display move-coordinates and short messages or symbols, and one or more [push-buttons](https://en.wikipedia.org/wiki/Push-button) to [enter moves](Entering_Moves "Entering Moves") or commands, and to switch modes. Most commercial dedicated [board](Chessboard "Chessboard") models, provide a [sensory board](Sensory_Board "Sensory Board") to recognize [moves](Moves "Moves"), and [light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode) to indicate coordinates of a move to be made by an operator on behalf of the computer.
 
-## Contents
-
-- [1 The Beginning](#the-beginning)
-- [2 High and Fall](#high-and-fall)
-- [3 Nostalgia](#nostalgia)
-- [4 Dedicated Systems](#dedicated-systems)
-- [5 Dedicated Computers](#dedicated-computers)
-- [6 Video Game Console](#video-game-console)
-- [7 Tournaments](#tournaments)
-- [8 Companies](#companies)
-- [9 Dedicated Topics](#dedicated-topics)
-- [10 See also](#see-also)
-- [11 Publications](#publications)
-  - [11.1 1979](#1979)
-  - [11.2 1980 ...](#1980-...)
-  - [11.3 1985 ...](#1985-...)
-  - [11.4 2000 ...](#2000-...)
-- [12 Forum Posts](#forum-posts)
-  - [12.1 2005 ...](#2005-...)
-  - [12.2 2010 ...](#2010-...)
-  - [12.3 2015 ...](#2015-...)
-- [13 External Links](#external-links)
-  - [13.1 Chess Computer Links](#chess-computer-links)
-  - [13.2 Self-made](#self-made)
-- [14 References](#references)
-
 ## The Beginning
 
 The first dedicated chess computer was the [Chess Challenger 1](Chess_Challenger "Chess Challenger"), designed and created by [Sidney Samole](Sidney_Samole "Sidney Samole") and [Ron Nelson](Ron_Nelson "Ron Nelson"), sold by [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics") since early 1977.

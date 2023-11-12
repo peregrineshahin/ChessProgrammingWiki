@@ -7,13 +7,6 @@ title: Heuristic Alpha
 
 the first [PC](IBM_PC "IBM PC") chess program of [Julio Kaplan's](Julio_Kaplan "Julio Kaplan") [Heuristic Software](Heuristic_Software "Heuristic Software") developed in 1990/1991 by principal engine author [Don Dailey](Don_Dailey "Don Dailey") and [Larry Kaufman](Larry_Kaufman "Larry Kaufman"). Alpha played a strong [Harvard Cup 1991](Harvard_Cup_1991 "Harvard Cup 1991") with 2 out of 4 beating the two grandmasters [Patrick Wolff](https://en.wikipedia.org/wiki/Patrick_Wolff) and [Michael Rohde](https://en.wikipedia.org/wiki/Michael_Rohde_%28chess_player%29) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and the [Aegon 1992](Aegon_1992 "Aegon 1992") with 3 out of 6, but was not commercially market under this name.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

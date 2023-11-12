@@ -8,17 +8,6 @@ title: Gerard ZieliC584ski
 a Polish mathematician, computer scientist and early computer artist, during the 70s affiliated with the Institute of Mathematics, [Warsaw University of Technology](https://en.wikipedia.org/wiki/Warsaw_University_of_Technology).
 He used an [ODRA 1204](https://en.wikipedia.org/wiki/Odra_%28computer%29) computer for [music composed by computers](https://en.wikipedia.org/wiki/Computer_music#Music_composed_and_performed_by_computers) and [algorithmic composition](https://en.wikipedia.org/wiki/Algorithmic_composition) <a id="cite-note-1" href="#cite-ref-1">[1]</a> dedicated to [Włodzimierz Kotoński](https://en.wikipedia.org/wiki/W%C5%82odzimierz_Koto%C5%84ski). Later, during the mid 70s, he worked and published on computer chess concerning [arrays](Array "Array") and a [simplified evaluation function](Simplified_Evaluation_Function "Simplified Evaluation Function").
 
-## Contents
-
-- [1 Arrays](#arrays)
-- [2 Evaluation Function](#evaluation-function)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1970 ...](#1970-...)
-  - [3.2 1980 ...](#1980-...)
-  - [3.3 1990 ...](#1990-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Arrays
 
 Abstract of *Arrays for Programming Chess* <a id="cite-note-2" href="#cite-ref-2">[2]</a>

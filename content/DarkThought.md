@@ -8,23 +8,6 @@ title: DarkThought
 
 a chess program by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch") and [Markus Gille](Markus_Gille "Markus Gille") from the [University of Karlsruhe](https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology/). The development of DarkThought started in 1993, when Heinz and Gillgasch founded a computer-chess group to write a chess program using [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . In 1994, Markus Gille joined the team <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and Peter Gillgasch left the DarkThought team in April 1996 <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 1995](#1995)
-  - [1.2 1997](#1997)
-  - [1.3 1999](#1999)
-- [2 Photos & Games](#photos-.26-games)
-  - [2.1 WCCC 1995](#wccc-1995)
-  - [2.2 Aegon 1997](#aegon-1997)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Descriptions
 
 from the [ICGA](ICGA "ICGA") page <a id="cite-note-5" href="#cite-ref-5">[5]</a>

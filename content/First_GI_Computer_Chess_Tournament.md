@@ -6,16 +6,6 @@ title: First GI Computer Chess Tournament
 \[ [Dortmund Old Town Hall](https://en.wikipedia.org/wiki/Altes_Stadthaus,_Dortmund)
 The **First GI Computer Chess Tournament** took place from October 17-20, [1975](Timeline#1975 "Timeline") in [Dortmund](https://en.wikipedia.org/wiki/Dortmund) [Old Town Hall](https://en.wikipedia.org/wiki/Altes_Stadthaus,_Dortmund). It was the very first German computer chess tournament, and was hosted by [Gesellschaft für Informatik](https://en.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Informatik) (abbreviated as "**GI**" and translated as "German Informatics Society") <a id="cite-note-1" href="#cite-ref-1">[1]</a> , organized by [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician") from the [University of Dortmund](University_of_Dortmund "University of Dortmund"). Eight programs played a three rounds [swiss system](https://en.wikipedia.org/wiki/Swiss_system_tournament). The award ceremony took place at [Dortmunder Actien Brauerei](https://en.wikipedia.org/wiki/Dortmunder_Actien_Brauerei) <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 Participants](#participants)
-- [3 Playoff](#playoff)
-- [4 Tournament Director](#tournament-director)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Final Standing
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -9,28 +9,6 @@ title: Fat FritzFat Fritz 2
 a commercial chess entity by [ChessBase](ChessBase "ChessBase"), the first version released in November 2019 featuring a set of custom made [neural network](Neural_Networks "Neural Networks") weights that work in the open source project [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") within its [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") executable,
 while **Fat Fritz 2.0** released in February 2021 is based on [Stockfish 12](Stockfish_NNUE "Stockfish NNUE") and custom [NNUE](NNUE "NNUE") technology.
 
-## Contents
-
-- [1 Fat Fritz 1](#Fat_Fritz_1)
-- [2 Fat Fritz 2](#Fat_Fritz_2)
-- [3 See also](#See_also)
-- [4 Forum Posts](#Forum_Posts)
-  - [4.1 2019](#2019)
-  - [4.2 2020](#2020)
-  - [4.3 2021](#2021)
-  - [4.4 2022](#2022)
-- [5 Blog Posts](#Blog_Posts)
-- [6 External Links](#External_Links)
-  - [6.1 Purchase](#Purchase)
-  - [6.2 ChessBase News](#ChessBase_News)
-    - [6.2.1 2019](#2019_2)
-    - [6.2.2 2020](#2020_2)
-    - [6.2.3 2021](#2021_2)
-  - [6.3 Fritz 17](#Fritz_17)
-  - [6.4 Source Code](#Source_Code)
-  - [6.5 Rating Lists](#Rating_Lists)
-- [7 References](#References)
-
 ## Fat Fritz 1
 
 Initially introduced as a cloud project in summer 2019, inspired by [DeepMind's](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") ground breaking [AlphaZero](AlphaZero "AlphaZero") approach combining [Deep learning](Deep_Learning "Deep Learning") with [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) [[2]](#cite_note-2),

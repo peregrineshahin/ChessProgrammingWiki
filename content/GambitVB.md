@@ -12,13 +12,6 @@ GambitVB is [object-oriented](https://en.wikipedia.org/wiki/Object-orientation),
 The original GambitVB.info site is no longer available, **VBChess 4.4.rar** is hosted by [Ron Murawski](Ron_Murawski "Ron Murawski") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and contains [self-extracting executables](https://en.wikipedia.org/wiki/Self-extracting_archive) for the sources, [pdf](https://en.wikipedia.org/wiki/PDF) and [word document](https://en.wikipedia.org/wiki/Microsoft_Word#File_formats) files.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Description
 
 GambitVB uses a [10x12 Board](10x12_Board "10x12 Board") to apply [alpha-beta](Alpha-Beta "Alpha-Beta") with [killer heuristic](Killer_Heuristic "Killer Heuristic") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [aspiration windows](Aspiration_Windows "Aspiration Windows"). Since GambitVB v2, the program performs some kind of [best-first](Best-First "Best-First") algorithm and keeps huge parts of the [search tree](Search_Tree "Search Tree") in [memory](Memory "Memory"),

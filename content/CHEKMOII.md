@@ -8,15 +8,6 @@ title: CHEKMOII
 **CHEKMO-II**, (CheckMo-II)
 the *classical* chess program for the [PDP-8](PDP-8 "PDP-8"), written in the 70s by [Digital Equipment Corporation](Digital_Equipment_Corporation "Digital Equipment Corporation") instructor [John E. Comeau](John_E._Comeau "John E. Comeau") in PAL-8, the PDP-8 [assembly](Assembly "Assembly") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Abstract](#abstract)
-- [2 Known Deficiencies](#known-deficiencies)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Abstract
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

@@ -10,18 +10,6 @@ a didactic [convolutional neural network](Neural_Networks#Convolutional "Neural 
 ConvChess was likely the first chess playing entity using a CNN, as mentioned by [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") et al. <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 ConvChess is implemented in [Python](Python "Python"), using the [python-chess](Python-chess "Python-chess") and [NumPy](https://en.wikipedia.org/wiki/NumPy) libraries, source code and datasets available on [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Idea](#idea)
-- [2 Network](#network)
-- [3 Training](#training)
-- [4 Results](#results)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Idea
 
 Inspired by the [supervised learning](Supervised_Learning "Supervised Learning") approach of [Christopher Clark](Christopher_Clark "Christopher Clark") and [Amos Storkey](Amos_Storkey "Amos Storkey") to predict moves in [Go](Go "Go") without any [search](Search "Search"),

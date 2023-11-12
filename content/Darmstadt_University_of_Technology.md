@@ -6,13 +6,6 @@ title: Darmstadt University of Technology
 \[ TU Darmstadt <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Darmstadt University of Technology** (TU Darmstadt), [Darmstadt](https://en.wikipedia.org/wiki/Darmstadt), [Germany](https://en.wikipedia.org/wiki/Germany).
 
-## Contents
-
-- [1 People](#people)
-- [2 Engines](#engines)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Oleg Arenz](index.php?title=Oleg_Arenz&action=edit&redlink=1 "Oleg Arenz (page does not exist)")

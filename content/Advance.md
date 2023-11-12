@@ -7,18 +7,6 @@ title: Advance
 
 a chess system by [Mike Johnson](Mike_Johnson "Mike Johnson") and [Dave Wilson](Dave_Wilson "Dave Wilson"), based on a home constructed and built hardware with [bit slice](https://en.wikipedia.org/wiki/Bit_slicing) technology, controlled by a general purpose [microprocessor](https://en.wikipedia.org/wiki/Microprocessor), until version **3.0** a [6502](6502 "6502"), the Advance **68k** in 1986 had the 16-bit [68000](68000 "68000"). The bit slice technique allowed Advance to utilize [bitboards](Bitboards "Bitboards") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, along with [sliding piece attack](Sliding_Piece_Attacks "Sliding Piece Attacks") and [move generation](Move_Generation "Move Generation").
 
-## Contents
-
-- [1 Tournaments](#tournaments)
-- [2 Selected Games](#selected-games)
-  - [2.1 Duel vs. Mainframe](#duel-vs.-mainframe)
-  - [2.2 Bit-Slice Duel](#bit-slice-duel)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Tournaments
 
 Advance had its debut at the [WMCCC 1980](WMCCC_1980 "WMCCC 1980") in [London](https://en.wikipedia.org/wiki/London) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, mentioned as [Mike 3](Mike "Mike"), the name of Mike Johnson's older program, and a few weeks later officially as Advance **1.0** at the [WCCC 1980](WCCC_1980 "WCCC 1980") in [Linz](https://en.wikipedia.org/wiki/Linz). Due to its technology the micro computer status was disputed <a id="cite-note-3" href="#cite-ref-3">[3]</a>, but it was allowed to play the [European Microcomputer Chess Championships](European_Microcomputer_Chess_Championship "European Microcomputer Chess Championship").

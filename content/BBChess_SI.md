@@ -8,18 +8,6 @@ title: BBChess SI
 a free [open source engine](Category:Open_Source "Category:Open Source") licensed under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), written in [ANSI C](C "C") by [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković") starting in 2005. BBChess is [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible and can be compiled for [Linux](Linux "Linux") and [Windows](Windows "Windows").
 It performs a [parallel search](Parallel_Search "Parallel Search") using [threads](Thread "Thread"), [PVS](Principal_Variation_Search "Principal Variation Search"), and determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [magic bitboards](Magic_Bitboards "Magic Bitboards").
 
-## Contents
-
-- [1 Differential Evolution](#differential-evolution)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Differential Evolution
 
 BBChess' was further object of research in [genetic programming](Genetic_Programming "Genetic Programming") at *Computer Architecture and Languages Laboratory* <a id="cite-note-1" href="#cite-ref-1">[1]</a>, Institute of Computer Science at [University of Maribor](University_of_Maribor "University of Maribor"), its [evaluation](Evaluation "Evaluation") was [tuned](Automated_Tuning "Automated Tuning") by [differential evolution](https://en.wikipedia.org/wiki/Differential_evolution) (**DE**), which was also topic of Bošković's Ph.D. thesis <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

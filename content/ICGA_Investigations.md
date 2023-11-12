@@ -3,25 +3,6 @@ title: ICGA Investigations
 ---
 **[Home](Home "Home") * [Organizations](Organizations "Organizations") * [ICGA](ICGA "ICGA") * Investigations**
 
-## Contents
-
-- [1 The Charter](#the-charter)
-- [2 ICGA Clone and Derivative Investigation Panel](#icga-clone-and-derivative-investigation-panel)
-  - [2.1 1 Purpose](#1-purpose)
-  - [2.2 2 Membership](#2-membership)
-  - [2.3 3 Operation of the Panel](#3-operation-of-the-panel)
-  - [2.4 4 General Matters](#4-general-matters)
-- [3 Investigation Topics](#investigation-topics)
-  - [3.1 Background](#background)
-  - [3.2 Controversies](#controversies)
-  - [3.3 Further Complaints](#further-complaints)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2011](#2011)
-  - [4.2 2012](#2012)
-  - [4.3 2014](#2014)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## The Charter
 
 **The ICGA Clone and Derivative Investigation Panel** <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>

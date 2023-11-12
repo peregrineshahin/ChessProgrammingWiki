@@ -10,19 +10,6 @@ an American mathematician and computer scientist, along with [Richard Greenblatt
 
 In the 70s, Bill Gosper moved to [Stanford University](Stanford_University "Stanford University") for some years, where he lectured and helped [Donald Knuth](Donald_Knuth "Donald Knuth") to write volume II of [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming). He has worked at or consulted for [Xerox PARC](https://en.wikipedia.org/wiki/PARC_%28company%29), [Symbolics](https://en.wikipedia.org/wiki/Symbolics), [Wolfram Research](https://en.wikipedia.org/wiki/Wolfram_Research), the [Lawrence Livermore National Laboratory](Lawrence_Livermore_National_Laboratory "Lawrence Livermore National Laboratory"), and [Macsyma](https://en.wikipedia.org/wiki/Macsyma) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Bill Gosper created numerous [packing problem](https://en.wikipedia.org/wiki/Packing_problem) puzzles such as the *Twubblesome Twelve* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and was interested in the [Conway's](John_H._Conway "John H. Conway") [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), where he found the [Gun](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29%7CGlider) and originated the [Hashlife](https://en.wikipedia.org/wiki/Hashlife) algorithm to speed up the computation of Life patterns.
 
-## Contents
-
-- [1 Robert Q](#robert-q)
-- [2 HAKMEM](#hakmem)
-  - [2.1 HAKMEM 70](#hakmem-70)
-  - [2.2 HAKMEM 169](#hakmem-169)
-  - [2.3 HAKMEM 175](#hakmem-175)
-- [3 Gosper's Glider Gun](#gosper.27s-glider-gun)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Robert Q
 
 First tournament game by a computer, Carl Wagner (2190) - [Mac Hack VI](Mac_Hack "Mac Hack") aka "[Robert Q](Template:Robert_Q "Template:Robert Q")", January 21, 1967 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

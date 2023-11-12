@@ -9,13 +9,6 @@ title: Alessandro Iavicoli
 an Italian computer scientist with a degree from [University of Trento](https://en.wikipedia.org/wiki/University_of_Trento), currently residing in [Lower Saxony](https://en.wikipedia.org/wiki/Lower_Saxony), Germany.
 Alessandro is author of the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant [open source chess engine](Category:Open_Source "Category:Open Source") [AdaChess](AdaChess "AdaChess") - as the name suggests, written in [Ada](index.php?title=Ada&action=edit&redlink=1 "Ada (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](https://www.csvn.nl/index.php/nieuws/51-toernooien/813-pt54-round-3)

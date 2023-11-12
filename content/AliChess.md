@@ -8,15 +8,6 @@ title: AliChess
 
 an [UCI](UCI "UCI") compliant chess engine by German [blind](https://en.wikipedia.org/wiki/Visual_impairment) software developer [Anton Lindenmair](Anton_Lindenmair "Anton Lindenmair"), which first appeared in 2006 on [Playchess](index.php?title=Playchess&action=edit&redlink=1 "Playchess (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [AliBaba](AliBaba "AliBaba")

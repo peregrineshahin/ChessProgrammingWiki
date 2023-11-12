@@ -6,15 +6,6 @@ title: ACM North American Computer Chess Championship
 \[\_logo.svg) ACM logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 The [Association for Computing Machinery](ACM "ACM") (ACM) hosted the first major chess tournament for computers, the **1st ACM United States Computer Chess Championship**, in September 1970 in [New York](https://en.wikipedia.org/wiki/New_York_City). The event was organized by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), Professor of Computer Science at [McGill University](McGill_University "McGill University") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The ACM chess events, in 1975 renamed the **ACM North American Computer Chess Championship**, and in 1991 the **ACM International Computer Chess Championship**, were canceled in 1995 as [Deep Blue](Deep_Blue "Deep Blue") was preparing for the first match against world chess champion [Garry Kasparov](Garry_Kasparov "Garry Kasparov").
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Editions
 
 |  Edition

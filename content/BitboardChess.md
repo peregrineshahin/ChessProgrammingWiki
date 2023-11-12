@@ -10,17 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant, didactic [open source chess program
 but [move generation](Move_Generation "Move Generation") of [sliding pieces](Sliding_Pieces "Sliding Pieces") is done in [mailbox](Mailbox "Mailbox") manner
 iterating over [ray directions](Direction#RayDirections "Direction") and pre-calculated [target squares](Target_Square "Target Square"), radiating from the [piece origin](Origin_Square "Origin Square") along with end of ray and blocker conditions <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Publication](#publication)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

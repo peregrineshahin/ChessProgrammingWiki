@@ -8,20 +8,6 @@ title: Deus X
 
 a chess playing entity powered by [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") due to [Albert Silver](Albert_Silver "Albert Silver") to produce (train) and use (during game play) the weights of the [convolutional neural network](Neural_Networks#Convolutional "Neural Networks"), relaxing the "Zero" paradigm of pure [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") by [supervised learning](Supervised_Learning "Supervised Learning"), that is feeding in high quality games played by other strong chess playing entities.
 
-## Contents
-
-- [1 Lc0 and DeusX Diagrams](#lc0-and-deusx-diagrams)
-- [2 Tournament Play](#tournament-play)
-  - [2.1 TCEC Season 13](#tcec-season-13)
-  - [2.2 PT 54](#pt-54)
-  - [2.3 WCRCC 2019](#wcrcc-2019)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Lc0 and DeusX Diagrams
 
 [](File:Lc0diagram.png)

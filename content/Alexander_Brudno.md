@@ -10,18 +10,6 @@ was a Russian Jewish mathematician, computer scientist and computer chess pionee
 
 Brudno, also at ITEP at that time was a personal and like­minded friend of Kronrod <a id="cite-note-4" href="#cite-ref-4">[4]</a>. According to [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), Alexander Brudno led the team that created the chess program [Kaissa](Kaissa "Kaissa") at Moscow’s [Institute of Control Sciences](Institute_of_Control_Sciences "Institute of Control Sciences") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. From 1991 until his death he lived in Israel <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 John McCarthy](#john-mccarthy)
-  - [1.2 Ershov and Shura-Bura](#ershov-and-shura-bura)
-  - [1.3 Landis and Yaglom](#landis-and-yaglom)
-  - [1.4 Mikhail Donskoy](#mikhail-donskoy)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Quotes
 
 ## John McCarthy

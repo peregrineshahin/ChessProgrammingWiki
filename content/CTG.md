@@ -8,14 +8,6 @@ title: CTG
 an opening book format by [ChessBase](ChessBase "ChessBase"), supported by their [Fritz GUI](Fritz#FritzGUI "Fritz") and [ChessBase GUI](</ChessBase_(Database)> "ChessBase (Database)"), and therefore used by all chess engines compatible with these commercial user interfaces. While the book format is proprietary, a partial specification was leaked for the purpose of interoperability <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Each Chessbase book consists of four files, the binary **CTG** file contains the real data, the **INI** text file provides auxilliary information, the **CTB** file some kind of bitmap over free pages in the CTG file, and the **CTO** file, containing a lookup table into the CTG file for fast indexed access.
 Only White to move [positions](Chess_Position "Chess Position") along with its [moves](Moves "Moves"), annotations and engine recommendations, and statistics are stored, probing black positions requires [color flipping](Color_Flipping "Color Flipping"), of course including [en passant](En_passant "En passant") square and [castling rigths](Castling_Rights "Castling Rights"). Further, if the white king is on files a-d, and neither side has any castling rights remaining, the board is [mirrored horizontally](Horizontal_Mirroring "Horizontal Mirroring"). The CTG file is organized in 4KiB pages, the first page contains header information such as the number of games, followed by consecutive data pages. Each data page starts with an header specifying the number of positions and bytes per page, followed by a [list](Linked_List "Linked List") of a variable length position entries.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Open Source Engines](#open-source-engines)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [ABK](ABK "ABK") - [Arena's](Arena "Arena") book format

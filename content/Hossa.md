@@ -10,17 +10,6 @@ a chess program by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), writ
 According to [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), Hossa has an [asymmetrical](Asymmetric_Evaluation "Asymmetric Evaluation") [king safety](King_Safety "King Safety") mode. If Hossa is about 1.5 pawn units down, it increases the scoring of own attacks versus the opponent king, encouraging wild attacks on any costs with the chance of a lucky punch, instead of slowly loosing the game otherwise <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 Hossa played the eight first [CCT Tournaments](CCT_Tournaments "CCT Tournaments") from [CCT1](CCT1 "CCT1") to [CCT8](CCT8 "CCT8"), and further competed at the [WCCC 2003](WCCC_2003 "WCCC 2003") in [Graz](https://en.wikipedia.org/wiki/Graz).
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 ParSOS](#parsos)
-  - [1.2 Ruy Lopez](#ruy-lopez)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Photos & Games
 
 ## ParSOS

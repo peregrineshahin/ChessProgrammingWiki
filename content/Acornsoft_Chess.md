@@ -9,13 +9,6 @@ title: Acornsoft Chess
 a commercial chess program for the [BBC Micro, Model B](BBC_Micro "BBC Micro") and [Acorn Electron](BBC_Micro#Electron "BBC Micro") written by [Arthur Norman](Arthur_Norman "Arthur Norman") and [Nick Pelling](Nick_Pelling "Nick Pelling") in [6502](6502 "6502") [assembly](Assembly "Assembly") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and released in 1982 and 1983 respectively by [Acornsoft](https://en.wikipedia.org/wiki/Acornsoft).
 Chess recognizes all legal [chess moves](Moves "Moves"), including [castling](Castling "Castling"), [en passant](En_passant "En passant"), [queening](Promotions "Promotions"), and [minor promotions](Promotions#MinorPromotion "Promotions"). The program uses [pure coordinates](Algebraic_Chess_Notation#PureCoordinateNotation "Algebraic Chess Notation") for [game notation](Game_Notation "Game Notation") and [entering moves](Entering_Moves "Entering Moves"), allows to manually set up [positions](Chess_Position "Chess Position") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and it features 10 levels of play.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Screenshot
 
 [](http://bbcmicro.co.uk/game.php?id=924)

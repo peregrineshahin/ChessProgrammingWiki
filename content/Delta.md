@@ -8,18 +8,6 @@ title: Delta
 
 a chess program by [Fré Felkers](Fr%C3%A9_Felkers "Fré Felkers") written in [Turbo Pascal](Pascal#TurboPascal "Pascal") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Delta played eleven [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") in the period from [1985](DOCCC_1985 "DOCCC 1985") <a id="cite-note-3" href="#cite-ref-3">[3]</a> to [1998](DOCCC_1998 "DOCCC 1998"), best result in [1991](DOCCC_1991 "DOCCC 1991") with 2½ out of 7, as well the [WMCCC 1990](WMCCC_1990 "WMCCC 1990") in [Lyon](https://en.wikipedia.org/wiki/Lyon) and the [IPCCC 1991](IPCCC_1991 "IPCCC 1991").
 
-## Contents
-
-- [1 Games](#games)
-  - [1.1 WMCCC 1990](#wmccc-1990)
-  - [1.2 DOCCC 1991](#doccc-1991)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Games
 
 ## WMCCC 1990

@@ -8,20 +8,6 @@ title: Countermove Heuristic
 
 a dynamic move ordering heuristic introduced by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") in 1992, which shows some similarities with the [killer-](Killer_Heuristic "Killer Heuristic"), [refutation-](Refutation_Table "Refutation Table") and [history heuristic](History_Heuristic "History Heuristic") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . This heuristic assumes that many moves have a "natural" response, irrespective of the actual position, and is easy to implement either with a 64 * 64 [butterfly table](Butterfly_Boards "Butterfly Boards") or alternatively a more memory friendly 6 * 64 [array](Array "Array") for each [side to move](Side_to_move "Side to move"), indexed by \[from\]\[to\] or by \[piece\]\[to\] <a id="cite-note-3" href="#cite-ref-3">[3]</a> of the previous move, containing the counter move. The nature of the countermove heuristic renders it complementary to the killer heuristic, substituting position with same distance to the root with the last move played.
 
-## Contents
-
-- [1 Update](#update)
-- [2 Move Score](#move-score)
-- [3 Butterfly Moves](#butterfly-moves)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2005 ...](#2005-...)
-  - [6.2 2010 ...](#2010-...)
-  - [6.3 2015 ...](#2015-...)
-  - [6.4 2020 ...](#2020-...)
-- [7 References](#references)
-
 ## Update
 
 This is how the counter move [array](Array "Array") is updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs:

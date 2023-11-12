@@ -8,20 +8,6 @@ title: Connect6
 
 a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy_game) board game of the k-in-a-row family similar to [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)"), introduced in 2003 by [I-Chen Wu](I-Chen_Wu "I-Chen Wu") and presented at [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11") in 2005. Black and White alternately place **two** stones of their own colour on empty intersections of a Go-like board, except that Black (the first player) places one stone only for the first move <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The one who gets six or more stones in a row (horizontally, vertically or diagonally) first wins the game. Most often, Connect6 is played on a 19x19 Go board, proposed for professional players is a 59x59 board <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Since 2006, Connect6 is played regularely by computers at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad") organized by the [ICGA](ICGA "ICGA") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. [Search](Search "Search") algorithms used are [Alpha-Beta](Alpha-Beta "Alpha-Beta") / [MTD(f)](</MTD(f)> "MTD(f)") along with [VCF](index.php?title=VCF&action=edit&redlink=1 "VCF (page does not exist)") search (Victory by Continuous Four) to find a path to win in the endgame <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [UCT](UCT "UCT"), as well as [Proof-Number Search](Proof-Number_Search "Proof-Number Search") also in conjunction with the novel relevance-zone-oriented proof (RZOP) search used to solve various openings, such as the Mickey Mouse opening <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Programs](#selected-programs)
-- [2 GUI](#gui)
-- [3 Computer Olympiads](#computer-olympiads)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 2005 ...](#2005-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Selected Programs
 
 - [Bitstronger](https://www.game-ai-forum.org/icga-tournaments/program.php?id=558) aka [Cloudict](index.php?title=Liang_Li&action=edit&redlink=1 "Liang Li (page does not exist)") by [Liang Li](index.php?title=Liang_Li&action=edit&redlink=1 "Liang Li (page does not exist)"), [Hao Cui](index.php?title=Hao_Cui&action=edit&redlink=1 "Hao Cui (page does not exist)"), [Ruijian Wang](index.php?title=Ruijian_Wang&action=edit&redlink=1 "Ruijian Wang (page does not exist)"), [Siran Lin](index.php?title=Siran_Lin&action=edit&redlink=1 "Siran Lin (page does not exist)")

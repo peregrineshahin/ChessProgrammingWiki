@@ -10,16 +10,6 @@ a Singaporean computer scientist affiliated with the [National University of Sin
 As computer chess programmer, Chua Kong Sian is author of [Cobalt](Cobalt "Cobalt"), primary author of [GNU Chess](GNU_Chess "GNU Chess") Version 5 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and author of the [C++](Cpp "Cpp") [UCI](UCI "UCI") [bitboard-based](Bitboards "Bitboards") engine [Melee Chess](index.php?title=Melee_Chess&action=edit&redlink=1 "Melee Chess (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1992 ...](#1992-...)
-  - [1.2 1995 ...](#1995-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1992 ...

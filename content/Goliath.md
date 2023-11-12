@@ -12,25 +12,6 @@ the less knowledgeable but very fast **Little Goliath** (LG) was a formidable [B
 LG versions were distributed as [WinBoard](WinBoard "WinBoard") and later [UCI](UCI "UCI") compliant LG **Gold**, LG **2000**, also commercially released as [ChessBase](ChessBase "ChessBase") native [Young Talent](ChessBase#YoungTalents "ChessBase") Goliath **Light** 1.5 <a id="cite-note-7" href="#cite-ref-7">[7]</a> ,
 and **Goliath Blitz** as native [Chess Academy](index.php?title=Chess_Academy&action=edit&redlink=1 "Chess Academy (page does not exist)") engine, as Goliath **Mate**, LG **Nemesis**, LG **Revival** and LG **Evolution**.
 
-## Contents
-
-- [1 LG Evolution NN](#lg-evolution-nn)
-- [2 Tournament Play](#tournament-play)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 Gandalf 1997](#gandalf-1997)
-  - [3.2 Tao 2001](#tao-2001)
-  - [3.3 Rebel 2001](#rebel-2001)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1997 ...](#1997-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## LG Evolution NN
 
 About 16 years after the author made his own experiments with [neural networks](Neural_Networks "Neural Networks") in computer chess, in January 2022, Little Goliath **Evolution Neural Network Version 3.15** was released, featuring [NNUE](NNUE "NNUE") technology <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

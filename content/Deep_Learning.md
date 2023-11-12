@@ -8,39 +8,6 @@ title: Deep Learning
 
 a branch of machine learning based on a set of [algorithms](Algorithms "Algorithms") that attempt to model [high level](https://en.wikipedia.org/wiki/High_level) [abstractions](https://en.wikipedia.org/wiki/Abstraction) in [data](Data "Data") - characterized as a [buzzword](https://en.wikipedia.org/wiki/Buzzword), or a rebranding of neural networks. A [deep neural network](Neural_Networks#Deep "Neural Networks") (DNN) is an ANN with multiple hidden layers of units between the input and output layers which can be [discriminatively](https://en.wikipedia.org/wiki/Discriminative_model) trained with the standard [backpropagation algorithm](Neural_Networks#Backpropagation "Neural Networks"). Two common issues if naively trained are [overfitting](https://en.wikipedia.org/wiki/Overfitting) and computation time. While deep learning techniques have yielded in another breakthrough in computer [Go](Go "Go") (after [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")), some trials in computer chess were promising as well, but until December 2017, less spectacular.
 
-## Contents
-
-- [1 Go](#Go)
-- [2 Chess](#Chess)
-  - [2.1 Giraffe & Zurichess](#Giraffe_.26_Zurichess)
-  - [2.2 DeepChess](#DeepChess)
-  - [2.3 AlphaZero](#AlphaZero)
-  - [2.4 Leela Chess Zero](#Leela_Chess_Zero)
-- [3 See also](#See_also)
-- [4 Selected Publications](#Selected_Publications)
-  - [4.1 1965 ...](#1965_...)
-  - [4.2 1980 ...](#1980_...)
-  - [4.3 1990 ...](#1990_...)
-  - [4.4 2000 ...](#2000_...)
-  - [4.5 2010 ...](#2010_...)
-  - [4.6 2015 ...](#2015_...)
-  - [4.7 2020 ...](#2020_...)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 2014](#2014)
-  - [5.2 2015 ...](#2015_..._2)
-  - [5.3 2020 ...](#2020_..._2)
-- [6 External Links](#External_Links)
-  - [6.1 Networks](#Networks)
-  - [6.2 Software](#Software)
-    - [6.2.1 Libraries](#Libraries)
-    - [6.2.2 Chess](#Chess_2)
-    - [6.2.3 Games](#Games)
-    - [6.2.4 Music Generation](#Music_Generation)
-  - [6.3 Nvidia](#Nvidia)
-  - [6.4 Reports & Blogs](#Reports_.26_Blogs)
-  - [6.5 Videos](#Videos)
-- [7 References](#References)
-
 ## Go
 
 [Convolutional neural networks](Neural_Networks#Convolutional "Neural Networks") form a subclass of feedforward neural networks that have special weight constraints, individual neurons are tiled in such a way that they respond to overlapping regions. Convolutional NNs are suited for deep learning and are highly suitable for parallelization on [GPUs](GPU "GPU") [[2]](#cite_note-2). In 2014, two teams independently investigated whether deep convolutional neural networks could be used to directly represent and learn a move evaluation function for the game of [Go](Go "Go"). [Christopher Clark](Christopher_Clark "Christopher Clark") and [Amos Storkey](Amos_Storkey "Amos Storkey") trained an 8-layer convolutional neural network by [supervised learning](Supervised_Learning "Supervised Learning") from a database of human professional games, which without any [search](Search "Search"), defeated the traditional search program [Gnu Go](index.php?title=Gnu_Go&action=edit&redlink=1 "Gnu Go (page does not exist)") in 86% of the games [[3]](#cite_note-3) [[4]](#cite_note-4) [[5]](#cite_note-5) [[6]](#cite_note-6). In their paper *Move Evaluation in Go Using Deep Convolutional Neural Networks* [[7]](#cite_note-7), [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), and [David Silver](David_Silver "David Silver") report they trained a large 12-layer convolutional neural network in a similar way, to beat Gnu Go in 97% of the games, and matched the performance of a state-of-the-art [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") that simulates a million positions per move [[8]](#cite_note-8).

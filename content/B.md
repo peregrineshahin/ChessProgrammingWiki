@@ -8,24 +8,6 @@ title: B
 
 a [best-first](Best-First "Best-First") search algorithm that finds the least-cost path from the [root node](Root "Root") to any goal node out of one or more possible goals. B\* was first published by [Hans Berliner](Hans_Berliner "Hans Berliner") in [1977](Timeline#1977 "Timeline") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, it is related to the [A\* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm).
 
-## Contents
-
-- [1 Underlying Idea](#underlying-idea)
-- [2 Multiple Values](#multiple-values)
-- [3 Threats](#threats)
-- [4 Probability based Search](#probability-based-search)
-- [5 Two Step Search](#two-step-search)
-- [6 Comparison: B\* versus PVS](#comparison:-b.2a-versus-pvs)
-- [7 Rethinking PB\*](#rethinking-pb.2a)
-  - [7.1 Quality of Evaluation](#quality-of-evaluation)
-  - [7.2 Performance Considerations](#performance-considerations)
-- [8 Implementations](#implementations)
-- [9 See also](#see-also)
-- [10 Publications](#publications)
-- [11 Forum Posts](#forum-posts)
-- [12 External Links](#external-links)
-- [13 References](#references)
-
 ## Underlying Idea
 
 *There are things that must be found and things that must be known*

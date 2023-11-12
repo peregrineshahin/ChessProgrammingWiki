@@ -8,20 +8,6 @@ title: Cray1
 
 a [supercomputer](https://en.wikipedia.org/wiki/Supercomputer) designed, manufactured and marketed by [Cray Research Inc.](https://en.wikipedia.org/wiki/Cray#Cray_Research_Inc._and_Cray_Computer_Corporation:_1972_to_1996) since 1972. The first Cray-1 system was installed at [Los Alamos National Laboratory](Los_Alamos_National_Laboratory "Los Alamos National Laboratory") in 1976 and it went on to become one of the best known and most successful supercomputers in history, it reigned as the world’s fastest from 1976 to 1982 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Cray Research was founded by former [Control Data Corporation](https://en.wikipedia.org/wiki/Control_Data_Corporation) chief designer [Seymour Cray](https://en.wikipedia.org/wiki/Seymour_Cray) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, after CDC neglected to invest in Seymour Cray's [CDC 8600](https://en.wikipedia.org/wiki/CDC_8600) design.
 
-## Contents
-
-- [1 Architecture](#architecture)
-  - [1.1 CPU](#cpu)
-  - [1.2 Registers](#registers)
-  - [1.3 Instructions](#instructions)
-- [2 Chess Programs](#chess-programs)
-- [3 See also](#see-also)
-- [4 Manuals](#manuals)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Architecture
 
 The Cray-1 is a large-scale, general-purpose digital computer featuring scalar as well as [vector processing](https://en.wikipedia.org/wiki/Vector_processor), a 12.5 nanosecond clock period, and a 50 nanosecond memory cycle time. The basic configuration of the Cray-1 consists of the [central processor unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU), one or more minicomputer [consoles](https://en.wikipedia.org/wiki/System_console), and a [mass storage](https://en.wikipedia.org/wiki/Mass_storage) (disk) subsystem.

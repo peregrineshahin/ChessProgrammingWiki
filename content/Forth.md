@@ -10,13 +10,6 @@ a [structured](https://en.wikipedia.org/wiki/Structured_programming), [imperativ
 It performs arithmetical and logical operations on a stack in [reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
 Forth evolved from [Charles H. (Chuck) Moore's](https://en.wikipedia.org/wiki/Charles_H._Moore) programming system from 1958. Along with [Elizabeth Rather](https://en.wikipedia.org/wiki/Elizabeth_Rather), Chuck Moore founded the FORTH, Inc. <a id="cite-note-1" href="#cite-ref-1">[1]</a> in 1973.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Category:Forth](Category:Forth "Category:Forth")

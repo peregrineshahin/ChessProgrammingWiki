@@ -8,13 +8,6 @@ title: Albert Gower
 
 an American [musicologist](https://en.wikipedia.org/wiki/Musicology) and [professor emeritus](https://en.wikipedia.org/wiki/Professor_Emeritus) at the [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi"). He received a Ph.D. in [musical composition](https://en.wikipedia.org/wiki/Musical_composition) from [North Texas State University](https://en.wikipedia.org/wiki/University_of_North_Texas) in 1968 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess](#chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess
 
 As a [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_Chess) player, Al Gower served as a chess consultant working with [Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the chess program [Blitz](Blitz "Blitz"). Further supported by [Harry Nelson](Harry_Nelson "Harry Nelson"), he co-authored its successor [Cray Blitz](Cray_Blitz "Cray Blitz"), the two-time winner of the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship").

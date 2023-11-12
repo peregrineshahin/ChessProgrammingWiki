@@ -8,30 +8,6 @@ title: 12th Computer Olympiad
 [](https://www.game-ai-forum.org/icga-tournaments/event.php?id=40) Amsterdam 2007 <a id="cite-note-1" href="#cite-ref-1">[1]</a>\
 The **Twelfth Computer Olympiad** took place from June 11 to 18, [2007](Timeline#2007 "Timeline"), at [Amsterdam Science Park](https://en.wikipedia.org/wiki/Amsterdam_Science_Park), [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands), in conjunction with the [Computer Games Workshop 2007](CGW_2007 "CGW 2007") and the [15th World Computer Chess Championship](WCCC_2007 "WCCC 2007"). The three main sponsors [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), [SARA Computing Networks](https://en.wikipedia.org/wiki/SURFsara) (since 2013 SURFsara), and NCF (Foundation of National Computing Facilities) supported the [ICGA](ICGA "ICGA") events in the framework of their opening festivities of their new [Huygens supercomputer](<https://nl.wikipedia.org/wiki/Huygens_(supercomputer)>), taken into operation on June 13, 2007 by the [mayor of Amsterdam](https://en.wikipedia.org/wiki/List_of_mayors_of_Amsterdam), [Job Cohen](https://en.wikipedia.org/wiki/Job_Cohen) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Interestingly , the further developed [Go](Go "Go") Gold medal winner [MoGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=515), dubbed **MoGo Titan** soon caused some furor using that supercomputer <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Results](#results)
-  - [1.1 Amazons](#amazons)
-  - [1.2 Backgammon](#backgammon)
-  - [1.3 Chinese Chess](#chinese-chess)
-  - [1.4 Connect6](#connect6)
-  - [1.5 Draughts](#draughts)
-  - [1.6 Go](#go)
-    - [1.6.1 19x19](#19x19)
-    - [1.6.2 9x9](#9x9)
-  - [1.7 Phantom Go](#phantom-go)
-  - [1.8 Shogi](#shogi)
-  - [1.9 Surakarta](#surakarta)
-- [2 Group Photo](#group-photo)
-- [3 Tournament Directors](#tournament-directors)
-- [4 See also](#see-also)
-  - [4.1 Events](#events)
-  - [4.2 Video Interviews](#video-interviews)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Results
 
 ## [Amazons](Amazons "Amazons")

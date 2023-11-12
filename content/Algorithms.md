@@ -8,31 +8,6 @@ title: Algorithms
 
 in mathematics and computer science, methods for solving a problem expressed as a finite sequence of instructions. The term “algorithm” is derived from the name of [Muḥammad ibn Mūsā al-Khwārizmī](Mathematician#Algoritmi "Mathematician") (born approximately 780 in [Khwarezm](https://en.wikipedia.org/wiki/Khwarezm), died between 835 and 850), the [Persian](https://en.wikipedia.org/wiki/Persian_people) [mathematician](https://en.wikipedia.org/wiki/Mathematics_in_medieval_Islam), [astronomer](https://en.wikipedia.org/wiki/Astronomy_in_medieval_Islam), [geographer](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam), and scholar in the [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom) in [Baghdad](https://en.wikipedia.org/wiki/Baghdad), from the [Khorasan province](https://en.wikipedia.org/wiki/Khorasan_Province) of present-day [Uzbekistan](https://en.wikipedia.org/wiki/Uzbekistan) <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 General Concepts](#general-concepts)
-- [2 Sorting and Searching](#sorting-and-searching)
-- [3 Enumeration and Backtracking](#enumeration-and-backtracking)
-- [4 Mathematical Optimization](#mathematical-optimization)
-- [5 Combinatorial](#combinatorial)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-  - [7.1 1960 ...](#1960-...)
-  - [7.2 1970 ...](#1970-...)
-  - [7.3 1980 ...](#1980-...)
-  - [7.4 1990 ...](#1990-...)
-  - [7.5 2000 ...](#2000-...)
-  - [7.6 2010 ...](#2010-...)
-- [8 External Links](#external-links)
-  - [8.1 Algorithms](#algorithms)
-    - [8.1.1 Algebra and Calculus](#algebra-and-calculus)
-    - [8.1.2 Graphics](#graphics)
-    - [8.1.3 Linear Programming](#linear-programming)
-    - [8.1.4 Sorting and Searching](#sorting-and-searching-2)
-  - [8.2 Complexity](#complexity)
-  - [8.3 Misc](#misc)
-- [9 References](#references)
-
 ## General Concepts
 
 - [General Setwise Operations](General_Setwise_Operations "General Setwise Operations")

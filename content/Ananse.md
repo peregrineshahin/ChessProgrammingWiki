@@ -9,16 +9,6 @@ title: Ananse
 a chess program by [Walter Bannerman](Walter_Bannerman "Walter Bannerman"), which played various [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), [International Paderborn Computer Chess Championships](IPCCC "IPCCC") and four consecutive [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") from [1993](Aegon_1993 "Aegon 1993") to [1996](Aegon_1996 "Aegon 1996").
 While Ananse did quite well against humans, in computer tournaments it often suffered from [bugs](Engine_Testing#bugs "Engine Testing"), also due to premature, not well enough tested program changes between rounds, once even running Ananse under a [debugger](Debugging "Debugging") with breakpoints enabled ([WMCCC 1995](WMCCC_1995 "WMCCC 1995")). Competing programmers, who seemed obligated to win with their programs, often got nervous when Ananse played a good book line and [opening](Opening "Opening"), for instance during the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in [Jakarta](https://en.wikipedia.org/wiki/Jakarta), [Frans Morsch](Frans_Morsch "Frans Morsch") in the game of Ananse versus [Fritz](Fritz "Fritz").
 
-## Contents
-
-- [1 Description](#description)
-- [2 The Fritz Game](#the-fritz-game)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 given in 1997 from the [ICGA](ICGA "ICGA") site <a id="cite-note-2" href="#cite-ref-2">[2]</a> :

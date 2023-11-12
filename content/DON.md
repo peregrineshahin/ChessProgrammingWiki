@@ -10,14 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 distributed under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"). DON supports up to 512 cores for its [parallel search](Parallel_Search "Parallel Search"), and up to 1024 GiB of [hash](Transposition_Table "Transposition Table") [memory](Memory "Memory") including [large pages](Memory#HugePages "Memory")
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Since August 2020, DON incorporates [NNUE](NNUE "NNUE") based on [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [DON 1.0b derivate Glaurung](http://www.talkchess.com/forum/viewtopic.php?t=51151) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), February 03, 2014

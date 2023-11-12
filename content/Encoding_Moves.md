@@ -6,30 +6,6 @@ title: Encoding Moves
 \[ [Daoist](https://en.wikipedia.org/wiki/Taoism) [Bagua](https://en.wikipedia.org/wiki/Bagua) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Encoding Moves** inside a chess program refers to both [game records](Chess_Game#GameRecord "Chess Game") or [game notation](Game_Notation "Game Notation"), and [search](Search "Search") related [generation](Move_Generation "Move Generation"), [make](Make_Move "Make Move") and [unmake move](Unmake_Move "Unmake Move") to [incremental update](Incremental_Updates "Incremental Updates") the [board](Chessboard "Chessboard"). During generation, moves are stored inside [move lists](Move_List "Move List"), and [best moves](Best_Move "Best Move") or [refutation moves](Refutation_Move "Refutation Move") [failing high](Fail-High "Fail-High") inside the [search](Search "Search") are stored inside the [transposition table](Transposition_Table "Transposition Table"), [Killer slots](Killer_Heuristic "Killer Heuristic"), [PV-](Triangular_PV-Table "Triangular PV-Table") or [refutation table](Refutation_Table "Refutation Table"), and moves, or certain aspects of a move, such as [origin square](Origin_Square "Origin Square") and the [target square](Target_Square "Target Square") are used to index [butterfly boards](Butterfly_Boards "Butterfly Boards") for [history](History_Heuristic "History Heuristic")- or [countermove heuristic](Countermove_Heuristic "Countermove Heuristic").
 
-## Contents
-
-- [1 Space-Time Tradeoff](#space-time-tradeoff)
-- [2 Information Required](#information-required)
-  - [2.1 From-To Based](#from-to-based)
-  - [2.2 Extended Move Structure](#extended-move-structure)
-  - [2.3 C++ Sample](#c.2b.2b-sample)
-- [3 Various Encodings and Decorations](#various-encodings-and-decorations)
-  - [3.1 Algebraic Notation](#algebraic-notation)
-  - [3.2 Direction-Target](#direction-target)
-  - [3.3 Check Flag](#check-flag)
-  - [3.4 Move Index](#move-index)
-  - [3.5 Move Enumeration](#move-enumeration)
-    - [3.5.1 Per Piece and Square](#per-piece-and-square)
-    - [3.5.2 Over All Pieces and Squares](#over-all-pieces-and-squares)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1993 ...](#1993-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2010 ...](#2010-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Space-Time Tradeoff
 
 Move encoding in [game records](Chess_Game#GameRecord "Chess Game") and [game databases](Databases "Databases") is usually designed to minimize size, while in [search](Search "Search") efficiency in generating is the main concern, considering [board representation](Board_Representation "Board Representation") and other data structures like [attack and defend maps](Attack_and_Defend_Maps "Attack and Defend Maps"). In general, move encoding either comprehend full information, that is contains involved [pieces](Pieces "Pieces") and square coordinates, or more common, omits the redundant piece information and relies on a adequate board representation to lookup the pieces by square. In [Alpha-Beta](Alpha-Beta "Alpha-Beta") like search, an important consideration is lazy move generation, to delay acquisition of certain information until it is really needed, which might be never in case of [Cut-nodes](Node_Types#CUT "Node Types").

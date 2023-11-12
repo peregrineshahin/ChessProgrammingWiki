@@ -7,26 +7,6 @@ by [Mark Watkins](Mark_Watkins "Mark Watkins")
 
 Here might be a historical perspective. From page 62 of [Hayes](Jean_Hayes_Michie "Jean Hayes Michie") and [Levy](David_Levy "David Levy"), *World Computer Chess*, Stockholm 1974 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Numerical Evaluation of Positions](#numerical-evaluation-of-positions)
-  - [1.1 CHAOS](#chaos)
-  - [1.2 The Ostrich](#the-ostrich)
-  - [1.3 Chess 4.0](#chess-4.0)
-  - [1.4 Kaissa](#kaissa)
-- [2 Analyse](#analyse)
-  - [2.1 Center Control](#center-control)
-  - [2.2 Levy Development](#levy-development)
-  - [2.3 Queen Bonus](#queen-bonus)
-  - [2.4 Rook Bonus](#rook-bonus)
-  - [2.5 Bishop Bonus](#bishop-bonus)
-  - [2.6 Knight Mobility](#knight-mobility)
-  - [2.7 King's mobility](#king.27s-mobility)
-  - [2.8 Attack/Defence](#attack.2fdefence)
-- [3 Final Definition](#final-definition)
-- [4 See also](#see-also)
-- [5 References](#references)
-
 ## Numerical Evaluation of Positions
 
 In the section devoted to notes on the competing programs, the respective [evaluation](Evaluation "Evaluation") functions for [CHAOS](CHAOS "CHAOS") and [The Ostrich](Ostrich "Ostrich") are discussed in some detail. *CHAOS* uses nineteen features and *The Ostrich* only thirteen, but the latter plans to increase this number in later incarnations. They have approximately eleven features in common: 'approximately', because the concepts are divided differently. The overlap here is not surprising since all scoring functions aim to embody 'reliable' chess heuristics: the weightings may differ, but the features themselves are similar. One of the eleven concepts shared by *CHAOS* and *The Ostrich* is [material](Material "Material"): this is the dominant factor no only in these two programs but also in the majority of chess playing programs. Exceptions are [Freedom](Freedom "Freedom"), which stresses [mobility](Mobility "Mobility"), and [Papa](Papa "Papa"), which concentrates on 'entropy' (basically a mobility measure). Other shared concepts include mobility, control of the centre, [castling](Castling "Castling"), [king safety](King_Safety "King Safety") and assorted terms concerned with [pawn structure](Pawn_Structure "Pawn Structure"): the latter include bonus points for occupancy of the centre, advancement, [passed pawns](Passed_Pawn "Passed Pawn"), a bonus for [doubling opponents' pawns](Doubled_Pawn "Doubled Pawn") with a penalty for doubling one's own, and a penalty for blocking development of one's own pieces. The delicate matter of handling pawn structures has not been mastered satisfactorily by any current program \[...\] For instance, all seem to place disproportionate faith in the concept of doubling the opponent's pawns (see records of games 1 and 4). [CHAOS](CHAOS "CHAOS") also considers the number of threatened pieces, [pins](Pin "Pin") and [discovered checks](Discovered_Check "Discovered Check"), king end-game position, and capturing and mobility *potential*.

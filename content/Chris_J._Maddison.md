@@ -8,13 +8,6 @@ title: Chris J. Maddison
 
 a Canadian computer scientist affiliated with the [University of Toronto](University_of_Toronto "University of Toronto"). His reaearch interests include [machine learning](Learning "Learning"), [neural networks](Neural_Networks "Neural Networks"), [deep learning](Deep_Learning "Deep Learning"), [inference](https://en.wikipedia.org/wiki/Inference), [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method), and how can we simulate complex models of the world <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 DCNNs in Go](#dcnns-in-go)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## DCNNs in Go
 
 In their 2014 paper *Move Evaluation in Go Using Deep Convolutional Neural Networks* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Chris J. Maddison, [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), and [David Silver](David_Silver "David Silver") investigate whether [deep convolutional neural networks](Go#CNN "Go") can be used to directly represent and [learn](Deep_Learning "Deep Learning") a move evaluation function for the game of [Go](Go "Go"). They train a large 12-layer convolutional neural network by [supervised learning](Supervised_Learning "Supervised Learning") from a database of human professional games. The network correctly predicted the expert move in 55% of positions, equalling the accuracy of a 6 dan human player. When the trained convolutional network was used directly to play games of Go, without any [search](Search "Search"), it beat the traditional search program [Gnu Go](index.php?title=Gnu_Go&action=edit&redlink=1 "Gnu Go (page does not exist)") in 97% of games, and matched the performance of a state-of-the-art [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") that simulates a million positions per move <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

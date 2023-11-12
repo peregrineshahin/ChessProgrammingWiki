@@ -8,31 +8,6 @@ title: HIARCS
 
 an [UCI](UCI "UCI") compliant chess engine written by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"). HIARCS is an acronym for Higher Intelligence Auto Response Chess System, and its history of development lasts over 30 years now. Because HIARCS is written portable in [C](C "C"), it is available for multiple platforms such as [Pocket PC](https://en.wikipedia.org/wiki/Pocket_PC), [Palm](https://en.wikipedia.org/wiki/Palm_%28PDA%29), [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [iPhone](index.php?title=IPhone&action=edit&redlink=1 "IPhone (page does not exist)") & [iPod Touch](index.php?title=IPod_Touch&action=edit&redlink=1 "IPod Touch (page does not exist)"), [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant), [PC](IBM_PC "IBM PC") and [Macintosh](Macintosh "Macintosh") computers.
 
-## Contents
-
-- [1 History](#history)
-  - [1.1 Basic](#basic)
-  - [1.2 C](#c)
-- [2 Achievements](#achievements)
-- [3 HIARCS Team](#hiarcs-team)
-- [4 Man-Machine](#man-machine)
-- [5 Descriptions](#descriptions)
-  - [5.1 1999](#1999)
-  - [5.2 2008](#2008)
-- [6 Commerce](#commerce)
-- [7 Chess Explorer](#chess-explorer)
-- [8 Release Dates](#release-dates)
-- [9 See also](#see-also)
-- [10 Publictions](#publictions)
-- [11 Forum Posts](#forum-posts)
-  - [11.1 1993 ...](#1993-...)
-  - [11.2 1995 ...](#1995-...)
-  - [11.3 2000 ...](#2000-...)
-  - [11.4 2010 ...](#2010-...)
-  - [11.5 2020 ...](#2020-...)
-- [12 External Links](#external-links)
-- [13 References](#references)
-
 ## History
 
 ## Basic

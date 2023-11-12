@@ -7,14 +7,6 @@ title: George Baylor
 
 a retired professor of [psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)") from [University of Montreal](https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al). He is author of a number of papers on [dreams](https://en.wikipedia.org/wiki/Dream) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and is a consulting editor for the *ASD journal, Dreaming* <a id="cite-note-2" href="#cite-ref-2">[2]</a> . He has done clinical training in [psychosynthesis](https://en.wikipedia.org/wiki/Psychosynthesis) and now offer individual dream intensives at the Mountain Road Retreat in the Eastern Townships of Québec <a id="cite-note-3" href="#cite-ref-3">[3]</a>. George Baylor was a student and friend of [Herbert Simon](Herbert_Simon "Herbert Simon"). As chess player and student at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Baylor was hired by Simon, to work on his and [Newell's](Allen_Newell "Allen Newell") chess machines. He wrote a *mating combinations program*, dubbed [Mater](Mater "Mater"), which was subject of his Masters thesis, and he later focused on [cognitive psychology](https://en.wikipedia.org/wiki/Cognitive_psychology).
 
-## Contents
-
-- [1 Mater](#mater)
-- [2 Remembrance of Herbert A. Simon](#remembrance-of-herbert-a.-simon)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Mater
 
 *see main article [Mater](Mater "Mater")*

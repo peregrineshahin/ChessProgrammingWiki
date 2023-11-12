@@ -8,20 +8,6 @@ title: Fortress Engine
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine by [Alessandro Damiani](Alessandro_Damiani "Alessandro Damiani"), written in [C](C "C"), first released in October 1998. Fortress pioneered in [Rotated Indices](Rotated_Indices "Rotated Indices"), a deconcentrated version of [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"). Alessandro once mentioned improving a version of [Schrüfer's](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") "most selective" [quiescence search](Quiescence_Search "Quiescence Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, found in Schrüfer's Ph.D. thesis *Minimax-Suchen* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Technical Details](#technical-details)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Chess](#chess)
-  - [4.3 Misc](#misc)
-- [5 References](#references)
-
 ## Technical Details
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

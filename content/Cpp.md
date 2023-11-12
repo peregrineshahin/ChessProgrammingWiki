@@ -10,47 +10,6 @@ initially an extension of [C](C "C") and designed and implemented in 1979 by [Bj
 C++ is pragmatical because one may write in "usual" C-style, using the [C standard library](https://en.wikipedia.org/wiki/C_standard_library) (printf, strcpy, ...), except perhaps using C++ comments and [references](<https://en.wikipedia.org/wiki/Reference_(C%2B%2B)>) up and then (instead of [pointer](<https://en.wikipedia.org/wiki/Pointer_(computer_programming)>)). On the other hand C++ allows to design classes and interfaces (pure virtual classes) in a more object oriented manner. There are lots of free and commercial class libraries for arithmetics, database related stuff, portable and proprietary window management and whatever else.
 Many chess engines are written in C++, varying from using pure C-style, up to extensive use of object oriented stuff and templates as well as [C++11](#11) or [C++17](#17) features.
 
-## Contents
-
-- [1 C Extensions](#C_Extensions)
-  - [1.1 References](#References)
-  - [1.2 Exception Handling](#Exception_Handling)
-- [2 Classes](#Classes)
-  - [2.1 Data Definition](#Data_Definition)
-  - [2.2 Member Functions](#Member_Functions)
-  - [2.3 Modifiers](#Modifiers)
-  - [2.4 Pointer to Member Functions](#Pointer_to_Member_Functions)
-  - [2.5 Inheritance](#Inheritance)
-  - [2.6 Function Overloading](#Function_Overloading)
-  - [2.7 Operator Overloading](#Operator_Overloading)
-  - [2.8 Late Binding](#Late_Binding)
-  - [2.9 Abstract Classes](#Abstract_Classes)
-  - [2.10 Pure Abstract Classes](#Pure_Abstract_Classes)
-  - [2.11 Multiple Inheritance](#Multiple_Inheritance)
-- [3 Templates](#Templates)
-- [4 Anonymous Functions](#Anonymous_Functions)
-- [5 Smart Pointer](#Smart_Pointer)
-- [6 Class Design of a Chess Engine](#Class_Design_of_a_Chess_Engine)
-- [7 C++ Compiler](#C.2B.2B_Compiler)
-- [8 Libraries](#Libraries)
-- [9 See also](#See_also)
-- [10 C++ Publications](#C.2B.2B_Publications)
-  - [10.1 1985 ...](#1985_...)
-  - [10.2 1990 ...](#1990_...)
-  - [10.3 1995 ...](#1995_...)
-  - [10.4 2000 ...](#2000_...)
-  - [10.5 2005 ...](#2005_...)
-  - [10.6 2010 ...](#2010_...)
-- [11 Forum Posts](#Forum_Posts)
-  - [11.1 1997 ...](#1997_...)
-  - [11.2 2000 ...](#2000_..._2)
-  - [11.3 2005 ...](#2005_..._2)
-  - [11.4 2010 ...](#2010_..._2)
-  - [11.5 2015 ...](#2015_...)
-  - [11.6 2020 ...](#2020_...)
-- [12 External Links](#External_Links)
-- [13 References](#References_2)
-
 ## C Extensions
 
 ## References

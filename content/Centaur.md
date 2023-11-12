@@ -8,30 +8,6 @@ title: Centaur
 
 a chess program by primary author [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev") and [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin"). Its development already started in 1971, when Victor Vikhrev wrote his first chess program in [Algol](Algol "Algol") for the [BESM-6](https://en.wikipedia.org/wiki/BESM-6). During the 80s the program was re-written in [Pascal](Pascal "Pascal") to run on an [IBM PC](IBM_PC "IBM PC") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. As one of the rare instances of a [best-first](Best-First "Best-First") searcher, Centaur keeps its complete [search tree](Search_Tree "Search Tree") in [memory](Memory "Memory") considering multiple optimistic, realistic and pessimistic [evaluation](Evaluation "Evaluation") scores, and to grow the tree based on the [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution) of those scores, it seems quite similar to [Palay's](Andrew_James_Palay "Andrew James Palay") [PB\*](B*#ProbabilityBasedSearch "B*") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. A [DOS](MS-DOS "MS-DOS") version of Centaur featuring a [3D graphics board](3D_Graphics_Board "3D Graphics Board") was released in the early 90s, a 16-bit [Windows 3.x](Windows "Windows") version was commercially available since the mid 90s <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Dragon](#dragon)
-- [3 Screenshots](#screenshots)
-  - [3.1 DOS](#dos)
-  - [3.2 Windows](#windows)
-- [4 Photos & Games](#photos-.26-games)
-- [5 Descriptions](#descriptions)
-  - [5.1 1989](#1989)
-  - [5.2 1991](#1991)
-  - [5.3 1993](#1993)
-  - [5.4 1999](#1999)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1993 ...](#1993-...)
-  - [8.2 2000 ...](#2000-...)
-  - [8.3 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-  - [9.1 Chess Program](#chess-program)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Tournament Play
 
 Centaur won the [First Soviet Computer-Chess Championship 1988](First_Soviet_Computer-Chess_Championship_1988 "First Soviet Computer-Chess Championship 1988") in [Ulan-Ude](https://en.wikipedia.org/wiki/Ulan-Ude), and further competed at the [First International Chess-Computer Tournament in the USSR 1989](First_International_Chess-Computer_Tournament_in_the_USSR_1989 "First International Chess-Computer Tournament in the USSR 1989") in [Moscow](https://en.wikipedia.org/wiki/Moscow), at three [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 1989](WCCC_1989 "WCCC 1989") in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), the [WCCC 1992](WCCC_1992 "WCCC 1992") in [Madrid](https://en.wikipedia.org/wiki/Madrid), and the [WCCC 1999](WCCC_1999 "WCCC 1999") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), four [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") ([WMCCC 1991](WMCCC_1991 "WMCCC 1991"), [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), [WMCCC 1996](WMCCC_1996 "WMCCC 1996")) <a id="cite-note-7" href="#cite-ref-7">[7]</a>, two [Uniform-Platform Computer Chess Championships](Uniform-Platform_Computer_Chess_Championship "Uniform-Platform Computer Chess Championship") ([UPCCC 1993](UPCCC_1993 "UPCCC 1993"), [UPCCC 1994](UPCCC_1994 "UPCCC 1994")), and three [Aegon Man-Machine Tournaments](Aegon_Tournaments "Aegon Tournaments") ([Aegon 1995](Aegon_1995 "Aegon 1995"), [Aegon 1996](Aegon_1996 "Aegon 1996"), [Aegon 1997](Aegon_1997 "Aegon 1997")).

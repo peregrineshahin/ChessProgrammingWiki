@@ -9,14 +9,6 @@ title: Bernhard Balkenhol
 a German mathematician, computer scientist and authorized officer and CEO in the [IT](https://en.wikipedia.org/wiki/Information_technology) industry <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Until 2014, he served as visiting lecturer at [Bielefeld University](https://en.wikipedia.org/wiki/Bielefeld_University), where he already received a [diplom](https://en.wikipedia.org/wiki/Diplom) in 1992, and a Ph.D. degree in 1995 under supervision of [Rudolf Ahlswede](Mathematician#Ahlswede "Mathematician") and [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer").
 His research interests include [search algorithms](Search "Search") and [data compression](https://en.wikipedia.org/wiki/Data_compression). Based on [Jürg Nievergelt's](J%C3%BCrg_Nievergelt "Jürg Nievergelt") idea of asking a sequence of [yes-no-questions](https://en.wikipedia.org/wiki/Yes%E2%80%93no_question) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Balkenhol elaborated on compression in encoding typical [chess positions](Chess_Position "Chess Position") with less than 136 bits, as published in the [ICCA Journal](ICGA_Journal#17_3 "ICGA Journal") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

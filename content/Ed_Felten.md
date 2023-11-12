@@ -9,17 +9,6 @@ title: Ed Felten
 an American computer scientist and professor of CS and [public affairs](https://en.wikipedia.org/wiki/Public_affairs_industry) at [Princeton University](https://en.wikipedia.org/wiki/Princeton_University). He has done a variety of [computer security](https://en.wikipedia.org/wiki/Computer_security) research, including work on [proof-carrying](https://en.wikipedia.org/wiki/Proof-carrying_code) [authentication](https://en.wikipedia.org/wiki/Authentication), on security related to the [Java](Java "Java") programming language, and the [Secure Digital Music Initiative](https://en.wikipedia.org/wiki/Secure_Digital_Music_Initiative) (SDMI) challenge <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. While affiliated with [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology), [Pasadena, California](https://en.wikipedia.org/wiki/Pasadena,_California) during the 80s, Felten researched on parallel algorithms for [nCUBE](NCUBE "NCUBE") concurrent computers.
 Along with [Steve Otto](Steve_Otto "Steve Otto"), [Rod Morison](index.php?title=Rod_Morison&action=edit&redlink=1 "Rod Morison (page does not exist)"), and [Rob Fatland](index.php?title=Rob_Fatland&action=edit&redlink=1 "Rob Fatland (page does not exist)"), Ed Felten is co-author of the massive parallel chess program [Waycool](Waycool "Waycool"), which played three [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), the [ACM 1986](ACM_1986 "ACM 1986"), [ACM 1987](ACM_1987 "ACM 1987") and [ACM 1988](ACM_1988 "ACM 1988"), as well the [WCCC 1989](WCCC_1989 "WCCC 1989") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1985 ...](#1985-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2010](#2010)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Cartoons](Cartoons "Cartoons")

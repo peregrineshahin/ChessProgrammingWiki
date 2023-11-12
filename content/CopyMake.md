@@ -5,17 +5,6 @@ title: CopyMake
 
 While traversing a [Search Tree](Search_Tree "Search Tree"), the **Copy-Make** approach keeps and updates local copies of certain aspects of a [chess position](Chess_Position "Chess Position") inside an array indexed by [ply](Ply "Ply"), which could also be interpreted as explicit, random accessible search [stack](Stack "Stack"). It usually refers the irreversible aspects of the position, like [ep state](En_passant "En passant"), [castling rights](Castling_Rights "Castling Rights") and the [halfmove clock](Halfmove_Clock "Halfmove Clock"), which can not [incrementally updated](Incremental_Updates "Incremental Updates") during [unmake move](Unmake_Move "Unmake Move"). Some programs even keep reversible stuff inside an array, to avoid incremental update during unmake. Copy-Make is required, if aspects need to be accessed randomly in the current branch from the [root](Root "Root") (or even starting game position) to the current one.
 
-## Contents
-
-- [1 Copy-Make](#copy-make)
-- [2 Stack](#stack)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1995 ...](#1995-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-
 ## Copy-Make
 
 ```C++

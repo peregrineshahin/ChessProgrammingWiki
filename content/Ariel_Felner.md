@@ -11,18 +11,6 @@ His research interests include [heuristic search](Search "Search"), pattern data
 Pattern databases are large tables that store solutions to "patterns" or subproblems and are usually stored in [main memory](Memory "Memory"). These solutions are then used as heuristics that guide the search.
 Along with [Omid David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu"), he worked and published on [blockage detection](Blockage_Detection "Blockage Detection") in [pawn endgames](Pawn_Endgame "Pawn Endgame") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995](#1995)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2015 ...](#2015-...)
-  - [1.6 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

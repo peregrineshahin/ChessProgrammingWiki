@@ -8,24 +8,6 @@ title: CookieCat
 
 an educational [open source chess program](Category:Open_Source "Category:Open Source") by [Steven Edwards](Steven_Edwards "Steven Edwards") designed for pedagogical purposes, written in [Free Pascal](Pascal#FreePascal "Pascal") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. CookieCat evolved from the earlier **Bozochess** project <a id="cite-note-3" href="#cite-ref-3">[3]</a> announced in October 2011 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, renamed in December 2011 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and first released in January 2012 <a id="cite-note-6" href="#cite-ref-6">[6]</a> under the [permissive](https://en.wikipedia.org/wiki/Permissive_software_licence) [BSD License](https://en.wikipedia.org/wiki/BSD_licenses). However, Steven's wish that his CookieCat should be easily searchable on the net without too many false positives didn't fulfill when [Steven Universe](https://en.wikipedia.org/wiki/Steven_Universe) came up with a fictional character <a id="cite-note-7" href="#cite-ref-7">[7]</a> and ice cream <a id="cite-note-8" href="#cite-ref-8">[8]</a> in 2013.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Bitboard Infrastructure](#bitboard-infrastructure)
-  - [1.2 Spooky](#spooky)
-  - [1.3 Smokey](#smokey)
-  - [1.4 Lucky](#lucky)
-- [2 Download](#download)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2011](#2011)
-  - [4.2 2012 ...](#2012-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 CookieCat utilizes [bitboards](Bitboards "Bitboards") as basic data structure [to represent](Board_Representation "Board Representation") the board. Inside CookieCat's source code <a id="cite-note-9" href="#cite-ref-9">[9]</a>, there are three groups of routines named after some of Steven's [feline](https://en.wikipedia.org/wiki/Feline) companions. There are the **Lucky** [positional evaluator](Evaluation "Evaluation") routines, the **Smokey** [mate finder](Mate_Search "Mate Search") routines, and the **Spooky** general [search](Search "Search") routines. The names were chosen not so much to be cute, but rather to make it easier for others to identify the program's functional organization <a id="cite-note-10" href="#cite-ref-10">[10]</a>. CookieCat features five [hash-tables](Hash_Table "Hash Table"), beside the [main transposition table](Transposition_Table "Transposition Table"), an [endgame tablebase](Endgame_Tablebases "Endgame Tablebases") cache, a [pawn hash table](Pawn_Hash_Table "Pawn Hash Table"), [evaluation hash table](Evaluation_Hash_Table "Evaluation Hash Table"), and a dedicated [perft hash table](Perft "Perft"), and can further probe an [opening book](Opening_Book "Opening Book") <a id="cite-note-11" href="#cite-ref-11">[11]</a> and [Edwards' tablebases](Edwards%27_Tablebases "Edwards' Tablebases").

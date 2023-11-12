@@ -8,18 +8,6 @@ title: Dragon FR
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and later [UCI](UCI "UCI") compliant chess engine by [Bruno Lucas](Bruno_Lucas "Bruno Lucas"). Dragon played the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](https://en.wikipedia.org/wiki/Paris) and most [French Computer Chess Championship](French_Computer_Chess_Championship "French Computer Chess Championship") and [French Programmers Tournaments](French_Programmers_Tournament "French Programmers Tournament"). Dragon is [Arena](Arena "Arena") partner engine.
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 1997 ...](#1997-...)
-  - [1.2 2003](#2003)
-- [2 Namesake](#namesake)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Dragon](#dragon)
-- [5 References](#references)
-
 ## Descriptions
 
 by [Bruno Lucas](Bruno_Lucas "Bruno Lucas")

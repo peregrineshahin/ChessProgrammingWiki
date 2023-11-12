@@ -6,14 +6,6 @@ title: Atari ST
 \[ Atari ST <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Atari ST** was a personal computer released by [Atari Corporation](https://en.wikipedia.org/wiki/Atari_Corporation) in 1985 and commercially available until the early 90s. The "ST" officially stands for "Sixteen/Thirty-two" <a id="cite-note-2" href="#cite-ref-2">[2]</a> , which referred to the [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000's](68000 "68000") 16-bit and 32-bit external and internal buses.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Chess Programs
 
 - [Category:Atari ST](Category:Atari_ST "Category:Atari ST")

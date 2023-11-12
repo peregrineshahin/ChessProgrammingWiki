@@ -8,17 +8,6 @@ title: Carl Ebeling
 
 an American computer scientist, electrical engineer, and professor at the Department of Computer Science & Engineering, [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington), [Seattle](https://en.wikipedia.org/wiki/Seattle%2C_Washington).
 
-## Contents
-
-- [1 All the Right Moves](#all-the-right-moves)
-- [2 Photos](#photos)
-- [3 Quotes](#quotes)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1984 ...](#1984-...)
-  - [4.2 1990 ...](#1990-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## All the Right Moves
 
 As Ph.D. student at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Carl Ebeling was member of the [HiTech](HiTech "HiTech") team around [Hans Berliner](Hans_Berliner "Hans Berliner"). Carl Ebeling's Ph.D. thesis was titled *All the Right Moves* <a id="cite-note-2" href="#cite-ref-2">[2]</a> and describes a [VLSI architecture](VLSI_Design "VLSI Design") for computing complex chess [evaluation functions](Evaluation_Function "Evaluation Function") quickly, as used in HiTech.

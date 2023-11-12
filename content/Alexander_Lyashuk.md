@@ -11,15 +11,6 @@ Alexander Lyashuk is primary developer of [Leela Chess Zero](Leela_Chess_Zero "L
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which replaced the initial **LCZero**, running up to ten times faster on [Nvidia](Nvidia "Nvidia") [GPUs](GPU "GPU") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2018](#2018)
-  - [1.2 2019](#2019)
-- [2 Blog Posts](#blog-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Forum Posts
 
 ## 2018

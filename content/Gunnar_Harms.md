@@ -8,12 +8,6 @@ title: Gunnar Harms
 a Dutch computer scientist, software developer, and as computer chess programmer author of the [open source chess engine](Category:Open_Source "Category:Open Source") [Bobcat](Bobcat "Bobcat").
 The development of Bobcat started in the second half of 2008 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Re: CCT 13: Bobcat by Gunnar Harms/Denis Mendoza has entered](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=37795&start=5) by Gunnar Harms, [CCC](CCC "CCC"), January 26, 2011 » [CCT13](CCT13 "CCT13")

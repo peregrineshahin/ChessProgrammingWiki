@@ -7,18 +7,6 @@ title: Chinese Dark Chess
 
 a popular version of [Banqi](https://en.wikipedia.org/wiki/Banqi), a variation of [Chinese Chess](Chinese_Chess "Chinese Chess") that only uses half of the board, also called *dark chess*, *half chess* or *blind chess*. Chinese dark chess is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and incomplete information [board game](https://en.wikipedia.org/wiki/Board_game).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Tournaments](#tournaments)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-  - [4.1 2010 ...](#2010-...)
-  - [4.2 2015 ...](#2015-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](https://icga.org/?page_id=849&wppa-album=6&wppa-cover=0&wppa-occur=1&wppa-photo=83)

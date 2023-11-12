@@ -8,16 +8,6 @@ title: Deep Sjeng
 a private, and former commercial chess engine by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), which emerged in 2002 from the 12.7 closed source branch of the chess variant and chess playing [open source engine](Category:Open_Source "Category:Open Source") [Sjeng](Sjeng "Sjeng") <a id="cite-note-1" href="#cite-ref-1">[1]</a> . Opposed to other commercial engines with the surename "deep" to indicate the version is able to play on multiple processors and sold for almost the double price than their "none deep" counterparts, Deep Sjeng, albeit able to play on multiple cores as well, is the native engine name for single as well as multiple processors.
 Deep Sjeng was market since 2003 by [Lex Loep's](Lex_Loep "Lex Loep") company [Lokasoft](Lokasoft "Lokasoft") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . It came with the [ChessPartner](ChessPartner "ChessPartner") [graphical interface](GUI "GUI") and supports [UCI](UCI "UCI") and the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). Version 2.X with the [Mayura Chess Board](index.php?title=Mayura_Chess_Board&action=edit&redlink=1 "Mayura Chess Board (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and its third incarnation Deep Sjeng 3.x were distributed via Gian-Carlo's own site, but Deep Sjeng is no longer for sale <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Tournaments](#tournaments)
-- [2 Screenshot](#screenshot)
-- [3 Parallel Search](#parallel-search)
-- [4 Automated Learning](#automated-learning)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Tournaments
 
 Deep Sjeng played many [computer chess tournaments](Tournaments_and_Matches "Tournaments and Matches"). It participated (so far) at six [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") <a id="cite-note-5" href="#cite-ref-5">[5]</a> :

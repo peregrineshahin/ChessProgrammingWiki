@@ -5,17 +5,6 @@ title: Graph History Interaction
 
 **Graph History Interaction** (GHI) is a general term related to the [path-dependency](Path-Dependency "Path-Dependency") in search algorithms. GHI occurs when the same [game position](Chess_Position "Chess Position") behaves differently when reached via different paths.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Path-Dependency](Path-Dependency "Path-Dependency")

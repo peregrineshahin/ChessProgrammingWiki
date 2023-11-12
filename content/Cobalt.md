@@ -9,13 +9,6 @@ title: Cobalt
 [GNU Chess 5's](GNU_Chess "GNU Chess") precursor program by [Chua Kong Sian](Chua_Kong_Sian "Chua Kong Sian"), which maintained a separate but cooperative parallel development path <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The GNU Chess 5 Header comment mention GNU Chess is based on the two research programs **Cobalt** by Chua Kong Sian and [Gazebo](Gazebo "Gazebo") by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Gazebo](Gazebo "Gazebo")

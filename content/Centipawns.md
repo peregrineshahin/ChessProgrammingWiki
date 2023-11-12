@@ -8,19 +8,6 @@ title: Centipawns
 
 a score unit which corresponds approximately to **one hundredth** of a [pawn unit](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"). [Fixed point](https://en.wikipedia.org/wiki/Fixed-point_arithmetic) representation with centipawn fractions allows a smooth relation of all [piece values](Point_Value "Point Value") with a reasonable granularity to distinguish positional scores. 16 or even 15 bits are sufficient to store signed centipawn ranges in [hash tables](Hash_Table "Hash Table"), while sign extension to the common 32-bit integer range is convenient to avoid overflows in scaling terms like in the [tapered eval](Tapered_Eval "Tapered Eval"), even with an internal finer granularity used inside the evaluation <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Robert Hyatt](#robert-hyatt)
-  - [1.2 Aske Plaat](#aske-plaat)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Quotes
 
 ## Robert Hyatt

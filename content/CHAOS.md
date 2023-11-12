@@ -6,25 +6,6 @@ title: CHAOS
 [](http://www.schaakkunst.nl/Schaakkunst_Boldriaan.htm) [Boldriaan](Category:Boldriaan "Category:Boldriaan") - CHAOS (2006) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **CHAOS** was one of the leading programs since it first appeared at [ACM 1973](ACM_1973 "ACM 1973") until the mid 80s. CHAOS, which stands facetiously for *Chess Heuristics And Other Stuff*, has participated in twelve [ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and four [world championships](World_Computer_Chess_Championship "World Computer Chess Championship") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , runner up in [1974](WCCC_1974 "WCCC 1974") behind [Kaissa](Kaissa "Kaissa"), defeating favorite [Chess 4.0](</Chess_(Program)> "Chess (Program)"). In 1980 at the [3rd WCCC](WCCC_1980 "WCCC 1980"), CHAOS was close to becoming champion but lost the playoff against [Belle.](Belle "Belle") Its last tournament was the [16th AMC 1985](ACM_1985 "ACM 1985") when it lost two games in a very strong field.
 
-## Contents
-
-- [1 History](#history)
-- [2 Knowledge vs Search](#knowledge-vs-search)
-- [3 Quotes](#quotes)
-  - [3.1 Alex Bell](#alex-bell)
-  - [3.2 Duel on the Chessboard](#duel-on-the-chessboard)
-- [4 Authors](#authors)
-- [5 Photos & Games](#photos-.26-games)
-  - [5.1 CHAOS Team](#chaos-team)
-  - [5.2 WCCC 1974](#wccc-1974)
-  - [5.3 WCCC 1980](#wccc-1980)
-- [6 See also](#see-also)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-  - [8.1 Chess Program](#chess-program)
-  - [8.2 Misc](#misc)
-- [9 References](#references)
-
 ## History
 
 CHAOS started in the late 1960s at [RCA](https://en.wikipedia.org/wiki/RCA) Systems Programming division in [Cinnaminson, NJ](https://en.wikipedia.org/wiki/Cinnaminson_Township,_New_Jersey) with [Ira Ruben](Ira_Ruben "Ira Ruben"), [Fred Swartz,](Fred_Swartz "Fred Swartz") [Victor Berman,](Victor_Berman "Victor Berman") [Joe Winograd](Joe_Winograd "Joe Winograd"), and [William Toikka](William_Toikka "William Toikka") as first authors. In January 1972, [Sperry Univac](https://en.wikipedia.org/wiki/Sperry_Corporation) (1986 [Unisys](https://en.wikipedia.org/wiki/Unisys)) officially took over the RCA Computer Systems Division and eventually moved everything to [Blue Bell, Pennsylvania](https://en.wikipedia.org/wiki/Blue_Bell,_Pennsylvania). Later the program has been affiliated with the Computing Center of the [University of Michigan](University_of_Michigan "University of Michigan") where most of its programmers were staff members <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

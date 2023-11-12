@@ -10,25 +10,6 @@ a German graduate [linguist](https://en.wikipedia.org/wiki/Linguistics), science
 
 In the late 70s and early 80s, Friedel featured computer chess in the German television, for instance the match of [David Levy](David_Levy "David Levy") versus [Chess 4.8](</Chess_(Program)> "Chess (Program)"), with [Volker Arzt](http://de.wikipedia.org/wiki/Volker_Arzt), [ZDF](https://en.wikipedia.org/wiki/ZDF) 1979 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Friedel has close relations with world's top chess players <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and was member of [Kasparov's](Garry_Kasparov "Garry Kasparov") team during his [match](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") versus [Deep Blue](Deep_Blue "Deep Blue") in 1997.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1979](#1979)
-  - [3.2 1980 ...](#1980-...)
-  - [3.3 1990 ...](#1990-...)
-  - [3.4 2000 ...](#2000-...)
-  - [3.5 2010 ...](#2010-...)
-  - [3.6 ChessBase](#chessbase)
-    - [3.6.1 2005 ...](#2005-...)
-    - [3.6.2 2010 ...](#2010-...-2)
-    - [3.6.3 2015 ...](#2015-...)
-    - [3.6.4 2020 ...](#2020-...)
-  - [3.7 Spiegel](#spiegel)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-432a034fb7102)

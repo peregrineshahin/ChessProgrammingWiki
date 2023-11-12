@@ -13,15 +13,6 @@ and [Audiogenic](https://en.wikipedia.org/wiki/Audiogenic) in the [UK](https://e
 [The Spacious Mind](The_Spacious_Mind "The Spacious Mind") considers Grandmaster as one of the strongest chess programs available on home computers at that time
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 C64 Chess Program](#c64-chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Excalibur Grandmaster](Excalibur_Grandmaster "Excalibur Grandmaster")

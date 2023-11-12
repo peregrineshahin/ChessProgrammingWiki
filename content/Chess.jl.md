@@ -12,16 +12,6 @@ It can read and write [chess games](Chess_Game "Chess Game") in [PGN format](Por
 create [opening books](Opening_Book "Opening Book"), and interact with [UCI chess engines](Category:UCI "Category:UCI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 for instance to play engine versus engine matches for [tuning](Automated_Tuning "Automated Tuning") and [NNUE](NNUE "NNUE") training purposes.
 
-## Contents
-
-- [1 Types](#types)
-  - [1.1 SquareSet](#squareset)
-  - [1.2 Board](#board)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Types
 
 Chess.jl features following data types and [APIs](https://en.wikipedia.org/wiki/API). Scalar data types like [Squares](Squares "Squares") and [Pieces](Pieces "Pieces") with discrete enumerated value range are internally wrapper around integer.

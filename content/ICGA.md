@@ -6,28 +6,6 @@ title: ICGA
 [](https://icga.org/) ICGA logo
 The **ICGA**, the **International Computer Games Association**, was founded as the [ICCA](ICCA "ICCA") in [1977](Timeline#1977 "Timeline") by computer chess programmers to organize championship events for computer programs and to facilitate the sharing of technical knowledge via the [ICGA Journal](ICGA_Journal "ICGA Journal").
 
-## Contents
-
-- [1 The Aims of the ICGA are](#The_Aims_of_the_ICGA_are)
-- [2 The Board of the ICGA](#The_Board_of_the_ICGA)
-- [3 ICCA / ICGA Presidents](#ICCA_.2F_ICGA_Presidents)
-- [4 ICGA Events](#ICGA_Events)
-- [5 Investigations](#Investigations)
-- [6 ICGA Topics](#ICGA_Topics)
-- [7 History and Purpose of the ICGA](#History_and_Purpose_of_the_ICGA)
-- [8 Quotes](#Quotes)
-  - [8.1 Robert Hyatt](#Robert_Hyatt)
-  - [8.2 Jaap van den Herik](#Jaap_van_den_Herik)
-- [9 Best-Publication Awards](#Best-Publication_Awards)
-  - [9.1 Mephisto Best-Publication Award](#Mephisto_Best-Publication_Award)
-  - [9.2 Novag Best-Publication Award](#Novag_Best-Publication_Award)
-  - [9.3 ChessBase Best-Publication Award](#ChessBase_Best-Publication_Award)
-  - [9.4 Best-Publication Award](#Best-Publication_Award)
-  - [9.5 ICGA Journal Awards](#ICGA_Journal_Awards)
-- [10 Forum Posts](#Forum_Posts)
-- [11 External Links](#External_Links)
-- [12 References](#References)
-
 ## The Aims of the ICGA are
 
 - to publish a quarterly [ICGA Journal](ICGA_Journal "ICGA Journal") [[1]](#cite_note-1)

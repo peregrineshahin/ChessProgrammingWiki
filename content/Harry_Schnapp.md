@@ -10,14 +10,6 @@ was a German renowned [author](Category:Opening_Book_Author "Category:Opening Bo
 as well as dedicated books for [Rybka](Rybka "Rybka") and [Equinox](Equinox "Equinox") competing the [WCCC 2009](WCCC_2009 "WCCC 2009") in [Pamplona](https://en.wikipedia.org/wiki/Pamplona) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Harry Schnapp died on May 5, 2012 at age 77 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2005 ...

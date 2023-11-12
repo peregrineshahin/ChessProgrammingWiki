@@ -14,17 +14,6 @@ DiscoCheck determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Pie
 Early versions used the author's own implementation of [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"), adapted from his earlier engine [BibiChess 0.5](index.php?title=BibiChess&action=edit&redlink=1 "BibiChess (page does not exist)"). In June 2017, a new DiscoChess dubbed [Demolito](Demolito "Demolito") was announced, completely rewritten, featuring [SMP](Parallel_Search "Parallel Search") and [Chess960](Chess960 "Chess960") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 DoubleCheck](#doublecheck)
-  - [2.2 DiscoCheck](#discocheck)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [BibiChess](index.php?title=BibiChess&action=edit&redlink=1 "BibiChess (page does not exist)")

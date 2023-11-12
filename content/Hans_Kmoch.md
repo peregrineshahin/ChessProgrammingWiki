@@ -8,13 +8,6 @@ title: Hans Kmoch
 
 was an Austrian-Dutch-American [International Master](https://en.wikipedia.org/wiki/FIDE_titles#International_Master_.28IM.29) of over the board chess, writer of **Pawn Power in Chess** (German *Die Kunst der Bauernführung*) and other chess books. Many [pawn structure](Pawn_Structure "Pawn Structure") terms used in chess and computer chess are based on [neologisms](https://en.wikipedia.org/wiki/Neologism) defined in Kmoch's famous book <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Kmoch terms in CPW](#kmoch-terms-in-cpw)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - [Max Euwe](Max_Euwe "Max Euwe"), Hans Kmoch (**1948, 1990**). *Staunton-Turnier Groningen 1946*. [Triengen](https://en.wikipedia.org/wiki/Triengen) / Luzern 1948. [Edition Olms](https://de.wikipedia.org/wiki/Edition_Olms), 1990

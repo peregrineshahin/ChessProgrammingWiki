@@ -8,19 +8,6 @@ title: Gullydeckel
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") (CEPT) compliant [open source engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") by [Martin Borriss](Martin_Borriss "Martin Borriss"), written in [C](C "C"). A first version, Gullydeckel **1**, has been developed in 1994/1995. Gullydeckel **2** was written mainly in 1996, while [Windows 32](Windows "Windows") support, analysis, [pondering](Pondering "Pondering"), [WinBoard](WinBoard "WinBoard") protocol version 2 aka CEPT and [ChessBase GUI](</ChessBase_(Database)#GUI> "ChessBase (Database)") compatibility was finally realized in 2002/2003 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Beside Windows, supported platform is [Linux](Linux "Linux").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 0x88 Difference](#0x88-difference)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

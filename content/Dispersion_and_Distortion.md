@@ -8,14 +8,6 @@ title: Dispersion and Distortion
 
 are [Kmoch's](Hans_Kmoch "Hans Kmoch") terms <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> for [pawn structure](Pawn_Structure "Pawn Structure") [weaknesses](Weak_Pawns "Weak Pawns") due to vertical or horizontal splitting caused by [captures](Captures "Captures") or [advancement](Pawn_Push "Pawn Push"). The proposed functions may be used via an additional scaling or indirection, f.i. to index a table with concrete penalties.
 
-## Contents
-
-- [1 Dispersion](#dispersion)
-- [2 Distortion](#distortion)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Dispersion
 
 **Dispersion** is [Kmoch's](Hans_Kmoch "Hans Kmoch") term for vertical splitting of pawns (most commonly, isolation) caused by captures. Having three or four [islands](</Pawn_Islands_(Bitboards)> "Pawn Islands (Bitboards)") while the opponent has one or two - assuming about the same number of pawns for both sides - may be considered in evaluation. But this is also implicitly done by evaluating [double- or triple](</Double_and_Triple_(Bitboards)> "Double and Triple (Bitboards)") and [isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") or the balance of weak pawns in general. Some arbitrary dispersion measure, intended as index of a pre-calculated table for [evaluation](Evaluation "Evaluation") purpose.

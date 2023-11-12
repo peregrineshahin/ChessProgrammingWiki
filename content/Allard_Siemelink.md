@@ -9,14 +9,6 @@ title: Allard Siemelink
 a Dutch computer scientist, [IT consultant](https://en.wikipedia.org/wiki/Information_technology_consulting), and as computer chess programmer author of the chess engines [Bright](Bright "Bright") and [Spark](Spark "Spark"), which both support the [UCI](UCI "UCI") protocol.
 While Bright utilize a [0x88](0x88 "0x88") [board representation](Board_Representation "Board Representation"), the later Spark started as [perft framework](Perft "Perft") using [bitboard techniques](Bitboards "Bitboards") and experimental program to explore new ideas in [search](Search "Search") and [evaluation](Evaluation "Evaluation").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Quotes](#quotes)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](File:Ict10.jpg)

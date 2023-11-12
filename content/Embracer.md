@@ -9,15 +9,6 @@ title: Embracer
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), written in [C++](Cpp "Cpp").
 The project started in 1999, very much inspired from the instructive code of [TSCP](TSCP "TSCP") but with many changes and optimizations and a rather impressive speed of 300.000 [NPS](Nodes_per_Second "Nodes per Second") on a 800 MHz CPU <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Embracer was first released in December 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Alarm](Alarm "Alarm")

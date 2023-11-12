@@ -5,19 +5,6 @@ title: CSVN
 
 **CSVN** - Computer Schaak Vereniging Nederland, the Dutch Computer Chess Federation.
 
-## Contents
-
-- [1 History of the CSVN](#history-of-the-csvn)
-- [2 Tournaments](#tournaments)
-- [3 Computerschaak](#computerschaak)
-- [4 Board of the CSVN](#board-of-the-csvn)
-  - [4.1 2010](#2010)
-  - [4.2 2012](#2012)
-  - [4.3 2018](#2018)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## History of the CSVN
 
 The **CSVN** was founded in [1980](Timeline#1980 "Timeline") by ...

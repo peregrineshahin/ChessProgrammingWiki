@@ -9,15 +9,6 @@ title: FrC3A9dC3A9ric Prost
 a French mathematician, chess player, computer scientist and associate professor at [Laboratoire d’Informatique de Grenoble](https://en.wikipedia.org/wiki/Laboratoire_d%27Informatique_de_Grenoble) and [Joseph Fourier University](https://en.wikipedia.org/wiki/Joseph_Fourier_University) [Grenoble](https://en.wikipedia.org/wiki/Grenoble).
 His research interests include [quantum programming](https://en.wikipedia.org/wiki/Quantum_programming), [IT security](https://en.wikipedia.org/wiki/Computer_security), [non-interference analyses](https://en.wikipedia.org/wiki/Non-interference_%28security%29), [anonymity](https://en.wikipedia.org/wiki/Anonymity), and in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), his [chess variant](Chess#Variants "Chess") proposal [Twilight Chess](index.php?title=Twilight_Chess&action=edit&redlink=1 "Twilight Chess (page does not exist)") and engines playing it <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and the game-theoretic value of [chess variants](Chess#Variants "Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Gardner's Minichess Solved](#gardner.27s-minichess-solved)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Gardner's Minichess Solved
 
 Along with [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), Frédéric Prost [weakly solved](https://en.wikipedia.org/wiki/Solved_game) [Gardner's](Martin_Gardner "Martin Gardner") [5x5 Minichess](https://en.wikipedia.org/wiki/Minichess#5.C3.975_chess) as published in 2013.

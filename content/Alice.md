@@ -8,15 +8,6 @@ title: Alice
 
 an experimental [open source chess engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") by [Sven Reichard](Sven_Reichard "Sven Reichard"), written in [C++](Cpp "Cpp") and compliant with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). Alice is an [object oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) program developed under [GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) and [Linux](Linux "Linux"). The board is a [vector](Array "Array") of 64 [pointers](https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29) to [pieces](Pieces "Pieces"), while piece is an [abstract class](Cpp#AbstractClass "Cpp"), with intermediate subclasses for common piece properties such as [sliding](Sliding_Pieces "Sliding Pieces") versus none sliding pieces, and finally instantiable subclasses for the concrete pieces, like [pawn](Pawn "Pawn"), [rook](Rook "Rook"), etc., and "null pieces" for the empty squares <a id="cite-note-2" href="#cite-ref-2">[2]</a>. [Jim Ablett](Jim_Ablett "Jim Ablett") provides compiles for 32/64-bit [Windows](Windows "Windows") and [Linux](Linux "Linux") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Bitboards](#bitboards)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Bitboards
 
 Alice is an object oriented [Bitboard](Bitboards "Bitboards") engine, applying [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). Size of of the encapsulated Bitboard class is 8 by unsigned long long number <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

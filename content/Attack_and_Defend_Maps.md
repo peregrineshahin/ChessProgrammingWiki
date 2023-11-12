@@ -8,25 +8,6 @@ title: Attack and Defend Maps
 
 also called **Attack Tables**, refer to data-structures, most often [arrays](Array "Array"), containing [attack or defend](Attacks "Attacks") information for every pawn or piece and/or the transposed information for each square, which pieces [control](Square_Control "Square Control"), that is either attack or defend it. These Maps are useful for [evaluation](Evaluation "Evaluation") purposes such as safe [mobility](Mobility "Mobility"), [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") and of course [move generation](Move_Generation "Move Generation"). While the piece centric attack information, a set of attacked squares per piece, is often encoded as [bitboard](Bitboards "Bitboards"), there are more alternatives for storing the square centric information, about attacking pieces.
 
-## Contents
-
-- [1 Maintaining Attacks](#maintaining-attacks)
-  - [1.1 Incremental Update](#incremental-update)
-  - [1.2 On the Fly](#on-the-fly)
-- [2 Implementations](#implementations)
-  - [2.1 Classical Approach](#classical-approach)
-  - [2.2 Alternatives](#alternatives)
-    - [2.2.1 Piece-Sets](#piece-sets)
-    - [2.2.2 Ed's lookup](#ed.27s-lookup)
-    - [2.2.3 Direction wise](#direction-wise)
-- [3 See also](#see-also)
-- [4 Forums Posts](#forums-posts)
-  - [4.1 1995 ...](#1995-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-- [5 References](#references)
-
 ## Maintaining Attacks
 
 ## Incremental Update

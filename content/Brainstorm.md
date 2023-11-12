@@ -8,15 +8,6 @@ title: Brainstorm
 
 a chess program by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth"), which played the [2nd Computer Olympiad 1990](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London), and the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") in [Vancouver](https://en.wikipedia.org/wiki/Vancouver). Brainstorm was written in [68020](68020 "68020") [assembly](Assembly "Assembly"). In [evaluation](Evaluation "Evaluation"), except for [king safety](King_Safety "King Safety") and [passed pawn](Passed_Pawn "Passed Pawn") [scores](Score "Score"), [material](Material "Material") dominates over any positional scores. [Search](Search "Search") techniques include [extensions](Extensions "Extensions") for [checks](Check_Extensions "Check Extensions"), [pushing passed pawns](Passed_Pawn_Extensions "Passed Pawn Extensions"), [captures](Capture_Extensions "Capture Extensions"), [promotions](Promotions "Promotions"), and [castling](Castling "Castling"). Running on a 68020 at 6 MHz system in Vancouver, Brainstorm searched 800 [nodes per second](Nodes_per_Second "Nodes per Second"), and typically reached a [depth](Depth "Depth") of 4 [plies](Ply "Ply") full width, plus up to 9 plies selective extensions <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Brainstorm had no [quiescence search](Quiescence_Search "Quiescence Search") and apparently used a [SOMA](SOMA#SOMAALGO "SOMA") approach.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [WMCCC 1991](WMCCC_1991 "WMCCC 1991"), round 4, [Nightmare (D)](Nightmare_GER "Nightmare GER") - Brainstorm <a id="cite-note-3" href="#cite-ref-3">[3]</a>

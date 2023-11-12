@@ -7,19 +7,6 @@ title: Edwards27 Tablebases
 
 are three-, four and some five-piece tablebases constructed by [Steven Edwards](Steven_Edwards "Steven Edwards") in the early 90s, initially for his chess program [Spector](Spector "Spector"). Edwards' Tablebases rely on [Depth to Mate](Endgame_Tablebases#DTM "Endgame Tablebases") and the complete coverage for both sides, using one [byte](Byte "Byte") per [position](Chess_Position "Chess Position"), with evaluations of the forms "mate in N", "lose (get mated) in N", "draw", and "illegal". Values for the number N (measured in fullmoves, not [ply](Ply "Ply")) for mates range from mate in 1 upto mate in 126 and for losses in 0 (lose in 0 means [checkmated](Checkmate "Checkmate")) to lose in 125 moves. Each file is for a given class (e.g., KBNK) and for a given [side to move](Side_to_move "Side to move") (e.g., White) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. After finishing the construction procedure in 1994, Steven Edwards made the whole data, documentation and a test program written in [ANSI-C](C "C") publicly available on the Internet. Until the advent of the compressed [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"), Edwards' Tablebases were quite popular and used in several chess programs, such as [Crafty](Crafty "Crafty"), [Gromit](Gromit "Gromit"), and the commercial [MChess Pro](MChess "MChess"), to name a few.
 
-## Contents
-
-- [1 Index Scheme](#index-scheme)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1990 ...](#1990-...)
-  - [4.2 1995 ...](#1995-...)
-  - [4.3 2000 ...](#2000-...)
-  - [4.4 2010 ...](#2010-...)
-- [5 Downloads](#downloads)
-- [6 References](#references)
-
 ## Index Scheme
 
 The index scheme for pawn-less endgames exploits the fourfold symmetry of the [chessboard](Chessboard "Chessboard") to restrict the last identified piece to the a1-d1-d4 triangle by [horizontal](Horizontal_Mirroring "Horizontal Mirroring"), [vertical](Vertical_Flipping "Vertical Flipping"), or [diagonal reflections](Diagonal_Mirroring "Diagonal Mirroring"), and features vertical symmetry by confining one pawn to the queen-side flank for endgames with one pawn. Other schemes as applied for instance in [Thompson's Databases](Thompson%27s_Databases "Thompson's Databases"), enumerating all legal positions of both kings as combined index and considering pawns can't reside on the first or eighth rank, feature denser index ranges than Edwards' <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

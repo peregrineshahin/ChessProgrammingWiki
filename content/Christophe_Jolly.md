@@ -11,16 +11,6 @@ a French chess programmer and author of the chess engines [BB](BB "BB"), playing
 playing various [French Computer Chess Championships](French_Computer_Chess_Championship "French Computer Chess Championship") and [Massy Tournaments](French_Programmers_Tournament "French Programmers Tournament").
 After a long break, Christophe Jolly came back with a new release of KnightX in February 2019 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1999](#1999)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2019](#2019)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](http://www.thorstenczub.de/pariswm97.html)

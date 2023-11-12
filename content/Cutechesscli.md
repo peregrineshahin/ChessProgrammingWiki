@@ -14,17 +14,6 @@ and is open source, released under the [GPLv3+](Free_Software_Foundation#GPL "Fr
 It requires appropriate [QT](https://en.wikipedia.org/wiki/Qt_%28software%29) core libraries at runtime.
 Cutechess-cli can be used with [Rémi Coulom's](R%C3%A9mi_Coulom "Rémi Coulom") [CLOP](CLOP "CLOP") to automate chess engine [parameter tuning](Automated_Tuning "Automated Tuning").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2009](#2009)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-  - [2.4 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Automated Tuning](Automated_Tuning "Automated Tuning")

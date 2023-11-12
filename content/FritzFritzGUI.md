@@ -12,53 +12,6 @@ Fritz **15** and **16** in November 2015 and 2017 by [Vasik Rajlich](Vasik_Rajli
 
 Fritz 1-13 were based on Frans Morsch's program [Quest](Quest "Quest"), and was first marketed by ChessBase in 1991 as [MS-DOS](MS-DOS "MS-DOS") program with its own [Graphical User Interface](GUI "GUI") [[5]](#cite_note-5) . Since version 4, released in 1996, Fritz ran on [Windows](Windows "Windows"), and is until today one the world’s most popular and successful chess programs. At the [WCCC 1995](WCCC_1995 "WCCC 1995"), Fritz became World Computer Chess Champion, winning a [notable game](#DBlueFritz) versus [Deep Blue](Deep_Blue "Deep Blue") [prototype](https://www.game-ai-forum.org/icga-tournaments/program.php?id=349) [[6]](#cite_note-6) and the [playoff](#Playoff) [[7]](#cite_note-7) against [Star Socrates](Star_Socrates "Star Socrates").
 
-## Contents
-
-- [1 Etymology](#Etymology)
-- [2 Selected Games](#Selected_Games)
-  - [2.1 Deep Blue Prototype](#Deep_Blue_Prototype)
-  - [2.2 Star Socrates](#Star_Socrates)
-- [3 Null Move](#Null_Move)
-- [4 Descriptions](#Descriptions)
-  - [4.1 1995](#1995)
-  - [4.2 1997](#1997)
-  - [4.3 1999](#1999)
-- [5 Deep Fritz](#Deep_Fritz)
-- [6 Fritz SSS](#Fritz_SSS)
-- [7 Pocket Fritz](#Pocket_Fritz)
-- [8 Fritz User Interface](#Fritz_User_Interface)
-  - [8.1 Fritz 1](#Fritz_1)
-  - [8.2 Fritz 5](#Fritz_5)
-  - [8.3 Deep Fritz 14](#Deep_Fritz_14)
-- [9 Authors](#Authors)
-- [10 Book Authors](#Book_Authors)
-- [11 See also](#See_also)
-- [12 Release Dates](#Release_Dates)
-  - [12.1 Frans Morsch](#Frans_Morsch)
-  - [12.2 Gyula Horváth](#Gyula_Horv.C3.A1th)
-  - [12.3 Vasik Rajlich](#Vasik_Rajlich)
-  - [12.4 Frank Schneider](#Frank_Schneider)
-- [13 Matches](#Matches)
-- [14 Publications](#Publications)
-  - [14.1 1995 ...](#1995_...)
-  - [14.2 2000 ...](#2000_...)
-  - [14.3 2005 ...](#2005_...)
-- [15 Forum Posts](#Forum_Posts)
-  - [15.1 1991 ...](#1991_...)
-  - [15.2 1995 ...](#1995_..._2)
-  - [15.3 2000 ...](#2000_..._2)
-  - [15.4 2010 ...](#2010_...)
-  - [15.5 2015 ...](#2015_...)
-  - [15.6 2020 ...](#2020_...)
-- [16 External Links](#External_Links)
-  - [16.1 Chess Engine](#Chess_Engine)
-    - [16.1.1 Purchase](#Purchase)
-    - [16.1.2 ChessBase News](#ChessBase_News)
-    - [16.1.3 Chess US](#Chess_US)
-    - [16.1.4 Rating Lists](#Rating_Lists)
-  - [16.2 Misc](#Misc)
-- [17 References](#References)
-
 ## Etymology
 
 The given name Fritz originated as a German nickname for [Friedrich](https://en.wikipedia.org/wiki/Friedrich_%28given_name%29), or [Frederick](https://en.wikipedia.org/wiki/Frederick_%28given_name%29) (der "Alte Fritz" was a nickname for [King Frederick II of Prussia](https://en.wikipedia.org/wiki/Frederick_II_of_Prussia), and of [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor) [[8]](#cite_note-8)), as well as for similar names including [Fridolin](Fridolin "Fridolin"). Fritz was also a name given to German troops by the British and others in the [first](https://en.wikipedia.org/wiki/World_War_I) and [second world wars](https://en.wikipedia.org/wiki/World_War_II), equivalent to [Tommy](https://en.wikipedia.org/wiki/Tommy_Atkins), as the British troops were called by German and other troops [[9]](#cite_note-9) . Creative ChessBase partner Olaf Oldigs [[10]](#cite_note-10) had suggested the name Fritz for the chess program [[11]](#cite_note-11) .

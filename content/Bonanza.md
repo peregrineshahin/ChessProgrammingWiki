@@ -11,16 +11,6 @@ an [XBoard](XBoard "XBoard") compliant [open source](Category:Open_Source "Categ
 Bonanza is top contender at [Computer Olympiads](Computer_Olympiad "Computer Olympiad") and [World Computer Shogi Championships](World_Computer_Shogi_Championship "World Computer Shogi Championship")
 and so far two times champion, winning the [WCSC16](index.php?title=WCSC16&action=edit&redlink=1 "WCSC16 (page does not exist)") in 2006, and the [WCSC23](index.php?title=WCSC23&action=edit&redlink=1 "WCSC23 (page does not exist)") in 2013 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Shogi Engine](#shogi-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Bonanza is written in [C](C "C") and utilizes 9x9 [Bitboards](Bitboards "Bitboards") in form of three 32-bit unsigned integers.

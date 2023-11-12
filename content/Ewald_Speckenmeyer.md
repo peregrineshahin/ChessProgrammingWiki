@@ -8,17 +8,6 @@ title: Ewald Speckenmeyer
 
 a German mathematician, computer scientist and professor at the [University of Cologne](https://en.wikipedia.org/wiki/University_of_Cologne). He holds a Ph.D. in Computer Science from [Paderborn University](Paderborn_University "Paderborn University"), and his research interest include [Operations Research](https://en.wikipedia.org/wiki/Operations_research), [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), [Horn-satisfiability](https://en.wikipedia.org/wiki/Horn-satisfiability), [graph theory](https://en.wikipedia.org/wiki/Graph_theory), [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing), and [parallel search](Parallel_Search "Parallel Search").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1979](#1979)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

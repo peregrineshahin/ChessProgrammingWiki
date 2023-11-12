@@ -10,18 +10,6 @@ a [Rebel](Rebel "Rebel") based series of chess programs developed by [Ed Schröd
 
 The World Microcomputer Champion and World Champion titles from [1991](WMCCC_1991 "WMCCC 1991") and [1992](WCCC_1992 "WCCC 1992") look a bit ambiguous, since they are not only dedicated to Gideon or the 1992 entry [ChessMachine](ChessMachine "ChessMachine") (with a Gideon program), advertised by [TASC](TASC "TASC") for the ChessMachine and [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") for the [Mephisto RISC](Mephisto_RISC "Mephisto RISC") modules, but from Ed's perspective also to Rebel itself <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 RISC](#risc)
-- [2 Description](#description)
-- [3 Mephisto Gideon](#mephisto-gideon)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## RISC
 
 Gideon was the name of the first [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) version of Rebel, running on a [TASC](TASC "TASC") [ISA card](https://en.wikipedia.org/wiki/ISA_bus) for an [IBM PC](IBM_PC "IBM PC"). It became third at the [WMCCC 1990](WMCCC_1990 "WMCCC 1990") in [Lyon](https://en.wikipedia.org/wiki/Lyon), and World Microcomputer Champion at the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The further improved Gideon 3.1/32 MHz [ChessMachine](ChessMachine "ChessMachine") became World Champion at the [WCCC 1992](WCCC_1992 "WCCC 1992") in [Madrid](https://en.wikipedia.org/wiki/Madrid). RISC Gideon was further marketed as PC plug-in [ChessMachine](ChessMachine "ChessMachine") by [TASC](TASC "TASC") in bundle with [The King](The_King "The King") program by [Johan de Koning](Johan_de_Koning "Johan de Koning") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and as [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") of the [Mephisto RISC](Mephisto_RISC "Mephisto RISC") series by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> .

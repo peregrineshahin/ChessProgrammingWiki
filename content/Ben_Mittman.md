@@ -8,21 +8,6 @@ title: Ben Mittman
 
 was an American photographer, computer scientist, professor of Computer Science and Information Systems at [Northwestern University](Northwestern_University "Northwestern University"), and former director of *Northwestern's Vogelback Computing Center* <a id="cite-note-2" href="#cite-ref-2">[2]</a> . In 1970 Ben Mittman and [Monty Newborn](Monroe_Newborn "Monroe Newborn") initiated, constituted and organized the [ACM North American Computer Chess Championship](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), and together with [Monty Newborn](Monroe_Newborn "Monroe Newborn") and [David Levy](David_Levy "David Levy"), the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship") in 1974. Mittman was co-founder of the [ICCA](ICCA "ICCA") in 1977 and served as its first president, as well as editor of the [ICCA Newsletter](ICGA_Journal "ICGA Journal") until 1983 <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Quotes](#quotes)
-  - [2.1 Restoration of Pont Neuf](#restoration-of-pont-neuf)
-  - [2.2 Jim Schuyler](#jim-schuyler)
-  - [2.3 Jaap van den Herik](#jaap-van-den-herik)
-  - [2.4 David Levy](#david-levy)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1970 ...](#1970-...)
-  - [3.2 1980 ...](#1980-...)
-  - [3.3 2000 ...](#2000-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbda5f95)

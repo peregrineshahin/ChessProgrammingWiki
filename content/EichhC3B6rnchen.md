@@ -10,13 +10,6 @@ a private chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> written by
 Eichhörnchen played the [First Italian Open Chess Software Cup](IOCSC_2010 "IOCSC 2010"), 2010 in [Carugate](https://en.wikipedia.org/wiki/Carugate) and the [WCRCC 2019](WCRCC_2019 "WCRCC 2019").
 It further played [Olivier Deville's](Olivier_Deville "Olivier Deville") [OpenWar](ChessWar#OpenWar "ChessWar") and [ChessWar](ChessWar "ChessWar") tournaments <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Belka](Belka "Belka")

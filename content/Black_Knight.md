@@ -8,17 +8,6 @@ title: Black Knight
 
 a chess program developed in 1974 by [Fred Prouse](index.php?title=Fred_Prouse&action=edit&redlink=1 "Fred Prouse (page does not exist)"), [Kenn Sogge](index.php?title=Kenn_Sogge&action=edit&redlink=1 "Kenn Sogge (page does not exist)"), [Gary Maltzen](index.php?title=Gary_Maltzen&action=edit&redlink=1 "Gary Maltzen (page does not exist)") and [Lonny Lebahn](index.php?title=Lonny_Lebahn&action=edit&redlink=1 "Lonny Lebahn (page does not exist)") affiliated with [Sperry Univac](https://en.wikipedia.org/wiki/UNIVAC), [Roseville, Minnesota](https://en.wikipedia.org/wiki/Roseville,_Minnesota) <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Black Knight was written in [Fortran](Fortran "Fortran") and ran on the [UNIVAC 1100](UNIVAC_1100 "UNIVAC 1100") series of computers, playing four [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), the [ACM 1975](ACM_1975 "ACM 1975"), [ACM 1976](ACM_1976 "ACM 1976"), [ACM 1977](ACM_1977 "ACM 1977") and [ACM 1978](ACM_1978 "ACM 1978"), and the [2nd World Computer Chess Championship](WCCC_1977 "WCCC 1977") 1977 in [Toronto](https://en.wikipedia.org/wiki/Toronto). It was a selective [Shannon Type B](Type_B_Strategy "Type B Strategy") program, performing [Alpha-Beta](Alpha-Beta "Alpha-Beta") search with [leaf evaluation](Evaluation "Evaluation").
 
-## Contents
-
-- [1 Tigran Petrosian](#tigran-petrosian)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Tigran Petrosian
 
 During the [1980 Candidates Match](https://en.wikipedia.org/wiki/World_Chess_Championship_1981#1980.2F81_Candidates_Tournament) between [Viktor Korchnoi](https://en.wikipedia.org/wiki/Viktor_Korchnoi) and [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) in [Velden am Wörther See](https://en.wikipedia.org/wiki/Velden_am_W%C3%B6rther_See), Black Knight was used to analyze the games. It further played a short game vs. Petrosian, where a draw offer by Petrosian in a better position was accepted after move 14 <a id="cite-note-3" href="#cite-ref-3">[3]</a> .

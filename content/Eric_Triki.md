@@ -11,13 +11,6 @@ M.Sc. in [operations research](https://en.wikipedia.org/wiki/Operations_research
 and associate professor of mathematics within [Education Nationale](https://en.wikipedia.org/wiki/Education_in_France) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 As computer chess programmer, Eric Triki is author of the chess program [E.T.Chess](E.T.Chess "E.T.Chess").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](https://web.archive.org/web/20080704123358/http://www.ludochess.com/trn_massy2002/tournoi.php3)

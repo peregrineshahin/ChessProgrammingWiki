@@ -10,18 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compatible chess engine developed by [Guillerm
 The project started in 2008 based on Guillermo Filia's earlier chess engine named **GFC**, and initially incorporated [NagaSkaki's](NagaSkaki "NagaSkaki") [Shifted Bitboards](Shifted_Bitboards "Shifted Bitboards") approach to generated [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 later replaced by [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") following [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") tutorial <a id="cite-note-4" href="#cite-ref-4">[4]</a> [[5]](#cite-note-history-5).
 
-## Contents
-
-- [1 Selected Features](#selected-features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Features
 
 [[5]](#cite-note-history-5)

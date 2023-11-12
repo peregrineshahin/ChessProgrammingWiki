@@ -10,13 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 DreamChess is suited to play versus Dreamer or other compatible engines like [Crafty](Crafty "Crafty") and [GNU Chess](GNU_Chess "GNU Chess") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. DreamChess **0.3.0** was released after a long break in March 2019.
 DreamChess authors were [Kris McAulay](index.php?title=Kris_McAulay&action=edit&redlink=1 "Kris McAulay (page does not exist)"), [Walter van Niftrik](index.php?title=Walter_van_Niftrik&action=edit&redlink=1 "Walter van Niftrik (page does not exist)") and [Lawrence Sebald](index.php?title=Lawrence_Sebald&action=edit&redlink=1 "Lawrence Sebald (page does not exist)") (programming), supported by Andrew Ball, Annie Kirkpatrick, Brandon May and Rogier van Schaijk (graphics) and Matthew P. Smith (music) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Dreamer](Dreamer "Dreamer")

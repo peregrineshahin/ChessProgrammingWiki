@@ -10,20 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 The development started in 1999, using a simple [8x8 Board](8x8_Board "8x8 Board") representation (board[64]) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, later evolving to [0x88](0x88 "0x88") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Averno played the ten first [CCT Tournaments](CCT_Tournaments "CCT Tournaments") from 2000 to 2008.
 
-## Contents
-
-- [1 Etymology](#etymology)
-  - [1.1 Lago d'Averno](#lago-d.27averno)
-  - [1.2 The Path to Hell is Easy](#the-path-to-hell-is-easy)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1999](#1999)
-  - [3.2 2000 ...](#2000-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Etymology
 
 ## Lago d'Averno

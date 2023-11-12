@@ -10,17 +10,6 @@ a series of [Windows](Windows "Windows") chess programs developed by [Filip Höf
 The "chess AI" is conventional [alpha-beta](Alpha-Beta "Alpha-Beta") with [iterative deepening](Iterative_Deepening "Iterative Deepening") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Free versions provide basic functionality (Chess 2013 for two hours), while the commercial edition enables all features
 
-## Contents
-
-- [1 GUI](#gui)
-- [2 Chess 2012](#chess-2012)
-- [3 Chess 2013](#chess-2013)
-- [4 Chess 2020](#chess-2020)
-- [5 Other Chess Programs](#other-chess-programs)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## GUI
 
 The proprietary [GUI](GUI "GUI") provides a [single document interface](https://en.wikipedia.org/wiki/Single_document_interface) with classical [menu-](https://en.wikipedia.org/wiki/Menu_bar) and [status bar](https://en.wikipedia.org/wiki/Status_bar). The [main window](https://en.wikipedia.org/wiki/Window_%28computing%29), dominated by the isotropic [2D graphics board](2D_Graphics_Board "2D Graphics Board"), has several [frame boxes](https://en.wikipedia.org/wiki/Frame_%28GUI%29) arranged for [game notation](Game_Notation "Game Notation") within a single column [list box](https://en.wikipedia.org/wiki/List_box), [principal variation](Principal_Variation "Principal Variation"), chess clock, and evaluation scores.

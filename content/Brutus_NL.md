@@ -8,20 +8,6 @@ title: Brutus NL
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible [open source](Category:Open_Source "Category:Open Source") chess engine by [Stephan Vermeire](Stephan_Vermeire "Stephan Vermeire") and [Maurizio Platino](index.php?title=Maurizio_Platino&action=edit&redlink=1 "Maurizio Platino (page does not exist)"), since version 8 also [UCI](UCI "UCI") compliant. Brutus participated at the [CPT 2008](CPT_2008 "CPT 2008") and the [CPT 2010](CPT_2010 "CPT 2010"), the over the board [Chess Programmers Tournaments](The_Chess_Programmers_Tournament "The Chess Programmers Tournament") organized by [Richard Pijl](Richard_Pijl "Richard Pijl").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Namesake](#namesake)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

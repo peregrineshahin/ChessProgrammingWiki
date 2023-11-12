@@ -12,14 +12,6 @@ which resembles an [evolutionary algorithms](Genetic_Programming#EvolutionaryAlg
 [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution), asymptotically focusing on the global optima.
 **Neuroannealing** applies evolutionary annealing to evolve and learn [neural networks](Neural_Networks "Neural Networks") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. His further research interests include [humanoid robotics](https://en.wikipedia.org/wiki/Humanoid_robot), [deep learning](Deep_Learning "Deep Learning") and [opponent modelling](Opponent_Model_Search "Opponent Model Search") in [games](Games "Games").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

@@ -13,15 +13,6 @@ and as computer chess aficionado and tester interested in chess programming and 
 especially [Toga](Toga "Toga") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Denis also served as [book author](Category:Opening_Book_Author "Category:Opening Book Author") of [Gunnar Harms'](Gunnar_Harms "Gunnar Harms") [Bobcat](Bobcat "Bobcat") engine.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2007 ...

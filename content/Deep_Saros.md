@@ -10,17 +10,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Roberto Munter](Roberto_Munter "R
 Deep Saros is further based on [Igorrit](Igorrit "Igorrit"), and as noted by its author, incorporates own ideas as well as ideas from [Glaurung](Glaurung "Glaurung"), [Fruit](Fruit "Fruit") and others <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 The engine supports a [parallel search](Parallel_Search "Parallel Search") and was forerunner of the commercial [Vitruvius](Vitruvius "Vitruvius").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2010 ...](#2010-...)
-  - [2.2 2012 ...](#2012-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [IvanHoe](IvanHoe "IvanHoe")

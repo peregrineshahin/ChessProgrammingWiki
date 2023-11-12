@@ -8,13 +8,6 @@ title: Chess Simulator
 
 a commercial chess program developed by [Chris Whittington](Chris_Whittington "Chris Whittington") in 1989/90, marketed by his company [Oxford Softworks](Oxford_Softworks "Oxford Softworks"). The program was similar to his [Chess Player 2150](Chess_Player_2150 "Chess Player 2150") program, and ran on various most [68000](68000 "68000") based platforms, like [Atari ST](Atari_ST "Atari ST") and [Commodore Amiga](Amiga "Amiga"), and was also ported to run on [8086](8086 "8086") [PCs](IBM_PC "IBM PC"). According to [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), Chess Simulator used a [selective](Selectivity "Selectivity") [Shannon Type B Strategy](Type_B_Strategy "Type B Strategy"), with its immanent affinity to blunder once in a game <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Chess Simulator played the [WMCCC 1990](WMCCC_1990 "WMCCC 1990") in [Lyon](https://en.wikipedia.org/wiki/Lyon).
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Player 2150](Chess_Player_2150 "Chess Player 2150")

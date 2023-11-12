@@ -7,14 +7,6 @@ title: Blockade
 
 a chess term concerning the [mobility](Mobility "Mobility") of [pawns](Pawn "Pawn") and pieces, most commonly used in the context of [blockade](Blockade_of_Stop "Blockade of Stop") of [stop or telestop squares](Stop_Square "Stop Square") of [passed pawns](Passed_Pawn "Passed Pawn") by minor pieces as elaborated by [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch) in *The Blockade* <a id="cite-note-1" href="#cite-ref-1">[1]</a> and *[My System](https://en.wikipedia.org/wiki/My_System)* (first restrain, next blockade, lastly destroy) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Ambiguity](#ambiguity)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Ambiguity
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

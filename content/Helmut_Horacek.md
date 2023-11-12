@@ -8,18 +8,6 @@ title: Helmut Horacek
 
 an Austrian computer scientist, mathematician and [AI](Artificial_Intelligence "Artificial Intelligence")-researcher with focus on [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) affiliated with the [German Research Centre for Artificial Intelligence](https://en.wikipedia.org/wiki/German_Research_Centre_for_Artificial_Intelligence), [Saarbrücken](https://en.wikipedia.org/wiki/Saarbr%C3%BCcken) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and [Saarland University](https://en.wikipedia.org/wiki/Saarland_University). During the early 80, along with [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Marcus Wagner](Marcus_Wagner "Marcus Wagner") and [Roland Schreier](index.php?title=Roland_Schreier&action=edit&redlink=1 "Roland Schreier (page does not exist)"), Helmut Horacek was co-author of the chess program [Merlin](Merlin "Merlin"), competing at various [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and two [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") in the 80s <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He is further author of the [Pawn Endgame](Pawn_Endgame "Pawn Endgame") program [PawnKing](PawnKing "PawnKing"), which was also subject of his Ph.D. thesis, co-supervised by [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") from [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") and [Curt Christian](Mathematician#CChristian "Mathematician") from [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. As elaborated in his 1983 paper <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [PawnKing](PawnKing "PawnKing") relies on [pawn](Pawn_Pattern_and_Properties "Pawn Pattern and Properties")- and [king-pattern](King_Pattern "King Pattern") with [bitboards](Bitboards "Bitboards") as well as [path algorithms](All_Shortest_Paths "All Shortest Paths") to guide the [search](Search "Search") in his knowledge-based move selection and [evaluation](Evaluation "Evaluation") approach.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1980 ...](#1980-...)
-  - [3.2 1990 ...](#1990-...)
-  - [3.3 2000 ...](#2000-...)
-  - [3.4 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](File:ACC5.jpg)

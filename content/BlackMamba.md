@@ -10,14 +10,6 @@ a free [UCI](UCI "UCI") compliant chess engine by [Matteo D'Annibale](Matteo_D%2
 BlackMamba, utilizing [bitboards](Bitboards "Bitboards"), features [detection of pawn blockages](Blockage_Detection "Blockage Detection") and runtime detection of [SSE42](SSE4#SSE4.2 "SSE4") [population count](Population_Count "Population Count"), [large page](Memory#HugePages "Memory") and [PolyGlot](PolyGlot "PolyGlot") [opening book](Opening_Book "Opening Book") support, [Multi-PV](Principal_Variation#MultiPV "Principal Variation"), and since BlackMamba **2.0**, a [SMP](SMP "SMP") capable [parallel search](Parallel_Search "Parallel Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The [Italian Computer Chess Association - G 6](G_6 "G 6") considers BlackMamba as "free" engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which includes both derivative engines and engines whose teams do not accept examinations accordant to the current regulation of the G 6 for original engines <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Blackmamba 1.0](http://www.talkchess.com/forum/viewtopic.php?t=43259) by [Gabriel Leperlier](index.php?title=Gabriel_Leperlier&action=edit&redlink=1 "Gabriel Leperlier (page does not exist)"), [CCC](CCC "CCC"), April 11, 2012

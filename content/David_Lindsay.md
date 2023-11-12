@@ -7,13 +7,6 @@ title: David Lindsay
 
 an American early [microprocessor](https://en.wikipedia.org/wiki/Microprocessor) chess programmer, and primary author of the program which appeared in the commercial [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") [Boris](Boris "Boris") chess computer, manufactured by [Applied Concepts](Applied_Concepts "Applied Concepts") and distributed by [Chafitz](Chafitz "Chafitz") from February 1978. Boris ran on a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-bit microprocessor with only 2.5 KiB [ROM](Memory#ROM "Memory") and 256 Byte [RAM](Memory#RAM "Memory"). Two further Boris models with Lindsay programs appeared in 1979, the first travel chess computer *Boris Diplomat* <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and *Boris Master* <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Chafitz](#chafitz)
-- [2 Chess Pieces](#chess-pieces)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chafitz
 
 According to Robert Chafitz, son of the Founders of [Chafitz](Chafitz "Chafitz"), [Arleen](Arleen_Chafitz "Arleen Chafitz") and [Steve Chafitz](Steve_Chafitz "Steve Chafitz"), David Lindsay was hired to program the machine <a id="cite-note-4" href="#cite-ref-4">[4]</a> :

@@ -18,13 +18,6 @@ ISBN: 0-387-07957-2, ISBN: 0-387-90815-3
 
 ISBN: 0-387-90790-4 / 3-540-90790-4.
 
-## Contents
-
-- [1 Source of Supply](#source-of-supply)
-- [2 Reviews](#reviews)
-- [3 Contents](#contents)
-- [4 Forum Posts](#forum-posts)
-
 ## Source of Supply
 
 - [Chess Skill in Man and Machine - Springer](https://link.springer.com/book/10.1007/978-1-4612-5515-4)

@@ -6,19 +6,6 @@ title: Contempt Factor
 \[ In Contempt of Hate <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Contempt Factor** reflects the estimated superiority/inferiority of the program over its opponent. The Contempt factor is assigned as [draw score](Score#DrawScore "Score") to avoid (early) [draws](Draw "Draw") against apparently weaker opponents, or to prefer draws versus stronger opponents otherwise.
 
-## Contents
-
-- [1 Too little Respect](#too-little-respect)
-- [2 Too much Respect](#too-much-respect)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1998 ...](#1998-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Too little Respect
 
 For stronger programs it might be dangerous to avoid draws by [Fifty-move Rule](Fifty-move_Rule "Fifty-move Rule"), as happened for instance at the [1st World Computer Rapid Chess Championship](WCRCC_2007 "WCRCC 2007") in [the game](WCRCC_2007#TerraPiHiarcs "WCRCC 2007") between [HIARCS](HIARCS "HIARCS") and [Alaric](Alaric "Alaric") aka TerraPi <a id="cite-note-2" href="#cite-ref-2">[2]</a> .

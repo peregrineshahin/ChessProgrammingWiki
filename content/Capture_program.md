@@ -7,13 +7,6 @@ title: Capture program
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess program by [Sylvain Renard](Sylvain_Renard "Sylvain Renard"), competing the [15th World Microcomputer Chess Championship](WMCCC_1997 "WMCCC 1997") 1997 in Paris, the [Aegon Man-Machine Tournaments](Aegon_Tournaments "Aegon Tournaments") [1995](Aegon_1995 "Aegon 1995"), [1996](Aegon_1996 "Aegon 1996") and [1997](Aegon_1997 "Aegon 1997") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and various [French Computer Chess Championships](French_Computer_Chess_Championship "French Computer Chess Championship") and [Massy Tournaments](French_Programmers_Tournament "French Programmers Tournament"), winning the title at the [FCCC 1999](FCCC_1999 "FCCC 1999") tied with [Chess Tiger](Chess_Tiger "Chess Tiger") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Description
 
 given in 1997 <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

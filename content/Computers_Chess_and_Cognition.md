@@ -16,15 +16,6 @@ by [Springer-Verlag](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_M
 
 ISBN: 0-387-97415-6
 
-## Contents
-
-- [1 New Directions](#new-directions)
-- [2 Source of Supply](#source-of-supply)
-- [3 Contents](#contents)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 References](#references)
-
 ## New Directions
 
 **Computers, Chess, and Cognition** contains revised contributions from the [WCCC 1989](WCCC_1989 "WCCC 1989") Workshop [New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989"), May 29-30, 1989, in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), [Alberta](https://en.wikipedia.org/wiki/Alberta), [Canada](https://en.wikipedia.org/wiki/Canada) <a id="cite-note-1" href="#cite-ref-1">[1]</a> .

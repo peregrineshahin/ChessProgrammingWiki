@@ -11,13 +11,6 @@ a series of [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) [dedicated ches
 The program ran on [PDP-11](PDP-11 "PDP-11") [extended instruction set](https://en.wikipedia.org/wiki/PDP-11_architecture#Optional_instruction_sets) compatible 16-bit Soviet [K1801VM1](https://en.wikipedia.org/wiki/1801_series_CPU#K1801VM1) processor. According to [Mike Watters](Mike_Watters "Mike Watters"), the Elektronika IM-01 was manufactured in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) already in 1986. [Elektronika](https://en.wikipedia.org/wiki/Electronika), the brand name, is mainly associated with [calculators](https://en.wikipedia.org/wiki/Calculator), computers, [watches](https://en.wikipedia.org/wiki/Watch) and [video games](https://en.wikipedia.org/wiki/Video_game). IM stands for microprocessor game <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 The chess computer was a sophisticated machine with a wide range of options.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Tournament Play
 
 Due to travel problems, Elektronika IM-01 was unable to reach [Ulan-Ude](https://en.wikipedia.org/wiki/Ulan-Ude) in time to play the [First Soviet Computer-Chess Championship 1988](First_Soviet_Computer-Chess_Championship_1988 "First Soviet Computer-Chess Championship 1988").

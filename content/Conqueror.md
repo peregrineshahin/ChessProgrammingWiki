@@ -10,17 +10,6 @@ an [UCI](UCI "UCI") compatible chess program by [Aditya Pande](Aditya_Pande "Adi
 It's development started in June 2014 and is being improved for better performance and a more intricate evaluation scheme.
 The engine supports UCI GUIs like [Arena](Arena "Arena"), [ChessGUI](ChessGUI "ChessGUI"), etc. and the support has been extended to latest [WinBoard GUI](WinBoard "WinBoard") but requires some configuration.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

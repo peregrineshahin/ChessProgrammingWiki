@@ -12,14 +12,6 @@ In 2004, it turned out [Chinito](Chinito "Chinito") contained parts of Crafty so
 Eugenio's mens rea to use a readily board infrastructure from open source programs as base for own apparently original ideas and algorithms caused damage of his reputation in the computer chess scene.
 However, many who knew Eugenio from tournaments and personal communication found him an broad-minded computer chess programmer with lots of interesting ideas.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.ludochess.com/trn_massy2002/tournoi.php3)

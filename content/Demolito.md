@@ -8,21 +8,6 @@ title: Demolito
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by Lucas Braesch, licensed under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), written in [C](C "C"), first announced at [OpenChess](Computer_Chess_Forums "Computer Chess Forums") in January 2017 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, a revised stable release published in June 2017 as completely rewritten new [DiscoCheck](DiscoCheck "DiscoCheck") featuring [SMP](Parallel_Search "Parallel Search") and [Chess960](Chess960 "Chess960") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, with executables available for [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2017](#2017)
-  - [3.2 2018 ...](#2018-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

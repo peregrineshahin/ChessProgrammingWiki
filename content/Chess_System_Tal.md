@@ -7,25 +7,6 @@ title: Chess System Tal
 
 a commercial chess program developed by [Chris Whittington](Chris_Whittington "Chris Whittington") in the mid 90s as successor of the [Complete Chess System](Complete_Chess_System "Complete Chess System"), marketed through his company [Oxford Softworks](Oxford_Softworks "Oxford Softworks"). The first version was a [MS-DOS](MS-DOS "MS-DOS") program, **Chess System Tal II**, released in 1999 ran under [Windows](Windows "Windows"). Chess System Tal is famous for its entertaining, strong human playing style with focus on [King attacks](King_Safety "King Safety") and speculative [sacrifices](Sacrifice "Sacrifice"), resembling that of the former World Champion [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal). Chess System Tal II was further marketed by [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and continued by [Jeff Rollason's](Jeff_Rollason "Jeff Rollason") [AI Factory](AI_Factory "AI Factory") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, who now own the rights on the CSTal sources <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Chess System Tal with NNUE](#chess-system-tal-with-nnue)
-- [2 Tournament Play](#tournament-play)
-- [3 Photos](#photos)
-- [4 Selected Games](#selected-games)
-- [5 Description](#description)
-- [6 See also](#see-also)
-  - [6.1 Engines](#engines)
-  - [6.2 People](#people)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1996 ...](#1996-...)
-  - [7.2 2000 ...](#2000-...)
-  - [7.3 2005 ...](#2005-...)
-  - [7.4 2010 ...](#2010-...)
-  - [7.5 2020 ...](#2020-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Chess System Tal with NNUE
 
 [Chess System Tal 2.00](https://github.com/ChrisWhittington/Chess-System-Tal-NNUE-2), released in June 2023 as [UCI](UCI "UCI") compliant public available and private source engine is developed by [Chris Whittington](Chris_Whittington "Chris Whittington") and [Ed Schroder](Ed_Schroder "Ed Schroder") and was specifically designed to play in style of the legendary Tal. It comes in two flavors, one for Elo (strength) and the other for Tal-like play (EAS).

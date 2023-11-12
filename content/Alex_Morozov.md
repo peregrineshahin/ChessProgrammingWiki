@@ -8,13 +8,6 @@ title: Alex Morozov
 
 an Ukrainian chess programmer and author of the chess program [Booot](Booot "Booot"). Alex reported on the [1st Computer Chess Championship of CIS Countries](CCCCISC_2008 "CCCCISC 2008") 2008 in Moscow <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and is recently quite active in playing over the board as well as online tournaments with Booot.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Alex Morozov (**2008**). *The 1st Computer Chess Championship of CIS Countries*. [ICGA Journal, Vol. 31 No. 2](ICGA_Journal#31_2 "ICGA Journal")

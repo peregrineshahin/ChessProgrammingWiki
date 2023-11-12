@@ -8,14 +8,6 @@ title: Corel Chess
 
 a commercial [Windows](Windows "Windows") [multimedia](https://en.wikipedia.org/wiki/Multimedia) chess program based on the chess engine [Socrates](Socrates "Socrates") by [Don Dailey](Don_Dailey "Don Dailey") and [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), produced and published by [Corel](https://en.wikipedia.org/wiki/Corel) in 1995. The Corel Chess project was lead by [Alexander G. M. Smith](index.php?title=Alexander_G._M._Smith&action=edit&redlink=1 "Alexander G. M. Smith (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, who further developed the [GUI](GUI "GUI") with animation player spooling [sound](https://en.wikipedia.org/wiki/Sound) and [video](https://en.wikipedia.org/wiki/Video) off the [CD-ROM](https://en.wikipedia.org/wiki/CD-ROM) and draws it in the [3D world](3D_Graphics_Board "3D Graphics Board") using the Windows regular [GDI](https://en.wikipedia.org/wiki/Graphics_Device_Interface) and Corel's off-screen [bitmap](https://en.wikipedia.org/wiki/Bitmap) drawing code. Corel Chess features [TCP-IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) play that allows two users to play each other and send comments to each other without having to access a Web site <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Screenshot
 
 [](http://www.foro.meca-web.es/viewtopic.php?f=9&t=72&start=30#p3105)

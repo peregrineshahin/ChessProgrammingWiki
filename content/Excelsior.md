@@ -12,15 +12,6 @@ which requires the [Windows](Windows "Windows") [.Net framework](https://en.wiki
 Excelsior (Delphi) played the [PCCC 2003](PCCC_2003 "PCCC 2003"), released to the public in November 2004 <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 the C# version played the [IOPCCC 2007](IOPCCC_2007 "IOPCCC 2007").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [IOPCCC 2007](IOPCCC_2007 "IOPCCC 2007"), round 3, Excelsior - [Atak](Atak "Atak")

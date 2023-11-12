@@ -10,19 +10,6 @@ a British computer scientist, neuroscientist, [artificial intelligence](Artifici
 
 At age 16, Demis Hassabis began his game developer career at [Bullfrog Productions](https://en.wikipedia.org/wiki/Bullfrog_Productions), working with [Peter Molyneux](https://en.wikipedia.org/wiki/Peter_Molyneux) on [Theme Park](https://en.wikipedia.org/wiki/Theme_Park_%28video_game%29), later continuing his collaboration with Molyneux at [Lionhead Studios](https://en.wikipedia.org/wiki/Lionhead_Studios) on [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_%28video_game%29). His further games [Republic: The Revolution](https://en.wikipedia.org/wiki/Republic:_The_Revolution) and [Evil Genius](https://en.wikipedia.org/wiki/Evil_Genius_%28video_game%29) were already developed under his 1998 founded [Elixir Studios](https://en.wikipedia.org/wiki/Elixir_Studios) . He graduated in computer science from [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) in 1997 and defended his Ph.D. from [University College London](https://en.wikipedia.org/wiki/University_College_London) in [cognitive neuroscience](https://en.wikipedia.org/wiki/Cognitive_neuroscience) in 2009, followed by postdocs at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") and [Harvard](Harvard_University "Harvard University").
 
-## Contents
-
-- [1 DeepMind](#deepmind)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2009](#2009)
-  - [2.2 2015 ...](#2015-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 DeepMind](#deepmind-2)
-  - [3.2 Gaming](#gaming)
-  - [3.3 AlphaGo](#alphago)
-- [4 References](#references)
-
 ## DeepMind
 
 After finishing his academic career, Demis Hassabis founded [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") in 2010, which was acquired by [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") in 2014. In January 2016, DeepMind reported archiving an AI "breakthrough" with their [Go](Go "Go") playing program [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") by beating [European Go](https://en.wikipedia.org/wiki/European_Go_Federation) champion [Fan Hui](https://fr.wikipedia.org/wiki/Fan_Hui) <a id="cite-note-5" href="#cite-ref-5">[5]</a> in October 2015 with a 5 - 0 score <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. In December 2017, a breakthrough in the domains of chess and [Shogi](Shogi "Shogi") was reported, combining [Deep learning](Deep_Learning "Deep Learning") with [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-9" href="#cite-ref-9">[9]</a>.

@@ -8,25 +8,6 @@ title: Harm Geert Muller
 
 a Dutch physicist and since 1976 computer chess programmer. He wrote a blitz program for the [PDP-11](PDP-11 "PDP-11") and programs for the [6800](6800 "6800") and [6502](6502 "6502") 8-bit µ-Processors, released under the name [Usurpator](Usurpator "Usurpator"), which competed in several [Dutch Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"). In [1986](DOCCC_1986 "DOCCC 1986") HGM came up with a [matchbox computer](Usurpator#Matchbox "Usurpator") with a [65SC816](http://www.baltissen.org/newhtm/65sc816.htm) CPU for the purpose of running Usurpator [[2]](#cite_note-2), competing three times until [1990](DOCCC_1990 "DOCCC 1990") [[3]](#cite_note-3).
 
-## Contents
-
-- [1 Comeback](#Comeback)
-- [2 Shokidoki](#Shokidoki)
-- [3 Photos](#Photos)
-  - [3.1 DOCCC 2005](#DOCCC_2005)
-  - [3.2 CPT 2008](#CPT_2008)
-  - [3.3 Yokohama 2013](#Yokohama_2013)
-  - [3.4 Leiden 2016](#Leiden_2016)
-- [4 Selected Publications](#Selected_Publications)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 2005 ...](#2005_...)
-  - [5.2 2010 ...](#2010_...)
-  - [5.3 2015 ...](#2015_...)
-  - [5.4 2020 ...](#2020_...)
-- [6 HGM's pages](#HGM.27s_pages)
-- [7 External Links](#External_Links)
-- [8 References](#References)
-
 ## Comeback
 
 After 15 years "out of business", HGM is back with his minimalist chess engine [Micro-Max](Micro-Max "Micro-Max"), the [chess variants](Chess#Variants "Chess") engine [Fairy-Max](Fairy-Max "Fairy-Max"), the closed source programs [Joker](Joker_NL "Joker NL") and [Spartacus](Spartacus "Spartacus") [[4]](#cite_note-4), the [Chinese Chess](Chinese_Chess "Chinese Chess") engine [HaQiKi D](index.php?title=HaQiKi_D&action=edit&redlink=1 "HaQiKi D (page does not exist)"), and the [Shogi](Shogi "Shogi") engine [Shokidoki](index.php?title=Shokidoki&action=edit&redlink=1 "Shokidoki (page does not exist)"). HGM is involved in extending the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") specification to Version 2 [[5]](#cite_note-5), also addressing various [chess and chess like game variants](Chess#Variants "Chess"), and further covering [Checkers](Checkers "Checkers"), [Go](Go "Go"), [Amazons](Amazons "Amazons"), and [Othello](Othello "Othello") [[6]](#cite_note-6). The didactic [open source engine](Category:Open_Source "Category:Open Source") [KingSlayer](index.php?title=KingSlayer&action=edit&redlink=1 "KingSlayer (page does not exist)") published in fall 2015 [[7]](#cite_note-7) is intended to be an inspiration for beginning chess programmers [[8]](#cite_note-8). His open source engine [CrazyWa](index.php?title=CrazyWa&action=edit&redlink=1 "CrazyWa (page does not exist)") plays [Shogi](Shogi "Shogi") and [Chess variants](Games#ChessVariants "Games") with [piece drops](index.php?title=Piece_Drop&action=edit&redlink=1 "Piece Drop (page does not exist)") with boards up to 11x11, with up to 16 droppable piece types, and 15 promoted piece types [[9]](#cite_note-9).

@@ -10,18 +10,6 @@ an American mathematician, computer scientist and software engineer at [Google I
 He holds a B.Sc. in computer science and mathematics from [Harvey Mudd College](https://en.wikipedia.org/wiki/Harvey_Mudd_College) in 2004, and a Ph.D in computer science from [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign") in 2012, where he was research assistant in the *Parallel Programming Lab* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, working on [finite element methods](https://en.wikipedia.org/wiki/Finite_element_method), a multiphase shared arrays library in [Charm++](https://en.wikipedia.org/wiki/Charm%2B%2B), adaptive [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface), parallel [state space search](https://en.wikipedia.org/wiki/State_space_search) and compiler support for productive parallel programming <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Starting in 2009, he developed the chess engine [Daydreamer](Daydreamer "Daydreamer").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2008 ...](#2008-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2009](#2009)
-  - [2.2 2010 ...](#2010-...-2)
-  - [2.3 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

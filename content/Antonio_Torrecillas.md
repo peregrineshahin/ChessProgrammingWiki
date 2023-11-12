@@ -9,14 +9,6 @@ title: Antonio Torrecillas
 a Spanish physicist, computer scientist, consultant and programmer with a degree in physics from [Autonomous University of Barcelona](https://en.wikipedia.org/wiki/Autonomous_University_of_Barcelona) in 1987 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 He is author the [open source chess engines](Category:Open_Source "Category:Open Source") [Rocinante](Rocinante "Rocinante") and [Simplex](Simplex "Simplex"). While the esoteric Rocinante performs [PB\*](B*#ProbabilityBasedSearch "B*") and [MCαβ](MC%CE%B1%CE%B2 "MCαβ"), Simplex is a classical [alpha-beta](Alpha-Beta "Alpha-Beta") searcher.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2008 ...](#2008-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2008 ...

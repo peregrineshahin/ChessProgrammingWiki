@@ -8,17 +8,6 @@ title: Duck
 
 a chess program written in [C](C "C") by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), competing at three [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), the [DOCCC 1989](DOCCC_1989 "DOCCC 1989"), the [DOCCC 1992](DOCCC_1992 "DOCCC 1992"), and with the same version the [DOCCC 2000](DOCCC_2000 "DOCCC 2000"), further playing the [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London).
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Prover](#prover)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Duck Misc](#duck-misc)
-- [5 References](#references)
-
 ## Description
 
 from [Mark Uniacke's](Mark_Uniacke "Mark Uniacke") report on the [4th Computer Olympiad 1992](4th_Computer_Olympiad "4th Computer Olympiad") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

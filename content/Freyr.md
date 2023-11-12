@@ -8,16 +8,6 @@ title: Freyr
 
 a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna"), written in [C++](Cpp "Cpp"), intended as a test ground for various chess algorithms, first released in February 2000.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Freyr is a [bitboard](Bitboards "Bitboards") engine and uses [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). The search is [PVS](Principal_Variation_Search "Principal Variation Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a> with [null move pruning](Null_Move_Pruning "Null Move Pruning") inside an [aspiration window](Aspiration_Windows "Aspiration Windows") [iterative deepening](Iterative_Deepening "Iterative Deepening") framework with [transposition table](Transposition_Table "Transposition Table"), using several [move ordering](Move_Ordering "Move Ordering") heuristics, such as [killer](Killer_Heuristic "Killer Heuristic"), [history](History_Heuristic "History Heuristic") and [countermove](Countermove_Heuristic "Countermove Heuristic"), as well as [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") to order [captures](Captures "Captures"). [Lazy evaluation](Lazy_Evaluation "Lazy Evaluation") considers [incremental updated](Incremental_Updates "Incremental Updates") [material-](Material "Material") and [piece-square table](Piece-Square_Tables "Piece-Square Tables") scores and [cached](Pawn_Hash_Table "Pawn Hash Table") [pawn structure](Pawn_Structure "Pawn Structure") stuff. [Evaluation](Evaluation "Evaluation") further includes [king safety](King_Safety "King Safety") and [passed pawns](Passed_Pawn "Passed Pawn") as most dominant terms <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

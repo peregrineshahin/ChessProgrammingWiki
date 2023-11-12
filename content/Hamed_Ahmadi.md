@@ -19,13 +19,6 @@ In 2003, his entry **DarwinCaissa** applying [genetic algorithms](Genetic_Progra
 playing the game of Caïssa <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 His [Alquerque](https://en.wikipedia.org/wiki/Alquerque) entry **Beta** became third at the CodeCup 2008 competition <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>

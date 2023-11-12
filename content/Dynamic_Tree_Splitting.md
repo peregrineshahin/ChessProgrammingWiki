@@ -8,20 +8,6 @@ title: Dynamic Tree Splitting
 
 a [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) model of parallelism which divides the [search tree](Search_Tree "Search Tree") among several processors on a [shared memory](Memory#Shared "Memory") parallel machine, devised by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , implemented in [Cray Blitz](Cray_Blitz "Cray Blitz") and tested on a 16 processor [Cray C916/1024](Cray_X-MP#C90 "Cray X-MP") with 1024 mebiwords of [memory](Memory "Memory") (8 [gibibytes](https://en.wikipedia.org/wiki/Gibibyte)).DTS overcomes one problem of [principle variation splitting](Parallel_Search#PrincipalVariationSplitting "Parallel Search") (PVS) and enhanced principle variation splitting (EPVS) <a id="cite-note-3" href="#cite-ref-3">[3]</a> with bushy trees, that processors assigned to a [node](Node "Node") become and stay [idle](<https://en.wikipedia.org/wiki/Idle_(CPU)>) while other processors are still busy on the same node. In DTS, busy processors publish their state of the tree in shared memory for idle processors to examine, to let them decide which (if any) of the busy processors to join, and to inform a busy processor of the chosen expceted [all-node](Node_Types#ALL "Node Types") or [pv-node](Node_Types#PV "Node Types") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , dubbed split point. The busy processor with that subtree in progress in turn, then copies the complete tree state with current [board position](Chess_Position "Chess Position"), [bounds](Bound "Bound"), [move list](Move_List "Move List"), [repetition list](Repetitions#listofkeys "Repetitions") and so forth to a shared memory area, becoming a so called "split block". Owner and helper processors can now extract moves from this shared data to search in parallel <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Performance Test](#performance-test)
-  - [1.1 DTS Speedups](#dts-speedups)
-  - [1.2 Comparison](#comparison)
-- [2 Recursive DTS](#recursive-dts)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2000 ...](#2000-...)
-  - [5.2 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Performance Test
 
 Rather than to use a group of unrelated chess problems, the CB team took a segment of a real chess game from the [ACM 1993](ACM_1993 "ACM 1993") [M-Chess Pro vs. Cray Blitz](ACM_1993#MChessCrayBlitz "ACM 1993"), a sharp [Vienna game](https://en.wikipedia.org/wiki/Vienna_Game) aka delayed [kings gambit accepted](https://en.wikipedia.org/wiki/King%27s_Gambit#King.27s_Gambit_Accepted:_2...exf4) after CB was out of book after 1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. o-o d5 8. exd5 Bg4 9. Qd2, 24 positions in total. The results include two sets of numbers for each test, where a test used either one, two, four, eight or sixteen processors. The numbers are the clock time required for the search (wall clock time) and the number of nodes searched which shows how much extra work is added by using additional processors <a id="cite-note-6" href="#cite-ref-6">[6]</a> .

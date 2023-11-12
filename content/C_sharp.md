@@ -7,21 +7,6 @@ title: C sharp
 It is a [Multi-paradigm programming language](https://en.wikipedia.org/wiki/Multi-paradigm_programming_language), being [functional](https://en.wikipedia.org/wiki/Functional_programming), [imperative](https://en.wikipedia.org/wiki/Imperative_programming), [generic](https://en.wikipedia.org/wiki/Generic_programming), [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming), and [component-oriented](https://en.wikipedia.org/wiki/Component-based_software_engineering).
 C# Chief Architect is [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg), the creator of [Turbo Pascal](Pascal#TurboPascal "Pascal") and [Delphi](Delphi "Delphi") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Chess Engines](#chess-engines)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2010 ...](#2010-...)
-  - [4.2 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 C#](#c.23)
-  - [5.2 Yield](#yield)
-  - [5.3 Frameworks](#frameworks)
-  - [5.4 Chess Programs](#chess-programs)
-- [6 References](#references)
-
 ## Chess Engines
 
 - [Category: C# Chess Engines](Category:C_sharp "Category:C sharp")

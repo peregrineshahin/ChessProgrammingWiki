@@ -10,15 +10,6 @@ a [Java](Java "Java") chess engine by [Barry Smith](index.php?title=Barry_Smith&
 It is [open source](Category:Open_Source "Category:Open Source"), licensed under the [Apache License](https://en.wikipedia.org/wiki/Apache_License), Version 2.0 and hosted at [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Calculon is [UCI](UCI "UCI") compatible, uses [bitboards](Bitboards "Bitboards") as basic data structure, and applies [Negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta"). The engine regularly plays on [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") under the name CalculonX and has Blitz/Standard ratings there around the 1750 mark.
 
-## Contents
-
-- [1 getPiece](#getpiece)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## getPiece
 
 Calculon's *getPiece* routine to get a the [piece code](Pieces#PieceTypeCoding "Pieces") of a square (the least significant one-bit of the passed bitboard pos, typically single populated)

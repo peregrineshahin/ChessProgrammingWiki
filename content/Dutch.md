@@ -7,15 +7,6 @@ title: Dutch
 
 the [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology") Chess Program developed by [Sito Dekker](Sito_Dekker "Sito Dekker"), [Harry Nefkens](Harry_Nefkens "Harry Nefkens"), [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Tom Pronk](Tom_Pronk "Tom Pronk") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Like its forerunner [Pion](Pion "Pion"), Dutch was written in [C](C "C"). It participated at the [WCCC 1986](WCCC_1986 "WCCC 1986") in [Cologne](https://en.wikipedia.org/wiki/Cologne) with 3 out of 5 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and further played the [DOCCC 1986](DOCCC_1986 "DOCCC 1986") and [DOCCC 1987](DOCCC_1987 "DOCCC 1987").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 5, Dutch - [Ostrich](Ostrich "Ostrich") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

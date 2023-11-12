@@ -12,18 +12,6 @@ the [European MCC 1983](European_MCC_1983 "European MCC 1983") running on a modi
 and the [WMCCC 1984](WMCCC_1984 "WMCCC 1984") running on a [Commodore 64](Commodore_64 "Commodore 64"), where it won the title of Amateur World Microcomputer Chess Champion by default <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 An improved version of Chessnut was also commercially released in 1981 by [Acornsoft](https://en.wikipedia.org/wiki/Acornsoft) as [Atom Chess](Atom_Chess "Atom Chess") for the [Acorn Atom](Acorn_Atom "Acorn Atom").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Selected Games](#selected-games)
-  - [2.1 Intelligent Chess Software](#intelligent-chess-software)
-  - [2.2 Sargon 3](#sargon-3)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Quotes
 
 by [Tony Harrington](Tony_Harrington "Tony Harrington") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

@@ -10,17 +10,6 @@ a British, Canadian, and New Zealand computer scientist, and professor emeritus 
 His further contributions to research include the theory of [adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) along with [multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) problem, already introducing [TD(0)](Temporal_Difference_Learning#TDLamba "Temporal Difference Learning") in 1977 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis), [digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing), [machine learning](Learning "Learning"), [data mining](https://en.wikipedia.org/wiki/Data_mining) and [text compression](https://en.wikipedia.org/wiki/Data_compression).
 Along with [Craig Nevill-Manning](Mathematician#CNevillManning "Mathematician"), he is a co-creator of the [Sequitur algorithm](https://en.wikipedia.org/wiki/Sequitur_algorithm) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1970 ...](#1970-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-  - [1.5 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

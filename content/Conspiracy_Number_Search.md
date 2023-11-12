@@ -10,22 +10,6 @@ a [best-first search](Best-First "Best-First") algorithm first described by [Dav
 [Trees](Search_Tree "Search Tree") are grown in [memory](Memory "Memory") - in an often deep and narrow way - that maximizes the conspiracy required to change the root value.
 The phases of the best-first search procedure are **Selection** of a [leaf node](Leaf_Node "Leaf Node"), **Expansion** and **Evaluation** of that leaf, and to **Back-up** the result of that evaluation back to the root.
 
-## Contents
-
-- [1 CNS](#cns)
-- [2 CCNS](#ccns)
-- [3 PCCNS](#pccns)
-- [4 See also](#see-also)
-- [5 Chess Programs](#chess-programs)
-- [6 Publications](#publications)
-  - [6.1 1985 ...](#1985-...)
-  - [6.2 1990 ...](#1990-...)
-  - [6.3 1995 ...](#1995-...)
-  - [6.4 2000 ...](#2000-...)
-  - [6.5 2010 ...](#2010-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## CNS
 
 CNS maintains a range of possible values and keeps expanding the tree until a certain degree of confidence is reached. The confidence is measured by the width of a possible values’ range **W** and a minimum value for conspiracy numbers **T**. The purpose of the search is to raise the conspiracy numbers of unlikely values to greater than **T** in order to reduce the range of possible values to below **W**. At each turn, CNS tries to disprove either the highest or lowest possible value, which has the highest conspiracy numbers, by expanding one of its conspirators. Then, it recalculates conspiracy numbers and repeats the process until the desired confidence is obtained <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

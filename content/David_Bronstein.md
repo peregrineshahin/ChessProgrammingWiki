@@ -8,18 +8,6 @@ title: David Bronstein
 
 was an Ukrainian world-class [chess grandmaster](https://en.wikipedia.org/wiki/International_Grandmaster) who was close to become [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship) when he drew the [1951 match](https://en.wikipedia.org/wiki/World_Chess_Championship_1951) against [Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") by a score of 12–12. He was also a highly renowned writer.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Photos](#photos)
-- [3 Quotes](#quotes)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-  - [5.1 Chess](#chess)
-  - [5.2 Computer Chess](#computer-chess-2)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Computer Chess
 
 Bronstein became interested in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") when he received his first lessons in computer chess from [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod"). He and Bronstein's friend [Alexander Brudno](Alexander_Brudno "Alexander Brudno") gave a lot of valuable knowledge about the mathematical problems in connection with writing chess programs. As a grandmaster with a great interest in this subject he was asked to be an advisor to the [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") when they played the famous [match](Stanford-ITEP_Match "Stanford-ITEP Match") against [Stanford University](Stanford_University "Stanford University"). He already played a two games against the [M-20](M-20 "M-20") in 1963 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Also in his later career, David Bronstein was open minded to play computers. He played [Deep Thought](Deep_Thought "Deep Thought") and later [Deep Blue](Deep_Blue "Deep Blue") and all [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") from [1990](Aegon_1990 "Aegon 1990") until [1997](Aegon_1997 "Aegon 1997"), which he won in [1992](Aegon_1992 "Aegon 1992") with a perfect score of 6/6 <a id="cite-note-4" href="#cite-ref-4">[4]</a> , as well as the [Aegon 1993](Aegon_1993 "Aegon 1993") with 5.5/6. During the [8th Advances in Computer Chess Conference](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8") 1996 David Bronstein was invited speaker and told about his experiences with computers. [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") was a close friend and contributed in writing the *[The Sorcerer's Apprentice](Tom_F%C3%BCrstenberg#TheSorcerersApprentice "Tom Fürstenberg")* <a id="cite-note-5" href="#cite-ref-5">[5]</a> .

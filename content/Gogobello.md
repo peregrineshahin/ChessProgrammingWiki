@@ -8,20 +8,6 @@ title: Gogobello
 
 a free [UCI](UCI "UCI") compliant chess engine by [Salvatore Giannotti](Salvatore_Giannotti "Salvatore Giannotti"), written in [C](C "C") and first released in November 2014 as [WinBoard](WinBoard "WinBoard") engine. Gogobello had its tournament debut at [IGT 2015](IGT_2015 "IGT 2015"), when it became sixth from nine - and further improved at the [IGT 2016](IGT_2016 "IGT 2016") as fourth from ten with 4½/7.
 
-## Contents
-
-- [1 Selected Features](#selected-features)
-  - [1.1 Move Generation](#move-generation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Selected Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

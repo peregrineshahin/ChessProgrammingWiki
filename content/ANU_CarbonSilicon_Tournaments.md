@@ -6,23 +6,6 @@ title: ANU CarbonSilicon Tournaments
 \[.jpg) Campus of ANU in [Acton](https://en.wikipedia.org/wiki/Acton,_Australian_Capital_Territory), [Canberra](https://en.wikipedia.org/wiki/Canberra) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **ANU Carbon-Silicon Tournaments** were Man Computer Tournaments held at the [Australian National University](Australian_National_University "Australian National University"), first edition in 1993.
 
-## Contents
-
-- [1 1993](#1993)
-- [2 1994](#1994)
-  - [2.1 Silicon](#silicon)
-  - [2.2 Carbon](#carbon)
-- [3 1995](#1995)
-  - [3.1 Silicon](#silicon-2)
-  - [3.2 Carbon](#carbon-2)
-- [4 1996](#1996)
-  - [4.1 Silicon](#silicon-3)
-  - [4.2 Carbon](#carbon-3)
-- [5 Postings](#postings)
-- [6 Publications](#publications)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## 1993
 
 **Carbon** vs. Silicon **14 - 11** <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

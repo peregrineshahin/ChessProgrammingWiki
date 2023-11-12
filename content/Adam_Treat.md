@@ -10,13 +10,6 @@ an American computer scientist and software engineer. He is a senior consulting 
 Inspired by the seminal [AlphaZero](AlphaZero "AlphaZero") paper <a id="cite-note-3" href="#cite-ref-3">[3]</a> and the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") project, he is author of the [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") [Allie](Allie "Allie"),
 which probes the same [deep](Neural_Networks#Deep "Neural Networks") [convolutional neural networks](Neural_Networks#Convolutional "Neural Networks") as produced by Leela, inside an own implementation of an [PUCT](UCT#PUCT "UCT") [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 Patents](#patents)
-- [4 References](#references)
-
 ## Forum Posts
 
 - [New Engine: Allie (NN)](http://www.talkchess.com/forum3/viewtopic.php?t=69972) by Adam Treat, [CCC](CCC "CCC"), February 20, 2019

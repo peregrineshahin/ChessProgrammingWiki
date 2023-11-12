@@ -11,15 +11,6 @@ Eden is a tribute to [Wilkins'](David_Wilkins "David Wilkins") [Paradise](Paradi
 but apparently does not incorporate Paradise' search paradigms. Eden represents the board as one-dimensional [10x8 array](Array "Array"), and applies a straight forward [alpha-beta](Alpha-Beta "Alpha-Beta") with [iterative deepening](Iterative_Deepening "Iterative Deepening") and [quiescence search](Quiescence_Search "Quiescence Search"),
 utilizing three [Zobrist](Zobrist_Hashing "Zobrist Hashing") based [Hash tables](Hash_Table "Hash Table") for [transpositions](Transposition_Table "Transposition Table"), [pawn structure](Pawn_Hash_Table "Pawn Hash Table"), and [opening book](Opening_Book "Opening Book") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Genesis](Genesis_AR "Genesis AR") by [Claudio Bollini](Claudio_Bollini "Claudio Bollini")

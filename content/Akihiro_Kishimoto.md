@@ -9,17 +9,6 @@ title: Akihiro Kishimoto
 a Japanese computer scientiest, research staff member at [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") Ireland, and before assistant professor at [Future University Hakodate](https://en.wikipedia.org/wiki/Future_University_Hakodate). His research interests covers [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [graph theory](https://en.wikipedia.org/wiki/Graph_theory), [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) and [parallel search](Parallel_Search "Parallel Search"). Along with [Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)"), and at times [Ayumu Nagai](Ayumu_Nagai "Ayumu Nagai") and [Norifumi Gotoh](index.php?title=Norifumi_Gotoh&action=edit&redlink=1 "Norifumi Gotoh (page does not exist)"), Akihiro Kishimoto is author of the [Shogi](Shogi "Shogi") program [ISshogi](index.php?title=ISshogi&action=edit&redlink=1 "ISshogi (page does not exist)"), and is further author of the [Go](Go "Go") playing program [Akebono](https://www.game-ai-forum.org/icga-tournaments/program.php?id=102) (9x9).
 Akihiro Kishimoto was a member of the GAMES group <a id="cite-note-2" href="#cite-ref-2">[2]</a> in the Department of Computing Science at the [University of Alberta](University_of_Alberta "University of Alberta"), and worked with [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. on solving [Checkers](Checkers "Checkers") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Additionally, he worked with [Martin Müller](Martin_M%C3%BCller "Martin Müller") on [graph history interaction](Graph_History_Interaction "Graph History Interaction"), [proof-number search](Proof-Number_Search "Proof-Number Search") and [computer Go](Go "Go").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1999](#1999)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

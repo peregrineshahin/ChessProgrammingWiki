@@ -8,13 +8,6 @@ title: Franklin D. Ceruti
 
 an American electrical engineer, computer scientist, software and network consultant, owner of *FranCer Enterprises* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and as chess programmer, along with [Rolf C. Smith](Rolf_C._Smith "Rolf C. Smith"), co-author of the early [mainframe chess program](Category:Mainframe "Category:Mainframe") [Schach](</Schach_(US)> "Schach (US)").
 
-## Contents
-
-- [1 Biography](#biography)
-- [2 Schach](#schach)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Biography
 
 Born and raised in [Brooklyn](https://en.wikipedia.org/wiki/Brooklyn), [NY](https://en.wikipedia.org/wiki/New_York) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, after spending some time at [Brooklyn College](https://en.wikipedia.org/wiki/Brooklyn_College) and [New York University](https://en.wikipedia.org/wiki/New_York_University), Franklin D. Ceruti graduated from [Tougaloo College](https://en.wikipedia.org/wiki/Tougaloo_College) in [Mississippi](https://en.wikipedia.org/wiki/Mississippi) and then entered the [Air Force Officer Training School](https://en.wikipedia.org/wiki/Air_Force_Officer_Training_School), where he was [commissioned](https://en.wikipedia.org/wiki/Officer_%28armed_forces%29), and became a computer professional. At the [Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force), he attended [Texas A&M University](https://en.wikipedia.org/wiki/Texas_A%26M_University) in residence, and in 1968 received a Master degree in CS on the topic of computer chess under advisor [Dan D. Drew](Dan_D._Drew "Dan D. Drew"). After a 20 year [military](https://en.wikipedia.org/wiki/Military) career, he served as a contract administrator, [systems engineer](https://en.wikipedia.org/wiki/Systems_engineering), [systems designer](https://en.wikipedia.org/wiki/Systems_design), software developer, [software project manager](https://en.wikipedia.org/wiki/Project_manager#Software_Project_Manager), and manager of project managers. Franklin D. Ceruti is dedicated life member of the [Omega Psi Phi](https://en.wikipedia.org/wiki/Omega_Psi_Phi) [Fraternity](https://en.wikipedia.org/wiki/Fraternity) <a id="cite-note-4" href="#cite-ref-4">[4]</a> and is a past president of their Scholarship Foundation <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

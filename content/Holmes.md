@@ -10,17 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 It applies [NegaScout](NegaScout "NegaScout") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), and [generate moves](Move_Generation "Move Generation") with the help of [piece tables](Piece-Lists "Piece-Lists").
 Holmes played the [IPCCC 2001](IPCCC_2001 "IPCCC 2001"), [IPCCC 2003](IPCCC_2003 "IPCCC 2003"), and the [ICT 2002](ICT_2002 "ICT 2002"), and later evolved to [BlackBishop](BlackBishop "BlackBishop").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Photos & Games
 
 [](http://old.csvn.nl/gallery16.html)

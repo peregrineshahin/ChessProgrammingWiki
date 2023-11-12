@@ -10,13 +10,6 @@ a Dutch physicist, mathematician and computer scientist, software consultant and
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 He holds a master's degree in physics in 1984 and a Ph.D. in mathematics in 1989, both from [Utrecht University](https://en.wikipedia.org/wiki/Utrecht_University).
 
-## Contents
-
-- [1 Chess Programming](#chess-programming)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Programming
 
 Huib-Jan Imbens developed the initial [MS-DOS](MS-DOS "MS-DOS") version of **Swiss Master** software to make pairings for chess tournaments <a id="cite-note-3" href="#cite-ref-3">[3]</a>,

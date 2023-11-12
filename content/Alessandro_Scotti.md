@@ -9,13 +9,6 @@ title: Alessandro Scotti
 an Italian software developer and computer chess programmer. He is author of the chess engines [Kiwi](Kiwi "Kiwi") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 and [Hamsters](Hamsters "Hamsters") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Alessandro also tinkered with the [WinBoard](WinBoard "WinBoard") source code, and was able to add a few new features to it <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol")

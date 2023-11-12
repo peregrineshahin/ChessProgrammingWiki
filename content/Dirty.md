@@ -9,23 +9,6 @@ title: Dirty
 a [WinBoard](WinBoard "WinBoard") compliant chess engine developed since mid 2007 as team effort by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Andres Valverde](Andres_Valverde "Andres Valverde") and [Fonzy Bluemers](Fonzy_Bluemers "Fonzy Bluemers"), initiated after a chat at Fonzy's *Dirty Dozen broadcast* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The [search](Search "Search"), initially from [Buzz](Buzz "Buzz"), is developed by Pradu Kannan, since version 14M-22, March 2010, Fonzy Bluemers is working on the search as well. The [evaluation](Evaluation "Evaluation") is mainly written by Andres Valverde, in the beginning incorporated from his [EveAnn](EveAnn "EveAnn") engine, with Fonzy Bluemers is tweaking it also. Both search and evaluation were further optimized by [Rémi Coulom's](R%C3%A9mi_Coulom "Rémi Coulom") [CLOP](CLOP "CLOP") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Dirty 10APR2015 supports [SMP-search](Parallel_Search "Parallel Search") based on the framework of [FireFly](FireFly "FireFly") by [Andrew Fan](Andrew_Fan "Andrew Fan") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Dirty CUCUMBER](#dirty-cucumber)
-- [2 Tournament Play](#tournament-play)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 ACCA 2008](#acca-2008)
-  - [3.2 ICT 2013](#ict-2013)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2007 ...](#2007-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Dirty CUCUMBER
 
 **Dirty CUCUMBER**, released in November 2018, improved with changed [move ordering](Move_Ordering "Move Ordering") also by implementing the [countermove heuristic](Countermove_Heuristic "Countermove Heuristic"), more efficient [transposition table](Transposition_Table "Transposition Table") lookup, and a [tuned](Automated_Tuning "Automated Tuning") [evaluation](Evaluation "Evaluation") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

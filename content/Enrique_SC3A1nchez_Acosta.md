@@ -10,13 +10,6 @@ a Spanish computer scientist, [R&D](https://en.wikipedia.org/wiki/Research_and_d
 He holds an engineer degree in CS from [Pontifical University of Salamanca](https://en.wikipedia.org/wiki/Pontifical_University_of_Salamanca) (UPS) in 2010, and a Ph.D. in CS from [European University of Madrid](https://en.wikipedia.org/wiki/European_University_of_Madrid) in 2016.
 As computer chess programmer, Enrique Sánchez Acosta is author of the chess engine [Alfil](Alfil "Alfil") and the mission-based chess engine [Chessaria AICE](index.php?title=Chessaria_AICE&action=edit&redlink=1 "Chessaria AICE (page does not exist)") as part of Pixel Wizards' *[Chessaria: The Tactical Adventure](https://en.wikipedia.org/wiki/Chessaria:_The_Tactical_Adventure)* released on [Steam](<https://en.wikipedia.org/wiki/Steam_(software)>).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

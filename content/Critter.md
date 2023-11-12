@@ -8,20 +8,6 @@ title: Critter
 
 an [UCI](UCI "UCI") compliant chess engine by [Richard Vida](Richard_Vida "Richard Vida"), executables freely available for personal use to run under [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Android](Android "Android") and [Mac OS](Mac_OS "Mac OS") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Starting in late 2008, Critter was first written in [Object Pascal](Pascal "Pascal") compiled with [Delphi](Delphi "Delphi"), now available as [open source engine](Category:Open_Source "Category:Open Source") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and was ported to [C](C "C") / [C++](Cpp "Cpp") in 2009 <a id="cite-note-5" href="#cite-ref-5">[5]</a> . It consistently evolved through various board representations from [0x88](0x88 "0x88") to [bitboards](Bitboards "Bitboards"), as acknowledged by Richard Vida, also incorporating ideas from strong open source programs like [Ippolit](Ippolit "Ippolit") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , to a world class engine which achieved top five of most [engine rating lists](Engine_Rating_Lists "Engine Rating Lists") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. In 2012, Critter had its over the board debut at the [ICT 2012](ICT_2012 "ICT 2012"), where it became strong runner-up behind the [Rybka](Rybka "Rybka") cluster.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2009](#2009)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Critter applies a [principal variation search](Principal_Variation_Search "Principal Variation Search") with [aspiration windows](Aspiration_Windows "Aspiration Windows"), [null move pruning](Null_Move_Pruning "Null Move Pruning") <a id="cite-note-8" href="#cite-ref-8">[8]</a> and other state of the art [forward pruning](Pruning "Pruning"), [reduction](Reductions "Reductions") and [extension techniques](Extensions "Extensions"), such as the [Botvinnik-Markoff extensions](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension") <a id="cite-note-9" href="#cite-ref-9">[9]</a> . It can [search in parallel](Parallel_Search "Parallel Search") with up to eight [threads](Thread "Thread") <a id="cite-note-10" href="#cite-ref-10">[10]</a> , supports [Gaviota tablebases](Gaviota_Tablebases "Gaviota Tablebases") <a id="cite-note-11" href="#cite-ref-11">[11]</a> , and is able to play [Chess960](Chess960 "Chess960") <a id="cite-note-12" href="#cite-ref-12">[12]</a> . Critter features a [tapered eval](Tapered_Eval "Tapered Eval") with a [score pair](Score "Score") class and overloaded operators <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> , and [blockage detection](Blockage_Detection "Blockage Detection") in late [endgames](Endgame "Endgame") <a id="cite-note-15" href="#cite-ref-15">[15]</a> .

@@ -6,17 +6,6 @@ title: AntiDiagonals
 [](Bibob "Bibob") Main Anti-Diagonal <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Anti-Diagonals** are the diagonals from south-east to north-west on a chess board, the main anti-diagonal is h1\\a8. There are 15 anti-diagonals, with line-length from 1 to 8. An Anti-Diagonal is monochrome, all their [squares](Squares "Squares") are either white or black.
 
-## Contents
-
-- [1 Square Mapping Notes](#square-mapping-notes)
-- [2 Square Difference](#square-difference)
-- [3 Enumeration](#enumeration)
-- [4 Alternative Enumeration](#alternative-enumeration)
-- [5 Two Squares on a Anti-Diagonal](#two-squares-on-a-anti-diagonal)
-- [6 See also](#see-also)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Square Mapping Notes
 
 A [90 degree rotation](Flipping_Mirroring_and_Rotating#Rotationby90degreesClockwise "Flipping Mirroring and Rotating") of the [Chessboard](Chessboard "Chessboard"), as well as [flipping vertically](Flipping_Mirroring_and_Rotating#FlipVertically "Flipping Mirroring and Rotating") (reversed [ranks](Ranks "Ranks")) or (exclusive) [mirroring horizontally](Flipping_Mirroring_and_Rotating#MirrorHorizontally "Flipping Mirroring and Rotating") (reversed [files](Files "Files")), change the roles of [diagonals](Diagonals "Diagonals") and anti-diagonals. However, we define the main diagonal on the chess board from a1/h8 and the main anti-diagonal from h1\\a8. Whether the square difference of neighbored squares on a diagonal or anti-diagonal is either 7 or 9, depends on the square mapping. We further rely on [little-endian rank-file mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations").

@@ -11,15 +11,6 @@ Starting with [TSCP](TSCP "TSCP") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 Lourenço changed and further implemented new methods in [evaluation](Evaluation "Evaluation") and [search](Search "Search"), and [Tom's](Tom_Kerrigan "Tom Kerrigan") simple chess program evolved to a new chess engine which plays with a lot of courage, called Capivara <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Capivara LK, with [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") mentioned as co-author, played the [CCT13](CCT13 "CCT13"), Capivara the [CCT15](CCT15 "CCT15") with 3/6 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Capivara's [opening book](Opening_Book "Opening Book") is based on [Harry Schnapp's](Harry_Schnapp "Harry Schnapp") *HS-Classic Book* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [CCT15](CCT15 "CCT15"), round 7, Capivara - [Chexa](Chexa "Chexa")

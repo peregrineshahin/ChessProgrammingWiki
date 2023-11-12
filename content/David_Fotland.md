@@ -11,16 +11,6 @@ He is author of the Go playing program [Many Faces of Go](https://www.game-ai-fo
 The engine combines a traditional knowledge-based algorithm with a modern [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Many Faces of Go, as well as other strategy game programs, like the [Arimaa](Arimaa "Arimaa") bot *Bomb*, puzzle- and [Sudoku](index.php?title=Sudoku&action=edit&redlink=1 "Sudoku (page does not exist)") solver, are market by Fotland's own computer game software development and publishing company *Smart Games* <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Beijing 2008](#beijing-2008)
-  - [1.2 Kanazawa 2010](#kanazawa-2010)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 ## Beijing 2008

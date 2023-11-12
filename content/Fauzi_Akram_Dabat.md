@@ -10,14 +10,6 @@ a Jordanian chess player, computer chess aficionado and [opening book author](Ca
 In 2004, he started to create [opening books](Opening_Book "Opening Book") for different [GUI](GUI "GUI") and formats, and now prefers the [abk-Format](ABK "ABK") of the [Arena](Arena "Arena") GUI <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 In August 2015, [Stockfish 6](Stockfish "Stockfish") by [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Tord Romstad](Tord_Romstad "Tord Romstad") topped of the [SSDF](SSDF "SSDF") ratinglist using the "Aggressive 1.3 by Fauzi.abk" opening book by Fauzi Akram Dabat <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2013 ...](#2013-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2013 ...

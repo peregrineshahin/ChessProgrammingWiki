@@ -8,14 +8,6 @@ title: Bradley Kuszmaul
 
 an American computer scientist and programmer at in the Supercomputing Technologies Group at the [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") Laboratory for Computer Science. He was involved in [Akamai Technologies](https://en.wikipedia.org/wiki/Akamai_Technologies) and a couple of startups: *Tokutek* and [Cilk Arts](https://en.wikipedia.org/wiki/Cilk). Bradley Kuszmaul was one of the principal architects of the [Connection Machine CM-5](Connection_Machine "Connection Machine"), participated at MIT at the [Cilk](Cilk "Cilk") project <a id="cite-note-2" href="#cite-ref-2">[2]</a>, introduced the [Jamboree algorithm](Jamboree "Jamboree") in his Ph.D. thesis <a id="cite-note-3" href="#cite-ref-3">[3]</a> and is co-author of two world-class computer chess programs applying this algorithm, [StarTech](StarTech "StarTech") and [\*Socrates](Star_Socrates "Star Socrates") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 1995 ...](#1995-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

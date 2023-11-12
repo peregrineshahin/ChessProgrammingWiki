@@ -12,16 +12,6 @@ at the [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Ur
 He received his Ph.D. in civil engineering in 1983 from the [University of Michigan](University_of_Michigan "University of Michigan") under [John H. Holland](Mathematician#Holland "Mathematician"),
 and is renowned for his seminal work on [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1983 ...](#1983-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

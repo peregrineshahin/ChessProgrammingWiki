@@ -8,13 +8,6 @@ title: David
 
 an early chess program by [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, in the 70s affiliated with the [Graz University of Technology](https://en.wikipedia.org/wiki/Graz_University_of_Technology) and its computer center *Rechenzentrum Graz*, Austria. David played the [ACM 1971](ACM_1971 "ACM 1971") in [Chicago](https://en.wikipedia.org/wiki/Chicago) and ran on an [UNIVAC 494](UNIVAC_494 "UNIVAC 494") at UNIVAC Division, [St. Paul, Minnesota](https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota), taking 10K 30-bit words of memory <a id="cite-note-3" href="#cite-ref-3">[3]</a>. David lost from [Tech](Tech "Tech"), won versus [Schach](</Schach_(US)> "Schach (US)") and drew [CCCP](</CCCP_(US)> "CCCP (US)").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [ACM 1971](ACM_1971 "ACM 1971"), round 2, David - [Schach](</Schach_(US)> "Schach (US)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

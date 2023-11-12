@@ -10,16 +10,6 @@ a free [open source chess engine](Category:Open_Source "Category:Open Source") r
 It supports [UCI](UCI "UCI") through the [Java Chess Protocol Interface](index.php?title=Java_Chess_Protocol_Interface&action=edit&redlink=1 "Java Chess Protocol Interface (page does not exist)")
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> and runs on all available Java 7 platforms including [Windows](Windows "Windows"), [OS X](Mac_OS "Mac OS") and [Linux](Linux "Linux").
 
-## Contents
-
-- [1 Features](#features)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

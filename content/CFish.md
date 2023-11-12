@@ -8,18 +8,6 @@ title: CFish
 
 a [port](Stockfish#ports "Stockfish") of Stockfish written in plain [C](C "C") by [Ronald de Man](Ronald_de_Man "Ronald de Man"), first published on [GitHub](https://en.wikipedia.org/wiki/GitHub) in July 2016. Possibly inspired by the [asmFish](AsmFish "AsmFish") project to speed up Stockfish using a programming language closer to the machine, the purpose of CFish is to explore possible optimization issues of C versus [C++](Cpp "Cpp") compilers <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 AVX2 Attacks](#avx2-attacks)
-- [2 NNUE](#nnue)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2016](#2016)
-  - [4.2 2017 ...](#2017-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## AVX2 Attacks
 
 Since May 2020, CFish contains experimental [AVX2](AVX2 "AVX2")/[AVX-512](AVX-512 "AVX-512") computational [sliding piece attack](Sliding_Piece_Attacks "Sliding Piece Attacks") code by Okuhara

@@ -13,15 +13,6 @@ In 2007, he joined [Matej Guid](Matej_Guid "Matej Guid") and [Ivan Bratko](Ivan_
 to compare moves played by [World Chess Champions](https://en.wikipedia.org/wiki/World_Chess_Championship) with [Crafty's](Crafty "Crafty") choices <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>,
 concerning how using stronger chess programs, searching more [deeply](Depth "Depth"), or using larger sets of positions would influence the conclusion of the relative [playing strength](Playing_Strength "Playing Strength") of World Champions <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2006 ...](#2006-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-9" href="#cite-ref-9">[9]</a>

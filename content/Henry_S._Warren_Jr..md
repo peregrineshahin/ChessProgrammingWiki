@@ -7,17 +7,6 @@ title: Henry S. Warren Jr.
 
 an American computer scientist and [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") research fellow, best known as author of [Hacker's Delight](http://www.hackersdelight.org/), a groundbreaking book on all the programming tricks and [bit-twiddling](Bit-Twiddling "Bit-Twiddling"), which also influenced chess programming, especially in manipulating [bitboards](Bitboards "Bitboards"). Hank received his Ph.D. in computer science from the [Courant Institute](https://en.wikipedia.org/wiki/Courant_Institute_of_Mathematical_Sciences) at [New York University](https://en.wikipedia.org/wiki/New_York_University). Since 1973 he has been with IBM's Research Division, focusing on compilers and computer architectures. He currently works on the [Blue Gene](https://en.wikipedia.org/wiki/Blue_Gene) <a id="cite-note-1" href="#cite-ref-1">[1]</a> [petaflop](https://en.wikipedia.org/wiki/FLOPS) computer project <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Hacker's Delight](#hacker.27s-delight)
-  - [1.1 Booknews](#booknews)
-  - [1.2 Synopsis](#synopsis)
-  - [1.3 Topics](#topics)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Hacker's Delight
 
 [](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&isbn=0201914654&TXT=Y&itm=2)

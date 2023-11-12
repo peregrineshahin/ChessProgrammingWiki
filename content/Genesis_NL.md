@@ -8,16 +8,6 @@ title: Genesis NL
 
 a [PC](IBM_PC "IBM PC") chess program by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap") written in [C](C "C") and [x86](X86 "X86") [Assembly](Assembly "Assembly") to ran under [MS-DOS](MS-DOS "MS-DOS"). It had a program size of 60 [KiB](https://en.wikipedia.org/wiki/Kibibyte), was searching [selectively](Selectivity "Selectivity") with an "unlimited" [quiescence search](Quiescence_Search "Quiescence Search"), and archived about 11.500 [nodes per second](Nodes_per_Second "Nodes per Second") on a [486](X86 "X86") @ 50Mhz, one of the fast searchers in the early 90s <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Genesis participated at the [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London) and won the gold medal, tied with [The King](The_King "The King") and [HIARCS 6.72](HIARCS "HIARCS"), and further played the [DOCCC 1992](DOCCC_1992 "DOCCC 1992") and co-authored by [Huib-Jan Imbens](Huib-Jan_Imbens "Huib-Jan Imbens") as Genesis 2 the [DOCCC 1993](DOCCC_1993 "DOCCC 1993"), where it also played as a [parallel](Parallel_Search "Parallel Search") incarnation under the name [Petunia](Petunia "Petunia"), running on a [486 PC](X86 "X86") controlling three [Intel](Intel "Intel") [i860](I860 "I860") processors <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad"), round 5, Genesis - [The King](The_King "The King") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

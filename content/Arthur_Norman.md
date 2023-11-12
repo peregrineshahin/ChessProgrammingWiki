@@ -14,16 +14,6 @@ and, along with [Nick Pelling](Nick_Pelling "Nick Pelling") (Orlando), he contri
 both for the [BBC Micro](BBC_Micro "BBC Micro"). In 1983, along with [John P. Fitch](Mathematician#JohnFitch "Mathematician"), the Fitch-Norman Partnership was established, which became **Codemist Ltd** in 1988 <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 developing and trading the [Norcroft compiler suite](https://en.wikipedia.org/wiki/Norcroft_C_compiler) targeting [RISC OS](https://en.wikipedia.org/wiki/RISC_OS).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1970 ...](#1970-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

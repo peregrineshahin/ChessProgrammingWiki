@@ -8,15 +8,6 @@ title: Bart Selman
 
 an American computer scientist with Dutch roots, and professor at [Cornell University](https://en.wikipedia.org/wiki/Cornell_University), previously [AI](Artificial_Intelligence "Artificial Intelligence") researcher at [AT&T Bell Laboratories](Bell_Laboratories "Bell Laboratories"). His research interests include [computational sustainability](https://en.wikipedia.org/wiki/Computational_sustainability), [efficient reasoning procedures](https://en.wikipedia.org/wiki/Automated_reasoning), [SAT solvers](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), [planning](Planning "Planning"), [knowledge representation](Knowledge "Knowledge"), and connections between [computer science](https://en.wikipedia.org/wiki/Computer_science) and [statistical physics](https://en.wikipedia.org/wiki/Statistical_physics) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He holds a B.Sc. in physics from [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology") in 1983, and a M.Sc. and Ph.D. in CS both from [University of Toronto](University_of_Toronto "University of Toronto") in 1985 and 1991 respectively. Along with [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan") and [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), Bart Selman researched and published on properties of adversarial search spaces that play a key role in the success or failure of [UCT](UCT "UCT") and similar sampling-based approaches <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

@@ -11,19 +11,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 under a permissive [BSD license](https://en.wikipedia.org/wiki/BSD_licenses).
 Claudia <a id="cite-note-3" href="#cite-ref-3">[3]</a> is named after [Claude E. Shannon](Claude_Shannon "Claude Shannon") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc-2)
-- [4 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

@@ -9,24 +9,6 @@ title: Gandalf
 the mighty chess program from [Denmark](https://en.wikipedia.org/wiki/Denmark) developed by [Steen Suurballe](Steen_Suurballe "Steen Suurballe") and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") [Dan Wulff](Dan_Wulff "Dan Wulff"). Initially developed as [MS-DOS](MS-DOS "MS-DOS") program with its own [GUI](GUI "GUI"), it was market by [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [WinBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant Gandalf **4.32** was further shipped by Gambit-Soft <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Gandalf **5** by [Schröder BV](Ed_Schroder "Ed Schroder") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and Gandalf **6** by [Lokasoft](Lokasoft "Lokasoft") as native [ChessPartner](ChessPartner "ChessPartner") as well as [UCI](UCI "UCI")/[WinBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") engines <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 The most recent [UCI](UCI "UCI") compliant Gandalf **7** is freely available from [Frank Quisinsky's](Frank_Quisinsky "Frank Quisinsky") download site <a id="cite-note-7" href="#cite-ref-7">[7]</a>, courtesy Steen Suurballe <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Screenshot](#screenshot)
-- [3 Photos & Games](#photos-.26-games)
-- [4 Selected Games](#selected-games)
-- [5 Descriptions](#descriptions)
-  - [5.1 1995](#1995)
-  - [5.2 1997](#1997)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 1998 ...](#1998-...)
-  - [6.2 2000 ...](#2000-...)
-  - [6.3 2010 ...](#2010-...)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Tournament Play
 
 Gandalf started its tournament career at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") and caused a stir while winning versus [MChess](MChess "MChess") and [Quest](Quest "Quest"), but also had its tactical blackouts of a highly [selective](Selectivity "Selectivity") search with only one [ply](Ply "Ply") [brute-force](Brute-Force "Brute-Force"). It further played the [WCCC 1995](WCCC_1995 "WCCC 1995"), the [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), and becoming a more conventional program in 1996, the [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), [WMCCC 1997](WMCCC_1997 "WMCCC 1997") and [WMCCC 2001](WMCCC_2001 "WMCCC 2001"). Dan operated Gandalf almost at all [IPCCCs](IPCCC "IPCCC") from [1994](IPCCC_1994 "IPCCC 1994") until [2007](IPCCC_2007 "IPCCC 2007"), one time runner up in [2005](IPCCC_2005_b "IPCCC 2005 b") and several times third. Gandalf played various [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"), [Dutch Open Computer Chess Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), [International CSVN Tournament](International_CSVN_Tournament "International CSVN Tournament") as well as [CCT Tournaments](CCT_Tournaments "CCT Tournaments").

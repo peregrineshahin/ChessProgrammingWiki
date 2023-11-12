@@ -8,26 +8,6 @@ title: Diep
 
 a private chess engine by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), written in [C](C "C"). The development started in 1994, and so far stopped in December 2012 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Since 1999 Diep performed a [parallel search](Parallel_Search "Parallel Search") on [SMP](SMP "SMP"), and later on [NUMA](NUMA "NUMA") multi core systems, and occasionally on Super Computers but unfortunately without too much support for testing. Diep's most successful year was 2004, when Diep won the [Dutch Open Computer Chess Championship in 2004](DOCCC_2004 "DOCCC 2004") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and won the Bronze Medal at the [WCCC in Ramat Gan](WCCC_2004 "WCCC 2004") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Diep spawns [processes](Process "Process") for its parallel search. Due to its enormous chess [knowledge](Knowledge "Knowledge") implemented in its [evaluation](Evaluation "Evaluation"), Diep was not a fast but knowledge based searcher.
 
-## Contents
-
-- [1 Deep Trouble](#deep-trouble)
-- [2 Tournament Play](#tournament-play)
-- [3 Book Authors](#book-authors)
-- [4 Descriptions](#descriptions)
-  - [4.1 1997](#1997)
-  - [4.2 1999](#1999)
-- [5 Features](#features)
-- [6 Selected Games](#selected-games)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1996 ...](#1996-...)
-  - [8.2 2000 ...](#2000-...)
-  - [8.3 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-  - [9.1 Chess Program](#chess-program)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Deep Trouble
 
 In 1997, [Vincent Diepeveen's](Vincent_Diepeveen "Vincent Diepeveen") early claim caused some trouble and antagonism <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> :

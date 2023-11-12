@@ -8,16 +8,6 @@ title: Brute Force Program
 
 a chess program by [Louis Kessler](Louis_Kessler "Louis Kessler") that participated in the [8th](ACM_1977 "ACM 1977") and [9th](ACM_1977 "ACM 1977") [North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") in 1977 and 1978. Brute Force was a [Tech](Tech "Tech") like program, including such features of an [iterative](Iterative_Search "Iterative Search") [alpha-beta](Alpha-Beta "Alpha-Beta") routine, a [quiescence routine](Quiescence_Search "Quiescence Search") using [swap-off values](SOMA#Swapoff "SOMA"), and an [evaluation function](Evaluation_Function "Evaluation Function") based on the opponent's [mobility](Mobility "Mobility") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. At the [9th NACCC](ACM_1977 "ACM 1977"), it suffered from an "[en passant bug](En_passant#bugs "En passant")" twice <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which turned out a wrong implementation due to Kessler's misinterpretation of the rules <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-  - [3.3 Comics](#comics)
-- [4 References](#references)
-
 ## Selected Games
 
 [ACM 1977](ACM_1977 "ACM 1977"), round 4, Brute Force - [8080 Chess](8080_Chess "8080 Chess")

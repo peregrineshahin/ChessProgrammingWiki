@@ -8,20 +8,6 @@ title: Combusken
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Marcin Henryk Bartkowiak](Marcin_Henryk_Bartkowiak "Marcin Henryk Bartkowiak"), written in the [Go programming language](</Go_(Programming_Language)> "Go (Programming Language)"), first released in February 2020 under the [GPL 3](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 Already playing since April 2019 at [Lichess](index.php?title=Lichess&action=edit&redlink=1 "Lichess (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, it had its tournament debut at [TCEC Season 18](TCEC_Season_18 "TCEC Season 18").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Thanks](#thanks)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

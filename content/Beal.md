@@ -7,16 +7,6 @@ title: Beal
 
 [Don Beal's](Don_Beal "Don Beal") first chess program, which played the [First World Computer Chess Championship](WCCC_1974 "WCCC 1974") in [Stockholm](https://en.wikipedia.org/wiki/Stockholm), running on a [CDC 6600](CDC_6600 "CDC 6600") mainframe computer at [Queen Mary Collage](Queen_Mary,_University_of_London "Queen Mary, University of London"). It shared a telephone line from Stockholm to London with [Master](Master "Master") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Games](#games)
-  - [1.1 Ostrich](#ostrich)
-  - [1.2 A16chs](#a16chs)
-- [2 External Links](#external-links)
-  - [2.1 Chess Program](#chess-program)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Games
 
 ## Ostrich

@@ -9,15 +9,6 @@ title: Albatross
 a chess program by [Michael Parker](index.php?title=Michael_Parker&action=edit&redlink=1 "Michael Parker (page does not exist)") written in [Z80](Z80 "Z80") [assembly](Assembly "Assembly"). Albatross participated at the [WMCCC 1980](WMCCC_1980 "WMCCC 1980") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the [European MCC 1981](European_MCC_1981 "European MCC 1981") and [European MCC 1983](European_MCC_1983 "European MCC 1983"),
 running on a [Nascom 1](https://en.wikipedia.org/wiki/Nascom) computer.
 
-## Contents
-
-- [1 Don't shoot the Albatross](#don.27t-shoot-the-albatross)
-- [2 Selected Games](#selected-games)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Don't shoot the Albatross
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

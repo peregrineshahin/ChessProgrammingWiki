@@ -8,28 +8,6 @@ title: Aubervilliers Rapid Open
 
 a [chess open tournament](https://en.wikipedia.org/wiki/Chess_tournament) held yearly from 1974 to 2003 in [Aubervilliers](https://en.wikipedia.org/wiki/Aubervilliers), [France](https://en.wikipedia.org/wiki/France), with around 600 humans. During years 1981 to 1999 numerous [chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") or chess programs competing, humans couldn't refuse to be paired against machines. Time control was 30 min per game. Stronger players enter later in the tournament with full score for unplayed rounds.
 
-## Contents
-
-- [1 Editions](#editions)
-  - [1.1 1981](#1981)
-  - [1.2 1982](#1982)
-  - [1.3 1985](#1985)
-  - [1.4 1986](#1986)
-  - [1.5 1987](#1987)
-  - [1.6 1989](#1989)
-  - [1.7 1990](#1990)
-  - [1.8 1991](#1991)
-  - [1.9 1992](#1992)
-  - [1.10 1993](#1993)
-  - [1.11 1994](#1994)
-  - [1.12 1995](#1995)
-  - [1.13 1996](#1996)
-  - [1.14 1999](#1999)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Editions
 
 ## 1981

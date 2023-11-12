@@ -6,21 +6,6 @@ title: FailHigh
 \[ [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Red Balloon, 1922 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 There are two related semantics, if talking of a **Fail-High** - inside the [search tree](Search_Tree "Search Tree") or if using [aspiration windows](Aspiration_Windows "Aspiration Windows") at the [root](Root "Root").
 
-## Contents
-
-- [1 Inside the Tree](#inside-the-tree)
-- [2 Root with Aspiration](#root-with-aspiration)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1995 ...](#1995-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-  - [4.5 2015 ...](#2015-...)
-  - [4.6 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Inside the Tree
 
 A **Fail-High** is associated with a [Beta-Cutoff](Beta-Cutoff "Beta-Cutoff") in the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), which appears at so called [Cut-Nodes](Node_Types#CUT "Node Types"), also called Fail-High nodes. The score returned is a [lower bound](Lower_Bound "Lower Bound") on the [exact score](Exact_Score "Exact Score") of the [node](Node "Node").

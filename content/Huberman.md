@@ -7,13 +7,6 @@ title: Huberman
 
 the Ph.D. thesis program by [Barbara Liskov](Barbara_Liskov "Barbara Liskov") (née Huberman) written in [1968](Timeline#1968 "Timeline") at [Stanford University](Stanford_University "Stanford University"), under supervision of [John McCarthy](John_McCarthy "John McCarthy"), to play certain chess [endgames](Endgame "Endgame") with pieces versus the lonesome king. Barbara Huberman used heuristics to drive the lonesome king away from the [center](Center "Center") and for [K,B,N](KBNK_Endgame "KBNK Endgame") into the right corner, and most notably already proposed the [Killer Heuristic](Killer_Heuristic "Killer Heuristic") for early refutations of the [alpha-beta](Alpha-Beta "Alpha-Beta") search <a id="cite-note-1" href="#cite-ref-1">[1]</a>. She further elaborated on the implications of these endings with different board sizes, even an [infinite board](index.php?title=Infinite_Board&action=edit&redlink=1 "Infinite Board (page does not exist)").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 References](#references)
-
 ## Quotes
 
 [Alex Bell](Alex_Bell "Alex Bell") in *Games Playing with Computers* on Huberman's program <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

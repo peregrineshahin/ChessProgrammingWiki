@@ -10,17 +10,6 @@ was a Russian mathematician and computer scientist. Kronrod and his fellow [Geor
 
 In 1965, while [John McCarthy](John_McCarthy "John McCarthy") visited the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union), he was challenged by Kronrod, who considered the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") to be the best program in the [United States](https://en.wikipedia.org/wiki/United_States) at the time. At the end of 1966 the [four game match](Stanford-ITEP_Match "Stanford-ITEP Match") was arranged between Kotok-McCarthy, running on a [IBM 7090](IBM_7090 "IBM 7090") computer, and the ITEP Program on a Soviet [M-20](M-20 "M-20"). The match played over nine months was won 3-1 by the ITEP Program.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Remembering A.S. Kronrod](#remembering-a.s.-kronrod)
-  - [1.2 Intellectual Foundations](#intellectual-foundations)
-  - [1.3 Competitions, Controversies, and Computer Chess](#competitions.2c-controversies.2c-and-computer-chess)
-  - [1.4 What is AI?](#what-is-ai.3f)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Quotes
 
 ## Remembering A.S. Kronrod

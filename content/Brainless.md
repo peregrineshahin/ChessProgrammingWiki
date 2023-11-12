@@ -9,20 +9,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Brainless started as project from Matthew 's high school years and has been abandoned in about 2008, when German chess master Wieland Belka and Pawel Koziol contributed to the [evaluation](Evaluation "Evaluation") to play the [First Italian Open Chess Software Cup](IOCSC_2010 "IOCSC 2010"), 2010 in [Carugate](https://en.wikipedia.org/wiki/Carugate).
 It played on [FICS](index.php?title=Free_Internet_Chess_Server&action=edit&redlink=1 "Free Internet Chess Server (page does not exist)") under the handle BrainlessChess(C) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The [opening book](Opening_Book "Opening Book") is converted from [Beowulf](Beowulf "Beowulf").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Description](#description)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 Namesake](#namesake)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Photos
 
 [](http://matthewlai.ca/blog/?p=637)

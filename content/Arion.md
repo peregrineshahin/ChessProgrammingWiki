@@ -9,16 +9,6 @@ title: Arion
 an [UCI](UCI "UCI") compliant chess engine by [Gabriel Guillory](index.php?title=Gabriel_Guillory&action=edit&redlink=1 "Gabriel Guillory (page does not exist)"), written in [C++](Cpp "Cpp"), first released in December 2004.
 Arion had its over the board debut at the [Seventh French Programmers Tournament, Massy 2005](Massy_2005 "Massy 2005"), and otherwise participates at [Le Fou numérique](UEL "UEL") and other [rating lists](Engine_Rating_Lists "Engine Rating Lists").
 
-## Contents
-
-- [1 Features](#features)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

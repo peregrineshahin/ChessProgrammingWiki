@@ -10,24 +10,6 @@ a [Chinese Chess](Chinese_Chess "Chinese Chess") program by [Chun Ye](Chun_Ye "C
 
 Abyss participated at all three [Computer Olympiads](Computer_Olympiad "Computer Olympiad") which took place in [Maastricht](https://en.wikipedia.org/wiki/Maastricht), winning the gold medal (shared) at the [3rd Computer Olympiad, 1991](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad"), while the 1999 version played in [2001](6th_Computer_Olympiad#ChineseChess "6th Computer Olympiad") and [2002](7th_Computer_Olympiad#ChineseChess "7th Computer Olympiad"), respectively.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Move Generation](#move-generation)
-  - [1.2 Search](#search)
-    - [1.2.1 Basics](#basics)
-    - [1.2.2 Move Ordering](#move-ordering)
-    - [1.2.3 Selectivity](#selectivity)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Abyss' ICGA Tournaments](#abyss.27-icga-tournaments)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Engine](#engine)
-  - [5.2 Misc](#misc-2)
-- [6 References](#references)
-
 ## Description
 
 The framework of Abyss <a id="cite-note-4" href="#cite-ref-4">[4]</a> was based on the Western experimental Chess program [Parabelle](Parabelle "Parabelle") by [Fred Popowich](Fred_Popowich "Fred Popowich") and Tony Marsland <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

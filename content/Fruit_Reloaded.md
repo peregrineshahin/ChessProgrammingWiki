@@ -8,15 +8,6 @@ title: Fruit Reloaded
 
 an independent [fork](https://en.wikipedia.org/wiki/Fork_%28software_development%29) of Fruit **2.1**, started by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann") in 2012 <a id="cite-note-2" href="#cite-ref-2">[2]</a> as a "let's update Fruit" project, published in March 2014 as announced by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Like its predecessor, Fruit Reloaded is [UCI](UCI "UCI") compliant and [open source](Category:Open_Source "Category:Open Source") licensed under the [GPL v3](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Sources are available from a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository <a id="cite-note-5" href="#cite-ref-5">[5]</a>. With some help from [Ryan Benitez](Ryan_Benitez "Ryan Benitez"), the aim was to add a [parallel search](Parallel_Search "Parallel Search") and to upgrade [search](Search "Search") and [evaluation](Evaluation "Evaluation") with recent techniques, still following the clean [coding style](https://en.wikipedia.org/wiki/Programming_style) of Fabien's work. Beside newly added, tweaked or tuned [selectivity](Selectivity "Selectivity") and evaluation features, Fruit Reloaded can now probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") and [Scorpio Bitbases](Scorpio_Bitbases "Scorpio Bitbases"), configurable by appropriate UCI options. Binaries are available for [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS X](Mac_OS "Mac OS") and [Android](Android "Android") platforms, hosted by [Steve Maughan's](Steve_Maughan "Steve Maughan") Computer Chess Programming <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Gambit Fruit](Gambit_Fruit "Gambit Fruit")

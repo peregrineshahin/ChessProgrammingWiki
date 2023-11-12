@@ -8,24 +8,6 @@ title: DirGolem
 
 Direction-wise Generation of [Legal Moves](Legal_Move "Legal Move"), is best done with vectors of [bitboards](Bitboards "Bitboards") applying [AltiVec](AltiVec "AltiVec"), [SSE2](SSE2 "SSE2"), [AVX2](AVX2 "AVX2") or similar [SIMD architectures](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") with appropriate register sets. Legal moves are stored as target-bitboards for all 16 [move directions](Direction#MoveDirections "Direction") as a kind of unsorted [move list](Move_List "Move List") inside the state of a [node](Node "Node"). That are four orthogonal directions with rook-, queen- and king-moves including [castling](Castling "Castling") and vertical [pawn-pushes](Pawn_Push "Pawn Push"), four diagonal directions with bishop-, queen- and king-moves and pawn-captures including [en passant](En_passant "En passant"), and eight knight directions. Each [target square](Target_Square "Target Square") of each direction set has an unique one-to-one relation to it's [source square](Origin_Square "Origin Square").
 
-## Contents
-
-- [1 Prospect](#prospect)
-- [2 Basics](#basics)
-- [3 Move Target Sets](#move-target-sets)
-  - [3.1 Black Attacks](#black-attacks)
-    - [3.1.1 Sliders & Super King](#sliders-.26-super-king)
-    - [3.1.2 None Sliding Pieces](#none-sliding-pieces)
-  - [3.2 Generating White Moves](#generating-white-moves)
-    - [3.2.1 In Check?](#in-check.3f)
-    - [3.2.2 Sliding Pieces](#sliding-pieces)
-    - [3.2.3 None Sliding Pieces](#none-sliding-pieces-2)
-  - [3.3 Finally](#finally)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Prospect
 
 To get the idea, the following description with scalar [C++](Cpp "Cpp") code intended as pseudo code, is a rough translation of [HansDamf's](index.php?title=HansDamf&action=edit&redlink=1 "HansDamf (page does not exist)") intrinsic SSE2 code by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"). It assumes White to move within a [color flipper](Color_Flipping "Color Flipping") approach. More information for a set-wise [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), determining [check](Check "Check") giving moves including [discovered checks](Discovered_Check "Discovered Check"), etc. may be collected and considered. There are zillions of implementation nuances to utilize up to 16 128-bit XMM-, 16 256-bit YMM (AVX2), or even [AVX-512](AVX-512 "AVX-512") 32 512-bit ZMM-SIMD registers <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The generation is completely branch-less, does not use huge lookup tables, and is intended to hide the latency of a [prefetched](https://en.wikipedia.org/wiki/Prefetching) [TT](Transposition_Table "Transposition Table") probe. However, picking any moves or move proposals like [hash](Hash_Move "Hash Move")- or [killer moves](Killer_Move "Killer Move") from that list is more expensive and is typically done by a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine) to ensure proper [move ordering](Move_Ordering "Move Ordering") considering [MVV-LVA](MVV-LVA "MVV-LVA"), [hanging pieces](Hanging_Piece "Hanging Piece"), etc., as mentioned in [pieces versus directions](Pieces_versus_Directions#DirectionWise "Pieces versus Directions").

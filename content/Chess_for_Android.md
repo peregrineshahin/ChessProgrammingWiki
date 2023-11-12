@@ -10,20 +10,6 @@ title: Chess for Android
 
 written by [Aart Bik](Aart_Bik "Aart Bik"), is a standalone chess application for [Android](Android "Android"). The application is available for free at the Android Market <a id="cite-note-1" href="#cite-ref-1">[1]</a> and consists of a chess engine (a [Java](Java "Java") version derived from the [UCI engine](Category:UCI "Category:UCI") [BikJump](BikJump "BikJump") that is written in [C++](Cpp "Cpp")) and a [GUI](GUI "GUI").
 
-## Contents
-
-- [1 Features](#features)
-- [2 Engine Support](#engine-support)
-- [3 Images](#images)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2008 ...](#2008-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Features
 
 The application [accepts moves](Entering_Moves "Entering Moves") through the [touchscreen](https://en.wikipedia.org/wiki/Touchscreen), the [trackball](https://en.wikipedia.org/wiki/Trackball), or through the keyboard (e2e4 pushes the king pawn, e1g1 castles king side, etc.). An optional "move coach" highlights valid user moves during input and last played engine move. Full game navigation buttons enable users to correct mistakes or analyze games.

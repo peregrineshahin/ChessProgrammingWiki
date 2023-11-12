@@ -5,13 +5,6 @@ title: CPWEngine attacks
 
 This page holds the functions responsible for detecting if a given square is attacked by a given player.
 
-## Contents
-
-- [1 isAttacked](#isattacked)
-- [2 leaperAttack](#leaperattack)
-- [3 straightAttack](#straightattack)
-- [4 diagAttack](#diagattack)
-
 ## isAttacked
 
 ```C++

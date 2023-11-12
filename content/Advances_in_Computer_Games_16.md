@@ -10,17 +10,6 @@ title: Advances in Computer Games 16
 from August 11 to 13, [2019](Timeline#2019 "Timeline"), [Macau](https://en.wikipedia.org/wiki/Macau), [China](https://en.wikipedia.org/wiki/China) in conjunction with the [WCCC 2019](WCCC_2019 "WCCC 2019"), the [WCSC 2019](WCSC_2019 "WCSC 2019"),
 and the [22nd Computer Olympiad](index.php?title=22nd_Computer_Olympiad&action=edit&redlink=1 "22nd Computer Olympiad (page does not exist)"), all organized by the [ICGA](ICGA "ICGA"), alongside with the [28th IJCAI conference](Conferences#IJCAI2019 "Conferences") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-  - [2.1 Day 1](#day-1)
-  - [2.2 Day 2](#day-2)
-  - [2.3 Day 3](#day-3)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Proceedings
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

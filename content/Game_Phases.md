@@ -13,14 +13,6 @@ In the opening, the focus is on [development](Development "Development"), in the
 
 Whereas this definition is good enough for humans, coding it in a straightforward manner would introduce [evaluation discontinuity](Evaluation_Discontinuity "Evaluation Discontinuity") in many places. For that reason many programs define several game phases, based on the amount of [material](Material "Material") on the board.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2015 ...](#2015-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-
 ## See also
 
 - [Development](Development "Development")

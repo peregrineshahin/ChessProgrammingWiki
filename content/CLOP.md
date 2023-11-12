@@ -6,17 +6,6 @@ title: CLOP
 **CLOP** for Noisy Black-Box Parameter Optimization,
 a program used for [parameter tuning](Automated_Tuning "Automated Tuning"), created by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"). The CLOP principle, which stands for [Confident](http://en.wiktionary.org/wiki/confidence) [Local OPtimization](https://en.wikipedia.org/wiki/Local_search_%28optimization%29) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, is an approach to [local regression](https://en.wikipedia.org/wiki/Local_regression) that overcomes problems with very [noisy](https://en.wikipedia.org/wiki/Statistical_noise) outputs and nonnegative [Hessians](https://en.wikipedia.org/wiki/Hessian_matrix) <a id="cite-note-2" href="#cite-ref-2">[2]</a> in a simple and efficient way. CLOP is suited to tune several parameters simultaneously, and requires polynomial [time](https://en.wikipedia.org/wiki/Time_complexity) for each additional parameter to verify the tuned values, that is playing a lot of games <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2011 ...](#2011-...)
-  - [3.2 2015 ...](#2015-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Match Statistics](Match_Statistics "Match Statistics")

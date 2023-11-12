@@ -9,17 +9,6 @@ title: Hendrik Jan Hoogeboom
 a Dutch mathematician, computer scientist, and researcher and assistant professor at [Leiden Institute of Advanced Computer Science](Leiden_University#LIACS "Leiden University"), [Leiden University](Leiden_University "Leiden University").
 His research interests in [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science) include [formal models](https://en.wikipedia.org/wiki/Formal_language) of [natural computation](https://en.wikipedia.org/wiki/Natural_computing), [infinitary languages](https://en.wikipedia.org/wiki/Infinitary_logic), logic and [automata](https://en.wikipedia.org/wiki/Automata_theory), [tree-walking](https://en.wikipedia.org/wiki/Singulation#Tree_walking) automata, and [patterns in strings](https://en.wikipedia.org/wiki/Pattern_matching) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Along with [Walter Kosters](Walter_Kosters "Walter Kosters") et al., Hendrik Hoogeboom works on the [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity_theory) of [Tetris](https://en.wikipedia.org/wiki/Tetris) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and maintains the *How to Construct Tetris Conﬁgurations* site <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1983 ...](#1983-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

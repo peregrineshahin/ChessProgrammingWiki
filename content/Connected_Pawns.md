@@ -8,13 +8,6 @@ title: Connected Pawns
 two or more pawns on adjacent [files](Files "Files") - as [duo](</Duo_Trio_Quart_(Bitboards)> "Duo Trio Quart (Bitboards)") or phalanx on the same [rank](Ranks "Ranks"), mutually protecting their [stop squares](Stop_Square "Stop Square") - or either as [defending](</Defended_Pawns_(Bitboards)#Defenders> "Defended Pawns (Bitboards)") or [defended](</Defended_Pawns_(Bitboards)> "Defended Pawns (Bitboards)") member of a [pawn chain](Pawn_Chain "Pawn Chain").
 [Stockfish](Stockfish "Stockfish") gives a connected pawn bonus based on the rank of the phalanx or defending pawn <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Connected Passed Pawns](Connected_Passed_Pawns "Connected Passed Pawns")

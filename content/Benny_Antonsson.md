@@ -7,15 +7,6 @@ title: Benny Antonsson
 
 a Swedish programmer, who started to write a program that managed to solve [mate-in-two problems](https://en.wikipedia.org/wiki/Chess_problem#Types_of_problem) in 1996 - implemented in [Turbo Pascal](Pascal#TurboPascal "Pascal") and with an own [graphical user interface](GUI "GUI") and mouse support . Since 1999 he developed the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard") compatible chess program [Embracer](Embracer "Embracer"), and in 2001 joined forces with [Erik Robertsson](Erik_Robertsson "Erik Robertsson"), to work on [Alarm](Alarm "Alarm") <a id="cite-note-1" href="#cite-ref-1">[1]</a> aka **Deamon** <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2001](#2001)
-  - [1.2 2002](#2002)
-  - [1.3 2003 ...](#2003-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2001

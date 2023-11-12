@@ -8,16 +8,6 @@ title: C381rpC3A1d Rusz
 
 a Romanian chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [chess endgame study composer](Category:Chess_Composer "Category:Chess Composer") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . He contributed along with [Guy Haworth](Guy_Haworth "Guy Haworth") on *Position Criticality* in Chess Endgames at the [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13") conference in [Tilburg](https://en.wikipedia.org/wiki/Tilburg) <a id="cite-note-4" href="#cite-ref-4">[4]</a> , demonstrating the implementation of their algorithm to help analyze uniqueness in endgame positions objectively with a chess variant called [Starchess](index.php?title=Starchess&action=edit&redlink=1 "Starchess (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a> , invented by [László Polgár](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) in 2002, which has a star-shaped board of 37 [hexagons](https://en.wikipedia.org/wiki/Hexagon) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Postings](#postings)
-  - [2.1 2007 ...](#2007-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), Árpád Rusz (**2011**). *[Position Criticality in Chess Endgames](https://link.springer.com/chapter/10.1007%2F978-3-642-31866-5_21)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")

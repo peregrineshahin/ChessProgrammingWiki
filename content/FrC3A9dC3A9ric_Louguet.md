@@ -11,14 +11,6 @@ Frédéric Louguet is author of the chess programs [Chess Wizard](Chess_Wizard "
 and the experimental program [Raptor](Raptor "Raptor") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Frédéric Louguet was editor of the French computer chess magazine [La Puce Echiquéenne](La_Puce_Echiqu%C3%A9enne "La Puce Echiquéenne"), which appeared in 17 issues from 1992 until 1997 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, author of [LCT II](LCT_II "LCT II"), the **Louguet Chess Test II** <a id="cite-note-6" href="#cite-ref-6">[6]</a> and author of books about various computer related issues.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](File:Fccc2002-08.jpg)

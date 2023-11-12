@@ -8,23 +8,6 @@ title: Arena
 
 a free Graphical User Interface for [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compatible engines running under [Windows](Windows "Windows"), and since November 2016 [Linux](Linux "Linux") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, developed by [Martin Blume](Martin_Blume "Martin Blume") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The development started in 2001/2002 motivated and initiated by [WinBoard](WinBoard "WinBoard") aficionado [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"). The Arena team, soon maintaining their own website and support forum, was advanced by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [Michael Diosi](index.php?title=Michael_Diosi&action=edit&redlink=1 "Michael Diosi (page does not exist)") and a lot of other people for Language translation and [Opening Book](Opening_Book "Opening Book") support, for instance [Harry Schnapp](Harry_Schnapp "Harry Schnapp"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [Carlos Pesce](Carlos_Pesce "Carlos Pesce") and [Dann Corbit](Dann_Corbit "Dann Corbit") to name a few mentioned on the Arena site <a id="cite-note-4" href="#cite-ref-4">[4]</a> . They initially set up an *Arena Security Area* for registered download of the GUI and the bundled Arena partner engines. In 2004 there was an attempt by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") within the Gladiator-Shop to commercialize Arena bundled with engines such as [Ruffian](Ruffian "Ruffian") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [Patriot](Patriot "Patriot") <a id="cite-note-6" href="#cite-ref-6">[6]</a> and [Ktulu](Ktulu "Ktulu") <a id="cite-note-7" href="#cite-ref-7">[7]</a> . The Gladiator project was abandoned after suspicions that the new Patriot 2.0 was based on [Fruit](Fruit "Fruit") <a id="cite-note-8" href="#cite-ref-8">[8]</a> became substantial in May 2005 <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Arena 3.5.1 is the recent version which was available from the *Arena download site*.
 
-## Contents
-
-- [1 Partner Engines](#partner-engines)
-- [2 Features](#features)
-- [3 Team Issues](#team-issues)
-- [4 Illegal Hosting](#illegal-hosting)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2002 ...](#2002-...)
-  - [6.2 2005 ...](#2005-...)
-  - [6.3 2010 ...](#2010-...)
-  - [6.4 2015 ...](#2015-...)
-- [7 External Links](#external-links)
-  - [7.1 GUI](#gui)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Partner Engines
 
 - [AnMon](AnMon "AnMon") by [Christian Barreteau](Christian_Barreteau "Christian Barreteau")

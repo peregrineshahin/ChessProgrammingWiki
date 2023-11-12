@@ -7,14 +7,6 @@ title: FailHigh Reductions
 
 as proposed and examined by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and implemented in the program [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)"), are based on the [Null Move Observation](Null_Move_Observation "Null Move Observation") (NMO) - similar to the [Null Move Heuristic](Null_Move_Pruning "Null Move Pruning") (NMH). The idea is to search to shallower [depth](Depth "Depth") at [positions](Chess_Position "Chess Position") that are seemingly quiet and where the side to move has established a substantial advantage, according to a static [evaluation](Evaluation "Evaluation"). Apart from the [evaluation function](Evaluation_Function "Evaluation Function"), the heuristic requires an additional function that returns a value indicating threats against the side to move and therefor the quietness of a position.
 
-## Contents
-
-- [1 Implementation](#implementation)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 References](#references)
-
 ## Implementation
 
 FHR is applied at expected [Fail-high or Cut-Nodes](Node_Types#CUT "Node Types") [recursively](Recursion "Recursion") inside a [NegaScout](NegaScout "NegaScout")-framework. Feldmann's implementation did no re-search with the original depth, if the shallow search didn't confirm the fail high. While NMH relies on a dynamic search, but cuts the whole subtree - FHR uses a static threat detection. FHR is not as vulnerable as NMH in situations, where the NMO fails - namely in [zugzwang](Zugzwang "Zugzwang").

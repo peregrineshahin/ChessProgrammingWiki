@@ -11,19 +11,6 @@ Arie de Bruin's research interests covered [programming language semantics](<htt
 which they declared "dead" at the [8th Advances in Computer Chess](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8") conference 1996 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 due to its reformulation as a sequence of [depth-first](Depth-First "Depth-First") [alpha-beta](Alpha-Beta "Alpha-Beta") [null window](Null_Window "Null Window") calls with [transposition table](Transposition_Table "Transposition Table") aka [MTD(f)](</MTD(f)> "MTD(f)"), as also elaborated along with [Aske Plaat](Aske_Plaat "Aske Plaat") and [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in several papers.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1980 ...](#1980-...)
-  - [2.2 1985 ...](#1985-...)
-  - [2.3 1990 ...](#1990-...)
-  - [2.4 1995 ...](#1995-...)
-  - [2.5 2000 ...](#2000-...)
-  - [2.6 2005 ...](#2005-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://old.csvn.nl/wk2002.html)

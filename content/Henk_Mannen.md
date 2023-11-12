@@ -13,12 +13,6 @@ In their experiments, they used [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [T
 ([neural networks](Neural_Networks "Neural Networks")) by using [TD(λ) learning](Temporal_Difference_Learning "Temporal Difference Learning") on a set of database games
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

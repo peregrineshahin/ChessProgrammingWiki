@@ -8,24 +8,6 @@ title: Chrilly Donninger
 
 an Austrian computer scientist, statistician and professional computer chess, games and trading optimization programmer. He holds a Ph.D. in [Mathematical Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) from [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> and worked at [Institute of Advanced Studies, Vienna](https://en.wikipedia.org/wiki/Institute_of_Advanced_Studies_%28Vienna%29) and [Siemens](https://en.wikipedia.org/wiki/Siemens), until he became freelance chess programmer in 1993. Chrilly is author and co-author of various chess programs, most notably [Nimzo](Nimzo "Nimzo") and the [FPGA](FPGA "FPGA") chess entity [Hydra](Hydra "Hydra") under the patronage of the Pal Group of Companies <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [Sheikh](https://en.wikipedia.org/wiki/Sheikh) Tahnoon Bin Zayed Al Nahyan <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> of [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi_%28city%29), [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates), discontinued in 2006 <a id="cite-note-7" href="#cite-ref-7">[7]</a>, while Chrilly continued programming on the game theory related topic of bank trading optimization software for stock-markets <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Since 2007 he is chief scientist for the Sibyl financial project of PAL group, and maintains the Sibyl Godot Finance Server along with [Steffen Jakob](Steffen_A._Jakob "Steffen A. Jakob") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Besides, since 2010, Chrilly is lecturer in [Quantitative Finance](https://en.wikipedia.org/wiki/Mathematical_finance) at the [University of Jena](https://en.wikipedia.org/wiki/University_of_Jena) <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
-## Contents
-
-- [1 Chrilly's Programs](#chrilly.27s-programs)
-- [2 Null Move](#null-move)
-- [3 232](#232)
-- [4 CHE](#che)
-- [5 Guernica](#guernica)
-- [6 Éclat](#.c3.89clat)
-- [7 Writer](#writer)
-- [8 Selected Publications](#selected-publications)
-  - [8.1 1987 ...](#1987-...)
-  - [8.2 1990 ...](#1990-...)
-  - [8.3 2000 ...](#2000-...)
-  - [8.4 2020 ...](#2020-...)
-- [9 Forum Posts](#forum-posts)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Chrilly's Programs
 
 - [Nimzo](Nimzo "Nimzo") ([Nimzo Guernica](#guernica), Nimzo 3, Nimzo 98, Nimzo 2000)

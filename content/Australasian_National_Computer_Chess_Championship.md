@@ -5,13 +5,6 @@ title: Australasian National Computer Chess Championship
 
 The **Australasian National Computer Chess Championships** (NC3) were being held as part of the [Australian National University](Australian_National_University "Australian National University") Chess Festival <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Editions
 
 |  Event

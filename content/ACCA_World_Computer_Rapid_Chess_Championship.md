@@ -5,13 +5,6 @@ title: ACCA World Computer Rapid Chess Championship
 
 The **ACCA World Computer Rapid Chess Championship** are organized by the [Americas' Computer Chess Association ACCA](ACCA "ACCA") since 2007. The format is [Rapid Chess](https://en.wikipedia.org/wiki/Fast_chess) (G/25+4), played on-line over the internet ([ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")).
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Editions
 
 |  Edition

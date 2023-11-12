@@ -8,17 +8,6 @@ title: Dana Mackenzie
 
 an American mathematician, science writer, chess [national master](https://en.wikipedia.org/wiki/Chess_title#Master) and [USCF life master](https://en.wikipedia.org/wiki/Chess_title#Life_Master) (LM) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, two-time former champion of [North Carolina](https://en.wikipedia.org/wiki/North_Carolina) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, chess lecturer, and chess blogger. He holds a Ph.D. in mathematics from [Princeton University](https://en.wikipedia.org/wiki/Princeton_University) in 1983 under advisor [Frederick Justin Almgren Jr.](Mathematician#FJAlmgren "Mathematician") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and was math professor for thirteen years before becoming a full-time science writer <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Dana Mackenzie has authored and co-authored several volumes of *What’s Happening in the Mathematical Sciences* <a id="cite-note-6" href="#cite-ref-6">[6]</a>, an ongoing series published by the [American Mathematical Society](https://en.wikipedia.org/wiki/American_Mathematical_Society) (AMS).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1983](#1983)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-  - [2.1 Chess](#chess)
-  - [2.2 Computer Chess](#computer-chess)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>

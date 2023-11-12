@@ -7,17 +7,6 @@ title: Federico AndrC3A9s Corigliano
 
 an Argentinian computer scientist and as computer chess programmer author of the chess engine [Chispa](Chispa "Chispa"), which was one of the first [Chess960](Chess960 "Chess960") engines, and the open source engine [HeavyChess](HeavyChess "HeavyChess") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2001](#2001)
-  - [1.2 2002](#2002)
-  - [1.3 2003](#2003)
-  - [1.4 2004](#2004)
-  - [1.5 2005 ...](#2005-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2001

@@ -10,30 +10,6 @@ the dominating chess machine in the late 70s and early 80s, was developed by [Ke
 
 Belle consists of a special-purpose hardware and associated software, and was pure [brute-force](Brute-Force "Brute-Force"). Belle started in the early 70s as a sole software approach, but more and more emerged to a hybrid chess computer, next using a [move generator](Move_Generation "Move Generation"), a [position evaluator](Evaluation "Evaluation"), and a [transposition table](Transposition_Table "Transposition Table") inside a special-purpose hardware. In its final incarnation, Belle was composed of a [PDP-11/23](PDP-11 "PDP-11"), and further a [LSI-11](https://en.wikipedia.org/wiki/LSI-11#LSI-11) processor with several custom boards. The speed increased from 200 [nps](Nodes_per_Second "Nodes per Second") from the software version to about 160,000 nps of the machine mentioned at the [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3") conference in 1981.
 
-## Contents
-
-- [1 Photos & Games](#Photos_.26_Games)
-  - [1.1 Blitz 6.5](#Blitz_6.5)
-  - [1.2 CHAOS](#CHAOS)
-- [2 Hardware Design](#Hardware_Design)
-  - [2.1 Move Generation](#Move_Generation)
-    - [2.1.1 Block Diagram](#Block_Diagram)
-    - [2.1.2 Find Victim](#Find_Victim)
-    - [2.1.3 Find Aggressor](#Find_Aggressor)
-    - [2.1.4 Bookkeeping](#Bookkeeping)
-  - [2.2 Evaluation](#Evaluation)
-    - [2.2.1 Lazy](#Lazy)
-    - [2.2.2 Full](#Full)
-  - [2.3 Transposition Table](#Transposition_Table)
-  - [2.4 Microcode](#Microcode)
-- [3 PVS](#PVS)
-- [4 Miscellaneous](#Miscellaneous)
-- [5 See also](#See_also)
-- [6 Selected Publications](#Selected_Publications)
-- [7 Forum Posts](#Forum_Posts)
-- [8 External Links](#External_Links)
-- [9 References](#References)
-
 ## Photos & Games
 
 ## Blitz 6.5

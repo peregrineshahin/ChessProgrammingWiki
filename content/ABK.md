@@ -7,18 +7,6 @@ title: ABK
 
 the opening book format of [Arena](Arena "Arena"). It persists a book tree as [array](Array "Array") of entries, each entry referring one book move with priority and statistics, an entry index of the next move inside a book line (> 0 if any), and an entry index of a possible sibling move (>= 0 if any). The sizeof of an entry is 28, the [initial position](Initial_Position "Initial Position") indexed by 900 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Entry Structure](#entry-structure)
-- [2 Sample Tree](#sample-tree)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2007 ...](#2007-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Entry Structure
 
 The array of entries/structures is written to / read from a [binary file](https://en.wikipedia.org/wiki/Binary_file) under [Windows](Windows "Windows") ([x86](X86 "X86")), struct and integers implicitely stored [little-endian](Little-endian "Little-endian") wise:

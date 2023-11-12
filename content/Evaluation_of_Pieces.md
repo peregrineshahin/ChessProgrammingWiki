@@ -5,18 +5,6 @@ title: Evaluation of Pieces
 
 This page serves as a quick reference for those who look for ideas about evaluating different kinds of [pieces](Pieces "Pieces").
 
-## Contents
-
-- [1 Pawn](#pawn)
-- [2 Knight](#knight)
-- [3 Bishop](#bishop)
-- [4 Rook](#rook)
-- [5 Queen](#queen)
-- [6 King](#king)
-- [7 See also](#see-also)
-- [8 Forum Posts](#forum-posts)
-- [9 References](#references)
-
 ## Pawn
 
 - [Pawn Structure](Pawn_Structure "Pawn Structure")

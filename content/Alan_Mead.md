@@ -8,14 +8,6 @@ title: Alan Mead
 
 an American electrical engineer, co-founder, chairman and [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) of [Applied Concepts Inc.](Applied_Concepts "Applied Concepts") (dba Stalker Radar), founded in March 1977 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Alan Mead holds a BSEE from [University of Kansas](https://en.wikipedia.org/wiki/University_of_Kansas) (1968), and was engineering manager at *Kustom Signals, Inc.* <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> (1970 - 1975), and founder and president of *Technology Development, Inc.* (1975). Along with [John Aker](John_Aker "John Aker") and others, Alan Mead holds various patents <a id="cite-note-5" href="#cite-ref-5">[5]</a> concerning [Doppler](https://en.wikipedia.org/wiki/Doppler_radar) complex [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) [police radar](https://en.wikipedia.org/wiki/Radar_gun), which is now the primary business of Applied Concepts <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Chess](#chess)
-  - [1.1 Boris](#boris)
-  - [1.2 MGS aka GGM](#mgs-aka-ggm)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Chess
 
 ## Boris

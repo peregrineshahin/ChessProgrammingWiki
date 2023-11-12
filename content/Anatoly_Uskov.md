@@ -10,14 +10,6 @@ a Russian computer scientist. In [1963](Timeline#1963 "Timeline") <a id="cite-no
 
 At the end of 1966 a [four game match](Stanford-ITEP_Match "Stanford-ITEP Match") began between the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program"), running on a [IBM 7090](IBM_7090 "IBM 7090") computer, and the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") on a Soviet [M-20](M-20 "M-20") computer. The match played over nine months was won 3-1 by the The **ITEP** program, despite playing on slower hardware. By 1971, [Mikhail V. Donskoy](Mikhail_Donskoy "Mikhail Donskoy") joined with Arlazarov and Uskov to program its successor on an [ICL System 4/70](ICL_4-70 "ICL 4-70") at the [Institute of Control Sciences](Institute_of_Control_Sciences "Institute of Control Sciences"), called [Kaissa](Kaissa "Kaissa"), which became the first [World Computer Chess Champion](World_Computer_Chess_Championship "World Computer Chess Championship") in [1974 in Stockholm](WCCC_1974 "WCCC 1974").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [ITEP Chess Program Video, 1967](ITEP_Chess_Program#Video "ITEP Chess Program")

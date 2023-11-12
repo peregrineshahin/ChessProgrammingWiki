@@ -8,15 +8,6 @@ title: David Champernowne
 
 was an English mathematician, statistician and [economist](https://en.wikipedia.org/wiki/Economist) who picked a hole in [John Maynard Keynes'](Mathematician#JMKeynes "Mathematician") [General Theory of Employment, Interest and Money](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money) <a id="cite-note-2" href="#cite-ref-2">[2]</a> and 'built a chess computer' with [Alan Turing](Alan_Turing "Alan Turing") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, a long-time friend from the time that they were undergraduates together at [King's College, Cambridge](https://en.wikipedia.org/wiki/King%27s_College,_Cambridge).
 
-## Contents
-
-- [1 Champernowne constant](#champernowne-constant)
-- [2 Turochamp](#turochamp)
-- [3 Round-the-house Chess](#round-the-house-chess)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Champernowne constant
 
 In 1933 David Champernowne had noticed and published a simple but new result about [normal numbers](https://en.wikipedia.org/wiki/Normal_number), introducing the [Champernowne constant](https://en.wikipedia.org/wiki/Champernowne_constant) formed by concatenating positive integers <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>. [Kurt Mahler](Mathematician#Mahler "Mathematician") later showed it to also be [transcendental](https://en.wikipedia.org/wiki/Transcendental_number) <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

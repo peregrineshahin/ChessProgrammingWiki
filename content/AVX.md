@@ -7,18 +7,6 @@ title: AVX
 
 AVX supports 256-bit wide SIMD registers (YMM0-YMM7 in operating modes that are 32-bit or less, YMM0-YMM15 in 64-bit mode) to keep floating point [vectors](Array "Array") of either 8 [floats](Float "Float") or 4 [doubles](Double "Double") inside one register. The lower 128 bits of the YMM registers are aliased to the respective 128-bit XMM registers. AVX employs an instruction encoding scheme using a new [VEX prefix](https://en.wikipedia.org/wiki/VEX_prefix), allowing a three-operand SIMD instruction format, where the destination register is distinct from the two source operands.
 
-## Contents
-
-- [1 Advantages of AVX](#advantages-of-avx)
-- [2 AVX on non-Intel CPUs](#avx-on-non-intel-cpus)
-- [3 Mixing AVX and SSE](#mixing-avx-and-sse)
-- [4 AVX2](#avx2)
-- [5 See also](#see-also)
-- [6 Manuals](#manuals)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Advantages of AVX
 
 AVX introduces expanded 256-bit versions of floating point instructions, which are typically not useful for chess programming. Though it does not yet expand the integer instructions to 256-bit, AVX does provide VEX-encoded versions of existing SSE 128-bit instructions. For instance, bitwise logical and:

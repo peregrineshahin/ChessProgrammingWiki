@@ -7,14 +7,6 @@ title: Dirk Frickenschmidt
 
 a German [evangelical](https://en.wikipedia.org/wiki/Evangelical_Church_in_Germany#Name) [pastor](https://en.wikipedia.org/wiki/Pastor#Protestantism) in [Unterbarmen](https://en.wikipedia.org/wiki/Barmen), [Wuppertal](https://en.wikipedia.org/wiki/Wuppertal) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, computer chess expert, author of a German computer chess book <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and one of the founders of [CCC](CCC "CCC") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind)

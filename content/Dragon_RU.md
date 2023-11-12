@@ -9,17 +9,6 @@ title: Dragon RU
 a chess program by [Yuri Shpeer](Yuri_Shpeer "Yuri Shpeer"), not to confused with the [Chess Assistant](Chess_Assistant "Chess Assistant") [Dragon](</Dragon_(Chess_Assistant)> "Dragon (Chess Assistant)") analysis engine, which is based on [Centaur](Centaur "Centaur") by [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev") and [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin") along with some code units incorporated from [Mirage](Mirage "Mirage") by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin") and Yuri Shpeer <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Dragon played the [WMCCC 1995](WMCCC_1995 "WMCCC 1995") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), as well the [Aegon 1996](Aegon_1996 "Aegon 1996") and with 4/6, the [Aegon 1997](Aegon_1997 "Aegon 1997") human machine tournaments.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Namesake](#namesake)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Selected Games
 
 [Aegon 1997](Aegon_1997 "Aegon 1997") round 4, [Roberto Cifuentes](https://en.wikipedia.org/wiki/Roberto_Cifuentes) vs. Dragon

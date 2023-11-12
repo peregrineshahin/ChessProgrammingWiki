@@ -12,16 +12,6 @@ Additionally he introduced a method to compute [Rook Paths Puzzles](https://en.w
 In 1973, he has written the first precursor of Chest in [Fortran-II](Fortran "Fortran") (no [recursion](Recursion "Recursion")) to solve [mate-in-two problems](https://en.wikipedia.org/wiki/Chess_problem#Types_of_problem) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 It did not need or use any tapes and ran on an [IBM-1130](https://en.wikipedia.org/wiki/IBM_1130) with 32 K bytes, and took half an hour for one job <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1997 ...](#1997-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a>

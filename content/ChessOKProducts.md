@@ -7,14 +7,6 @@ title: ChessOKProducts
 
 a brand name for **Convekta Ltd.**, a [Moscow](https://en.wikipedia.org/wiki/Moscow) based chess software company headed by founder [Victor Zakharov](Victor_Zakharov "Victor Zakharov") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Sergey Abramov](index.php?title=Sergey_Abramov&action=edit&redlink=1 "Sergey Abramov (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. ChessOK traces back to 1988 when the development of [Chess Assistant](Chess_Assistant "Chess Assistant") started <a id="cite-note-4" href="#cite-ref-4">[4]</a>. ChessOK is operating [Playing Zones](Chess_Server "Chess Server") to play chess online, and offers articles and free online services, such as probing [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, an [Opening tree](Opening_Book "Opening Book") <a id="cite-note-6" href="#cite-ref-6">[6]</a> and game broadcasts <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Products](#products)
-- [2 Lomonosov Tablebases](#lomonosov-tablebases)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Products
 
 Primary products are the [Chess database](Databases "Databases") [Chess Assistant](Chess_Assistant "Chess Assistant") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, the [Windows](Windows "Windows") [GUI](GUI "GUI"), database and chess publishing tool [Aquarium](Aquarium "Aquarium"), and the Windows GUIs, database and chess training tools [Chess King](index.php?title=Chess_King&action=edit&redlink=1 "Chess King (page does not exist)") and [Peshk@](index.php?title=Peshka&action=edit&redlink=1 "Peshka (page does not exist)"). Chess Assistant, Aquarium, and Chess King are bundled with [Houdini](Houdini "Houdini"), Aquarium became famous with [Rybka](Rybka "Rybka"). Further, ChessOK sells pocket and mobile chess software, databases, game collections, opening encyclopedias, chess training software, [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), and chess videos, books and accessories.

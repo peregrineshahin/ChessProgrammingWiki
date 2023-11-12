@@ -9,14 +9,6 @@ title: David B. Weller
 an American electrical engineer and software developer with interests in [Robot Games](Robots "Robots") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Solar Energy](https://en.wikipedia.org/wiki/Solar_energy) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and chess programming.
 David is author of the [WinBoard](WinBoard "WinBoard") compliant chess engines [GES](GES "GES") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [Xpdnt](Xpdnt "Xpdnt") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2004](#2004)
-  - [1.2 2005 ...](#2005-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2004

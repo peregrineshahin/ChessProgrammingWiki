@@ -8,14 +8,6 @@ title: Colin Frayn
 
 a British [Astronomer](https://en.wikipedia.org/wiki/Astronomer) and senior research fellow. He obtained his Ph.D. in [galaxy evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) from the [Institute of Astronomy](https://en.wikipedia.org/wiki/Institute_of_Astronomy,_Cambridge) at [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) in 2002. After that, he spent four years working in the leading Natural Computation group in the Computer Science department of the [University of Birmingham](https://en.wikipedia.org/wiki/University_of_Birmingham). He has worked extensively in [nature-inspired computation](https://en.wikipedia.org/wiki/Biologically_inspired_computing), data analysis, [science education](https://en.wikipedia.org/wiki/Science_education) and combating [Internet fraud](https://en.wikipedia.org/wiki/Internet_fraud). He currently lives in London, UK, and works in the finance industry <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Rationality](#rationality)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Computer Chess
 
 Colin is computer chess programmer <a id="cite-note-3" href="#cite-ref-3">[3]</a>, author of [ColChess](index.php?title=ColChess&action=edit&redlink=1 "ColChess (page does not exist)"), and primary author of [Beowulf](Beowulf "Beowulf") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. With the [Centre of Excellence for Computational Intelligence and Applications (Cercia)](http://www.cercia.ac.uk/), School of Computer Science, [University of Birmingham](https://en.wikipedia.org/wiki/University_of_Birmingham), in collaboration with [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), and other researcher and volunteers world wide, Colin Frayn was head of the [ChessBrain](ChessBrain "ChessBrain") <a id="cite-note-5" href="#cite-ref-5">[5]</a> project <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

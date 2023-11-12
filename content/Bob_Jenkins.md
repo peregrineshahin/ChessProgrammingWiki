@@ -8,13 +8,6 @@ title: Bob Jenkins
 
 an American computer scientist, software developer, M.Sc. in CS from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), and [Microsoft](Microsoft "Microsoft") and former [Oracle](https://en.wikipedia.org/wiki/Oracle_Corporation) employee. At Microsoft, he worked in the *Cosmos* team <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and under [Andrew Kadatch](Andrew_Kadatch "Andrew Kadatch") on the *Cosmos* storage distributed [file system](https://en.wikipedia.org/wiki/File_system) <a id="cite-note-3" href="#cite-ref-3">[3]</a> , written by Andrew in [C++](Cpp "Cpp"), and on the *Scope* query language <a id="cite-note-4" href="#cite-ref-4">[4]</a> . He was Oracle's resident expert on [hash functions](https://en.wikipedia.org/wiki/Hash_function) <a id="cite-note-5" href="#cite-ref-5">[5]</a> , and he designed and published various [pseudorandom number generators](Pseudorandom_Number_Generator "Pseudorandom Number Generator") and hash functions for [hash table lookup](Hash_Table "Hash Table") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , competing with [Paul Hsieh](Paul_Hsieh "Paul Hsieh") <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
-## Contents
-
-- [1 RKISS](#rkiss)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## RKISS
 
 Bob Jenkins' small noncryptographic PRNG approach is suited for [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing"). [Heinz van Saanen's](index.php?title=Heinz_van_Saanen&action=edit&redlink=1 "Heinz van Saanen (page does not exist)") RKISS as used in [Stockfish](Stockfish "Stockfish") since version 2.0 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> uses almost the same code despite embedded it into a C++ class and initialization <a id="cite-note-10" href="#cite-ref-10">[10]</a>. Van Saanen admitted he took an obviously free and quite raw C-snippet from a random-related newsgroup long time ago. When turned this to a functional C++-class years later he could not find the initial source any longer, and gave credit to [George Marsaglia](Mathematician#GMarsaglia "Mathematician") as inventor of the RNG-Kiss-family <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>. This is Bob's 64 bit code <a id="cite-note-15" href="#cite-ref-15">[15]</a>:

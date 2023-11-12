@@ -9,13 +9,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Early versions were standalone chess programs with an own [GUI](GUI "GUI") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 Atak had its over the board debut at the [1st Polish Computer Chess Championship in 2002](PCCC_2002 "PCCC 2002") and was regularly participant of subsequent [Polish Computer Chess Championship](Polish_Computer_Chess_Championship "Polish Computer Chess Championship"), winning the [PCCC 2010](PCCC_2010 "PCCC 2010"). Atak 6.8 played the [IGWT 2014](IGWT_2014 "IGWT 2014"), where it lost from later winner [Chiron 2](Chiron "Chiron").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](File:Luksik_tps.jpg)

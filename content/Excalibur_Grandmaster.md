@@ -11,19 +11,6 @@ The computer has a [H8/3214](H8 "H8") controller running at 12 MHz with 32 KiB [
 and features a large [sensory board](Sensory_Board "Sensory Board") along with two [LCDs](https://en.wikipedia.org/wiki/Liquid-crystal_display), and a control button panel.
 The H8 program was written by [Ron Nelson](Ron_Nelson "Ron Nelson") with support and [opening book](Opening_Book "Opening Book") by chess consultant [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Reviews](#reviews)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1997 ...](#1997-...)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Computer](#chess-computer)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Alexandra The Great](index.php?title=Alexandra_The_Great&action=edit&redlink=1 "Alexandra The Great (page does not exist)")

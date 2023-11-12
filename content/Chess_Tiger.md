@@ -8,24 +8,6 @@ title: Chess Tiger
 
 a chess engine by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"). Chess Tiger and the version dubbed *Gambit Tiger* <a id="cite-note-2" href="#cite-ref-2">[2]</a> competed the [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), [WCCC 1999](WCCC_1999 "WCCC 1999"), [WMCCC 2000](WMCCC_2000 "WMCCC 2000") (3rd place) and the [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), won three times the [French Computer Chess Championship](French_Computer_Chess_Championship "French Computer Chess Championship"), three times the [French Programmers Tournament](French_Programmers_Tournament "French Programmers Tournament"), two times the [Spanish Computer Chess Championships](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship"), three times the [Dutch Open Computer Chess Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship"), and the [BELCT 2001](BELCT_2001 "BELCT 2001"). As once mentioned by Christophe, Chess Tiger uses a resource friendly [16x16 board vector attacks](Vector_Attacks "Vector Attacks") approach <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Platforms](#platforms)
-- [2 Descriptions](#descriptions)
-  - [2.1 1997](#1997)
-  - [2.2 1999](#1999)
-- [3 Screenshots](#screenshots)
-- [4 Selected Games](#selected-games)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1998 ...](#1998-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Tiger](#chess-tiger)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Platforms
 
 Chess Tiger is suited to run on various platforms, an [UCI](UCI "UCI") compatible [PC](IBM_PC "IBM PC") version is available from [Lokasoft](Lokasoft "Lokasoft") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , and Chess Tiger 15 from [ChessBase](ChessBase "ChessBase") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

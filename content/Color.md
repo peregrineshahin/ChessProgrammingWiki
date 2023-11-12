@@ -7,14 +7,6 @@ title: Color
 In Chess, **Color** refers to the color of the two [piece sets](Pieces "Pieces"), the color each player is assigned to, the [side to move](Side_to_move "Side to move"), and the [color of a square](Color_of_a_Square "Color of a Square").
 The [pieces](Pieces "Pieces") are divided, into white and black sets, but their colors should not taken literally. The players are referred to as "White" and "Black", they control their associated pieces. The colors of the sixty-four [squares](Squares "Squares") alternate and are referred to "light squares" and "dark squares", sometimes also referred to "White" and "Black" squares.
 
-## Contents
-
-- [1 Color Definition](#color-definition)
-- [2 Toggle Color](#toggle-color)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Color Definition
 
 Since there are only two colors, one bit is sufficient to encode them. This is how one may define colors in [C++](Cpp "Cpp"):

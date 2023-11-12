@@ -7,16 +7,6 @@ title: Dart
 
 a chess program developed at [Dartmouth College](Dartmouth_College "Dartmouth College") as successor of [Dartmouth CP](Dartmouth_CP "Dartmouth CP") by a team around [Larry Harris](Larry_Harris "Larry Harris") and primary author [Warren Montgomery](Warren_Montgomery "Warren Montgomery"), supported by [Danny Kopec](Danny_Kopec "Danny Kopec"), [Hal Terrie](Hal_Terrie "Hal Terrie"), and [David Levner](index.php?title=David_Levner&action=edit&redlink=1 "David Levner (page does not exist)") et al. <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Dart was written in [GCOS](https://en.wikipedia.org/wiki/General_Comprehensive_Operating_System) [assembly](Assembly "Assembly"), the language for the [GE-635](Honeywell_6000 "Honeywell 6000"), to run under the [Dartmouth Time Sharing System](https://en.wikipedia.org/wiki/Dartmouth_Time_Sharing_System).
 
-## Contents
-
-- [1 ACM 1974](#acm-1974)
-- [2 Selected Games](#selected-games)
-  - [2.1 Chess](#chess)
-  - [2.2 Ostrich](#ostrich)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## ACM 1974
 
 Dart 4.1 played the [ACM 1974](ACM_1974 "ACM 1974") in [San Diego](https://en.wikipedia.org/wiki/San_Diego), where it lost from [Chess 4.2](</Chess_(Program)> "Chess (Program)") and [CHAOS](CHAOS "CHAOS"), and won from [Xenarbor](Xenarbor "Xenarbor") and [Ostrich](Ostrich "Ostrich").

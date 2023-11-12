@@ -10,20 +10,6 @@ a Russian computer scientist and chess programmer, [M.Sc.](https://en.wikipedia.
 
 Eugene is author of the chess program [Siberian Chess](Siberian_Chess "Siberian Chess") and eponym of the [Nalimov endgame tablebases](Nalimov_Tablebases "Nalimov Tablebases"). Besides that, Eugene also contributes as an author of several [BitScan](BitScan "BitScan") routines <a id="cite-note-2" href="#cite-ref-2">[2]</a> and of course as optimization expert for the Microsoft Visual C compiler <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Lecture](#lecture)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 Nalimov Tablebases](#nalimov-tablebases)
-    - [3.1.1 1998 ...](#1998-...)
-    - [3.1.2 2000 ...](#2000-...)
-    - [3.1.3 2005 ...](#2005-...)
-    - [3.1.4 2010 ...](#2010-...)
-  - [3.2 BitScan](#bitscan)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Lecture
 
 Eugène Nalimov, winner of the [ChessBase Best-Publication Award](ChessBase#BestPublicationAward "ChessBase") and Guest of Honor at Workshop, during his invited Lecture, July 8, 2002 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

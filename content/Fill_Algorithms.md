@@ -10,16 +10,6 @@ For the non sliding pieces, [pawn](Pawn "Pawn"), [knight](Knight "Knight") and [
 
 Applications of fill algorithms are related to all kinds of [pawn properties](Pawn_Pattern_and_Properties "Pawn Pattern and Properties"), [progressive mobility](Mobility#ProgressiveMobility "Mobility") and [path finding](All_Shortest_Paths "All Shortest Paths") algorithms, f.i. to find so called [Trajectories](Trajectory "Trajectory") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Pawn](#pawn)
-- [2 Knight](#knight)
-- [3 King](#king)
-- [4 Sliding Pieces](#sliding-pieces)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Pawn
 
 Pawn fills are performed by north- or south [steps](General_Setwise_Operations#OneStepOnly "General Setwise Operations"), for span determination on the otherwise empty board. If it is about to consider obstructions, the north- or south [Dumb7-](Dumb7Fill#OccludedFill "Dumb7Fill") or [Kogge-Stone occluded fill](Kogge-Stone_Algorithm#OccludedFill "Kogge-Stone Algorithm") might be applied.

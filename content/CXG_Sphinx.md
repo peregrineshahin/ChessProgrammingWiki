@@ -8,22 +8,6 @@ title: CXG Sphinx
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") series manufactured by [Newcrest Technology Ltd.](Newcrest_Technology "Newcrest Technology"), [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) under the brand name **CXG** <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The **1987** models **CXG Sphinx 40** <a id="cite-note-4" href="#cite-ref-4">[4]</a> and **CXG Sphinx 50** <a id="cite-note-5" href="#cite-ref-5">[5]</a> with [magnetic](https://en.wikipedia.org/wiki/Magnetism) [sensory board](Sensory_Board "Sensory Board") were the flagships with [68000](68000 "68000") processor and a program supplied by [David Levy](David_Levy "David Levy") from [Intelligent Software's](Intelligent_Software "Intelligent Software") estate. It was based on [Cyrus 68K](Cyrus_68K "Cyrus 68K") written by [Mark Taylor](Mark_Taylor "Mark Taylor") advised by Levy.
 
-## Contents
-
-- [1 The Great Sphinx](#the-great-sphinx)
-- [2 Selected Games](#selected-games)
-- [3 8-Bit Sphinx](#8-bit-sphinx)
-  - [3.1 Titan](#titan)
-  - [3.2 Galaxy & Dominator](#galaxy-.26-dominator)
-  - [3.3 Concerto, Legend & Accolade](#concerto.2c-legend-.26-accolade)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 CXG Sphinx Timeline](#cxg-sphinx-timeline)
-  - [6.2 Sphinx](#sphinx)
-  - [6.3 Misc](#misc)
-- [7 References](#references)
-
 ## The Great Sphinx
 
 The 16-bit Sphinx by [Mark Taylor](Mark_Taylor "Mark Taylor") applied the [SEX Algorithm](SEX_Algorithm "SEX Algorithm"), [fractional extensions](Extensions#FractionalExtensions "Extensions") and [reductions](Reductions "Reductions"), most notably already a kind of [LMR](Late_Move_Reductions "Late Move Reductions"), considering forced [tactical moves](Tactical_Moves "Tactical Moves") such as [checks](Check "Check"), [captures](Captures "Captures"), and [mate threats](Checkmate "Checkmate") <a id="cite-note-6" href="#cite-ref-6">[6]</a> . The Sphinx, running on a [68020](68020 "68020") processor, played the Manufacturers group of the [WMCCC 1987](WMCCC_1987 "WMCCC 1987") in [Rome](https://en.wikipedia.org/wiki/Rome) with three incarnations, and had a hard time versus three [Mephisto Roma](Mephisto_Roma "Mephisto Roma") by [Richard Lang](Richard_Lang "Richard Lang"), while the games were more closely than the results suggested <a id="cite-note-7" href="#cite-ref-7">[7]</a> . CXG Sphinx further played [Aegon 1988](Aegon_1988 "Aegon 1988") and [Aegon 1989](Aegon_1989 "Aegon 1989").

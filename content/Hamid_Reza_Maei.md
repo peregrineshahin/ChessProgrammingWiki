@@ -12,14 +12,6 @@ where he was member of the [reinforcement learning](Reinforcement_Learning "Rein
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> at the *Department of Computing Science* to create reinforcement learning algorithms for large-scale problems and was involved in the development of a new family of [temporal-difference learning](Temporal_Difference_Learning "Temporal Difference Learning") algorithms suitable for value function approximation.
 The goal of these algorithms was to bring us closer to the development of a universal prediction learning algorithm suitable for learning experientially grounded knowledge of the world <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2008 ...](#2008-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

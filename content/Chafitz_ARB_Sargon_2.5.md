@@ -8,15 +8,6 @@ title: Chafitz ARB Sargon 2.5
 
 the first commercial [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with an Auto Response Board (**ARB**) incorporating a [6502](6502 "6502") processors running the mighty [Sargon 2.5](Sargon "Sargon") program by [Dan](Dan_Spracklen "Dan Spracklen") und [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"). The Chafitz ARB Sargon 2.5, manufactured by [Applied Concepts](Applied_Concepts "Applied Concepts") and distributed by [Chafitz](Chafitz "Chafitz") and [Sandy Electronic](index.php?title=Sandy_Electronic&action=edit&redlink=1 "Sandy Electronic (page does not exist)"), was launched in 1980 to became a milestone for electronic chess computers and starts the era of [sensory board](Sensory_Board "Sensory Board") chess computers <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The computer participated at the [ACM 1979](ACM_1979 "ACM 1979"), and the [WMCCC 1980](WMCCC_1980 "WMCCC 1980"), competing with four other Sargon incarnations and finished 8th of 15 with 2½ out of 5 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. After the Spracklens started their collaboration with [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"), the development of the computer was continued by [John Aker](John_Aker "John Aker") at Applied Concepts <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The machine had an exchangeable program [module](Module "Module"), with subsequent cartridges available <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd5cbb8)

@@ -11,14 +11,6 @@ an Israeli computer scientist with a M.Sc. degree from [Bar-Ilan University](Bar
 During the [WCCC 2004](WCCC_2004 "WCCC 2004") in [Ramat Gan](https://en.wikipedia.org/wiki/Ramat_Gan), he operated [Woodpusher 1997](Woodpusher "Woodpusher") by [John Hamlen](John_Hamlen "John Hamlen") at times,
 who was not only active in chess but also in [9x9 Go](Go "Go").
 
-## Contents
-
-- [1 Chess Composer](#chess-composer)
-  - [1.1 Bitboards](#bitboards)
-  - [1.2 Abstract](#abstract)
-- [2 Selected Publications](#selected-publications)
-- [3 References](#references)
-
 ## Chess Composer
 
 ## Bitboards

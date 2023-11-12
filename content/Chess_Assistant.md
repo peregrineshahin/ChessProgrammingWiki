@@ -10,18 +10,6 @@ title: Chess Assistant
 
 a chess [GUI](GUI "GUI") and [database](Databases "Databases") developed by a team around [Victor Zakharov](Victor_Zakharov "Victor Zakharov") since 1988 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, commercially distributed via [ChessOK](ChessOK "ChessOK"), a brand name of Convekta Ltd., early versions running under [MS-DOS](MS-DOS "MS-DOS"), subsequent versions under [Windows](Windows "Windows"). The sophisticated GUI allows to search and edit games in a database, to edit games for web publishing, and is also [front end](https://en.wikipedia.org/wiki/Front_and_back_ends) for playing chess online. Chess Assistant 17 is bundled with [Houdini 5](Houdini "Houdini") and one year online access to [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Database](#database)
-- [2 CA Engines](#ca-engines)
-- [3 See also](#see-also)
-- [4 Reviews](#reviews)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1990 ...](#1990-...)
-  - [5.2 2000 ...](#2000-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Database
 
 The CA database is an organized collection of up to millions of [chess games](Chess_Game "Chess Game"), either in form of (compressed) [PGN](Portable_Game_Notation "Portable Game Notation") as interchange format, or as proprietary CA-format, managing classifiers, tree-structures and datasets for [data mining](https://en.wikipedia.org/wiki/Data_mining) and faster [CQL](Chess_Query_Language "Chess Query Language") access.

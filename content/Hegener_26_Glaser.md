@@ -5,20 +5,6 @@ title: Hegener 26 Glaser
 
 **Hegener & Glaser** was a German company, 1969 founded in [Munich](https://en.wikipedia.org/wiki/Munich) by [Manfred Hegener](Manfred_Hegener "Manfred Hegener") and [Florian Glaser](index.php?title=Florian_Glaser&action=edit&redlink=1 "Florian Glaser (page does not exist)") for production of [semiconductors](https://en.wikipedia.org/wiki/Semiconductor), [displays](https://en.wikipedia.org/wiki/Vacuum_fluorescent_display) as well as applications of portable [electronic game units](https://en.wikipedia.org/wiki/Electronic_game). In the late 70s with the starting boom of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), Hegener & Glaser created the [Mephisto](Mephisto "Mephisto") trademark along with the [first German commercial chess computer](</Mephisto_(H)> "Mephisto (H)") based on the [RCA 1802](https://en.wikipedia.org/wiki/RCA_1802) 8-bit [CMOS](https://en.wikipedia.org/wiki/CMOS) processor, with a program by [Elmar Henne](Elmar_Henne "Elmar Henne") and [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche").
 
-## Contents
-
-- [1 Acquisitions](#acquisitions)
-- [2 Stella](#stella)
-- [3 Photos](#photos)
-- [4 Programmers](#programmers)
-- [5 Selected Programs](#selected-programs)
-- [6 The Mephisto Best-Publication Award](#the-mephisto-best-publication-award)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-- [9 Forum Posts](#forum-posts)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Acquisitions
 
 In 1989 Hegener & Glaser acquired [Sidney Samole's](Sidney_Samole "Sidney Samole") [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics") for estimated 4.5 million Dollar, which soon emerged as flop in the already decreasing market of dedicated chess computers <a id="cite-note-1" href="#cite-ref-1">[1]</a> . In 1992 Hegener & Glaser's debts were 28 million [DM](https://en.wikipedia.org/wiki/Deutsche_Mark), and in 1994 Hegener & Glaser's was acquired by [Eric Winkler's](Eric_Winkler "Eric Winkler") [Saitek Ltd.](Saitek "Saitek") for about 7 million DM <a id="cite-note-2" href="#cite-ref-2">[2]</a> , which continued the Mephisto trademark <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

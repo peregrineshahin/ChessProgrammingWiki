@@ -11,14 +11,6 @@ title: Caddell Chess
 a dedicated chess computer designed and developed by [Rohn Blake](index.php?title=Rohn_Blake&action=edit&redlink=1 "Rohn Blake (page does not exist)"), built on a [Raspberry Pi](Raspberry_Pi "Raspberry Pi") using a [touchscreen](https://en.wikipedia.org/wiki/Touchscreen) as an [UCI](UCI "UCI") compliant chess [graphical user interface](GUI "GUI").
 Caddell Chess consists of a *Raspberry Pi 3 Model B+* <a id="cite-note-2" href="#cite-ref-2">[2]</a> with a Nextion display <a id="cite-note-3" href="#cite-ref-3">[3]</a> and an optional [web browser](https://en.wikipedia.org/wiki/Web_browser) interface. The Caddell Chess software is released as [open source](Category:Open_Source "Category:Open Source") licensed under the [GPL v3](Free_Software_Foundation#GPL "Free Software Foundation"), written in [JavaScript](JavaScript "JavaScript") using [Redux](<https://en.wikipedia.org/wiki/Redux_(JavaScript_library)>) and some [npm packages](<https://en.wikipedia.org/wiki/Npm_(software)>) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Engines](#engines)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Engines
 
 - [Stockfish 12](Stockfish "Stockfish")

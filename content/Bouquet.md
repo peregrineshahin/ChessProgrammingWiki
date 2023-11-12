@@ -12,15 +12,6 @@ and required [MSVC++ 2010](https://en.wikipedia.org/wiki/Visual_C%2B%2B) [dlls](
 32- and 64-bit executables for respective [Windows](Windows "Windows") versions were released - currently no longer available.
 Bouquet 1.8 has a [parallel search](Parallel_Search "Parallel Search") which supports up to 16 [threads](Thread "Thread"), and uses runtime-detection whether the [x86](X86 "X86") or [x86-64](X86-64 "X86-64") [population count](Population_Count "Population Count") instruction is available or not <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [TCEC Season 5, Stage 3](TCEC_Season_5#Stage3 "TCEC Season 5"), Bouquet 1.8b - [Stockfish 151013](Stockfish "Stockfish") <a id="cite-note-6" href="#cite-ref-6">[6]</a>

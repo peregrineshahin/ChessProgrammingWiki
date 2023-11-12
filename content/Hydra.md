@@ -9,26 +9,6 @@ title: Hydra
 was a chess playing entity based on a [Myrinet](https://en.wikipedia.org/wiki/Myrinet) [computer cluster](<https://en.wikipedia.org/wiki/Cluster_(computing)>) consisting of [FPGAs](FPGA "FPGA") and [x86](X86 "X86") PCs.
 Hydra was the continuous development of the [ChessBase](ChessBase "ChessBase") funded FPGA project called [Brutus](Brutus "Brutus") by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") et al. now under the patronage of the *Pal Group of Companies* <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Sheikh](https://en.wikipedia.org/wiki/Sheikh) [Tahnoun Bin Zayed Al Nahyan](https://en.wikipedia.org/wiki/Tahnoun_bin_Mohammed_Al_Nahyan) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> of [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi_%28city%29), [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates).
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 System Hydra](#system-hydra)
-- [3 Team Hydra](#team-hydra)
-  - [3.1 2006](#2006)
-  - [3.2 2008](#2008)
-  - [3.3 Former Members](#former-members)
-- [4 Photos](#photos)
-- [5 Namesake](#namesake)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 2004](#2004)
-  - [8.2 2005 ...](#2005-...)
-- [9 External Links](#external-links)
-  - [9.1 Chess Entity](#chess-entity)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Tournament Play
 
 Hydra had its tournament debut at the [IPCCC 2004](IPCCC_2004 "IPCCC 2004") winning clearly with 6½/7 ahead of [Fritz](Fritz "Fritz") and [Shredder](Shredder "Shredder"). Soon later, at the [ICT 2004](ICT_2004 "ICT 2004"), Hydra came in behind Shredder,

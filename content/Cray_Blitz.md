@@ -10,26 +10,6 @@ was the successor of the program [Blitz](Blitz "Blitz") by [Robert Hyatt](Robert
 
 Cray Blitz won two times the [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and also was two times winner of the [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 1983](WCCC_1983 "WCCC 1983") in New York <a id="cite-note-9" href="#cite-ref-9">[9]</a> , and the [WCCC 1986](WCCC_1986 "WCCC 1986") in Cologne <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
-## Contents
-
-- [1 Photos & Game](#photos-.26-game)
-  - [1.1 WCCC 1983](#wccc-1983)
-  - [1.2 WCCC 1986](#wccc-1986)
-  - [1.3 ACM 1988](#acm-1988)
-- [2 Quote](#quote)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-  - [4.1 1981 ...](#1981-...)
-  - [4.2 1985 ...](#1985-...)
-  - [4.3 1990 ...](#1990-...)
-  - [4.4 2020 ...](#2020-...)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1990 ...](#1990-...-2)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos & Game
 
 ## WCCC 1983

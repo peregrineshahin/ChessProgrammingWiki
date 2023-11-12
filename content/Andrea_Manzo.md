@@ -9,14 +9,6 @@ title: Andrea Manzo
 an Italian computer scientist and [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_chess) player, IM of the [ICCF](https://en.wikipedia.org/wiki/International_Correspondence_Chess_Federation) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 He is author of the [Stockfish](Stockfish "Stockfish") derivative [ShashChess](ShashChess "ShashChess"), and co-author of [BrainLearn](index.php?title=BrainLearn&action=edit&redlink=1 "BrainLearn (page does not exist)") based on [Brainfish](Brainfish "Brainfish"), and was member of the [Vitruvius](Vitruvius "Vitruvius") team around [Roberto Munter](Roberto_Munter "Roberto Munter"), as [book author](Category:Opening_Book_Author "Category:Opening Book Author") responsible for its [opening book](Opening_Book "Opening Book") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2018 ...](#2018-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2018 ...

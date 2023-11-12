@@ -12,24 +12,6 @@ Already at the [DOCCC 1993](DOCCC_1993 "DOCCC 1993"), Zzzzzz 3.0 was able to pla
 The parallel [alpha-beta](Alpha-Beta "Alpha-Beta") routine was built around a public domain massively parallel computing environment, [PVM](https://en.wikipedia.org/wiki/Parallel_Virtual_Machine). Meanwhile version 3.4 has moved to version 6, which still is command-line driven, but has evolved using [bitboards](Bitboards "Bitboards"), [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation"), [null move](Null_Move_Pruning "Null Move Pruning"), and [extensions](Extensions "Extensions").
 It can search in parallel on two or three nodes with a [shared hash table](Shared_Hash_Table "Shared Hash Table").
 
-## Contents
-
-- [1 Quiescence Search](#quiescence-search)
-- [2 Testing](#testing)
-- [3 Games](#games)
-  - [3.1 Clash of the Consonants](#clash-of-the-consonants)
-  - [3.2 DOCCC 2007](#doccc-2007)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1993](#1993)
-  - [4.2 1994](#1994)
-  - [4.3 1995 ...](#1995-...)
-  - [4.4 2000 ...](#2000-...)
-  - [4.5 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Quiescence Search
 
 In Zzzzzz 3 the [quiescence search](Quiescence_Search "Quiescence Search") looked like this, as explained by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker") in 1994 <a id="cite-note-4" href="#cite-ref-4">[4]</a> :

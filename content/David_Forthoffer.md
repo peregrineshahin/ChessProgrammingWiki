@@ -9,13 +9,6 @@ title: David Forthoffer
 an American computer scientist, chess player, [national master](https://en.wikipedia.org/wiki/Chess_title#Master) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and early [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") researcher.
 Along with primary author [Sito Dekker](Sito_Dekker "Sito Dekker") and [Lars Rasmussen](Lars_Rasmussen "Lars Rasmussen") he contributed to the automated database generation program [Retro](index.php?title=Retro&action=edit&redlink=1 "Retro (page does not exist)"), considering both [en passant](En_passant "En passant") and [castling](Castling "Castling") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which revealed five discrepancies in KRKB <a id="cite-note-4" href="#cite-ref-4">[4]</a> from the numbers published by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al.<a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

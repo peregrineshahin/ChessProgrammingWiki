@@ -8,26 +8,6 @@ The **Chess Position** describes how [pieces](Pieces "Pieces") are placed on the
 
 Of course, the information of any arbitrary chess position which occurs inside the game of chess, might be determined from a certain initial starting position and a [sequence of moves](Move_List "Move List") (half-moves), which leads to this position. Anyway, an efficient data structure for a chess position, which is [incrementally updated](Incremental_Updates "Incremental Updates") during game play and [search](Search "Search") is essential for a chess playing program.
 
-## Contents
-
-- [1 Specifying a Chess Position](#specifying-a-chess-position)
-- [2 Summary](#summary)
-- [3 Positions inside the Search](#positions-inside-the-search)
-- [4 Positions](#positions)
-- [5 Notations](#notations)
-- [6 Flipping and Mirroring](#flipping-and-mirroring)
-- [7 See Also](#see-also)
-- [8 Publications](#publications)
-- [9 Forum Posts](#forum-posts)
-  - [9.1 1980 ...](#1980-...)
-  - [9.2 1990 ...](#1990-...)
-  - [9.3 2000 ...](#2000-...)
-  - [9.4 2010 ...](#2010-...)
-  - [9.5 2015 ...](#2015-...)
-  - [9.6 2020 ...](#2020-...)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Specifying a Chess Position
 
 Except the determination of three fold [repetitions](Repetitions "Repetitions"), which requires the whole move record, at least from the last [irreversible move](Irreversible_Moves "Irreversible Moves") (half-move) played, the chess position should keep track of various informations related to the position also for efficiency reasons. Another issue is to make chess positions persistent with a maximum of information required, but without the whole game history, as specified by the [Forsyth-Edwards Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") or [Extended Position Description](Extended_Position_Description "Extended Position Description").

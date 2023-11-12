@@ -12,18 +12,6 @@ when Gianluigi Masciulli just implemented the [quiescence search](Quiescence_Sea
 The first public release was in May 2000. With Gianluigi Masciulli as founding member of the [G 6](G_6 "G 6"), the Italian Chess Programmer Group,
 Golem played all the early G6 tournaments, four [Italian Computer Chess Championships](Italian_Computer_Chess_Championship "Italian Computer Chess Championship") (CIPS) from [2001](CIPS_2001 "CIPS 2001") until [2007](CIPS_2007 "CIPS 2007"), and the [CCC 2008](CCC_2008 "CCC 2008") and [CCC 2008](CCC_2008 "CCC 2008") [Chess Computer Cups](Italian_Computer_Chess_Championship#CCC "Italian Computer Chess Championship") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1999](#1999)
-  - [3.2 2000 ...](#2000-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Golem](#golem)
-- [5 References](#references)
-
 ## See also
 
 - [DirGolem](DirGolem "DirGolem") none related [Move Generation](Move_Generation "Move Generation") technique

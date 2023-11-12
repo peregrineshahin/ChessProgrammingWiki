@@ -11,18 +11,6 @@ targeting [Windows](Windows "Windows"), [Linux](Linux "Linux") and [Mac OS](Mac_
 The chess engine takes its name from [Chesley B. “Sully” Sullenberger](https://en.wikipedia.org/wiki/Chesley_Sullenberger),
 the pilot who [successfully landed an airplane](https://en.wikipedia.org/wiki/US_Airways_Flight_1549) on the [Hudson river](https://en.wikipedia.org/wiki/Hudson_River) around the time Matt was getting started <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

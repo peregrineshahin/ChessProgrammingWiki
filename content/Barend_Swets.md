@@ -8,17 +8,6 @@ title: Barend Swets
 
 a Dutch engineer and early computer chess programmer, who already started computer chess programming in 1966. His knowledge based chess program [Bs6676](Bs6676 "Bs6676") was the first Dutch chess program <a id="cite-note-2" href="#cite-ref-2">[2]</a> and subject of his thesis under [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot"). Bs6676 played the [ECCC 1976](ECCC_1976 "ECCC 1976") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [WCCC 1977](WCCC_1977 "WCCC 1977"), the [ACM 1978](ACM_1978 "ACM 1978") and [ACM 1979](ACM_1979 "ACM 1979"), the unofficial Dutch championship matches in 1979 and 1980 <a id="cite-note-4" href="#cite-ref-4">[4]</a> and the [First Dutch Computer Chess Championship](DOCCC_1981 "DOCCC 1981") in 1981. Barend Swets was the promoter and one of the founders of the [ICCA](ICCA "ICCA"), and started the [ICCA Newsletter](ICGA_Journal "ICGA Journal") along with [Ben Mittman](Ben_Mittman "Ben Mittman") in 1978.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 1997](#1997)
-  - [1.2 2001](#2001)
-  - [1.3 2007](#2007)
-  - [1.4 2010](#2010)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Quotes
 
 ## 1997

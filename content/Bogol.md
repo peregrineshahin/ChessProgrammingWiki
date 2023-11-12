@@ -9,14 +9,6 @@ title: Bogol
 a series of exclusive [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), developed and manufactured in the early 80s by the German [Omikron Electronic GmbH](index.php?title=Omikron&action=edit&redlink=1 "Omikron (page does not exist)").
 It was Germany's second chess computer in 1981/82 after the [Mephisto](</Mephisto_(H)> "Mephisto (H)") by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), and was supported by the [West German](https://en.wikipedia.org/wiki/West_Germany) [Federal Ministry of Education and Science](https://en.wikipedia.org/wiki/Federal_Ministry_of_Education_and_Research_%28Germany%29) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, but only released in small quantities and prototypes. The computer's name was in remembrance to chess grandmaster [Efim Dmitriyevich Bogolyubov](https://en.wikipedia.org/wiki/Efim_Bogoljubov). The [6502](6502 "6502") processing unit with a program by [Olaf Schinkel](index.php?title=Olaf_Schinkel&action=edit&redlink=1 "Olaf Schinkel (page does not exist)") and the [sensory chessboard](Sensory_Board "Sensory Board") were separate units, connected via cable. The Bogol 5.0 prototype, which had reversed [square colors](Color_of_a_Square "Color of a Square"), played a strong [European MCC 1982](European_MCC_1982 "European MCC 1982") represented by the Omikron team of Martin Suhl and Gerd Krey. Despite missing the first round and losing by default, Bogol managed 4 out of 7 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> . According to [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)"), Bogol 5.0 was never released to the market, apparently due to its close relation to another chess computer <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Prototype](#prototype)
-  - [1.2 EMCC 1982](#emcc-1982)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos
 
 ## Prototype

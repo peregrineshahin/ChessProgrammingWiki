@@ -11,18 +11,6 @@ Chexa played the [CCC 2008](CCC_2008 "CCC 2008") and [CCC 2009](CCC_2009 "CCC 20
 As stated on Chexa's G 6 site, beside working on a [parallel search](Parallel_Search "Parallel Search") based on the [publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern),
 Mauro Riccardi is in the process to find the right balance of [passed pawn](Passed_Pawn "Passed Pawn") and [candidate](Candidate_Passed_Pawn "Candidate Passed Pawn") values, since too often Chexa has overestimated their good locations, and is about to introduce a table to evaluate [pawn islands](Pawn_Islands "Pawn Islands") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 CCC 2009](#ccc-2009)
-  - [1.2 CCT15](#cct15)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Photos & Games
 
 ## CCC 2009

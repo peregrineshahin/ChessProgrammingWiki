@@ -11,16 +11,6 @@ Crystal focuses on better [problem solving](Chess_Problems,_Compositions_and_Stu
 It further addresses some rarely occurring positional or [tactical](Tactics "Tactics") blindness due to too aggressive [reductions](Reductions "Reductions") and [pruning](Pruning "Pruning").
 Crystal 3.0, released in September 2020, is able to use [NNUE](NNUE "NNUE") evaluaton <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2019](#2019)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2019

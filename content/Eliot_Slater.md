@@ -8,16 +8,6 @@ title: Eliot Slater
 
 was an British [psychiatrist](https://en.wikipedia.org/wiki/Psychiatry) and [eugenicist](https://en.wikipedia.org/wiki/Eugenics) with interests in chess, music and poetry <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 1935 Eliot Slater married [Lydia Pasternak](https://en.wikipedia.org/wiki/Lydia_Pasternak_Slater) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, sister of [Boris Pasternak](https://en.wikipedia.org/wiki/Boris_Pasternak), Russian poet and writer, and published a collection of his poetry, *The Ebbless Sea, Poems* (1922-1962) <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
-## Contents
-
-- [1 Factor of Mobility](#factor-of-mobility)
-  - [1.1 Alan Turing](#alan-turing)
-  - [1.2 Eliot Slater](#eliot-slater)
-- [2 Poems by Doctors](#poems-by-doctors)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Factor of Mobility
 
 At the Conference on Information theory, September 26-29, 1950 in [London](https://en.wikipedia.org/wiki/London) <a id="cite-note-7" href="#cite-ref-7">[7]</a> under the topic of *Application of Information Theory to a Study of the Sense Organs and the Central Nervous System*, Slater contributed with a *Statistics for the Chess Computer and the Factor of Mobility*, which was controversial discussed by [D. K. C. MacDonald](https://en.wikipedia.org/wiki/D._K._C._MacDonald), F. L. Stumpers, [Alan Turing](Alan_Turing "Alan Turing") and [Jack Good](Jack_Good "Jack Good") <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Slater's paper was the first to attempt the significance of [mobility](Mobility "Mobility") in [chess](Chess "Chess") and his data based on 350 master games provides clear evidence of employing mobility as a feature in [evaluation](Evaluation "Evaluation").

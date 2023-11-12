@@ -8,21 +8,6 @@ title: Dap Hartmann
 
 a Dutch astronomer, publicist, computer chess programmer, and associate professor at Delft Centre for Entrepreneurship, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). He holds a Ph.D. in [astronomy](https://en.wikipedia.org/wiki/Astronomy) from [Leiden University](Leiden_University "Leiden University") in 1994 on the distribution of [atomic](https://en.wikipedia.org/wiki/Neutral_hydrogen) [hydrogen](https://en.wikipedia.org/wiki/Hydrogen) in the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and after scientific research in that field at [Harvard University](Harvard_University "Harvard University"), the [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), and the [Max Planck Institute](https://en.wikipedia.org/wiki/Max_Planck_Society), he made the transition to [innovation management](https://en.wikipedia.org/wiki/Innovation_management) and the valorization of new technologies, and teaches at TU Delft. Along with [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven"), Dap Hartmann is co-author of the chess program [Dappet](Dappet "Dappet"). In the computer chess world, he is known as [eponym](https://en.wikipedia.org/wiki/Eponym) of the [Butterfly Boards](Butterfly_Boards "Butterfly Boards") and inventor of the related [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic") <a id="cite-note-3" href="#cite-ref-3">[3]</a> (even if he denied implementation <a id="cite-note-4" href="#cite-ref-4">[4]</a>), and his interesting articles and reviews in the [ICCA Journal](ICGA_Journal "ICGA Journal").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1986 ...](#1986-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 1995 ...](#1995-...)
-  - [2.4 2000 ...](#2000-...)
-  - [2.5 2005 ...](#2005-...)
-  - [2.6 2010 ...](#2010-...)
-  - [2.7 2015 ...](#2015-...)
-  - [2.8 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html)

@@ -11,13 +11,6 @@ Ares played three [Dutch Open Computer Chess Championships](Dutch_Open_Computer_
 running on a [SUN-SPARCstation 670](SPARCstation "SPARCstation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 as well in the C-Language Division of [Don Beal's](Don_Beal "Don Beal") [Uniform-Platform Computer Chess Championship](Uniform-Platform_Computer_Chess_Championship "Uniform-Platform Computer Chess Championship") in [1992](UPCCC_1992 "UPCCC 1992").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Namesake](#namesake)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Larmee](Larmee "Larmee")

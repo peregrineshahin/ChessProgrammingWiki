@@ -10,15 +10,6 @@ a Luxembourg born, Swiss mathematician, computer scientist, and founder and dire
 He received his Ph.D. from [École Polytechnique Fédérale de Lausanne](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne), the *Swiss Federal Institute of Technology* in [Lausanne](https://en.wikipedia.org/wiki/Lausanne) in 1998 on the topic of *Automatic Data Distribution for Massively Parallel Distributed Memory Computers*.
 His professional interests include [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problems, reasoning about [game theory](https://en.wikipedia.org/wiki/Game_theory), [minimax search](Minimax "Minimax"), developing [business](https://en.wikipedia.org/wiki/Strategic_management) and [product strategies](https://en.wikipedia.org/wiki/Product_strategy) for [financial service](https://en.wikipedia.org/wiki/Financial_services) institutions as well as [product lifecylce](https://en.wikipedia.org/wiki/Product_lifecycle) management <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

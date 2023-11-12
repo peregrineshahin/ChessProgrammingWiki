@@ -8,14 +8,6 @@ title: DGT Pi
 
 a dedicated chess computer expansion hardware by [Digital Game Technology](index.php?title=DGT&action=edit&redlink=1 "DGT (page does not exist)") for their [DGT Board](DGT_Board "DGT Board"), connected via [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) or [USB](https://en.wikipedia.org/wiki/USB), integrated into a DGT3000 digital chess clock, first released in October 2016 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The computer consists of a [Raspberry Pi 3](Raspberry_Pi#3 "Raspberry Pi") with built-in Bluetooth and [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) functionality, and comes with multiple chess engines included. DGT Pi requires the DGT Board, and can not used to play engines stand alone <a id="cite-note-3" href="#cite-ref-3">[3]</a>. DGT Pi uses a recent version of the [PicoChess](PicoChess "PicoChess") software aka [python-chess](Python-chess "Python-chess") by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas") to handle chess rules, [opening books](Opening_Book "Opening Book"), and [PGN](Portable_Game_Notation "Portable Game Notation") files <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Engines](#engines)
-- [2 See also](#see-also)
-- [3 Postings](#postings)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Engines
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

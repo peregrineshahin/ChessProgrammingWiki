@@ -10,13 +10,6 @@ a chess program for the [Acorn Atom](Acorn_Atom "Acorn Atom") released in 1981 b
 Atom Chess was an improved version of [Chessnut](Chessnut "Chessnut") by [Geoffrey Bulmer](Geoffrey_Bulmer "Geoffrey Bulmer") which competed at the [2nd European Microcomputer Chess Championship](European_MCC_1981 "European MCC 1981") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Atom Chess recognizes all legal [chess moves](Moves "Moves"), including [castling](Castling "Castling"), [en passant](En_passant "En passant"), and [promotes](Promotions "Promotions") to queen only. The program uses [pure coordinates](Algebraic_Chess_Notation#PureCoordinateNotation "Algebraic Chess Notation") for [game notation](Game_Notation "Game Notation") and [entering moves](Entering_Moves "Entering Moves"), allows to manually set up [positions](Chess_Position "Chess Position"), and features 6 levels of play <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Screenshot
 
 [](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm)

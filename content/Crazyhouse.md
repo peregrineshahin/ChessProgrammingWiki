@@ -9,19 +9,6 @@ a [chess variant](Chess#Variants "Chess") which incorporates the [Shogi](Shogi "
 
 Crazyhouse could be played with [Zillions of Games](Zillions_of_Games "Zillions of Games") by [Jeff Mallett](Jeff_Mallett "Jeff Mallett") and [Mark Lefler](Mark_Lefler "Mark Lefler"). A pioneer in implementing [Bughouse](index.php?title=Bughouse&action=edit&redlink=1 "Bughouse (page does not exist)") and Crazyhouse with his engine [Sunsetter](Sunsetter "Sunsetter") was [Georg von Zimmermann](Georg_von_Zimmermann "Georg von Zimmermann"). More recently, [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") made the necessary extensions and generalizations of the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") along with its [XBoard](XBoard "XBoard") and [WinBoard](WinBoard "WinBoard") [GUIs](GUI "GUI") to support Crazyhouse as well as other variants and games <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and also published his new engine [CrazyWa](index.php?title=CrazyWa&action=edit&redlink=1 "CrazyWa (page does not exist)") which supports Crazyhouse plus five Shogi variants <a id="cite-note-3" href="#cite-ref-3">[3]</a>. [Multi Variant Stockfish](index.php?title=Multi_Variant_Stockfish&action=edit&redlink=1 "Multi Variant Stockfish (page does not exist)"), a [Stockfish](Stockfish "Stockfish") fork maintained by [Daniel Dugovic](index.php?title=Daniel_Dugovic&action=edit&redlink=1 "Daniel Dugovic (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, incorporated in various [Lichess](index.php?title=Lichess&action=edit&redlink=1 "Lichess (page does not exist)") projects <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, is able to play Crazyhouse as well. In 8 months, Stockfish-Crazyhouse was improved by 800 Elo points <a id="cite-note-8" href="#cite-ref-8">[8]</a>. In 2016, [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca") started to play Crazyhouse tournaments <a id="cite-note-9" href="#cite-ref-9">[9]</a> to maintain a rating lists <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
-## Contents
-
-- [1 Engines](#engines)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000 ...](#2000-...)
-  - [4.2 2005 ...](#2005-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Engines
 
 - [Crazyhouse Engines](Category:Crazyhouse "Category:Crazyhouse")

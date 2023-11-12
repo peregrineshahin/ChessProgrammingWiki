@@ -9,14 +9,6 @@ title: Goldbar
 a private chess program by [Bart Goldhoorn](Bart_Goldhoorn "Bart Goldhoorn") whose development started in the early 90s as a [Pascal](Pascal "Pascal") port of an old version of [Nightmare](Nightmare_NL "Nightmare NL") by [Joost Buijs](Joost_Buijs "Joost Buijs") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Initially using an own [GUI](GUI "GUI"), it evolved to an [UCI](UCI "UCI") compatible program with a [parallel search](Parallel_Search "Parallel Search") in the 2000s, using the [Free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) compiler within the [Lazarus (IDE)](https://en.wikipedia.org/wiki/Lazarus_%28IDE%29).
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Photos & Games](#photos-.26-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Tournament Play
 
 Goldbar participated ten times the [Dutch Open Computer Chess Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") - as Goldbar 92 a strong debut and tied fifth at the [DOCCC 1992](DOCCC_1992 "DOCCC 1992"),

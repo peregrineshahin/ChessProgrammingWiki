@@ -5,17 +5,6 @@ title: FailHard
 
 **Fail-Hard** is a term related to an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like [search](Search "Search"), to make [Alpha](Alpha "Alpha") and [Beta](Beta "Beta") **hard** [bounds](Bound "Bound") of the returned value of the search. Even [terminal nodes](Terminal_Node "Terminal Node") which indicate draw or mate scores are supposed to be adjusted on the hard alpha-beta bounds.
 
-## Contents
-
-- [1 Fail-Hard Condition](#fail-hard-condition)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2005 ...](#2005-...)
-  - [3.3 2010 ...](#2010-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-
 ## Fail-Hard Condition
 
 ```C++

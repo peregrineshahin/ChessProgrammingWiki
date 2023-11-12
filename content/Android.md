@@ -8,22 +8,6 @@ title: Android
 
 a [mobile device](https://en.wikipedia.org/wiki/Mobile_device) [operating system](https://en.wikipedia.org/wiki/Operating_system) based on the [Linux](Linux "Linux") [kernel](https://en.wikipedia.org/wiki/Linux_kernel), with [middleware](https://en.wikipedia.org/wiki/Middleware), [libraries](https://en.wikipedia.org/wiki/Software_library) and [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) written in [C](C "C"), and [applications](https://en.wikipedia.org/wiki/Application_software) running on a [framework](https://en.wikipedia.org/wiki/Application_framework) including [Java-compatible](Java "Java") libraries based on [Apache Harmony](https://en.wikipedia.org/wiki/Apache_Harmony). Android is developed by the [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance) led by [Google Inc.](https://en.wikipedia.org/wiki/Google) <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Postings](#postings)
-  - [3.1 2008 ...](#2008-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-  - [4.1 ChessBase](#chessbase)
-  - [4.2 Computer Chess](#computer-chess)
-  - [4.3 Development](#development)
-  - [4.4 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Chess for Android](Chess_for_Android "Chess for Android")

@@ -8,19 +8,6 @@ title: Cray XMP
 
 a [supercomputer](https://en.wikipedia.org/wiki/Supercomputer) designed, manufactured and marketed by [Cray Research Inc.](https://en.wikipedia.org/wiki/Cray#Cray_Research_Inc._and_Cray_Computer_Corporation:_1972_to_1996), announced in 1982 as successor of the [Cray-1](Cray-1 "Cray-1"). It was the world's fastest computer from 1983 to 1985 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Its principal designer was [Steve Chen](https://en.wikipedia.org/wiki/Steve_Chen_%28computer_engineer%29). The X-MP's main improvement over the Cray-1 was a [shared-memory](Memory#Shared "Memory"), parallel [vector processor](https://en.wikipedia.org/wiki/Vector_processor), housing two [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) in a mainframe that was nearly identical in outside appearance to the Cray-1. The X-MP CPU had a faster 9.5 nanosecond clock cycle (105 MHz), compared to 12.5 ns for the Cray-1. It was built from [bipolar](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) [gate array](https://en.wikipedia.org/wiki/Gate_array) integrated circuits containing 16 [emitter-coupled logic gates](https://en.wikipedia.org/wiki/Emitter-coupled_logic) each, and was very similar to the Cray-1 CPU in architecture, and object-code compatible <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 1984, improved models of the X-MP were announced, consisting of up to four-processor systems.
 
-## Contents
-
-- [1 Cray-2](#cray-2)
-- [2 Cray Y-MP](#cray-y-mp)
-- [3 Cray C90](#cray-c90)
-- [4 Chess Programs](#chess-programs)
-- [5 See also](#see-also)
-- [6 Manuals](#manuals)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Cray-2
 
 The **Cray-2** was a supercomputer with four vector processors built with emitter-coupled logic starting in 1985. It was the fastest machine in the world when it was released, replacing the Cray X-MP in that spot <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

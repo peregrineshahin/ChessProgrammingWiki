@@ -11,24 +11,6 @@ After continuing the development on his old engine <a id="cite-note-3" href="#ci
 short before it had its over the board debut at the [PT 54](PT_54 "PT 54") in [Leiden](https://en.wikipedia.org/wiki/Leiden).
 Since **2.3.2** in February 2019, FrankWalter has become [open source](Category:Open_Source "Category:Open Source"), hosted on [GitHub](https://en.wikipedia.org/wiki/GitHub) and licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-  - [2.4 Misc](#misc)
-- [3 Photos & Games](#photos-.26-games)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2009](#2009)
-  - [5.2 2018 ...](#2018-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc-2)
-- [7 References](#references)
-
 ## Etymology
 
 [Frank-Walter Steinmeier](https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier), in 2009 German [Minister for Foreign Affairs](<https://en.wikipedia.org/wiki/Minister_for_Foreign_Affairs_(Germany)>), since March 2017 [President of Germany](https://en.wikipedia.org/wiki/President_of_Germany),

@@ -9,15 +9,6 @@ title: Chess Monster
 a chess program by [Jacques Middlecoff](Jacques_Middlecoff "Jacques Middlecoff") written in [8086](8086 "8086") [assembly](Assembly "Assembly"), apparently successor of [SPOC](SPOC "SPOC") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Chess Monster played the [Halloween](https://en.wikipedia.org/wiki/Halloween) event, the [WMCCC 1986](WMCCC_1986 "WMCCC 1986") in [Dallas](https://en.wikipedia.org/wiki/Dallas) running on a [Compaq 386](https://en.wikipedia.org/wiki/Compaq#Compaq_DeskPro_386), fighting versus a strong field dominated by [6502](6502 "6502") and [68020](68020 "68020") based programs and three entries of [Mephisto](Mephisto "Mephisto"), [Fidelity](Fidelity "Fidelity"), [Rebel](Rebel "Rebel") and [Cyrus 68K](Cyrus_68K "Cyrus 68K") each <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Games](#games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Games
 
 [WMCCC 1986](WMCCC_1986 "WMCCC 1986"), round 5, Chess Monster - [Cyrus A](Cyrus_68K "Cyrus 68K") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

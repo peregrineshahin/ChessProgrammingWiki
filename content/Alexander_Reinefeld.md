@@ -9,21 +9,6 @@ title: Alexander Reinefeld
 a German computer scientist, games researcher, and professor of Computer Science at the [Zuse Institute Berlin](https://en.wikipedia.org/wiki/Zuse_Institute_Berlin) (ZIB). He studied physics at the [Technical University of Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) and computer science at the [University of Hamburg](University_of_Hamburg "University of Hamburg") and during two one-year visits in Edmonton, at the [University of Alberta](University_of_Alberta "University of Alberta"). In 1982, he concluded his graduate in computer science and in 1987 he received his Ph.D at the University of Hamburg.
 From 1983 to 1987, he worked as a scientific employee, and from 1989 to 1992 as assistant at the University of Hamburg. During the years 1987 to 1990 he collected industrial experience as a management consultant in the areas of [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis), [Databases](https://en.wikipedia.org/wiki/Database) and [Compiler building](https://en.wikipedia.org/wiki/Compiler). In 1992 Reinefeld collaborated with the Paderborn Center for Parallel Computing (PC²) at the [Paderborn University](Paderborn_University "Paderborn University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Since 1998, Alexander Reinefeld leads the area of Computer Science in the [Zuse Institute Berlin](http://www.zib.de/) (ZIB). He is a member of the [Gesellschaft für Informatik](https://en.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Informatik), the [ACM](ACM "ACM"), the [IEEE Computer Society](IEEE "IEEE"), the German university association [Deutscher Hochschulverband (DHV)](http://de.wikipedia.org/wiki/Deutscher_Hochschulverband) and Chair of Parallel and Distributed Systems at the [Humboldt University of Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin).
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-  - [1.1 Murks](#murks)
-  - [1.2 MicroMurks](#micromurks)
-- [2 Search Algorithms](#search-algorithms)
-  - [2.1 Negascout](#negascout)
-  - [2.2 RecSSS\* and RecDual\*](#recsss.2a-and-recdual.2a)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1982 ...](#1982-...)
-  - [3.2 1990 ...](#1990-...)
-  - [3.3 2000 ...](#2000-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Chess Programs
 
 ## Murks

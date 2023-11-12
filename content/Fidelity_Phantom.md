@@ -13,16 +13,6 @@ The Fidelity Phantom was basically a re-launch of the 1982 [Milton Bradley Phant
 After the acquisition of Fidelity Electronics by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") in 1989, the same computer was sold under the new brand name **Mephisto Phantom**
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Reports](#reports)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Fidelity Phantom](#fidelity-phantom)
-  - [4.2 Phantom](#phantom)
-- [5 References](#references)
-
 ## See also
 
 - [Excalibur Mirage](Excalibur_Mirage "Excalibur Mirage")

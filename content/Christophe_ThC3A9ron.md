@@ -8,16 +8,6 @@ title: Christophe ThC3A9ron
 
 a French computer chess programmer living in [Guadeloupe](https://en.wikipedia.org/wiki/Guadeloupe). He started chess programming at the age of 17 in 1982 on a [TRS-80](TRS-80 "TRS-80") 1.77 Mhz home computer <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Christophe is author of the chess engine [Chess Tiger](Chess_Tiger "Chess Tiger").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1998 ...

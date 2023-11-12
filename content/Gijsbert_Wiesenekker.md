@@ -9,15 +9,6 @@ title: Gijsbert Wiesenekker
 a Dutch theoretical chemist, and as avocational computer chess and games programmer, author of the chess program [Zzzzzz](Zzzzzz "Zzzzzz"), which had its debut at the [DOCCC 1991](DOCCC_1991 "DOCCC 1991"), and co-author of the [Draughts](Draughts "Draughts") program [GWD](https://www.game-ai-forum.org/icga-tournaments/program.php?id=431).
 His interest include calculating the exact [distance-to-mate](Endgame_Tablebases#DTM "Endgame Tablebases") (including [transpositions](Transposition "Transposition")) 7-piece [endgame databases](Endgame_Tablebases "Endgame Tablebases") for [polish draughts](Draughts "Draughts") on a self-built 16 CPU 4 node [Quad core](https://en.wikipedia.org/wiki/Quad_core) [CentOS](https://en.wikipedia.org/wiki/CentOS) [Linux](Linux "Linux") [cluster](https://en.wikipedia.org/wiki/Computer_cluster) using an [Open MPI](https://en.wikipedia.org/wiki/Open_MPI) disk-based algorithm <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1993 ...](#1993-...)
-  - [2.2 2000 ...](#2000-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://old.csvn.nl/gallery23.html)

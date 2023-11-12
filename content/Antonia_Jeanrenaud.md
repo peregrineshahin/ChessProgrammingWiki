@@ -11,12 +11,6 @@ computer scientist and avocational computer chess programmer from [Bari](https:/
 She was author of the chess engine [EtaBeta](EtaBeta "EtaBeta"), and courageously competed at the [WCCC 2006](WCCC_2006 "WCCC 2006") in Turin <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 and further played various [Italian Computer Chess Championships](Italian_Computer_Chess_Championship "Italian Computer Chess Championship") with her program. Antonia Jeanrenaud died on September 30, 2014.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos
 
 [](File:ItalianChessProgrammers.jpg)

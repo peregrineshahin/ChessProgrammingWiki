@@ -8,21 +8,6 @@ title: 5th Computer Olympiad
 \[ Alexandra Palace from the west <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Fifth Computer Olympiad** took place from August 21 to 25, [2000](Timeline#2000 "Timeline"), at [Alexandra Palace](https://en.wikipedia.org/wiki/Alexandra_Palace), [North London](https://en.wikipedia.org/wiki/North_London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). After an eight-year hiatus, it was revived by bringing it into the [Mind Sports Olympiad](https://en.wikipedia.org/wiki/Mind_Sports_Olympiad), in conjunction with the [17th World Microcomputer Chess Championship](WMCCC_2000 "WMCCC 2000") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. During the 5th Computer Olympiad a [workshop on computer games](#workshop) was held, organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk").
 
-## Contents
-
-- [1 Results](#results)
-  - [1.1 Amazons](#amazons)
-  - [1.2 Awari](#awari)
-  - [1.3 Go](#go)
-  - [1.4 Hex](#hex)
-  - [1.5 Lines of Action](#lines-of-action)
-  - [1.6 Shogi](#shogi)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Workshop](#workshop)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Results
 
 ## [Amazons](Amazons "Amazons")

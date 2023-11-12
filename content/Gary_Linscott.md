@@ -9,20 +9,6 @@ title: Gary Linscott
 an American computer scientist actually residing in the [San Francisco Bay Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) working in the autonomous mobility industry <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He graduated in 2005 from [Queen's University](https://en.wikipedia.org/wiki/Queen%27s_University) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [Kingston, Ontario](https://en.wikipedia.org/wiki/Kingston,_Ontario), Canada,
 and was former [Microsoft](Microsoft "Microsoft") employee, where he worked on [Expression Blend](https://en.wikipedia.org/wiki/Microsoft_Blend) from 2005 until 2011. He has been interested in game playing algorithms, [3D graphics programming](Graphics_Programming "Graphics Programming") applying [OpenGL](https://en.wikipedia.org/wiki/OpenGL) and [Direct3D](https://en.wikipedia.org/wiki/Direct3D), and [data compression](https://en.wikipedia.org/wiki/Data_compression) and [image compression](https://en.wikipedia.org/wiki/Image_compression) utilizing [Daubechies wavelets](https://en.wikipedia.org/wiki/Daubechies_wavelet). His interests include [HTML5](https://en.wikipedia.org/wiki/HTML5), [JavaScript](JavaScript "JavaScript"), and [Node.js](https://en.wikipedia.org/wiki/Node.js). He is author of multiple game playing and puzzle programs for various target platforms, beside others, the [Go](Go "Go") playing program *ThinkGo* for [Windows Phone 7](Windows#Phone7 "Windows"), the open source [Othello](Othello "Othello") program *Cascade*, and a [Nine Men’s Morris](Nine_Men%E2%80%99s_Morris "Nine Men’s Morris") program.
 
-## Contents
-
-- [1 Garbochess](#garbochess)
-- [2 Fishtest](#fishtest)
-- [3 Leela Chess Zero](#leela-chess-zero)
-- [4 PyTorch NNUE](#pytorch-nnue)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2007 ...](#2007-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Garbochess
 
 Gary Linscott is author of the [open source chess engines](Category:Open_Source "Category:Open Source") and applications [Garbochess](Garbochess "Garbochess") and [Garbochess-JS](Garbochess-JS "Garbochess-JS"), the [C#](C_sharp "C sharp") version also incorporated into Microsoft's *Silverlight Chess* <a id="cite-note-4" href="#cite-ref-4">[4]</a> for the [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight) framework.

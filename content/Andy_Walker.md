@@ -8,13 +8,6 @@ title: Andy Walker
 
 a British mathematician and computer scientist, affiliated with the School of Mathematical Sciences, [University of Nottingham](https://en.wikipedia.org/wiki/University_of_Nottingham) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, with research interests in game theory and as a chess player <a id="cite-note-3" href="#cite-ref-3">[3]</a>, in computer chess. He published in the [ICGA Journal](ICGA_Journal "ICGA Journal") on [search algorithms](Search "Search") to [solve certain chess problems](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies") - in particular [helpmates](https://en.wikipedia.org/wiki/Helpmate) and series-helpmates <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and on search heuristics in the KQKR endgame <a id="cite-note-5" href="#cite-ref-5">[5]</a>, lectured at two [Advances in Computer Chess](Conferences#AdvancesinComputerChess "Conferences") conferences, and is author of the didactic chess program [NotChess](NotChess "NotChess"), written in [C](C "C") and originated as a simple program to help teach university students taking a game theory course <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a>

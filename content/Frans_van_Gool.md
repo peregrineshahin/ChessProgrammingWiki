@@ -12,14 +12,6 @@ and researched on optimization and parallelization of algorithms as postdoc affi
 Already at Utrecht University, he was involved in computer chess programming as author of the chess program [Larmee](Larmee "Larmee"), and along with [Erik Leenders](Erik_Leenders "Erik Leenders"),
 as co-author of the chess program [Ares](Ares "Ares"). Frans van Gool is further interested in the game of [Mastermind](<https://en.wikipedia.org/wiki/Mastermind_(board_game)>) and published a [Java](Java "Java") applet <a id="cite-note-4" href="#cite-ref-4">[4]</a> and algorithm <a id="cite-note-5" href="#cite-ref-5">[5]</a> of that game.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

@@ -8,13 +8,6 @@ title: David E. MoriartySANE
 an American computer scientist an Ph.D. alumni from [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin) <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 During the 90s, along with his advisor, [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen"), David E. Moriarty worked on [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") by [Symbiotic](https://en.wikipedia.org/wiki/Symbiosis), Adaptive [NeuroEvolution](https://en.wikipedia.org/wiki/Neuroevolution) dubbed SANE, also topic of his Ph.D. thesis <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 SANE](#sane)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## SANE
 
 SANE ([Symbiotic](https://en.wikipedia.org/wiki/Symbiosis), Adaptive [NeuroEvolution](https://en.wikipedia.org/wiki/Neuroevolution)) evolves [neural networks](Neural_Networks "Neural Networks") with [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") for [sequential decision tasks](https://en.wikipedia.org/wiki/Sequential_decision_making),

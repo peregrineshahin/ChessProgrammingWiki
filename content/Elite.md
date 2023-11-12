@@ -8,21 +8,6 @@ title: Elite
 
 a family of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") manufactured by [Sidney Samole's](Sidney_Samole "Sidney Samole") company [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics") with programs by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"). The **Fidelity Elite Champion** was the first Elite which was the market version of [Fidelity X](Fidelity "Fidelity"), the [6502](6502 "6502") based computer with a [Sargon](Sargon "Sargon") program which won the [WMCCC 1981](WMCCC_1981 "WMCCC 1981") in [Travemünde](https://en.wikipedia.org/wiki/Travem%C3%BCnde). Its successors, the **Elite Auto Sensory** and **Elite X** became [World Microcomputer Chess Champion](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budapest](https://en.wikipedia.org/wiki/Budapest) and at the [WMCCC 1984](WMCCC_1984 "WMCCC 1984") in [Glasgow](https://en.wikipedia.org/wiki/Glasgow) (shared) respectively.
 
-## Contents
-
-- [1 Avant Garde Vx](#avant-garde-vx)
-- [2 Multiprocessor](#multiprocessor)
-- [3 Karpov's Second](#karpov.27s-second)
-- [4 Photos & Games](#photos-.26-games)
-- [5 See also](#see-also)
-- [6 Elite Computers](#elite-computers)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-  - [9.1 Chess Computer](#chess-computer)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Avant Garde Vx
 
 In 1989 the new series of **Elite Avant Garde Vx** computers were released, featuring [Motorola's](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") 16-bit [68000](68000 "68000") and 32-bit [68020](68020 "68020") processors along with [transposition tables](Transposition_Table "Transposition Table").

@@ -10,20 +10,6 @@ an American electrical engineer, computer scientist, professor emeritus of compu
 
 In 1960 Feigenbaum went to the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), to teach in the School of Business Administration. He joined the Stanford faculty in 1965 where he was chairman of the CS Department from 1976 to 1981. As professor emeritus at Stanford, Feigenbaum has focused interest, as a Board of Trustees member of [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), on preserving the history of computer science, and with the Stanford Libraries on software for building and using digital archives <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1959](#1959)
-  - [1.2 1960 ...](#1960-...)
-  - [1.3 1970 ...](#1970-...)
-  - [1.4 1980 ...](#1980-...)
-  - [1.5 1990 ...](#1990-...)
-  - [1.6 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-  - [2.1 Oral History](#oral-history)
-  - [2.2 Videos](#videos)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

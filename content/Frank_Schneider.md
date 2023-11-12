@@ -8,16 +8,6 @@ title: Frank Schneider
 
 a German computer scientist and chess programmer. Along with co-author [Kai Skibbe](Kai_Skibbe "Kai Skibbe"), Frank is primary author of the chess engines [GromitChess](Gromit "Gromit"), [Anaconda](Anaconda "Anaconda") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [PocketGrandmaster](PocketGrandmaster "PocketGrandmaster") for [Windows](Windows "Windows") [Pocket PCs](index.php?title=Pocket_PC&action=edit&redlink=1 "Pocket PC (page does not exist)") and [mobiles](https://en.wikipedia.org/wiki/Windows_Mobile) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He is further author of [Ginkgo](Ginkgo "Ginkgo"), debutant at the [WCCC 2015](WCCC_2015 "WCCC 2015") in [Leiden](Leiden_University "Leiden University"), and author of [Fritz 17](Fritz "Fritz"), released in November 2019.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Workshop Jena 2008](#workshop-jena-2008)
-  - [1.2 WCCC 2015](#wccc-2015)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 ## Workshop Jena 2008

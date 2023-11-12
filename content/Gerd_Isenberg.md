@@ -6,14 +6,6 @@ title: Gerd Isenberg
 **Gerd Isenberg**, (1955)[](File:2001leidenIsenberg.JPG) Gerd Isenberg, [DOCCC 2001](DOCCC_2001 "DOCCC 2001") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 a German computer scientist and retired chess programmer, born, raised and living in [Hattingen](https://en.wikipedia.org/wiki/Hattingen) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and author of the chess programs [IsiChess](IsiChess "IsiChess") and [HansDamf](index.php?title=HansDamf&action=edit&redlink=1 "HansDamf (page does not exist)"). He was radio and television engineer and studied CS at the [University of Applied Sciences](https://en.wikipedia.org/wiki/Dortmund_University_of_Applied_Sciences_and_Arts) in [Dortmund](https://en.wikipedia.org/wiki/Dortmund). His career as a chess programmer started rather late, when he was already in the mid thirties - inspired by [David Levy's](David_Levy "David Levy") [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), specially the article about [Chess 4.5](</Chess_(Program)> "Chess (Program)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. After a short and venturesome career as professional chess programmer from 1994 to 1997, Gerd Isenberg is employed application developer for the Oil- and Gas-Industry. Gerd has been an organizer here at the wiki, main focus [Bitboards](Bitboards "Bitboards"), [Bit-Twiddling](Bit-Twiddling "Bit-Twiddling"), [History](History "History") of computer chess programming and everything else.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 ## [](File:Gerd2006.jpg) [WCCC 2006](WCCC_2006 "WCCC 2006") excursion <a id="cite-note-5" href="#cite-ref-5">[5]</a> Publications

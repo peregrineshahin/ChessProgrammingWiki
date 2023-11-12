@@ -8,14 +8,6 @@ title: Crashtest Dummy
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant experimental chess engine by [Richard Pijl](Richard_Pijl "Richard Pijl"), intended as a test bed for his primary engine [The Baron](The_Baron "The Baron"). Richard started with CTD in about 2004, when he was getting nowhere with improving the Baron. When CTD was able to play a game, he decided to give the Baron one more look, instantly removed the bug that was blocking improvement and kept CTD in a drawer. At another point Richard was about to retire the Baron and to work only on CTD, as its successor <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Photos](#photos)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Tournament Play
 
 Crashtest Dummy played the [ICT 2007](ICT_2007 "ICT 2007"), the [DOCCC 2007](DOCCC_2007 "DOCCC 2007"), the [ICT 2008](ICT_2008 "ICT 2008"), and the [CPT 2008](CPT_2008 "CPT 2008"), operated by [Tessa Pijl](Tessa_Pijl "Tessa Pijl").

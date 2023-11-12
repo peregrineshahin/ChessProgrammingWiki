@@ -8,17 +8,6 @@ title: Alexandru Mosoi
 
 a Romanian computer scientist, software engineer, and proponent of [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software), actually residing in [Zurich](https://en.wikipedia.org/wiki/Z%C3%BCrich) working for [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") Switzerland. He holds a M.Sc. degree from [Vrije Universiteit Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit) in 2011 on the topic of distibuted [SAT solving](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and was affiliated with [Politehnica University of Bucharest](https://en.wikipedia.org/wiki/Politehnica_University_of_Bucharest). Beside multiple other open source programs and projects, he is author of *Chile*, a [compression](https://en.wikipedia.org/wiki/Data_compression) program based on [Burrows-Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [Conflict-Driven Clause Learning](https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning) Sat Solver *Gasca* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, the [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") and chess library [Zurichess](Zurichess "Zurichess") <a id="cite-note-5" href="#cite-ref-5">[5]</a> written in [Go](</Go_(Programming_Language)> "Go (Programming Language)") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and *txt*, which applies [Texel's tuning method](Texel%27s_Tuning_Method "Texel's Tuning Method") by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") to optimize any [UCI](UCI "UCI") complaint chess engine, also written in Go <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2015](#2015)
-  - [2.2 2016](#2016)
-  - [2.3 2017](#2017)
-  - [2.4 2018 ...](#2018-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Alexandru Moșoi (**2011**). *[STRUCTure: Towards a Distibuted Boolean Satifibiality Solver](https://github.com/brtzsnr/structure)*. M.Sc. thesis, [Vrije Universiteit Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)

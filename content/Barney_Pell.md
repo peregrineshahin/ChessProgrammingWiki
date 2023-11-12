@@ -8,15 +8,6 @@ title: Barney Pell
 
 an American computer scientist, entrepreneur, [angel investor](https://en.wikipedia.org/wiki/Angel_investor), and technology and product strategist. He has worked for [NASA](https://en.wikipedia.org/wiki/NASA), [Microsoft](Microsoft "Microsoft"), and [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), amongst others, founded [Powerset](https://en.wikipedia.org/wiki/Powerset_%28company%29) and [Moon Express](https://en.wikipedia.org/wiki/Moon_Express), and is co-founder, chairman and [CSO](https://en.wikipedia.org/wiki/Chief_strategy_officer) at *LocoMobi* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He received his Ph.D. in CS from [Trinity College](https://en.wikipedia.org/wiki/Trinity_College,_Cambridge), [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) on the topic of [Meta-Game Playing](General_Game_Playing "General Game Playing") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. His program [Metagamer](index.php?title=Metagamer&action=edit&redlink=1 "Metagamer (page does not exist)") is able to play and [learn](Learning "Learning") the games of [Chess](Chess "Chess"), [Checkers](Checkers "Checkers"), [noughts and crosses](https://en.wikipedia.org/wiki/Tic-tac-toe), [Chinese Chess](Chinese_Chess "Chinese Chess"), and [Shogi](Shogi "Shogi") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

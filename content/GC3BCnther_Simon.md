@@ -8,15 +8,6 @@ title: GC3BCnther Simon
 a German chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, computer chess aficionado, computer chess tester and [Opening Book Author](Category:Opening_Book_Author "Category:Opening Book Author"), notably for [Peter Fendrich's](Peter_Fendrich "Peter Fendrich") TerraPi aka [Alaric](Alaric "Alaric") at the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and [WCRCC 2008](WCRCC_2008 "WCRCC 2008").
 Since 2001 Günther Simon hosts and maintains the [Regensburg WinBoard Circuit](RWBC "RWBC") (RWBC), until 2010 a [rating list](Engine_Rating_Lists "Engine Rating Lists") site, after a break since 2016 reactivated, providing the XB/UCI chronology of engines capable of using etiher the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") ([XBoard](XBoard "XBoard"), [WinBoard](WinBoard "WinBoard") or [UCI](UCI "UCI") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, computer chess links and engine downloads <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

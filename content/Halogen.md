@@ -11,21 +11,6 @@ Since version 7 in September 2020, Halogen features an own, [incrementally updat
 Halogen 8 features a larger network than Halogen 7, but runs significantly faster due to improvements and optimisations, best if compiled for [AVX2](AVX2 "AVX2") instructions.
 Its development and testing was supported on the [OpenBench](OpenBench "OpenBench") framework. Networks are trained through a private, from scratch [C](C "C") implementation created in collaboration with [Andrew Grant](Andrew_Grant "Andrew Grant") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2019](#2019)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc-2)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

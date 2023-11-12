@@ -8,17 +8,6 @@ title: David Silver
 
 a British computer scientist at [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), and co-author of [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero"). Before, since 2010, he was researcher at [University College London](https://en.wikipedia.org/wiki/University_College_London), postdoc at [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") [[2]](#cite_note-2), Ph.D student and postdoc at [University of Alberta](University_of_Alberta "University of Alberta"), and [CTO](https://en.wikipedia.org/wiki/Chief_technology_officer) for [Elixir Studios](https://en.wikipedia.org/wiki/Elixir_Studios) and lead programmer on the [PC](IBM_PC "IBM PC") [strategy game](https://en.wikipedia.org/wiki/Strategy_video_game) [Republic: the Revolution](https://en.wikipedia.org/wiki/Republic:_The_Revolution) [[3]](#cite_note-3). His research interests covers simulation-based search, [reinforcement learning](Reinforcement_Learning "Reinforcement Learning"), and cooperative [pathfinding](https://en.wikipedia.org/wiki/Pathfinding).
 
-## Contents
-
-- [1 See also](#See_also)
-- [2 Selected Publications](#Selected_Publications)
-  - [2.1 2006 ...](#2006_...)
-  - [2.2 2010 ...](#2010_...)
-  - [2.3 2015 ...](#2015_...)
-  - [2.4 2020 ...](#2020_...)
-- [3 External Links](#External_Links)
-- [4 References](#References)
-
 ## See also
 
 - [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)")

@@ -9,14 +9,6 @@ title: Brian Richardson
 a retired American IT professional <a id="cite-note-2" href="#cite-ref-2">[2]</a> holding a [B.Sc.](https://en.wikipedia.org/wiki/Bachelor_of_Science) [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University) in 1978.
 Doing computer chess since 1971, Brian Richardson is author of the private [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine [Tinker](Tinker "Tinker"). More recently, inspired by the [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero") publications along with the open source developments around [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero"), Brian tinkers around with [neural networks](Neural_Networks "Neural Networks") and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2003 ...](#2003-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2003 ...

@@ -8,13 +8,6 @@ title: David Cahlander
 
 an American computer scientist and consultant, in the 70s and 80s affiliated with [Control Data Corporation](https://en.wikipedia.org/wiki/Control_Data_Corporation). He was team member and [CDC Cyber](CDC_Cyber "CDC Cyber") hardware consultant of the [Northwestern University's](Northwestern_University "Northwestern University") chess program [Chess](</Chess_(Program)> "Chess (Program)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and operated and repesented Chess 4.x at various [tournaments](Tournaments_and_Matches "Tournaments and Matches") and man-machine matches in the late 70s and early 80s, in particular the [WCCC 1977](WCCC_1977 "WCCC 1977") and the [WCCC 1980](WCCC_1980 "WCCC 1980"), [ACM 1978](ACM_1978 "ACM 1978") and [ACM 1979](ACM_1979 "ACM 1979"), and the [Levy versus Chess 1978 match](Levy_versus_Chess_1978 "Levy versus Chess 1978"). David Cahlander designed the famous Chess 4.7 [Sensory Board](Sensory_Board "Sensory Board"), first used at ACM 1978.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f)

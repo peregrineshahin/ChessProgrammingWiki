@@ -8,18 +8,6 @@ title: Fritz Reul
 
 a German computer scientist, chess programmer, and author of the chess engines [List](</List_(Program)> "List (Program)") and [Loop](</Loop_(Program)> "Loop (Program)"), which is also the chess engine of [Wii Chess](Wii_Chess "Wii Chess"). Fritz studied mathematics and applied computer science at [University of Applied Sciences Giessen-Friedberg](https://en.wikipedia.org/wiki/University_of_Applied_Sciences_Giessen-Friedberg), and defended his M.Sc. on computer chess in 2004. In 2005 he started his Ph.D. project *New Architectures in Computer Chess* at the [Maastricht University](Maastricht_University "Maastricht University") supervised by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), which he completed in June 2009 at [Tilburg University](Tilburg_University "Tilburg University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-  - [1.1 WCCC 2003](#wccc-2003)
-  - [1.2 DOCCC 2006](#doccc-2006)
-  - [1.3 WCCC 2007](#wccc-2007)
-- [2 New Allegations](#new-allegations)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Tournament Play
 
 ## WCCC 2003

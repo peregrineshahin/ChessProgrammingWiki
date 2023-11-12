@@ -8,33 +8,6 @@ title: Engine Testingbugs
 
 the process either to eliminate [bugs](https://en.wikipedia.org/wiki/Software_bug) and to measure [performance](Playing_Strength "Playing Strength") of a chess engine. New implementations of [move generation](Move_Generation "Move Generation") are tested with [Perft](Perft "Perft"), while new features and [tuning](Automated_Tuning "Automated Tuning") of [search](Search "Search") and [evaluation](Evaluation "Evaluation") are verified by [test-positions](Test-Positions "Test-Positions") and by playing [matches](Match_Statistics "Match Statistics") against other engines.
 
-## Contents
-
-- [1 Bug Hunting](#Bug_Hunting)
-- [2 Analyzing](#Analyzing)
-- [3 Tuning](#Tuning)
-- [4 Test-Positions](#Test-Positions)
-- [5 Matches](#Matches)
-  - [5.1 Time Controls](#Time_Controls)
-  - [5.2 Opening](#Opening)
-  - [5.3 Tournament Manager](#Tournament_Manager)
-  - [5.4 Frameworks](#Frameworks)
-  - [5.5 Chess Server](#Chess_Server)
-  - [5.6 Statistics](#Statistics)
-  - [5.7 Ratings](#Ratings)
-- [6 Test Results](#Test_Results)
-- [7 Notable Bugs](#Notable_Bugs)
-- [8 Publications](#Publications)
-- [9 Forum Posts](#Forum_Posts)
-  - [9.1 1995 ...](#1995_...)
-  - [9.2 2000 ...](#2000_...)
-  - [9.3 2005 ...](#2005_...)
-  - [9.4 2010 ...](#2010_...)
-  - [9.5 2015 ...](#2015_...)
-  - [9.6 2020 ...](#2020_...)
-- [10 External Links](#External_Links)
-- [11 References](#References)
-
 ## Bug Hunting
 
 - [Perft](Perft "Perft") ([Perft Results](Perft_Results "Perft Results"))

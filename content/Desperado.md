@@ -9,17 +9,6 @@ title: Desperado
 a private chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> by [David Blackman](David_Blackman "David Blackman"), under development since 1989. It has a few [extensions](Extensions "Extensions"), heavy [null move pruning](Null_Move_Pruning "Null Move Pruning"), [hash
 tables](Hash_Table "Hash Table"), a moderately complex [evaluation function](Evaluation "Evaluation"), and no [opening book](Opening_Book "Opening Book").
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Tournament Play
 
 Desperado has played in most of the [NC3 tournaments](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), and all the [ANU Carbon-Silicon Tournaments](ANU_Carbon-Silicon_Tournaments "ANU Carbon-Silicon Tournaments") before that. Highlights include a win against [IM](https://en.wikipedia.org/wiki/International_Master#International_Master_.28IM.29) [Guy West](https://en.wikipedia.org/wiki/Guy_West) the year he became [Australian Champion](https://en.wikipedia.org/wiki/Australian_Chess_Championship), and two third places in NC3.

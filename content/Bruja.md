@@ -8,19 +8,6 @@ title: Bruja
 
 a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), written in [C++](Cpp "Cpp") and first released in March 2004. In the program's readme file, Dan Honeycutt states that Bruja would never had come to be without the contributions of others, and credits [Adrien Regimbald](Adrien_Regimbald "Adrien Regimbald"), [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), and [Ed Schröder](Ed_Schroder "Ed Schroder") with their respective programs and descriptions as source of inspiration <a id="cite-note-2" href="#cite-ref-2">[2]</a> . A stripped version of Bruja, called [Simon](Simon "Simon"), was published as [open source engine](Category:Open_Source "Category:Open Source") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-- [2 Etymology](#etymology)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Bruja has a [bitboard](Bitboards "Bitboards") infrastructure, and uses [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). It performs strictly [legal move generation](Move_Generation#Legal "Move Generation").

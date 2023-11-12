@@ -8,26 +8,6 @@ title: Chiron
 
 a commercial chess engine by [Ubaldo Andrea Farina](Ubaldo_Andrea_Farina "Ubaldo Andrea Farina"), supporting both the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI"), the [PolyGlot](PolyGlot "PolyGlot") and [CTG](CTG "CTG") <a id="cite-note-2" href="#cite-ref-2">[2]</a> [opening book formats](Opening_Book#Formats "Opening Book"), various [endgame tablebase](Endgame_Tablebases "Endgame Tablebases") and [bitbase](Endgame_Bitbases "Endgame Bitbases") formats, and able to play [Chess960](Chess960 "Chess960"). The development started in 2002 and it has been under continuous development, underwent a major rewrite in 2009 using [bitboards](Bitboards "Bitboards"), and has been commercially released in October 2011 <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Chiron applies [parallel search](Parallel_Search "Parallel Search") on [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessor) systems, and has implemented [pawn blockage detection](Blockage_Detection "Blockage Detection") function <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, improved to detect blockages not only in [pawn endgame](Pawn_Endgame "Pawn Endgame") but also when there are a few pieces on the board <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. Chiron is available as [Windows](Windows "Windows") and [Android](Android "Android") version.
 
-## Contents
-
-- [1 Further Versions](#further-versions)
-  - [1.1 Chiron 2](#chiron-2)
-  - [1.2 Chiron 3](#chiron-3)
-  - [1.3 Chiron 4](#chiron-4)
-  - [1.4 Chiron 5](#chiron-5)
-- [2 Tournament Play](#tournament-play)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 WCCC 2006](#wccc-2006)
-  - [3.2 CCT14](#cct14)
-- [4 Acknowledgment](#acknowledgment)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-  - [8.1 Chess Engine](#chess-engine)
-  - [8.2 Misc](#misc)
-- [9 References](#references)
-
 ## Further Versions
 
 ## Chiron 2

@@ -11,20 +11,6 @@ Inside a [client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93se
 the Chess server is considered as [back end](https://en.wikipedia.org/wiki/Front_end_and_back_end), the client as front end. They exchange messages in a [request–response](https://en.wikipedia.org/wiki/Request%E2%80%93response) [messaging pattern](https://en.wikipedia.org/wiki/Messaging_pattern)
 as required by a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) on [application layer](https://en.wikipedia.org/wiki/Application_layer) level to establish or use a [communication channel](https://en.wikipedia.org/wiki/Communication_channel).
 
-## Contents
-
-- [1 ICS](#ics)
-- [2 Web Server](#web-server)
-- [3 Internet Chess Server](#internet-chess-server)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 Postings](#postings)
-  - [6.1 2000 ...](#2000-...)
-  - [6.2 2010 ...](#2010-...)
-  - [6.3 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## ICS
 
 [Internet chess server](https://en.wikipedia.org/wiki/Internet_chess_server) (ICS) are accessible via

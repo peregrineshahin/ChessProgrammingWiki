@@ -8,18 +8,6 @@ title: Blitz
 
 the first chess program by primary author [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and chess advisor [Albert Gower](Albert_Gower "Albert Gower") from [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi"). Blitz was a [Shannon Type B](Type_B_Strategy "Type B Strategy") program written in [Fortran](Fortran "Fortran"). It played the [ACM 1976](ACM_1976 "ACM 1976"), [ACM 1977](ACM_1977 "ACM 1977"), the [WCCC 1977](WCCC_1977 "WCCC 1977"). At this point it was rewritten as a [Shannon Type A](Type_A_Strategy "Type A Strategy") search due to the success of [Slate](David_Slate "David Slate")/[Atkin](Larry_Atkin "Larry Atkin") and [Chess 4.x](</Chess_(Program)#Chess_4.0_-_4.9> "Chess (Program)"). This version competed in the [ACM 1978](ACM_1978 "ACM 1978"), the [ACM 1979](ACM_1979 "ACM 1979") (ran on [UNIVAC 1100/80](UNIVAC_1100 "UNIVAC 1100")), until at the [ACM 1980](ACM_1980 "ACM 1980") successor [Cray Blitz](Cray_Blitz "Cray Blitz") appeared.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Source Code](#source-code)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Post](#forum-post)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Description
 
 [Bob Hyatt's](Robert_Hyatt "Robert Hyatt") reply to [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron") on Blitz <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

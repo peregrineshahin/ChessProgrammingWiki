@@ -8,14 +8,6 @@ title: Berta
 
 a private chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> written in [C](C "C")/[C++](Cpp "Cpp") by [Felix Schmenger](Felix_Schmenger "Felix Schmenger"). Berta regularly plays online at the [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and has participated at various [online tournaments](Tournaments_and_Matches#online "Tournaments and Matches"), such as [CCT tournaments](CCT_Tournaments "CCT Tournaments") and [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), most recently the [WCRCC 2018](WCRCC_2018 "WCRCC 2018").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [CCT 10: Berta by Felix Schmenger has entered](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=18561) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), December 26, 2007 » [CCT10](CCT10 "CCT10")

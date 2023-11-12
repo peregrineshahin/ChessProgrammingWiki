@@ -7,16 +7,6 @@ title: Faile
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible [open source chess program](Category:Open_Source "Category:Open Source") under the [MIT License](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology") by [Adrien M. Regimbald](Adrien_Regimbald "Adrien Regimbald"), written in [C](C "C") and last updated as version **1.4.4** in 2001. It is a good example of didactic programming, containing features similar to that of [Gerbil](Gerbil "Gerbil"), coded in a way much more digestible for beginners. [Faile](https://en.wikipedia.org/wiki/The_Dragon_Reborn) is the name of a character from the popular [Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) series by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan). Adrien wanted to use a different name from the series, but it was taken, and he eventually settled on Faile <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Faile uses a [12x12 mailbox](Mailbox "Mailbox") board representation plus [piece lists](Piece-Lists "Piece-Lists"), [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), [captures](Captures "Captures") [ordered](Move_Ordering "Move Ordering") by material gain, [check extensions](Check_Extensions "Check Extensions"), [null move pruning](Null_Move_Pruning "Null Move Pruning") with [mate threat extensions](Mate_Threat_Extensions "Mate Threat Extensions"), and [quiescence search](Quiescence_Search "Quiescence Search") inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework. [Evaluation](Evaluation "Evaluation") considers [material](Material "Material"), [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), [pawn structure](Pawn_Structure "Pawn Structure"), and some [rook](Evaluation_of_Pieces#Rook "Evaluation of Pieces") and [king safety](King_Safety "King Safety") terms.

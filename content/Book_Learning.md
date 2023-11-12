@@ -10,21 +10,6 @@ is a technique of unsupervised [reinforcement learning](Reinforcement_Learning "
 
 Unsupervised reinforcement learning is characterized by [trial and error](Trial_and_Error "Trial and Error") and feeding back reinforcement signals, in this context to modify move probabilities or to add new book moves. The signals are either based on the final outcome of the game, called result-driven learning, and/or by [search-driven](Search "Search") learning, i.e. from the [score](Score "Score") and trend of first few searches after leaving the book to determine how the program likes the position <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Chess Engines](#chess-engines)
-  - [1.1 Crafty](#crafty)
-  - [1.2 MChess](#mchess)
-  - [1.3 RomiChess](#romichess)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1998 ...](#1998-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Chess Engines
 
 ## Crafty

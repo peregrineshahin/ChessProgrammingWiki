@@ -9,15 +9,6 @@ title: Alejandro GonzC3A1lez Romero
 a Mexican computer scientist affiliated with the [Barcelona School of Informatics](https://en.wikipedia.org/wiki/Barcelona_School_of_Informatics) (Facultat d'Informàtica de Barcelona, FIB) of [Polytechnic University of Catalonia](https://en.wikipedia.org/wiki/Polytechnic_University_of_Catalonia), [Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Spain](https://en.wikipedia.org/wiki/Spain), and before with the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") and the [National Autonomous University of Mexico](https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico).
 His research interests include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), computer chess and [Scrabble](index.php?title=Scrabble&action=edit&redlink=1 "Scrabble (page does not exist)"). Alejandro González operated [FIBChess](FIBChess "FIBChess") by primary author [Guillermo Baches García](Guillermo_Baches_Garc%C3%ADa "Guillermo Baches García") during the [WCCC 2004](WCCC_2004 "WCCC 2004").
 
-## Contents
-
-- [1 Selected Publication](#selected-publication)
-  - [1.1 2004 ...](#2004-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publication
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

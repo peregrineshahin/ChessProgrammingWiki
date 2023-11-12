@@ -8,17 +8,6 @@ title: Gerbil
 
 an [open source chess engine](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, written by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), written for educational purposes. It has a decent search ([null move pruning](Null_Move_Pruning "Null Move Pruning"), [hash tables](Transposition_Table "Transposition Table")) but a rudimentary [evaluation](Evaluation "Evaluation") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Legal derivatives](#legal-derivatives)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Features
 
 Bruce on Gerbil <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

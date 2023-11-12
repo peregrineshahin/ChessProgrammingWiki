@@ -6,40 +6,6 @@ title: Combinatorial Logic
 \[ [half adder circuit diagram](https://en.wikipedia.org/wiki/Half_adder)
 A **Combinatorial Logic** (also Combinational Logic) is a [digital circuit](https://en.wikipedia.org/wiki/Digital_electronics) where one or more outputs are [boolean functions](https://en.wikipedia.org/wiki/Boolean_function) of multiple inputs. The basic boolean operations [conjunction](https://en.wikipedia.org/wiki/Logical_conjunction), [disjunction](https://en.wikipedia.org/wiki/Logical_disjunction) and [logical negation](https://en.wikipedia.org/wiki/Logical_negation) are sufficient to derive all other boolean as well as arithmetical operations. Opposed to a [sequential logic](Sequential_Logic "Sequential Logic"), outputs are not dependent on their history, that is a combinatorial logic does not require [memory](Memory "Memory").
 
-## Contents
-
-- [1 Implementation](#implementation)
-- [2 Basic Operations](#basic-operations)
-  - [2.1 AND](#and)
-    - [2.1.1 Truth Table](#truth-table)
-    - [2.1.2 Symbols and Circuits](#symbols-and-circuits)
-  - [2.2 OR](#or)
-    - [2.2.1 Truth Table](#truth-table-2)
-    - [2.2.2 Symbols and Circuits](#symbols-and-circuits-2)
-  - [2.3 NOT](#not)
-    - [2.3.1 Truth Table](#truth-table-3)
-    - [2.3.2 Symbols and Circuits](#symbols-and-circuits-3)
-- [3 Derived Operations](#derived-operations)
-  - [3.1 NAND](#nand)
-    - [3.1.1 Truth Table](#truth-table-4)
-    - [3.1.2 Symbols and Circuits](#symbols-and-circuits-4)
-  - [3.2 NOR](#nor)
-    - [3.2.1 Truth Table](#truth-table-5)
-    - [3.2.2 Symbols and Circuits](#symbols-and-circuits-5)
-  - [3.3 XOR](#xor)
-    - [3.3.1 Truth Table](#truth-table-6)
-    - [3.3.2 Symbols and Circuits](#symbols-and-circuits-6)
-- [4 DNF and CNF](#dnf-and-cnf)
-- [5 ALU](#alu)
-  - [5.1 Adder](#adder)
-  - [5.2 Combinatorial Attacks](#combinatorial-attacks)
-    - [5.2.1 C Syntax](#c-syntax)
-    - [5.2.2 Circuit](#circuit)
-- [6 Publications](#publications)
-- [7 See also](#see-also)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Implementation
 
 In hardware, combinatorial logic can either realized with hardwired [gates](https://en.wikipedia.org/wiki/Logic_gates) of certain [logic families](https://en.wikipedia.org/wiki/Logic_families) or [programmable logic devices](https://en.wikipedia.org/wiki/Programmable_logic_device). If the number of inputs is reasonable small, a once programmed [ROM](Memory#ROM "Memory") or [LUT](https://en.wikipedia.org/wiki/Lookup_table#Hardware_LUTs) can act as combinatorial logic. The inputs are the address, while one output is associated with a data-pin. In software this is like performing ALU-operations versus a memory lookup with pre-calculated outputs for all relevant inputs, related to the [space-time tradeoff](Space-Time_Tradeoff "Space-Time Tradeoff").

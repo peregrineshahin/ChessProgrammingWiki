@@ -8,17 +8,6 @@ title: Bell Laboratories
 
 also formerly known as [AT&T](https://en.wikipedia.org/wiki/American_Telephone_%26_Telegraph_Company) Bell Laboratories and Bell Telephone Laboratories, at [Murray Hill, New Jersey](https://en.wikipedia.org/wiki/Murray_Hill,_New_Jersey), USA, an American research and scientific development company, since 2016 owned by Finnish company [Nokia](https://en.wikipedia.org/wiki/Nokia) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 People](#people)
-  - [1.1 Computer Chess](#computer-chess)
-  - [1.2 Computer Science](#computer-science)
-  - [1.3 Programming Languages](#programming-languages)
-- [2 Chess Programs](#chess-programs)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## People
 
 ## Computer Chess

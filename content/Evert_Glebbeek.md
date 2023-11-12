@@ -10,17 +10,6 @@ a Dutch astrophysicist at [Radboud Universiteit Nijmegen](https://en.wikipedia.o
 As avocational games and chess programmer, Evert Glebbeek is author of the [open source engines](Category:Open_Source "Category:Open Source") [Jazz](Jazz "Jazz"), [Sjaak](</Sjaak_(Glebbeek)> "Sjaak (Glebbeek)") and [Leonidas](index.php?title=Leonidas&action=edit&redlink=1 "Leonidas (page does not exist)"), all under the terms of the [GNU General Public Licence](Free_Software_Foundation#GPL "Free Software Foundation").
 Sjaak and Leonidas are able to play various chess variants <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Sjaak not to confused with [Ronald de Man's](Ronald_de_Man "Ronald de Man") engine with the same name <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2006 ...](#2006-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2011 ...](#2011-...)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

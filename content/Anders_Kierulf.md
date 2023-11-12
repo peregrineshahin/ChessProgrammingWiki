@@ -8,15 +8,6 @@ title: Anders Kierulf
 
 a Swiss computer scientist, Ph.D. from [ETH Zurich](ETH_Zurich "ETH Zurich") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [3-dan Go player](https://en.wikipedia.org/wiki/Go_ranks_and_ratings), and since 1999 professional [Go](Go "Go") programmer. Anders is co-author of the veteran program [Explorer](https://www.game-ai-forum.org/icga-tournaments/program.php?id=144), which was developed along with [Martin Müller](Martin_M%C3%BCller "Martin Müller") and [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), playing [Computer Olympiads](Computer_Olympiad "Computer Olympiad") from 1989 until 2005, two times winning Gold medals. His commercial program [SmartGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=140) for [Windows](Windows "Windows") as well for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [iPhone](index.php?title=IPhone&action=edit&redlink=1 "IPhone (page does not exist)") and [iPad](index.php?title=IPad&action=edit&redlink=1 "IPad (page does not exist)") mobile devices is market by his own company *Smart Go, Inc.* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, located in [Utah](https://en.wikipedia.org/wiki/Utah).
 
-## Contents
-
-- [1 Smart Game Board](#smart-game-board)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1985 ...](#1985-...)
-  - [2.2 1990 ...](#1990-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Smart Game Board
 
 The **Smart Game Board**, topic of Kierulf's Ph.D. thesis, provides a [GUI](GUI "GUI") for [rapid prototyping](https://en.wikipedia.org/wiki/Rapid_prototyping) of game programs, and has been used for [Go](Go "Go"), [Go-Moku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)"), [Othello](Othello "Othello"), and [Chess](Chess "Chess"), among others <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Along with *Go Explorer*, the Smart Game Board was introduced by [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") at the [New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989") workshop during the [WCCC 1989](WCCC_1989 "WCCC 1989") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, further elaboared by [Martin Müller](Martin_M%C3%BCller "Martin Müller") at the [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") workshop of the [2nd Computer Olympiad](2nd_Computer_Olympiad "2nd Computer Olympiad") in 1990 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

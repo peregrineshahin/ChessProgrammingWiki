@@ -11,14 +11,6 @@ He received his B.Sc., M.Sc. and Ph.D. from [University of British Columbia](htt
 in particular theoretical and practical aspects of the computation of solution concepts such as [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium), [Stackelberg equilibrium](https://en.wikipedia.org/wiki/Stackelberg_competition) and [correlated equilibrium](https://en.wikipedia.org/wiki/Correlated_equilibrium), and [multi-agent systems](https://en.wikipedia.org/wiki/Multi-agent_system).
 In his 2003 thesis *Implementation of Multi-ProbCut in Chess*, Albert Xin Jiang applied [Buro's](Michael_Buro "Michael Buro") [ProbCut](ProbCut "ProbCut") inside [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") [open source](Category:Open_Source "Category:Open Source") chess program [Crafty](Crafty "Crafty") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2003 ...](#2003-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

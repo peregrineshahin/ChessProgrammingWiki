@@ -8,13 +8,6 @@ title: Edoardo Manino
 
 an Italian computer scientist, chess player and computer chess programmer. He holds a B.Sc. and M.Sc. in [computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) from [Polytechnic University of Turin](https://en.wikipedia.org/wiki/Polytechnic_University_of_Turin) and [Polytechnic University of Milan](https://en.wikipedia.org/wiki/Polytechnic_University_of_Milan) respectively, and is currently [postgraduate research](https://en.wikipedia.org/wiki/Postgraduate_research) student at [University of Southampton](https://en.wikipedia.org/wiki/University_of_Southampton), researching in [machine learning](Learning "Learning") and [algorithmic game theory](https://en.wikipedia.org/wiki/Algorithmic_game_theory) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Edoardo is author of the [open source chess engines](Category:Open_Source "Category:Open Source") [ProChess](ProChess_IT "ProChess IT"), written in [Visual Basic](Basic "Basic") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and [RamJet](RamJet "RamJet"), written in [C](C "C").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

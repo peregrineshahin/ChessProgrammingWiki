@@ -9,15 +9,6 @@ title: Gupta
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible, cross-platform, didactic [open source chess engine](Category:Open_Source "Category:Open Source") by [Jelle Geerts](index.php?title=Jelle_Geerts&action=edit&redlink=1 "Jelle Geerts (page does not exist)"), written in [C++](Cpp "Cpp").
 Gupta maintains a [0x88](0x88 "0x88") board and applies plain [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-Beta") without [iterative deepening](Iterative_Deepening "Iterative Deepening") and [transposition table](Transposition_Table "Transposition Table") so far.
 
-## Contents
-
-- [1 Gambit GUI](#gambit-gui)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Gambit GUI
 
 Gupta comes with its own open source [GUI](GUI "GUI") based on [Qt](https://en.wikipedia.org/wiki/Qt_%28software%29), dubbed **Gambit** <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

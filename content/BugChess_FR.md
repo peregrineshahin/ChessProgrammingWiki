@@ -11,20 +11,6 @@ The early Bugchess versions starting in 1996 running under [MS-DOS](MS-DOS "MS-D
 and [Windows](Windows "Windows") were compiled with [Borland C++](Cpp "Cpp") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 and had their own [GUI](GUI "GUI").
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 BugChess2](#bugchess2)
-- [3 Selected Games](#selected-games)
-- [4 Namesake](#namesake)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2007 ...](#2007-...)
-  - [5.2 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Bug](#bug)
-- [7 References](#references)
-
 ## Screenshot
 
 [](File:Bugchess.jpg)

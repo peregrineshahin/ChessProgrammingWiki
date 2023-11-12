@@ -10,23 +10,6 @@ a chess program written by [Tony Marsland](Tony_Marsland "Tony Marsland"). The o
 
 In about 1977, the name was changed to Awit for two reasons. First, to put the program nearer the top of an alphabetical list and second (more importantly) to reflect the program's propensity to play subtle moves that were rife with fatal flaws. Awit-Wita was written in [Algol W](Algol "Algol") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and ran on [IBM 370](IBM_370 "IBM 370") under the [Michigan Terminal System](https://en.wikipedia.org/wiki/Michigan_Terminal_System) (MTS) <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Awit is a selective [Shannon type B searcher](Type_B_Strategy "Type B Strategy") with a lot of chess [knowledge](Knowledge "Knowledge") implemented, and therefor with 8 [Nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-5" href="#cite-ref-5">[5]</a> extremely slow with an impressive [strength](Playing_Strength "Playing Strength") / [nodes](Node "Node")-evaluated ratio, despite its inherent tactical flaws up and then.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Achievements](#achievements)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 BS6676](#bs6676)
-  - [3.2 Ostrich](#ostrich)
-  - [3.3 Phoenix](#phoenix)
-- [4 See also](#see-also)
-- [5 Source Code](#source-code)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-  - [8.1 Chess Program](#chess-program)
-  - [8.2 Misc](#misc)
-- [9 References](#references)
-
 ## Quotes
 
 Quote from the [ACM 1980](ACM_1980 "ACM 1980") booklet <a id="cite-note-6" href="#cite-ref-6">[6]</a>

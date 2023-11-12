@@ -8,16 +8,6 @@ title: David Wilkins
 
 an American computer scientist and [AI](Artificial_Intelligence "Artificial Intelligence") researcher at the [SRI International](https://en.wikipedia.org/wiki/SRI_International) [Artificial Intelligence Center](http://www.ai.sri.com/), where he has been since receiving his Ph.D. from [Stanford University](Stanford_University "Stanford University") in 1979 under thesis advisor [John McCarthy](John_McCarthy "John McCarthy"). *Using Patterns and Plans to Solve Problems and Control Search* covers his chess program [Paradise](Paradise "Paradise") that used [knowledge](Knowledge "Knowledge") to replace and control [search](Search "Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. His further research has centered on planning and reasoning about actions, knowledge representation, and the design and implementation of artificial intelligence systems, including the state of the art AI planner *SIPE-2: System for Interactive Planning and Execution* <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 AI as Sport](#ai-as-sport)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1979](#1979)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 1990 ...](#1990-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## AI as Sport
 
 Quote by [John McCarthy](John_McCarthy "John McCarthy") from *AI as Sport* <a id="cite-note-4" href="#cite-ref-4">[4]</a><a id="cite-note-5" href="#cite-ref-5">[5]</a>:

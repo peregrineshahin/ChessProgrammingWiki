@@ -9,20 +9,6 @@ title: Gunda1
 a [Crafty clone](Crafty#CraftyClones "Crafty") developed by a team of the [Gunadarma University](http://id.wikipedia.org/wiki/Universitas_Gunadarma), [Depok](https://en.wikipedia.org/wiki/Depok) and [Jakarta](https://en.wikipedia.org/wiki/Jakarta), [Indonesia](https://en.wikipedia.org/wiki/Indonesia), led by [Suryadi Harmanto](Suryadi_Harmanto "Suryadi Harmanto") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Gunda-1 based on Crafty 9.31 was allowed to play the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") at Gunadarma along with the "original" Crafty, as a concession of the [ICCA](ICCA "ICCA") to let the host participate with an own program. At the WMCCC players meeting it was agreed that Crafty had to play Gunda-1 in the first round as proposed by tournament director [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), to avoid possible later issues if it turned out, both programs may fight for the title. Also no other program had to play both. Gunda-1, operated by Dede Liu and Andi Suhendra, won the game from Crafty and finally both programs finished 4th (Crafty) and 5th.
 
-## Contents
-
-- [1 Wishes came true](#wishes-came-true)
-- [2 Clone vs. Original](#clone-vs.-original)
-- [3 Recognitions](#recognitions)
-  - [3.1 ICCA](#icca)
-  - [3.2 Robert Hyatt](#robert-hyatt)
-  - [3.3 Jaap van den Herik](#jaap-van-den-herik)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Wishes came true
 
 Excerpt from [Ratih Dewanti's](Ratih_Dewanti "Ratih Dewanti") tournament report, [ICCA Journal](ICGA_Journal "ICGA Journal"), December 1996 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

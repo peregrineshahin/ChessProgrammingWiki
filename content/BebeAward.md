@@ -12,24 +12,6 @@ While the hardware did no longer improve significantly since the mid 80s, the so
 
 After Tony Scherzer's early death in January 1995 <a id="cite-note-9" href="#cite-ref-9">[9]</a> , the work on Bebe discontinued, while *SYS-10, Inc.* continued, and is now a company providing custom software applications located in [South Elgin, Illinois](https://en.wikipedia.org/wiki/South_Elgin,_Illinois) <a id="cite-note-10" href="#cite-ref-10">[10]</a> , owned by Linda Scherzer since 1978 <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Achievements](#achievements)
-- [3 Selective Deepening](#selective-deepening)
-- [4 Descriptions](#descriptions)
-  - [4.1 1980](#1980)
-  - [4.2 1981-1986](#1981-1986)
-  - [4.3 1989](#1989)
-- [5 Mephisto Best-Publication Award](#mephisto-best-publication-award)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-  - [9.1 Chess Program](#chess-program)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Photos & Games
 
 [](File:ACM1984BebeNovag.JPG)

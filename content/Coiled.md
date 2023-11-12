@@ -8,20 +8,6 @@ title: Coiled
 
 an [UCI](UCI "UCI") compliant chess engine by [Oscar Gavira](index.php?title=Oscar_Gavira&action=edit&redlink=1 "Oscar Gavira (page does not exist)"), written in [C](C "C"), first released in 2013. Coiled **0.6**, released in July 2018 is available as 32-bit and 64-bit executable for [Windows](Windows "Windows") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Coiled-NNUE **0.7** was released in August 2021 as [Open Source](Category:Open_Source "Category:Open Source") licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"), using a [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") network with [CFish](CFish "CFish") derived probing code <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

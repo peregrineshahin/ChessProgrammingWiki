@@ -8,15 +8,6 @@ title: Cray T3E
 
 [Cray Research's](https://en.wikipedia.org/wiki/Cray#Cray_Research_Inc._and_Cray_Computer_Corporation:_1972_to_1996) second-generation [massively parallel](https://en.wikipedia.org/wiki/Massively_parallel_%28computing%29) [supercomputer](https://en.wikipedia.org/wiki/Supercomputer) architecture, launched in 1995 as successor of the [T3D](Cray_T3D "Cray T3D"). The T3E is a scalable [distributed](https://en.wikipedia.org/wiki/Distributed_computing) [NUMA](NUMA "NUMA") architecture containing up to 2176 processing element (PE) nodes of initially 300 MHz [DEC Alpha 21164](DEC_Alpha "DEC Alpha") processor with 64 MiB to 2 GiB of [DRAM](Memory#RAM "Memory") interconnected as a [3D torus](https://en.wikipedia.org/wiki/Torus_interconnect), so that each processor can access the memory of every other processor. Later models consists of faster Alpha 21164A and 21264 processors.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 Manuals](#manuals)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Chess Programs
 
 - [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)")

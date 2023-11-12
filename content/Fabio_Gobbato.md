@@ -10,16 +10,6 @@ an Italian computer chess programmer, and author of the [UCI](UCI "UCI") complia
 He has further written the didactic open source chess engine [QBBEngine](QBBEngine "QBBEngine") to demonstrate how to use [quad-bitboards](Quad-Bitboards "Quad-Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and the tool *ParserCutechess*, which parses the output of [Cutechess-cli](Cutechess-cli "Cutechess-cli") to create [match statistics](Match_Statistics "Match Statistics") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In July 2021, Fabio Gobbato announced his chess engine [Revenge](Revenge "Revenge") as commercial successor of Pedone <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2014](#2014)
-  - [1.2 2015](#2015)
-  - [1.3 2016 ...](#2016-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2014

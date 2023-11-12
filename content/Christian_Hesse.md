@@ -9,17 +9,6 @@ title: Christian Hesse
 a German mathematician and professor at Institute of Stochastics and Applications, [University of Stuttgart](https://en.wikipedia.org/wiki/University_of_Stuttgart) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, teaching [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics). He received his Ph.D. in 1987 from [Harvard University](Harvard_University "Harvard University") where his advisor was [Herman Chernoff](Mathematician#HChernoff "Mathematician") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, further lecturing at [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley") before moving to Stuttgart in 1991. His research in the areas of [statistics](https://en.wikipedia.org/wiki/Statistics) and [probability theory](https://en.wikipedia.org/wiki/Probability_theory) include [stochastic modelling](https://en.wikipedia.org/wiki/Stochastic_modelling_%28insurance%29) of [systems](https://en.wikipedia.org/wiki/Systems_theory) with [interaction](https://en.wikipedia.org/wiki/Interaction), and [analyzing data](https://en.wikipedia.org/wiki/Data_analysis). His further interest includes chess, and its correlations with the wider world, in particular [recreational mathematics](https://en.wikipedia.org/wiki/Recreational_mathematics).
 During the [Chess Olympiad, Dresden 2008](https://en.wikipedia.org/wiki/38th_Chess_Olympiad), he served as chess ambassador and lectured the opening presentation of the Olympiad side event [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics"). His book *The joys of chess* <a id="cite-note-4" href="#cite-ref-4">[4]</a> covers topics related to chess programming, such as elaborating on [Larry Kaufman's](Larry_Kaufman "Larry Kaufman") work on the [value of the pieces](Point_Value "Point Value") and the evaluation of [material](Material "Material") imbalances <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1987](#1987)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 ChessBase Postings](#chessbase-postings)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>

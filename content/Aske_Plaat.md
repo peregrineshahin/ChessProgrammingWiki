@@ -10,20 +10,6 @@ a Dutch computer scientiest and professor and scientific director of the Leiden 
 
 Aske Plaat is creator of the [MTD(f)](</MTD(f)> "MTD(f)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> search algorithm as applied in [Cilkchess](Cilkchess "Cilkchess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He is deputy editor of the [Journal of the International Computer Games Association](ICGA_Journal "ICGA Journal") [ICGA](ICGA "ICGA").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1994](#1994)
-  - [2.2 1995](#1995)
-  - [2.3 1996](#1996)
-  - [2.4 1997 ...](#1997-...)
-  - [2.5 2000 ...](#2000-...)
-  - [2.6 2010 ...](#2010-...)
-  - [2.7 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Advances in Computer Games 13 | Video](Advances_in_Computer_Games_13#Video "Advances in Computer Games 13")

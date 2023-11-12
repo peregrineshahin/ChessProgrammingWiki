@@ -5,23 +5,6 @@ title: Color FlippingDebugging
 
 **Color Flipping** a chess position refers to the [vertical flipping](Vertical_Flipping "Vertical Flipping") or mirroring of all [pieces](Pieces "Pieces") along the horizontal axis between the 4th and 5th [rank](Ranks "Ranks") also swapping the [color](Color "Color") of the flipped pieces from White to Black and vice versa, the [side to move](Side_to_move "Side to move"), the [castling rights](Castling_Rights "Castling Rights") and the rank of a possible [en passant](En_passant "En passant") target square from six to three or vice versa accordantly. The resulting position is mirror equivalent, pawn and pieces have the same [span length](Pawn_Spans "Pawn Spans") or home rank relation. A white pawn on the light square c2 becomes a black pawn on the dark square c7. Color flipping a vertical symmetrical or mirror position (same castling rights, no en passant possible) results in the same position as if the side to move performed a [null move](Null_Move "Null Move"):
 
-## Contents
-
-- [1 Sample](#sample)
-- [2 Book Transpositions](#book-transpositions)
-- [3 Flipping an 8x8 Board](#flipping-an-8x8-board)
-- [4 Looking for Bugs](#looking-for-bugs)
-- [5 Monochrome](#monochrome)
-  - [5.1 MicroChess](#microchess)
-  - [5.2 Quad-Bitboards](#quad-bitboards)
-  - [5.3 Six-Two Bitboards](#six-two-bitboards)
-  - [5.4 Keeping two Boards](#keeping-two-boards)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Sample
 
 |  Giuoco Piano

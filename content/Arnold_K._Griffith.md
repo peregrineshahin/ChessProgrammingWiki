@@ -12,14 +12,6 @@ His further research interests include [reinforcement learning](Reinforcement_Le
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and [game tree search](Search "Search").
 In 1976, he published an empirical exploration of the performance of [alpha-beta](Alpha-Beta "Alpha-Beta") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1960 ...](#1960-...)
-  - [1.2 1970 ...](#1970-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

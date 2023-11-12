@@ -10,20 +10,6 @@ a chess program by [Enrique Sánchez Acosta](Enrique_S%C3%A1nchez_Acosta "Enriqu
 and subsequently since 2001 commercially released as *Alfil Chess I* and *Alfil Chess 2.2* by *Hollywood Publishing* <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Alfil has become a free engine under [Windows](Windows "Windows"), compliant with [UCI](UCI "UCI"), and under [Linux](Linux "Linux"), compliant with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol"). More recent versions have a [parallel search](Parallel_Search "Parallel Search") with multiple [threads](Thread "Thread") and are able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 
-## Contents
-
-- [1 C# Engine Project](#c.23-engine-project)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2007 ...](#2007-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## C# Engine Project
 
 The [C#](C_sharp "C sharp") Engine Project, at first dubbed **Alfil 15** and released as [open source](Category:Open_Source "Category:Open Source") in 2015, started from [Stockfish v5](Stockfish "Stockfish") and various C# ports such as [Portfish](Portfish "Portfish"),

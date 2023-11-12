@@ -8,14 +8,6 @@ title: Gregory Strong
 an American professional software developer, Chess enthusiast, and author of [ChessV](ChessV "ChessV") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, an [open source engine](Category:Open_Source "Category:Open Source") that plays over 50 [chess variants](Chess#Variants "Chess") with various board sizes, as well as Orthodox Chess <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 He is further working on a chess engine dubbed [Quadrox](index.php?title=Quadrox&action=edit&redlink=1 "Quadrox (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2009](#2009)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2009

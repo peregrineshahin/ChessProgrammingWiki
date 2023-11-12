@@ -11,16 +11,6 @@ Diogenes performs a fast, [incremental updated](Incremental_Updates "Incremental
 Diogenes played several [International Paderborn Computer Chess Championships](IPCCC "IPCCC"), [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments") and three [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), [Munich 1993](WMCCC_1993 "WMCCC 1993"), [Paderborn 1995](WMCCC_1995 "WMCCC 1995") and [Jakarta 1996](WMCCC_1996 "WMCCC 1996") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Diogenes was at times released by [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Screenshot](#screenshot)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), round 7, [Schach 3.0](Schach "Schach") - Diogenes <a id="cite-note-5" href="#cite-ref-5">[5]</a>

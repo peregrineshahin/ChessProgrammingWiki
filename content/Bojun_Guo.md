@@ -10,16 +10,6 @@ He donates high-quality hardware for some communities such as [Fishtest](Stockfi
 [OpenBench](OpenBench "OpenBench") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and [TCEC](TCEC "TCEC") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 7-man Syzygy Bases](#7-man-syzygy-bases)
-- [2 Cloud Databases](#cloud-databases)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2016 ...](#2016-...)
-  - [3.2 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## 7-man Syzygy Bases
 
 In an 5-month attempt in 2018 - supported by [Ronald de Man](Ronald_de_Man "Ronald de Man") - Bojun Guo has generated all [7-men tables](Syzygy_Bases#7-man "Syzygy Bases") of [Syzygy Bases](Syzygy_Bases "Syzygy Bases") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

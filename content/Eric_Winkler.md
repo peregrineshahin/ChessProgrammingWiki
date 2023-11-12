@@ -8,16 +8,6 @@ title: Eric Winkler
 
 a Swiss physicist, technologist, businessman and manufacturer of [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics) and [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), holding a MSc in Physics from [ETH Zurich](ETH_Zurich "ETH Zurich") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, in 1978, along with [Peter Auge](Peter_Auge "Peter Auge") co-founder of [Novag](Novag "Novag"), and in 1979 founder and [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) of [SciSys](Saitek "Saitek") (Scientific Systems) located in [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong), 1987 renamed to [Saitek](Saitek "Saitek") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Acquisitions](#acquisitions)
-- [2 Inventions](#inventions)
-- [3 Associated People](#associated-people)
-  - [3.1 Programmers](#programmers)
-  - [3.2 Business & Chess](#business-.26-chess)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Acquisitions
 
 Saitek continued the [Mephisto](Mephisto "Mephisto") trademark after the acquisition of [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") in 1994 <a id="cite-note-4" href="#cite-ref-4">[4]</a> and its entire business operations in 2000. At the H&G [Extraordinary General Meeting](https://en.wikipedia.org/wiki/Extraordinary_General_Meeting) in December 2000, it was decided to change the company's name from Hegener + Glaser AG to [Stella Entertainment AG](https://de.wikipedia.org/wiki/Stella_AG) realizing 100% of the shares of the *Broadway Musical Management GmbH* (BMM), while Winkler concurrently resigned as member of the supervisory board. Stella became insolvent in 2002, partly acquired by [Stage Entertainment](https://en.wikipedia.org/wiki/Stage_Entertainment) - the German *Mantelaktien-Report* by Undervalued-Shares broached the issue <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

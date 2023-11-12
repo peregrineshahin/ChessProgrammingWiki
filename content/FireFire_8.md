@@ -8,22 +8,6 @@ title: FireFire 8
 
 an [UCI](UCI "UCI") compliant chess engine by [Norman Schmidt](Norman_Schmidt "Norman Schmidt") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, until version 3.0 derived from [IvanHoe](IvanHoe "IvanHoe") and the [Ippolit](Ippolit "Ippolit") series of programs with some help of [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"). Initially called Firebird, and later renamed to Fire due to a trademark naming conflict <a id="cite-note-3" href="#cite-ref-3">[3]</a>, it was released as open source, Fire licensed under the [GNU GPL](Free_Software_Foundation#GPL "Free Software Foundation"). The sources were later closed with [Windows](Windows "Windows") executables available for download for recent [Intel](Intel "Intel") processors <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Fire features [magic bitboards](Magic_Bitboards "Magic Bitboards"), it can be configured with more than 70 UCI options, and applies a [SMP parallel search](Parallel_Search "Parallel Search"). Since April 2021 with Fire **8.1**, the program is [open source](Category:Open_Source "Category:Open Source") again <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Fire 4](#fire-4)
-- [2 Fire 5, Fire 6.1](#fire-5.2c-fire-6.1)
-- [3 Fire 7.1](#fire-7.1)
-- [4 Fire 8](#fire-8)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2010 ...](#2010-...)
-  - [6.2 2015 ...](#2015-...)
-  - [6.3 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Fire 4
 
 Fire **4**, released in December 2014, was a compete re-write and does not use any source code from or related to [Ippolit](Ippolit "Ippolit"). It supports [Syzygy Bases](Syzygy_Bases "Syzygy Bases"), and includes a revamped memory management which uses [OpenMP](https://en.wikipedia.org/wiki/OpenMP) [#pragmas](https://en.wikipedia.org/wiki/C_preprocessor#Compiler-specific_preprocessor_features) to utilize [thread local storage](https://en.wikipedia.org/wiki/Thread-local_storage) <a id="cite-note-6" href="#cite-ref-6">[6]</a> and minimize the amount of 'shared' resources among [threads](Thread "Thread") for its [SMP implementation](Parallel_Search "Parallel Search"). [Testing](Engine_Testing "Engine Testing") was done via massive parallel, automated 24/7 ultra-fast chess engine matches using [Cutechess-cli](Cutechess-cli "Cutechess-cli") and [LittleBlitzer](LittleBlitzer "LittleBlitzer"). Code changes were tested to a very high level of confidence using [LOS](Match_Statistics#Likelihood_of_superiority "Match Statistics") and [SPRT](Match_Statistics#SPRT "Match Statistics") (min. 40,000 games) against a pool of top engines. Development and testing included approx. 200,000 - 240,000 ultra-fast games per day <a id="cite-note-7" href="#cite-ref-7">[7]</a>. According to a [CCC](CCC "CCC") posting by anonymous poster cucumber in September 2020, but in contradiction to Norman Schmidt's later statement <a id="cite-note-8" href="#cite-ref-8">[8]</a>, Fire 4 was later released as open source engine [Seagull](Gull#SeaGull "Gull") based on [Gull](Gull "Gull"), hiding its Fire 4 origin <a id="cite-note-9" href="#cite-ref-9">[9]</a>.

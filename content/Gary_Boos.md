@@ -8,13 +8,6 @@ title: Gary Boos
 an American senior transmission engineer, chess [class A](https://en.wikipedia.org/wiki/Elo_rating_system#United_States_Chess_Federation_ratings) and [Go](Go "Go") player, and computer chess and Go programmer.
 He received a [BSCE degree](https://en.wikipedia.org/wiki/Bachelor%27s_degree) in 1966 and a [MSCE degree](https://en.wikipedia.org/wiki/Master%27s_degree) in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering) in 1968 from the [University of Minnesota](University_of_Minnesota "University of Minnesota") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Game Playing Programs](#game-playing-programs)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Game Playing Programs
 
 Along with [James Mundstock](James_Mundstock "James Mundstock"), Gary Boos co-authored the chess programs [Mr. Turk](Mr._Turk "Mr. Turk") and [Iron Fish](Iron_Fish "Iron Fish").

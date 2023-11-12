@@ -7,16 +7,6 @@ title: Advances in Computer Chess 6
 
 The **6th Advances in Computer Chess** Conference was held at [Queen Mary & Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London"), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), on August 23 and 24, [1990](Timeline#1990 "Timeline"), in connection with the [2nd Computer Olympiad](2nd_Computer_Olympiad "2nd Computer Olympiad"). ACC is the conference of the [ICCA](ICCA "ICCA").
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Synopsis](#synopsis)
-- [3 Lectures](#lectures)
-- [4 See also](#see-also)
-- [5 Reports](#reports)
-- [6 Forum Posts](#forum-posts)
-- [7 References](#references)
-
 ## Proceedings
 
 - **Advances in Computer Chess 6**

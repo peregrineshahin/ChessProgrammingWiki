@@ -22,17 +22,6 @@ a discussion with [John McCarthy](John_McCarthy "John McCarthy") led to McCarthy
 gives details in her seminal book *[Machines Who Think](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")* <a id="cite-note-7" href="#cite-ref-7">[7]</a>,
 with some quotes below, including from an interview with Alex Bernstein.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Machines Who Think](#machines-who-think)
-  - [1.2 John McCarthy](#john-mccarthy)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Quotes
 
 ## [Machines Who Think](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")

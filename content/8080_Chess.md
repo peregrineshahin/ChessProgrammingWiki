@@ -7,13 +7,6 @@ title: 8080 Chess
 
 a chess program by [Robert Arnstein](Robert_Arnstein "Robert Arnstein") for [S-100 bus](https://en.wikipedia.org/wiki/S-100_bus) [microcomputers](https://en.wikipedia.org/wiki/Microcomputer), consisted of the pins of the [Intel](Intel "Intel") [8080](8080 "8080") run out onto the [backplane](https://en.wikipedia.org/wiki/Backplane). It was commercially marketed in the 70s by [Processor Technology Corporation](https://en.wikipedia.org/wiki/Processor_Technology). The 8080 Chess manual is still available online. 8080 Chess was the first microcomputer to participate in an [ACM North American Computer Chess Championship](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), the [ACM 1977](ACM_1977 "ACM 1977") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. It further played the [Second West Coast Computer Faire Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") in March 1978 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Screenshot
 
 [](File:8080Chess.JPG)

@@ -11,14 +11,6 @@ As [open source](https://en2.wikipedia.org/wiki/Open_source_movement) and game p
 He further wrote the [Go](Go "Go") playing program *Stop* <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 Other new chess programs: [Feeks](Feeks "Feeks"), [CaffeinatedPawn](index.php?title=CaffeinatedPawn&action=edit&redlink=1 "CaffeinatedPawn (page does not exist)"), [Dolly](index.php?title=Dolly&action=edit&redlink=1 "Dolly (page does not exist)") and [Dog](Dog "Dog").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2012 ...](#2012-...)
-  - [1.2 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2012 ...

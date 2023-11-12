@@ -6,48 +6,6 @@ title: Go
 \[ 19\*19 Go board [[1]](#cite_note-1)
 The game of **Go** has attracted game researchers and programmers as an ambitious [AI-challenge](Artificial_Intelligence "Artificial Intelligence"). [Albert Zobrist](Albert_Zobrist "Albert Zobrist") was a pioneer, who wrote the first Go program in 1968 as part of his Ph.D. Thesis on [pattern recognition](Pattern_Recognition "Pattern Recognition") [[2]](#cite_note-2). Chess programmers, beside others, [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") and [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") became successful Go programmers with their programs [CrazyStone](index.php?title=CrazyStone&action=edit&redlink=1 "CrazyStone (page does not exist)") and [Leela](index.php?title=Leela&action=edit&redlink=1 "Leela (page does not exist)") respectively. Competitive computer Go, as organized by the [ICGA](ICGA "ICGA") [[3]](#cite_note-3), is played on boards with 9x9 as well with default 19x19 [grids](https://en.wikipedia.org/wiki/Grid_graph). Since Go lacks a simple [evaluation](Evaluation "Evaluation") function mainly based on counting [material](Material "Material"), attempts to apply similar techniques and algorithms as in chess were less successful. The breakthrough in computer Go was accomplished by [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") and [deep learning](Deep_Learning "Deep Learning").
 
-## Contents
-
-- [1 Progress](#Progress)
-  - [1.1 Monte-Carlo Go](#Monte-Carlo_Go)
-  - [1.2 CNNs](#CNNs)
-  - [1.3 AlphaGo](#AlphaGo)
-  - [1.4 AlphaGo Zero & AlphaZero](#AlphaGo_Zero_.26_AlphaZero)
-  - [1.5 Fine Art](#Fine_Art)
-- [2 Quotes](#Quotes)
-- [3 Computer Olympiads](#Computer_Olympiads)
-- [4 See also](#See_also)
-  - [4.1 Search](#Search)
-  - [4.2 Learning](#Learning)
-  - [4.3 Misc](#Misc)
-  - [4.4 Videos on Go](#Videos_on_Go)
-- [5 Selected Publications](#Selected_Publications)
-  - [5.1 1960 ...](#1960_...)
-  - [5.2 1970 ...](#1970_...)
-  - [5.3 1980 ...](#1980_...)
-  - [5.4 1990](#1990)
-  - [5.5 1995 ...](#1995_...)
-  - [5.6 2000 ...](#2000_...)
-  - [5.7 2005 ...](#2005_...)
-  - [5.8 2010 ...](#2010_...)
-  - [5.9 2015 ...](#2015_...)
-  - [5.10 2020 ...](#2020_...)
-- [6 Forum Posts](#Forum_Posts)
-  - [6.1 2005 ...](#2005_..._2)
-  - [6.2 2010 ...](#2010_..._2)
-  - [6.3 2015 ...](#2015_..._2)
-  - [6.4 2020 ...](#2020_..._2)
-- [7 External Links](#External_Links)
-  - [7.1 Tournaments](#Tournaments)
-  - [7.2 Computer Go Archives](#Computer_Go_Archives)
-  - [7.3 Computer Go Pages](#Computer_Go_Pages)
-  - [7.4 Open Source](#Open_Source)
-  - [7.5 Misc](#Misc_2)
-  - [7.6 Go Challenge](#Go_Challenge)
-  - [7.7 AlphaGo](#AlphaGo_2)
-  - [7.8 Fine Art](#Fine_Art_2)
-- [8 References](#References)
-
 ## Progress
 
 ## Monte-Carlo Go

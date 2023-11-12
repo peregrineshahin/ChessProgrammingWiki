@@ -8,25 +8,6 @@ title: Fabien Letouzey
 
 a French computer chess and games programmer and developer of the chess programs [Fruit](Fruit "Fruit") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Chess-64](Chess-64 "Chess-64") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Senpai](Senpai "Senpai"), the [Othello](Othello "Othello") programs *Turtle*, *Snail* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, *Piloth* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, *Decapus* (10x10) and *Octopus* (8x8), the latter Gold medal winners at the [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Othello "20th Computer Olympiad"), the [UCI](UCI "UCI")-[Winboard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") adapter [PolyGlot](PolyGlot "PolyGlot"), and the [International Draughts](Draughts "Draughts") programs *Toy* <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and [Scan](index.php?title=Scan&action=edit&redlink=1 "Scan (page does not exist)"), which surprised the Draughts scene in winning the [18th Computer Olympiad, Leiden 2015](18th_Computer_Olympiad#Draughts "18th Computer Olympiad"), and defended its title in [2016](19th_Computer_Olympiad#Draughts "19th Computer Olympiad") and [2017](20th_Computer_Olympiad#Draughts "20th Computer Olympiad") respectively. Fabien further works with [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") to improve his [Go](Go "Go") playing program [Crazy Stone](index.php?title=Crazy_Stone&action=edit&redlink=1 "Crazy Stone (page does not exist)") due to [deep learning](Deep_Learning "Deep Learning") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Fruit](#fruit)
-- [2 Anniversary](#anniversary)
-- [3 Photos](#photos)
-  - [3.1 Fruit](#fruit-2)
-  - [3.2 Scan](#scan)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1999](#1999)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2000 ...](#2000-...-2)
-  - [5.2 2005 ...](#2005-...)
-  - [5.3 2010 ...](#2010-...-2)
-  - [5.4 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Fruit
 
 The release of [Fruit](Fruit "Fruit") until version 2.1 under [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") was a "revolution" in computer chess in 2005 - an [open source program](Category:Open_Source "Category:Open Source") was "suddenly" competitive with the long time leading programs [Shredder](Shredder "Shredder") and [Junior](Junior "Junior"), as demonstrated at the [WCCC 2005](WCCC_2005 "WCCC 2005"), where Fruit became runner up behind [Zappa](Zappa "Zappa"). After the great success of Reykjavik, and Fabien Letouzey met his professional colleagues, he decided to close the source and to go commercial - short after Fruit derivate appeared, based on the source code of Fruit 2.1, most notably [Toga](Toga "Toga") <a id="cite-note-8" href="#cite-ref-8">[8]</a> by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch"). Fabien finished his commercial computer chess career so far in 2007 <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Fruit 2.3+ is non [GPL](Free_Software_Foundation#GPL "Free Software Foundation") with full rights given to [Ryan Benitez](Ryan_Benitez "Ryan Benitez"), while Fruit 2.1 is now owned by the [Free Software Foundation](Free_Software_Foundation "Free Software Foundation") <a id="cite-note-10" href="#cite-ref-10">[10]</a>.

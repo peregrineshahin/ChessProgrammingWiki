@@ -8,20 +8,6 @@ title: Alarm
 
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Benny Antonsson](Benny_Antonsson "Benny Antonsson") and [Erik Robertsson](Erik_Robertsson "Erik Robertsson"), written in [C++](Cpp "Cpp"). Alarm, the Diabolic Chess Engine <a id="cite-note-2" href="#cite-ref-2">[2]</a>, was first released in July 2003 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and was first mentioned in 2001 formerly called **Deamon** <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Alarm played four [CCT Tournaments](CCT_Tournaments "CCT Tournaments") from 2003 to 2006, the [CCT5](CCT5 "CCT5"), [CCT6](CCT6 "CCT6"), [CCT7](CCT7 "CCT7") and the [CCT8](CCT8 "CCT8").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

@@ -5,32 +5,6 @@ title: Engine Rating Lists
 
 There are several independent and private **Engine Rating Lists** for various [time controls](Time_Management "Time Management") (TC). The classical [SSDF](SSDF "SSDF") rating list, sanctioned by the [ICGA](ICGA "ICGA"), and already started in the 80s with [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") is the most established and acknowledged.
 
-## Contents
-
-- [1 Rating Lists](#rating-lists)
-  - [1.1 CCRL](#ccrl)
-  - [1.2 CEGT](#cegt)
-  - [1.3 ChessWar](#chesswar)
-  - [1.4 FCT](#fct)
-  - [1.5 FGRL](#fgrl)
-  - [1.6 G 6](#g-6)
-  - [1.7 IPON](#ipon)
-  - [1.8 KCEC](#kcec)
-  - [1.9 RWBC](#rwbc)
-  - [1.10 Selective Search](#selective-search)
-  - [1.11 SPCC](#spcc)
-  - [1.12 SSDF](#ssdf)
-  - [1.13 TCEC](#tcec)
-  - [1.14 UEL](#uel)
-  - [1.15 WBEC](#wbec)
-- [2 See also](#see-also)
-- [3 CC Forums - Tournaments and Matches](#cc-forums---tournaments-and-matches)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2010 ...](#2010-...)
-  - [5.2 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-
 ## Rating Lists
 
 *Numbers as of 2010 June, 25*

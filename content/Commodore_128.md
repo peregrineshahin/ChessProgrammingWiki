@@ -8,15 +8,6 @@ title: Commodore 128
 
 an 8-bit [home computer](https://en.wikipedia.org/wiki/Home_computer) released by [Commodore Business Machines](https://en.wikipedia.org/wiki/Commodore_International) in 1985 as significantly expanded successor of the [Commodore 64](Commodore_64 "Commodore 64"). It was a two processor machine with 128 [KiB](https://en.wikipedia.org/wiki/Kilobyte) of [RAM](Memory#RAM "Memory"), using a [6502](6502 "6502") aka C64 compatible [8502](https://en.wikipedia.org/wiki/MOS_Technology_8502) processor, and a [Zilog](https://en.wikipedia.org/wiki/Zilog) [Z80](Z80 "Z80") CPU to run [CP/M](https://en.wikipedia.org/wiki/CP/M) beside [Commodore BASIC](https://en.wikipedia.org/wiki/Commodore_BASIC). An unusual feature of the C128 among CP/M systems is that some of the low-level [BIOS](https://en.wikipedia.org/wiki/BIOS) routines are executed by the 8502 instead of the Z80. The latter transfers control to the 8502 after placing the pertinent parameter values in designated memory locations. The Z80 then turns itself off, being awakened by the 8502 at completion of the BIOS routine, with status value(s) available in RAM for inspection <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Chess Programs](#chess-programs)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](WMCCC_1985#Video "WMCCC 1985#Video")

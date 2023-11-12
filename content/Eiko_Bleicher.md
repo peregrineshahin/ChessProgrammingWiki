@@ -10,16 +10,6 @@ a German computer scientist, programmer, and author of the analysis tool for che
 Eiko Bleicher was student of [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") at [Friedrich-Schiller-Universität, Jena](https://en.wikipedia.org/wiki/University_of_Jena), and published a paper about Freezer's ideas, called *Building Chess Endgame Databases for Positions with many Pieces using A-priori Information*. <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Eiko cooperates with [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"). and is involved in co-developing [Endgame Bitbases](Endgame_Bitbases "Endgame Bitbases") for [Shredder](Shredder "Shredder"), dubbed Shredderbases <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Freezer is commercial, available through [shredderchess.com](Shredder "Shredder") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2004 ...](#2004-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.althofer.de/workshop-2008.html)

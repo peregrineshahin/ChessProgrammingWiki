@@ -9,15 +9,6 @@ title: Antonio Ceballos
 a Spanish project manager, software engineer and M.Sc. in telecommunication from [Universidad Politécnica de Madrid](https://en.wikipedia.org/wiki/Technical_University_of_Madrid) in 1996.
 He is co-maintainer of [GNU Chess](GNU_Chess "GNU Chess") since version 6 was released in 2011 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Postings](#postings)
-  - [1.1 2010 ...](#2010-...)
-  - [1.2 2015 ...](#2015-...)
-  - [1.3 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Postings
 
 ## 2010 ...

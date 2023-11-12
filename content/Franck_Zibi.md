@@ -9,13 +9,6 @@ title: Franck Zibi
 a French computer scientist, chess player, and senior developer at [Societe Generale](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale) Corporate and Investment Banking <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 As computer chess programmer, he is author of the chess programs [HpChess](HpChess "HpChess") for the [HP48](https://en.wikipedia.org/wiki/HP-48_series) calculators family written in [C](C "C"), and its successors, the [WinBoard](WinBoard "WinBoard") compatible engines [ZChess](ZChess "ZChess") and [Pharaon](Pharaon "Pharaon"), both written in [C++](Cpp "Cpp"), the latter also [UCI](UCI "UCI") conform.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.ludochess.com/trn_massy2002/tournoi.php3)

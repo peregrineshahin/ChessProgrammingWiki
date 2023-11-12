@@ -10,15 +10,6 @@ a chess program for the [Sinclair ZX81](Sinclair_ZX81 "Sinclair ZX81"), written 
 
 1K ZX Chess was further released by [Sinclair Research](index.php?title=Sinclair&action=edit&redlink=1 "Sinclair (page does not exist)") in 1982 <a id="cite-note-9" href="#cite-ref-9">[9]</a> . The program could only play white starting either with 1.e4 or 1.d4. [Castling](Castling "Castling"), [promotions](Promotions "Promotions") and [en passant](En_passant "En passant") were not implemented, while a version for the unexpanded 2K [Timex Sinclair 1000](https://en.wikipedia.org/wiki/Timex_Sinclair_1000) include these moves <a id="cite-note-10" href="#cite-ref-10">[10]</a> .
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Screenshot
 
 [](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess.html)\

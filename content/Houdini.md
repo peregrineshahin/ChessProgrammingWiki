@@ -8,32 +8,6 @@ title: Houdini
 
 a chess engine by [Robert Houdart](Robert_Houdart "Robert Houdart"), which appeared in 2010 as closed source engine, free for non-commercial use. In January 2011, Houdini **1.5** was leading [Ingo Bauer's](Ingo_Bauer "Ingo Bauer") [IPON](IPON "IPON") [rating list](Engine_Rating_Lists "Engine Rating Lists") [[2]](#cite_note-2). Houdini **2**, released in September 2011, is commercial and bundled with a number of [ChessOK](ChessOK "ChessOK") products, such as [Aquarium](Aquarium "Aquarium"), [Chess Assistant](Chess_Assistant "Chess Assistant") [[3]](#cite_note-3), and since December 2011, [Chess King](index.php?title=Chess_King&action=edit&redlink=1 "Chess King (page does not exist)") [[4]](#cite_note-4). Houdini 1.5a remains available as a free download [[5]](#cite_note-5). Houdini **3**, released in October 2012, has further improved by more than 50 Elo points [[6]](#cite_note-6). According to its author, Houdini 3 applies a accelerated [principal variation search](Principal_Variation_Search "Principal Variation Search"), also dubbed "Smart" [Fail-High](Fail-High "Fail-High"). If a different move becomes [best](Best_Move "Best Move") at very high [search depths](Depth "Depth") at the [root](Root "Root"), re-searches to determine its [exact score](Exact_Score "Exact Score") and the new [principal variation](Principal_Variation "Principal Variation") are done faster due to a reduced search depth, presumably in conjunction with [extensions](Extensions "Extensions") along the PV [[7]](#cite_note-7). Since November 2012, Houdini 3 is available as [ChessBase](ChessBase "ChessBase") engine [[8]](#cite_note-8) . Houdini **4**, released in November 2013, was about 50 Elo stronger than its predecessor, and features 6-men [Syzygy bases](Syzygy_Bases "Syzygy Bases").
 
-## Contents
-
-- [1 Houdini 5](#Houdini_5)
-- [2 Houdini 6](#Houdini_6)
-- [3 Houdini's Origin](#Houdini.27s_Origin)
-  - [3.1 Sources of Inspiration](#Sources_of_Inspiration)
-  - [3.2 Material Table](#Material_Table)
-  - [3.3 Strelka 5](#Strelka_5)
-  - [3.4 Stockfish](#Stockfish)
-- [4 Release Dates](#Release_Dates)
-- [5 Publications](#Publications)
-  - [5.1 Chess Engine](#Chess_Engine)
-  - [5.2 Harry Houdini](#Harry_Houdini)
-- [6 Postings](#Postings)
-  - [6.1 2010 ...](#2010_...)
-  - [6.2 2015 ...](#2015_...)
-  - [6.3 2020 ...](#2020_...)
-- [7 External Links](#External_Links)
-  - [7.1 Chess Engine](#Chess_Engine_2)
-    - [7.1.1 Purchase](#Purchase)
-    - [7.1.2 Interviews](#Interviews)
-    - [7.1.3 Reports](#Reports)
-    - [7.1.4 Rating Lists](#Rating_Lists)
-  - [7.2 Harry Houdini](#Harry_Houdini_2)
-- [8 References](#References)
-
 ## Houdini 5
 
 Released about three years after the previous version, in November 2016, **Houdini 5** is vastly improved being about 200 Elo stronger than Houdini 4. It has a completely rewritten [evaluation](Evaluation "Evaluation") with more aggressive [king safety](King_Safety "King Safety") and sophisticated [piece mobility](Mobility "Mobility"), features a more [selective](Selectivity "Selectivity") [search](Search "Search"), exploring critical variations significantly deeper, and for hardware with multiple processors, [Lazy SMP](Lazy_SMP "Lazy SMP"). Houdini **5 Pro** supports up to 128 [threads](Thread "Thread"), up to 128 GiB of [hash memory](Shared_Hash_Table "Shared Hash Table"), [large memory pages](Memory#HugePages "Memory"), [NUMA-architecture](NUMA "NUMA"), and [Nalimov tablebases](Nalimov_Tablebases "Nalimov Tablebases") to find the shortest path to [mate](Checkmate "Checkmate").

@@ -8,16 +8,6 @@ title: Golch
 
 an experimental chess engine by [Artem Pyatakov](Artem_Petakov "Artem Petakov"). Initially written in early 2001 <a id="cite-note-2" href="#cite-ref-2">[2]</a> during his [freshman](https://en.wikipedia.org/wiki/Freshman) year at [Princeton University](https://en.wikipedia.org/wiki/Princeton_University), it was a conventional chess program written in [C](C "C"), using a [0x88](0x88 "0x88") [board representation](Board_Representation "Board Representation") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [alpha-beta](Alpha-Beta "Alpha-Beta"), [iterative deepening](Iterative_Deepening "Iterative Deepening"), [transposition table](Transposition_Table "Transposition Table") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic"), along with all the domain dependent tricks in [move ordering](Move_Ordering "Move Ordering") (i.e searching [captures](Captures "Captures") first), [selectivity](Selectivity "Selectivity") and [evaluation](Evaluation "Evaluation"). In 2001, Golch was active at [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The program was later used as test-bed for Pyatakov's [senior thesis](https://en.wikipedia.org/wiki/Thesis#United_States) *Improving Computer Chess through Machine Learning* <a id="cite-note-6" href="#cite-ref-6">[6]</a> under advisor [Robert Schapire](Robert_Schapire "Robert Schapire") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. The aim was to narrow the claimed gap between [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") methods and computer chess methods and tricks, manifested as human-generated, domain dependent ideas that happened to work without a good theoretical justification and cannot be easily generalized to other games <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Perceptron](#perceptron)
-- [2 History Heuristic](#history-heuristic)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Perceptron
 
 The [online-learning](Learning "Learning") approach to replace classical evaluation by a [single layer perceptron](Neural_Networks#Perceptron "Neural Networks"), combining a [feature vector](https://en.wikipedia.org/wiki/Feature_vector), [representing the board](Board_Representation "Board Representation"), with a set of adjustable weights, trained by [supervised move adaption](Automated_Tuning#SupervisedLearning "Automated Tuning") with some [test-positions](Test-Positions "Test-Positions") such as the [Bratko-Kopec Test](Bratko-Kopec_Test "Bratko-Kopec Test") produced slightly disappointing results. The feature-vector used had 64 binary elements of an [occupied bitboard](Occupancy "Occupancy"), and a 16x16 [attack map](Attack_and_Defend_Maps "Attack and Defend Maps") <a id="cite-note-9" href="#cite-ref-9">[9]</a>, which hopefully distinguished attacked but sufficiently defended pieces or pawns from pieces or pawns [en prise](En_prise "En prise").

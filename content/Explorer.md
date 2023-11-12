@@ -11,13 +11,6 @@ In 1993, Edward de Grijs came up with a new chess special purpose hardware contr
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 searching 350,000 [nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 Despite losing, Explorer's first official game at the [DOCCC 1991](DOCCC_1991 "DOCCC 1991") round 1 versus [Shess](Shess "Shess"), was quite entertaining and worth to be published in [ICCA Journal](ICGA_Journal#14_4 "ICGA Journal") as one of two games in [Peter van Diepen's](Peter_van_Diepen "Peter van Diepen") report ...

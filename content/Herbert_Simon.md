@@ -8,28 +8,6 @@ title: Herbert Simon
 
 was an American scientist and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") pioneer, [economist](https://en.wikipedia.org/wiki/Economist), [psychologist](Category:Psychologist "Category:Psychologist"), and professor, most notably, at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), which became an important center of AI and computer chess, associated with names like [Hans Berliner](Hans_Berliner "Hans Berliner"), [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Murray Campbell](Murray_Campbell "Murray Campbell") and the computers [HiTech](HiTech "HiTech") and [Deep Thought](Deep_Thought "Deep Thought"). Herbert Simon received many top-level honors, most notably the [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) (with [Allen Newell](Allen_Newell "Allen Newell")) (1975) for his AI-contributions [[2]](#cite_note-2) and the [Nobel Memorial Prize in Economics](https://en.wikipedia.org/wiki/Nobel_Prize_in_Economics) for his pioneering research into the decision-making process within economic organizations (1978) [[3]](#cite_note-3).
 
-## Contents
-
-- [1 Photos](#Photos)
-- [2 NSS](#NSS)
-- [3 Quotes](#Quotes)
-  - [3.1 John McCarthy](#John_McCarthy)
-  - [3.2 Hans Berliner](#Hans_Berliner)
-  - [3.3 George W. Baylor](#George_W._Baylor)
-  - [3.4 Fernand Gobet](#Fernand_Gobet)
-- [4 Chess Projects](#Chess_Projects)
-- [5 See also](#See_also)
-- [6 Autobiography](#Autobiography)
-- [7 Selected Publications](#Selected_Publications)
-  - [7.1 1956 ...](#1956_...)
-  - [7.2 1960 ...](#1960_...)
-  - [7.3 1970 ...](#1970_...)
-  - [7.4 1980 ...](#1980_...)
-  - [7.5 1990 ...](#1990_...)
-  - [7.6 2000 ...](#2000_...)
-- [8 External Links](#External_Links)
-- [9 References](#References)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1)

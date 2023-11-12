@@ -5,18 +5,6 @@ title: Castling Rights
 
 The **Castling Rights** specify whether both sides are principally able to [castle](Castling "Castling") king- or queen side, now or later during the game - whether the involved pieces have already moved or in case of the rooks, were captured. Castling rights do not specify, whether castling is actually possible, but are a pre-condition for both wing castlings. Two [bits](Bit "Bit") per side are appropriate to store the castling rights, often one uses one [nibble](Nibble "Nibble") to store the rights for both sides inside a [position](Chess_Position "Chess Position") object, a kind a [array](Array "Array") of four booleans.
 
-## Contents
-
-- [1 Irreversibility](#irreversibility)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1999](#1999)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2010 ...](#2010-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Irreversibility
 
 In [make move](Make_Move "Make Move") one has to consider that king-moves including castling itself reset both castling bits per side. Rook-moves from their original [square](Squares "Squares"), or [captures](Captures "Captures") of rooks on their original squares reset the appropriate castling bits per wing and side. Changed castling rights should be considered in the [zobrist key](Zobrist_Hashing "Zobrist Hashing") of the position, to reflect the irreversibility of the otherwise [reversible move](Reversible_Moves "Reversible Moves"), concerning [repetitions](Repetitions "Repetitions"). On the other hand, changed castling rights don't necessarily reset the [halfmove clock](Halfmove_Clock "Halfmove Clock") regarding the [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.

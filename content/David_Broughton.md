@@ -8,13 +8,6 @@ title: David Broughton
 
 was a British computer consultant and computer chess programmer. His first chess program [Vega](Vega "Vega"), written on the [Z80](Z80 "Z80") [North Star Horizon](https://en.wikipedia.org/wiki/NorthStar_Horizon) machine, had finished 2nd behind [Sargon](Sargon "Sargon") at the [2nd PCW-MCC](PCW-MCC_1979 "PCW-MCC 1979") tournament held in London in November 1979, and he was soon recruited by [David Levy](David_Levy "David Levy") and [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") to work for their companies [Philidor Software](Philidor_Software "Philidor Software") and since 1981 [Intelligent Software](Intelligent_Software "Intelligent Software"). He worked on the project [Philidor](Philidor "Philidor") which [8086](8086 "8086") port emerged to [Parker Chess](Parker_Chess "Parker Chess"), and to the [SciSys](Saitek "Saitek") [Chess Champion Mark V](Chess_Champion_Mark_V "Chess Champion Mark V") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Broughton’s work for the Mark V was in the form of Z80 [assembly](Assembly "Assembly"). As the Mark V had a [6502](6502 "6502") processor, the program had to be extensively translated and rewritten. So credit for the Mark V program has to go both to [Mark Taylor](Mark_Taylor "Mark Taylor") and David Broughton, though David Levy is known to credit the Mark V to Taylor <a id="cite-note-3" href="#cite-ref-3">[3]</a>. David Broughton died on February 02, 2017. His wife Dina died more recently on March 10, 2019 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

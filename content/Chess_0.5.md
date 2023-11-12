@@ -10,23 +10,6 @@ a program by [Larry Atkin](Larry_Atkin "Larry Atkin") and [Peter W. Frey](Peter_
 
 Larry Atkin is co-author of the famous [Northwestern University](Northwestern_University "Northwestern University") [Chess](</Chess_(Program)> "Chess (Program)") line of programs. At the time of the article, Chess was at about version 4.6 <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Chess 0.5 is based on his intimate knowledge of that program, but is a seperate program designed for pedagogical purposes to play chess vaguely well <a id="cite-note-6" href="#cite-ref-6">[6]</a> using Chess 4.x like structures of a [Shannon Type A](Type_A_Strategy "Type A Strategy") approach with [alpha-beta](Alpha-Beta "Alpha-Beta") and [quiescence search](Quiescence_Search "Quiescence Search"), [bitboards](Bitboards "Bitboards") and [incremental updated](Incremental_Updates "Incremental Updates") [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps").
 
-## Contents
-
-- [1 Blueprint](#blueprint)
-- [2 Description](#description)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Bitboard Infrastructure](#bitboard-infrastructure)
-    - [2.2.1 Setwise Operations](#setwise-operations)
-    - [2.2.2 BitScan](#bitscan)
-    - [2.2.3 Popcount](#popcount)
-  - [2.3 Evaluation](#evaluation)
-  - [2.4 Search](#search)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Blueprint
 
 As encouraged by Frey and Atkin in their article "The reader with an interest in chess and programming should use this listing as starting point for developing a program" <a id="cite-note-7" href="#cite-ref-7">[7]</a> , Chess 0.5 was origin of at least three other competing programs, the Austrian [Merlin](Merlin "Merlin") by [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Marcus Wagner](Marcus_Wagner "Marcus Wagner") and [Roland Schreier](index.php?title=Roland_Schreier&action=edit&redlink=1 "Roland Schreier (page does not exist)"), further developed in Pascal except some time critical, often called routines, which were re-written in [CDC](CDC_6600 "CDC 6600") [assembly](Assembly "Assembly") by Wagner <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> , the Dutch [Chess 0.5X](Chess_0.5X "Chess 0.5X") by [Wim Elsenaar](Wim_Elsenaar "Wim Elsenaar"), a [PDP-11](PDP-11 "PDP-11") assembly port, and according to postings in [rgcc](Computer_Chess_Forums "Computer Chess Forums") <a id="cite-note-10" href="#cite-ref-10">[10]</a> , the Finnish [Shy](Shy "Shy") by [Juha Kasanen](Juha_Kasanen "Juha Kasanen"), [Mika Korhonen](Mika_Korhonen "Mika Korhonen") and [Timo Saari](Timo_Saari "Timo Saari"), written in [Algol](Algol "Algol").

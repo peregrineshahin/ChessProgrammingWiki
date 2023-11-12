@@ -8,18 +8,6 @@ title: Doch
 an [UCI](UCI "UCI") compliant chess engine by primary author [Don Dailey](Don_Dailey "Don Dailey"), supported by chess advisor and evaluation expert and Don's long time collaborator [Larry Kaufman](Larry_Kaufman "Larry Kaufman").
 The development started in 2007 <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and it was first released to the public as free engine in fall 2009 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Komodo](#komodo)
-- [2 Etymology](#etymology)
-- [3 Copy-Make](#copy-make)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Komodo
 
 In January 2010, Doch evolved to [Komodo](Komodo "Komodo") <a id="cite-note-3" href="#cite-ref-3">[3]</a> to become one of the strongest programs ever.

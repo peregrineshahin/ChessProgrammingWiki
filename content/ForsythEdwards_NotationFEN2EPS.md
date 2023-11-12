@@ -5,30 +5,6 @@ title: ForsythEdwards NotationFEN2EPS
 
 **Forsyth-Edwards Notation** (**FEN**) describes a [Chess Position](Chess_Position "Chess Position"). It is an one-line [ASCII](https://en.wikipedia.org/wiki/ASCII)-string. **FEN** is based on a system created by Scotsman [David Forsyth](David_Forsyth "David Forsyth") in the 19th century. [Steven Edwards](Steven_Edwards "Steven Edwards") specified the **FEN standard** for computer chess applications as part of the [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 FEN Syntax](#fen-syntax)
-  - [1.1 Piece Placement](#piece-placement)
-  - [1.2 Side to move](#side-to-move)
-  - [1.3 Castling ability](#castling-ability)
-  - [1.4 En passant target square](#en-passant-target-square)
-  - [1.5 Halfmove Clock](#halfmove-clock)
-  - [1.6 Fullmove counter](#fullmove-counter)
-- [2 Samples](#samples)
-- [3 Chess960](#chess960)
-  - [3.1 Shredder-FEN](#shredder-fen)
-  - [3.2 X-FEN](#x-fen)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1993 ...](#1993-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-  - [5.6 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## FEN Syntax
 
 One FEN string or record consists of **six** fields separated by a space character. The first four fields of the FEN specification are the same as the first four fields of the [EPD](Extended_Position_Description "Extended Position Description") specification.

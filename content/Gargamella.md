@@ -8,19 +8,6 @@ title: Gargamella
 
 a [WinBoard](WinBoard "WinBoard") compliant chess engine written by [Nicola Rizzuti](Nicola_Rizzuti "Nicola Rizzuti"), first released in December 2001 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Gargamella played the [CIPS 2002](CIPS_2002 "CIPS 2002") Campionato Italiano per Programmi Scacchistici with 3/6.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Quotes](#quotes)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 Esc](#esc)
-  - [3.2 Golem](#golem)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Etymology
 
 The programs name was inspired by [Gargamella](http://it.wikipedia.org/wiki/Gargamella), Italian for [Gargamel](https://en.wikipedia.org/wiki/Gargamel) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, the [Evil Wizard](Category:Magic "Category:Magic") is the sworn enemy of the [Smurfs](https://en.wikipedia.org/wiki/The_Smurfs) from the Belgian comic and television franchise centered on a group of small blue fictional creatures, created and first introduced as a series of comic characters by the Belgian comics artist [Peyo](https://en.wikipedia.org/wiki/Peyo) in 1958 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, published by [Dupuis](https://en.wikipedia.org/wiki/Dupuis). Further, [Gargamella](https://en.wikipedia.org/wiki/Gargamella) is a [genus](https://en.wikipedia.org/wiki/Genus) of sea [slugs](https://en.wikipedia.org/wiki/Slug), dorid [nudibranchs](https://en.wikipedia.org/wiki/Nudibranch), shell-less [marine](https://en.wikipedia.org/wiki/Marine_%28ocean%29) [gastropod](https://en.wikipedia.org/wiki/Gastropoda) [molluscs](https://en.wikipedia.org/wiki/Mollusc) in the family [Discodorididae](https://en.wikipedia.org/wiki/Discodorididae) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

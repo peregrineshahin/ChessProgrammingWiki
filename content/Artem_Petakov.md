@@ -10,15 +10,6 @@ an Ukrainian born, American computer scientist, software engineer, and co-founde
 
 Artem Petakov holds a Bachelor of Art from [Princeton University](https://en.wikipedia.org/wiki/Princeton_University), where he studied [computer science](https://en.wikipedia.org/wiki/Computer_science), [finance](https://en.wikipedia.org/wiki/Finance), and [theater](https://en.wikipedia.org/wiki/Theatre) from 2000 to 2004, and also took [Daniel Kanheman's](https://en.wikipedia.org/wiki/Daniel_Kahneman) *[psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)") of [decision making](https://en.wikipedia.org/wiki/Decision-making)* class <a id="cite-note-6" href="#cite-ref-6">[6]</a>. His CS interests at that time were [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [machine learning](Learning "Learning"), and [hardware](Hardware "Hardware") and processor related topics, such as [memory](Memory "Memory") access and [branch predictor](https://en.wikipedia.org/wiki/Branch_predictor), and their considerations in compiler [optimization](Optimization "Optimization"). During his [freshman](https://en.wikipedia.org/wiki/Freshman) year at Princeton, he had written a chess engine which played under the handle [Golch](Golch "Golch") at [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, and was also test-bed for his [senior thesis](https://en.wikipedia.org/wiki/Thesis#United_States) *Improving Computer Chess through Machine Learning* <a id="cite-note-8" href="#cite-ref-8">[8]</a> under advisor [Robert Schapire](Robert_Schapire "Robert Schapire") <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2001](#2001)
-  - [2.2 2004](#2004)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-10" href="#cite-ref-10">[10]</a>

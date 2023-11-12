@@ -5,13 +5,6 @@ title: CPWEngine main
 
 The main routine of the engine.
 
-## Contents
-
-- [1 Code](#code)
-  - [1.1 Header](#header)
-  - [1.2 int main()](#int-main.28.29)
-- [2 External Calls](#external-calls)
-
 ## Code
 
 ## Header

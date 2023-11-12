@@ -8,28 +8,6 @@ title: Donald Knuth
 
 a renowned computer scientist, mathematician, writer, scholar, and [Professor Emeritus](https://en.wikipedia.org/wiki/Professor_Emeritus) at [Stanford University](Stanford_University "Stanford University"), [California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), and been called the "father" of the analysis of [algorithms](Algorithms "Algorithms") - in [1975](Timeline#1975 "Timeline") he analyzed [Alpha-Beta](Alpha-Beta "Alpha-Beta") along with Ronald W. Moore, first formulating its [Node Types](Node_Types "Node Types") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Beside his fundamental contributions to several branches of computer science and mathematics, Knuth is the creator of the [TeX](https://en.wikipedia.org/wiki/TeX) computer typesetting system.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 McCarthy](#mccarthy)
-  - [1.2 Knuth](#knuth)
-- [2 Alpha-Beta](#alpha-beta)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1960 ...](#1960-...)
-  - [4.2 1970 ...](#1970-...)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 1990 ...](#1990-...)
-  - [4.5 2000 ...](#2000-...)
-  - [4.6 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Donald Knuth](#donald-knuth)
-  - [5.2 Ershov Archive](#ershov-archive)
-  - [5.3 Interviews](#interviews)
-  - [5.4 Topics](#topics)
-  - [5.5 Videos](#videos)
-- [6 References](#references)
-
 ## Quotes
 
 ## McCarthy

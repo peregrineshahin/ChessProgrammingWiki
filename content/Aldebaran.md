@@ -10,15 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess program by [Mauro Scarpa](inde
 first released in April 2001. Aldebaran's aim was [testing](Engine_Testing "Engine Testing") some [automated tuning](Automated_Tuning "Automated Tuning") of the [evaluation](Evaluation "Evaluation"), and [learning](Learning "Learning"), and otherwise uses the common [iterative deepening](Iterative_Deepening "Iterative Deepening"), [quiescence search](Quiescence_Search "Quiescence Search"), and [move ordering](Move_Ordering "Move Ordering") with [PV](Principal_Variation "Principal Variation") and [history heuristic](History_Heuristic "History Heuristic").
 Aldebaran played the [CIPS 2001](CIPS_2001 "CIPS 2001") and [CIPS 2002](CIPS_2002 "CIPS 2002") [Italian Computer Chess Championships](Italian_Computer_Chess_Championship "Italian Computer Chess Championship").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [CIPS 2002](CIPS_2002 "CIPS 2002"), round 2, [Golem](Golem "Golem") - Aldebaran

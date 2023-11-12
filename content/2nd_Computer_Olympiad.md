@@ -8,36 +8,6 @@ title: 2nd Computer Olympiad
 [](http://www.flickriver.com/photos/tags/queenmarycollege/interesting/) Octagon [[1]](#cite_note-1)
 The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#1990 "Timeline"), in the Octagon library of [Queen Mary & Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London"), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). In [Chess](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad"), [Mephisto](Mephisto "Mephisto") by [Richard Lang](Richard_Lang "Richard Lang") took revenge on [Rebel](Rebel "Rebel"), first time running on an [ARM2](ARM2 "ARM2") processor, from [last years](1st_Computer_Olympiad#Chess "1st Computer Olympiad") defeat and managed a 100% score. Newcomer [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") was a great surprise, and [Kaissa](Kaissa#PC "Kaissa") was a new program with an old name, developed by a 9-member team around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") [[2]](#cite_note-2). The second Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") workshop, soon followed by [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"). Proceedings were edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published in 1991 [[3]](#cite_note-3).
 
-## Contents
-
-- [1 Results](#Results)
-  - [1.1 Awari](#Awari)
-  - [1.2 Backgammon](#Backgammon)
-  - [1.3 Bridge](#Bridge)
-  - [1.4 Checkers](#Checkers)
-  - [1.5 Chess](#Chess)
-    - [1.5.1 Final Standing](#Final_Standing)
-    - [1.5.2 Participants](#Participants)
-    - [1.5.3 Selected Games](#Selected_Games)
-  - [1.6 Chinese Chess](#Chinese_Chess)
-  - [1.7 Go](#Go)
-    - [1.7.1 19x19](#19x19)
-    - [1.7.2 9x9](#9x9)
-  - [1.8 Gomoku](#Gomoku)
-  - [1.9 Othello](#Othello)
-  - [1.10 Qubic](#Qubic)
-  - [1.11 Renju](#Renju)
-  - [1.12 Scrabble](#Scrabble)
-- [2 Publications](#Publications)
-  - [2.1 Reports](#Reports)
-  - [2.2 Heuristic Programming in AI](#Heuristic_Programming_in_AI)
-    - [2.2.1 Tournaments](#Tournaments)
-    - [2.2.2 Conference](#Conference)
-- [3 See also](#See_also)
-- [4 Forum Posts](#Forum_Posts)
-- [5 External Links](#External_Links)
-- [6 References](#References)
-
 ## Results
 
 ## [Awari](Awari "Awari")

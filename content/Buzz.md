@@ -10,17 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 Buzz is a [bitboard](Bitboards "Bitboards") engine and applies Pradu Kannan's main stream implementation of [Magic Bitboards](Magic_Bitboards "Magic Bitboards") with individual table sizes for each square, later dubbed [Fancy Magic Bitboards](Magic_Bitboards#Fancy "Magic Bitboards"), the generator is available as open source from the Buzz site. Buzz got a 2.2 x speedup from 32-bits to 64-bits on [Core2](X86 "X86") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. It uses a kind of [principal variation search](Principal_Variation_Search "Principal Variation Search"), dubbed Node-Type Search (NTS), explicitly considering [node types](Node_Types "Node Types") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and utilizes multiple [threads](Thread "Thread") for a [parallel search](Parallel_Search "Parallel Search"). In collaboration with [Andres Valverde](Andres_Valverde "Andres Valverde") and [Fonzy Bluemers](Fonzy_Bluemers "Fonzy Bluemers"), Buzz' search was incorporated into the team effort [Dirty](Dirty "Dirty").
 
-## Contents
-
-- [1 Tournaments](#tournaments)
-- [2 Photos & Games](#photos-.26-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Tournaments
 
 So far, Buzz played the first three [ACCA Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), the [ACCA 2006](ACCA_2006 "ACCA 2006"), [ACCA 2007](ACCA_2007 "ACCA 2007"), and [ACCA 2008](ACCA_2008 "ACCA 2008"), the first two [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), as well the [CCT9](CCT9 "CCT9").

@@ -8,24 +8,6 @@ title: Gull
 
 an [UCI](UCI "UCI") compliant [open source engine](Category:Open_Source "Category:Open Source") in the [public domain](https://en.wikipedia.org/wiki/Public_domain) by [ThinkingALot](ThinkingALot "ThinkingALot") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, inspired by ideas and code from other open source engines, notably from [IvanHoe](IvanHoe "IvanHoe") of the [Ippolit](Ippolit "Ippolit") family of programs, and from [Strelka](Strelka "Strelka"), whose authors are suspected of [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering) [Rybka](Rybka "Rybka"), to examine and use her ideas. [Ron Murawski's](Ron_Murawski "Ron Murawski") Computer-Chess Wiki mentions GullChess as IvanHoe derivative <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The further socialization of concrete implementations with disputed origin in the public domain, as already started with Ippolit, remains a highly controversial topic.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Releases & Forks](#releases-.26-forks)
-  - [2.1 Gull 2.1](#gull-2.1)
-  - [2.2 Gull 2.8 beta](#gull-2.8-beta)
-  - [2.3 Gull 3](#gull-3)
-  - [2.4 LazyGull](#lazygull)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2010 ...](#2010-...)
-  - [4.2 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-  - [5.1 Source Code Repositories](#source-code-repositories)
-  - [5.2 Rating](#rating)
-  - [5.3 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 Gull applies [magic bitboards](Magic_Bitboards "Magic Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), a [material table](Material_Tables "Material Tables") indexing scheme with disjoint light and dark bishops, [PVS](Principal_Variation_Search "Principal Variation Search") with [aspiration windows](Aspiration_Windows "Aspiration Windows"), and a [parallel search](Parallel_Search "Parallel Search") based on [processes](Process "Process"). Version 1.2 is written in compact and neat [C++](Cpp "Cpp") code and consists of only one single source file. It features [generic](Generic_Programming "Generic Programming") function templates in [recursive](Recursion "Recursion") search routines as well in various functions called by search, i.e. for [move generation](Move_Generation "Move Generation"), with [side to move](Side_to_move "Side to move") and [hash-move](Hash_Move "Hash Move") exclusion for [singular extensions](Singular_Extensions "Singular Extensions") as boolean template parameters, delegating conditions on these to compile-time.

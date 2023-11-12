@@ -10,14 +10,6 @@ a [cartridge](Module "Module") chess program for [Atari 8-bit](Atari_8-bit "Atar
 In 1979, a revised version of the program was released by [Atari](https://en.wikipedia.org/wiki/Atari) as *Computer Chess*, adapted for the Atari 400/800.
 A [joystick](https://en.wikipedia.org/wiki/Joystick) was used to move the pieces.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Tournament Play
 
 Two instances of the program played the [North American Microcomputer Chess Championship](MCC_1980 "MCC 1980") 1980 in [San Jose, California](https://en.wikipedia.org/wiki/San_Jose,_California), where Atari A gained a respectable 50% score <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

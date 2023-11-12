@@ -8,23 +8,6 @@ title: Connectivity
 
 in computer chess, a loosely defined property to quantify positional play based on the [graph theoretical](https://en.wikipedia.org/wiki/Graph_theory) relationship between the [chess pieces](Pieces "Pieces") and the [squares](Squares "Squares") they [control](Square_Control "Square Control") on the [chessboard](Chessboard "Chessboard"). [Danny Kopec](Danny_Kopec "Danny Kopec"), [Ed Northam](Ed_Northam "Ed Northam"), [David Podber](index.php?title=David_Podber&action=edit&redlink=1 "David Podber (page does not exist)") and [Yehya Fouda](index.php?title=Yehya_Fouda&action=edit&redlink=1 "Yehya Fouda (page does not exist)") proposed a connectivity term with some scaling required as sum of products of a value for each own protected pawn and own protected piece in the inverse order of their [point value](Point_Value "Point Value"), i.e. {P=50, N=35, B=30, R=10, Q=4} times a value looked up by their up to three direct or [x-ray](X-ray "X-ray") protectors, i.e. {Single: P=8.00, B=4.50, N=4.00, R=3.00, K=2.50, Q=2.0; Double: PP=15.00, QK=4.00, ...; Triple: PPN=18.00, ...} <a id="cite-note-2" href="#cite-ref-2">[2]</a>. This stems from the idea that the less mobile a piece is, the more protection it needs. The connectivity term encourages [pawn chains](Pawn_Chain "Pawn Chain"), and discourages [loose pieces](Loose_Piece "Loose Piece"). Originally, Kopec et al. used the computation of [entropy](https://en.wikipedia.org/wiki/Entropy), a term taken from physics, which measures the tendency of matter to increase in its level of disorder. A low entropy score was indicative of a high degree of protection and a high connectivity score.
 
-## Contents
-
-- [1 Trajectories](#trajectories)
-- [2 Simplex and Complex](#simplex-and-complex)
-- [3 Distance](#distance)
-- [4 Chess Neighborhood](#chess-neighborhood)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-  - [6.1 1970 ...](#1970-...)
-  - [6.2 1980 ...](#1980-...)
-  - [6.3 1990 ...](#1990-...)
-  - [6.4 2000 ...](#2000-...)
-  - [6.5 2010 ...](#2010-...)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Trajectories
 
 More complex models concerning connectivity in chess, also considering [progressive mobility](Mobility#ProgressiveMobility "Mobility"), were proposed and elaborated by various researchers. To mention is [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") within his [Pioneer](Pioneer "Pioneer") project with the hierarchical mathematical projection (MP) of [trajectories](Trajectory "Trajectory"), zones consisting of a network of main trajectories conform to attacking or defending plans, opponent's counter trajectories and own supporting counter-counter trajectories <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

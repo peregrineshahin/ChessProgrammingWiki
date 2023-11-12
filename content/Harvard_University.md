@@ -9,15 +9,6 @@ title: Harvard University
 a private [Ivy League](https://en.wikipedia.org/wiki/Ivy_League) [research university](https://en.wikipedia.org/wiki/Research_university) in [Cambridge, Massachusetts](https://en.wikipedia.org/wiki/Cambridge,_Massachusetts), [United States](https://en.wikipedia.org/wiki/United_States).
 Established in 1636 and named for clergyman [John Harvard](<https://en.wikipedia.org/wiki/John_Harvard_(clergyman)>), its history, influence, and wealth have made it one of the world's most prestigious universities. Harvard is the United States' [oldest institution of higher learning](https://en.wikipedia.org/wiki/Colonial_colleges) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 Tournaments](#tournaments)
-- [4 Photos](#photos)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## People
 
 - [Reid Barton](Reid_Barton "Reid Barton")

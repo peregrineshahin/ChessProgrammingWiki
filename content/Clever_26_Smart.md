@@ -11,14 +11,6 @@ In dependence on the German conversion of the Spanish [comic](Category:Comics "C
 Their [move proposals](Best_Move "Best Move"), and additional data from their [search](Search "Search") [processes](Process "Process") are given to an automatic control program, the Boss ([Superintendente Vicente](http://es.wikipedia.org/wiki/Superintendente_Vicente) aka *El Súper* or *Mister L*), which makes the final choice and [controls the time](Time_Management "Time Management") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Clever & Smart played the [IPCCC 1998](IPCCC_1998 "IPCCC 1998") in Paderborn where it ran on a [Dual processor](https://en.wikipedia.org/wiki/Dual_processor) [PC](IBM_PC "IBM PC"), and became runner-up behind [Nimzo98](Nimzo "Nimzo") due to less resistance points.
 
-## Contents
-
-- [1 The Triple Brain](#the-triple-brain)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## The Triple Brain
 
 |  |  |  |

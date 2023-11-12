@@ -10,13 +10,6 @@ a Mexican software developer, computer chess programmer and author of the minima
 With the improved *Toledo Nanochess* , Óscar held the lead in *The World's Smallest Chess Program* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, in a tough competition with [H.G. Muller's](Harm_Geert_Muller "Harm Geert Muller") [Micro-Max](Micro-Max "Micro-Max").
 Óscar further won multiple categories at the 19th IOCCC in 2006 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Most Portable Chess Set for Toledo 2 with [GUI](GUI "GUI") and Best of Show award with his [Intel](Intel "Intel") [8080](8080 "8080") emulator.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Post](#forum-post)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Óscar Toledo Gutiérrez (**2009**). *The World's Smallest Chess Program*. [ICGA Journal, Vol. 32, No. 1](ICGA_Journal#32_1 "ICGA Journal")

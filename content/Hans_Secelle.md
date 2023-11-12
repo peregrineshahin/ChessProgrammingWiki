@@ -8,15 +8,6 @@ title: Hans Secelle
 
 a Belgian tax mediator <a id="cite-note-2" href="#cite-ref-2">[2]</a>, computer chess programmer, [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"), journalist ([Computerschaak](Computerschaak "Computerschaak")) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, chess and [shogi](Shogi "Shogi") player, first ever European Shogi champion (1985, with a 7-0 score) and former [FESA](http://www.shogi.net/fesa/) (Federation of European Shogi Associations) president <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Hans was arbiter of the [Livingston Chess960 Computer World Championship](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship") at the [Chess Classic](http://www.chesstigers.de/ccm9.php?lang=1) in Mainz, the [Chess960CWC 2007](Chess960CWC_2007 "Chess960CWC 2007") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [Chess960CWC 2008](Chess960CWC_2008 "Chess960CWC 2008") and [Chess960CWC 2009](Chess960CWC_2009 "Chess960CWC 2009") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Bionic](#bionic)
-- [3 Bionic Impakt](#bionic-impakt)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 [](http://www.quarkchess.de/csvn2001/body_index.html)

@@ -10,21 +10,6 @@ a Belgian electrical engineer, philosopher and researcher with interests in the 
 
 Albrecht Heeffer was member of the [Bionic Impakt](Bionic_Impakt "Bionic Impakt") team with [Hans Secelle](Hans_Secelle "Hans Secelle"), and provided the hardware, [worked](Engine_Testing "Engine Testing") through the [test sets](Test-Positions "Test-Positions"), added the [endgame databases](Endgame_Tablebases "Endgame Tablebases") and did some optimizations <a id="cite-note-7" href="#cite-ref-7">[7]</a>, while they later joined the [Ant](Ant "Ant") team around [Tom Vijlbrief](Tom_Vijlbrief "Tom Vijlbrief").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1984](#1984)
-  - [2.2 1985 ...](#1985-...)
-  - [2.3 1995 ...](#1995-...)
-  - [2.4 2000 ...](#2000-...)
-  - [2.5 2005 ...](#2005-...)
-  - [2.6 2010 ...](#2010-...)
-  - [2.7 2015 ....](#2015-....)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://titanic.nyme.hu/%7Ewyx/csvn2001/)

@@ -8,16 +8,6 @@ title: Anubis
 
 a private [WinBoard](WinBoard "WinBoard") compliant chess engine by [José Carlos Martínez Galán](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán"), its development started in 2003 as successor of [Averno](Averno "Averno"). Anubis is a [bitboard](Bitboards "Bitboards") engine, and in its first version generated [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") using [Kogge-Stone-like algorithms](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Completely re-written in 2012 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Anubis played some private tournaments by [Sergio Martinez](index.php?title=Sergio_Martinez&action=edit&redlink=1 "Sergio Martinez (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Quote](#quote)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2003 ...](#2003-...)
-  - [3.2 2012 ...](#2012-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Quote
 
 [José Carlos Martínez Galán](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán") in 2012 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

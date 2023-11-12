@@ -10,14 +10,6 @@ a programmer in the [internet security](https://en.wikipedia.org/wiki/Internet_s
 He introduced and published a [Linux](Linux "Linux") port of the [Gull 3](Gull "Gull") chess engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 which subsequently evolved to [LazyGull](Gull#LazyGull "Gull") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, further incorporating his [Fathom](Syzygy_Bases#Fathom "Syzygy Bases") [Syzygy tablebase](Syzygy_Bases "Syzygy Bases") probing tool <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2015](#2015)
-  - [1.2 2016](#2016)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2015

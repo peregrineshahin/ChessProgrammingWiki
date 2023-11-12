@@ -10,17 +10,6 @@ an Austrian [economist](https://en.wikipedia.org/wiki/Economics) currently at th
 
 As avocational chess programmer Edmund Moshammer has been involved in the development of the [CPW-Engine](CPW-Engine "CPW-Engine") and [Glass Chess Engine](Glass "Glass"), working with [Pawel Koziol](Pawel_Koziol "Pawel Koziol") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. A side project was the creation of the Glass opening book format and the corresponding tool, the Glass Opening Book Manager <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In March 2014, Edmund Moshammer introduced a port of [UCI](UCI "UCI") to [JavaScript](JavaScript "JavaScript") dubbed [JSUCI](index.php?title=JSUCI&action=edit&redlink=1 "JSUCI (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Fields of Interest](#fields-of-interest)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2009](#2009)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Fields of Interest
 
 *in Computerchess*

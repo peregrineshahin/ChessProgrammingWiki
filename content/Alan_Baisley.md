@@ -7,14 +7,6 @@ title: Alan Baisley
 
 was an American chess master <a id="cite-note-1" href="#cite-ref-1">[1]</a> and computer scientist. As [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")-student he was chess expert, tester, and [book-author](Category:Opening_Book_Author "Category:Opening Book Author") of [Mac Hack](Mac_Hack "Mac Hack") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and [Tech](Tech "Tech"), the Technology Chess Program by [James Gillogly](James_Gillogly "James Gillogly") from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"). [Tech 2](Tech#Tech2 "Tech") was Alan Baisley's own implementation, re-written and further developed in [assembly](Assembly "Assembly") language on a [PDP-10](PDP-10 "PDP-10") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. It gained about 25% in speed over the [BLISS](http://en.wikipedia.org/wiki/BLISS) version on the same machine <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Tech 2 was runner-up at the [ACM 1973](ACM_1973 "ACM 1973"), with Tech also competing <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and further participated at the [WCCC 1974](WCCC_1974 "WCCC 1974") in [Stockholm](https://en.wikipedia.org/wiki/Stockholm) <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Alan Baisley transferred to [Berkeley](http://en.wikipedia.org/wiki/Berkeley,_California), where he became involved with the [counterculture](http://en.wikipedia.org/wiki/Counterculture_of_the_1960s) of the late 1960's and early 1970's. The word was that he died of a [drug overdose](https://en.wikipedia.org/wiki/Drug_overdose) while still a very young man <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 Robert Q](#robert-q)
-  - [1.2 WCCC 1974](#wccc-1974)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos & Games
 
 ## Robert Q

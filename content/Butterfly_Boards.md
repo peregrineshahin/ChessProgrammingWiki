@@ -8,23 +8,6 @@ title: Butterfly Boards
 
 two-dimensional [arrays](Array "Array") (typically of various history counters for each color), indexed by the [from-](Origin_Square "Origin Square") and [to-square](Target_Square "Target Square") coordinates of (valid and likely [quiet](Quiet_Moves "Quiet Moves")) [moves](Moves "Moves"), which appear inside the [search](Search "Search"). Those counters can then be used for [move ordering](Move_Ordering "Move Ordering") as mentioned in the [history heuristic](History_Heuristic "History Heuristic"), or to decide about [late move reductions](Late_Move_Reductions "Late Move Reductions") and [history leaf pruning](History_Leaf_Pruning "History Leaf Pruning"). Another application is a kind of [killer-](Killer_Heuristic "Killer Heuristic") or [refutation table](Refutation_Table "Refutation Table"), to store a refutation of a specific move <a id="cite-note-2" href="#cite-ref-2">[2]</a>, also base of the [countermove heuristic](Countermove_Heuristic "Countermove Heuristic") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Layout](#layout)
-- [2 Valid Entries](#valid-entries)
-- [3 The Eponym](#the-eponym)
-- [4 The Butterfly](#the-butterfly)
-  - [4.1 Single Shape](#single-shape)
-  - [4.2 Connected Shapes](#connected-shapes)
-- [5 C-Code](#c-code)
-- [6 Analogy in Astronomy](#analogy-in-astronomy)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-- [9 External links](#external-links)
-  - [9.1 Wikipedia](#wikipedia)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Layout
 
 The size of the [array](Array "Array") is 4K (64 x 64 = 4096) elements for each color, but the density is poor, since most [from-](Origin_Square "Origin Square") and [to-square](Target_Square "Target Square") combinations are illegal moves by the rules of chess. Thus, most entries inside the Butterfly boards are not used. Also, as an additional drawback, from-to coordinates, specially those with [distance](Distance "Distance") one, are ambiguous and may be legal for several [pieces](Pieces "Pieces"). For instance e2-e3 might be a rook-, queen-, king- or white pawn-move. However, knight-, rook- and bishop moves are disjoint, queen moves are the superset from rook- and bishop-moves, king-moves the one-distance subset of queen moves, and [pawn pushes](Pawn_Push "Pawn Push") are subset of rook-moves, while pawn captures and [en passant](En_passant "En passant") (if stored at all) are subset of bishop-moves.

@@ -9,14 +9,6 @@ title: Alexander Litov
 a Russian computer chess programmer and author of the [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") [Drofa](Drofa "Drofa"), which was initially based on [Shallow Blue](Shallow_Blue "Shallow Blue") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Previously, Alexander Litov already worked on a Chess variant engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2020](#2020)
-  - [1.2 2021 ...](#2021-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2020

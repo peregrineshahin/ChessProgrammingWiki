@@ -14,16 +14,6 @@ with [combinatorics of words](https://en.wikipedia.org/wiki/Combinatorics_on_wor
 generalized [Cantor sets](https://en.wikipedia.org/wiki/Cantor_set) and the [Littlewood conjecture](https://en.wikipedia.org/wiki/Littlewood_conjecture) and its analogues.
 His hobbies include chess and programming - he is author of the chess utility [Kvetka](Kvetka "Kvetka").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

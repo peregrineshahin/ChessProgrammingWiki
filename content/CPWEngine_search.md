@@ -5,12 +5,6 @@ title: CPWEngine search
 
 For function definitions, see [CPW-Engine_search_h](CPW-Engine_search_h "CPW-Engine search h"). On storing [Lower Bound](Lower_Bound "Lower Bound"), [Upper Bound](Upper_Bound "Upper Bound") and [Exact Score](Exact_Score "Exact Score") into the [Transposition Table](Transposition_Table "Transposition Table") at search_root and Search, see the discussions in [CCC](CCC "CCC") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Search](#search)
-- [2 Forum Posts](#forum-posts)
-- [3 References](#references)
-
 ## [Search](Search "Search")
 
 ```C++

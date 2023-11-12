@@ -8,41 +8,6 @@ title: Genetic ProgrammingEvolutionaryAlgorithms
 
 an [evolutionary](https://en.wikipedia.org/wiki/Evolution) based methodology inspired by [biological evolution](https://en.wikipedia.org/wiki/Biological_evolution) to [optimize](https://en.wikipedia.org/wiki/Optimization_%28mathematics%29) computer programs, in particular game playing programs. It is a [machine learning](Learning "Learning") technique used to optimize a population of programs, for instance to maximize the winning rate versus a set of opponents, after modifying [evaluation](Evaluation "Evaluation") weights or [search](Search "Search") parameter.
 
-## Contents
-
-- [1 Evolutionary Programming](#Evolutionary_Programming)
-- [2 Supersets](#Supersets)
-  - [2.1 Genetic Algorithms](#Genetic_Algorithms)
-  - [2.2 PBIL](#PBIL)
-  - [2.3 Evolutionary Algorithms](#Evolutionary_Algorithms)
-  - [2.4 Evolutionary Computation](#Evolutionary_Computation)
-  - [2.5 Computational Intelligence](#Computational_Intelligence)
-- [3 See also](#See_also)
-- [4 Publications](#Publications)
-  - [4.1 1950 ...](#1950_...)
-  - [4.2 1960 ...](#1960_...)
-  - [4.3 1970 ...](#1970_...)
-  - [4.4 1980 ...](#1980_...)
-  - [4.5 1990 ...](#1990_...)
-  - [4.6 1995 ...](#1995_...)
-  - [4.7 2000 ....](#2000_....)
-  - [4.8 2005 ...](#2005_...)
-  - [4.9 2010 ...](#2010_...)
-  - [4.10 2015 ...](#2015_...)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 1996 ...](#1996_...)
-  - [5.2 2010 ...](#2010_..._2)
-  - [5.3 2015 ...](#2015_..._2)
-  - [5.4 2020 ...](#2020_...)
-- [6 External Links](#External_Links)
-  - [6.1 Genetic Programming](#Genetic_Programming)
-  - [6.2 Evolutionary Programming](#Evolutionary_Programming_2)
-  - [6.3 Genetic Algorithms](#Genetic_Algorithms_2)
-  - [6.4 Evolutionary Algorithms](#Evolutionary_Algorithms_2)
-  - [6.5 Evolutionary Computation](#Evolutionary_Computation_2)
-  - [6.6 Misc](#Misc)
-- [7 References](#References)
-
 ## Evolutionary Programming
 
 [Evolutionary programming](https://en.wikipedia.org/wiki/Evolutionary_programming) is similar to genetic programming, but the structure of the program to be optimized is fixed, while its numerical parameters are allowed to evolve. The term was coined by [Lawrence J. Fogel](https://en.wikipedia.org/wiki/Lawrence_J._Fogel) in 1960.

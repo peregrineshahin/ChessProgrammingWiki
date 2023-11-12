@@ -5,23 +5,6 @@ title: Free Software FoundationGNU
 
 The **Free Software Foundation** (FSF), incorporated in [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), is a [non-profit corporation](https://en.wikipedia.org/wiki/Non-profit_corporation) founded by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) on October 04, 1985 <a id="cite-note-1" href="#cite-ref-1">[1]</a> , to support the [free software movement](https://en.wikipedia.org/wiki/Free_software_movement). The FSF holds the copyrights on various pieces and development tools of the [GNU](https://en.wikipedia.org/wiki/GNU) [operating system](https://en.wikipedia.org/wiki/Operating_system).
 
-## Contents
-
-- [1 GNU](#gnu)
-- [2 License](#license)
-- [3 GPL Chess Engines](#gpl-chess-engines)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2005 ...](#2005-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-  - [5.1 FSF](#fsf)
-  - [5.2 GNU](#gnu-2)
-  - [5.3 GPL](#gpl)
-  - [5.4 GCC](#gcc)
-  - [5.5 GLIBC](#glibc)
-- [6 References](#references)
-
 ## GNU
 
 **GNU** refers to an [operating system](https://en.wikipedia.org/wiki/Operating_system) developed by the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project), announced on September 27, 1983, by Stallman at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . GNU is a [recursive](Recursion "Recursion") acronym for “GNU's Not [Unix](Unix "Unix")!” <a id="cite-note-3" href="#cite-ref-3">[3]</a> .

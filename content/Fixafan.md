@@ -8,15 +8,6 @@ title: Fixafan
 
 the thesis chess program by [Eric Thé](Eric_Th%C3%A9 "Eric Thé"), published in appendix D of his 1992 Master's thesis as subject of an analysis of [move ordering](Move_Ordering "Move Ordering") on the efficiency of [alpha-beta](Alpha-Beta "Alpha-Beta") search. Fixafan was written in [C](C "C") on a [Solbourne 5/600](https://en.wikipedia.org/wiki/Solbourne_Computer) dual [SPARC](SPARC "SPARC") processor machine running [Unix](Unix "Unix"). It used a two-dimensional [8x8 board](8x8_Board "8x8 Board") array, and, focusing on move ordering, a [material](Material "Material") only [evaluation](Evaluation "Evaluation"), and [iterative deepening](Iterative_Deepening "Iterative Deepening") with [aspiration windows](Aspiration_Windows "Aspiration Windows") of ± 2 pawns <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Move Ordering](#move-ordering)
-- [2 Experiments](#experiments)
-- [3 Results](#results)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Move Ordering
 
 Eight [move ordering](Move_Ordering "Move Ordering") heuristics were implemented and examined, in isolation and combination - beside the chess dependent [MVV/LVA](MVV-LVA "MVV-LVA")  ordering of [captures](Captures "Captures"), seven variations of the [killer heuristic](Killer_Heuristic "Killer Heuristic"), aka [countermove heuristic](Countermove_Heuristic "Countermove Heuristic") or [history heuristic](History_Heuristic "History Heuristic"), including the [best move](Best_Move "Best Move") probed from the [transposition table](Transposition_Table "Transposition Table") (BEST_TT). Opposed to static move ordering applied during [generation](Move_Generation "Move Generation") time, dynamic move ordering heuristic reorders remaining moves after searching early ones, by looking whether new killers appeared two plies ahead, still to try inside the [movelist](Move_List "Move List"), now considering next.

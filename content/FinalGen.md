@@ -7,17 +7,6 @@ title: FinalGen
 
 a chess endgame tablebase generator for [Windows](Windows "Windows") written by [Pedro Pérez Romero](Pedro_P%C3%A9rez_Romero "Pedro Pérez Romero"), able to solve chess positions with up to one piece per side, and almost any number of pawns, despite some complexity limitations regarding [memory](Memory "Memory").
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2012](#2012)
-  - [4.2 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Screenshot
 
 [](http://finalgenchess.ovh/home_ing.php)

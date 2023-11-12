@@ -8,13 +8,6 @@ title: HpChess
 
 [Franck Zibi's](Franck_Zibi "Franck Zibi") first chess program written in [HP Saturn](https://en.wikipedia.org/wiki/Saturn_%28microprocessor%29) [assembly](Assembly#HPSATURN "Assembly") <a id="cite-note-2" href="#cite-ref-2">[2]</a> for the [HP 48 series](https://en.wikipedia.org/wiki/HP_48_series) of [Graphing calculators](https://en.wikipedia.org/wiki/Graphing_calculator) with its 131×64 pixel [LCD](https://en.wikipedia.org/wiki/Liquid_crystal_display), released in 1995. With 50 to 100 [nodes per second](Nodes_per_Second "Nodes per Second"), HpChess is a slow program and therefore uses [static exchange evaluators](Static_Exchange_Evaluation "Static Exchange Evaluation") with [pin](Pin "Pin") detection rather than [quiescence search](Quiescence_Search "Quiescence Search") <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [MLChess](MLChess "MLChess")

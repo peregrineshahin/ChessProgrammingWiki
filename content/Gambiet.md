@@ -10,19 +10,6 @@ a chess program by [Wim Rens](Wim_Rens "Wim Rens"), initially written in [Z80](Z
 
 Gambiet was base of [Microtrend Experimental](Microtrend_Experimental "Microtrend Experimental"), which also played the [European MCC 1981](European_MCC_1981 "European MCC 1981") with its brother, and was further commercialized in 1982 for the [Philips](https://en.wikipedia.org/wiki/Philips) [Videopac G7000](https://en.wikipedia.org/wiki/Magnavox_Odyssey%C2%B2) [video game console](https://en.wikipedia.org/wiki/Video_game_console), as [Videopac C 7010](Videopac_C_7010 "Videopac C 7010") chess module <a id="cite-note-6" href="#cite-ref-6">[6]</a> with its own Z80-compatible *NSC800* [CMOS](https://en.wikipedia.org/wiki/CMOS) microprocessor <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 How it began](#how-it-began)
-- [3 Microtrend](#microtrend)
-- [4 Selected Games](#selected-games)
-  - [4.1 WMCCC 1980](#wmccc-1980)
-  - [4.2 DOCCC 1982](#doccc-1982)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Description
 
 Gambiet is a [Shannon Type-A Stategy](Type_A_Strategy "Type A Strategy") program, performing [alpha-beta](Alpha-Beta "Alpha-Beta") with a classical [mailbox](Mailbox "Mailbox") board representation and following [byte-wise](Byte "Byte") [piece coding](Pieces#PieceCoding "Pieces") optimized for efficiency <a id="cite-note-8" href="#cite-ref-8">[8]</a> :

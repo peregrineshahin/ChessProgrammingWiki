@@ -7,18 +7,6 @@ title: BCP
 
 [Don Beal's](Don_Beal "Don Beal") Chess Program, which participated at four [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 1977](WCCC_1977 "WCCC 1977"), [WCCC 1980](WCCC_1980 "WCCC 1980"), [WCCC 1983](WCCC_1983 "WCCC 1983") and [WCCC 1986](WCCC_1986 "WCCC 1986"). In 1980 running on a [PDP-11/70](PDP-11 "PDP-11"), since 1983 BCP was custom-build computer with a fast [sequential logic](Sequential_Logic "Sequential Logic") controlled by a [Zilog Z8000](https://en.wikipedia.org/wiki/Zilog_Z8000) [16-bit](https://en.wikipedia.org/wiki/16-bit) [micro computer](https://en.wikipedia.org/wiki/Microcomputer). The program was written in [C](C "C"), [Assembly](Assembly "Assembly"), and [Microcode](https://en.wikipedia.org/wiki/Microcode), performing 20K [Nodes per second](Nodes_per_Second "Nodes per Second") (1983) <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Mate Search](#mate-search)
-- [2 Photos & Games](#photos-.26-games)
-  - [2.1 1983](#1983)
-  - [2.2 1986](#1986)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Mate Search
 
 In order to find mating sequences fast, BCP's [Quiescence Search](Quiescence_Search "Quiescence Search") includes [checks](Check "Check") if and only if they have one (or no) reply <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The original intention of this rule was to detect some (relativly) frequent cased of [mate](Checkmate "Checkmate") in two, but Don Beal obsearved the search time only increased marginally when the depth limit was removed.

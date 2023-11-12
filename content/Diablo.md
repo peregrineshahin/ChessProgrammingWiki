@@ -9,24 +9,6 @@ title: Diablo
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Marcus Prewarski](Marcus_Prewarski "Marcus Prewarski"), written in [C](C "C"),
 distributed under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation"), first released in 2005, latest version Diablo 0.5.1 released in October 2006, with [Jim Ablett](Jim_Ablett "Jim Ablett") compiles available <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-    - [4.2.1 Chess Computers](#chess-computers)
-    - [4.2.2 Games](#games)
-    - [4.2.3 Geography](#geography)
-    - [4.2.4 Diabolo](#diabolo)
-    - [4.2.5 Music Video](#music-video)
-- [5 References](#references)
-
 ## Description
 
 ## Board Representation

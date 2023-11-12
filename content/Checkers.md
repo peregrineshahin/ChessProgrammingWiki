@@ -8,35 +8,6 @@ title: Checkers
 
 also American Checkers or [English draughts](https://en.wikipedia.org/wiki/English_draughts), is a variant of [Draughts](Draughts "Draughts") played on an eight by eight board using 32 either dark or light [squares](Squares "Squares"). Like [Chess](Chess "Chess"), Checkers is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy) [board game](https://en.wikipedia.org/wiki/Board_game).
 
-## Contents
-
-- [1 Rules](#Rules)
-- [2 Computer Olympiads](#Computer_Olympiads)
-- [3 Solving Checkers](#Solving_Checkers)
-- [4 Programs](#Programs)
-  - [4.1 American checkers](#American_checkers)
-  - [4.2 Classical checkers](#Classical_checkers)
-- [5 See also](#See_also)
-- [6 Selected Publications](#Selected_Publications)
-  - [6.1 1952 ...](#1952_...)
-  - [6.2 1960 ...](#1960_...)
-  - [6.3 1970 ...](#1970_...)
-  - [6.4 1980 ...](#1980_...)
-  - [6.5 1990 ...](#1990_...)
-  - [6.6 1995 ...](#1995_...)
-  - [6.7 2000 ...](#2000_...)
-  - [6.8 2005 ...](#2005_...)
-  - [6.9 2010 ...](#2010_...)
-  - [6.10 2015 ...](#2015_...)
-  - [6.11 2020 ...](#2020_...)
-- [7 Forum Posts](#Forum_Posts)
-  - [7.1 1990 ...](#1990_..._2)
-  - [7.2 2000 ...](#2000_..._2)
-  - [7.3 2010 ...](#2010_..._2)
-  - [7.4 2020 ...](#2020_..._2)
-- [8 External Links](#External_Links)
-- [9 References](#References)
-
 ## Rules
 
 Each side starts with twelve checkers, placed on the three back-ranks. Black moves first, alternating with White - there is no passing move. Checkers move one step diagonally forward, kings diagonally forward and backward. When a checker reaches the last rank, it promotes to a king. Checkers and king capture men by jumping over them to an empty square behind (checkers only forward). Captures are compulsory, one must play a capture if at least one is available, and is required to continue jumping and capturing as part of the same turn. However, a checker reaching the last row must stop to be crowned and can move no further on that turn [[2]](#cite_note-2). The side run out of moves loses.

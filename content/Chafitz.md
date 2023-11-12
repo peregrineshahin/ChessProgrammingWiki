@@ -8,20 +8,6 @@ title: Chafitz
 
 a marketing and retail enterprise founded in the early '70s by [Arleen](Arleen_Chafitz "Arleen Chafitz") and [Steve Chafitz](Steve_Chafitz "Steve Chafitz"), located in [Rockville, Maryland](https://en.wikipedia.org/wiki/Rockville,_Maryland). Chafitz Inc. dominated the [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics) market when that industry segment was in its infancy with products such as [electronic calculators](https://en.wikipedia.org/wiki/Calculator), [digital watches](https://en.wikipedia.org/wiki/Digital_watches#Digital), [handheld TVs](https://en.wikipedia.org/wiki/Handheld_television), [video games](https://en.wikipedia.org/wiki/Video_game), consumer [video](https://en.wikipedia.org/wiki/Video) recording equipment, [telephone answering machines](https://en.wikipedia.org/wiki/Answering_machine), [pocket recorders](https://en.wikipedia.org/wiki/Compact_Cassette#Cassette_players_and_recorders) and numerous other items. They have been credited with pioneering [electronic games](Games "Games") employing the early advances in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") such as [dedicated chess](Dedicated_Chess_Computers "Dedicated Chess Computers") and [Backgammon](Backgammon "Backgammon") computers <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Boris](#boris)
-- [2 Chafitz Modular Game System](#chafitz-modular-game-system)
-- [3 Sargon](#sargon)
-- [4 Chafitz Experience](#chafitz-experience)
-- [5 Applied Concepts](#applied-concepts)
-- [6 e-End](#e-end)
-- [7 Associated People](#associated-people)
-- [8 See also](#see-also)
-- [9 Publications](#publications)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Boris
 
 Chafitz Inc. launched their first [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") called [Boris](Boris "Boris") in February, 1978 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, running on a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-bit microprocessor <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The computer was manufactured by [Applied Concepts](Applied_Concepts "Applied Concepts") and had a program by [David Lindsay](David_Lindsay "David Lindsay") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

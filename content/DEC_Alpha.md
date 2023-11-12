@@ -10,26 +10,6 @@ a [64-bit](https://en.wikipedia.org/wiki/64-bit_computing) [RISC](https://en.wik
 
 The Alpha architecture was sold, along with most parts of DEC, to [Compaq](https://en.wikipedia.org/wiki/Compaq) in 1998. Compaq, already an [Intel](Intel "Intel") customer, decided to phase out Alpha in favor of the forthcoming [Itanium](Itanium "Itanium") architecture, and sold all Alpha intellectual property to Intel in 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Architecture](#architecture)
-  - [1.1 Data Types](#data-types)
-  - [1.2 Register File](#register-file)
-  - [1.3 Integer Instructions](#integer-instructions)
-  - [1.4 Count Extensions](#count-extensions)
-- [2 21164](#21164)
-- [3 21264](#21264)
-- [4 Chess Programs](#chess-programs)
-- [5 See also](#see-also)
-- [6 Manuals](#manuals)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-  - [9.1 Processors](#processors)
-  - [9.2 Workstations](#workstations)
-  - [9.3 Server](#server)
-- [10 References](#references)
-
 ## Architecture
 
 The Alpha 21064 is a [superpipelined](https://en.wikipedia.org/wiki/Instruction_pipeline) dual-issue [superscalar](https://en.wikipedia.org/wiki/Superscalar) microprocessor that executes instructions in-order. It is capable of issuing up to two instructions every clock cycle to four functional units: an integer unit, a floating-point unit (FPU), an address unit, and a branch unit. The integer pipeline is seven stages long, and the floating-point pipeline ten stages. The first four stages of both pipelines are identical and are implemented by the [I-Box](https://en.wikipedia.org/wiki/Alpha_21064#I-box). The 21064 implemented a 43-bit [virtual address](https://en.wikipedia.org/wiki/Virtual_address_space) and a 34-bit [physical address](https://en.wikipedia.org/wiki/Physical_address), and is therefore capable of addressing 8 TiB of [virtual memory](Memory#Virtual "Memory") and 16 GiB of physical memory.

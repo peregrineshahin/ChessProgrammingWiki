@@ -9,18 +9,6 @@ the first chess program by [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Ma
 to develop a chess program for the upcoming [1st Computer Olympiad](1st_Computer_Olympiad#Chess "1st Computer Olympiad") in 1989. He found his friend and chess player Marc-François Baudot,
 who already made first trials in chess programming, to help him with the [positional evaluation](Evaluation "Evaluation") to start their successful collaboration.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 1st Computer Olympiad](#1st-computer-olympiad)
-  - [1.2 Draw by Reputation](#draw-by-reputation)
-  - [1.3 WMCCC 1991](#wmccc-1991)
-- [2 Tournaments](#tournaments)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Description
 
 ## 1st Computer Olympiad

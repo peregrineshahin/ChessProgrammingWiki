@@ -9,15 +9,6 @@ title: Doctor3F
 is the commercial successor of [Bobby II](Bobby "Bobby") by [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") and [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"). It was market by [ChessBase](ChessBase "ChessBase") as 16-bit engine in 1995 as analysis engine for [ChessBase/Windows 1.0](</ChessBase_(Database)> "ChessBase (Database)"), and in 1998 as 32-bit add-on engine of the [Fritz 5.32](Fritz "Fritz") package <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Doctor? is written in [C](C "C") and was therefor available for various hardware platforms and operating systems. According to [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), who used Doctor? in his triple-brain experiments, it was the first engine which implemented a k-best mode. Doctor?'s strengths were mainly due to [strategy](Strategy "Strategy") and unsual [pawn structures](Pawn_Structure "Pawn Structure") in [endgames](Endgame "Endgame").
 The engine uses [fractional plies](Depth#FractionalPlies "Depth") with a [depth](Depth "Depth") increment in [iterative deepening](Iterative_Deepening "Iterative Deepening") of 1/3 [ply](Ply "Ply") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Program Characteristics](#program-characteristics)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 Refererences](#refererences)
-
 ## Program Characteristics
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

@@ -12,13 +12,6 @@ and [arithmetic](https://en.wikipedia.org/wiki/Arithmetic_geometry) [algebraic g
 especially [p-adic](https://en.wikipedia.org/wiki/P-adic_number) and [cohomological aspects](https://en.wikipedia.org/wiki/Cohomology).
 As computer chess programmer, Daniel Sparks is author of the [open source chess engine](Category:Open_Source "Category:Open Source") [Exacto](Exacto "Exacto") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Daniel Sparks (**2009**). *Hilbert's Irreducibility Theorem*. B.A. thesis, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), advisor: [Robert F. Coleman](Mathematician#RFColeman "Mathematician") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

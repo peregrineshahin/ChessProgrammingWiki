@@ -9,18 +9,6 @@ a chess program by primary author [Eugenio Castillo Jiménez](Eugenio_Castillo_J
 Chinito further played various [French Computer Chess Championships](French_Computer_Chess_Championship "French Computer Chess Championship") and [Massy Tournaments](French_Programmers_Tournament "French Programmers Tournament"), it won [Massy 2002](Massy_2002 "Massy 2002").
 In 2004, soon after it was found and proved Chinito contained parts of [Crafty](Crafty "Crafty") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, Eugenio admitted using Crafty, apologized and informed the [ICGA](ICGA "ICGA") and French Computer Chess Association about the issue to accept their decision and disqualification of Chinito from the played events <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2001 ...](#2001-...)
-  - [2.2 2004](#2004)
-  - [2.3 2005 ...](#2005-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.ludochess.com/trn_massy2002/tournoi.php3)

@@ -7,15 +7,6 @@ title: Gordon Goetsch
 
 an American mathematician, computer scientist, senior software analyst and developer <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and Ph.D. in 1990 from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He was member of the [HiTech](HiTech "HiTech") team around [Hans Berliner](Hans_Berliner "Hans Berliner"), and along with [Murray Campbell](Murray_Campbell "Murray Campbell"), researched on none [recursive](Recursion "Recursion") [null move heuristic](Null_Move_Pruning "Null Move Pruning") with a modest [depth reduction](Depth_Reduction_R "Depth Reduction R") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1980 ...](#1980-...)
-  - [2.2 1990 ...](#1990-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Quotes
 
 Quote by Hans Berliner on Goetsch's role in the HiTech team <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

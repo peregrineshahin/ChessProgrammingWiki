@@ -9,22 +9,6 @@ title: Counter
 an [UCI](UCI "UCI") compliant chess engine by [Vadim Chizhov](index.php?title=Vadim_Chizhov&action=edit&redlink=1 "Vadim Chizhov (page does not exist)"), initially written in [C#](C_sharp "C sharp") to run under [Windows](Windows "Windows") [.Net](https://en.wikipedia.org/wiki/.NET_Framework), available since early 2007 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Counter 0.8 played a strong [CCCCISC 2008](CCCCISC_2008 "CCCCISC 2008") over the board. Counter was then ported to the [Go programming language](</Go_(Programming_Language)> "Go (Programming Language)") and released in May 2017 as [open source](Category:Open_Source "Category:Open Source") at [GitHub](https://en.wikipedia.org/wiki/GitHub), dubbed [CounterGo](#countergo) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Counter C#](#counter-c.23)
-- [2 CounterGo](#countergo)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 Selected Games](#selected-games)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2007 ...](#2007-...)
-  - [4.2 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Counter C\#
 
 According to the *sdchess description*, Counter is based on [bitboards](Bitboards "Bitboards") using [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") [magic bitboard](Magic_Bitboards "Magic Bitboards") implementation to [generate moves](Move_Generation "Move Generation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>,

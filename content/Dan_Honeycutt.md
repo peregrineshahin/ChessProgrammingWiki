@@ -10,13 +10,6 @@ He already started his computer chess career as graduate student at [Georgia Tec
 when he wrote a little chess program in [Basic](Basic "Basic"), pure [minimax](Minimax "Minimax") with an [evaluation](Evaluation "Evaluation") consisting of [material](Material "Material") and [center proximity](Center_Distance "Center Distance") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 More recently, Dan is author of the chess engines [Bruja](Bruja "Bruja") written in [C++](Cpp "Cpp"), its didactic little [open source](Category:Open_Source "Category:Open Source") brother [Simon](Simon "Simon") and the [Java](Java "Java") open source engine [Cupcake](Cupcake "Cupcake").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2004 ...](#2004-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 References](#references)
-
 ## Forum Posts
 
 ## 2004 ...

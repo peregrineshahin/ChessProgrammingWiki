@@ -8,15 +8,6 @@ title: Advances in Computer Games 12
 [](http://www.cthnavarra.com/cth/web/cth/webcth.nsf/app/Obra/Palacio-Condestable) Palacio del Condestable <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **12th Advances in Computer Games** was held from May 11-13, [2009](Timeline#2009 "Timeline"), at Palacio del Condestable, [Pamplona](https://en.wikipedia.org/wiki/Pamplona), [Navarre](https://en.wikipedia.org/wiki/Navarre), [Spain](https://en.wikipedia.org/wiki/Spain), in conjunction with the [17th World Computer Chess Championship](WCCC_2009 "WCCC 2009") and the [14th Computer Olympiad](14th_Computer_Olympiad "14th Computer Olympiad"). ACG is the conference of the [ICGA](ICGA "ICGA").
 
-## Contents
-
-- [1 Conference Proceedings](#conference-proceedings)
-- [2 Lectures](#lectures)
-- [3 See also](#see-also)
-- [4 Reports](#reports)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Conference Proceedings
 
 - [Advances in Computer Games 12](https://www.springerlink.com/content/k723933hu624/?v=editorial)

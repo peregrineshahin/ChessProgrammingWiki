@@ -6,27 +6,6 @@ title: Bitboard Serialization
 [](http://www.mcescher.com/Gallery/back-bmp/LW331.jpg) [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Encounter, 1944 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Bitboard Serialization** refers to the transformation of a bitboard with up to 64 one-bits set into a list of up to 64 bit-indices aka [square indices](Squares "Squares") of a [8x8 board](8x8_Board "8x8 Board") - for instance to process [move-target](Target_Square "Target Square") sets for [move generation](Move_Generation "Move Generation"). This is done in two phases, isolating none-empty [subsets](https://en.wikipedia.org/wiki/Subset) and then transforming those more versatile subsets into lists, either bit by bit, by applying a [bisection](https://en.wikipedia.org/wiki/Bisection) scheme, where finally [words](Word "Word") or [bytes](Byte "Byte") may act as index of a pre-calculated database, or by [perfect hashing](Hash_Table#PerfectHashing "Hash Table") of square lists by subsets with a limited maximum popularity, for instance move-target sets of a [king](King "King") or [knight](Knight "Knight") even with [minimal perfect hashing](Hash_Table#MinimalPerfectHashing "Hash Table").
 
-## Contents
-
-- [1 Isolating Subsets](#isolating-subsets)
-  - [1.1 Single Bits](#single-bits)
-  - [1.2 Multiple Bits](#multiple-bits)
-- [2 Converting Sets to Lists](#converting-sets-to-lists)
-  - [2.1 Square Index Serialization](#square-index-serialization)
-    - [2.1.1 Scanning Forward](#scanning-forward)
-    - [2.1.2 Scanning Reverse](#scanning-reverse)
-    - [2.1.3 Scanning with Reset](#scanning-with-reset)
-    - [2.1.4 Intrinsic Version](#intrinsic-version)
-    - [2.1.5 Black or White](#black-or-white)
-    - [2.1.6 STL Iterator](#stl-iterator)
-  - [2.2 Hashing Multiple Bits](#hashing-multiple-bits)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000 ...](#2000-...)
-  - [4.2 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Isolating Subsets
 
 The process of isolating subsets is performed by [intersection](General_Setwise_Operations#Intersection "General Setwise Operations"), for single populated subsets with the [two's complement](General_Setwise_Operations#TheTwosComplement "General Setwise Operations").

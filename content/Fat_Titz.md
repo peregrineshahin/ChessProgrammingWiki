@@ -14,15 +14,6 @@ while still preserving the [tactical sharpness](Tactics "Tactics") of Stockfish.
 The network was trained using a modification of the state-of-the-art NNUE trainer <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 utilizing publicly available datasets <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz")

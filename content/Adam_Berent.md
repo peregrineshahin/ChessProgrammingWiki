@@ -8,13 +8,6 @@ title: Adam Berent
 
 a Canadian computer programmer and [indie game developer](https://en.wikipedia.org/wiki/Indie_game_development) of [mobile games](https://en.wikipedia.org/wiki/Mobile_game). He is further author of the chess engines [ChessBin.com](ChessCore "ChessCore") with [C#](C_sharp "C sharp") source code and explanation supplied, and its [.NET Core](https://en.wikipedia.org/wiki/.NET_Core) successor [ChessCore](ChessCore "ChessCore") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Adam Berent (**2014**). *Guide to Programming a Chess Engine*. [pdf](https://www.adamberent.com/wp-content/uploads/2019/02/GuideToProgrammingChessEngine.pdf)

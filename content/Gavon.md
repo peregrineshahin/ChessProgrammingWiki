@@ -11,16 +11,6 @@ title: Gavon
 a portable, commercial chess system by [Josu Bergara Ede](index.php?title=Josu_Bergara_Ede&action=edit&redlink=1 "Josu Bergara Ede (page does not exist)") with the look and feel of the [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") of the 80's, using [Windows](Windows "Windows") [tablet](https://en.wikipedia.org/wiki/Tablet_computer#Windows), [Raspberry Pi](Raspberry_Pi "Raspberry Pi"), [pcDuino](index.php?title=PcDuino&action=edit&redlink=1 "PcDuino (page does not exist)"), or [ODROID](index.php?title=ODROID&action=edit&redlink=1 "ODROID (page does not exist)") with [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display) and [Keypad](https://en.wikipedia.org/wiki/Keypad) unit <a id="cite-note-2" href="#cite-ref-2">[2]</a> or [TFT displays](https://en.wikipedia.org/wiki/Thin-film-transistor_liquid-crystal_display), and a [SD memory card](https://en.wikipedia.org/wiki/Secure_Digital) with pre-installed [open source chess engines](Category:Open_Source "Category:Open Source"), shipped via [eBay](https://en.wikipedia.org/wiki/EBay).
 Gavon can be classified as a chess [GUI](GUI "GUI") similar to [Arena](Arena "Arena") or [Scid vs. PC](Scid_vs._PC "Scid vs. PC") with the chess engines integrated. It is written in [C](C "C"), like the chess engines compiled for the [ARM](index.php?title=ARM11&action=edit&redlink=1 "ARM11 (page does not exist)") processor, running under [Linux](Linux "Linux"), supporting both the [Universal Chess Interface](UCI "UCI") and the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [XBoard](XBoard "XBoard").
 
-## Contents
-
-- [1 Playing Chess](#playing-chess)
-- [2 Available Chess Engines](#available-chess-engines)
-- [3 Etymology](#etymology)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Playing Chess
 
 Gavon allows to play chess without connecting either to a PC or monitor. When the host system [boots](https://en.wikipedia.org/wiki/Booting), it will automatically start the Gavon controller program which loads the chess engines available.

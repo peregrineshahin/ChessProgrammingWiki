@@ -12,13 +12,6 @@ His research interests include [random number generation](Pseudorandom_Number_Ge
 the [nonattacking queens problem](Backtracking#8QinBitboards "Backtracking"), an [NP-complete](https://en.wikipedia.org/wiki/NP-complete) [problem](https://en.wikipedia.org/wiki/Decision_problem) arising in [optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition), [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism), and some problems in computer graphics.
 His non professional interests include [one minute chess games](https://en.wikipedia.org/wiki/Fast_chess) and [board games](Games "Games").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

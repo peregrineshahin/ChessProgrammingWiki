@@ -10,25 +10,6 @@ a [WinBoard](WinBoard "WinBoard") and later [UCI](UCI "UCI") compliant chess eng
 Delfi was distributed within a software suite as **Delfi Trainer**, along with an own [2.5D](https://en.wikipedia.org/wiki/2.5D) [chess GUI](GUI "GUI"), an ergonomic [2D graphics board](2D_Graphics_Board "2D Graphics Board") in [Bird's-eye view](https://en.wikipedia.org/wiki/Bird%27s-eye_view) and pieces with 3D-effect, and a position trainer <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The WinBoard/UCI compliant Delfi **5,4** is now freely available, the earlier Delfi **5,1** is [open source](Category:Open_Source "Category:Open Source") with a license allowing modification for personal use but no redistribution or playing in public tournaments <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Tournament Play](#tournament-play)
-- [3 Photos & Games](#photos-.26-games)
-  - [3.1 CIPS 2002](#cips-2002)
-  - [3.2 WCCC 2006](#wccc-2006)
-    - [3.2.1 Ikarus](#ikarus)
-    - [3.2.2 IsiChess](#isichess)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2001 ...](#2001-...)
-  - [5.2 2005 ...](#2005-...)
-  - [5.3 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Description
 
 Delfi uses the [vector attacks](Vector_Attacks "Vector Attacks") approach of a [board representation](Board_Representation "Board Representation") with a 16x12 board, combining the property of the [10x12 board](10x12_Board "10x12 Board") with its surrounding [ranks](Ranks "Ranks") and [files](Files "Files") with the property that a square difference uniquely maps a [vector](https://en.wikipedia.org/wiki/Euclidean_vector) in the [Chebyshev](https://en.wikipedia.org/wiki/Chebyshev_distance) [vector space](https://en.wikipedia.org/wiki/Vector_space) of a [chessboard](Chessboard "Chessboard").

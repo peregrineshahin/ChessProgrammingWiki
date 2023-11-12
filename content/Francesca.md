@@ -8,22 +8,6 @@ title: Francesca
 
 a chess engine by [Tom King](Tom_King "Tom King"), written in [C](C "C"), which uses many state of the art chess-programming techniques. Francesca played five [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") from 1995 until 2000, including the [WCCC 1999](WCCC_1999 "WCCC 1999") with 4 out of 7, and wins against former champion [MChess](MChess "MChess") and draws against the massive parallel programs [Zugwang](</Zugzwang_(Program)> "Zugzwang (Program)") and [CilkChess](CilkChess "CilkChess"). In 2000 Francesca was released as [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> and was further improved as Francesca MAD (Manic, Aggressive, Dynamic) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 1997](#1997)
-  - [1.2 1999](#1999)
-- [2 History of Francesca](#history-of-francesca)
-- [3 Selected Games](#selected-games)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000 ...](#2000-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Descriptions
 
 Descriptions given from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

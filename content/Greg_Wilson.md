@@ -12,15 +12,6 @@ a M.Sc. in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelli
 While completing his Ph.D. part-time, Greg Wilson developed the [parallel search](Parallel_Search "Parallel Search") of the massive parallel [Transputer](Transputer "Transputer") program [Moby](Moby "Moby"), which was based on [Cyrus 68K](Cyrus_68K "Cyrus 68K") by [Mark Taylor](Mark_Taylor "Mark Taylor") and [David Levy](David_Levy "David Levy"),
 and played the [WCCC 1989](WCCC_1989 "WCCC 1989") running on a [Meiko Computing Surface](https://en.wikipedia.org/wiki/Meiko_Scientific#Computing_Surface) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1986](#1986)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

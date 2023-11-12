@@ -5,13 +5,6 @@ title: Hidden Passed Pawn
 
 The **Hidden Passed Pawn** is an evaluation term used in [Crafty](Crafty "Crafty"), in the terminology proposed by [Hans Kmoch](Hans_Kmoch "Hans Kmoch") it is referred to as a [Sneaker](</Candidates_(Bitboards)#Sneaker> "Candidates (Bitboards)") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>. It is a [rammed pawn](</Pawn_Rams_(Bitboards)> "Pawn Rams (Bitboards)") already on the opponent side of the board without further [sentries](Sentry "Sentry"), which may become a [passer](Passed_Pawn "Passed Pawn") through a sacrificial combination usually by a [faker](Faker "Faker"), which possibly allows the opponent to establish a passer as well, though at least two ranks less advanced and losing the [pawn race](Pawn_Race "Pawn Race") assuming both [unstoppable](Unstoppable_Passer "Unstoppable Passer").
 
-## Contents
-
-- [1 Sample](#sample)
-- [2 Comparison with Candidates](#comparison-with-candidates)
-- [3 See also](#see-also)
-- [4 References](#references)
-
 ## Sample
 
 Suppose that white has pawns on a6 and b5, and black on a7. At first glance we have a [backward pawn](Backward_Pawn "Backward Pawn") on b5, which is bad for white. However, after playing b5-b6, white gets a passed pawn either there or on a6. For that reason the pawn on a6 should be termed "a hidden passed pawn" and awarded a bonus if "unstoppable".

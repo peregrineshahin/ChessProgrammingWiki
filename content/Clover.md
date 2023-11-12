@@ -8,19 +8,6 @@ title: Clover
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Luca Metehau](Luca_Metehau "Luca Metehau"), written in [C++](Cpp "Cpp"). Clover was first released in April 2021 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, hosted on [GitHub](https://en.wikipedia.org/wiki/GitHub). In January 2022, Clover **3.0** was released featuring [NNUE](NNUE "NNUE") instead of hand crafted evaluation <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc-2)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

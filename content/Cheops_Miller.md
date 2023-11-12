@@ -10,16 +10,6 @@ a didactic [open source chess engine](Category:Open_Source "Category:Open Source
 The program uses a [command line interface](CLI "CLI") to interact with the user, and prints simple [text diagrams](Graphics_Programming#ASCIIDiagrams "Graphics Programming") to display the current [position](Chess_Position "Chess Position") during [game play](Chess_Game "Chess Game"). [Moves](Moves "Moves") are printed and [entered](Entering_Moves "Entering Moves") in [pure algebraic coordinate notation](Algebraic_Chess_Notation#PureCoordinateNotation "Algebraic Chess Notation").
 [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó") has produced a build of CHEOPS 1.2 for [Microsoft](Microsoft "Microsoft") [Windows](Windows "Windows"). [Michael Yee](index.php?title=Michael_Yee&action=edit&redlink=1 "Michael Yee (page does not exist)") has produced an [UCI](UCI "UCI") compliant build of CHEOPS 1.1 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Cheops uses a [64-square](8x8_Board "8x8 Board") linear [array](Array "Array") [board representation](Board_Representation "Board Representation") and performs a [legal move generation](Move_Generation#Legal "Move Generation") [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) by looking for [from-squares](Origin_Square "Origin Square") of own [pieces](Pieces "Pieces") traversing the board in [spiral](https://en.wikipedia.org/wiki/Spiral) order from center to the h1-edge, keeping, returning and splicing [std::list](https://en.wikipedia.org/wiki/Sequence_container_%28C%2B%2B%29#List) as local [move list](Move_List "Move List") variables on the stack.

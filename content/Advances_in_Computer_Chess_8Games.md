@@ -8,16 +8,6 @@ title: Advances in Computer Chess 8Games
 [](http://www.vaeshartelt.nl/vaeshartelt/) Vaeshartelt Castle <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **8th Advances in Computer Chess Conference** was hosted by the [University of Maastricht](Maastricht_University "Maastricht University") and held at Vaeshartelt Castle <a id="cite-note-2" href="#cite-ref-2">[2]</a> in [Maastricht](https://en.wikipedia.org/wiki/Maastricht), the [Netherlands](https://en.wikipedia.org/wiki/Netherlands), on June 27 and 28, [1996](Timeline#1996 "Timeline"). ACC is the conference of the [ICCA](ICCA "ICCA"). Invited speaker [Ken Thompson](Ken_Thompson "Ken Thompson") talked about 6-Piece endgames, gave away his last ten [endgame tablebase](Endgame_Tablebases "Endgame Tablebases") cd-roms and was officially out of business. Beside other interesting lectures, [Arie de Bruin](Arie_de_Bruin "Arie de Bruin") declared [SSS\*](SSS*_and_Dual* "SSS* and Dual*") "dead".
 
-## Contents
-
-- [1 Conference Proceedings](#conference-proceedings)
-- [2 Lectures](#lectures)
-- [3 Exhibition Games](#exhibition-games)
-- [4 Reports](#reports)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Conference Proceedings
 
 - **Advances in Computer Chess 8**

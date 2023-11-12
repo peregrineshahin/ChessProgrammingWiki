@@ -15,23 +15,6 @@ the goal to train a [deep](Neural_Networks#Deep "Neural Networks") [convolutiona
 In December 2018, CrazyAra won a five game Crazyhouse online-match versus [Justin Tan](https://en.wikipedia.org/wiki/Justin_Tan) aka JannLee with 4-1
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Continuation](#continuation)
-- [2 Network](#network)
-- [3 Monte-Carlo Graph Search](#monte-carlo-graph-search)
-- [4 ClassicAra](#classicara)
-- [5 MultiAra](#multiara)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-  - [9.1 Chess Engine](#chess-engine)
-    - [9.1.1 GitHub](#github)
-    - [9.1.2 Reports](#reports)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Continuation
 
 As subject of his master thesis <a id="cite-note-7" href="#cite-ref-7">[7]</a>,

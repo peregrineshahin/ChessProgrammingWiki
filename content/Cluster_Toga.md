@@ -11,22 +11,6 @@ Cluster Toga is a [parallel extension](Parallel_Search "Parallel Search") of Tog
 It considers the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") using [Message Passing Interface (MPI)](https://en.wikipedia.org/wiki/Message_Passing_Interface) for a [work-stealing](https://en.wikipedia.org/wiki/Cilk#Work-stealing) mechanism to [balance the load](https://en.wikipedia.org/wiki/Load_balancing_%28computing%29) dynamically, and utilizes a [shared hash table](Shared_Hash_Table "Shared Hash Table").
 Cluster Toga represents an intra-cluster worker of the [cluster](https://en.wikipedia.org/wiki/Computer_cluster) chess entity [GridChess](GridChess "GridChess"). However, Cluster Toga played the [IPCCC 2007](IPCCC_2007 "IPCCC 2007") and the [WCCC 2008](WCCC_2008 "WCCC 2008") as "stand alone" engine instead of GridChess, due to a licensing issue in connection with the use of some parts of [Crafty](Crafty "Crafty") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Photos & Games](#photos-.26-games)
-  - [2.1 IPCCC 2007](#ipccc-2007)
-  - [2.2 WCCC 2008](#wccc-2008)
-- [3 Authors](#authors)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Entity](#chess-entity)
-  - [6.2 Misc](#misc)
-    - [6.2.1 Cluster](#cluster)
-    - [6.2.2 Toga](#toga)
-- [7 References](#references)
-
 ## Description
 
 given in 2008 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

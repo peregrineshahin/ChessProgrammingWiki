@@ -8,16 +8,6 @@ title: HungJui Chang
 
 a Taiwanese computer scientiest at the Institute of Information Science at the [Academia Sinica](https://en.wikipedia.org/wiki/Academia_Sinica), [Taipei](https://en.wikipedia.org/wiki/Taipei) and before at the Department of Information Engineering and Computer Science <a id="cite-note-2" href="#cite-ref-2">[2]</a> at the [National Taiwan University](National_Taiwan_University "National Taiwan University"). His research interests covers distributed algorithms and [Computer Chinese Chess](Chinese_Chess "Chinese Chess"). He is author of the [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") programs [Dark Chesser](https://www.game-ai-forum.org/icga-tournaments/program.php?id=636) and PupilDarkChess, silver medal winner at [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#ChineseDarkChess "20th Computer Olympiad"), and the [Go](Go "Go") playing program EZGO, bronze at [20th Computer Olympiad](20th_Computer_Olympiad#Go9x9 "20th Computer Olympiad") in 9x9 Go.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2009](#2009)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 ## 2009

@@ -7,30 +7,6 @@ title: DGT Board
 
 a sensory board developed and market by [Digital Game Technology](index.php?title=DGT&action=edit&redlink=1 "DGT (page does not exist)"). The board in conjunction with a [digital chess clock](https://en.wikipedia.org/wiki/Game_clock#Early_development_of_digital_game_clocks) is connected to a host computer and its [chess gui](GUI "GUI") or control program via [USB](https://en.wikipedia.org/wiki/USB), [serial interface](https://en.wikipedia.org/wiki/Serial_communication), or [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth), and acts as a [real-time](https://en.wikipedia.org/wiki/Real_time_%28media%29) [move input device](Entering_Moves "Entering Moves") during [game play](Chess_Game "Chess Game"), to monitor or [broadcast](https://en.wikipedia.org/wiki/Live_broadcast) the game, or to give [chess engines](Engines "Engines") a whiff of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
 
-## Contents
-
-- [1 Piece Recognition](#piece-recognition)
-  - [1.1 Sensor Technology](#sensor-technology)
-  - [1.2 Inside the Board](#inside-the-board)
-  - [1.3 Scanning the Board](#scanning-the-board)
-- [2 Applications](#applications)
-  - [2.1 Chess GUIs](#chess-guis)
-  - [2.2 Gavon](#gavon)
-  - [2.3 PicoChess](#picochess)
-  - [2.4 Revelation II](#revelation-ii)
-  - [2.5 DGT LiveChess Software](#dgt-livechess-software)
-  - [2.6 DGT Pi](#dgt-pi)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1998 ...](#1998-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-  - [4.5 2015 ...](#2015-...)
-  - [4.6 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Piece Recognition
 
 ## Sensor Technology

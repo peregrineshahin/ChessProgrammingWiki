@@ -11,14 +11,6 @@ Version 0.05 disabled [checks](Check "Check") in [quiescence search](Quiescence_
 Latest version is Anechka 0.08, released in July 2006 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 This version played the [CCCCISC 2008](CCCCISC_2008 "CCCCISC 2008") in [Moscow](https://en.wikipedia.org/wiki/Moscow) with 3½/7, and the [IOPCCC 2008](IOPCCC_2008 "IOPCCC 2008") in [Łódź](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA).
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Selected Games
 
 [IOPCCC 2008](IOPCCC_2008 "IOPCCC 2008"), round 2, [Tytan](Tytan "Tytan") - Anechka <a id="cite-note-4" href="#cite-ref-4">[4]</a>

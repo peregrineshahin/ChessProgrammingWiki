@@ -9,16 +9,6 @@ a Chinese computer scientist, game and chess programmer, and Ph.D. student with 
 
 Concerning game and chess programming, Chao Ma is author of the chess engine [Cmcchess](Cmcchess "Cmcchess"), a parallel [MTD(f)](</MTD(f)> "MTD(f)") searcher developed since 2009, and before, he worked on a serial of [Wuziqi](https://en.wikipedia.org/wiki/Wuziqi) programs called Mcfive. His open source software projects include Cute-MPI-Interface, an interface program to run [Cutechess-cli](Cutechess-cli "Cutechess-cli") on the cluster system with MPI <a id="cite-note-1" href="#cite-ref-1">[1]</a>, Viper-Cluster-Perft, a [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface) based perft program that starts from the source code of the chess engine Viper <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and the Senpai Regression project, an experimental project to explore if a linear model with rich features can be trained by the method and data from [Stockfish](Stockfish "Stockfish") [NNUE](NNUE "NNUE").<a id="cite-note-3" href="#cite-ref-3">[3]</a>He hosts a brief introduction into Stockfish NNUE in Chinese and English on GitHub. <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2011 ...](#2011-...)
-  - [2.2 2015 ...](#2015-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Chao Ma, Janardhan Rao Doppa, Prashanth Mannem, Xiaoli Fern, Tom Dietterich, Prasad Tadepalli (**2014**). *Prune-and-Score: Learning for Greedy Coreference Resolution*. [EMNLP 2014](https://emnlp2014.org/), [pdf](https://web.archive.org/web/20180713203006/https://www.eecs.wsu.edu/~jana/pubs/EMNLP2014-coreference.pdf)

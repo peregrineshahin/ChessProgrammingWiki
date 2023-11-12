@@ -8,18 +8,6 @@ title: CXG Sensor Computachess
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with integrated travel sensory pegboard. It was the **first** own computer under the brand name **CXG**, manufactured by *White and Allcock*, the forerunner of [Newcrest Technology](Newcrest_Technology "Newcrest Technology") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. It was in **1981**, when [Eric White](Eric_White "Eric White") started to collaborate with [David Levy](David_Levy "David Levy") and [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") on the software for the dedicated units. Levy and O’Connell were just in the process to loosen their relationship with [SciSys](Saitek "Saitek"), and their company [Philidor Software](Philidor_Software "Philidor Software") was about to become [Intelligent Software](Intelligent_Software "Intelligent Software") at that time.
 
-## Contents
-
-- [1 Sensor Computachess](#sensor-computachess)
-- [2 Computachess III](#computachess-iii)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Computachess](#computachess)
-  - [5.2 Computachess II](#computachess-ii)
-  - [5.3 Computachess III](#computachess-iii-2)
-- [6 References](#references)
-
 ## Sensor Computachess
 
 The Sensor Computachess had a [Hitachi](https://en.wikipedia.org/wiki/Hitachi_Ltd.) [HD44801](HMCS4xC "HMCS4xC") 4-bit [CMOS](https://en.wikipedia.org/wiki/CMOS) [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) with 2 K of 10-bit word [ROM](Memory#ROM "Memory") inside, 128 10-bit words of pattern ROM supported by pattern generation instructions with table lookup capability, and **160** [nibbles](Nibble "Nibble") or digits (80 [bytes](Byte "Byte")) of [RAM](Memory#RAM "Memory"). *Philidor Software* already had a program for that architecture, developed by [Mark Taylor](Mark_Taylor "Mark Taylor") under guidance of Levy, marketed by [SciSys](Saitek "Saitek") as [Mini Chess](Mini_Chess "Mini Chess"), [Junior Chess](Mini_Chess#Junior "Mini Chess") and [Graduate Chess](Mini_Chess#Graduate "Mini Chess").

@@ -12,12 +12,6 @@ he works on solutions for solving [Travelling salesman problems](https://en.wiki
 including using the [Open Source Routing Machine](https://en.wikipedia.org/wiki/Open_Source_Routing_Machine) (OSRM) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Aleksandrs Saveljevs is author of the chess engine [Warrior](Warrior "Warrior"), which played the  [6th International Open Polish Computer Chess Championship in 2007](IOPCCC_2007 "IOPCCC 2007").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Re: Warrior configuration guessing](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=5502&start=1) by Aleksandrs Saveljevs, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 30, 2006

@@ -9,15 +9,6 @@ title: Cassandre
 an [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") under the terms of the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") (GPL) by [Raphael Grundrich](index.php?title=Raphael_Grundrich&action=edit&redlink=1 "Raphael Grundrich (page does not exist)"), [Thomas Adolph](index.php?title=Thomas_Adolph&action=edit&redlink=1 "Thomas Adolph (page does not exist)") and [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang"),
 written in [C++](Cpp "Cpp") and first released in March 2003. Cassandre started as a student project at [Louis Pasteur University](https://en.wikipedia.org/wiki/Louis_Pasteur_University), [Strasbourg](https://en.wikipedia.org/wiki/Strasbourg) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Description
 
 Cassandre is a [bitboard](Bitboards "Bitboards") engine using [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") with 256 [occupancy states](Occupancy_of_any_Line "Occupancy of any Line") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"),

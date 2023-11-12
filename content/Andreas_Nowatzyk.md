@@ -7,16 +7,6 @@ title: Andreas Nowatzyk
 
 a German born <a id="cite-note-1" href="#cite-ref-1">[1]</a>, American physicist and computer scientist, Associate Professor at the [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Pittsburgh, Pennsylvania. Andreas Nowatzyk was member of the [Deep Thought](Deep_Thought "Deep Thought") team, working on [evaluation](Evaluation "Evaluation") and [evaluation tuning](Automated_Tuning "Automated Tuning"), and later worked with [Mike Browne](Mike_Browne "Mike Browne") et al. in the field of [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) concerning [shared memory](Memory#Shared "Memory") and [cache](Memory#Cache "Memory") [coherence](https://en.wikipedia.org/wiki/Cache_coherence)..
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Eval tuning in Deep Thought](#eval-tuning-in-deep-thought)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1989](#1989)
-  - [3.2 1990 ...](#1990-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/stl-430b9bbd52f71/)

@@ -8,16 +8,6 @@ title: GC3A1bor Lugosi
 
 a Hungarian electrical engineer, computer scientist, mathematician, and [ICREA](https://en.wikipedia.org/wiki/Catalan_Institution_for_Research_and_Advanced_Studies) research professor at department of economics, [Pompeu Fabra University](https://en.wikipedia.org/wiki/Pompeu_Fabra_University) in [Barcelona](https://en.wikipedia.org/wiki/Barcelona), [Catalonia](https://en.wikipedia.org/wiki/Catalonia), [Spain](https://en.wikipedia.org/wiki/Spain) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He holds a Ph.D. in 1992 from [Hungarian Academy of Sciences](https://en.wikipedia.org/wiki/Hungarian_Academy_of_Sciences) on [pattern recognition](Pattern_Recognition "Pattern Recognition") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His research interests include [pattern classification](https://en.wikipedia.org/wiki/Statistical_classification), [nonparametric statistics](https://en.wikipedia.org/wiki/Nonparametric_statistics), [computational learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory), [inequalities](https://en.wikipedia.org/wiki/Inequality) in [probability](https://en.wikipedia.org/wiki/Probability_theory) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [learning](Learning "Learning") in [repeated games](https://en.wikipedia.org/wiki/Repeated_game), and [bandit problems](https://en.wikipedia.org/wiki/Multi-armed_bandit). Along with [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), he authored *Prediction, Learning, and Games* in 2006 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1987 ...](#1987-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

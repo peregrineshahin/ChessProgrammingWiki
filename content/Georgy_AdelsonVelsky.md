@@ -10,33 +10,6 @@ was a Soviet and Israeli mathematician, computer scientist and computer chess pi
 
 In the 90s, Adelson-Velsky emigrated to Israel and lived in [Ashdod](https://en.wikipedia.org/wiki/Ashdod) [[5]](#cite_note-5), at times affiliated with the [Technion](http://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), and Mathematics & Computer Science department of [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University") [[6]](#cite_note-6). Georgy Adelson-Velsky died on April 26, 2014, aged 92, in [Givatayim](https://en.wikipedia.org/wiki/Givatayim), Israel [[7]](#cite_note-7) [[8]](#cite_note-8).
 
-## Contents
-
-- [1 Computer Chess](#Computer_Chess)
-- [2 Photos](#Photos)
-- [3 Quotes](#Quotes)
-  - [3.1 Official Information](#Official_Information)
-  - [3.2 Remembering A.S. Kronrod](#Remembering_A.S._Kronrod)
-  - [3.3 Intellectual Foundations](#Intellectual_Foundations)
-  - [3.4 Hashing](#Hashing)
-  - [3.5 AVL Trees](#AVL_Trees)
-    - [3.5.1 Dinitz](#Dinitz)
-    - [3.5.2 Ershov and Shura-Bura](#Ershov_and_Shura-Bura)
-    - [3.5.3 Donskoy](#Donskoy)
-  - [3.6 The chronology of the events](#The_chronology_of_the_events)
-  - [3.7 Visit from Canada](#Visit_from_Canada)
-- [4 See also](#See_also)
-- [5 Selected Publications](#Selected_Publications)
-  - [5.1 1945 ...](#1945_...)
-  - [5.2 1950 ...](#1950_...)
-  - [5.3 1960 ...](#1960_...)
-  - [5.4 1970 ...](#1970_...)
-  - [5.5 1980 ...](#1980_...)
-  - [5.6 2000 ...](#2000_...)
-- [6 Forum Posts](#Forum_Posts)
-- [7 External Links](#External_Links)
-- [8 References](#References)
-
 ## Computer Chess
 
 Since the late 50s, at Kronrod's [Institute of Theoretical and Experimental Physics](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics"), Georgy Adelson-Velsky worked along with Kronrod, [Alexander Brudno](Alexander_Brudno "Alexander Brudno"), [Mikhail Bongard](https://en.wikipedia.org/wiki/Bongard_problem), Evgenii Landis, [Nikolay Konstantinov](https://en.wikipedia.org/wiki/Nikolay_Konstantinov), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") et al. on heuristic and game programming, where they elaborated on the foundations of computer chess. Since [1961](Timeline#1913 "Timeline") at ITEP, Georgy Adelson-Velsky co-developed the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"), along with [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov") and [Alexander Zhivotovsky](Alexander_Zhivotovsky "Alexander Zhivotovsky"), advised by Russian chess master [Alexander Bitman](Alexander_Bitman "Alexander Bitman"). At the end of 1966 a [four game match](Stanford-ITEP_Match "Stanford-ITEP Match") began between the [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program"), running on a [IBM 7090](IBM_7090 "IBM 7090") computer, and the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") on a Soviet [M-20](M-20 "M-20") computer. The match played over nine months was won 3-1 by the ITEP program. In 1971, along with [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") and [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), Georgy Adelson-Velsky became primary author of [Kaissa](Kaissa "Kaissa"), winner of the [first computer chess championship](WCCC_1974 "WCCC 1974") 1974 in Stockholm.

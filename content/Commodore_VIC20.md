@@ -12,13 +12,6 @@ It featured a [6502](6502 "6502") processor with [MOS Technology](https://en.wik
 The VIC-20 has an integrated [keyboard](https://en.wikipedia.org/wiki/Computer_keyboard), card [edge connectors](https://en.wikipedia.org/wiki/Edge_connector) for program/expansion [cartridges](https://en.wikipedia.org/wiki/ROM_cartridge) and a PET-standard [Datassette](https://en.wikipedia.org/wiki/Commodore_Datasette) tape drive.
 [Sargon II](Sargon#Sargon2 "Sargon") by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") was available as cartridge.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Category:VIC-20](Category:VIC-20 "Category:VIC-20")

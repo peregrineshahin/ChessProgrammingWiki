@@ -5,19 +5,6 @@ title: Checks and Pinned Pieces Bitboards
 
 This is about whether the [king](King "King") is in [check](Check "Check"). If so, one likely uses a specialized check evasion [move generator](Move_Generation "Move Generation"). One may also trigger search [extensions](Extensions "Extensions") - based on the king is in check - or based on the check evasion move generator only reports one valid move. Related to determining [discovered check](Discovered_Check "Discovered Check") is to look for [absolute pins](Pin#AbsolutePin "Pin").
 
-## Contents
-
-- [1 Checks](#checks)
-  - [1.1 On the Fly](#on-the-fly)
-  - [1.2 By Move](#by-move)
-    - [1.2.1 Direct Check](#direct-check)
-    - [1.2.2 Discovered Check](#discovered-check)
-- [2 Absolute Pins](#absolute-pins)
-- [3 Opposite Ray-Directions](#opposite-ray-directions)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 References](#references)
-
 ## Checks
 
 Whether the king is in check may be determined on the fly by looking up attacks to the king square - or based on the last move made by the other, probably checking side. Another option is to determine check giving moves already at generation time, and to flag moves accordantly.

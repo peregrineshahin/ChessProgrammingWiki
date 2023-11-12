@@ -8,19 +8,6 @@ title: Hagrid
 a [WinBoard](WinBoard "WinBoard") and [UCI](UCI "UCI") compliant chess engine by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), written in [C++](Cpp "Cpp"), first released in March 2002, while the development started as recently as September 2001 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 Hagrid is a [bitboard](Bitboards "Bitboards") engine and performs [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"), while its successor [Snitch](Snitch "Snitch") keeps the plain [8x8 board](8x8_Board "8x8 Board") and [piece-lists](Piece-Lists "Piece-Lists"), using [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-  - [1.3 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

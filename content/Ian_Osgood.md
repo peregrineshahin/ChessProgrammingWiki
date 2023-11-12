@@ -10,15 +10,6 @@ an American software developer <a id="cite-note-2" href="#cite-ref-2">[2]</a>, c
 He is author of [FCP](FCP "FCP") <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 the [Forth](Forth "Forth") Chess Program, originally derived from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") simple chess program [TSCP](TSCP "TSCP"), and the Forth [Go](Go "Go") playing program *FGP* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1998 ...

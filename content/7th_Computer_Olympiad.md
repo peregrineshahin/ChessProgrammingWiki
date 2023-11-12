@@ -8,29 +8,6 @@ title: 7th Computer Olympiad
 \[ [Maastricht University](Maastricht_University "Maastricht University") [[1]](#cite_note-1)
 The **Seventh Computer Olympiad** took place from July 5 to 11, [2002](Timeline#2002 "Timeline"), at [Maastricht University](Maastricht_University "Maastricht University"), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands), in conjunction with the [Tenth World Computer Chess Championship](WCCC_2002 "WCCC 2002"). The Olympiad as well the WCCC were held in the former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29) in the historic center of Maastricht, Bouillonstraat 1-3, which now belongs to the [Maastricht University](Maastricht_University "Maastricht University"). During the 7th Computer Olympiad the [workshop on computer games](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") was held, again organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk").
 
-## Contents
-
-- [1 Results](#Results)
-  - [1.1 Amazons](#Amazons)
-  - [1.2 Backgammon](#Backgammon)
-  - [1.3 Bridge](#Bridge)
-  - [1.4 Chinese Chess](#Chinese_Chess)
-  - [1.5 Dots and Boxes](#Dots_and_Boxes)
-  - [1.6 Draughts](#Draughts)
-  - [1.7 Go](#Go)
-    - [1.7.1 19x19](#19x19)
-    - [1.7.2 9x9](#9x9)
-  - [1.8 Lines of Action](#Lines_of_Action)
-  - [1.9 Shogi](#Shogi)
-- [2 See also](#See_also)
-- [3 Publications](#Publications)
-- [4 Workshop](#Workshop)
-  - [4.1 Lectures](#Lectures)
-  - [4.2 Photos](#Photos)
-- [5 Forum Posts](#Forum_Posts)
-- [6 External Links](#External_Links)
-- [7 References](#References)
-
 ## Results
 
 ## [Amazons](Amazons "Amazons")

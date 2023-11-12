@@ -10,36 +10,6 @@ was an English mathematician, logician, and [cryptographer](https://en.wikipedia
 
 Alan Turing was one of the pioneers of the [information theory](https://en.wikipedia.org/wiki/Information_theory) and computer science. He was highly influential in its development, giving a formalization of the concepts of "[algorithm](Algorithms "Algorithms")" and "[computation](https://en.wikipedia.org/wiki/Computation)" with the [Turing machine](Alan_Turing#TuringMachine "Alan Turing"), which can be considered a model of a [general purpose computer](https://en.wikipedia.org/wiki/Computer) [[9]](#cite_note-9).
 
-## Contents
-
-- [1 Photos](#Photos)
-- [2 Turing Machine](#Turing_Machine)
-- [3 Turing Test](#Turing_Test)
-- [4 Chess and Go](#Chess_and_Go)
-  - [4.1 Could one make a machine?](#Could_one_make_a_machine.3F)
-  - [4.2 Andrew Hodges](#Andrew_Hodges)
-  - [4.3 Jack Good](#Jack_Good)
-- [5 Punishment and Death](#Punishment_and_Death)
-- [6 See also](#See_also)
-- [7 Selected Publications](#Selected_Publications)
-  - [7.1 1936 ...](#1936_...)
-  - [7.2 1940 ...](#1940_...)
-  - [7.3 1950 ...](#1950_...)
-  - [7.4 1990 ...](#1990_...)
-  - [7.5 2000 ...](#2000_...)
-  - [7.6 2010 ...](#2010_...)
-- [8 Forum Posts](#Forum_Posts)
-- [9 External Links](#External_Links)
-  - [9.1 Turing Machine](#Turing_Machine_2)
-  - [9.2 Devices and Computers](#Devices_and_Computers)
-  - [9.3 Turing Test](#Turing_Test_2)
-  - [9.4 Turing Archive](#Turing_Archive)
-  - [9.5 Andrew Hodges](#Andrew_Hodges_2)
-  - [9.6 Literature](#Literature)
-  - [9.7 Turing Year 2012](#Turing_Year_2012)
-  - [9.8 Movies](#Movies)
-- [10 References](#References)
-
 ## Photos
 
 [](http://noosanakainisis.blogspot.de/2010/09/ratio-club.html)

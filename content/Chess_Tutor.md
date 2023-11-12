@@ -9,13 +9,6 @@ title: Chess Tutor
 a commercial chess program for the [ZX Spectrum](ZX_Spectrum "ZX Spectrum") developed by [David Horne](David_Horne "David Horne") and launched in 1983 by [Artic Computing](Artic_Computing "Artic Computing").
 The program plays chess on 3 different levels and teaches a beginner how to move the pieces.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Namesake](#namesake)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Tutor 1](index.php?title=Chess_Tutor_1&action=edit&redlink=1 "Chess Tutor 1 (page does not exist)")

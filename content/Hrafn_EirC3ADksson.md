@@ -12,13 +12,6 @@ For his B.Sc. thesis, he re-investigated [Multi-Cut pruning](Multi-Cut "Multi-Cu
 He proposed an enhancement to apply Multi-cut if a [transposition table](Transposition_Table "Transposition Table") probe indicates a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") without sufficient [draft](Depth "Depth") stored.
 The experiments as elaborated in his thesis were conducted with his own [open source engine](Category:Open_Source "Category:Open Source") [Ziggy](Ziggy_IS "Ziggy IS"), written in [Java](Java "Java") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Hrafn Eiríksson (**2011**). *[Investigation of Multi-Cut Pruning in Game-Tree Search](https://skemman.is/handle/1946/9180;jsessionid=E04F16CDFE730BD83A1C985CA8DB8944)*. B.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](http://skemman.is/en/stream/get/1946/9180/22971/1/research-report.pdf)

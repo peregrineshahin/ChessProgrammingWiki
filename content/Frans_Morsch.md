@@ -8,19 +8,6 @@ title: Frans Morsch
 
 a Dutch professional computer chess programmer. Author of various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") and [PC](IBM_PC "IBM PC")-programs. Frans, born in 1954, already started computer chess programming when he was thirteen years old <a id="cite-note-2" href="#cite-ref-2">[2]</a>. While studying physics, he started his career with his first program [Nona](Nona "Nona") written in [6502](6502 "6502") [Assembly](Assembly "Assembly"), and after first tournament successes soon became professional chess programmer - his first dedicated chess computer was the [Mephisto Mondial](Mephisto_Mondial "Mephisto Mondial") based on Nona <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He further developed programs for [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), [Saitek](Saitek "Saitek"), [ChessBase](ChessBase "ChessBase") and [TASC](TASC "TASC"), most notably his program [Quest](Quest "Quest") which in 1991 evolved to [Fritz](Fritz "Fritz"). After the release of Fritz 13 and 22 years of primary authorship, Frans Morsch retired from ChessBase on his own desire <a id="cite-note-4" href="#cite-ref-4">[4]</a>, the Fritz trademark continued with [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth") <a id="cite-note-5" href="#cite-ref-5">[5]</a> and [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 1986](#1986)
-  - [1.2 1995](#1995)
-  - [1.3 2002](#2002)
-- [2 Chess-Programs](#chess-programs)
-- [3 Dedicated Computers](#dedicated-computers)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 ## 1986

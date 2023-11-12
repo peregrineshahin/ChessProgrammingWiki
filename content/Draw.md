@@ -10,24 +10,6 @@ the outcome of a [chess game](Chess_Game "Chess Game") when it appears that neit
 
 Players may further [agree to a draw](https://en.wikipedia.org/wiki/Draw_by_agreement), the side to move may not only claim, but offer a draw, the other side may accept or decline - in computer chess, conform to a protocol and considering [game stage](Game_Phases "Game Phases"), late [endgame](Endgame "Endgame") [material](Material "Material") configuration, [score](Score "Score") history and forecast. In official over the board [computer chess tournaments](Tournaments_and_Matches "Tournaments and Matches") such as the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship"), operator draw agreements require confirmation by the tournament director or arbiter.
 
-## Contents
-
-- [1 Recognizing Draws](#recognizing-draws)
-- [2 Draw Score](#draw-score)
-- [3 Cray Blitz](#cray-blitz)
-- [4 Draw Topics](#draw-topics)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1995 ...](#1995-...)
-  - [7.2 2000 ...](#2000-...)
-  - [7.3 2005 ...](#2005-...)
-  - [7.4 2010 ...](#2010-...)
-  - [7.5 2015 ...](#2015-...)
-  - [7.6 2020 ...](#2020-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Recognizing Draws
 
 The primary purpose to recognize draws is to direct the chess program to produce drawing moves if alternatives are likely losing, or to avoid draws if ahead and alternative moves most likely win as reflected by the [score](Score "Score") of the [minimax search](Minimax "Minimax").

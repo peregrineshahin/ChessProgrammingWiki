@@ -8,31 +8,6 @@ title: Backtracking8QinBitboards
 
 a general search algorithm for finding solutions of certain [computational problems](https://en.wikipedia.org/wiki/Computational_problem). It incrementally builds candidates to a solution, and "backtracks" a partial candidate as soon as it determines it cannot become member of the solution. Therefor backtracking algorithms, most often implemented as [recursive](Recursion "Recursion") [depth-first](Depth-First "Depth-First") algorithm, are not considered [brute-force](Brute-Force "Brute-Force"), and have the advantage of potentially requiring a search tree with less nodes.
 
-## Contents
-
-- [1 History](#history)
-- [2 Applications](#applications)
-  - [2.1 De Bruijn Sequences](#de-bruijn-sequences)
-  - [2.2 Looking for Magics](#looking-for-magics)
-  - [2.3 8Q in Bitboards](#8q-in-bitboards)
-    - [2.3.1 Code](#code)
-    - [2.3.2 Node Counts](#node-counts)
-    - [2.3.3 Data and Print](#data-and-print)
-  - [2.4 N Queens](#n-queens)
-    - [2.4.1 By Marcel van Kervinck](#by-marcel-van-kervinck)
-    - [2.4.2 By Tony Lezard](#by-tony-lezard)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-  - [4.1 1960 ...](#1960-...)
-  - [4.2 1970 ...](#1970-...)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 1990 ...](#1990-...)
-  - [4.5 2000 ...](#2000-...)
-  - [4.6 2010 ...](#2010-...)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## History
 
 [Bitner](Mathematician#JRBitner "Mathematician") and [Reingold](Mathematician#EMReingold "Mathematician") <a id="cite-note-2" href="#cite-ref-2">[2]</a> credit [Derrick H. Lehmer](Mathematician#DHLehmer "Mathematician") with first using the term 'backtrack' in the 1950s, but it has been discovered and rediscovered many times. [Robert J. Walker](Mathematician#RJWalker "Mathematician") <a id="cite-note-3" href="#cite-ref-3">[3]</a> was the first who called using a well-known depth-first procedure Backtracking in 1960.

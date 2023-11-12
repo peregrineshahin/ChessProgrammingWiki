@@ -9,15 +9,6 @@ title: Bruce W. Leverett
 an American [FIDE](FIDE "FIDE") [master of chess](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.28FM.29) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, computer scientist, and software engineer at [Panasas](https://en.wikipedia.org/wiki/Panasas), a provider storage solutions. He received a Bachelor degree in physics and chemistry from [Harvard University](Harvard_University "Harvard University") in 1973, and a Ph.D. degree in computer science from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in 1981, elaborating on [register allocation in optimizing compilers](https://en.wikipedia.org/wiki/Register_allocation) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His research interests in academics and industry, beside [compiler optimization](Optimization "Optimization") and [code generation](https://en.wikipedia.org/wiki/Code_generation_%28compiler%29), include [memory management](Memory#Management "Memory") and [file systems](https://en.wikipedia.org/wiki/File_system), where he contributed to the [POSIX](https://en.wikipedia.org/wiki/POSIX) compliant [Episode filesystem](https://en.wikipedia.org/wiki/Episode_filesystem) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 As undergraduate at [Harvard University](Harvard_University "Harvard University") in the early 70s, he wrote the chess program [Leverett CP](Leverett_CP "Leverett CP") which participated the [ACM 1972](ACM_1972 "ACM 1972") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1977 ...](#1977-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

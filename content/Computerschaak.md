@@ -8,13 +8,6 @@ title: Computerschaak
 
 a Dutch computer chess magazine and for more than 30 years official organ of the Dutch Computer Chess Federation [CSVN](CSVN "CSVN"). Computerschaak was first published in 1981, two issues a year.
 
-## Contents
-
-- [1 Selected Authors](#selected-authors)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Authors
 
 - [Stan Arts](Stan_Arts "Stan Arts")

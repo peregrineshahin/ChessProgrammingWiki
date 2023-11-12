@@ -7,13 +7,6 @@ title: Albert Zobrist
 
 an American computer scientist, games researcher, and inventor of the famous [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing"), published in 1970 <a id="cite-note-1" href="#cite-ref-1">[1]</a>. He is further author of the first [Go program](Go "Go") in 1968 as part of his Ph.D. Thesis on [pattern recognition](Pattern_Recognition "Pattern Recognition") at the Computer Science Department of the [University of Wisconsin](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 While affiliated with the [University of Southern California](University_of_Southern_California "University of Southern California") and the [Jet Propulsion Laboratory](https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory), Zobrist researched on computer chess, and was along with [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") and [Charles Kalme](Charles_Kalme "Charles Kalme") co-author of the chess programs [USC CP](USC_CP "USC CP") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [Tyro](Tyro "Tyro"), participating at five [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1972](ACM_1972 "ACM 1972") and [ACM 1973](ACM_1973 "ACM 1973") with [USC CP](USC_CP "USC CP") and [ACM 1974](ACM_1974 "ACM 1974"), [ACM 1975](ACM_1975 "ACM 1975") and [ACM 1977](ACM_1977 "ACM 1977") with [Tyro](Tyro "Tyro") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

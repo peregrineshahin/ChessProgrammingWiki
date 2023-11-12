@@ -11,15 +11,6 @@ Like the [Fidelity Elite A/S](Elite "Elite") the computer with a [6502](6502 "65
 Elegance had a compact, wooden [sensory board](Sensory_Board "Sensory Board") with [reed switches](https://en.wikipedia.org/wiki/Reed_switch) and magnets in the chessmen.
 Along with his "team" members [Elite](Elite "Elite") and [Private Line](Private_Line "Private Line"), Elegance played the [4th World Microcomputer Chess Championship 1984](WMCCC_1984 "WMCCC 1984") in [Glasgow](https://en.wikipedia.org/wiki/Glasgow) <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Computer](#chess-computer)
-  - [3.2 Mosc](#mosc)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Challenger](Chess_Challenger "Chess Challenger")

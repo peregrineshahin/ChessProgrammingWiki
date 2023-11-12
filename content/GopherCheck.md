@@ -10,19 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 GopherCheck supports a [parallel search](Parallel_Search "Parallel Search"), defaulting to one search goroutine, a type of [light-weight process](https://en.wikipedia.org/wiki/Light-weight_process) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 per logical core. GopherCheck is [bitboard](Bitboards "Bitboards") based and determines [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [magic bitboards](Magic_Bitboards "Magic Bitboards") with plain, homogenous arrays, which performed better than the common [fancy implementations](Magic_Bitboards#Fancy "Magic Bitboards") whith individual table sizes, thus less memory but variable shift while calculating the index <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

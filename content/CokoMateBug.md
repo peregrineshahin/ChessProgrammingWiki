@@ -7,19 +7,6 @@ title: CokoMateBug
 
 a chess program by [Dennis Cooper](Dennis_Cooper "Dennis Cooper") and [Ed Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki") which competed the first four [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), [ACM 1970](ACM_1970 "ACM 1970"), [ACM 1971](ACM_1971 "ACM 1971"), [ACM 1972](ACM_1972 "ACM 1972") (**Coko III**) and [ACM 1972](ACM_1972 "ACM 1972") (**Coko IV**). Coko, the Cooper-Kozdrowicki chess program was written in [Fortran](Fortran "Fortran") as a highly selective tree searcher in the spirit of a [Shannon Type B](Type_B_Strategy "Type B Strategy") program using a tree pruning system (TPS) consists of a set of commands designed for programming heuristic tree searches <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Descriptions](#descriptions)
-  - [1.1 Abstract](#abstract)
-  - [1.2 Board Representation](#board-representation)
-  - [1.3 Search](#search)
-  - [1.4 Man-Machine Studies](#man-machine-studies)
-- [2 Mate in one?](#mate-in-one.3f)
-- [3 Mater](#mater)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Descriptions
 
 ## Abstract

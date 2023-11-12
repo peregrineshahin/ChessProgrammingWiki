@@ -6,16 +6,6 @@ title: Horizontal Mirroring
 [](http://bestdemotivationalposters.com/delusion/) Mirroring <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Horizontal Mirroring** mirrors all [pieces](Pieces "Pieces") along the vertical axis between the D- and E-[File](Files "Files"). Applicable if both sides have lost their [castling rights](Castling_Rights "Castling Rights"), horizontal mirroring should result in equal static [evaluation](Evaluation "Evaluation") [score](Score "Score"), but not necessarily equal [search](Search "Search") result if [pieces](Pieces "Pieces") and [squares](Squares "Squares") are traversed in different order. Along with [vertical flipping](Vertical_Flipping "Vertical Flipping") and/or [diagonal mirroring](Diagonal_Mirroring "Diagonal Mirroring"), horizontal mirroring is used in pawn-less [endgame tablebases](Endgame_Tablebases "Endgame Tablebases") to restrict a white king to the 10 squares of the a1-d4-d1 triangle of the board.
 
-## Contents
-
-- [1 Sample Position](#sample-position)
-  - [1.1 Horizontal Mirroring](#horizontal-mirroring)
-  - [1.2 Flipping & Rotation](#flipping-.26-rotation)
-- [2 Mirroring an 8x8 Board](#mirroring-an-8x8-board)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Sample Position
 
 ## Horizontal Mirroring

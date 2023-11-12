@@ -8,18 +8,6 @@ title: Cupcake
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), written in [Java](Java "Java"), first released in June, 2012.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 Cupcake's [move generator](Move_Generation "Move Generation") is almost identical to [Bruja's](Bruja "Bruja"), Dan's earlier [C++](Cpp "Cpp") program, but its speed is about half <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Cupcake utilizes [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") for [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). The [Java-bitscan](Java-Bitscan "Java-Bitscan") uses the 64-bit [De Bruijn multiplication](BitScan#DeBruijnMultiplation "BitScan").

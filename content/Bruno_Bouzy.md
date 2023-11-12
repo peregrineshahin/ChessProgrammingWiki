@@ -8,17 +8,6 @@ title: Bruno Bouzy
 
 a French mathematician, computer scientist and game researcher at [Paris Descartes University](University_of_Paris#5 "University of Paris"), and along with [Bernard Helmstetter](Bernard_Helmstetter "Bernard Helmstetter") and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") one of the pioneers in [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and its application in [Computer Go](Go "Go"). Bruno Bouzy is author of the Go playing program [Indigo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=2) <a id="cite-note-3" href="#cite-ref-3">[3]</a><a id="cite-note-4" href="#cite-ref-4">[4]</a>, which was already subject on his 1995 Ph.D. thesis at [Paris 6 University](University_of_Paris#6 "University of Paris") under advisor [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995](#1995)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>

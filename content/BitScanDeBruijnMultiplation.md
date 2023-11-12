@@ -8,50 +8,6 @@ title: BitScanDeBruijnMultiplation
 
 a function that determines the bit-index of the least significant 1 [bit](Bit "Bit") ([LS1B](General_Setwise_Operations#TheLeastSignificantOneBitLS1B "General Setwise Operations")) or the most significant 1 [bit](Bit "Bit") ([MS1B](General_Setwise_Operations#TheMostSignificantOneBitMS1B "General Setwise Operations")) in an integer such as [bitboards](Bitboards "Bitboards"). If exactly one bit is set in an unsigned integer, representing a numerical value of a [power of two](https://en.wikipedia.org/wiki/Power_of_two), this is equivalent to a [base-2 logarithm](https://en.wikipedia.org/wiki/Binary_logarithm). Many implementations have been devised since the advent of bitboards, as described on this page, and some [implementation samples](BitScan#EngineSamples "BitScan") of concrete [open source engines](Category:Open_Source "Category:Open Source") listed for didactic purpose.
 
-## Contents
-
-- [1 Hardware vs. Software](#Hardware_vs._Software)
-- [2 Non Empty Sets](#Non_Empty_Sets)
-- [3 Bitscan forward](#Bitscan_forward)
-  - [3.1 Trailing Zero Count](#Trailing_Zero_Count)
-  - [3.2 De Bruijn Multiplication](#De_Bruijn_Multiplication)
-    - [3.2.1 With isolated LS1B](#With_isolated_LS1B)
-    - [3.2.2 With separated LS1B](#With_separated_LS1B)
-  - [3.3 Matt Taylor's Folding trick](#Matt_Taylor.27s_Folding_trick)
-  - [3.4 Walter Faxon's magic Bitscan](#Walter_Faxon.27s_magic_Bitscan)
-  - [3.5 Bitscan by Modulo](#Bitscan_by_Modulo)
-  - [3.6 Divide and Conquer](#Divide_and_Conquer)
-  - [3.7 Double conversion of LS1B](#Double_conversion_of_LS1B)
-  - [3.8 Index of LS1B by Popcount](#Index_of_LS1B_by_Popcount)
-- [4 Bitscan reverse](#Bitscan_reverse)
-  - [4.1 Divide and Conquer](#Divide_and_Conquer_2)
-  - [4.2 Tribute to Frank Zappa](#Tribute_to_Frank_Zappa)
-  - [4.3 De Bruijn Multiplication](#De_Bruijn_Multiplication_2)
-  - [4.4 Double conversion](#Double_conversion)
-  - [4.5 Leading Zero Count](#Leading_Zero_Count)
-- [5 Bitscan versus Zero Count](#Bitscan_versus_Zero_Count)
-- [6 Bitscan with Reset](#Bitscan_with_Reset)
-- [7 Generalized Bitscan](#Generalized_Bitscan)
-- [8 Processor Instructions for Bitscans](#Processor_Instructions_for_Bitscans)
-  - [8.1 x86](#x86)
-    - [8.1.1 Emulating Intrinsics](#Emulating_Intrinsics)
-    - [8.1.2 Intrinsics versus asm](#Intrinsics_versus_asm)
-    - [8.1.3 Bsf/Bsr x86-64 Timings](#Bsf.2FBsr_x86-64_Timings)
-    - [8.1.4 Bsf/Bsr behavior with zero source](#Bsf.2FBsr_behavior_with_zero_source)
-  - [8.2 ARM](#ARM)
-- [9 Engine Samples](#Engine_Samples)
-- [10 See also](#See_also)
-- [11 Publications](#Publications)
-- [12 Forum Posts](#Forum_Posts)
-  - [12.1 1996 ...](#1996_...)
-  - [12.2 2000 ...](#2000_...)
-  - [12.3 2005 ...](#2005_...)
-  - [12.4 2010 ...](#2010_...)
-  - [12.5 2015 ...](#2015_...)
-  - [12.6 2020 ...](#2020_...)
-- [13 External Links](#External_Links)
-- [14 References](#References)
-
 ## Hardware vs. Software
 
 For recent [x86-64](X86-64 "X86-64") architectures like [Core 2 duo](https://en.wikipedia.org/wiki/Intel_Core_2) and [K10](https://en.wikipedia.org/wiki/AMD_K10), one should use the [Processor Instructions for Bitscans](BitScan#bsfbsr "BitScan") via intrinsics or [inline assembly](Assembly#InlineAssembly "Assembly"), see [x86-64 timing](BitScan#x86Timing "BitScan"). [P4](https://en.wikipedia.org/wiki/Pentium_4) and [K8](https://en.wikipedia.org/wiki/Athlon_64) have rather slow bitscan-instructions. K8 uses so called *vector path instructions* [[2]](#cite_note-2) with 9 or 11 cycles latency, even blocking other processor resources. For these processors, specially K8 with already fast multiplication, the [De Bruijn Multiplication](BitScan#DeBruijnMultiplation "BitScan") (64-bit mode) or [Matt Taylor's](Matt_Taylor "Matt Taylor") [Folded 32-bit Multiplication](BitScan#MattTaylorsFoldingtrick "BitScan") (32-bit mode) might be the right choice. Other routines mentioned might be advantageous on certain architectures, specially with slow integer multiplications.

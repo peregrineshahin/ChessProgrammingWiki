@@ -6,14 +6,6 @@ title: BarIlan University
 \[ [Gonda Brain Research Center](https://en.wikipedia.org/wiki/Bar-Ilan_University#Leslie_and_Susan_Gonda_Multidisciplinary_Brain_Research_Center) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Bar-Ilan University**, [Ramat Gan](https://en.wikipedia.org/wiki/Ramat_Gan), [Israel](https://en.wikipedia.org/wiki/Israel)
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 Events](#events)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## People
 
 - [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

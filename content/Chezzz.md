@@ -8,24 +8,6 @@ title: Chezzz
 
 a chess engine by [David Rasmussen](David_Rasmussen "David Rasmussen"), which was according to [Leo Dijksman](Leo_Dijksman "Leo Dijksman") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") <a id="cite-note-3" href="#cite-ref-3">[3]</a> the 100th [WinBoard](WinBoard "WinBoard") engine. Chezzz played seven consecutive [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), starting in 2001 with the [CCT3](CCT3 "CCT3"), until 2007 the [CCT9](CCT9 "CCT9").
 
-## Contents
-
-- [1 Thesis Program](#thesis-program)
-  - [1.1 Bitboards](#bitboards)
-  - [1.2 Search](#search)
-- [2 Selected Games](#selected-games)
-  - [2.1 CCT5](#cct5)
-  - [2.2 CCT7](#cct7)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2001](#2001)
-  - [5.2 2002](#2002)
-  - [5.3 2003](#2003)
-  - [5.4 2004 ...](#2004-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Thesis Program
 
 Presumably, Chezzz is similar to Rasmussen's thesis program described in detail in his 2004 Master's thesis <a id="cite-note-4" href="#cite-ref-4">[4]</a> - concerning [board representation](Board_Representation "Board Representation") and the serial [search](Search "Search"), while the [evaluation](Evaluation "Evaluation") of the thesis program is very rudimentary relying on [material](Material "Material") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") only - [C++](Cpp "Cpp") source code given in Appendix B. Interesting for [C++](Cpp "Cpp") programmers is Appendix B.12 enums.h with DeclareEnumTricks <a id="cite-note-5" href="#cite-ref-5">[5]</a> and forall Macros.

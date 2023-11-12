@@ -10,16 +10,6 @@ an Indian born, Australian-British electrical engineer, computer scientist, and 
 He holds a Ph.D. from [University of New South Wales](https://en.wikipedia.org/wiki/University_of_New_South_Wales) on [Non-monotonic logics](https://en.wikipedia.org/wiki/Non-monotonic_logic) and their application.
 His research interests include symbolic [machine learning](Learning "Learning"), [inductive logic programming (ILP)](https://en.wikipedia.org/wiki/Inductive_logic_programming), implementation of ILP in particular the ILP systems *Aleph* <a id="cite-note-5" href="#cite-ref-5">[5]</a> and *P-Progol* <a id="cite-note-6" href="#cite-ref-6">[6]</a>, [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) and [chemoinformatics](https://en.wikipedia.org/wiki/Cheminformatics) <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 ILP and Chess](#ilp-and-chess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1990 ...](#1990-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## ILP and Chess
 
 Abstract from *Distinguishing exceptions from noise in non-monotonic Learning* <a id="cite-note-8" href="#cite-ref-8">[8]</a>:

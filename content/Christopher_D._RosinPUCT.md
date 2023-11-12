@@ -8,16 +8,6 @@ title: Christopher D. RosinPUCT
 
 an American computer scientist working in the fields of [machine learning](Learning "Learning") and [medical monitoring](<https://en.wikipedia.org/wiki/Monitoring_(medicine)>), as well as computer [Go](Go "Go") programmer. He defended his Ph.D. in 1997 at [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego) on the topic of [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 PUCT](#puct)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1995 ...](#1995-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## PUCT
 
 As author of the [Go](Go "Go") playing program *Greenpeep* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, Chris Rosin devised an improvement of [UCT](UCT "UCT") dubbed **PUCT**, as implemented in his program, the idea further published and elaborated in *Multi-armed bandits with episode context* <a id="cite-note-4" href="#cite-ref-4">[4]</a>. PUCT modifies the original UCB1 multi-armed bandit policy by approximately predicting good arms at the start of a sequence of multi-armed bandit trials ('Predictor' + UCB = PUCB). A variation of PUCT was used in the [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)") and [AlphaZero](AlphaZero "AlphaZero") projects <a id="cite-note-5" href="#cite-ref-5">[5]</a> , and subsequently also in [Leela Zero](index.php?title=Leela_Zero&action=edit&redlink=1 "Leela Zero (page does not exist)") and [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

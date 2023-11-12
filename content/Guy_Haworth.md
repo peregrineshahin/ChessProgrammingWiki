@@ -8,19 +8,6 @@ title: Guy Haworth
 
 was a British computer scientist and lecturer from the School of Systems Engineering [[3]](#cite_note-3) , [University of Reading](https://en.wikipedia.org/wiki/University_of_Reading). Guy Haworth's research interests included the use of chess as a demonstration domain, and the [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis") creation of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"). He collaborated with [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [Peter Karrer](Peter_Karrer "Peter Karrer"), [John Tamplin](John_Tamplin "John Tamplin"), [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") and [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") on Investigations of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") with Depth to Mate (DTM), Depth to Conversion (DTC), DTZ and DTZ50 metrics.Data on percentage-wins, maximal-DTx figures and positions, and [mutual zugzwangs](Zugzwang "Zugzwang") have been filed and made available on the web, as have the DTM EGTs [[4]](#cite_note-4) . Since 2002, Guy has demonstrated 'Skilloscopy', i.e. methods of measuring the Skill of Fallible Decision Makers, by ranking chess players according to the quality of their moves in the full move-context of the positions in which those moves were played. He served as Vice-President of the [ICGA](ICGA "ICGA") from 2002 until 2005. Guy Haworth died on June 16, 2021 aged 74.
 
-## Contents
-
-- [1 Selected Publications](#Selected_Publications)
-  - [1.1 1998 ...](#1998_...)
-  - [1.2 2000 ...](#2000_...)
-  - [1.3 2005 ...](#2005_...)
-  - [1.4 2010 ...](#2010_...)
-  - [1.5 2015 ...](#2015_...)
-  - [1.6 2020 ...](#2020_...)
-- [2 Postings](#Postings)
-- [3 External Links](#External_Links)
-- [4 References](#References)
-
 ## Selected Publications
 
 [[5]](#cite_note-5) [[6]](#cite_note-6)

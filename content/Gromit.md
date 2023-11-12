@@ -9,20 +9,6 @@ title: Gromit
 a chess engine by [Frank Schneider](Frank_Schneider "Frank Schneider") and [Kai Skibbe](Kai_Skibbe "Kai Skibbe"). **Gromit**, later renamed to **GromitChess**, was initially written by Frank. In 1999 former tester Kai Skibbe joined the development <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Gromit and GromitChess played several [IPCCCs](IPCCC "IPCCC"), the [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), [WCCC 1999](WCCC_1999 "WCCC 1999") in Paderborn and the [WMCCC 2001](WMCCC_2001 "WMCCC 2001") in Maastricht, where it won the title of the Amateur World Microcomputer Chess Champion. Early versions (1.2) were standalone engines with an own [GUI](GUI "GUI"), later versions (> 2.0) were [WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard") compatible, a dedicated version (3.1) was sold along with other [Young Talents](ChessBase#YoungTalents "ChessBase") by [ChessBase](ChessBase "ChessBase"), running under their [Database](</ChessBase_(Database)> "ChessBase (Database)") or [Fritz GUI](Fritz#FritzGUI "Fritz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. GromitChess (3.10.3) emphasized its ambitions going commercial while incorporated into the [PocketGrandmaster](PocketGrandmaster "PocketGrandmaster") for [Pocket PC](index.php?title=Pocket_PC&action=edit&redlink=1 "Pocket PC (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and became predecessor of [Anaconda](Anaconda "Anaconda").
 
-## Contents
-
-- [1 Description](#description)
-- [2 Copy Make](#copy-make)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1997 ...](#1997-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 given in 1999 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

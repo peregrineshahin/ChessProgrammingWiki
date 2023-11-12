@@ -8,24 +8,6 @@ title: FalconGA
 
 a private chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> by [Eli David](Eli_David "Eli David") and successor of Eli's earlier program [Genesis](Genesis_IL "Genesis IL"). Falcon participated at three [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 2003](WCCC_2003 "WCCC 2003") in [Graz](https://en.wikipedia.org/wiki/Graz), the [WCCC 2004](WCCC_2004 "WCCC 2004") in [Ramat Gan](https://en.wikipedia.org/wiki/Ramat_Gan), and the [WCCC 2008](WCCC_2008 "WCCC 2008") in [Beijing](https://en.wikipedia.org/wiki/Beijing) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, as well the [CCT6](CCT6 "CCT6") on-line tournament. Book authors were [Eros Riccio](Eros_Riccio "Eros Riccio") in 2004, and [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") in 2008.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Genetic Algorithm](#genetic-algorithm)
-  - [2.1 Falcon Breeding](#falcon-breeding)
-  - [2.2 Learning Result](#learning-result)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Falcon Chess Variant](#falcon-chess-variant)
-  - [7.2 Falcons](#falcons)
-  - [7.3 Falconry](#falconry)
-  - [7.4 The Maltese Falcon](#the-maltese-falcon)
-  - [7.5 Misc](#misc)
-- [8 References](#references)
-
 ## Features
 
 Falcon applies [NegaScout](NegaScout "NegaScout")/[PVS](Principal_Variation_Search "Principal Variation Search") with [null move pruning](Null_Move_Pruning "Null Move Pruning"), [internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening"), [dynamic move ordering](Move_Ordering "Move Ordering") by [history](History_Heuristic "History Heuristic") and [killer heuristic](Killer_Heuristic "Killer Heuristic"), [multi-cut pruning](Multi-Cut "Multi-Cut"), [selective extensions](Extensions "Extensions"), [transposition table](Transposition_Table "Transposition Table"), and [futility pruning](Futility_Pruning "Futility Pruning") near [leaf nodes](Leaf_Node "Leaf Node") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and [blockade detection](Blockage_Detection "Blockage Detection") in [endgames](Endgame "Endgame") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

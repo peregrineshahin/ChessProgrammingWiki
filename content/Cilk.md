@@ -5,24 +5,6 @@ title: Cilk
 
 **Cilk** (pronounced "silk") is a [C](C "C")-based, general-purpose programming language designed for [multithreaded](https://en.wikipedia.org/wiki/Multithreading_%28computer_architecture%29) parallel computing. Cilk started as in the mid 90s as a project at the Supertech research group in the [MIT Labroratory](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") headed by [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"). Important milestones in Cilk technology include the original Cilk-1, which provided a provably efficient work-stealing runtime support but little linguistic support, the later Cilk-5, which provided simple linguistic extensions for multithreading to [ANSI C](https://en.wikipedia.org/wiki/ANSI_C), the commercial *Cilk++* by *Cilk Arts*, which extended the Cilk model to [C++](Cpp "Cpp"), and after [Intel](Intel "Intel") acquired *Cilk Arts* in 2009, [Intel Cilk Plus](https://en.wikipedia.org/wiki/Intel_Cilk_Plus). In November 2010, Intel published a language and an [ABI](https://en.wikipedia.org/wiki/Application_binary_interface) specification to enable other compilers to implement Cilk Plus <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Parallel Chess](#parallel-chess)
-  - [1.1 Cilk-5 Linguistic Extensions](#cilk-5-linguistic-extensions)
-  - [1.2 Parallel Alpha-Beta](#parallel-alpha-beta)
-  - [1.3 Quote](#quote)
-- [2 Cilk++](#cilk.2b.2b)
-- [3 Intel Cilk Plus](#intel-cilk-plus)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-  - [5.1 1995 ...](#1995-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2010 ...](#2010-...)
-- [6 Manuals](#manuals)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Parallel Chess
 
 Cilk's testbeds in the 90s were chess programs using a [parallel search](Parallel_Search "Parallel Search"). [\*Socrates](Star_Socrates "Star Socrates") used the [Jamboree](Jamboree "Jamboree") algorithm to search game trees in parallel and uses the Cilk 1.0 language and run-time system to express and to schedule the computation. [CilkChess](CilkChess "CilkChess") was written using the Cilk-5 linguistic extensions.

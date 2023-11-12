@@ -9,17 +9,6 @@ title: HexxPawn
 a chess engine written by [Mark Hummel](Mark_Hummel "Mark Hummel"). HexxPawn played various [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"),
 and was also an early entry in the [ANU Carbon-Silicon Tournaments](ANU_Carbon-Silicon_Tournaments "ANU Carbon-Silicon Tournaments") before 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-    - [3.2.1 Hex](#hex)
-    - [3.2.2 Witch](#witch)
-- [4 References](#references)
-
 ## Selected Games
 
 [NC3 2005](NC3_2005 "NC3 2005"), round 6, HexxPawn - [Chompster](Chompster "Chompster") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

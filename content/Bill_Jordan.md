@@ -9,16 +9,6 @@ title: Bill Jordan
 an Australian chess player, [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.28FM.29),
 in 1974 [Australian Junior Champion](https://en.wikipedia.org/wiki/Australian_Chess_Championship#Australian_Junior_Champions), in 1997 Australian Postal champion <a id="cite-note-2" href="#cite-ref-2">[2]</a>, chess coach and writer, as well as software developer with focus on chess and [Checkers](Checkers "Checkers") programs and utilities.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2018 ...](#2018-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 Postings](#postings)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Computer Chess
 
 As computer chess programmer Bill, Jordan is author of various chess tools and the [WinBoard](WinBoard "WinBoard") compliant chess engines [Bills Bare Bones Chess](Bills_Bare_Bones_Chess "Bills Bare Bones Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a> aka Basic-Chess, and [Awesome](Awesome "Awesome") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

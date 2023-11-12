@@ -8,12 +8,6 @@ title: Eric van Reem
 
 a Dutch chess and computer chess journalist, former editor of [Computerschaak](Computerschaak "Computerschaak"), the organ of the [Dutch Computer Chess Federation (CSVN)](CSVN "CSVN"). Additionally, Eric wrote for [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), [ChessBase](ChessBase "ChessBase"), [Walter Eigenmann's](index.php?title=Walter_Eigenmann&action=edit&redlink=1 "Walter Eigenmann (page does not exist)") online magazine [Glarean](http://glareanverlag.wordpress.com/) and other chess periodical as well. Working as [Star Alliance](https://en.wikipedia.org/wiki/Star_Alliance) controller in [Frankfurt am Main](https://en.wikipedia.org/wiki/Frankfurt_am_Main), Germany, Eric was member of the *Chess Tigers Team* around [Hans-Walter Schmitt](index.php?title=Hans-Walter_Schmitt&action=edit&redlink=1 "Hans-Walter Schmitt (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and was involved in press relations and tournament direction of the Chess Classic Mainz ([Chess960](Chess960 "Chess960")) and the [Livingston Chess960 Computer World Championship](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 - Eric van Reem (**2001**). *Tiger und Rebel gleichauf in Leiden*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 6/2001 (German) » [DOCCC 2001](DOCCC_2001 "DOCCC 2001")

@@ -12,18 +12,6 @@ licensed under the [GPL 3.0](Free_Software_Foundation#GPL "Free Software Foundat
 Cyclone **3.4** uses [principal variation search](Principal_Variation_Search "Principal Variation Search"), [iterative deepening](Iterative_Deepening "Iterative Deepening"), [MVV-LVA](MVV-LVA "MVV-LVA"), [transposition tables](Transposition_Table "Transposition Table"), [null-move pruning](Null_Move_Pruning "Null Move Pruning"), [quiescence search](Quiescence_Search "Quiescence Search"), [futility pruning](Futility_Pruning "Futility Pruning"), [history pruning](History_Leaf_Pruning "History Leaf Pruning"), [lazy evaluation](Lazy_Evaluation "Lazy Evaluation"), [razoring](Razoring "Razoring"), and various search [reductions](Reductions "Reductions") and [extensions](Extensions "Extensions").
 Cyclone's [parallel search](Parallel_Search "Parallel Search") utilizes [threads](Thread "Thread") and a [shared hash table](Shared_Hash_Table "Shared Hash Table").
 
-## Contents
-
-- [1 Cyclone xTreme](#cyclone-xtreme)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2008](#2008)
-  - [2.2 2009](#2009)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Cyclone xTreme
 
 **Cyclone xTreme**, based on [Fruit 2.1](Fruit "Fruit") by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Toga II](Toga "Toga") by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch"), [Grapefruit 1.0](Grapefruit "Grapefruit") by [ThinkingALot](ThinkingALot "ThinkingALot"), [Toga CMLX 145e4](Toga#CMLX "Toga") by [Teemu Pudas](Teemu_Pudas "Teemu Pudas"), and Cyclone 3.4 by Norman Schmidt,

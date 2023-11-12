@@ -8,38 +8,6 @@ title: BitboardsBitboardHistory
 
 also called bitsets or bitmaps, or better **Square Sets**, are among other things used to represent the [board](Chessboard "Chessboard") inside a chess program in a **piece centric** manner. Bitboards, are in essence, [finite sets](https://en.wikipedia.org/wiki/Finite_set) of up to [64](https://en.wikipedia.org/wiki/64_%28number%29) [elements](https://en.wikipedia.org/wiki/Element_%28mathematics%29) - all the [squares](Squares "Squares") of a [chessboard](Chessboard "Chessboard"), one [bit](Bit "Bit") per square. Other board [games](Games "Games") with greater board sizes may be use set-wise representations as well [[2]](#cite_note-2), but classical chess has the advantage that one [64-bit word](Quad_Word "Quad Word") or register covers the whole board. Even more bitboard friendly is [Checkers](Checkers "Checkers") with 32-bit bitboards and less [piece-types](Pieces#PieceTypeCoding "Pieces") than chess [[3]](#cite_note-3) [[4]](#cite_note-4).
 
-## Contents
-
-- [1 The Board of Sets](#The_Board_of_Sets)
-- [2 Bitboard Basics](#Bitboard_Basics)
-  - [2.1 General Bitboard Techniques](#General_Bitboard_Techniques)
-  - [2.2 Pattern and Attacks](#Pattern_and_Attacks)
-  - [2.3 Move Generation Issues](#Move_Generation_Issues)
-  - [2.4 Miscellaneous](#Miscellaneous)
-  - [2.5 Defining Bitboards](#Defining_Bitboards)
-- [3 Bitboard-History](#Bitboard-History)
-- [4 Analysis](#Analysis)
-- [5 Publications](#Publications)
-  - [5.1 1970 ...](#1970_...)
-  - [5.2 1980 ...](#1980_...)
-  - [5.3 1990 ...](#1990_...)
-  - [5.4 2000 ...](#2000_...)
-  - [5.5 2010 ...](#2010_...)
-- [6 Forum Posts](#Forum_Posts)
-  - [6.1 1994](#1994)
-  - [6.2 1995 ...](#1995_...)
-  - [6.3 2000 ...](#2000_..._2)
-  - [6.4 2005 ...](#2005_...)
-  - [6.5 2010 ...](#2010_..._2)
-  - [6.6 2015 ...](#2015_...)
-  - [6.7 2020 ...](#2020_...)
-- [7 Viewer & Calculator](#Viewer_.26_Calculator)
-- [8 External Links](#External_Links)
-  - [8.1 Descriptions](#Descriptions)
-  - [8.2 Libraries](#Libraries)
-  - [8.3 Misc](#Misc)
-- [9 References](#References)
-
 ## The Board of Sets
 
 To [represent the board](Board_Representation "Board Representation") we typically need one bitboard for each [piece-type](Pieces#PieceTypeCoding "Pieces") and [color](Color "Color") - likely encapsulated inside a class or structure, or as an [array](Array "Array") of bitboards as part of a position object. A one-bit inside a bitboard implies the existence of a piece of this piece-type on a certain square - one to one associated by the bit-position.

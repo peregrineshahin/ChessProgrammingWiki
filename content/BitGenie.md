@@ -10,20 +10,6 @@ an [UCI](UCI "UCI") compatible [open source chess engine](Category:Open_Source "
 licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"), and first released in March 2021 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Bit-Genie **9**, released in August 2021, features [NNUE](NNUE "NNUE") [Evaluation](Evaluation "Evaluation") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Features](#selected-features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Selected Features
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

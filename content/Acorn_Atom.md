@@ -12,18 +12,6 @@ The Atom had 2 KiB expandable to 12 KiB of [RAM](Memory#RAM "Memory") and 8 KiB 
 In late 1982, Acorn released an upgrade ROM which allowed users to switch between Atom BASIC and the more advanced [BBC BASIC](Basic#BBC "Basic") used by its successor, the [BBC Micro](BBC_Micro "BBC Micro").
 The [Motorola 6847](https://en.wikipedia.org/wiki/Motorola_6847) video chip provided text and graphics displayed on a [TV](https://en.wikipedia.org/wiki/Television#Electronic) or [video monitor](https://en.wikipedia.org/wiki/Computer_monitor).
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 See also](#see-also)
-- [3 Manuals](#manuals)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Acorn Atom](#acorn-atom)
-  - [5.2 Chess Programs](#chess-programs-2)
-  - [5.3 Misc](#misc)
-- [6 References](#references)
-
 ## Chess Programs
 
 - [Category:Acorn Atom](Category:Acorn_Atom "Category:Acorn Atom")

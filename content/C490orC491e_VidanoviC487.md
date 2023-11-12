@@ -8,14 +8,6 @@ title: C490orC491e VidanoviC487
 
 a Serbian professor of [semantics](https://en.wikipedia.org/wiki/Semantics) and [cognitive science](Cognition "Cognition") at the [University of Niš](https://en.wikipedia.org/wiki/University_of_Ni%C5%A1). Đorđe Vidanović is a computer chess expert, early supporter of the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") protocol and [WinBoard Engines](Category:WinBoard "Category:WinBoard"), and the [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") of various chess engines, beside others, notably for [Ruffian](Ruffian "Ruffian") and early [Rybka](Rybka "Rybka") versions <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and along with primary author [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") co-author of chess engine [Axon](Axon "Axon"), and also involved in its parallel incarnation [Achilles](Achilles "Achilles"), responsible for the book moves <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Nato bombing of Niš](#nato-bombing-of-ni.c5.a1)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Nato bombing of Niš
 
 In 1999 Djordje reported about the [Nato Cluster bombing of Niš](https://en.wikipedia.org/wiki/Ni%C5%A1_cluster_bombing) <a id="cite-note-5" href="#cite-ref-5">[5]</a> .

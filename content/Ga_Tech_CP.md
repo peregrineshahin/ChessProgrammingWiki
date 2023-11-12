@@ -7,13 +7,6 @@ title: Ga Tech CP
 
 the [Georgia Tech](Georgia_Institute_of_Technology "Georgia Institute of Technology") chess program by [Lawrence Futrell](Lawrence_Futrell "Lawrence Futrell"), written in [Algol](Algol "Algol"). Ga Tech CP played the [ACM 1973](ACM_1973 "ACM 1973") in [Atlanta](https://en.wikipedia.org/wiki/Atlanta%2C_Georgia), [Georgia](https://en.wikipedia.org/wiki/Georgia_%28U.S._state%29) and ran on a [Burroughs B-5500](Burroughs_B-5500 "Burroughs B-5500") of the university <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Making A Machine "Think"](#making-a-machine-.22think.22)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [ACM 1973](ACM_1973 "ACM 1973"), round 2, [T. Belle](Belle "Belle") - Ga Tech CP

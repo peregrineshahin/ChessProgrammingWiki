@@ -9,16 +9,6 @@ title: Alan Blair
 an Australian computer scientist, Ph.D. in Mathematics from [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and senior lecturer at School of Computer Science and Engineering <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [University of New South Wales](https://en.wikipedia.org/wiki/University_of_New_South_Wales) (UNSW). His research interests include [co-evolutionary](https://en.wikipedia.org/wiki/Coevolution) [learning](Learning "Learning"), [mobile robots](https://en.wikipedia.org/wiki/Mobile_robot) and [language processing](https://en.wikipedia.org/wiki/Natural_language_processing).
 He is author of the [Go](Go "Go") playing program *thcGo*, using a [recurrent cellular neural network](Neural_Networks "Neural Networks") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Duchess](#duchess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1994 ...](#1994-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Duchess
 
 [](http://www.cse.unsw.edu.au/~blair/duchess/make.html) Duchess board <a id="cite-note-6" href="#cite-ref-6">[6]</a>

@@ -9,21 +9,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 written in [C++](Cpp "Cpp"), released under the [GNU Public License](Free_Software_Foundation#GPL "Free Software Foundation").
 EXchess may optionally use an own [GUI](GUI "GUI") based on the [Fast Light Tool Kit (FLTK)](https://en.wikipedia.org/wiki/FLTK).
 
-## Contents
-
-- [1 Board Representation](#board-representation)
-- [2 Search](#search)
-- [3 Lazy SMP](#lazy-smp)
-- [4 TD-leaf](#td-leaf)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1997 ...](#1997-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Board Representation
 
 EXchess utilizes an [8x8 Board](8x8_Board "8x8 Board") and [piece lists](Piece-Lists "Piece-Lists") as demonstrated in its [move generation routine](Move_Generation "Move Generation") <a id="cite-note-1" href="#cite-ref-1">[1]</a> :

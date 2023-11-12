@@ -8,13 +8,6 @@ title: Eric Wefald
 was an American computer scientist and researcher from [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), [California](https://en.wikipedia.org/wiki/California), who co-authored with [Stuart Russell](Stuart_Russell "Stuart Russell") on multiple papers on [search](Search "Search") control, [machine learning](Learning "Learning"), and [metareasoning](https://en.wiktionary.org/wiki/metareasoning), that is the process of reasoning about reasoning itself.
 Eric Wefald obtained a [Master of philosophy](https://en.wikipedia.org/wiki/Master_of_Philosophy) from [Princeton](https://en.wikipedia.org/wiki/Princeton_University) in 1985, and was completing a doctorate in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") at U.C. Berkeley, when he died in a car accident near [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux), [France](https://en.wikipedia.org/wiki/France), on August 31, 1989.
 
-## Contents
-
-- [1 Decision-Theoretic Search Control](#decision-theoretic-search-control)
-- [2 Optimal Game-Tree Search](#optimal-game-tree-search)
-- [3 Selected Publications](#selected-publications)
-- [4 References](#references)
-
 ## Decision-Theoretic Search Control
 
 Abstract from [Stuart Russell](Stuart_Russell "Stuart Russell") and Eric Wefald (**1988**). *Decision-Theoretic Search Control: General Theory and an Application to Game-Playing.* <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

@@ -10,15 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Ceres provides an [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") implementation with many novel algorithmic improvements and low level optimizations, searching over the [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") backends <a id="cite-note-2" href="#cite-ref-2">[2]</a> with the perspective of an enormous increase in [playing strength](Playing_Strength "Playing Strength") over Lc0. Ceres' [move generation](Move_Generation "Move Generation") code is adapted from [Judd Niemann's](Judd_Niemann "Judd Niemann") [Quad-Bitboards](Quad-Bitboards "Quad-Bitboards") based [Perft](Perft "Perft") approach [Juddperft](index.php?title=Juddperft&action=edit&redlink=1 "Juddperft (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 As posted by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk") on January 01, 2021, it is possible that Ceres will co-exist in parallel to Lc0 and LCZero developers will try to back-port new ideas, or LCZero developers will abandon Lc0 completely and switch to Ceres <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Postings](#postings)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [AlphaZero](AlphaZero "AlphaZero")

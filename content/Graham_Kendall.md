@@ -8,15 +8,6 @@ title: Graham Kendall
 
 a British computer scientist and professor at the [University of Nottingham](https://en.wikipedia.org/wiki/University_of_Nottingham), Malaysia Campus. His research interests include [operational research](https://en.wikipedia.org/wiki/Operations_research), [evolutionary computing](Genetic_Programming#EvolutionaryComputation "Genetic Programming"), [scheduling](https://en.wikipedia.org/wiki/Scheduling), [cutting](https://en.wikipedia.org/wiki/Cutting_stock_problem) and [packing](https://en.wikipedia.org/wiki/Bin_packing_problem), timetabling and games, such as the [iterated prisoners' dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#The_iterated_prisoners.27_dilemma) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Poker](index.php?title=Poker&action=edit&redlink=1 "Poker (page does not exist)"), evolutionary [Checkers](Checkers "Checkers") and [Automated Tuning](Automated_Tuning "Automated Tuning") in Chess.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

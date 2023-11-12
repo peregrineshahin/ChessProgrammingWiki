@@ -9,16 +9,6 @@ title: Dragon Chess Assistant
 an analysis engine of [Convekta's](ChessOK "ChessOK") [Chess Assistant](Chess_Assistant "Chess Assistant") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, recently declared as Handicap engine <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Not to confused with the original [Dragon](Dragon_RU "Dragon RU") by [Yuri Shpeer](Yuri_Shpeer "Yuri Shpeer"), CA's Dragon is based on [Centaur](Centaur "Centaur") by [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev") and [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin") with some code units from [Mirage](Mirage "Mirage") by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin") and Yuri Shpeer incorporated <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Like Mirage, Dragon applies possibly [fractional ply increments](Depth#FractionalPlies "Depth") while analyzing a position, for instance at reported [depths](Depth "Depth") of 1, 2, 3, 4, 6, 10, 18 during [iterative deepening](Iterative_Deepening "Iterative Deepening") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . According to the *All you ever wanted to know about [Convekta](ChessOK "ChessOK")* site by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), Dragon was the work of Alexey Manjakhin <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Convekta](#convekta)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Namesake
 
 - [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess")

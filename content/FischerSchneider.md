@@ -9,14 +9,6 @@ title: FischerSchneider
 
 the first German chess program developed since 1965 by two math students at [University of Stuttgart](https://en.wikipedia.org/wiki/University_of_Stuttgart), [Hans-Jochen Schneider](Hans-Jochen_Schneider "Hans-Jochen Schneider") and [Kurt Fischer](Kurt_Fischer "Kurt Fischer"). Initially written in a [assembly language](Assembly "Assembly") dubbed TEXAS (Telefunken Externcode Assembler) for a [Telefunken](https://en.wikipedia.org/wiki/Telefunken) [TR-4](TR-4 "TR-4") mainframe computer, it was later ported to run on a [IBM System 360](IBM_360 "IBM 360"). Fischer-Schneider participated at the [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament") 1975 with a 50% score <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and in 1973 gained some publicity when it played and lost to [Paul Keres](https://en.wikipedia.org/wiki/Paul_Keres) and [Boris Spassky](https://en.wikipedia.org/wiki/Boris_Spassky) during their visit at the [GMD-Forschungszentrum](https://de.wikipedia.org/wiki/GMD-Forschungszentrum_Informationstechnik), [Schloss Birlinghoven](https://de.wikipedia.org/wiki/Schloss_Birlinghoven) in [Sankt Augustin](https://en.wikipedia.org/wiki/Sankt_Augustin) <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Description](#description)
-- [2 Selected Games](#selected-games)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 Fischer-Schneider was a for that time typical [Shannon Type B program](Type_B_Strategy "Type B Strategy") using "plausible" move generation. The move selection was applied through recursive eliminiation of moves compromising material safety. The [evaluation](Evaluation "Evaluation") was quite sophisticated, considering [material](Material "Material"), attacked and defended pieces for a [swap-off algorithm](SOMA#Swapoff "SOMA"), [mobility](Mobility "Mobility"), [square control](Square_Control "Square Control") and [king-piece tropism](King_Safety#KingTropism "King Safety"). Special feature was the ability of the program to recognize draws by [repetition](Repetitions "Repetitions"), already maintaining and traversing a list of positions until the last [irreversible move](Irreversible_Moves "Irreversible Moves") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

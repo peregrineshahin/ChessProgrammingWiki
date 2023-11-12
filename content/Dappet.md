@@ -7,14 +7,6 @@ title: Dappet
 
 the chess program by [Dap Hartmann](Dap_Hartmann "Dap Hartmann") and [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven"), competing all 18 consecutive [Dutch Open Computer Chess Championships](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") from [1981](DOCCC_1981 "DOCCC 1981") until [1998](DOCCC_1998 "DOCCC 1998"). It further participated at the [WMCCC 1988](WMCCC_1988 "WMCCC 1988") in [Almeria](https://en.wikipedia.org/wiki/Almer%C3%ADa), the [WCCC 1989](WCCC_1989 "WCCC 1989") in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), the [3rd Computer Olympiad 1991](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad"), and various [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"). Dappet of the late 80s and 90s was written in [Turbo Pascal](Pascal#TurboPascal "Pascal") and [Assembler](Assembly "Assembly") to run on an [x86](X86 "X86") based [IBM PC](IBM_PC "IBM PC") or compatible. It used a [10x12 board](10x12_Board "10x12 Board") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. It did not utilize the [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic"), proposed by Hartmann in conjunction with [Butterfly Boards](Butterfly_Boards "Butterfly Boards") as a pure thought experiment <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Sylkar](#sylkar)
-- [3 Selected Games](#selected-games)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

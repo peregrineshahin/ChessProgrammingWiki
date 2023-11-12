@@ -10,14 +10,6 @@ a German computer chess programmer and author of the chess engine [Homer](Homer 
 Daniel started his computer chess career as [Opening Book Author](Category:Opening_Book_Author "Category:Opening Book Author") and team member of [Michael Ehrig's](Michael_Ehrig "Michael Ehrig") engine [Greif](Greif "Greif") in the 90s, and later cooperated with [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke") as book author of [Comet](Comet "Comet") and started to write his own engine Homer <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 More recently, Daniel initiated a "let's update Fruit", published in March 2014 as [Fruit Reloaded](Fruit_Reloaded "Fruit Reloaded") by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), Daniel Mehrmann and [Ryan Benitez](Ryan_Benitez "Ryan Benitez") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, hosted by [Steve Maughan's](Steve_Maughan "Steve Maughan") Computer Chess Programming <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

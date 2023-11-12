@@ -8,15 +8,6 @@ title: Advances in Computer Chess 3
 \[ [Imperial College](https://en.wikipedia.org/wiki/Imperial_College_London) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Advances in Computer Chess 3** conference was held at [Imperial College](https://en.wikipedia.org/wiki/Imperial_College_London), [London](https://en.wikipedia.org/wiki/London), [UK](https://en.wikipedia.org/wiki/United_Kingdom), on April 9-10, [1981](Timeline#1981 "Timeline"). The conference was planned and organized by [Mike Clarke](Mike_Clarke "Mike Clarke"), who especially welcomed [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") at the opening ceremony <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 Reports](#reports)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Proceedings
 
 - **Advances in Computer Chess 3**

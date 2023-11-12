@@ -7,22 +7,6 @@ title: Debugging
 Kriecht es, fliegt es mit Gebrumm <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Debugging** is a process of finding and reducing [bugs](Engine_Testing#bugs "Engine Testing") in a computer program. A [debugger](https://en.wikipedia.org/wiki/Debugger), usually in software, allows to execute the program (debugee) under its control, to set [breakpoints](https://en.wikipedia.org/wiki/Breakpoint), let the user step to single lines of his source or machine code, to inspect variables, memory and processor registers. Processors often provide special instructions for the purpose of debugging.
 
-## Contents
-
-- [1 x86 Breakpoints](#x86-breakpoints)
-- [2 Compiler Support](#compiler-support)
-- [3 Debugging the Search](#debugging-the-search)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2000 ...](#2000-...)
-  - [6.2 2005 ...](#2005-...)
-  - [6.3 2010 ...](#2010-...)
-  - [6.4 2015 ...](#2015-...)
-  - [6.5 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## x86 Breakpoints
 
 [8086](8086 "8086"), [x86](X86 "X86") and [x86-64](X86-64 "X86-64") have the [int 3](https://en.wikipedia.org/wiki/INT_%28x86_instruction%29#INT_3) one byte software [interrupt](https://en.wikipedia.org/wiki/Interrupt) instruction with opcode 0xCC, which might be explicitly used, or implicitly in assertions. This instruction is also used, when setting a breakpoint from a debugger, where current opcode is (temporarily) replaced by the *int 3* opcode (0xCC), which when executed calls a special interrupt routine of the debugger or runtime system.

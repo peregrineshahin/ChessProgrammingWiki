@@ -8,13 +8,6 @@ title: Ayito
 a [WinBoard](WinBoard "WinBoard") and later [UCI](UCI "UCI") and [Chess960](Chess960 "Chess960") compliant chess engine by [Jaime Benito de Valle Ruiz](Jaime_Benito_de_Valle_Ruiz "Jaime Benito de Valle Ruiz"), written in [C++](Cpp "Cpp"), first released in May 2004 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 Ayito played the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") in [Mainz](https://en.wikipedia.org/wiki/Mainz), the [DOCCC 2005](DOCCC_2005 "DOCCC 2005") in [Leiden](https://en.wikipedia.org/wiki/Leiden) and the [CPT 2008](CPT_2008 "CPT 2008") in [Hoogstraten-Wortel](https://en.wikipedia.org/wiki/Hoogstraten).
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [DOCCC 2005](DOCCC_2005 "DOCCC 2005"), round 8, Ayito - [Neurosis](Neurosis "Neurosis") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

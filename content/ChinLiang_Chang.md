@@ -8,16 +8,6 @@ title: ChinLiang Chang
 
 a [Taiwanese American](https://en.wikipedia.org/wiki/Taiwanese_American) computer scientist with research interests in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic), [theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving), [database](https://en.wikipedia.org/wiki/Database), and [software engineering](https://en.wikipedia.org/wiki/Software_Engineering) and the [internet](https://en.wikipedia.org/wiki/Internet). In 1967, Chin-Liang Chang wrote his Ph.D thesis at [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley") on fuzzy logic, advised by its inventor [Lotfi A. Zadeh](Mathematician#LAZadeh "Mathematician") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . At [National Institutes of Health](https://en.wikipedia.org/wiki/National_Institutes_of_Health), [Bethesda, Maryland](https://en.wikipedia.org/wiki/Bethesda,_Maryland), along with [Richard C. T. Lee](Richard_C._T._Lee "Richard C. T. Lee"), [James R. Slagle](James_R._Slagle "James R. Slagle") and [John K. Dixon](John_K._Dixon "John K. Dixon"), Chin-Liang Chang researched on [automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving), to extend Slagle's semantic [resolution](https://en.wikipedia.org/wiki/Resolution_%28logic%29) principle <a id="cite-note-3" href="#cite-ref-3">[3]</a> , an [inference](https://en.wikipedia.org/wiki/Inference) rule for [first-order predicate calculus](https://en.wikipedia.org/wiki/First-order_logic), to deduce logical consequences from a set of [axioms](https://en.wikipedia.org/wiki/Axiom) <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Entrepreneurship](#entrepreneurship)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1967 ...](#1967-...)
-  - [2.2 1970 ...](#1970-...)
-  - [2.3 1980 ...](#1980-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Entrepreneurship
 
 Chin-Liang Chang further worked for [IBM Almaden Research Center](https://en.wikipedia.org/wiki/IBM_Almaden_Research_Center), [San Jose, California](https://en.wikipedia.org/wiki/San_Jose,_California), [Lockheed Missiles & Space Company, Inc.](https://en.wikipedia.org/wiki/Lockheed_Missiles_and_Space_Company), [Menlo Park, California](https://en.wikipedia.org/wiki/Menlo_Park,_California) <a id="cite-note-5" href="#cite-ref-5">[5]</a> , and Nicesoft Corp., USA <a id="cite-note-6" href="#cite-ref-6">[6]</a> , where he developed the [Fuzzy programming language](https://en.wikipedia.org/wiki/Fuzzy_Control_Language) NICEL. After his retirement, he has being enjoying being an [entrepreneur](https://en.wikipedia.org/wiki/Entrepreneur). His motto is “There is ‘no distance’ in Internet, and there is ‘no age’ in entrepreneurship” <a id="cite-note-7" href="#cite-ref-7">[7]</a> .

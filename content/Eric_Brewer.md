@@ -10,15 +10,6 @@ an American computer scientist, technologist, professor emeritus at the [Univers
 His research interests include [operating systems](https://en.wikipedia.org/wiki/Operating_system), [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) and [wireless network](https://en.wikipedia.org/wiki/Wireless_network), and in the late 90s, he formulated the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) about distributed network applications <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 While graduate student at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), Eric Brewer was contributor of the massive parallel chess program [\*Socrates](Star_Socrates "Star Socrates"), as mentioned in the participant list of the [ACM 1994](ACM_1994 "ACM 1994") booklet <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

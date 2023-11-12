@@ -8,13 +8,6 @@ title: Alexander Naumov
 
 a Serbian computer scientist and as former computer chess programmer author of the chess engine [Naum](Naum "Naum"). Alex studied computer science at the [University of Belgrade](https://en.wikipedia.org/wiki/University_of_Belgrade) and moved to Canada in 1994, where he worked as [C++](Cpp "Cpp") and [Java](Java "Java") developer. He wrote his first logical game as a teenager for [Commodore 64](Commodore_64 "Commodore 64"), and the first game featuring [alpha-beta algorithm](Alpha-Beta "Alpha-Beta") in 1992. He started programming Naum in 2003, the first version for [Palm](index.php?title=Palm&action=edit&redlink=1 "Palm (page does not exist)") handheld computers, later ported to [x86](X86 "X86") [PCs](IBM_PC "IBM PC"), where Naum soon evolved to a top commercial chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Open Source](#open-source)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Open Source
 
 Alexander Naumov on [open source](Category:Open_Source "Category:Open Source"), reply to [Tord Romstad](Tord_Romstad "Tord Romstad") after his announcement to release the source code of [Glaurung 0.1.5.](Glaurung "Glaurung") in 2004 <a id="cite-note-3" href="#cite-ref-3">[3]</a> :

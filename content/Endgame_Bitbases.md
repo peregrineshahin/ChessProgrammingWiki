@@ -7,20 +7,6 @@ title: Endgame Bitbases
 
 are compact endgame tablebases with game theoretical values of one or two bits per position stored. They are sufficient for various material configurations to reside inside [RAM](Memory#RAM "Memory") for short probing access time, intended to use deep inside the [search](Search "Search"). The boolean or four valued ranges are either {*won*, *not_won*} or {*won*, *draw*, *loss*, *invalid*}. While WDL information is sufficient to guide the search into won positions, it lacks any sense of progress in won positions. Therefor, programs either probe full tablebases at the [root](Root "Root") to reveal the number of moves until conversion or mate, or combine WDL-scores with heuristic evaluation [scores](Score "Score"), considering [material](Material "Material"), ply-distance to the root, pawn closeness to promotion, [distance](Distance "Distance") of pieces to opponent king, etc.. Endgame Bitbases were described in 1999 by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") in *Knowledgeable Encoding and Querying of Endgame Databases*, as applied with 4-men in [DarkThought](DarkThought "DarkThought") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Bitbase Implementations](#bitbase-implementations)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000](#2000)
-  - [4.2 2005](#2005)
-  - [4.3 2010](#2010)
-  - [4.4 2015 ...](#2015-...)
-  - [4.5 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Bitbase Implementations
 
 - [Gaviota Tablebases](Gaviota_Tablebases "Gaviota Tablebases") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

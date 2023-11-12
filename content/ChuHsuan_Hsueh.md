@@ -7,15 +7,6 @@ title: ChuHsuan Hsueh
 
 a Taiwanese computer scientist affiliated with the [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu). As Ph.D. student in [I-Chen Wu's](I-Chen_Wu "I-Chen Wu") Computer Games and Intelligence Lab <a id="cite-note-1" href="#cite-ref-1">[1]</a>, she is working on [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") for incomplete information games. Since 2014, Chu-Hsuan Hsueh is co-author of the [Chinese Dark Chess](Chinese_Dark_Chess "Chinese Dark Chess") program and multiple gold medal winner of [Computer Olympiads](Computer_Olympiad "Computer Olympiad") and [TCGA](index.php?title=TCGA&action=edit&redlink=1 "TCGA (page does not exist)") tournaments <a id="cite-note-2" href="#cite-ref-2">[2]</a> [DarkKnight](https://www.game-ai-forum.org/icga-tournaments/program.php?id=743), along with [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng") and I-Chen Wu. Based on the original DarkKnight, she incorporated several techniques including early playout terminations, implicit minimax backups, quality-based rewards, and progressive bias to improve the playing strength. Besides, she also did some tunings for tournaments, e.g. time management, and dealing with 180 plies to draw.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 2015 ...](#2015-...)
-  - [2.2 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](https://icga.org/?page_id=1389)

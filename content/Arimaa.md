@@ -9,18 +9,6 @@ however they choose on their home rows <a id="cite-note-1" href="#cite-ref-1">[1
 
 is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy) [board game](https://en.wikipedia.org/wiki/Board_game), that can be played using the same equipment as chess, invented by [Omar](Omar_Syed "Omar Syed") and [Aamir Syed](Aamir_Syed "Aamir Syed"). In 2002, Omar Syed published the [rules to Arimaa](https://en.wikipedia.org/wiki/Arimaa#Rules) <a id="cite-note-2" href="#cite-ref-2">[2]</a> and announced a $10,000 prize, available annually until 2020, for the first computer program (running on standard hardware) able to defeat each of three top-ranked human players in a three game series <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Due to its huge [Branching Factor](Branching_Factor "Branching Factor") of about 17,281 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Arimaa is hard to play for computers. In 2015, [David J. Wu](David_J._Wu "David J. Wu") won the Arimaa Challenge and the then $12,000 USD prize with his program *Sharp* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, major topic in the [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal").
 
-## Contents
-
-- [1 Arimaa Pieces](#arimaa-pieces)
-- [2 Publications](#publications)
-  - [2.1 2003 ...](#2003-...)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-  - [2.4 2015 ...](#2015-...)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Arimaa Pieces
 
 |  Image

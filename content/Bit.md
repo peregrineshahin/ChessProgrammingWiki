@@ -8,15 +8,6 @@ title: Bit
 
 the [basic unit](https://en.wikipedia.org/wiki/Units_of_information) of [information](https://en.wikipedia.org/wiki/Information) in [information theory](https://en.wikipedia.org/wiki/Information_theory) and [computing](https://en.wikipedia.org/wiki/Computing) - a binary digit, either 0 or 1 in the arithmetical sense, 'false' or 'true' in the boolean sense, black (dark) or white (light) as a [Color](Color "Color") in [Chess](Chess "Chess"), etc..
 
-## Contents
-
-- [1 Quote](#quote)
-- [2 Aggregations](#aggregations)
-- [3 Bitwise Arithmetic](#bitwise-arithmetic)
-- [4 See also](#see-also)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Quote
 
 by [Claude Shannon](Claude_Shannon "Claude Shannon") in *A Mathematical Theory of Communication* 1948 <a id="cite-note-2" href="#cite-ref-2">[2]</a>:

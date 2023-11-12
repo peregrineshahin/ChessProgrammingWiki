@@ -8,40 +8,6 @@ title: Crafty
 
 a portable [open source engine](Category:Open_Source "Category:Open Source") supporting the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") written by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in [ANSI C](C "C") starting in the early 90s, loosely derived from [Cray Blitz](Cray_Blitz "Cray Blitz"), winner of the [1983](WCCC_1983 "WCCC 1983") and [1986](WCCC_1986 "WCCC 1986") World Computer Chess Championships [[3]](#cite_note-3). Crafty pioneered in using [Rotated bitboards](Rotated_Bitboards "Rotated Bitboards") , [parallel search](Parallel_Search "Parallel Search") and probing [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"). It performs a [principal variation search](Principal_Variation_Search "Principal Variation Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [LMR](Late_Move_Reductions "Late Move Reductions") as well as a [SEE swap algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") for [move ordering](Move_Ordering "Move Ordering") and to [prune](Pruning "Pruning") "bad" [captures](Captures "Captures") in [quiescence search](Quiescence_Search "Quiescence Search"). In 2006/2007, Crafty switched from rotated to [Magic bitboards](Magic_Bitboards "Magic Bitboards") [[4]](#cite_note-4), according to Robert Hyatt because it was not faster but simpler [[5]](#cite_note-5). Crafty **25.1**, released in October 2016, not only includes an increase in playing strength [[6]](#cite_note-6) but support for [Syzygy bases](Syzygy_Bases "Syzygy Bases") by [Ronald de Man](Ronald_de_Man "Ronald de Man") aided by the coding [contributions](Syzygy_Bases#Fathom "Syzygy Bases") of [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli") [[7]](#cite_note-7). Crafty **25.3** features [playing strength](Playing_Strength "Playing Strength") adjustment between 800 and 2600 Elo [[8]](#cite_note-8).
 
-## Contents
-
-- [1 Team Members](#Team_Members)
-- [2 Tournaments](#Tournaments)
-- [3 Descriptions](#Descriptions)
-  - [3.1 1997](#1997)
-  - [3.2 2008](#2008)
-  - [3.3 Generation II](#Generation_II)
-  - [3.4 Leading or Trailing Zeros](#Leading_or_Trailing_Zeros)
-    - [3.4.1 LSB](#LSB)
-    - [3.4.2 Last One](#Last_One)
-- [4 Selected Games](#Selected_Games)
-  - [4.1 WCCC 2004](#WCCC_2004)
-  - [4.2 WCCC 2006](#WCCC_2006)
-- [5 Copyright](#Copyright)
-- [6 Crafty Clones](#Crafty_Clones)
-- [7 See also](#See_also)
-- [8 Publications](#Publications)
-  - [8.1 1997 ...](#1997_...)
-  - [8.2 2000 ...](#2000_...)
-  - [8.3 2010 ...](#2010_...)
-  - [8.4 2020 ...](#2020_...)
-- [9 Forum Posts](#Forum_Posts)
-  - [9.1 1995 ...](#1995_...)
-  - [9.2 2000 ...](#2000_..._2)
-  - [9.3 2005 ...](#2005_...)
-  - [9.4 2010 ...](#2010_..._2)
-  - [9.5 2015 ...](#2015_...)
-  - [9.6 2020 ...](#2020_..._2)
-- [10 External Links](#External_Links)
-  - [10.1 Chess Engine](#Chess_Engine)
-  - [10.2 Misc](#Misc)
-- [11 References](#References)
-
 ## Team Members
 
 as mentioned at [WCRCC 2010](WCRCC_2010 "WCRCC 2010") [[9]](#cite_note-9) and [CCT15](CCT15 "CCT15"), 2013 [[10]](#cite_note-10)

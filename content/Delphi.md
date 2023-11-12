@@ -10,16 +10,6 @@ a programming language dialect of the [Object Pascal](https://en.wikipedia.org/w
 
 Delphi provides an [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) for [Microsoft](Microsoft "Microsoft") [Windows](Windows "Windows") applications. Delphi pioneered in [rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development) by introducing an [application framework](https://en.wikipedia.org/wiki/Application_framework) and visual window layout designer that drastically reduced application prototyping times of [GUI](GUI "GUI") and Database applications. Delphi XE <a id="cite-note-2" href="#cite-ref-2">[2]</a> is now part of [Embarcadero](https://en.wikipedia.org/wiki/Embarcadero_Technologies) [RAD Studio](https://en.wikipedia.org/wiki/Embarcadero_Delphi#RAD_Studio) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, including [C++Builder](https://en.wikipedia.org/wiki/C%2B%2BBuilder) and [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) modeling <a id="cite-note-4" href="#cite-ref-4">[4]</a>, still supporting [x86](X86 "X86") [inline assembly](Assembly#InlineAssembly "Assembly") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. A former [Linux](Linux "Linux") version of Borland Delphi, called [Kylix](https://en.wikipedia.org/wiki/Kylix_%28software%29) discontinued. In 2009, Embarcadero announced 64-bit, Linux and [Mac OS](Mac_OS "Mac OS") support <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Software](#software)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Generic Programming](Generic_Programming "Generic Programming")

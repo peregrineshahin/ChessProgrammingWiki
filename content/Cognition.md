@@ -8,36 +8,6 @@ title: Cognition
 
 the [mental](https://en.wikipedia.org/wiki/Mind) process of knowing, including [attention](https://en.wikipedia.org/wiki/Attention), [remembering](Memory "Memory"), [reasoning](https://en.wikipedia.org/wiki/Reason), [understanding](https://en.wikipedia.org/wiki/Understanding), [intuition](https://en.wikipedia.org/wiki/Intuition_%28psychology%29), [awareness](https://en.wikipedia.org/wiki/Awareness), and [perception](https://en.wikipedia.org/wiki/Perception). Cognition is studied in [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) and various disciplines such as [linguistics](https://en.wikipedia.org/wiki/Cognitive_linguistics), [neuroscience](https://en.wikipedia.org/wiki/Neuroscience), [psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)"), [philosophy](https://en.wikipedia.org/wiki/Philosophy), [anthropology](https://en.wikipedia.org/wiki/Anthropology) and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") [[2]](#cite_note-2) . [Cognitive psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), coined by [Ulric Neisser](https://en.wikipedia.org/wiki/Ulric_Neisser) in 1967 [[3]](#cite_note-3), is the study of how people or [intelligent agents](https://en.wikipedia.org/wiki/Intelligent_agent) perceive, [recall](https://en.wikipedia.org/wiki/Recall_%28memory%29), [learn](Learning "Learning"), [think](https://en.wikipedia.org/wiki/Think), [speak](https://en.wikipedia.org/wiki/Speech), and [solve problems](https://en.wikipedia.org/wiki/Problem_solving).
 
-## Contents
-
-- [1 Cognition in Chess](#Cognition_in_Chess)
-  - [1.1 Perception](#Perception)
-  - [1.2 Programs](#Programs)
-- [2 See also](#See_also)
-- [3 Publications](#Publications)
-  - [3.1 1890 ...](#1890_...)
-  - [3.2 1920 ...](#1920_...)
-  - [3.3 1940 ...](#1940_...)
-  - [3.4 1950 ...](#1950_...)
-  - [3.5 1960 ...](#1960_...)
-  - [3.6 1970 ...](#1970_...)
-  - [3.7 1975 ...](#1975_...)
-  - [3.8 1980 ...](#1980_...)
-  - [3.9 1985](#1985)
-  - [3.10 1990 ...](#1990_...)
-  - [3.11 1995 ...](#1995_...)
-  - [3.12 2000 ...](#2000_...)
-  - [3.13 2005 ...](#2005_...)
-  - [3.14 2010 ...](#2010_...)
-  - [3.15 2015 ...](#2015_...)
-- [4 Forum Posts](#Forum_Posts)
-- [5 External Links](#External_Links)
-  - [5.1 Cognition](#Cognition)
-  - [5.2 Cognitive Architectures](#Cognitive_Architectures)
-  - [5.3 Chess](#Chess)
-  - [5.4 Misc](#Misc)
-- [6 References](#References)
-
 ## Cognition in Chess
 
 In 1946, [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") conducted a number of ground-breaking experiments in the cognitive processes that occur in the brains of strong chess players, and defined four stages of the thought process. [Perception](https://en.wikipedia.org/wiki/Perception) in Chess was researched by [Herbert Simon](Herbert_Simon "Herbert Simon"), [William Chase](William_Chase "William Chase"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Peter Tancig](Peter_Tancig "Peter Tancig"), [Simona Tancig](Simona_Tancig "Simona Tancig"), [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), [Peter Jansen](Peter_Jansen "Peter Jansen") and others, related to chess and computer chess, and how computer chess programmers may adopt techniques from human [thought](https://en.wikipedia.org/wiki/Thought) processes.

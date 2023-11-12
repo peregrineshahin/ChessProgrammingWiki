@@ -9,19 +9,6 @@ an acronym for **B**eginner's **A**ll-purpose **S**ymbolic **I**nstruction **C**
 
 While early dialects worked in conjunction with a teletype command line interpreter, which could immediately interprete and print expressions, or run a program which lines were entered (or re-loaded from punch tape) with leading line numbers, later dialects were more sophisticated with respect to program structure, [recursion](Recursion "Recursion"), object-oriented and event-driven programming paradigms, and compiled executables.
 
-## Contents
-
-- [1 Basic Engines](#basic-engines)
-- [2 Dialects](#dialects)
-  - [2.1 GFA BASIC](#gfa-basic)
-  - [2.2 Visual Basic](#visual-basic)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Wikipedia](#wikipedia)
-  - [5.2 HIARCS](#hiarcs)
-- [6 References](#references)
-
 ## Basic Engines
 
 There were a few didactic chess programs written in Basic, most notably a program by [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") published 1984 in [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , [Demoschach](index.php?title=Demoschach&action=edit&redlink=1 "Demoschach (page does not exist)") by [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") and [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , and [Minimax](</Minimax_(program)> "Minimax (program)") by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") and [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which was later converted to [WinBoard](WinBoard "WinBoard") by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

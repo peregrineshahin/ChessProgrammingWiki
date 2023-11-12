@@ -9,13 +9,6 @@ an [UCI](UCI "UCI") compliant derivative of [Steinwender's](Dieter_Steinwender "
 ported to [Delphi](Delphi "Delphi") and further enhanced by [Martin Bauer](Martin_Bauer "Martin Bauer") with [piece-lists](Piece-Lists "Piece-Lists"), [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [repetition detection](Repetitions "Repetitions"), [fifty-move rule](Fifty-move_Rule "Fifty-move Rule"), and knowledge about the [rule of the square](Rule_of_the_Square "Rule of the Square")
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>. While the Minimax Delphi port is open source, DelphiMax is available as [Windows](Windows "Windows") executable.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Minimax (program)](</Minimax_(program)> "Minimax (program)")

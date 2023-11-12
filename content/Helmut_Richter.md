@@ -7,13 +7,6 @@ title: Helmut Richter
 
 a German computer scientist and as computer chess programmer author of one of the first German chess programs, [Schach MV 5,6](Schach_MV_5,6 "Schach MV 5,6"). In 1971, Richter started the development on a [Telefunken](https://en.wikipedia.org/wiki/Telefunken) [TR-4](TR-4 "TR-4") and [TR 440](TR_440 "TR 440") mainframe, continuing with a [PDP-10](PDP-10 "PDP-10"). Schach MV 5,6, containing about 5000 [Fortran](Fortran "Fortran") statements, was subject of his diploma thesis, and apparently a [SOMA](SOMA "SOMA") approach without looking ahead more than one [ply](Ply "Ply") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Swap-off](#swap-off)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Swap-off
 
 [David Levy](David_Levy "David Levy"), who was tournament director at the [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament") in [Dortmund](https://en.wikipedia.org/wiki/Dortmund), was indebted to Helmut Richter of [Hamburg](https://en.wikipedia.org/wiki/Hamburg) for an accurate description of what [Donald Michie](Donald_Michie "Donald Michie") called "swap-off". This is described incorrectly on pages 45-47 of *Chess and Computers* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the errors having been copied over from Michies's original article on the subject, published in 1966 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Levy gives Richter's description of as Swap-off algorithm what is today usually referred as [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") in the May 1970 issue of [Personal Computer World](Personal_Computer_World "Personal Computer World") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

@@ -12,18 +12,6 @@ While Tunstall-Pedoe mentioned the applicability of GA in [search](Search "Searc
 he focused on [evaluation](Evaluation "Evaluation") weights. A population of 50 individual chess playing programs was used with randomly initialized [chromosomes](https://en.wikipedia.org/wiki/Chromosome) representing the concatenated weights to optimize.
 Inside the optimization loop, the [genetic operator](https://en.wikipedia.org/wiki/Genetic_operator) determines the [fitness](https://en.wikipedia.org/wiki/Fitness_function) of all individuals, to breed the new generation favouring parent [selection](<https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)>) towards fitter individuals.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Weights](#weights)
-- [3 Fitness](#fitness)
-- [4 Results](#results)
-- [5 Conclusion](#conclusion)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Features
 
 - [Material](Material "Material")

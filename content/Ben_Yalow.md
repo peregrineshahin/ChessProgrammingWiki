@@ -8,13 +8,6 @@ title: Ben Yalow
 
 an American computer scientist, as a programmer long time affiliated with [City University of New York](https://en.wikipedia.org/wiki/City_University_of_New_York), and [Science fiction fandom](https://en.wikipedia.org/wiki/Science_fiction_fandom) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 CCCP](#cccp)
-- [2 From Columbia to CUNY](#from-columbia-to-cuny)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## CCCP
 
 In 1970/71, at [Columbia University](Columbia_University "Columbia University"), along with [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), and [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), Ben Yalow co-authored the chess program [CCCP](</CCCP_(US)> "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

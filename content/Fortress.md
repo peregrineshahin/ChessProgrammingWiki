@@ -8,25 +8,6 @@ title: Fortress
 
 an [endgame](Endgame "Endgame") drawing technique where a side usually behind in [material](Material "Material") sets up a zone of protection that the opponent cannot penetrate <a id="cite-note-2" href="#cite-ref-2">[2]</a>. While fortresses are quite common in (late) endgames, f.i. in [Wrong Color Bishop and Rook Pawn](Wrong_Color_Bishop_and_Rook_Pawn "Wrong Color Bishop and Rook Pawn"), fortresses may rarely occur in the (late) [middlegame](Middlegame "Middlegame"), characterized by long fixed [pawn chains](Pawn_Chain "Pawn Chain") with up to one or two [open files](Open_File "Open File") but all points of penetration well defended by the weaker side. Chess programs without the implemetation of special knowledge typically fail to recognize fortresses and seem to claim a [winning advantage](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), although they are not able to achieve the win against adequate defence <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Fortress Detection](#fortress-detection)
-  - [1.1 Evaluation](#evaluation)
-  - [1.2 Sample](#sample)
-  - [1.3 Search](#search)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2000 ...](#2000-...)
-  - [4.2 2005 ...](#2005-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2015 ...](#2015-...)
-  - [4.5 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 On Topic](#on-topic)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Fortress Detection
 
 ## Evaluation

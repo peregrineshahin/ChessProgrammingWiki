@@ -8,23 +8,6 @@ title: Fischerle
 
 a [Java-based](Java "Java") chess engine that has been developed by [Roland Stuckardt](Roland_Stuckardt "Roland Stuckardt"). Fischerle implements the [UCI](UCI "UCI") protocol. It is recommended to employ it from within the [Arena](Arena "Arena") environment. Additionally, Fischerle has an own [GUI](GUI "GUI") providing supplementary configuration and testing features; in principle, it can thus be used independently of UCI based chess GUIs. Fischerle is available for download at its author's web pages .
 
-## Contents
-
-- [1 Technology](#technology)
-- [2 Latest Version](#latest-version)
-- [3 Etymology](#etymology)
-  - [3.1 Auto-da-Fé](#auto-da-f.c3.a9)
-  - [3.2 Fischers Fritz](#fischers-fritz)
-  - [3.3 Publications](#publications)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2014](#2014)
-  - [5.2 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Technology
 
 Fischerle’s representation of chess positions is based on the [rotated bitboard](Rotated_Bitboards "Rotated Bitboards") model. Fischerle employs some well-known techniques of enhanced [alpha-beta](Alpha-Beta "Alpha-Beta") minimax search:

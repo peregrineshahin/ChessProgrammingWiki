@@ -9,15 +9,6 @@ title: ARM6
 a family of 32-bit [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) processors of the [ARMv3 architecture](https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures) released in early 1992 by *Advanced RISC Machines Ltd*, a company structured as a joint venture between [Acorn Computers Ltd](index.php?title=Acorn_Computers_Ltd&action=edit&redlink=1 "Acorn Computers Ltd (page does not exist)"), [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") and [VLSI Technology](https://en.wikipedia.org/wiki/VLSI_Technology), which became [ARM Ltd](index.php?title=ARM_Ltd&action=edit&redlink=1 "ARM Ltd (page does not exist)") when its parent company, [ARM Holdings](https://en.wikipedia.org/wiki/ARM_Holdings), floated on the [London Stock Exchange](https://en.wikipedia.org/wiki/London_Stock_Exchange) and [NASDAQ](https://en.wikipedia.org/wiki/NASDAQ) in 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The ARM6 is instruction compatible to Acorn's [ARM2](ARM2 "ARM2"), has a full 32-bit address bus, requiring an extra PSR register. The differences between ARM6 and the later ARM7 are that the latter has a hardware debug capability, the [Thumb instruction set](https://en.wikipedia.org/wiki/ARM_architecture#Thumb) to support both 16-bit and 32-bit instruction formats and an enhanced multiplier <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 See also](#see-also)
-- [3 Manuals](#manuals)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Computer Chess
 
 The ARM6 and successors were used in various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), notably the [RISC 2500](RISC_2500 "RISC 2500"), [Mephisto Montreux](Mephisto_Montreux "Mephisto Montreux"), [TASC R30](TASC_R30 "TASC R30") and [TASC R40](TASC_R40 "TASC R40").

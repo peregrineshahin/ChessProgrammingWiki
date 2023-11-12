@@ -8,14 +8,6 @@ title: Hiroshi Yamashita
 
 a Japanese computer scientist, computer games programmer, and associated engineer at [AI Factory](AI_Factory "AI Factory"). He is author of the [Shogi](Shogi "Shogi") program and three times Gold medal winner [YSS](index.php?title=YSS&action=edit&redlink=1 "YSS (page does not exist)") (Yamashita Shogi System), commercially available as **AI-Shogi** <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the [Go](Go "Go") program [Aya](https://www.game-ai-forum.org/icga-tournaments/program.php?id=3), and the [Amazons](Amazons "Amazons") program [Yamazon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=163).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Postings](#postings)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.yss-aya.com/photo/20060525torino/Htmls/PICT1076.html)

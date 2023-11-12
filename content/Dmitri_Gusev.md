@@ -11,17 +11,6 @@ He received a B.Sc. degree in [applied mathematics](https://en.wikipedia.org/wik
 His primary research interests include [imaging](https://en.wikipedia.org/wiki/Digital_imaging), [graphics](Graphics_Programming "Graphics Programming"), [game](Games "Games") development, [visualization](https://en.wikipedia.org/wiki/Visualization), and [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics).
 He uses open-source chess programming in higher education, and is along with [Norman Schmidt](Norman_Schmidt "Norman Schmidt") and [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades") involved in the development of [Firenzina](Firenzina "Firenzina"), a derivative of [Fire xTreme](Fire "Fire") by Norman Schmidt and [Firebird](Fire "Fire") by Norman Schmidt and [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, which are derivatives of the [Ippolit](Ippolit "Ippolit") family of engines by *Yakov Petrovich Golyadkin* et al..
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2013 ...](#2013-...)
-  - [2.2 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

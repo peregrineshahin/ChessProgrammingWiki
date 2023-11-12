@@ -10,18 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Robert Pope](Robert
 The later published source code with version history from 2006 until 2010 <a id="cite-note-3" href="#cite-ref-3">[3]</a> refers a [bitboard](Bitboards "Bitboards") engine - despite processing many of them per node, using 8-bit occupied state [rotated bitboard](Rotated_Bitboards "Rotated Bitboards") lookups for sliding pieces - the control structure of the [legal move generator](Move_Generation#Legal "Move Generation") and [evaluation](Evaluation "Evaluation") reminds more on a [mailbox](Mailbox "Mailbox") approach without [piece list](Piece-Lists "Piece-Lists").
 Search is plain [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning") and [fractional ply decrements](Depth#FractionalPlies "Depth") with an conventional evaluation, taking [material](Material "Material") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") along with some [pawn structure](Pawn_Structure "Pawn Structure") and [king safety](King_Safety "King Safety") terms into account, as well the [population](Population_Count "Population Count") of ored aggregated attacks per side.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2002 ...](#2002-...)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Abbess](Abbess "Abbess")

@@ -7,14 +7,6 @@ title: Captures
 
 Winning captures are those with least valuable aggressor of most valuable victim, where even a recapture would win [material](Material "Material"), and captures of pieces [en prise](En_prise "En prise"), that is the union of undefended ([hanging](Hanging_Piece "Hanging Piece")) pieces, as well as pieces defended inadequately. A [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") might be applied to determine a victim is *en prise* or not. Equal captures are exchanges of equal valued pieces. Winning, as well as equal captures are subject of [quiescence search](Quiescence_Search "Quiescence Search"). Some programs [extend captures](Capture_Extensions "Capture Extensions") or [recaptures](Recapture_Extensions "Recapture Extensions") under certain conditions, i.e. material becomes close to the root score again.
 
-## Contents
-
-- [1 Capture Generation](#capture-generation)
-- [2 Six times Take Five](#six-times-take-five)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-
 ## Capture Generation
 
 With [mailbox](Mailbox "Mailbox") like square centric [board representations](Board_Representation "Board Representation"), capture [generation](Move_Generation "Move Generation") requires a so called [blocker loop](Vector_Attacks#NewArchitecture "Vector Attacks"), while [bitboards](Bitboards "Bitboards") rely on attack generation and [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") with the set of opponent pieces.

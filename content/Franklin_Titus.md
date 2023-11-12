@@ -10,15 +10,6 @@ expert of the [Ippolit](Ippolit "Ippolit") family of engines, hosting [RobboLito
 Franklin Titus was early critic of [Robert Houdart](Robert_Houdart "Robert Houdart") concerning [Houdini](Houdini "Houdini") and its apparent RobboLito origins <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 He was active poster in [CCC](CCC "CCC") until mid 2010, and since then in [Jeremy Bernstein's](Jeremy_Bernstein "Jeremy Bernstein") [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2009](#2009)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2009

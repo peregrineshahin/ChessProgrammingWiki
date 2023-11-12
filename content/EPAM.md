@@ -8,24 +8,6 @@ title: EPAM
 
 an early computer model of [rote learning](https://en.wikipedia.org/wiki/Rote_learning) by the method of [paired associates](https://en.wikipedia.org/wiki/Pair_by_association), first conceived by [Herbert Simon](Herbert_Simon "Herbert Simon") and [Allen Newell](Allen_Newell "Allen Newell") during their early conception about computer simulation of [cognitive](Cognition "Cognition") processes in the 50s <a id="cite-note-2" href="#cite-ref-2">[2]</a> , implemented as computer program by [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum") in the late 50s in [IPL-V](https://en.wikipedia.org/wiki/Information_Processing_Language) for the [IBM 704](IBM_704 "IBM 704") and [IBM 7090](IBM_7090 "IBM 7090"), as topic of his Ph.D. thesis at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"). In terms of [psychology](index.php?title=Psychology&action=edit&redlink=1 "Psychology (page does not exist)") and [behaviorism](https://en.wikipedia.org/wiki/Behaviorism) EPAM associates responses with external [stimuli](https://en.wikipedia.org/wiki/Stimulus_%28psychology%29), quite similar to [classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning).
 
-## Contents
-
-- [1 Learning](#learning)
-- [2 EPAM in Chess](#epam-in-chess)
-- [3 The EPAM Simulation](#the-epam-simulation)
-- [4 MAPP](#mapp)
-- [5 CHREST](#chrest)
-- [6 See also](#see-also)
-- [7 Publicatons](#publicatons)
-  - [7.1 1959](#1959)
-  - [7.2 1960 ...](#1960-...)
-  - [7.3 1970 ...](#1970-...)
-  - [7.4 1980 ...](#1980-...)
-  - [7.5 1990 ...](#1990-...)
-  - [7.6 2000 ...](#2000-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Learning
 
 EPAM [learns](Learning "Learning") by growing a [discrimination](https://en.wikipedia.org/wiki/Discrimination_%28disambiguation%29#Science_and_research) [net](https://en.wikipedia.org/wiki/Net_%28mathematics%29) kept in long-term [memory](Memory "Memory"), a [tree-like structure](https://en.wikipedia.org/wiki/Tree_%28data_structure%29) whose [nodes](https://en.wikipedia.org/wiki/Vertex_%28graph_theory%29) contain tests that may be applied to objects that have been described as bundles of [perceptual](https://en.wikipedia.org/wiki/Perception) features. In EPAM III, introduced in 1964 <a id="cite-note-3" href="#cite-ref-3">[3]</a> , the test nodes were generalized as n-ary switch instead of binary of EPAM II. When a familiar object is perceived, it is recognized by being sorted through the EPAM net. At the terminal nodes of the EPAM net, partial "images" are stored, also in the form of feature bundles of the objects sorted to the respective terminals, together with other information about the objects <a id="cite-note-4" href="#cite-ref-4">[4]</a> , such as [cue](https://en.wikipedia.org/wiki/Sensory_cue) information, used to feed back into the net [recursively](Recursion "Recursion") .

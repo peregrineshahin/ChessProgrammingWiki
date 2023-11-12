@@ -6,17 +6,6 @@ title: Asymmetric Evaluation
 [](https://commons.wikimedia.org/wiki/File:%27Helmet_Head_No._2%27,_bronze_sculpture_by_Henry_Moore,_1955,_Art_Gallery_of_New_South_Wales.JPG) [Henry Moore](Category:Henry_Moore "Category:Henry Moore") - Helmed Head N° 2 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 Some programs score certain terms **differently** for the [side](Side_to_move "Side to move") they are playing and for the opponent. Most often the big terms, like [king safety](King_Safety "King Safety"), [passed pawn evaluation](Passed_Pawn "Passed Pawn") or [mobility](Mobility "Mobility") are scaled in some way. Whilst it might be argued that this idea runs counter the definition of chess as a zero-sum game, it also allows greater freedom in shaping the program's playing style. [Richard Lang's](Richard_Lang "Richard Lang") programs were famous for their asymmetry in evaluation and [forward pruning](Pruning "Pruning") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , which emphasis safety (rules like 'do not start a wild attack, but worry a lot if the opponent does so') <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 1997 ...](#1997-...)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2010 ...](#2010-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 References](#references)
-
 ## See also
 
 - [Odd-Even Effect](Odd-Even_Effect "Odd-Even Effect")

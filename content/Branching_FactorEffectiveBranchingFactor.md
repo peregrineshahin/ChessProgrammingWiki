@@ -6,22 +6,6 @@ title: Branching FactorEffectiveBranchingFactor
 \[ A [red-black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree) with branching factor 2 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 In [computing](https://en.wikipedia.org/wiki/Computing), [tree data structures](<https://en.wikipedia.org/wiki/Tree_(data_structure)>), and [game theory](https://en.wikipedia.org/wiki/Game_theory), the **Branching Factor** is the number of children at each [node](Node "Node"), the [outdegree](https://en.wikipedia.org/wiki/Directed_graph#Indegree_and_outdegree). If this value is not uniform, an **average branching factor** can be calculated <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Average Branching Factor](#average-branching-factor)
-- [2 Effective Branching Factor](#effective-branching-factor)
-- [3 Mean Branching Factor](#mean-branching-factor)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1997 ...](#1997-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-  - [5.6 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Average Branching Factor
 
 In [chess](Chess "Chess"), in average there are about 35-38 [moves](Moves "Moves") per [position](Chess_Position "Chess Position"). One additional cycle of growth expands each [leaf](Leaf_Node "Leaf Node") so far accordantly. This is called the average branching factor of the [game tree](https://en.wikipedia.org/wiki/Game_tree).

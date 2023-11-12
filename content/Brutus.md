@@ -8,35 +8,6 @@ title: Brutus
 
 a [FPGA](FPGA "FPGA") based chess entity developed by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), supported by [Alex Kure](Alex_Kure "Alex Kure") and [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"). Brutus consists of usual [PCs](IBM_PC "IBM PC") with [Xilinx Virtex](https://en.wikipedia.org/wiki/Virtex_%28FPGA%29#Virtex_family) [FPGA](FPGA "FPGA") boards inside, and was designed in dependence on the [Belle](Belle "Belle") and [Deep Thought](Deep_Thought "Deep Thought") chess machines. In fact, it was [Ken Thompson](Ken_Thompson "Ken Thompson") who initiated and supported the FPGA chess project. After the [WCCC 2003](WCCC_2003 "WCCC 2003"), Brutus evolved to [Hydra](Hydra "Hydra").
 
-## Contents
-
-- [1 How it started](#how-it-started)
-- [2 Etymology](#etymology)
-- [3 Description](#description)
-  - [3.1 FPGA Search](#fpga-search)
-  - [3.2 Evaluation](#evaluation)
-  - [3.3 Move Generation](#move-generation)
-  - [3.4 Distributed Search](#distributed-search)
-- [4 Tournament Play](#tournament-play)
-- [5 Photos & Games](#photos-.26-games)
-  - [5.1 IPCCC 2002](#ipccc-2002)
-  - [5.2 WCCC 2002](#wccc-2002)
-  - [5.3 WCCC 2003](#wccc-2003)
-- [6 Namesake](#namesake)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-- [9 Forum Posts](#forum-posts)
-  - [9.1 2002](#2002)
-  - [9.2 2003](#2003)
-  - [9.3 2004 ...](#2004-...)
-- [10 External Links](#external-links)
-  - [10.1 Chess Entity](#chess-entity)
-    - [10.1.1 Maastricht](#maastricht)
-    - [10.1.2 Lippstadt](#lippstadt)
-    - [10.1.3 Graz](#graz)
-  - [10.2 Brutus](#brutus)
-- [11 References](#references)
-
 ## How it started
 
 In early 2000, [Ken Thompson](Ken_Thompson "Ken Thompson") told his friend [Frederic Friedel](Frederic_Friedel "Frederic Friedel") about interesting hardware developments concerning FPGAs, and asked whether he was aware of a programmer who could build such a kind of "People's [Deep Blue](Deep_Blue "Deep Blue")". [ChessBase](ChessBase "ChessBase"), surely interested in the commercial aspects of such a machine, engaged Chrilly Donninger for the development of a FPGA based chess hardware and program. The work on Brutus started in October 2000, one year later it could calculate its first position, and in January 2002, it played its first game. Soon, programmer, chess expert and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") Alex Kure, and in November 2002, Ulf Lorenz, responsible for the surrounding [distributed search](Parallel_Search "Parallel Search"), joined the Brutus team, with [ChessBase](ChessBase "ChessBase") and the [Paderborn University](Paderborn_University "Paderborn University") cooperating on the project <a id="cite-note-2" href="#cite-ref-2">[2]</a>.

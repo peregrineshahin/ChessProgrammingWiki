@@ -12,15 +12,6 @@ The [search](Search "Search") is [PVS](Principal_Variation_Search "Principal Var
 [Killer-](Killer_Heuristic "Killer Heuristic") and [history heuristic](History_Heuristic "History Heuristic") as well as [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") are used to [order moves](Move_Ordering "Move Ordering"). [Evaluation](Evaluation "Evaluation") covers [material](Material "Material"), [mobility](Mobility "Mobility"), various [pawn structure](Pawn_Structure "Pawn Structure") features, and [king safety](King_Safety "King Safety") through [square control](King_Safety#SquareControl "King Safety").
 Dolphin played the [IOCSC 2010](IOCSC_2010 "IOCSC 2010"), and the [DOCCC 2010](DOCCC_2010 "DOCCC 2010") operated by [Tessa Pijl](Tessa_Pijl "Tessa Pijl").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Arion](Arion "Arion")

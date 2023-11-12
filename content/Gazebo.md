@@ -10,14 +10,6 @@ a commercial [Windows](Windows "Windows") chess program by [Stuart Cracraft](Stu
 Gazebo uses the [null move](Null_Move_Pruning "Null Move Pruning") and [history heuristics](History_Heuristic "History Heuristic") in implementing an [iterative](Iterative_Deepening "Iterative Deepening") [depth-first](Depth-First "Depth-First") [alpha-beta search](Alpha-Beta "Alpha-Beta") with [quiescence](Quiescence_Search "Quiescence Search") and [combined](Oracle "Oracle") [horizon](Horizon_Node "Horizon Node") and [frontier node](Frontier_Nodes "Frontier Nodes") [evaluation](Evaluation "Evaluation") [tables](Piece-Square_Tables "Piece-Square Tables") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Gazebo was later incorporated into [GNU Chess](GNU_Chess "GNU Chess") 5, along with [Chua Kong Sian's](Chua_Kong_Sian "Chua Kong Sian") program [Cobalt](Cobalt "Cobalt") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Screenshot
 
 [](File:Gazebo.gif)

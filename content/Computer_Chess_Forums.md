@@ -5,22 +5,6 @@ title: Computer Chess Forums
 
 \[.jpg) [The Forum Romanum](https://en.wikipedia.org/wiki/Roman_Forum) in [Rome](https://en.wikipedia.org/wiki/Rome) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
-## Contents
-
-- [1 Chess Programming Forums](#chess-programming-forums)
-- [2 Discord Channels](#discord-channels)
-- [3 Engine Forums](#engine-forums)
-- [4 Chess Computers](#chess-computers)
-- [5 Endgame Tablebases](#endgame-tablebases)
-- [6 Rating Lists](#rating-lists)
-- [7 News groups](#news-groups)
-- [8 Game & AI Forums](#game-.26-ai-forums)
-- [9 National Forums](#national-forums)
-- [10 External Links](#external-links)
-  - [10.1 Social and Ethic Aspects](#social-and-ethic-aspects)
-  - [10.2 Language and Rhetoric Aspects](#language-and-rhetoric-aspects)
-- [11 References](#references)
-
 ## Chess Programming Forums
 
 Some of the more popular computer chess programming related [forums](https://en.wikipedia.org/wiki/Internet_forum):

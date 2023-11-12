@@ -10,20 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Betsabe II is successor of Betsabe, which already played various [Spanish Computer Chess Championships](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship") in the 90s, notably the [SCCC 1993](SCCC_1993 "SCCC 1993") where it became first Spanish Champion with a 100% score, and the [SCCC 1994](SCCC_1994 "SCCC 1994") as runner-up behind [Zeus II](Zeus "Zeus").
 Betsabe was initially based on [Dieter Steinwender's](Dieter_Steinwender "Dieter Steinwender") and [Chrilly Donninger's](Chrilly_Donninger "Chrilly Donninger") program [Minimax](</Minimax_(program)> "Minimax (program)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, but differences in [search](Search "Search") and [evaluation](Evaluation "Evaluation") are substantial.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 ## Board Representation

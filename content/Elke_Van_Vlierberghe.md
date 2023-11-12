@@ -9,14 +9,6 @@ title: Elke Van Vlierberghe
 a Belgian medical scientist and [ICT](https://en.wikipedia.org/wiki/Information_and_communications_technology) manager at the center for medical genetics at [Ghent University Hospital](https://en.wikipedia.org/wiki/Ghent_University_Hospital), closely linked to [Ghent University](https://en.wikipedia.org/wiki/University_of_Ghent) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 As friend of [computer chess](Category:Chess_Programmer "Category:Chess Programmer") and [go programmer](Category:Go_Programmer "Category:Go Programmer") [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), Elke van Vlierberghe operated [Deep Sjeng](Deep_Sjeng "Deep Sjeng") and [Stoofvlees](Stoofvlees "Stoofvlees") at various computer chess tournaments.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 DOCCC 2004](#doccc-2004)
-  - [1.2 WCCC 2005](#wccc-2005)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Photos
 
 ## DOCCC 2004

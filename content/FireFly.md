@@ -10,18 +10,6 @@ an [UCI](UCI "UCI") and [WinBoard](WinBoard "WinBoard") compliant chess engine b
 and applies an own 32-bit implementation of single line [Magic Bitboards](Magic_Bitboards "Magic Bitboards") aka [Kindergarten Bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 is able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"), and performs a [parallel search](Parallel_Search "Parallel Search").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2004](#2004)
-  - [2.2 2005 ...](#2005-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [TCEC Season 5](TCEC_Season_5 "TCEC Season 5"), round 5, FireFly - [Crafty](Crafty "Crafty") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

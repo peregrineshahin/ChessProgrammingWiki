@@ -8,14 +8,6 @@ title: Aleksander Sadikov
 
 a Slovenian computer scientist, chess player, senior lecturer and researcher at the Artificial Intelligence Laboratory <a id="cite-note-2" href="#cite-ref-2">[2]</a> [University of Ljubljana](University_of_Ljubljana "University of Ljubljana"), where he already defended his M.Sc. and Ph.D. in 2002 and 2005 respectively, the latter entitled *Propagation of Heuristic Evaluation Errors in Game Graph*. His research interests covers search techniques in AI, heuristic evaluation functions, computer game-playing, and automated explanation and tutoring systems.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

@@ -8,16 +8,6 @@ title: Chester
 
 a private chess engine written by [Steve Timson](index.php?title=Steve_Timson&action=edit&redlink=1 "Steve Timson (page does not exist)"). Chester is a solid tactical program, applying [singular extensions](Singular_Extensions "Singular Extensions") restricted to fairly near-root nodes disjoint from [recapture extensions](Recapture_Extensions "Recapture Extensions") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Inspired by comments [Bruce Moreland](Bruce_Moreland "Bruce Moreland") made at [CCT3](CCT3 "CCT3"), if a (significantly) [reduced depth](Depth_Reduction_R "Depth Reduction R") search of the moves at a [node](Node "Node") reveal that only one move produced a [score](Score "Score") near [alpha](Alpha "Alpha") and the rest are all worse, then extend it. Steve further worked on positional knowledge during the development and mentioned Chester does not have any special [bad bishop](Bad_Bishop "Bad Bishop") code beyond [mobility](Mobility "Mobility") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Chester played a strong [CCT3](CCT3 "CCT3") with 4½/8 and [CCT4](CCT4 "CCT4") with 6/11.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 Tinker](#tinker)
-  - [1.2 IsiChess](#isichess)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Games
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

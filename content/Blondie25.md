@@ -7,14 +7,6 @@ title: Blondie25
 
 an [evolutionary](Genetic_Programming#EvolutionaryProgramming "Genetic Programming") chess program by [David B. Fogel](David_B._Fogel "David B. Fogel") and [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), supported by [James Quon](James_Quon "James Quon") and [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"). Blondie25 improved its play by almost 400 rating points during evolution <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 New Results in Evolving Chess](#new-results-in-evolving-chess)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## New Results in Evolving Chess
 
 Quote from the Press Release, May 22, 2006 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

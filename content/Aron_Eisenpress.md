@@ -7,14 +7,6 @@ title: Aron Eisenpress
 
 an American computer scientist affiliated with the [City University of New York](https://en.wikipedia.org/wiki/City_University_of_New_York), and Manager of the [MVS](https://en.wikipedia.org/wiki/MVS) Control Systems . In 1970/71, while affiliated with [Columbia University](Columbia_University "Columbia University"), along with [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), and [Ben Yalow](Ben_Yalow "Ben Yalow"), he co-authored the chess program [CCCP](</CCCP_(US)> "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Hanging Out](#hanging-out)
-  - [1.2 CCCP](#cccp)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Quotes
 
 ## Hanging Out

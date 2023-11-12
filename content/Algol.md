@@ -10,14 +10,6 @@ is a family of [imperative](https://en.wikipedia.org/wiki/Imperative_programming
 Algol 58 introduced code blocks and the begin and end pairs for delimiting them. Two years later, [Algol 60](https://en.wikipedia.org/wiki/ALGOL_60) was specified, as the result of a meeting in Paris in January 1960 by 13 European and American scientists, [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur), [John Backus](https://en.wikipedia.org/wiki/John_Backus), [John McCarthy](John_McCarthy "John McCarthy"), [Friedrich L. Bauer](Mathematician#Bauer "Mathematician"), [Adriaan van Wijngaarden](Mathematician#AvWijngaarden "Mathematician"), et al. Algol 60 became the standard for the publication of algorithms and had a profound effect on future language development, it was the first language implementing [nested function](https://en.wikipedia.org/wiki/Nested_function) definitions with [lexical scope](https://en.wikipedia.org/wiki/Lexical_scope#Static_versus_dynamic_scoping).
 [Algol 68](https://en.wikipedia.org/wiki/ALGOL_68) was designed by [IFIP](IFIP "IFIP"), while [Niklaus Wirth](Mathematician#NEWirth "Mathematician") based his own [Algol W](https://en.wikipedia.org/wiki/ALGOL_W) <a id="cite-note-2" href="#cite-ref-2">[2]</a> on Algol 60 before moving to develop [Pascal](Pascal "Pascal").
 
-## Contents
-
-- [1 Algol W](#algol-w)
-- [2 Algol Chess Programs](#algol-chess-programs)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Algol W
 
 A boolean procedure in Algol W from the chess program [Awit](Awit "Awit") by [Tony Marsland](Tony_Marsland "Tony Marsland") <a id="cite-note-3" href="#cite-ref-3">[3]</a> :

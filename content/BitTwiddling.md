@@ -5,15 +5,6 @@ title: BitTwiddling
 
 **Bit-twiddling** is a family of techniques used in [manipulating](https://en.wikipedia.org/wiki/Bit_manipulation) integers in a non-obvious manner in order to obtain a result either more quickly or with less code. Bit-twiddling is often associated with [bitboards](Bitboards "Bitboards"), but there are both easy-to-read [bitboard](Bitboards "Bitboards") implementations and difficult-to-read implementations of other board representations.
 
-## Contents
-
-- [1 Bit-Twiddling related to Bitboards](#bit-twiddling-related-to-bitboards)
-- [2 Bit-Manipulation](#bit-manipulation)
-- [3 Forum Posts](#forum-posts)
-- [4 Important online resources](#important-online-resources)
-- [5 Other Bit-Twiddling resources](#other-bit-twiddling-resources)
-- [6 External Links](#external-links)
-
 ## Bit-Twiddling related to Bitboards
 
 - [BitScan](BitScan "BitScan")

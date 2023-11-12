@@ -10,19 +10,6 @@ an autoplayer protocol based on the [serial communication](https://en.wikipedia.
 
 With two [PCs](IBM_PC "IBM PC"), or two [COM ports](<https://en.wikipedia.org/wiki/COM_(hardware_interface)>) even with one computer <a id="cite-note-2" href="#cite-ref-2">[2]</a>, connected by a modified [null-modem](https://en.wikipedia.org/wiki/Null_modem) cable, it was now possible to play matches between two programs automaticly, a huge relief for testers and [engine rating list](Engine_Rating_Lists "Engine Rating Lists") organizations like [SSDF](SSDF "SSDF"). The Auto232 product with cable and software was purchased by [CSS-Shop](Dieter_Steinwender#CSS "Dieter Steinwender") and [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)").
 
-## Contents
-
-- [1 Windows](#windows)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1997 ...](#1997-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Windows
 
 A free [Windows](Windows "Windows") Auto232 driver written by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") <a id="cite-note-3" href="#cite-ref-3">[3]</a> allowed automatic play also between Windows programs. Auto232 was further incorporated inside various [GUIs](GUI "GUI") and engines, but implementations were at times buggy and the protocol not that reliable specially concerning game termination <a id="cite-note-4" href="#cite-ref-4">[4]</a>. With the advent and wider distribution of the standardized [computer chess protocols](Protocols "Protocols") such as the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard") / [XBoard](XBoard "XBoard") and the [Universal Chess Interface](UCI "UCI"), Auto232 became obsolete and outdated.

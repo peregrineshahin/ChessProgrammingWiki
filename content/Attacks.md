@@ -9,13 +9,6 @@ title: Attacks
 the offensive interpretation of [square control](Square_Control "Square Control") - in particular if occupied by opponent pawns or pieces, threatening to [capture](Captures "Captures") them.
 The antonym of attack is **Defense**, controlling squares which are potentially or actually occupied by own pieces or pawns, with the option to recapture an attacker.
 
-## Contents
-
-- [1 Attack Topics](#attack-topics)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Attack Topics
 
 - [Attack and Defend Maps](Attack_and_Defend_Maps "Attack and Defend Maps")

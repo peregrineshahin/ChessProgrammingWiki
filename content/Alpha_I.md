@@ -7,15 +7,6 @@ title: Alpha I
 
 a chess program by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") and [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz") from the [Paderborn University](Paderborn_University "Paderborn University"), Germany. It is a single processor version of the massive parallel program [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") and therefore allowed to play the [13th World Microcomputer Chess Championship 1995](WMCCC_1995 "WMCCC 1995").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](File:NightmareAlpha1995.jpg)

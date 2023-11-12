@@ -3,31 +3,6 @@ title: ArtsDuchamp
 ---
 **[Home](Home "Home") * Arts**
 
-## Contents
-
-- [1 Artists](#artists)
-  - [1.1 Samuel Bak](#samuel-bak)
-  - [1.2 John Cage](#john-cage)
-  - [1.3 Maria Helena Vieira da Silva](#maria-helena-vieira-da-silva)
-  - [1.4 Marcel Duchamp](#marcel-duchamp)
-  - [1.5 M. C. Escher](#m.-c.-escher)
-  - [1.6 Carina Jørgensen](#carina-j.c3.b8rgensen)
-  - [1.7 Wassily Kandinsky](#wassily-kandinsky)
-  - [1.8 Paul Klee](#paul-klee)
-  - [1.9 Elke Rehder](#elke-rehder)
-- [2 Graffiti](#graffiti)
-- [3 Industrial Heritage Trail](#industrial-heritage-trail)
-  - [3.1 Art Museum Bochum](#art-museum-bochum)
-  - [3.2 Flottmann-Hallen](#flottmann-hallen)
-  - [3.3 Zollern Colliery](#zollern-colliery)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Wikipedia](#wikipedia)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Artists
 
 [CPW Pages](Home "Home") containing [Paintings](https://en.wikipedia.org/wiki/Painting), [Arts](https://en.wikipedia.org/wiki/The_arts) and artful [buildings](https://en.wikipedia.org/wiki/Building) by:

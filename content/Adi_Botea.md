@@ -9,14 +9,6 @@ title: Adi Botea
 a computer scientist at [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") [Research](https://en.wikipedia.org/wiki/IBM_Research) in [Dublin](https://en.wikipedia.org/wiki/Dublin), Ireland, previously affiliated with the [Australian National University](Australian_National_University "Australian National University") and [NICTA](https://en.wikipedia.org/wiki/NICTA), with research interests in [AI planning](Planning "Planning"), [heuristic search](Search "Search"), and [games](Games "Games").
 He holds a Ph.D. from [University of Alberta](University_of_Alberta "University of Alberta") about AI panning and search <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and was involved in developing of the [pathfinding algorithm](https://en.wikipedia.org/wiki/Pathfinding) **HPA**\* (Hierarchical Path-Finding [A\*](https://en.wikipedia.org/wiki/A*_search_algorithm)) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and **Macro-FF** <a id="cite-note-4" href="#cite-ref-4">[4]</a>, a planner obtained by adding macro-operators on top of the fast forward planning system <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2002 ...](#2002-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

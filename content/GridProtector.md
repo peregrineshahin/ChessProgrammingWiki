@@ -9,15 +9,6 @@ title: GridProtector
 a [cluster](https://en.wikipedia.org/wiki/Computer_cluster) chess program by [Kai Himstedt](Kai_Himstedt "Kai Himstedt") as successor of [GridChess](GridChess "GridChess") and [Cluster Toga](Cluster_Toga "Cluster Toga") incorporating [Raimund Heid's](Raimund_Heid "Raimund Heid") [open source engine](Category:Open_Source "Category:Open Source") [Protector](Protector "Protector") as primary searcher, and [Crafty](Crafty "Crafty") by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") as proxy engine, which performs no tree search itself but has some kind of a master role to control the optimistic [pondering](Pondering "Pondering") with distributed worker clients.
 GridProtector had its debut the [PT 49](PT_49 "PT 49") operated by [Timo Haupt](Timo_Haupt "Timo Haupt") - losing from later winner, massive parallel [Jonny](Jonny "Jonny") and runner-up [Shredder](Shredder "Shredder") on 16 cores, shared third along with [HIARCS](HIARCS "HIARCS") and 5/7 .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Photos & Games](#photos-.26-games)
-- [3 External Links](#external-links)
-  - [3.1 Grid](#grid)
-  - [3.2 Protector](#protector)
-- [4 References](#references)
-
 ## See also
 
 - [Cluster Toga](Cluster_Toga "Cluster Toga")

@@ -10,16 +10,6 @@ a German computer scientist, computer chess expert, writer, journalist, salesper
 
 In 1982/83, along with Frieder Schwenkel, Dieter Steinwender played a correspondence chess game versus [Belle](Belle "Belle") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 1984, Dieter Steinwender published a didactic [Basic](Basic "Basic") program in [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and along with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), the Basic program [Minimax](</Minimax_(program)> "Minimax (program)") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 CSS](#css)
-- [2 AEGON 96](#aegon-96)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## CSS
 
 Dieter Steinwender is editor in chief of the German computer chess magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") (**CSS**). Until 2005 it was a paper magazine with co-publisher and [ChessBase](ChessBase "ChessBase") co-founder [Frederic Friedel](Frederic_Friedel "Frederic Friedel"). Today the magazine is available online <a id="cite-note-6" href="#cite-ref-6">[6]</a> with Steinwender as sole publisher and editor in chief <a id="cite-note-7" href="#cite-ref-7">[7]</a> and shareholder of *Steinwender EDV-Beratung GbR* <a id="cite-note-8" href="#cite-ref-8">[8]</a> with the associated *CSS-Shop* <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> . The close relationships between CSS and CSS-Shop and ChessBase, was criticized as cause of possible conflict of interests related to independent journalism and test-reports of computer chess products <a id="cite-note-11" href="#cite-ref-11">[11]</a> .

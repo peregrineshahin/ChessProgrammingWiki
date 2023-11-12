@@ -10,25 +10,6 @@ was a British researcher and pioneer in [artificial intelligence](Artificial_Int
 
 Michie was head of the [University of Edinburgh's](University_of_Edinburgh "University of Edinburgh") Department of Machine Intelligence from 1965 until 1985 [[9]](#cite_note-9) , when he left to found the [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute) in [Glasgow](https://en.wikipedia.org/wiki/Glasgow) [[10]](#cite_note-10). Michie researched on game theory and computer games and chess. He was a close friend of [David Levy](David_Levy "David Levy") and involved in the famous [Levy Bet](David_Levy#TheLevyBet "David Levy") with [John McCarthy](John_McCarthy "John McCarthy"), which occurred during an AI-workshop in Edinburgh [[11]](#cite_note-11) , where Michie affirmed McCarthy to take the challenge by David Levy and even want to share the bet on McCarthy's site [[12]](#cite_note-12) .
 
-## Contents
-
-- [1 Photos](#Photos)
-- [2 Machine Learning](#Machine_Learning)
-- [3 The Need for Search](#The_Need_for_Search)
-- [4 Chess Endgames](#Chess_Endgames)
-- [5 Solving Chess?](#Solving_Chess.3F)
-- [6 AI as Sport](#AI_as_Sport)
-- [7 See also](#See_also)
-- [8 Selected Publications](#Selected_Publications)
-  - [8.1 1945](#1945)
-  - [8.2 1960 ...](#1960_...)
-  - [8.3 1970 ...](#1970_...)
-  - [8.4 1980 ...](#1980_...)
-  - [8.5 1990 ...](#1990_...)
-  - [8.6 2000 ...](#2000_...)
-- [9 External Links](#External_Links)
-- [10 References](#References)
-
 ## Photos
 
 [](File:HayesMichie1984.JPG)

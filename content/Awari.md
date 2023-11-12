@@ -8,20 +8,6 @@ title: Awari
 
 a [variation](https://en.wikipedia.org/wiki/Awari#.22Grand_Slam.22_variations) of the [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy_game) [mancala board game](Games#Mancala "Games") [Oware](https://en.wikipedia.org/wiki/Oware) or Awele. Awari was played five times at [Computer Olympiads](Computer_Olympiad "Computer Olympiad"), from the [1st Computer Olympiad](1st_Computer_Olympiad "1st Computer Olympiad") in 1989 until the [5th Computer Olympiad](5th_Computer_Olympiad "5th Computer Olympiad") in 2000.
 
-## Contents
-
-- [1 It's a Draw](#it.27s-a-draw)
-- [2 Rules](#rules)
-- [3 Computer Olympiads](#computer-olympiads)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 1989](#1989)
-  - [5.2 1990 ...](#1990-...)
-  - [5.3 2000 ...](#2000-...)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## It's a Draw
 
 In 1990, [Victor Allis](Victor_Allis "Victor Allis"), [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen"), and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") first applied [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") to Awari <a id="cite-note-2" href="#cite-ref-2">[2]</a>, in 2000 and 2002 further elaborated by [Roel van der Goot](index.php?title=Roel_van_der_Goot&action=edit&redlink=1 "Roel van der Goot (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Thomas Lincke](Thomas_Lincke "Thomas Lincke") respectevely <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Awari was [strongly solved](index.php?title=Solved_Game&action=edit&redlink=1 "Solved Game (page does not exist)") by [John Romein](John_Romein "John Romein") and [Henri Bal](Henri_Bal "Henri Bal") in 2002 - either side can force a draw <a id="cite-note-5" href="#cite-ref-5">[5]</a>. They developed a program that computes the best move and eventual outcome for all 889,063,398,406 positions that can possibly occur in Awari and further published a [Java](Java "Java") [applet](https://en.wikipedia.org/wiki/Java_applet) to play against their **Awari Oracle**, a potentially infallible opponent. The database requires 778 GiB stored on disk and was generated using parallel retrograde analysis with a [cluster](https://en.wikipedia.org/wiki/Computer_cluster) of 72 dual [PIII](X86 "X86") @ 1 GHz with 1 GiB of [main memory](Memory "Memory") each, connected through [Myrinet](https://en.wikipedia.org/wiki/Myrinet), which took 51 hours <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

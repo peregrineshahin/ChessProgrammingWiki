@@ -8,32 +8,6 @@ title: Chess Challenger
 
 was a series of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") produced and market by [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"). The *Chess Challenger 1* was the first commercial chess computer of its kind in [1976](Timeline#1976 "Timeline"), invented by [Sidney Samole](Sidney_Samole "Sidney Samole"), with a program by [Ron Nelson](Ron_Nelson "Ron Nelson"), developed for an [Altair 8800](https://en.wikipedia.org/wiki/Altair_8800) Microcomputer with an [Intel](Intel "Intel") [8080](8080 "8080") CPU. Further versions of Nelson's program run on a more advanced [Z80](Z80 "Z80") CPU, great commercial success was the *Chess Challenger 7* <a id="cite-note-2" href="#cite-ref-2">[2]</a> in 1979. [Ed English](Ed_English "Ed English"), an early game programmer affiliated with Fidelity Electronics in 1979/80, improved the [alpha-beta](Alpha-Beta "Alpha-Beta") implementation to double the playing speed <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Sargon becomes Challenger](#sargon-becomes-challenger)
-  - [2.1 WMCCC 1980, MCC 1980](#wmccc-1980.2c-mcc-1980)
-  - [2.2 WCCC 1980](#wccc-1980)
-  - [2.3 ACM 1980](#acm-1980)
-- [3 Name Confusion](#name-confusion)
-- [4 Chess Challenger X](#chess-challenger-x)
-  - [4.1 ACM 1986](#acm-1986)
-  - [4.2 ACM 1988](#acm-1988)
-- [5 CC Clones](#cc-clones)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-  - [7.1 1978 ...](#1978-...)
-  - [7.2 1980 ...](#1980-...)
-  - [7.3 2000 ...](#2000-...)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1998 ...](#1998-...)
-  - [8.2 2000 ...](#2000-...-2)
-  - [8.3 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-  - [9.1 Chess Challenger Voices](#chess-challenger-voices)
-  - [9.2 Editions](#editions)
-- [10 References](#references)
-
 ## Photos
 
 [](http://www.ismenio.com/fidelity.html)

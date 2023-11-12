@@ -9,15 +9,6 @@ title: Cipollino
 a private chess engine by [Giancarlo Delli Colli](Giancarlo_Delli_Colli "Giancarlo Delli Colli") in dependence on the fictional character from [Gianni Rodari's](https://en.wikipedia.org/wiki/Gianni_Rodari) eponymous *Tale of Cipollino* also known under its 1957 renamed title *The Adventures of the Little Onion* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, who fights the unjust treatment of his fellow vegetable townfolk by the fruit royalty.
 Cipollino played the [CIPS 2007](CIPS_2007 "CIPS 2007") with 5½/6, with hindsight zeroed on the [G 6](G_6 "G 6") tournament page. Concerning engine originality of [Olivier Deville's](Olivier_Deville "Olivier Deville") [ChessWar](ChessWar "ChessWar") tournaments, Cipollino was suspected as [Fruit](Fruit "Fruit") derivative by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and according to Olivier Deville first forfeited and later reinstated after Giancarlo Delli Colli provided Christopher Conkie with some source code for examination, and nothing suspicious has been found <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Equinox](Equinox "Equinox")

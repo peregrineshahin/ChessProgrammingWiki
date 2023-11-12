@@ -7,18 +7,6 @@ title: Chessterfield
 
 a family of chess engines by [Matthias Lüscher](Matthias_L%C3%BCscher "Matthias Lüscher"), written in [C++](Cpp "Cpp"), first released in April 1998. The free native Chessterfield comes with an own [GUI](GUI "GUI"), the experimental [WinBoard](WinBoard "WinBoard") compliant ChessterfieldCL along with its [learning utility](Learning "Learning") ChessterfieldEN is [open source](Category:Open_Source "Category:Open Source") published under the [GNU General Public Licence V2](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Chessterfield applies [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [razoring](Razoring "Razoring") and various [extensions](Extensions "Extensions") inside an [aspirated](Aspiration_Windows "Aspiration Windows") [iterative deepening](Iterative_Deepening "Iterative Deepening") loop.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 ChessterfieldCL](#chessterfieldcl)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Chesterfield](#chesterfield)
-- [7 References](#references)
-
 ## Screenshot
 
 [](http://home.datacomm.ch/m.luescher/screenshot.html)

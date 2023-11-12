@@ -8,18 +8,6 @@ title: Apple II
 
 was one of the first mass produced [microcomputer](https://en.wikipedia.org/wiki/Microcomputer) products, manufactured by [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)"). The first Apple II computers went on sale on June 5, 1977 <a id="cite-note-2" href="#cite-ref-2">[2]</a> with a [MOS Technology](https://en.wikipedia.org/wiki/MOS_Technology) [6502](6502 "6502") microprocessor running at 1 MHz, 4 kiB of [RAM](Memory#RAM "Memory"), an audio cassette interface for loading programs and storing data, and the Integer [Basic](Basic "Basic") programming language built into the [ROM](Memory#ROM "Memory"). The video controller displayed 24 lines by 40 columns of monochrome, upper-case-only text on the screen.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Chess Programs](#chess-programs)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Apple II](#apple-ii)
-  - [5.2 Chess Programs](#chess-programs-2)
-  - [5.3 Misc](#misc)
-- [6 References](#references)
-
 ## Quotes
 
 from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

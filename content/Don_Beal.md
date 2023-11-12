@@ -8,23 +8,6 @@ title: Don Beal
 
 a British computer scientist and computer games researcher, [Emeritus](https://en.wikipedia.org/wiki/Emeritus) staff from the [Queen Mary and Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London") of [London](https://en.wikipedia.org/wiki/London), Department of Computer Science <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Don Beal researched and published on various computer chess related topics, for instance [search pathology](Search_Pathology "Search Pathology"), [null move quiescence search](Null_Move_Pruning#NMQS "Null Move Pruning"), [integrated bounds and values](Integrated_Bounds_and_Values "Integrated Bounds and Values"), [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") and [retrograde analysis](Retrograde_Analysis "Retrograde Analysis"). Selected publications were summarized in his Ph.D. thesis *The Nature of MINIMAX Search* <a id="cite-note-3" href="#cite-ref-3">[3]</a> , he was author and co-author of several chess programs competing at various [CC Tournaments](Tournaments_and_Matches "Tournaments and Matches"), and was long time board member of the [ICCA](ICCA "ICCA") as Secretary-Treasurer <a id="cite-note-4" href="#cite-ref-4">[4]</a>, contributor of multiple [Advances in Computer Chess Conferences](Conferences "Conferences"), as well as editor of the [ACC 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4"), [ACC 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5") and [ACC 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6") conference proceedings. Don Beal advocated and organized [Uniform-Platform Computer Chess Championship](Uniform-Platform_Computer_Chess_Championship "Uniform-Platform Computer Chess Championship") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, an approach to compare programs without hardware dependence.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Don's Programs](#don.27s-programs)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1978](#1978)
-  - [4.2 1980 ...](#1980-...)
-  - [4.3 1985 ...](#1985-...)
-  - [4.4 1990 ...](#1990-...)
-  - [4.5 1995 ...](#1995-...)
-  - [4.6 2000 ...](#2000-...)
-  - [4.7 2005 ...](#2005-...)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Photos
 
 [](http://www.chesscomputeruk.com/html/publication_archive_1983.html)

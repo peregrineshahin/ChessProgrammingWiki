@@ -8,15 +8,6 @@ title: Bruce Abramson
 
 an American computer scientist and jurist. He holds a Ph.D. in Computer Science from [Columbia University](Columbia_University "Columbia University") and a [J.D.](https://en.wikipedia.org/wiki/Juris_Doctor) from [Georgetown](https://en.wikipedia.org/wiki/Georgetown_University). He has served on the faculty of the [University of Southern California](University_of_Southern_California "University of Southern California"), and as a research adjunct to the faculty of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"). His research interests covers [Game theory](https://en.wikipedia.org/wiki/Game_theory) in general with focus on [heuristic search](Search "Search") and [evaluation](Evaluation "Evaluation") associated with [learning](Learning "Learning").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1985 ...](#1985-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

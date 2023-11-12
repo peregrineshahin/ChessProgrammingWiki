@@ -11,17 +11,6 @@ The Excel had a 16-bit [Sargon III](Sargon "Sargon") based [68000](68000 "68000"
 and was the first dedicated unit featuring a [transposition table](Transposition_Table "Transposition Table") apparently with [BCH hashing](BCH_Hashing "BCH Hashing") of \< 16 KiB, 128 KiB for the **Mach II**, 64 KiB for the **Mach III**, 512 KiB for the [68020](68020 "68020") **Mach IV**. Due to TTs, the Excel could solve the [Lasker-Reichhelm Position](Lasker-Reichhelm_Position "Lasker-Reichhelm Position") in under a minute, but had some issues with [color flipped](Color_Flipping "Color Flipping") positions, f. i. in [KBNK](KBNK_Endgame "KBNK Endgame") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The Mach III and its successor, the [68020](68020 "68020") 32-bit Mach IV were also shipped in other housings, such as the [Elite Avant Garde V2](Elite "Elite") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and Avant Garde V6 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and the later Fidelity **Designer** models <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Master Rating](#master-rating)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Computer](#chess-computer)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Master Rating
 
 [](Ttps://www.flickr.com/photos/10261668@N05/859084808/in/album-72157600922170604/ "Ttps://www.flickr.com/photos/10261668@N05/859084808/in/album-72157600922170604/") Mach III Rating Certificate <a id="cite-note-7" href="#cite-ref-7">[7]</a>

@@ -7,13 +7,6 @@ title: Dave Gomboc
 
 a Canadian computer scientist and [AI](Artificial_Intelligence "Artificial Intelligence") researcher affiliated with [AAAI](AAAI "AAAI"), [ACM](ACM "ACM"), [ICGA](ICGA "ICGA") and [IEEE](IEEE "IEEE") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and the [University of Southern California](University_of_Southern_California "University of Southern California") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. His research interests include [automatic tuning](Automated_Tuning "Automated Tuning") of [evaluation functions](Evaluation "Evaluation"), which was also topic of his 2004 masters thesis at [University of Alberta](University_of_Alberta "University of Alberta") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 2000, Dave Gomboc serverd as moderator in [CCC](CCC "CCC").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

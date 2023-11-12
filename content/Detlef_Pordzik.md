@@ -9,13 +9,6 @@ title: Detlef Pordzik
 was a German computer chess expert, chess and [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_Chess) player, journalist and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author").
 Elvis wrote computer chess related articles in the German chess newspaper [Rochade Europa](http://de.wikipedia.org/wiki/Rochade_Europa), was Editor In Chief of the German [ChessBits](ChessBits "ChessBits") computer chess magazine and author of the [Shredder 4](Shredder "Shredder") [Opening Book](Opening_Book "Opening Book") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 Elvis' Motto](#elvis.27-motto)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Detlef Pordzik (**1995**). *[Rebel Century News – und das Update 1.2/b](http://www.rebel.nl/elvis1.htm)*. (German) [Rebel review section](http://www.rebel.nl/reviews.htm)

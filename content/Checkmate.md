@@ -6,31 +6,6 @@ title: Checkmate
 [](File:Foolsmate.jpg) [Shannon Larratt](index.php?title=Category:Shannon_Larratt&action=edit&redlink=1 "Category:Shannon Larratt (page does not exist)") - Fool's mate (2007) [[1]](#cite_note-1) [[2]](#cite_note-2) [[3]](#cite_note-3)
 **Checkmate** (often shortened to **mate**) occurs if a [king](King "King") is under immediate attack by one (or two) opponent pieces (in [check](Check "Check")) and has no way to remove it from attack on the next move. Checkmate is the object of the game of chess, it ends with the mate giving player as the winner, and the mated player the loser.
 
-## Contents
-
-- [1 Mate Score](#Mate_Score)
-  - [1.1 At the Root](#At_the_Root)
-  - [1.2 Down the Tree](#Down_the_Tree)
-- [2 Detecting Mate](#Detecting_Mate)
-- [3 See also](#See_also)
-- [4 Publications](#Publications)
-  - [4.1 1952](#1952)
-  - [4.2 1965 ...](#1965_...)
-  - [4.3 1980 ...](#1980_...)
-  - [4.4 1990 ...](#1990_...)
-  - [4.5 2000 ...](#2000_...)
-  - [4.6 2010 ...](#2010_...)
-- [5 Forum Posts](#Forum_Posts)
-  - [5.1 1997 ...](#1997_...)
-  - [5.2 2000 ...](#2000_..._2)
-  - [5.3 2005 ...](#2005_...)
-  - [5.4 2010 ...](#2010_..._2)
-  - [5.5 2015 ...](#2015_...)
-  - [5.6 2020 ...](#2020_...)
-  - [5.7 Leonid's Positions](#Leonid.27s_Positions)
-- [6 External Links](#External_Links)
-- [7 References](#References)
-
 ## Mate Score
 
 ## At the Root

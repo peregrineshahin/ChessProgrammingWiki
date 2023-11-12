@@ -7,14 +7,6 @@ title: BikJump
 
 an [UCI chess engine](UCI "UCI") written in [C++](Cpp "Cpp") by [Aart Bik](Aart_Bik "Aart Bik"). All source code of BikJump (except the probing and decompression code for the [endgame tablebases](Nalimov_Tablebases "Nalimov Tablebases"), which are used with kind permission of [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov") and [Andrew Kadatch](Andrew_Kadatch "Andrew Kadatch")) has been built from the ground up by Aart as a simple after-hours project to gain some experience with chess engine programming and experiment with new ideas.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Java Version](#java-version)
-- [3 Platforms](#platforms)
-- [4 History and Future Plans](#history-and-future-plans)
-- [5 External Links](#external-links)
-
 ## Features
 
 - [UCI](UCI "UCI") compliant chess engine (runs in e.g. [Chessbase](ChessBase "ChessBase") [Fritz](Fritz "Fritz"), [Chess for Android](Chess_for_Android "Chess for Android"), or [Arena](Arena "Arena") [GUI](GUI "GUI")).

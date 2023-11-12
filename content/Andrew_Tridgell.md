@@ -8,15 +8,6 @@ title: Andrew Tridgell
 
 an Australian programmer, primary author of the [TD-learning](Temporal_Difference_Learning "Temporal Difference Learning") chess program [KnightCap](KnightCap "KnightCap") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and best known as the major developer of the [Samba](https://en.wikipedia.org/wiki/Samba_%28software%29) software. His Ph.D. thesis *Efficient Algorithms for Sorting and Synchronization* <a id="cite-note-3" href="#cite-ref-3">[3]</a> at the [Australian National University](Australian_National_University "Australian National University") was based on his work on the [rsync](https://en.wikipedia.org/wiki/Rsync) algorithm.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

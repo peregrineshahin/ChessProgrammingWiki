@@ -10,14 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Galahad is a traditional [bitmap](Bitboards "Bitboards") based program performing an [alpha-beta](Alpha-Beta "Alpha-Beta") search with [opening book](Opening_Book "Opening Book") and [endgame tablebase](Endgame_Tablebases "Endgame Tablebases") access.
 It is the successor to the weaker freeware program [Tristram](Tristram "Tristram") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and played the [CCT1](CCT1 "CCT1").
 
-## Contents
-
-- [1 Galahad 1.0](#galahad-1.0)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Galahad 1.0
 
 An [open source](Category:Open_Source "Category:Open Source") [Windows](Windows "Windows") version Galahad 1.0 with an own [GUI](GUI "GUI") didn't include the Chess Engine Communication Protocol compatible console engine. Its evaluation is a bitmap translation of [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [TSCP 1.3](TSCP "TSCP") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

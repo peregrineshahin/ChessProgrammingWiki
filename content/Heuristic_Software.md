@@ -7,15 +7,6 @@ title: Heuristic Software
 
 an American chess and AI game developing company founded in 1981 by [Julio Kaplan](Julio_Kaplan "Julio Kaplan"), located in [Richmond, California](https://en.wikipedia.org/wiki/Richmond,_California). Heuristic Software evolved from a small company called *Teletape Productions* by Kaplan to develop a chess game for [Mattel](https://en.wikipedia.org/wiki/Mattel) <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 SciSys/Saitek](#scisys.2fsaitek)
-- [2 Kasparov's Gambit](#kasparov.27s-gambit)
-- [3 People](#people)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## SciSys/Saitek
 
 In the 80s Heuristic's primary customer became [Eric Winkler's](Eric_Winkler "Eric Winkler") SciSys, in 1987 renamed to [Saitek](Saitek "Saitek"), where Heuristic's [CEO](https://en.wikipedia.org/wiki/Chief_executive_officer) [Julio Kaplan](Julio_Kaplan "Julio Kaplan") and [Craig Barnes](Craig_Barnes "Craig Barnes") developed the programs of most of their [dedicated units](Dedicated_Chess_Computers "Dedicated Chess Computers"), starting with [Sensor Chess](Sensor_Chess "Sensor Chess") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [President Chess](President_Chess "President Chess"), [Superstar](Superstar "Superstar") and [Turbostar](Turbostar "Turbostar").

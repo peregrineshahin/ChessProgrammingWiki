@@ -10,12 +10,6 @@ a British software developer and author of the [open source chess engines](Categ
 the tiny [iota](Iota "Iota"), supporting the full rules of chess, as well as a standard protocol <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and the [UCI](UCI "UCI") compliant [Robocide](Robocide "Robocide"), all written in [C](C "C").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [New 'Micro' Chess Engine - Iota 0.1](http://www.talkchess.com/forum/viewtopic.php?t=44325) by Daniel White, [CCC](CCC "CCC"), July 07, 2012

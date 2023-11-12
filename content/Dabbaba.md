@@ -18,16 +18,6 @@ To avoid a [search explosion](Search_Explosion "Search Explosion"), Dabbaba cons
 In May 2008, [Jim Ablett](Jim_Ablett "Jim Ablett") released a [WinBoard](WinBoard "WinBoard") version of Dabbaba <a id="cite-note-8" href="#cite-ref-8">[8]</a>,
 and in August 2012, Jens Bæk Nielsen as well <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Screenshot](#screenshot)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Dabbaba](#dabbaba)
-- [5 References](#references)
-
 ## Etymology
 
 The [Dabbaba](https://en.wikipedia.org/wiki/Dabbaba_%28chess%29) (or dabaaba, dabbabah) is a [Fairy chess piece](https://en.wikipedia.org/wiki/Fairy_chess_piece) that jumps two squares orthogonally, leaping over intermediate pieces like a [knight](Knight "Knight"), also called [(2,0)-leaper](https://en.wikipedia.org/wiki/Fairy_chess_piece#Leapers).

@@ -11,18 +11,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 Enigma is a quite [selective](Selectivity "Selectivity") searcher with the aim to reduce the [effective branching factor](Branching_Factor "Branching Factor") below two,
 and focuses on [pawn structure](Pawn_Structure "Pawn Structure"), specially [passed pawns](Passed_Pawn "Passed Pawn"), and has some speculative [king attack code](King_Safety "King Safety"). Enigma participated at the [PCCC 2003](PCCC_2003 "PCCC 2003").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2003](#2003)
-  - [3.2 2004](#2004)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [PCCC 2003](PCCC_2003 "PCCC 2003"), Enigma - [Matacz](Matacz "Matacz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

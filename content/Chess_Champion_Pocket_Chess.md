@@ -8,19 +8,6 @@ title: Chess Champion Pocket Chess
 
 a [dedicated travel chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") by [SciSys](Saitek "Saitek") and identical by [Novag](Novag "Novag"), first released in 1980, also licensed by other vendors under various brand names, such as *Acetronic Chess Traveller*, *Prinztronic Chess Traveller*, *Ingersoll Chess Traveler* and *Tandy Computerized Chess* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The Chess Champion Pocket Chess has a four digit [7-segment](https://en.wikipedia.org/wiki/Seven-segment_display) [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) display, a small pegboard without sensors, and a [keypad](https://en.wikipedia.org/wiki/Keypad) to [enter moves](Entering_Moves "Entering Moves"). The *Intercontinental Traveler*, released in 1982 by SciSys and Novag as well, had an [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display).
 
-## Contents
-
-- [1 The Program](#the-program)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-  - [4.1 SciSys](#scisys)
-  - [4.2 Novag](#novag)
-  - [4.3 Acetronic](#acetronic)
-  - [4.4 Prinztronic](#prinztronic)
-  - [4.5 Tandy](#tandy)
-- [5 References](#references)
-
 ## The Program
 
 The [Philidor Software](Philidor_Software "Philidor Software") program, written by [Mike Johnson](Mike_Johnson "Mike Johnson") under assistance of [David Levy](David_Levy "David Levy") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, ran under a [Fairchild F8](Fairchild_F8 "Fairchild F8") 3850/3851 compatible [3870](https://en.wikipedia.org/wiki/Mostek#Microprocessor_second_sourcing_deals) controller using 2 KiB of [ROM](Memory#ROM "Memory") and comfortable 320 Bytes of [RAM](Memory#RAM "Memory"), since the internal 64 bytes of the 3870 were expanded by an external 256x8 static RAM chip <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Thanks to [Sean Riddle](index.php?title=Sean_Riddle&action=edit&redlink=1 "Sean Riddle (page does not exist)"), the *Acetronic Chess Traveller* is playable under the [Multi Emulator Super System MESS](https://en.wikipedia.org/wiki/Multi_Emulator_Super_System) <a id="cite-note-6" href="#cite-ref-6">[6]</a>.

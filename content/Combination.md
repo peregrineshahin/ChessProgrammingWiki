@@ -8,14 +8,6 @@ A **Combination** is a sequence of [moves](Moves "Moves") which uses tactical me
 
 The [search](Search "Search") routine of a chess program may take some [plies](Ply "Ply") to recognize an initial sacrifice pays off, to distinguish it from a [blunder](https://en.wikipedia.org/wiki/Blunder_%28chess%29). [Extensions](Extensions "Extensions") are designed to recognize successful combinations earlier, often triggered by forced and often [singular](Singular_Extensions "Singular Extensions") replies from the defending side. A so called *Petite combination* involves only a few moves <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## See also
 
 - [Danny Kopec - How to ... Video](Danny_Kopec#HowTo "Danny Kopec")

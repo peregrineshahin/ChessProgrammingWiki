@@ -15,18 +15,6 @@ For optimal NNUE inference on various [X86-64](X86-64 "X86-64") systems using th
 Black Marlin **4.0**, released in January 2022, improved due to a larger network, more aggressive [pruning](Pruning "Pruning") and better [move ordering](Move_Ordering "Move Ordering")
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Features](#selected-features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Features
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

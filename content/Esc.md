@@ -9,16 +9,6 @@ title: Esc
 a [WinBoard](WinBoard "WinBoard") compatible chess engine by [Claudio Della Corte](Claudio_Della_Corte "Claudio Della Corte"), written in [C++](Cpp "Cpp"), first released in February 2001.
 Esc won the *2nd Italian Engine Contest* played on-line in 2001/2002 <a id="cite-note-2" href="#cite-ref-2">[2]</a> , and participated at three [CIPS tournaments](Italian_Computer_Chess_Championship#CIPS "Italian Computer Chess Championship"), third place at the [CIPS 2001](CIPS_2001 "CIPS 2001") with 3½/5 and [CIPS 2002](CIPS_2002 "CIPS 2002") with 4½/6 repectively, and runner-up at [CIPS 2004](CIPS_2004 "CIPS 2004") with 4/5. Esc further played the [CCT4](CCT4 "CCT4") with 5½/11.
 
-## Contents
-
-- [1 Desciption](#desciption)
-- [2 Photos & Games](#photos-.26-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Desciption
 
 Esc applies a [principal variation search](Principal_Variation_Search "Principal Variation Search") within an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework, and uses [null move-](Null_Move_Pruning "Null Move Pruning"), [futility-](Futility_Pruning "Futility Pruning"), [extended futility pruning](Futility_Pruning#Extendedfutilityprunning "Futility Pruning"), [razoring](Razoring "Razoring") and various [extensions](Extensions "Extensions") to sharpen the [search tree](Search_Tree "Search Tree") as reported in its [search statistics](Search_Statistics "Search Statistics") given in the [log-file](Logging "Logging") <a id="cite-note-3" href="#cite-ref-3">[3]</a> , as well as [lazy evaluation](Lazy_Evaluation "Lazy Evaluation"). Further Esc utilizes three separate [hash tables](Hash_Table "Hash Table"), the main [transposition table](Transposition_Table "Transposition Table"), a smaller TT for the [quiescence search](Quiescence_Search "Quiescence Search") and a [pawn hash table](Pawn_Hash_Table "Pawn Hash Table"). [Move ordering](Move_Ordering "Move Ordering") considers [hash-](Hash_Move "Hash Move") and [PV-moves](PV-Move "PV-Move"), winning and equal [captures](Captures "Captures"), and two [killer moves](Killer_Move "Killer Move").

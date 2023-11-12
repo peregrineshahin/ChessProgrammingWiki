@@ -7,13 +7,6 @@ title: Eric Jensen
 
 an American computer scientist and president of *Jensen Research Corporation* <a id="cite-note-1" href="#cite-ref-1">[1]</a>, a system software development company specializing in high-performance utilities and programming productivity aids for users of [IBM System z](https://en.wikipedia.org/wiki/IBM_System_z) [mainframe computers](https://en.wikipedia.org/wiki/Mainframe_computer).
 
-## Contents
-
-- [1 Checkers](#checkers)
-- [2 Duchess](#duchess)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Checkers
 
 As graduate student at the [Duke University](Duke_University "Duke University") in the 70s, Jensen was early [Checkers](Checkers "Checkers") and chess programmer. The *Duke program* was a Checkers player written along with his fellow [Tom Truscott](Tom_Truscott "Tom Truscott") and advisor [Alan Biermann](Alan_Biermann "Alan Biermann"), which defeated [Samuel's](Arthur_Samuel "Arthur Samuel") program in a 2-game match <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

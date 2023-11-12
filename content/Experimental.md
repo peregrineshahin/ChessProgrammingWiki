@@ -9,15 +9,6 @@ title: Experimental
 a chess program by [Wolfgang Delmare](Wolfgang_Delmare "Wolfgang Delmare") and [Thorsten Kohfeldt](Thorsten_Kohfeldt "Thorsten Kohfeldt"). It was an experimental successor of [Check Check](Check_Check "Check Check"), written in [C](C "C") running on a [PC](IBM_PC "IBM PC") under [MS-DOS](MS-DOS "MS-DOS").
 Experimental participated at the [IPCCC 1993](IPCCC_1993 "IPCCC 1993") and short later, at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https://en.wikipedia.org/wiki/Munich) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), round 6, [Ulysses](Ulysses "Ulysses") - Experimental <a id="cite-note-3" href="#cite-ref-3">[3]</a>

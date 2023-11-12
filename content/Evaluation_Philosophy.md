@@ -5,21 +5,6 @@ title: Evaluation Philosophy
 
 This page discusses some general **philosophy** behind the [evaluation](Evaluation "Evaluation") function. Instead of discussing the specific aspects of implementation, we discuss general design decisions of the overall evaluation.
 
-## Contents
-
-- [1 General](#general)
-  - [1.1 Knowledge versus Speed](#knowledge-versus-speed)
-  - [1.2 Light versus Heavy](#light-versus-heavy)
-- [2 The Art of Evaluation](#the-art-of-evaluation)
-  - [2.1 Orthogonality](#orthogonality)
-  - [2.2 Continuity](#continuity)
-  - [2.3 Sense of Progress](#sense-of-progress)
-  - [2.4 Good Worst Case Behavior](#good-worst-case-behavior)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## General
 
 ## Knowledge versus Speed

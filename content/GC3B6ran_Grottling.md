@@ -12,13 +12,6 @@ until 1997 member of the [SSDF](SSDF "SSDF") and [dedicated chess computer](Dedi
 in 1984 initiator of the [SSDF](SSDF "SSDF") rating list <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 and author of computer chess articles and interviews published in [ICCA Journal](ICGA_Journal "ICGA Journal"), [PLY](</PLY_(Magazine)> "PLY (Magazine)"), [Modul](Modul "Modul") and [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Göran Grottling (**1984**). *The Truth about their Strength*. [ICCA Journal, Vol. 7, No. 4](ICGA_Journal#7_4 "ICGA Journal")

@@ -10,39 +10,6 @@ title: ChessBase Database
 
 a chess [database](https://en.wikipedia.org/wiki/Database) [front and back end](https://en.wikipedia.org/wiki/Front_and_back_ends) developed by [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber") for the [Atari ST](Atari_ST "Atari ST") which led to the foundation of the [ChessBase](ChessBase "ChessBase") company in 1986 [[2]](#cite_note-2) along with [Frederic Friedel](Frederic_Friedel "Frederic Friedel") - the product name eponym of the company. ChessBase **1.0** was first released in January 1987 for the Atari ST running under [GEM](https://en.wikipedia.org/wiki/Graphical_Environment_Manager). [Mathias Feist](Mathias_Feist "Mathias Feist") joined ChessBase in the late 80s, and was responsible to port the database and interface from Atari ST into the [x86](X86 "X86") [DOS](MS-DOS "MS-DOS")/[Windows](Windows "Windows") world, and further integrated first chess engines into the ChessBase interface, turning this into [Fritz](Fritz "Fritz") in 1991. Subsequent ChessBase versions evolved to a sophisticated multiple purpose [GUI](GUI "GUI") for database management, database queries and [mining](https://en.wikipedia.org/wiki/Data_mining), [interactive](https://en.wikipedia.org/wiki/Interactivity) [multimedia](https://en.wikipedia.org/wiki/Multimedia) and [video](https://en.wikipedia.org/wiki/Video) [tutorials](https://en.wikipedia.org/wiki/Tutorial), analyzing or playing [games](Chess_Game "Chess Game") and automatic engine tournaments with various native, [UCI](UCI "UCI") or [WinBoard](WinBoard "WinBoard") compliant engines on a single computer, inside a [network](https://en.wikipedia.org/wiki/Computer_network) or [cloud](https://en.wikipedia.org/wiki/Cloud_computing), online play via the [Playchess](index.php?title=Playchess&action=edit&redlink=1 "Playchess (page does not exist)") [chess server](Chess_Server "Chess Server"), and [Web-](https://en.wikipedia.org/wiki/Electronic_publishing) and [desktop publishing](https://en.wikipedia.org/wiki/Desktop_publishing) of chess related documents.
 
-## Contents
-
-- [1 GUI](#GUI)
-- [2 Database](#Database)
-  - [2.1 Formats](#Formats)
-  - [2.2 File Extensions](#File_Extensions)
-- [3 Version History](#Version_History)
-- [4 Chess Engines](#Chess_Engines)
-- [5 See also](#See_also)
-- [6 Publications](#Publications)
-- [7 Forum Posts](#Forum_Posts)
-  - [7.1 1990 ...](#1990_...)
-  - [7.2 1995 ...](#1995_...)
-  - [7.3 2000 ...](#2000_...)
-  - [7.4 2005 ...](#2005_...)
-  - [7.5 2010 ...](#2010_...)
-- [8 External Links](#External_Links)
-  - [8.1 ChessBase](#ChessBase)
-  - [8.2 ChessBase 8](#ChessBase_8)
-  - [8.3 ChessBase 9](#ChessBase_9)
-  - [8.4 ChessBase 10](#ChessBase_10)
-  - [8.5 ChessBase 11](#ChessBase_11)
-  - [8.6 ChessBase 12](#ChessBase_12)
-  - [8.7 ChessBase 13](#ChessBase_13)
-  - [8.8 ChessBase 14](#ChessBase_14)
-  - [8.9 ChessBase 15](#ChessBase_15)
-  - [8.10 ChessBase 16](#ChessBase_16)
-  - [8.11 Android](#Android)
-  - [8.12 Online](#Online)
-  - [8.13 Shop](#Shop)
-  - [8.14 Videos](#Videos)
-- [9 References](#References)
-
 ## GUI
 
 The ChessBase **12** [GUI](GUI "GUI") is based on the fluent design as introduced by [Microsoft](Microsoft "Microsoft") [Office 2007](https://en.wikipedia.org/wiki/Microsoft_Office_2007), featuring a [ribbon](https://en.wikipedia.org/wiki/Ribbon_%28computing%29) [[3]](#cite_note-3), which is a set of [toolbars](https://en.wikipedia.org/wiki/Toolbar) placed on [tabs](https://en.wikipedia.org/wiki/Tab_%28GUI%29). Beside the ribbon, the main window features various workspace layouts, either tiled by a navigation folder window, a database list view and database game-list and preview window, or game-lists for query results and game windows with board- and tabbed windows for [game notation](Game_Notation "Game Notation"), annotations, references, score sheet, [opening book](Opening_Book "Opening Book") tree, etc., to play, replay or analyze a game.

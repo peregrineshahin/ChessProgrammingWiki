@@ -10,15 +10,6 @@ a Danish computer scientist and as computer chess programmer, author of the [Che
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 In his 2004 Master's thesis at [Technical University of Denmark](https://en.wikipedia.org/wiki/Technical_University_of_Denmark), [Lyngby](https://en.wikipedia.org/wiki/Kongens_Lyngby), [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen), David covers [parallel search](Parallel_Search "Parallel Search") and [bitboard](Bitboards "Bitboards") techniques such as [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2000 ...](#2000-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - David Rasmussen (**2004**). *Parallel Chess Searching and Bitboards.* Masters thesis, [pdf](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/www.contrib.andrew.cmu.edu/~jvirdo/rasmussen-2004.pdf)

@@ -8,24 +8,6 @@ title: Fidelity ElectronicsSpracklensAppleICE
 
 was an American [hearing-aid](https://en.wikipedia.org/wiki/Hearing_aid) manufacturing company, founded in 1959, and in March 1970 purchased by [Sidney](Sidney_Samole "Sidney Samole") and [Myron Samole](index.php?title=Myron_Samole&action=edit&redlink=1 "Myron Samole (page does not exist)") [[2]](#cite_note-2) . Among its other cutting-edge technology, Fidelity Electronics produced high-tech, bio-medical products, such as [myo-electric](https://en.wikipedia.org/wiki/Electromyography) hands, prostheses that could actually be controlled by the brain impulses of amputees. Since 1976, Fidelity Electronics developed and produced [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
 
-## Contents
-
-- [1 Photos](#Photos)
-- [2 History](#History)
-- [3 Achievements](#Achievements)
-- [4 People](#People)
-  - [4.1 Programmers](#Programmers)
-  - [4.2 Misc](#Misc)
-- [5 Fidelity Computers](#Fidelity_Computers)
-- [6 See also](#See_also)
-- [7 Publications](#Publications)
-- [8 Forum Posts](#Forum_Posts)
-- [9 External Links](#External_Links)
-  - [9.1 Fidelity](#Fidelity)
-  - [9.2 ICGA Tournaments](#ICGA_Tournaments)
-  - [9.3 Chess Computers](#Chess_Computers)
-- [10 References](#References)
-
 ## Photos
 
 [[3]](#cite_note-3)

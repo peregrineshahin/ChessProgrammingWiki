@@ -7,14 +7,6 @@ title: CCRL
 
 the Computer Chess Rating Lists maintained by a group of computer chess enthusiasts who enjoy engine versus engine testing, [Ponder](Pondering "Pondering") off. Active testers are [Graham Banks](Graham_Banks "Graham Banks"), [Charles Smith](index.php?title=Charles_Smith&action=edit&redlink=1 "Charles Smith (page does not exist)"), [Ray Banks](index.php?title=Ray_Banks&action=edit&redlink=1 "Ray Banks (page does not exist)") ([FRC](Chess960 "Chess960") only), [Shaun Brewer](index.php?title=Shaun_Brewer&action=edit&redlink=1 "Shaun Brewer (page does not exist)"), [Adam Hair](Adam_Hair "Adam Hair"), [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov"), [Gabor Szots](Gabor_Szots "Gabor Szots") and [Sergio Martinez](index.php?title=Sergio_Martinez&action=edit&redlink=1 "Sergio Martinez (page does not exist)") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Ratings](#ratings)
-  - [2.2 Discussions](#discussions)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [CCRL 40/40 - A most curious game](http://www.talkchess.com/forum/viewtopic.php?t=30270) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), October 22, 2009

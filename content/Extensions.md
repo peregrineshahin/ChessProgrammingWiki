@@ -5,31 +5,6 @@ title: Extensions
 
 Many programs **extend** certain moves to try and find better moves faster, or to resolve tactical "noise" resulting from the [horizon effect](Horizon_Effect "Horizon Effect"). To extend a move, its [search depth](Depth "Depth") (draft) is incremented by some amount, typically one [ply](Ply "Ply").
 
-## Contents
-
-- [1 Inside the Loop](#inside-the-loop)
-- [2 Classification](#classification)
-- [3 Types](#types)
-- [4 Fractional Extensions](#fractional-extensions)
-- [5 Conditions/Restrictions](#conditions.2frestrictions)
-  - [5.1 Non-reductions](#non-reductions)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-  - [7.1 1980 ...](#1980-...)
-  - [7.2 1990 ...](#1990-...)
-  - [7.3 2000 ...](#2000-...)
-  - [7.4 2010 ...](#2010-...)
-- [8 Forum Posts](#forum-posts)
-  - [8.1 1996 ...](#1996-...)
-  - [8.2 2000 ...](#2000-...-2)
-  - [8.3 2005 ...](#2005-...)
-  - [8.4 2010 ...](#2010-...-2)
-  - [8.5 2015 ...](#2015-...)
-- [9 External Links](#external-links)
-  - [9.1 Search Extension](#search-extension)
-  - [9.2 Misc](#misc)
-- [10 References](#references)
-
 ## Inside the Loop
 
 Some extensions may be determined inside the move loop before or after [making the move](Make_Move "Make Move"), the latter case often delayed to the recursively called search routine by some programs:

@@ -18,17 +18,6 @@ His research interests around [information theory](https://en.wikipedia.org/wiki
 [information refinement](<https://en.wikipedia.org/wiki/Refinement_(computing)>) and [formal concept analysis](https://en.wikipedia.org/wiki/Formal_concept_analysis) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 One of his lectures deals with game playing, [Minimax](Minimax "Minimax"), [Negamax](Negamax "Negamax") and [Alpha-Beta](Alpha-Beta "Alpha-Beta") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1987 ...](#1987-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

@@ -5,23 +5,6 @@ title: AVX2
 
 **Advanced Vector Extensions 2** (AVX2) is an expansion of the [AVX](AVX "AVX") instruction set. Support for 256-bit expansions of the [SSE2](SSE2 "SSE2") 128-bit integer instructions will be added in AVX2, which was along with [BMI2](BMI2 "BMI2") part of [Intel's](Intel "Intel") [Haswell](https://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29) architecture in 2013, and since 2015, of [AMD's](AMD "AMD") [Excavator](https://en.wikipedia.org/wiki/Excavator_%28microarchitecture%29) microarchitecture.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Individual Vector Shifts](#individual-vector-shifts)
-- [3 Applications](#applications)
-  - [3.1 Knight Attacks](#knight-attacks)
-  - [3.2 Dumb7Fill](#dumb7fill)
-  - [3.3 Bitboard Permutation](#bitboard-permutation)
-  - [3.4 Vertical Nibble](#vertical-nibble)
-- [4 See also](#see-also)
-- [5 SIMD](#simd)
-- [6 Publications](#publications)
-- [7 Manuals](#manuals)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Features
 
 Beside expanding most integer AVX instructions to 256 bit, AVX2 has 3-operand general-purpose bit manipulation and multiply, [vector shifts](AVX2#IndividualShifts "AVX2"), [Double](Double_Word "Double Word")- and [Quad Word](Quad_Word "Quad Word")-granularity any-to-any permutes, and 3-operand [fused multiply-accumulate](https://en.wikipedia.org/wiki/FMA_instruction_set) support. An important catch is that not all of the instructions are simply generalizations of their 128-bit equivalents: many work "in-lane", applying the same 128-bit operation to each 128-bit half of the register instead of a 256-bit generalization of the operation. For example:

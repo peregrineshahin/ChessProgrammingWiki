@@ -8,16 +8,6 @@ title: Daniel JosC3A9 QueraltC3B3
 
 an Andorran computer scientist and [FIDE](FIDE "FIDE") [Candidate Master](https://en.wikipedia.org/wiki/Candidate_Master#Candidate_Master_.28CM.29) <a id="cite-note-2" href="#cite-ref-2">[2]</a> in chess. He is promoter of the [Catalan](https://en.wikipedia.org/wiki/Catalan_language) [Wikipedia](http://ca.wikipedia.org/wiki/Portada), specially on topics related to chess, mathematics and computer science, and has featured its first article about the [Abacus](https://en.wikipedia.org/wiki/Abacus) on March 17, 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. For his contributions he received the [Lluís Carulla](http://ca.wikipedia.org/wiki/Llu%C3%ADs_Carulla_i_Canals) award in 2013 <a id="cite-note-5" href="#cite-ref-5">[5]</a>. As computer chess programmer, Daniel José is author of the [UCI](UCI "UCI") compliant chess engine [Andscacs](Andscacs "Andscacs") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Chess Olympiads](#chess-olympiads)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2014](#2014)
-  - [2.2 2015 ...](#2015-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess Olympiads
 
 Daniel José Queraltó represented [Andorra](https://en.wikipedia.org/wiki/Andorra) at eleven [Chess Olympiads](https://en.wikipedia.org/wiki/Chess_Olympiad) so far. Similar to Papua New Guinean player and chess programmer [Shaun Press](Shaun_Press "Shaun Press"), he was quite close to his computer chess fellows at the [37th Chess Olympiad](https://en.wikipedia.org/wiki/37th_Chess_Olympiad) in [Turin 2006](WCCC_2006 "WCCC 2006").

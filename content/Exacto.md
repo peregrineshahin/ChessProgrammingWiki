@@ -9,18 +9,6 @@ title: Exacto
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Daniel Sparks](Daniel_Sparks "Daniel Sparks"), written in [C++](Cpp "Cpp"), the source code covered by a [BSD license](https://en.wikipedia.org/wiki/BSD_licenses).
 Starting with version **0.e**, released in March 2014, Exacto uses [bitboards](Bitboards "Bitboards") as internal board representation, while former versions, Daniel has worked on sporadically throughout the years, were [0x88](0x88 "0x88").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

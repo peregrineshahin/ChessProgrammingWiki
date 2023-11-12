@@ -11,26 +11,6 @@ Glaurung is the forerunner of [Stockfish](Stockfish "Stockfish") by [Marco Costa
 First released in fall 2004, Glaurung is written in [C](C "C"), later versions completely in [C++](Cpp "Cpp").
 It is portable and able to run on [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS X](Mac_OS "Mac OS") and mobile platforms.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Description](#description)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 Gaurung GUI](#gaurung-gui)
-- [4 Play Magnus](#play-magnus)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2004](#2004)
-  - [6.2 2005 ...](#2005-...)
-  - [6.3 2010 ...](#2010-...)
-  - [6.4 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Tournament Play
 
 [Chess960](Chess960 "Chess960") compliant, Glaurung played two [Livingston Chess960 Computer World Championships](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship"), in [2005](Chess960CWC_2005 "Chess960CWC 2005") where it became third, and the in [2006](Chess960CWC_2006 "Chess960CWC 2006").

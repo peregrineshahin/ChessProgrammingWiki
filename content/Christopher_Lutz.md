@@ -12,13 +12,6 @@ Along with [Michael Schmitt](index.php?title=Michael_Schmitt&action=edit&redlink
 The authors further received the *Mephisto "Young Programmers" [Scholarship](http://en.wikipedia.org/wiki/Scholarship)* of $2,500 for programmers under 19 years of age who have written the best chess program, sponsored by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Soon later, Christopher Lutz wrote a second chess program in [Turbo C](C "C") and [Assembly](Assembly "Assembly"), [Bernie](Bernie "Bernie"), which participated at the first [IPCCC 1991](IPCCC_1991 "IPCCC 1991") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](File:Olympiad2006GermanyIndia.JPG)

@@ -8,15 +8,6 @@ title: Hitoshi Matsubara
 
 a Japanese computer scientist, professor at and vice chairman of [Future University Hakodate](https://en.wikipedia.org/wiki/Future_University_Hakodate). His research interests include game playing with focus on [Shogi](Shogi "Shogi"), [pattern recognition](Pattern_Recognition "Pattern Recognition"), [Robotics](Robots "Robots"), and [Robot Soccer](https://en.wikipedia.org/wiki/Soccer_robot).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1994 ...](#1994-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

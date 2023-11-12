@@ -8,13 +8,6 @@ title: Cliff Shaw
 
 was an American mathematician and pioneer in computer programming languages, [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), and the development of on-line, interactive, time-sharing computers. He worked for the [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), 1950-1971, where he completed his most significant work.
 
-## Contents
-
-- [1 NSS](#nss)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## NSS
 
 In the 1950s, he collaborated with the [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") researchers [Herbert Simon](Herbert_Simon "Herbert Simon") and [Allen Newell](Allen_Newell "Allen Newell") on developing computer programs that attempted to simulate human decision-making. Shaw wrote the programming language known as [Information Processing Language](https://en.wikipedia.org/wiki/Information_Processing_Language) (IPL) for the Chess program [NSS](NSS "NSS") (and other programs) for a [Johnniac computer](https://en.wikipedia.org/wiki/JOHNNIAC).

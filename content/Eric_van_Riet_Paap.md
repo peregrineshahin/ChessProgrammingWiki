@@ -9,14 +9,6 @@ title: Eric van Riet Paap
 a Dutch [Blockchain](https://en.wikipedia.org/wiki/Blockchain) developer involved in the **Blockchaingers** innovation program <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [freediver](https://en.wikipedia.org/wiki/Freediving), and former professional computer games and [multimedia](https://en.wikipedia.org/wiki/Multimedia) programmer with focus on [Draughts](Draughts "Draughts"), [Chess](Chess "Chess"), and [Awari](Awari "Awari"), who also went to create the first Dutch [PlayStation](https://en.wikipedia.org/wiki/PlayStation) title *Dodgem Arena*, a futuristic racing game <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 His [Draughts](Draughts "Draughts") program [DIOS](https://www.game-ai-forum.org/icga-tournaments/program.php?id=264) won the gold medal at the [1st Computer Olympiad](1st_Computer_Olympiad#Draughts "1st Computer Olympiad") in 1989 and the silver medal at the [7th Computer Olympiad](7th_Computer_Olympiad#Draughts "7th Computer Olympiad") in 2002, his [Awari](Awari "Awari") program [MyProgram](https://www.game-ai-forum.org/icga-tournaments/program.php?id=419) won silver at the [3rd Computer Olympiad](3rd_Computer_Olympiad#Awari "3rd Computer Olympiad") in 1991.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Chess Programs](#chess-programs)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Computer Chess
 
 In chess, Eric van Riet Paap is famous for his [Zen](Zen "Zen") program running on a [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) with only 4 KiB [ROM](Memory#ROM "Memory") and 128 [Bytes](Byte "Byte") [RAM](Memory#RAM "Memory"), which was later commercialized via [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") as *Mephisto Mini* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, *Fidelity Marauder* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, *Fidelity Tiny Chess* <a id="cite-note-6" href="#cite-ref-6">[6]</a> and other [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").

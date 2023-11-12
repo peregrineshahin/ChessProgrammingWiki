@@ -9,14 +9,6 @@ title: Banksia
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant, lightweight [command line interface](CLI "CLI") by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), suited to run automated [engine-engine matches](Engine_Testing#Matches "Engine Testing"). It is open source, C++11, released under the [GPLv3+](Free_Software_Foundation#GPL "Free Software Foundation") license, first published in July 2019 <a id="cite-note-1" href="#cite-ref-1">[1]</a> .
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess GUI](#chess-gui)
-- [4 References](#references)
-
 ## See also
 
 - [Automated Tuning](Automated_Tuning "Automated Tuning")

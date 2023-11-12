@@ -8,13 +8,6 @@ title: Conchess
 
 was a brand name of [6502](6502 "6502") [module](Module "Module") based [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers") by the German company [Consumenta](index.php?title=Consumenta&action=edit&redlink=1 "Consumenta (page does not exist)") with a program by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") supported by [Johan Enroth](Johan_Enroth "Johan Enroth"). Consumenta's owners, [Peter-Ingolf Gericke](index.php?title=Peter-Ingolf_Gericke&action=edit&redlink=1 "Peter-Ingolf Gericke (page does not exist)") and [Klaus Heyne](index.php?title=Klaus_Heyne&action=edit&redlink=1 "Klaus Heyne (page does not exist)") hired Ulf Rathsman immediately after his runner up success with [Princhess](Princhess "Princhess") at the [WMCCC 1981](WMCCC_1981 "WMCCC 1981") in [Travemünde](https://en.wikipedia.org/wiki/Travem%C3%BCnde) for their project. The computers were developed by *LOPROC* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Germany, and manufactured by *Wallharn Electronics*, Ireland. After Consumenta went bankrupt in 1983, Conchess continued under the aegis of Johan Enroth. Princhess, running on a Conchess computer became tied [World Microcomputer Chess Champion 1984](WMCCC_1984 "WMCCC 1984") in [Glasgow](https://en.wikipedia.org/wiki/Glasgow), where also two Conchess computers competed with [Lars Hjörth](Lars_Hj%C3%B6rth "Lars Hjörth") as co-author. At the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam), Rathsman's new program [Plymate](Plymate "Plymate") as well as Princhess competed running on dedicated Conchess computers. Their respectable second place in the Commercial team champiomhship was somehow dwarfed by [Richard Lang's](Richard_Lang "Richard Lang") success with his [Mephisto Amsterdam](Mephisto_Amsterdam "Mephisto Amsterdam") program, yielding more or less in the cessation of Conchess computer manufacturing.
 
-## Contents
-
-- [1 Conchess Designer](#conchess-designer)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Conchess Designer
 
 [](File:RathsmanEnrothConchessTeam1982.jpg)

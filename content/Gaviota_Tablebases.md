@@ -8,17 +8,6 @@ title: Gaviota Tablebases
 
 a [depth to mate](Endgame_Tablebases#DTM "Endgame Tablebases") endgame tablebase by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), initially developed for his [Gaviota](Gaviota "Gaviota") engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> . The probing code, written in [C](C "C"), is open source, along with the tablebase files licensed under the [MIT license](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology"). Gaviota Tablebases [cache system](Memory "Memory") works like [bitbases](Endgame_Bitbases "Endgame Bitbases") on the fly, allowing to probe WDL information with fourfold increased cache efficiency. Further, the [thread safe](Thread "Thread") probing [API](https://en.wikipedia.org/wiki/Application_programming_interface) allows soft probes to get information from the cache without reading the [hard disk](https://en.wikipedia.org/wiki/Hard_disk_drive) - intended to use everywhere inside the [search](Search "Search"), and the classical *hard* probe, suited to use with some distance to the horizon. The up to 5-men tablebase files can be generated <a id="cite-note-3" href="#cite-ref-3">[3]</a> and checked <a id="cite-note-4" href="#cite-ref-4">[4]</a> using the free command line program *tbgen*, performing several compression schemes using *tbcp* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, yielding in 5-men sizes below 7 GB.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2008](#2008)
-  - [2.2 2009](#2009)
-  - [2.3 2010 ...](#2010-...)
-  - [2.4 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Bitbases](Endgame_Bitbases "Endgame Bitbases")

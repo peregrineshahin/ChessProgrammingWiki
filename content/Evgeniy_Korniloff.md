@@ -10,12 +10,6 @@ a Russian computer scientist, and games and chess programmer from the [Saint Pet
 He is author of the chess programs [OBender](OBender "OBender"), previously known as QChess and Chess, and its branch [Woodpecker](Woodpecker "Woodpecker") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 and the games and chess programming book *Программирование шахмат и других логических игр* (Programming Chess and other logical games), which includes a brief [history on computer chess](History "History"), explanations of game playing [algorithms](Algorithms "Algorithms") and [programming languages](Languages "Languages") like [Pascal](Pascal "Pascal"), [C](C "C") and [C++](Cpp "Cpp"), and source code listings of computer games and chess programs, especially QChess <a id="cite-note-4" href="#cite-ref-4">[4]</a>, second edition published in 2012.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 - Evgeniy Korniloff (**2005, 2012**). *Программирование шахмат и других логических игр*. (Programming Chess and other logical games), [Глава 1. Общие сведения (Chapter I, Overview) as pdf](http://static.ozone.ru/multimedia/book_file/1007127469.pdf), [Шахматы (Chess) 2nd edition as pdf](http://evgeniy-korniloff.narod.ru/logikal_games_programming.pdf)

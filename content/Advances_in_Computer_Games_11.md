@@ -8,16 +8,6 @@ title: Advances in Computer Games 11
 [](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_12/slides/IMG_0691.html) Institute of Information Science <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **11th Advances in Computer Games** was held from September 6 - 8, [2005](Timeline#2005 "Timeline"), at the Institute of Information Science, [Academia Sinica](https://en.wikipedia.org/wiki/Academia_Sinica), [Taipei](https://en.wikipedia.org/wiki/Taipei), [Taiwan](https://en.wikipedia.org/wiki/Taiwan), in conjunction with the [10th Computer Olympiad](10th_Computer_Olympiad "10th Computer Olympiad") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The Advances in Computer Games Conference (ACG), formerly known as the Advances in Computer Chess Conference, is organized by the [International Computer Games Association](ICGA "ICGA"). The objective of the conference is to provide an international forum for researchers in the field of Artificial Intelligence, as applied to computer games, to present the latest results of their ongoing work. This bi-annual forum has a long and reputable history in the field of computer games.
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 Invited Lectures](#invited-lectures)
-- [4 Reports](#reports)
-- [5 See also](#see-also)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Proceedings
 
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu"), [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers") (eds.)

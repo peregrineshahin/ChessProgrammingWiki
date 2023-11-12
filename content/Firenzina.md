@@ -9,18 +9,6 @@ title: Firenzina
 an [UCI](UCI "UCI") compliant [open source](Category:Open_Source "Category:Open Source") chess engine by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [Dmitri Gusev](Dmitri_Gusev "Dmitri Gusev") and [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 It is a derivative of [Fire 2.2 xTreme](Fire "Fire") by Norman Schmidt, and a derivative (via Fire) of [FireBird](Fire "Fire") by Norman Schmidt and [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, a derivative (via Fire and FireBird) based on [Ippolit](Ippolit "Ippolit") engines by *Yakov Petrovich Golyadkin* et al..
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Postings](#postings)
-  - [3.1 2013 ...](#2013-...)
-  - [3.2 2015 ...](#2015-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Ippolit](Ippolit "Ippolit")

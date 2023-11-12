@@ -14,21 +14,6 @@ However the launch of [ZXChess](ZX_Chess "ZX Chess"), the first chess program fo
 It was also extremely difficult to write, taking over a year from the original idea to the finished product <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 In 1984, Thornton left Artic to found [Kerian UK Ltd](index.php?title=Kerian&action=edit&redlink=1 "Kerian (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-  - [3.1 Chess Programs](#chess-programs-2)
-    - [3.1.1 1981](#1981)
-    - [3.1.2 1982](#1982)
-    - [3.1.3 1983](#1983)
-    - [3.1.4 1984](#1984)
-  - [3.2 Development](#development)
-    - [3.2.1 1982](#1982-2)
-    - [3.2.2 1984](#1984-2)
-- [4 References](#references)
-
 ## Chess Programs
 
 - [Category:Artic](Category:Artic "Category:Artic")

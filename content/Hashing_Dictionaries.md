@@ -10,14 +10,6 @@ Many high level programming languages (notably [Python](Python "Python") (van Ro
 
 ```
 
-## Contents
-
-- [1 Avoiding Rotated Bitboards](#avoiding-rotated-bitboards)
-  - [1.1 Abstract](#abstract)
-  - [1.2 Toolkit](#toolkit)
-- [2 Forum Posts](#forum-posts)
-- [3 References](#references)
-
 ## Avoiding Rotated Bitboards
 
 Sam Tannous compared this approach to a [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") implementation in Python and found direct lookup favorable for move generation. In languages like [C](C "C"), targeting 64-bit cpus like [x86-64](X86-64 "X86-64"), or even in [Java](Java "Java"), it is likely another story if one compares *Open Addressing with Double Hashing* with [rotated](Rotated_Bitboards "Rotated Bitboards") or [perfect hashing](Hash_Table#PerfectHashing "Hash Table") techniques like [Kindergarten](Kindergarten_Bitboards "Kindergarten Bitboards") or even [Magic Bitboards](Magic_Bitboards "Magic Bitboards").

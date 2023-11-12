@@ -9,17 +9,6 @@ a Spanish [computer checkers](Checkers "Checkers"), [computer go](Go "Go") and c
 
 Since 2013, Álvaro is in the process to write a new chess engine <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In November 2016, he published the open source [tuning](Automated_Tuning "Automated Tuning") code [RuyTune](RuyTune "RuyTune"), an instance of a [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") performing [limited-memory BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS) along with [reverse-mode automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation#Reverse_accumulation) <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, and in June 2017 he published the [open source engine](Category:Open_Source "Category:Open Source") [RuyDos](RuyDos "RuyDos") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, co-authored by José Manuel Morán <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2013 ...](#2013-...)
-  - [3.2 2015 ...](#2015-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos & Games
 
 [](File:%C3%81lvaroAndJos%C3%A9Graz2003.jpg)

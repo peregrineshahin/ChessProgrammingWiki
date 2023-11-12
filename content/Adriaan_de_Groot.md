@@ -8,18 +8,6 @@ title: Adriaan de Groot
 
 was a Dutch [psychologist](Category:Psychologist "Category:Psychologist") and chess master, who conducted a number of ground-breaking experiments in the [cognitive](Cognition "Cognition") processes that occur in the [brains](https://en.wikipedia.org/wiki/Brain) of strong chess players. The studies involve participants of all chess backgrounds, from amateurs to masters. They investigate the cognitive requirements and the thought processes involved in moving a chess piece. The participants were usually required to solve a given chess problem correctly under the supervision of an experimenter and represent their thought-processes vocally so that they could be recorded.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Chase & Simon](#chase-.26-simon)
-  - [1.2 Fernand Gobet](#fernand-gobet)
-- [2 Four Stages](#four-stages)
-- [3 Euratom](#euratom)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Quotes
 
 ## Chase & Simon

@@ -10,21 +10,6 @@ an American multinational [semiconductor](https://en.wikipedia.org/wiki/Semicond
 In 2003, AMD launched the [Athlon 64](https://en.wikipedia.org/wiki/Athlon_64) (Hammer, AMD64, K8) and pioneered the [x86-64](X86-64 "X86-64") instruction set. Until Intel introduced the [Core 2](https://en.wikipedia.org/wiki/Intel_Core_2) [microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture) in 2006, AMD64 was the dominating architecture for computer chess in the 2000s. With the [Zen](<https://en.wikipedia.org/wiki/Zen_(microarchitecture)>) micro-architecture and the release of the [Ryzen](https://en.wikipedia.org/wiki/Ryzen) processor in early 2017, it seems that AMD can recover lost ground.
 However, early Ryzens prior to [Zen 3](https://en.wikipedia.org/wiki/Zen_3) micro-architecture released in November 2020 have problems with [BMI2](BMI2 "BMI2") performance <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> , in particular using [BMI2 PEXT](BMI2#PEXT "BMI2") in chess programs - one should conditionally compile using [magic bitboards](Magic_Bitboards "Magic Bitboards") instead of [PEXT bitboards](BMI2#PEXTBitboards "BMI2"), otherwise preferable for compatible [Intel](Intel "Intel") processors <a id="cite-note-5" href="#cite-ref-5">[5]</a> .
 
-## Contents
-
-- [1 Sponsoring](#sponsoring)
-- [2 Photos](#photos)
-- [3 x86 Architectures](#x86-architectures)
-- [4 SIMD Extensions](#simd-extensions)
-- [5 General Purpose Extensions](#general-purpose-extensions)
-- [6 See also](#see-also)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 2010 ...](#2010-...)
-  - [7.2 2015 ...](#2015-...)
-  - [7.3 2020 ...](#2020-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Sponsoring
 
 - [WMCCC 1997](WMCCC_1997 "WMCCC 1997")

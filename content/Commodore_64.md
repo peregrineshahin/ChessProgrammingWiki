@@ -8,18 +8,6 @@ title: Commodore 64
 
 a [home computer](https://en.wikipedia.org/wiki/Home_computer) produced and market by [Commodore International](https://en.wikipedia.org/wiki/Commodore_International) in January 1982, which became the best-selling single home or personal computer model of all time <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Hardware](#hardware)
-- [2 Software](#software)
-- [3 x64 Resurrection](#x64-resurrection)
-- [4 Chess Programs](#chess-programs)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Hardware
 
 The C64 features a [MOS Technology 6510](https://en.wikipedia.org/wiki/MOS_Technology_6510) processor, which was a [6502](6502 "6502") with the addition of an 8-bit general purpose [I/O port](https://en.wikipedia.org/wiki/Input/output), also used for memory [bank switching](https://en.wikipedia.org/wiki/Bank_switching), 64 [kibibytes](https://en.wikipedia.org/wiki/Kibibyte) of [RAM](Memory#RAM "Memory") and 20 kibibytes of bank-switched [ROM](Memory#ROM "Memory") containing a [Basic](Basic "Basic") interpreter, kernel, and character images. A [MOS Technology VIC-II](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) video interface chip for 320 times 200 [pixels](https://en.wikipedia.org/wiki/Pixel) with 16 colors, and eight hardware [Sprite](https://en.wikipedia.org/wiki/Sprite_%28computer_graphics%29) per scanline, and a [RF modulator](https://en.wikipedia.org/wiki/RF_modulator) created a [NTSC](https://en.wikipedia.org/wiki/NTSC) or [PAL](https://en.wikipedia.org/wiki/PAL) signal for direct plugin into a [Television](https://en.wikipedia.org/wiki/Television) used as [computer monitor](https://en.wikipedia.org/wiki/Computer_monitor). The C64 further utilized [sound chip](https://en.wikipedia.org/wiki/Sound_chip) with some [synthesizer](https://en.wikipedia.org/wiki/Synthesizer) capabilities. An external [datasette](https://en.wikipedia.org/wiki/Commodore_Datasette) [tape drive](https://en.wikipedia.org/wiki/Tape_drive), later a [floppy disk drive](https://en.wikipedia.org/wiki/Commodore_1541) was able to store programs and data.

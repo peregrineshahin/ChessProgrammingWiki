@@ -9,18 +9,6 @@ title: HansJC3BCrgen Appelrath
 was a German mathematician, computer scientist and professor of [applied computer science](https://en.wikipedia.org/wiki/Computer_science#Applied_computer_science) at [University of Oldenburg](https://en.wikipedia.org/wiki/University_of_Oldenburg), and before assistant professor at [ETH Zurich](ETH_Zurich "ETH Zurich"). He holds a Ph.D. on [expert systems](https://en.wikipedia.org/wiki/Expert_system) and [inference mechanisms](https://en.wikipedia.org/wiki/Inference) of [relational databases](https://en.wikipedia.org/wiki/Relational_database) in 1983 from [University of Dortmund](University_of_Dortmund "University of Dortmund").
 Involved in applied CS for the German [Energy transition](https://en.wikipedia.org/wiki/Energy_transition) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Appelrath was on the [Advisory board](https://en.wikipedia.org/wiki/Advisory_board) of various research institutes, notably [OFFIS](https://en.wikipedia.org/wiki/OFFIS), and member of the [Supervisory board](https://en.wikipedia.org/wiki/Supervisory_board) of several companies <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1976 ...](#1976-...)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 1990 ...](#1990-...)
-  - [2.4 2000 ...](#2000-...)
-  - [2.5 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 During the mid 70s at [University of Dortmund](University_of_Dortmund "University of Dortmund"), Hans-Jürgen Appelrath was member of a project team around [Hagen Huwig](Hagen_Huwig "Hagen Huwig") <a id="cite-note-5" href="#cite-ref-5">[5]</a> , developing the chess program [Proscha](Proscha "Proscha"), which played the [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

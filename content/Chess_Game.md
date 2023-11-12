@@ -6,27 +6,6 @@ title: Chess Game
 [](File:ChessIsenburgII20150928.jpg) A Game of Chess <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Game of Chess** which is actually played (or analyzed) by a chess program via its [user interface](GUI "GUI") requires a [game record](Game_Notation "Game Notation"), or game history, which is a [list](Move_List "Move List") or [array](Array "Array") of [moves](Moves "Moves") or a tree of alternative move variants even containing comments. While the game record is necessary to take back moves f.i. after operator errors, the game history needs to be considered if it is about to claim or accepts [draws](Draw "Draw") by [three fold repetitions](Repetitions "Repetitions"), and might therefor be referred by the [search algorithm](Search "Search") as well.
 
-## Contents
-
-- [1 Start of the Game](#start-of-the-game)
-- [2 End of the Game](#end-of-the-game)
-  - [2.1 Win/Loss](#win.2floss)
-  - [2.2 Draw](#draw)
-- [3 Game Record](#game-record)
-- [4 Game Header](#game-header)
-- [5 Longest Game](#longest-game)
-- [6 MVC](#mvc)
-- [7 The Game Loop](#the-game-loop)
-  - [7.1 CLI](#cli)
-  - [7.2 Event driven GUIs](#event-driven-guis)
-- [8 See also](#see-also)
-- [9 Publications](#publications)
-- [10 Forum Posts](#forum-posts)
-  - [10.1 2010 ...](#2010-...)
-  - [10.2 2020 ...](#2020-...)
-- [11 External Links](#external-links)
-- [12 References](#references)
-
 ## Start of the Game
 
 The game of chess starts with the [initial position](Initial_Position "Initial Position"), white to move. Both sides alternately move their pieces until the game is finished.

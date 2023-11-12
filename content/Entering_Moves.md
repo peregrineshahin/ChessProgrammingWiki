@@ -6,23 +6,6 @@ title: Entering Moves
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f6482e6) [Alex Bernstein](Alex_Bernstein "Alex Bernstein") entering moves into the [IBM 704](IBM_704 "IBM 704") console, 1958 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Entering Moves** is the [user's](https://en.wikipedia.org/wiki/User_%28computing%29) primary input while [interacting](https://en.wikipedia.org/wiki/Interaction) with the chess program during [game play](Chess_Game "Chess Game"), to [make a move](Make_Move "Make Move"). Chess engines using a [command line interface](CLI "CLI") may rely on external chess user interfaces or [GUIs](GUI "GUI") and their [protocols](Protocols "Protocols") without dealing with possible ambiguous and order dependent user interactions while entering [moves](Moves "Moves"), and receive moves in a defined [notation](Game_Notation "Game Notation") via a [standard input stream](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_.28stdin.29). The [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and the [Universal Chess Interface](UCI "UCI") both use simple to [parse](https://en.wikipedia.org/wiki/Parsing) [pure algebraic coordinate notation](Algebraic_Chess_Notation#PureCoordinateNotation "Algebraic Chess Notation") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. XBoard version 2 has the option to switch on [SAN](Algebraic_Chess_Notation#SAN "Algebraic Chess Notation"). Entering moves inside an [event driven](https://en.wikipedia.org/wiki/Event-driven_architecture) GUI, more intuitive for the casual user not familiar with chess coordinates, requires more effort for the GUI programmer.
 
-## Contents
-
-- [1 CLI](#cli)
-- [2 GUI](#gui)
-  - [2.1 Board Interactions](#board-interactions)
-    - [2.1.1 Drag-and-drop](#drag-and-drop)
-    - [2.1.2 Assistants](#assistants)
-    - [2.1.3 Promotions](#promotions)
-  - [2.2 Move List Interactions](#move-list-interactions)
-- [3 Dedicated Chess Computers](#dedicated-chess-computers)
-- [4 Computer Vision](#computer-vision)
-- [5 Parsing](#parsing)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## CLI
 
 In a sequential [command line interface](CLI "CLI") the chess program prompts for input. Unless [redirected](https://en.wikipedia.org/wiki/Redirection_%28computing%29), input is expected from the [keyboard](https://en.wikipedia.org/wiki/Keyboard_%28computing%29). In CLI, [text input](https://en.wikipedia.org/wiki/Typing) is usually [buffered](https://en.wikipedia.org/wiki/Keyboard_buffer) and [echoed](https://en.wikipedia.org/wiki/Echo_%28computing%29) by the [operating system](https://en.wikipedia.org/wiki/Operating_system) until the user confirms it by pressing the [enter- or return key](https://en.wikipedia.org/wiki/Enter_key), causing the OS to transfer the whole text line via [standard streams](https://en.wikipedia.org/wiki/Standard_streams) to the program.

@@ -9,13 +9,6 @@ title: Don Cross
 an American software engineer, [majored](https://en.wikipedia.org/wiki/Major_%28academic%29) in [electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) at the [University of Central Florida](https://en.wikipedia.org/wiki/University_of_Central_Florida) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 He is author of the [open source chess program](Category:Open_Source "Category:Open Source") [Chenard](Chenard "Chenard") and the open source [JavaScript](JavaScript "JavaScript") chess engine [Flywheel](index.php?title=Flywheel&action=edit&redlink=1 "Flywheel (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. His personal website covers various topics on [science](https://en.wikipedia.org/wiki/Science), [mathematics](https://en.wikipedia.org/wiki/Mathematics), [software](Software "Software") and [electronics](https://en.wikipedia.org/wiki/Electronics) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Publications](#publications)
-- [2 Postings](#postings)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Publications
 
 - Don Cross (**2013**). *[Fundamentals of Ray Tracing](http://cosinekitty.com/raytrace/)*.

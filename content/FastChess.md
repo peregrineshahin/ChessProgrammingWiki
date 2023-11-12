@@ -10,15 +10,6 @@ a didactic [open source chess engine](Category:Open_Source "Category:Open Source
 FastChess predicts the next move by probing a one-layer [neural network](Neural_Networks "Neural Networks") [softmax](https://en.wikipedia.org/wiki/Softmax_function) model, using the [fastText](https://en.wikipedia.org/wiki/FastText) text classification library.
 The model takes the board state as input, and outputs a vector of probabilities for each possible move. That simple linear model might further be combined with a [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") along with the [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin") selection to improve the quality of play <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Training](#training)
-- [2 Tuning](#tuning)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Training
 
 FastChess' model is [trained](Supervised_Learning "Supervised Learning") by feeeding a set of [pgn files](Portable_Game_Notation "Portable Game Notation") to a special training procedure, creating the neural network weights in form of a *model.bin* file, which is later used to play chess <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

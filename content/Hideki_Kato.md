@@ -8,15 +8,6 @@ title: Hideki Kato
 
 a Japanese [Go](Go "Go") programmer and author of the Go playing program *Fudo*, formerly known as [GGMC Go](https://www.game-ai-forum.org/icga-tournaments/program.php?id=513) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and along with primary author [Yoji Ojima](index.php?title=Yoji_Ojima&action=edit&redlink=1 "Yoji Ojima (page does not exist)") co-author of the world class Go playing program [DeepZen](https://www.game-ai-forum.org/icga-tournaments/program.php?id=594) <a id="cite-note-3" href="#cite-ref-3">[3]</a> applying [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") using big patterns and [root](Root "Root") [parallelization](Parallel_Search "Parallel Search") on a [PC cluster](https://en.wikipedia.org/wiki/Computer_cluster), and its commercial version *Tencho no Igo* <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Tilburg 2011](#tilburg-2011)
-  - [1.2 Yokohama 2013](#yokohama-2013)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 ## Tilburg 2011

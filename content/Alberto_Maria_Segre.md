@@ -10,16 +10,6 @@ an American mathematician, computer scientist and professor and chair at Departm
 He defended his Ph.D. with the thesis title *Explanation-Based Learning of Generalized Robot Assembly Plans* from [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign") under [Gerald DeJong](Mathematician#GFDeJongII "Mathematician") in 1987.
 His research interests include [distributed algorithms](https://en.wikipedia.org/wiki/Distributed_algorithm) for solving [optimization problems](https://en.wikipedia.org/wiki/Optimization_problem), [linkage](https://en.wikipedia.org/wiki/Genetic_linkage) analysis problems from [statistical genetics](https://en.wikipedia.org/wiki/Population_genetics), and [protein structure prediction](https://en.wikipedia.org/wiki/Protein_structure_prediction) techniques, [machine learning](Learning "Learning"), and [parallel search](Parallel_Search "Parallel Search") algorithms such as [A\*](https://en.wikipedia.org/wiki/A*_search_algorithm), [αβ-minimax](Alpha-Beta "Alpha-Beta"), [Davis-Loveland-Putnam](https://en.wikipedia.org/wiki/DPLL_algorithm), and applications of these algorithms to both standard [AI](Artificial_Intelligence "Artificial Intelligence") problems and [economic problems](https://en.wikipedia.org/wiki/Economic_problem) such as [combinatorial auction](https://en.wikipedia.org/wiki/Combinatorial_auction) winner determination.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1985 ...](#1985-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

@@ -7,13 +7,6 @@ title: Christoph Wirth
 
 a Swiss computer scientist and software engineer. While affiliated with [ETH Zurich](ETH_Zurich "ETH Zurich"), Wirth investigated [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") for [endgame tablebases](Endgame_Tablebases "Endgame Tablebases") with Depth to Mate (DTM) and Depth to Conversion (DTC) metrics. In collaboration with [Guy Haworth](Guy_Haworth "Guy Haworth"), [John Tamplin](John_Tamplin "John Tamplin") and [Peter Karrer](Peter_Karrer "Peter Karrer"), data on percentage results, maximals and [mutual zugzwangs](Zugzwang "Zugzwang"), has been filed and made available on the web, as have the DTM EGTs <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -8,16 +8,6 @@ title: A0lite
 a didactic [UCI](UCI "UCI") compliant [neural network](Neural_Networks "Neural Networks") chess engine by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), written in [Python](Python "Python"), released in March 2020 under the permissive [MIT License](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology") <a id="cite-note-1" href="#cite-ref-1">[1]</a> as successor of **LeelaLite**, already announced in October 2018 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 A0lite applies [upper confidence bounds](UCT "UCT") to [Monte-Carlo trees](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), and requires the installation of the [Bad Gyal](index.php?title=Bad_Gyal&action=edit&redlink=1 "Bad Gyal (page does not exist)") [PyTorch](https://en.wikipedia.org/wiki/PyTorch) net evaluator, by default using *MeanGirl-8 (32x4)* net on CPU <a id="cite-note-3" href="#cite-ref-3">[3]</a>. A0lite had its official tournament debut at the [Qualification League](TCEC_Season_19#Fourth "TCEC Season 19") of [TCEC Season 19](TCEC_Season_19 "TCEC Season 19").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Engine](#engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Quotes
 
 [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe") explained his motivation for writing A0lite on [CCC](CCC "CCC"), Mar 06, 2021 <a id="cite-note-4" href="#cite-ref-4">[4]</a> :

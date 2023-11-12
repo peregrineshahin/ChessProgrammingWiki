@@ -18,13 +18,6 @@ The regular fianchetto pattern considers the knight pawn on the third rank defen
 |  Fianchetto
 |
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Color Weakness](Color_Weakness "Color Weakness")

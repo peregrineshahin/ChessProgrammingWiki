@@ -10,17 +10,6 @@ title: Enterprise
 
 Enterprise was sold from 1986 in approximately 50.000 units <a id="cite-note-2" href="#cite-ref-2">[2]</a> by [Newcrest Technology](Newcrest_Technology "Newcrest Technology") as *CXG Super Enterprise* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [CXG Sphinx Titan](CXG_Sphinx#Titan "CXG Sphinx"), *CXG Super Crown* <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess") and in 1987 by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") as *Mephisto Merlin 16K* <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Oracle](#oracle)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Oracle
 
 In his 1996 [ICCA Journal](ICGA_Journal#19_4 "ICGA Journal") paper on [CHE](index.php?title=CHE&action=edit&redlink=1 "CHE (page does not exist)"), [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") mentions [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") as inventor of the [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") [Oracle](Oracle#Donninger "Oracle") approach for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. However, there was also the famous [Pre Scan Heuristics](Piece-Square_Tables#Preprocessing "Piece-Square Tables") by [David Kittinger](David_Kittinger "David Kittinger") as implemented in [Super Constellation](Super_Constellation "Super Constellation"), and the whole idea was originally implemented in the program [Tech](Tech "Tech") by [James Gillogly](James_Gillogly "James Gillogly") in the late 1960s <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

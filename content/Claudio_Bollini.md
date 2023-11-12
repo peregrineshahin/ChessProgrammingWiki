@@ -10,13 +10,6 @@ an Argentinian theologian, scientific programmer at [CNEA](https://en.wikipedia.
 As computer chess programmer, Claudio Bollini is author of the chess engine [Genesis](Genesis_AR "Genesis AR"), which played two [Spanish Computer Chess Championships](Spanish_Computer_Chess_Championship "Spanish Computer Chess Championship") in the late 90s.
 He has also been a writer of reviews for [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Reports & Reviews](#reports-.26-reviews)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Reports & Reviews
 
 - [REBEL10 review](http://www.rebel.nl/claudio3.htm) by Claudio Bollini, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder") » [Rebel](Rebel "Rebel")

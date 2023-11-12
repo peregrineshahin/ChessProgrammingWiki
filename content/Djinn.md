@@ -11,19 +11,6 @@ Djinn utilizes [bitboards](Bitboards "Bitboards") to represent its [chess board]
 As relatively slow searcher, Djinn spends most of its time in the [evaluation](Evaluation "Evaluation"). Executables are available to run under [Windows](Windows "Windows") and [Linux](Linux "Linux"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") has provided Djinn's [Opening Book](Opening_Book "Opening Book").
 Over the years Djinn played four [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [CCT6](CCT6 "CCT6"), [CCT8](CCT8 "CCT8"), [CCT15](CCT15 "CCT15") and [CCT16](CCT16 "CCT16").
 
-## Contents
-
-- [1 Techniques and Algorithms](#techniques-and-algorithms)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2003 ...](#2003-...)
-  - [4.2 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Techniques and Algorithms
 
 Djinn uses most of the following techniques and [algorithms](Algorithms "Algorithms") in one form or another <a id="cite-note-3" href="#cite-ref-3">[3]</a>:

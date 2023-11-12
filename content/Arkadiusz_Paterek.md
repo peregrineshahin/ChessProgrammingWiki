@@ -12,13 +12,6 @@ elaborating on the [single-layer perceptron](Neural_Networks#Perceptron "Neural 
 Inspired by [Michael Buro's](Michael_Buro "Michael Buro") [GLEM](Michael_Buro#GLEM "Michael Buro") approach <a id="cite-note-5" href="#cite-ref-5">[5]</a> in the domain of [Othello](Othello "Othello"), Arkadiusz Paterek used his own chess program [Gosu](Gosu "Gosu"),
 to [tune](Automated_Tuning "Automated Tuning") its evaluation by [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

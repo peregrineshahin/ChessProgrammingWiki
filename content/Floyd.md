@@ -8,20 +8,6 @@ title: Floyd
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") for study purposes and prototyping of new ideas by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), written in [C](C "C"), and first released in October 2015 <a id="cite-note-2" href="#cite-ref-2">[2]</a> with a permissive license <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Floyd can be build to run under [Windows](Windows "Windows"), [Linux](Linux "Linux") and [Mac OS](Mac_OS "Mac OS"). Floyd had its over the board tournament debut at the [IGT 2016](IGT_2016 "IGT 2016") with a 50% score.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-- [5 References](#references)
-
 ## Description
 
 ## Board Representation

@@ -5,24 +5,6 @@ title: HistoryComputerChess
 
 **History** of Computer Chess - about ancient programs, computer chess pioneers and chess programming history.
 
-## Contents
-
-- [1 Early Theorists](#early-theorists)
-- [2 Famous Historic Computers and Programs](#famous-historic-computers-and-programs)
-- [3 Famous Matches](#famous-matches)
-- [4 Tournaments](#tournaments)
-- [5 People](#people)
-- [6 Chess Programming History](#chess-programming-history)
-- [7 Museums](#museums)
-- [8 See also](#see-also)
-- [9 Publications](#publications)
-- [10 Forum Posts](#forum-posts)
-- [11 External Links](#external-links)
-  - [11.1 History of AI](#history-of-ai)
-  - [11.2 History of Computer Chess](#history-of-computer-chess)
-  - [11.3 Computer Chess - A Movie](#computer-chess---a-movie)
-- [12 References](#references)
-
 ## Early Theorists
 
 - [](File:Zermelo.jpeg)

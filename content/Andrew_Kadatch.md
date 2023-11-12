@@ -11,12 +11,6 @@ at the [Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_
 In 1998, he moved to the United States and worked for [Microsoft](Microsoft "Microsoft") and [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Andrew Kadatch collaborated with his fellow [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), and provided the [compression](https://en.wikipedia.org/wiki/Data_compression) algorithm for the [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

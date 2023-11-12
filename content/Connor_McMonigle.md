@@ -11,14 +11,6 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 His [GitHub](https://en.wikipedia.org/wiki/GitHub) repository further provides a [C++](Cpp "Cpp") template based [neural network](Neural_Networks "Neural Networks") reference implementation <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 and the **cartesian-gp-chess-engine**, an experiment involving evolving cartesian [genetic programs](Genetic_Programming "Genetic Programming") to evaluate chess positions, using self play to evolve slightly superior chess playing cartesian programs each generation <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2020](#2020)
-  - [1.2 2021](#2021)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2020

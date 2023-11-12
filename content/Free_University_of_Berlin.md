@@ -8,13 +8,6 @@ title: Free University of Berlin
 
 a [research university](https://en.wikipedia.org/wiki/Research_university) located in [Berlin](https://en.wikipedia.org/wiki/Berlin), [Germany](https://en.wikipedia.org/wiki/Germany), founded in [West Berlin](https://en.wikipedia.org/wiki/West_Berlin) in 1948 with American support during the early [Cold War](https://en.wikipedia.org/wiki/Cold_War) period as a de facto western continuation of the *Frederick William University* (University of Berlin), which was located in [East Berlin](https://en.wikipedia.org/wiki/East_Berlin), in 1949 renamed to [Humboldt University of Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin).
 
-## Contents
-
-- [1 Engines](#engines)
-- [2 People](#people)
-- [3 Tournaments](#tournaments)
-- [4 External Links](#external-links)
-
 ## Engines
 
 - [FUSc#](FUSCsharp "FUSCsharp")

@@ -10,13 +10,6 @@ was an [Ukrainian American](https://en.wikipedia.org/wiki/Ukrainian_American) jo
 
 Along with [David E. Welsh](David_E._Welsh "David E. Welsh"), Boris Baczynskyj co-authored *Computer Chess II* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and further anatomized some games of the [ACM 1984](ACM_1984 "ACM 1984"), as published in the [ICCA Journal](ICGA_Journal#8_3 "ICGA Journal"). He served as editor of [Chess Life](https://en.wikipedia.org/wiki/Chess_Life), worked for Hayden Software on the [Sargon III](Sargon#Sargon3 "Sargon") manual, and was affiliated with [Fidelity International](Fidelity_Electronics "Fidelity Electronics") as chess advisor <a id="cite-note-6" href="#cite-ref-6">[6]</a>, also responsible for [Fidelity's](Fidelity "Fidelity") [opening book](Opening_Book "Opening Book").
 
-## Contents
-
-- [1 Book Issues](#book-issues)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Book Issues
 
 On [Fidelity X's](Fidelity "Fidelity") 3...e5 in round 1 of the [ACM 1984](ACM_1984 "ACM 1984") versus [Cray Blitz](Cray_Blitz "Cray Blitz") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, its [book author](Category:Opening_Book_Author "Category:Opening Book Author") elaborates in the [ICCA Journal](ICGA_Journal#8_3 "ICGA Journal") <a id="cite-note-8" href="#cite-ref-8">[8]</a>:

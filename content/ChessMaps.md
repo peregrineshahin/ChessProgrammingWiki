@@ -9,15 +9,6 @@ a research chess playing program by [Kieran Greer](Kieran_Greer "Kieran Greer"),
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The program requires the [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework) and has an own [Windows](Windows "Windows") [GUI](GUI "GUI"). The ChessMaps manual credits [Beowulf](Beowulf "Beowulf") for providing the [opening book](Opening_Book "Opening Book").
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Quotes](#quotes)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Screenshot
 
 [](https://www.distributedcomputingsystems.co.uk/research.html)

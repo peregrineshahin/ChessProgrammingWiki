@@ -8,13 +8,6 @@ title: Deniz Yuret
 
 a Turkish computer scientist and Assistant Professor at [Koç University](https://en.wikipedia.org/wiki/Ko%C3%A7_University), [Istanbul](https://en.wikipedia.org/wiki/Istanbul). He received his B.S., M.S., and Ph.D. degrees from the [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") in 1992-2000. His research interests includes [machine learning](Learning "Learning") and [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). At MIT he worked with [David McAllester](David_McAllester "David McAllester") on [Conspiracy Number Search](Conspiracy_Number_Search "Conspiracy Number Search"), and the [depth-first](Depth-First "Depth-First") [Alpha-Beta Conspiracy Search](index.php?title=Alpha-Beta_Conspiracy_Search&action=edit&redlink=1 "Alpha-Beta Conspiracy Search (page does not exist)") (ABC search), which uses [conspiracy theory](Conspiracy_Numbers "Conspiracy Numbers") and disjoint [depths](Depth "Depth") of max- and min-player to control [selectivity](Selectivity "Selectivity") and [extensions](Extensions "Extensions") of an [alpha-beta](Alpha-Beta "Alpha-Beta") search, also mentioned by the [Deep Blue](Deep_Blue "Deep Blue") team <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In his paper *The Principle of Pressure in Chess*, Deniz Yuret introduces the [best-first](Best-First "Best-First") [Pressure Search](index.php?title=Pressure_Search&action=edit&redlink=1 "Pressure Search (page does not exist)") algorithm, and concerning [selectivity](Selectivity "Selectivity") further mentions the [ACM 1993](ACM_1993 "ACM 1993") and its winner [Socrates](Socrates "Socrates") aka [Titan](Titan "Titan"), and corporate experiments with the Socrates team at MIT on new algorithms <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

@@ -11,16 +11,6 @@ The computer has a [Hitachi](https://en.wikipedia.org/wiki/Hitachi) [H8/3214](H8
 and features a press [sensory board](Sensory_Board "Sensory Board") along with [LCD](https://en.wikipedia.org/wiki/Liquid-crystal_display), button panel and [speaker](https://en.wikipedia.org/wiki/PC_speaker).
 The [Ron Nelson](Ron_Nelson "Ron Nelson") program was a continuation of his H8 programs in the [Mirage](Excalibur_Mirage "Excalibur Mirage"), [Ivan](Ivan_The_Terrible "Ivan The Terrible") and [Grandmaster](Excalibur_Grandmaster "Excalibur Grandmaster") line, also supported by chess consultant and [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") [Larry Kaufman](Larry_Kaufman "Larry Kaufman").
 
-## Contents
-
-- [1 Igor II](#igor-ii)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Computer](#chess-computer)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Igor II
 
 A second Igor model, Igor 711E-2, using a [Samsung](https://en.wikipedia.org/wiki/Samsung_Electronics) KS57C2308 controller with a [SAM47](SAM "SAM") 4-bit core at 1 MHz with 8 KiB ROM and 512 [nibbles](Nibble "Nibble") of RAM <a id="cite-note-3" href="#cite-ref-3">[3]</a> was released in 2000 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

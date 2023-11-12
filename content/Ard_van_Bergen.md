@@ -11,15 +11,6 @@ He defended his Ph.D. in [atomic physics](https://en.wikipedia.org/wiki/Atomic_p
 As former computer chess and games programmer, Ard is author of the chess programs [PK80/83](PK "PK") and [Shess](Shess "Shess"), and the [Draughts](Draughts "Draughts") program [TN83](https://www.game-ai-forum.org/icga-tournaments/program.php?id=278).
 Along with [Stef Keetman](Stef_Keetman "Stef Keetman"), he developed the Draughts engine for [Oxford Softworks'](Oxford_Softworks "Oxford Softworks") *Intelligent Strategy Games 10* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1985 ...](#1985-...)
-  - [2.2 1990 ...](#1990-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Quotes
 
 from Ard's Chesspage <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

@@ -8,24 +8,6 @@ title: Boris
 
 an early [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers"), which appeared in February 1978, designed and manufactured by [Applied Concepts](Applied_Concepts "Applied Concepts") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and marketed by primary distributor [Chafitz](Chafitz "Chafitz"). Already in March 1978, Boris played [Second West Coast Computer Faire Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") in the "microcomputers with less than 8K of memory class" <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Boris ran on a [Fairchild F8](Fairchild_F8 "Fairchild F8") 8-bit microprocessor with only 2.5 KiB [ROM](Memory#ROM "Memory") and 256 byte [RAM](Memory#RAM "Memory"). [David Lindsay](David_Lindsay "David Lindsay") was hired to program the machine <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and two further Boris models with Lindsay programs appeared in 1979, the first travel chess computer *Boris Diplomat* <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>, where Lindsay holds a patent <a id="cite-note-7" href="#cite-ref-7">[7]</a> on the [Chess piece font](Pieces#Drawing "Pieces") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, and the *Boris Master* <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Bobby Fischer calling](#bobby-fischer-calling)
-- [3 Co-Author](#co-author)
-- [4 Boris 2.5](#boris-2.5)
-- [5 Boris Handroid](#boris-handroid)
-- [6 Boris Experimental](#boris-experimental)
-  - [6.1 WMCCC 1980](#wmccc-1980)
-  - [6.2 Controversy](#controversy)
-    - [6.2.1 ACM 1980](#acm-1980)
-    - [6.2.2 ACM 1981](#acm-1981)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-- [9 Forum Posts](#forum-posts)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Photos
 
 [](http://www.flickr.com/photos/10261668@N05/2376896939/in/set-72157600923816639)

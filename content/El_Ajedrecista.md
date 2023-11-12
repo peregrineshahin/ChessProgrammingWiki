@@ -9,21 +9,6 @@ title: El Ajedrecista
 the [electro-mechanical](Electro-Mechanical "Electro-Mechanical") [KRK](KRK "KRK") solver by [Leonardo Torres y Quevedo](Leonardo_Torres_y_Quevedo "Leonardo Torres y Quevedo"). In 1910 Torres began (other sources state 1890, or 1901 <a id="cite-note-2" href="#cite-ref-2">[2]</a>) to construct the chess automaton. In [1912](Timeline#1912 "Timeline") it was able to automatically play a white king (initially on a8) and white rook (initially on b7) against the lonesome black king placed on any square, except 7th or 8th rank. The algorithm was suboptimal, but could win in less than 50 moves against any defense <a id="cite-note-3" href="#cite-ref-3">[3]</a> . It used mechanical arms to make its moves and electrical sensors to detect its opponent's replies.
 A second, mechanical but not algorithmic improved El Ajedrecista was built by Leonardo Torres Quevedo's son **Gonzalo** in 1922, under the direction of his father. At the 1951 Paris Cybernetic Congress the advanced machine was introduced to a greater audience and explained to [Norbert Wiener](Norbert_Wiener "Norbert Wiener") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Even if only playing KRK, El Ajedrecista can be considered as the world’s **first** chess computer, even a [dedicated](Dedicated_Chess_Computers "Dedicated Chess Computers") [robot](Robots "Robots") able to move its own pieces. It is still functional and can be visited at the Torres Quevedo Museum of Engineering, Institute of Civil Engineering at the [Universidad Politécnica de Madrid](Technical_University_of_Madrid "Technical University of Madrid") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. During the [WCCC 1992](WCCC_1992 "WCCC 1992"), hosted by the Universidad Politécnica de Madrid, the original El Ajedrecista was an exhibit in the tournament hall <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 El Ajedrecista I](#el-ajedrecista-i)
-  - [1.2 El Ajedrecista II](#el-ajedrecista-ii)
-- [2 Description](#description)
-- [3 The Robot](#the-robot)
-  - [3.1 Assembly](#assembly)
-  - [3.2 Making own Moves](#making-own-moves)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Photos
 
 ## El Ajedrecista I

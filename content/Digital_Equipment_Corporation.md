@@ -8,13 +8,6 @@ title: Digital Equipment Corporation
 
 was a major American company in the [computer industry](https://en.wikipedia.org/wiki/Computer_industry) from the 1950s to the 1990s, headquarters located in [Maynard, Massachusetts](https://en.wikipedia.org/wiki/Maynard,_Massachusetts), best known for their successful [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor) (PDP), and the [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX)([VAX](VAX "VAX")) computers, as well as the [DEC Alpha](DEC_Alpha "DEC Alpha") processor. DEC was acquired in June 1998 by [Compaq](https://en.wikipedia.org/wiki/Compaq), which subsequently merged with [Hewlett-Packard](https://en.wikipedia.org/wiki/Hewlett-Packard) (HP) in May 2002. Some parts of DEC, notably the compiler business, were sold to [Intel](Intel "Intel") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 People](#people)
-- [2 Hardware](#hardware)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [John E. Comeau](John_E._Comeau "John E. Comeau")

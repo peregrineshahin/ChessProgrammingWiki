@@ -10,33 +10,6 @@ BMI2 requires bit 8 set in EBX of [CPUID](https://en.wikipedia.org/wiki/CPUID) w
 In 2017, BMI2 was further incorporated in [AMD's](AMD "AMD") [Zen-architecture](<https://en.wikipedia.org/wiki/Zen_(microarchitecture)>) but until [Zen 3](https://en.wikipedia.org/wiki/Zen_3) in November 2020 <a id="cite-note-3" href="#cite-ref-3">[3]</a> with a slow implementation of critical instructions such as [PDEP](#pdep) and [PEXT](#pext) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Instructions](#instructions)
-  - [1.1 BZHI](#bzhi)
-  - [1.2 PDEP](#pdep)
-    - [1.2.1 Intrinsic Prototype](#intrinsic-prototype)
-    - [1.2.2 Sample](#sample)
-    - [1.2.3 Serial Implementation](#serial-implementation)
-  - [1.3 PEXT](#pext)
-    - [1.3.1 Intrinsic Prototype](#intrinsic-prototype-2)
-    - [1.3.2 Sample](#sample-2)
-    - [1.3.3 Serial Implementation](#serial-implementation-2)
-- [2 Applications](#applications)
-  - [2.1 PEXT Bitboards](#pext-bitboards)
-  - [2.2 PEXT/PDEP Bitboards](#pext.2fpdep-bitboards)
-  - [2.3 FEN Compression](#fen-compression)
-  - [2.4 Syzygy Generator](#syzygy-generator)
-- [3 Early PEXT/PDEP Proposal](#early-pext.2fpdep-proposal)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2006](#2006)
-  - [5.2 2011 ...](#2011-...)
-  - [5.3 2015 ...](#2015-...)
-  - [5.4 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Instructions
 
 Beside the instructions explained in more detail below, there is MULX, Unsigned Multiply, and RORX, SARX/SHLX/SHRX, that is rotate and shifts without affecting processor flags. PEXT and PDEP <a id="cite-note-7" href="#cite-ref-7">[7]</a> allow for an alternative of [kindergarten](Kindergarten_Bitboards "Kindergarten Bitboards")- or [magic bitboards](Magic_Bitboards "Magic Bitboards"), and clearly makes maintaining [rotated bitboards](Rotated_Bitboards "Rotated Bitboards") obsolete <a id="cite-note-8" href="#cite-ref-8">[8]</a>.

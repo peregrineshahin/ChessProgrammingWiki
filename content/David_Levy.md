@@ -8,36 +8,6 @@ title: David Levy
 
 a Scottish [International Master](https://en.wikipedia.org/wiki/International_Master) chess player (IM Title 1969), Bachelor of Science in [Pure Maths](https://en.wikipedia.org/wiki/Pure_mathematics), Physics and Statistics [[2]](#cite_note-2) , renowned computer chess expert and promoter, tournament organizer, businessman, and until August 2019 president of the [ICGA](ICGA "ICGA"), the International Computer Games Association. David Levy authored and co-authored an enormous number of articles and books on Chess, Computer Chess and AI-Topics. Noteworthy is the commercial edition of his Ph.D. thesis *Love and Sex With Robots: The Evolution of Human-Robot Relationships* [[3]](#cite_note-3) , which he defended successfully on October 11, 2007, at [Maastricht University](Maastricht_University "Maastricht University"), The Netherlands.
 
-## Contents
-
-- [1 Photos](#Photos)
-- [2 The Gambler](#The_Gambler)
-  - [2.1 The Levy Bet](#The_Levy_Bet)
-  - [2.2 Did they all pay up?](#Did_they_all_pay_up.3F)
-  - [2.3 Advent of EGT](#Advent_of_EGT)
-    - [2.3.1 CHAOS failed](#CHAOS_failed)
-    - [2.3.2 Thompson's Databases](#Thompson.27s_Databases)
-    - [2.3.3 Scotch versus Vodka](#Scotch_versus_Vodka)
-- [3 WCCC and ICCA](#WCCC_and_ICCA)
-  - [3.1 WCCC](#WCCC)
-  - [3.2 ICCA](#ICCA)
-  - [3.3 President](#President)
-- [4 Computer Chess and AI Business](#Computer_Chess_and_AI_Business)
-  - [4.1 Intelligent Software](#Intelligent_Software)
-  - [4.2 Intelligent Toys](#Intelligent_Toys)
-- [5 Programs](#Programs)
-- [6 Man vs. Machine](#Man_vs._Machine)
-- [7 See also](#See_also)
-- [8 Selected Publications](#Selected_Publications)
-  - [8.1 1976 ...](#1976_...)
-  - [8.2 1980 ...](#1980_...)
-  - [8.3 1990 ...](#1990_...)
-  - [8.4 2000 ...](#2000_...)
-  - [8.5 2010 ...](#2010_...)
-  - [8.6 2020 ...](#2020_...)
-- [9 External Links](#External_Links)
-- [10 References](#References)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-42fa88358c245)

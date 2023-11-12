@@ -8,17 +8,6 @@ title: Amir Ban
 
 an Israeli computer scientist with a Ph.D. in [Rationality](https://en.wikipedia.org/wiki/Rationality) from [The Hebrew University of Jerusalem](https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem), [Givat Ram](https://en.wikipedia.org/wiki/Givat_Ram) <a id="cite-note-2" href="#cite-ref-2">[2]</a> in 2008, and computer chess programmer. Along with [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), Amir Ban is primary author of the world class chess engine and multiple computer chess world champion [Junior](Junior "Junior") and its multiprocessor version **Deep Junior**. Amir started chess programming in 1985. Junior's predecessor was written in [Turbo Pascal](Pascal#TurboPascal "Pascal"), later ported to [C](C "C") and [C++](Cpp "Cpp"). In 1993, Shay joined Amir's programming efforts, specializing in [evaluation](Evaluation "Evaluation") and [optimisation](Automated_Tuning "Automated Tuning") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Maastricht 2002](#maastricht-2002)
-  - [1.2 Turin 2006](#turin-2006)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 ## Maastricht 2002

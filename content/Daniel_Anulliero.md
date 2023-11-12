@@ -10,16 +10,6 @@ when he wrote an [Othello](Othello "Othello") program in [Basic](Basic "Basic").
 When he got aware of [Leo Dijksman's](Leo_Dijksman "Leo Dijksman") [WBEC Ridderkerk](WBEC "WBEC") tournament, Daniel Anulliero got hooked again, switched to the [C](C "C") programming language and started to write his first [WinBoard engine](Category:WinBoard "Category:WinBoard") [JARS](index.php?title=JARS&action=edit&redlink=1 "JARS (page does not exist)"), later followed by [Yoda](Yoda "Yoda")
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>, [Isa](Isa "Isa") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and most recently, but as of 2019 not officially released <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [BeLL](index.php?title=BeLL&action=edit&redlink=1 "BeLL (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2007 ...](#2007-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2007 ...

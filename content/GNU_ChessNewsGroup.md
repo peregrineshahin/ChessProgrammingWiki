@@ -8,29 +8,6 @@ title: GNU ChessNewsGroup
 
 the [open source chess engine](Category:Open_Source "Category:Open Source") of the [Free Software Foundation](Free_Software_Foundation "Free Software Foundation"). GNU Chess was initially written by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft") in the mid 80s, joined by [John Stanback](John_Stanback "John Stanback") who contributed his [own code](SCP "SCP") to GNU Chess 2 and 3 which was laboriously and meticulously well-written <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Dozens of developers have enhanced GNU Chess over the times. Version 5 was a complete rewrite by [Chua Kong Sian](Chua_Kong_Sian "Chua Kong Sian"), incorporating his chess program [Cobalt](Cobalt "Cobalt") and Cracraft's [Gazebo](Gazebo "Gazebo") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") is the primary author of GNU Chess 6, based on [Fruit 2.1](Fruit "Fruit") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Fidelity Match](#fidelity-match)
-- [2 Authors](#authors)
-  - [2.1 Primary](#primary)
-  - [2.2 Contributors](#contributors)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1989](#1989)
-  - [5.2 1990 ...](#1990-...)
-  - [5.3 1995 ...](#1995-...)
-  - [5.4 2000 ...](#2000-...)
-  - [5.5 2005 ...](#2005-...)
-  - [5.6 2010 ...](#2010-...)
-  - [5.7 2015 ...](#2015-...)
-  - [5.8 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Rating](#rating)
-  - [6.3 News Group](#news-group)
-- [7 References](#references)
-
 ## Fidelity Match
 
 In 1990, GNU Chess 1.55 with [Hans Eric Sandström's](index.php?title=Hans_Eric_Sandstr%C3%B6m&action=edit&redlink=1 "Hans Eric Sandström (page does not exist)") fast [move generator](Table-driven_Move_Generation#GNUChess "Table-driven Move Generation") defeats [Fidelity](Fidelity "Fidelity") in a 10 game match <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

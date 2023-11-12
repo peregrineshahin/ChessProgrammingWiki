@@ -8,14 +8,6 @@ title: Cock de Gorter
 
 was a Dutch computer chess expert, [tournament organizer](Category:Tournament_Director "Category:Tournament Director"), [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"), and former chairman of the [Dutch Computer Chess Federation (CSVN)](CSVN "CSVN"). He was primary initiator and organizer of the famous [Aegon Man-Machine Tournaments](Aegon_Tournaments "Aegon Tournaments") and book author of the chess programs [The King](The_King "The King"), [Fritz](Fritz "Fritz"), famous for [WCCC 1995 games](WCCC_1995#DBlueFritz "WCCC 1995") versus [Deep Blue Prototype](Deep_Blue "Deep Blue") and the [playoff](WCCC_1995#Playoff "WCCC 1995") versus [Star Socrates](Star_Socrates "Star Socrates") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> and [Tao](Tao "Tao"), as well as various [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). Cock de Gorter died on June 16, 2019 on [brain cancer](https://en.wikipedia.org/wiki/Brain_tumor), aged 70 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html)

@@ -7,13 +7,6 @@ title: CCT8
 
 The **CCT8** was organized by [Peter Skinner](Peter_Skinner "Peter Skinner"), played via the [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") (ICC) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, February 25-26, [2006](Timeline#2006 "Timeline"), 9 rounds [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament), 50min 3sec increment.
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Final Standing
 
 |  #

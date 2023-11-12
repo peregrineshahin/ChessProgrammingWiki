@@ -8,24 +8,6 @@ title: Amy
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [XBoard](XBoard "XBoard") compliant [open source chess program](Category:Open_Source "Category:Open Source") under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") by [Thorsten Greiner](Thorsten_Greiner "Thorsten Greiner"), written in [C](C "C"). Its development started in 1993 on the [Amiga](Amiga "Amiga") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and continued on [Unix](Unix "Unix") platforms, in particular [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Amy 0,6 was ported to [Windows](Windows "Windows") for [WinBoard](WinBoard "WinBoard") by [Dann Corbit](Dann_Corbit "Dann Corbit") in early 2000 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Amy played the [WMCCC 1995](WMCCC_1995 "WMCCC 1995") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn) and multiple [International Paderborn Computer Chess Championships](IPCCC "IPCCC").
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2000](#2000)
-  - [3.2 2002 ...](#2002-...)
-  - [3.3 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc-2)
-  - [4.3 Demonology](#demonology)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

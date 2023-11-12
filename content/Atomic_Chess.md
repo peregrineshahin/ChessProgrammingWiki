@@ -7,15 +7,6 @@ title: Atomic Chess
 
 a chess variant which applies the standard rules of chess, but [capturing](Captures "Captures") a [piece](Pieces "Pieces") leads to an explosion with the effect that, in addition to the captured piece, the capturing piece and all non-pawns on neighboring squares are removed from the board. For [en passant](En_passant "En passant"), the center of the explosion is at the target square behind the pawn being captured. Captures that result in the explosion of the own king are illegal, and therefore a king can never capture any other piece, and it is possible to move the kings next to each other.
 
-## Contents
-
-- [1 Atomic Check](#atomic-check)
-- [2 Engines](#engines)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Atomic Check
 
 In most variations of atomic chess, players must respond to being [checked](Check "Check") in a similar way they would in traditional chess - by moving the king out of check, blocking the check, or removing the checking piece - but an exception exists when the checked player can win the game by exploding the checking player's king. The variant of atomic chess played at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") is one that does not enforce check at all, where leaving the own king to be captured directly in the next move is legal <a id="cite-note-1" href="#cite-ref-1">[1]</a>.

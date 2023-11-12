@@ -8,15 +8,6 @@ title: GC3BCnther SchrC3BCfer
 
 a German computer scientist, chessplayer <a id="cite-note-2" href="#cite-ref-2">[2]</a> and former computer chess programmer. He defended his M.Sc. on modeling [Search Trees](Search_Tree "Search Tree") in Chess 1983 <a id="cite-note-3" href="#cite-ref-3">[3]</a> and his Ph.D. on costs, qality and algorithms of [minimax search](Minimax "Minimax") in 1988 <a id="cite-note-4" href="#cite-ref-4">[4]</a> at the [Technical University of Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig). In his 1988 paper *Root Evaluation Errors: How they Arise and Propagate* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") used Schrüfer's model limited to regular binary two-valued trees of depth n, to demonstrate how root errors arose.
 
-## Contents
-
-- [1 Chess Programs](#chess-programs)
-- [2 Photos & Games](#photos-.26-games)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Chess Programs
 
 Along with [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), Günther Schrüfer is co-author of the chess programs [Bobby](Bobby "Bobby"), Bobby II and [Doctor?](Doctor%3F "Doctor?") . He is co-author of *Das große Computerschachbuch* (German), describing chess programming topics, and the didactic chess program [Demoschach](index.php?title=Demoschach&action=edit&redlink=1 "Demoschach (page does not exist)") written in [Basic](Basic "Basic").

@@ -8,16 +8,6 @@ title: Defenchess
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Can Cetin](index.php?title=Can_Cetin&action=edit&redlink=1 "Can Cetin (page does not exist)") and [Dogac Eldenk](index.php?title=Dogac_Eldenk&action=edit&redlink=1 "Dogac Eldenk (page does not exist)"), written in [C++](Cpp "Cpp"), licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation").
 Defenchess evolved from the author's former engine *SCTR* <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and had its tournament debut at [TCEC Season 11](TCEC_Season_11 "TCEC Season 11") in 2018, where it won the [Fourth Division](TCEC_Season_11#Fourth "TCEC Season 11") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

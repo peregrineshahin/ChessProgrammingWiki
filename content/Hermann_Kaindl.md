@@ -8,20 +8,6 @@ title: Hermann Kaindl
 
 an Austrian computer scientist, games researcher and since 2003 full professor at the [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"), where he already defended his Ph.D. under supervision of [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Kaindl was senior consultant with the division of program and systems engineering at [Siemens AG](https://en.wikipedia.org/wiki/Siemens) [Austria](https://en.wikipedia.org/wiki/Austria). Concurrently to his work in the industry, Kaindl has given lectures in computer science at the Technical University of Vienna since 1984, where he received the [venia docendi](https://en.wikipedia.org/wiki/Habilitation) in applied computer science ([Praktische Informatik](http://de.wikipedia.org/wiki/Praktische_Informatik)) in 1989 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Merlin](#merlin)
-- [2 Photos](#photos)
-- [3 See also](#see-also)
-- [4 Selected Publications](#selected-publications)
-  - [4.1 1978](#1978)
-  - [4.2 1980 ...](#1980-...)
-  - [4.3 1990 ...](#1990-...)
-  - [4.4 2000 ...](#2000-...)
-  - [4.5 2010 ...](#2010-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Merlin
 
 As student, Hermann Kaindl was primary author of the chess program [Merlin](Merlin "Merlin"), along with [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Marcus Wagner](Marcus_Wagner "Marcus Wagner") and [Roland Schreier](index.php?title=Roland_Schreier&action=edit&redlink=1 "Roland Schreier (page does not exist)"), competing at various [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and two [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") in the 80s <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

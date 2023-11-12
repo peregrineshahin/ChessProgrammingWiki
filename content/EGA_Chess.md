@@ -7,13 +7,6 @@ title: EGA Chess
 
 an early chess program for the [IBM PC](IBM_PC "IBM PC") by [Lloyd L. Lank](Lloyd_L._Lank "Lloyd L. Lank"), featuring a [graphics board](2D_Graphics_Board "2D Graphics Board") using the [EGA](https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter) or [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array) display standards, running under [DOS 2.0](MS-DOS "MS-DOS") or later, commercially released in 1988 by *Cube Microsystems*, [Overland Park, Kansas](https://en.wikipedia.org/wiki/Overland_Park,_Kansas) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The game had an on-line tutorial that include animated explanations of moves such as [castling](Castling "Castling") and [en passant](En_passant "En passant").
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Screenshot](#screenshot)
-- [3 Publications](#publications)
-- [4 References](#references)
-
 ## Tournament Play
 
 EGA Chess played the [Second United States Open Computer Chess Championship 1986](USOCCC_1986 "USOCCC 1986") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, the [Third United States Open Computer Chess Championship 1987](USOCCC_1987 "USOCCC 1987") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and the [Fourth United States Open Computer Chess Championship 1988](USOCCC_1988 "USOCCC 1988") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

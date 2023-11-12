@@ -8,17 +8,6 @@ title: FUSCsharp
 was an experimental research [open source chess engine](Category:Open_Source "Category:Open Source") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, developed since 2002 by a AI-Game Programming Group at the [Free University of Berlin](Free_University_of_Berlin "Free University of Berlin"), headed by [Raúl Rojas](Ra%C3%BAl_Rojas "Raúl Rojas").
 As the name suggests, FUSc# was written in [C#](C_sharp "C sharp"). Compliant to the [UCI](UCI "UCI") protocol, it was able to play online. FUSc# was subject of research on [temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") using [TD-Leaf(λ)](Temporal_Difference_Learning#TDLeaf "Temporal Difference Learning"), as elaborated in [Marco Block's](Marco_Block-Berlitz "Marco Block-Berlitz") thesis <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 ## [Board Representation](Board_Representation "Board Representation")

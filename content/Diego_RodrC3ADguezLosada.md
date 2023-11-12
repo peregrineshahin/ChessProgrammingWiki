@@ -13,14 +13,6 @@ His main research interests focused on [mobile robotics](https://en.wikipedia.or
 He published along with [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo") et al. on [bitboards](Bitboards "Bitboards") <a id="cite-note-5" href="#cite-ref-5">[5]</a> and an efficient bit-parallel [maximum clique problem](https://en.wikipedia.org/wiki/Clique_problem) solver
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-7" href="#cite-ref-7">[7]</a>

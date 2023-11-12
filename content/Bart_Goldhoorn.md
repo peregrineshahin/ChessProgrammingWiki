@@ -8,13 +8,6 @@ title: Bart Goldhoorn
 
 a Dutch computer chess programmer, and author of the chess program [Goldbar](Goldbar "Goldbar"). Bart is active in computer chess since the early 90s and had his tournament debut with Goldbar at the [DOCCC 1992](DOCCC_1992 "DOCCC 1992").
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 DOCCC 1992](#doccc-1992)
-  - [1.2 DOCCC 2004](#doccc-2004)
-- [2 References](#references)
-
 ## Photos
 
 ## [DOCCC 1992](DOCCC_1992 "DOCCC 1992")

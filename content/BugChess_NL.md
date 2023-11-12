@@ -12,22 +12,6 @@ and was active in the late 90s at [ICC](index.php?title=Internet_Chess_Club&acti
 The program continued to play as **QueenMaxima(C)** at ICC and was published as [open source engine](Category:Open_Source "Category:Open Source") under the [GPL license](Free_Software_Foundation#GPL "Free Software Foundation").
 [UCI](UCI "UCI") compliance was created in 2013 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-  - [1.4 Misc](#misc)
-- [2 Selected Games](#selected-games)
-- [3 Namesake](#namesake)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc-2)
-- [7 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

@@ -11,13 +11,6 @@ As mentioned by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz")
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 Czolgista exclusively uses [Multi-Cut](Multi-Cut "Multi-Cut") rather than [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"). Czolgista played the [CCT5](CCT5 "CCT5") and [CCT7](CCT7 "CCT7") [CCT Online Tournaments](CCT_Tournaments "CCT Tournaments") in 2003 and 2005 respectively.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [CCT5](CCT5 "CCT5"), round 6, Czolgista - [Alarm](Alarm "Alarm") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

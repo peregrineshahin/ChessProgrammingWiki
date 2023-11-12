@@ -11,18 +11,6 @@ While the series offers a nice introduction in chess engine programming and [bit
 the advanced approach of [Magic Bitboards](Magic_Bitboards "Magic Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with all its lengthy initialization topics might be hard to understand and deterrent for the intended novice target group.
 The linewise approaches of [First Rank Attacks](First_Rank_Attacks "First Rank Attacks") to introduce occupancy lookups, followed by [Kindergarten Bitboards](Kindergarten_Bitboards "Kindergarten Bitboards") - as intermediate step towards magics bitboards - seem didactically more appropriate. Anyway, a valuable video series covering various aspects of computer chess programming. **BBC 1.0** was released on September 24, 2020 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, **BBC 1.3** on October 21, 2020, utilizing [Stockfish's NNUE](Stockfish_NNUE "Stockfish NNUE") evaluation via [Daniel Shawul's](Daniel_Shawul "Daniel Shawul") [Scorpio NNUE](Scorpio#ScorpioNNUE "Scorpio") [egbbdll](Scorpio#Bitbases "Scorpio") probing library <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 GitHub](#github)
-  - [3.2 YouTube](#youtube)
-    - [3.2.1 BBC](#bbc)
-    - [3.2.2 GUI](#gui)
-    - [3.2.3 NNUE](#nnue)
-- [4 References](#references)
-
 ## See also
 
 - [BMCP](BMCP "BMCP")

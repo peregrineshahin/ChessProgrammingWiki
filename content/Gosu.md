@@ -8,20 +8,6 @@ title: Gosu
 
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine by [Arkadiusz Paterek](Arkadiusz_Paterek "Arkadiusz Paterek"), originated as a part of his masters thesis. In [Korean](https://en.wikipedia.org/wiki/Korean_language) [its name](https://en.wikipedia.org/wiki/Gosu) means expert or master.
 
-## Contents
-
-- [1 Description](#description)
-- [2 Tournament Play](#tournament-play)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2004](#2004)
-  - [4.2 2005](#2005)
-  - [4.3 2006 ...](#2006-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 In Arkadiusz Paterek's paper *Modeling of an evaluation function in games* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, referring his thesis *Modeling of an evaluation function in chess*, the [evaluation](Evaluation "Evaluation") is mentioned using a [single-layer perceptron](Neural_Networks#Perceptron "Neural Networks") design inspired by [Michael Buro's](Michael_Buro "Michael Buro") [general linear evaluation model](Michael_Buro#GLEM "Michael Buro") (GLEM) <a id="cite-note-3" href="#cite-ref-3">[3]</a> in the domain of [Othello](Othello "Othello"). Gosu performs [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") to optimize weights of corresponding features aka minimize the [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error) [loss function](https://en.wikipedia.org/wiki/Loss_function) by [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) over a set of 6.2 million quiet positions from master games. For each position, it squares the difference of an [oracle](Oracle "Oracle") score from the outcome of the game, of 0.999 for a win, 0.5 for a draw, 0.0013 for a loss, and the [dot product](https://en.wikipedia.org/wiki/Dot_product) of the weight and [feature vector](<https://en.wikipedia.org/wiki/Feature_(machine_learning)>), squashed by a [logistic function](https://en.wikipedia.org/wiki/Logistic_function) into a 0.0 to 1.0 range of a [winning probability](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"). To speed up matters after [tuning](Automated_Tuning "Automated Tuning"), an [evaluation cache](Evaluation_Hash_Table "Evaluation Hash Table") is used along with [lazy evaluation](Lazy_Evaluation "Lazy Evaluation"), which performed well in Gosu's [MTD(f)](</MTD(f)> "MTD(f)") framework.

@@ -8,28 +8,6 @@ title: Draughts
 
 a group of [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy) [board games](https://en.wikipedia.org/wiki/Board_game) which involve diagonal moves of uniform game pieces and mandatory captures by jumping over opponent pieces. The most popular forms are [international draughts](https://en.wikipedia.org/wiki/International_draughts), also called **Polish draughts**, played on a **10×10** board and topic of this page, and 8x8 [Checkers](Checkers "Checkers").
 
-## Contents
-
-- [1 International Draughts](#international-draughts)
-- [2 Computer Draughts](#computer-draughts)
-- [3 Computer Olympiads](#computer-olympiads)
-- [4 Photos](#photos)
-  - [4.1 Yokohama 2013](#yokohama-2013)
-  - [4.2 Leiden 2015](#leiden-2015)
-- [5 Publications](#publications)
-  - [5.1 1989](#1989)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2010 ...](#2010-...-2)
-  - [6.2 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-  - [7.1 Computer Draughts](#computer-draughts-2)
-  - [7.2 Draughts Programs](#draughts-programs)
-- [8 References](#references)
-
 ## International Draughts
 
 The starting position of international draughts has 20 men each placed on its home squares of the 50 relevant dark squares. If a men land on the opponent back rank, it promotes to a king. Men can move diagonally forward, and in international draughts capture forward and backward by moving two consecutive steps in the same line, jumping over the piece on the first step. Multiple opposing pieces may be captured in a single turn provided this is done by successive jumps made by a single piece. The jumps do not need to be in the same line but may "zigzag". In international draughts, kings (sometimes called flying kings) move any distance along unblocked diagonals, and may capture an opposing man any distance away by jumping to any of the unoccupied squares immediately beyond it. Since captured pieces remain on the board until the turn is complete, it is possible to reach a position in a multi-capture move where the flying king is blocked from capturing further by a piece already captured.

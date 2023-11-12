@@ -8,18 +8,6 @@ title: Cyrus 68K
 
 a chess program by [Mark Taylor](Mark_Taylor "Mark Taylor") and advisor [David Levy](David_Levy "David Levy") for the [68000](68000 "68000") (68K) based family of [microprocessors](https://en.wikipedia.org/wiki/Microprocessor). Cyrus 68K, not to confused with [Richard Lang's](Richard_Lang "Richard Lang") earlier program [Cyrus](Cyrus "Cyrus"), was written by Taylor from scratch in 1985. Richard Lang, like Mark Taylor affiliated with Levy's and [O’Connell's](Kevin_O%E2%80%99Connell "Kevin O’Connell") company [Intelligent Software](Intelligent_Software "Intelligent Software"), already focused on [Psion](Psion "Psion") at that time, had abandoned Intelligent Software, and was about to work for [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") on [Mephisto](Mephisto "Mephisto").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 SEX](#sex)
-- [3 The Sphinx](#the-sphinx)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 External Links](#external-links)
-  - [6.1 Chess Program](#chess-program)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Photos & Games
 
 [](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html)

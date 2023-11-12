@@ -7,21 +7,6 @@ title: CLI
 
 a means of a [user](https://en.wikipedia.org/wiki/User_%28computing%29), [agent](https://en.wikipedia.org/wiki/User_agent) or [client](https://en.wikipedia.org/wiki/Client_%28computing%29), [interacting](https://en.wikipedia.org/wiki/Interaction) with a [computer program](index.php?title=Program&action=edit&redlink=1 "Program (page does not exist)") in form of [plain text-](https://en.wikipedia.org/wiki/Plain_text) or command lines. Programs are either the [operating system](https://en.wikipedia.org/wiki/Operating_system), their [command-line shells](https://en.wikipedia.org/wiki/Operating_system_shell#Command-line_OS_shells), or [application software](https://en.wikipedia.org/wiki/Application_software), for instance chess programs.
 
-## Contents
-
-- [1 History](#history)
-- [2 Unix Philosophy](#unix-philosophy)
-- [3 Shell and Applications](#shell-and-applications)
-- [4 Commands](#commands)
-- [5 CLI and Chess Engines](#cli-and-chess-engines)
-  - [5.1 Interruptible](#interruptible)
-  - [5.2 Protocols](#protocols)
-- [6 Chess CLIs](#chess-clis)
-- [7 See also](#see-also)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## History
 
 The CLI has its origins in [teletype](https://en.wikipedia.org/wiki/Teleprinter) and later [computer terminals](https://en.wikipedia.org/wiki/Computer_terminal) to act as a [system console](https://en.wikipedia.org/wiki/System_console) and sequential [input-](https://en.wikipedia.org/wiki/Input_device) and [output device](https://en.wikipedia.org/wiki/Output_device), where the program [prompts](http://en.wiktionary.org/wiki/prompt) for input, that is, prints a message or symbol on the teletype printer to indicate readiness for user input, and acts upon command lines as they are entered.

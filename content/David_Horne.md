@@ -7,16 +7,6 @@ title: David Horne
 
 a British inventor <a id="cite-note-1" href="#cite-ref-1">[1]</a>, former programmer, and chess programmer. In the early 1980s, David Horne wrote [1K ZX Chess](1K_ZX_Chess "1K ZX Chess"), one of the world's smallest chess programs, running on the unexpanded [Sinclair ZX81](Sinclair_ZX81 "Sinclair ZX81") with only one Kib of [RAM](Memory#RAM "Memory") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 1K ZX Chess was published in [Your Computer](Your_Computer "Your Computer"), and commercially market by Horne himself <a id="cite-note-3" href="#cite-ref-3">[3]</a> and soon by [Artic Computing](Artic_Computing "Artic Computing"), also launching Horne's [Chess Tutor](Chess_Tutor "Chess Tutor") for the [ZX Spectrum](ZX_Spectrum "ZX Spectrum") in 1983 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-  - [3.1 1K ZX Chess](#1k-zx-chess)
-  - [3.2 Chess Tutor](#chess-tutor)
-  - [3.3 Patents](#patents)
-- [4 References](#references)
-
 ## See also
 
 - [1K ZX Chess](1K_ZX_Chess "1K ZX Chess")

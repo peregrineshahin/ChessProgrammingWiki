@@ -9,14 +9,6 @@ title: GC3A9rard M. Baudet
 a French computer scientist and associate professor at the Department of Computer Science and Statistics, [University of Rhode Island](https://en.wikipedia.org/wiki/University_of_Rhode_Island), previously affiliated with the [French National Institute for Research in Computer Science and Control (INRIA)](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation)
 in [Paris-Rocquencourt](https://en.wikipedia.org/wiki/Rocquencourt). He holds a Ph.D. from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") in 1978 on *The Design and Analysis of Algorithms for Asynchronous Multiprocessors* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and researched on [Alpha-Beta](Alpha-Beta "Alpha-Beta") and [Parallel Search](Parallel_Search "Parallel Search").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1976 ...](#1976-...)
-  - [1.2 1980 ...](#1980-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

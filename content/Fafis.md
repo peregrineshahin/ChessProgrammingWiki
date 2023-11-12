@@ -19,14 +19,6 @@ Despite the author's denial Fafis is a [clone](Category:Clone "Category:Clone"),
 which failed to produce the suspected executable <a id="cite-note-6" href="#cite-ref-6">[6]</a>,
 Fafis was convicted a clone of Crafty <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2004](#2004)
-  - [1.2 2005](#2005)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2004

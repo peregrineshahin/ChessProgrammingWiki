@@ -12,18 +12,6 @@ The program and the new housing was developed and designed by [Ron Nelson](Ron_N
 The 4-bit program applies sophisticated [PV move](PV-Move "PV-Move") and [killer move](Killer_Move "Killer Move") [ordering heuristics](Move_Ordering "Move Ordering") <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 to become the base program used for subsequent Excalibur models like [King Arthur](Excalibur_King_Arthur "Excalibur King Arthur"), [Igor II](Excalibur_Igor#Igor_II "Excalibur Igor"), the [Excalibur Chess Station](index.php?title=Excalibur_Chess_Station&action=edit&redlink=1 "Excalibur Chess Station (page does not exist)"), *LCD Chess & Checkers* and many others.
 
-## Contents
-
-- [1 Talking LCD Chess](#talking-lcd-chess)
-- [2 LCD Chess Express](#lcd-chess-express)
-- [3 See also](#see-also)
-- [4 Manual](#manual)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Computer](#chess-computer)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Talking LCD Chess
 
 Excalibur's **Talking LCD Chess** on the other hand was a relative of the [6502](6502 "6502") line of Nelson programs as used in [Ivan II The Conqueror](Ivan_II_The_Conqueror "Ivan II The Conqueror") and [Alexandra The Great](index.php?title=Alexandra_The_Great&action=edit&redlink=1 "Alexandra The Great (page does not exist)").

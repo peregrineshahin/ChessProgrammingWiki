@@ -10,17 +10,6 @@ an [UCI](UCI "UCI") and [WinBoard](WinBoard "WinBoard") <a id="cite-note-2" href
 Its development started in early 2002 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, already released in March 2002 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Asterisk is presumably the [Windows](Windows "Windows") successor of Péter's earlier [MS-DOS](MS-DOS "MS-DOS") program [Robin](Robin "Robin"). Since [2002](MASPV_2002 "MASPV 2002"), Asterisk played all six [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open"), and was tied first at [MASPV 2007](MASPV_2007 "MASPV 2007"), and runner-up at the [MASPV 2008](MASPV_2008 "MASPV 2008").
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Photos & Games](#photos-.26-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Etymology
 
 Asterisk, from [Late Latin](https://en.wikipedia.org/wiki/Late_Latin) [asteriscus](https://en.wikipedia.org/wiki/Asteriscus), from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek) ἀστερίσκος (asteriskos, “a little star, asterisk, used in manuscripts to mark passages”), [diminutive](https://en.wikipedia.org/wiki/Diminutive) of [ἀστήρ](http://en.wiktionary.org/wiki/%E1%BC%80%CF%83%CF%84%CE%AE%CF%81) (aster, “a star”) <a id="cite-note-5" href="#cite-ref-5">[5]</a> . In computer science, the [asterisk](https://en.wikipedia.org/wiki/Asterisk) is commonly used as a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character), or to denote [pointers](https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29), [repetition](Repetitions "Repetitions"), or [multiplication](Population_Count#Multiplication "Population Count") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Inside the [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") Standard, an asterisk character ("\*") is a [token](https://en.wikipedia.org/wiki/Lexical_analysis#Token) by itself. It is used as one of the possible [game termination](Chess_Game#endofgame "Chess Game") markers. It indicates an incomplete [game](Chess_Game "Chess Game") or a game with an unknown or otherwise unavailable result <a id="cite-note-7" href="#cite-ref-7">[7]</a> .

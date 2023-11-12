@@ -10,15 +10,6 @@ a British [chess grandmaster](https://en.wikipedia.org/wiki/Grandmaster_%28chess
 
 Dharshan Kumaran's chess career started early, he became [Under-12](https://en.wikipedia.org/wiki/World_Youth_Chess_Championship#Under-12_winners) [World Youth Champion](https://en.wikipedia.org/wiki/World_Youth_Chess_Championship) 1986 in [San Juan](https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico), and [Under-16 World Youth Champion](https://en.wikipedia.org/wiki/World_Youth_Chess_Championship#Under-16) 1991 in [Guarapuava](https://en.wikipedia.org/wiki/Guarapuava) <a id="cite-note-2" href="#cite-ref-2">[2]</a> and British Under-21 and Commonwealth U-21 Champion in 1993 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He became [international master](<https://en.wikipedia.org/wiki/FIDE_titles#International_Master_(IM)>) in 1993, and grandmaster in 1997 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. With a rating of 2505, he is no longer active in official [FIDE](FIDE "FIDE") tournaments since 1998 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, focusing on his academic career.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2005 ...](#2005-...)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>

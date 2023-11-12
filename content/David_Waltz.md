@@ -14,16 +14,6 @@ His research interests include massively parallel information retrieval, [data m
 As director of advanced information systems at [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation),
 where he worked from 1984 to 1993, he was involved in the [StarTech](StarTech "StarTech") project, and along with vice president [John Mucci](index.php?title=John_Mucci&action=edit&redlink=1 "John Mucci (page does not exist)") provided the managerial backing to allow [Mark Bromley](Mark_Bromley "Mark Bromley"), [Roger Frye](Roger_Frye "Roger Frye"), and [Kurt Thearling](Kurt_Thearling "Kurt Thearling") to work on the massive parallel chess program with important design and programming help in getting StarTech running on the [CM-5](Connection_Machine "Connection Machine") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1972 ...](#1972-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

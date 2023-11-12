@@ -7,15 +7,6 @@ title: Harry Shershow
 
 was an American journalist and science writer. From January 1979 until February 1981, Harry Shershow was editor of the computer chess department of [Personal Computing](Personal_Computing "Personal Computing").
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1946](#1946)
-  - [1.2 1979](#1979)
-  - [1.3 1980 ...](#1980-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 ## 1946

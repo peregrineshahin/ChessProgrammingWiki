@@ -9,13 +9,6 @@ title: ETH Zurich
 a science, technology, engineering and mathematics [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) university in the city of [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich), [Switzerland](https://en.wikipedia.org/wiki/Switzerland).
 ETH was founded on February 7, 1854 by the Swiss Confederation and began giving its first lectures on October 16, 1855. It is locally still known as Polytechnikum, or simply as Poly, derived from the original name eidgenössische polytechnische Schule which translates to "federal polytechnic school" <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 People](#people)
-- [2 Chess Programs](#chess-programs)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## People
 
 - [Hans-Jürgen Appelrath](Hans-J%C3%BCrgen_Appelrath "Hans-Jürgen Appelrath")

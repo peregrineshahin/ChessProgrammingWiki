@@ -10,13 +10,6 @@ He was member of the [Nimzo](Nimzo "Nimzo") team <a id="cite-note-1" href="#cite
 around [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), and the associated [First Vienna Computer Chess Club](index.php?title=First_Vienna_Computer_Chess_Club&action=edit&redlink=1 "First Vienna Computer Chess Club (page does not exist)") (Nimzo Wekstatt), primary editor of the computer chess periodicals [Modul](Modul "Modul") and [PC Schach](PC_Schach "PC Schach"),
 and one of the [founders](CCC#Founders "CCC") of [CCC](CCC "CCC") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Articles](#selected-articles)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Articles
 
 - Andreas Mader (**1993**). *Die Österreicher Kommen!* [PC Schach](PC_Schach "PC Schach"), 3/93 » [WMCCC 1993](WMCCC_1993 "WMCCC 1993")

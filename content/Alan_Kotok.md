@@ -8,15 +8,6 @@ title: Alan Kotok
 
 was an American computer scientist, known for the [Kotok-McCarthy-Chess Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, his work at [Digital Equipment Corporation](Digital_Equipment_Corporation "Digital Equipment Corporation"), and his contributions on the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (W3C). Between 1959 and 1962, while student under [John McCarthy](John_McCarthy "John McCarthy") at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), Alan Kotok and his fellows [Elwyn Berlekamp](Elwyn_Berlekamp "Elwyn Berlekamp"), [Michael A. Lieberman](Michael_A._Lieberman "Michael A. Lieberman"), [Charles Niessen](Charles_Niessen "Charles Niessen") and [Robert A. Wagner](Robert_A._Wagner "Robert A. Wagner") wrote a chess program for the [IBM 7090](IBM_7090 "IBM 7090"). Based on [Alex Bernstein's 1957 program](The_Bernstein_Chess_Program "The Bernstein Chess Program") and routines by [McCarthy](John_McCarthy "John McCarthy") and [Paul W. Abrahams](Paul_W._Abrahams "Paul W. Abrahams"), they added [alpha-beta pruning](Alpha-Beta "Alpha-Beta") to [minmax](Minimax "Minimax"), at McCarthy's suggestion. The [Kotok-McCarthy-Program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") was written in [Fortran](Fortran "Fortran") and [FAP](https://en.wikipedia.org/wiki/IBM_704/9/90_FORTRAN_Assembly_Program#FORTRAN_Assembly_Program), the IBM 7090 macro assembler.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-  - [3.1 Oral History](#oral-history)
-  - [3.2 Videos](#videos)
-- [4 References](#references)
-
 ## See also
 
 - [Digital Equipment Corporation](Digital_Equipment_Corporation "Digital Equipment Corporation")

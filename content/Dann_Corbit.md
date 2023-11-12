@@ -10,16 +10,6 @@ an American software developer, computer chess expert, programmer, tester and ad
 Dann has further compiled various [test suites](Test-Positions "Test-Positions"), notably [Silent but Deadly](Silent_but_Deadly "Silent but Deadly"), and along with [Swaminathan Natarajan](Swaminathan_Natarajan "Swaminathan Natarajan") co-authored the [Strategic Test Suite](Strategic_Test_Suite "Strategic Test Suite") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 He was involved in an international project called [C.A.P.](index.php?title=C.A.P.&action=edit&redlink=1 "C.A.P. (page does not exist)") (chess analysis project) and is supporter of a lot of authors of computer chess engines, and active poster in [computer chess forums](Computer_Chess_Forums "Computer Chess Forums"). In July 2011, Dann has criticized the [ICGA decision](Rybka_Controversy#RybkaDecision "Rybka Controversy") concerning [Rybka](Rybka "Rybka"), stating the design of the investigation process was flawed <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1998 ...

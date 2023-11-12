@@ -12,15 +12,6 @@ two adjacent [pawns](Pawn "Pawn") of the same [color](Color "Color") on the same
 
 *The code snippets rely on [shifting bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations"), specially by [one step only](General_Setwise_Operations#OneStepOnly "General Setwise Operations").*
 
-## Contents
-
-- [1 Neighbors](#neighbors)
-- [2 Neighbor Algebra](#neighbor-algebra)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Neighbors
 
 To get pawns with east or west neighbors is simple:

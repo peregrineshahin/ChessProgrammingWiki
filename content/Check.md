@@ -6,31 +6,6 @@ title: Check
 [](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bb9) [Samuel Bak](Category:Samuel_Bak "Category:Samuel Bak") - Lighthouse <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 Inside a [game of chess](Chess_Game "Chess Game"), a **check** occurs if a [king](King "King") is under immediate [attack](Attacks "Attacks") by one (or two) opponent [pieces](Pieces "Pieces"). If the king has no way to remove it from attack on the next move, the check is even [checkmate](Checkmate "Checkmate"). Since check is crucial concerning the outcome of game and the [horizon effect](Horizon_Effect "Horizon Effect"), [check extensions](Check_Extensions "Check Extensions") might be applied to evade the check.
 
-## Contents
-
-- [1 Kind of Checks](#kind-of-checks)
-  - [1.1 Single Check](#single-check)
-  - [1.2 Double Check](#double-check)
-- [2 In Check Detection](#in-check-detection)
-  - [2.1 By last Move](#by-last-move)
-  - [2.2 Attack Tables](#attack-tables)
-  - [2.3 On the Fly](#on-the-fly)
-- [3 Getting out of check](#getting-out-of-check)
-  - [3.1 Double Check](#double-check-2)
-  - [3.2 Single Check](#single-check-2)
-- [4 Perpetual Check](#perpetual-check)
-- [5 See also](#see-also)
-- [6 Publications](#publications)
-- [7 Forum Posts](#forum-posts)
-  - [7.1 1997 ...](#1997-...)
-  - [7.2 2000 ...](#2000-...)
-  - [7.3 2005 ...](#2005-...)
-  - [7.4 2010 ...](#2010-...)
-  - [7.5 2015 ...](#2015-...)
-  - [7.6 2020 ...](#2020-...)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Kind of Checks
 
 ## Single Check

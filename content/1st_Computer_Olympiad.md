@@ -8,38 +8,6 @@ title: 1st Computer Olympiad
 \[ Park Lane Hotel [[1]](#cite_note-1)
 The **First Computer Olympiad** was held from August 9 to 15, [1989](Timeline#1989 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), where already the first part of the [World Chess Championship 1986](https://en.wikipedia.org/wiki/World_Chess_Championship_1986) between [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) and [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) took place [[2]](#cite_note-2) . [Claude Shannon](Claude_Shannon "Claude Shannon") served in the award ceremony, handing the [Gold](https://en.wikipedia.org/wiki/Gold_medal), [Silver](https://en.wikipedia.org/wiki/Silver_medal) and [Bronze](https://en.wikipedia.org/wiki/Bronze_medal) [medals](https://en.wikipedia.org/wiki/Medal) to the deserving [[3]](#cite_note-3). The First Computer Olympiad was associated by the [Heuristic Programming in Artificial Intelligence](1st_Computer_Olympiad#Workshop "1st Computer Olympiad") workshop, with proceedings edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published by Ellis Horwood [[4]](#cite_note-4).
 
-## Contents
-
-- [1 Results](#Results)
-  - [1.1 Awari](#Awari)
-  - [1.2 Backgammon](#Backgammon)
-  - [1.3 Bridge](#Bridge)
-  - [1.4 Checkers](#Checkers)
-  - [1.5 Chess](#Chess)
-    - [1.5.1 Final Standing](#Final_Standing)
-    - [1.5.2 Participants](#Participants)
-    - [1.5.3 Selected Games](#Selected_Games)
-    - [1.5.4 See also](#See_also)
-  - [1.6 Chinese Chess](#Chinese_Chess)
-  - [1.7 Connect Four](#Connect_Four)
-  - [1.8 Dominoes](#Dominoes)
-  - [1.9 Draughts](#Draughts)
-  - [1.10 Go](#Go)
-    - [1.10.1 19x19](#19x19)
-    - [1.10.2 9x9](#9x9)
-  - [1.11 Gomoku](#Gomoku)
-  - [1.12 Othello](#Othello)
-  - [1.13 Renju](#Renju)
-  - [1.14 Scrabble](#Scrabble)
-- [2 Publications](#Publications)
-  - [2.1 Reports](#Reports)
-  - [2.2 Heuristic Programming in AI](#Heuristic_Programming_in_AI)
-    - [2.2.1 Tournaments](#Tournaments)
-    - [2.2.2 Conference](#Conference)
-- [3 Forum Posts](#Forum_Posts)
-- [4 External Links](#External_Links)
-- [5 References](#References)
-
 ## Results
 
 ## [Awari](Awari "Awari")

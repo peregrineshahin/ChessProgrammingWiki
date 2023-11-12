@@ -6,16 +6,6 @@ title: Double Attack
 \[ Le duelliste à l'épée et au poignard <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **Double Attack** [attacks](Attacks "Attacks") two or more pieces or important squares simultaneously with one [move](Moves "Moves"), either by [forking](https://en.wikipedia.org/wiki/Fork_%28chess%29) with the moving piece, or at least by a single direct attack of the moving piece in conjunction with a [discovered attack](Discovered_Attack "Discovered Attack"). The so called royal knight fork winning the queen is most important, but like other double attacks involving [checks](Check "Check") already covered by usual move selection heuristics.
 
-## Contents
-
-- [1 Seeing Potential Forks](#seeing-potential-forks)
-  - [1.1 Knight and Pawn](#knight-and-pawn)
-  - [1.2 Sliding Pieces](#sliding-pieces)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Seeing Potential Forks
 
 Like a [skewer](Skewer "Skewer") or other [tactical threats](Tactical_Moves "Tactical Moves"), it might be nice to determine the availability of forks in advance, to either try those moves early, to don't [prune](Pruning "Pruning") or [reduce](Reductions "Reductions") them, or even to try them at the [horizon](Horizon_Node "Horizon Node") in [quiescence search](Quiescence_Search "Quiescence Search"). As always, it depends on the [board representation](Board_Representation "Board Representation") and the availability of appropriate data structures like [Attack and Defend Maps](Attack_and_Defend_Maps "Attack and Defend Maps"), whether additional effort in determination of fork pattern, what kind of pieces to consider etc., makes sense and pay off.

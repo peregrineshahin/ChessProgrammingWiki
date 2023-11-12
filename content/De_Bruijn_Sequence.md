@@ -5,31 +5,6 @@ title: De Bruijn Sequence
 
 In [combinatorial mathematics](https://en.wikipedia.org/wiki/Combinatorics), a **k**-ary **De Bruijn Sequence** B(k, n) of order **n**, named after the Dutch mathematician [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn"), is a cyclic sequence of a given alphabet **A** with size **k** for which every possible subsequence of length **n** in **A** appears as a sequence of consecutive characters exactly once <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In chess programming there are applications of de Bruijn sequences with the Binary alphabet, in [hashing](Hash_Table "Hash Table") sets like [Piece-Sets](Piece-Sets "Piece-Sets") or Square-sets, also called [Bitboards](Bitboards "Bitboards"), most notably in [Bit scanning](BitScan#DeBruijnMultiplation "BitScan") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Binary alphabet](#binary-alphabet)
-  - [1.1 B(2, 1)](#b.282.2c-1.29)
-  - [1.2 B(2, 2)](#b.282.2c-2.29)
-  - [1.3 B(2, 3)](#b.282.2c-3.29)
-  - [1.4 B(2, 4)](#b.282.2c-4.29)
-  - [1.5 B(2, 5)](#b.282.2c-5.29)
-  - [1.6 B(2, 6)](#b.282.2c-6.29)
-- [2 De Bruijn Graphs](#de-bruijn-graphs)
-  - [2.1 B(2, 4) Graph](#b.282.2c-4.29-graph)
-  - [2.2 De Bruijn Graph on a Chess Board](#de-bruijn-graph-on-a-chess-board)
-- [3 De Bruijn Networks](#de-bruijn-networks)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 1894](#1894)
-  - [5.2 1946](#1946)
-  - [5.3 1950 ...](#1950-...)
-  - [5.4 1970 ...](#1970-...)
-  - [5.5 1990 ...](#1990-...)
-  - [5.6 2000 ...](#2000-...)
-  - [5.7 2010 ...](#2010-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Binary alphabet
 
 According to De Bruijn himself <a id="cite-note-3" href="#cite-ref-3">[3]</a> , the existence of De Bruijn sequences were first proved, for the case of alphabets with two elements, by **Camille Flye Sainte-Marie** in 1894, whereas the generalization to larger alphabets is originally due to [Tanja van Ardenne-Ehrenfest](Mathematician#Ehrenfest "Mathematician") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and himself.

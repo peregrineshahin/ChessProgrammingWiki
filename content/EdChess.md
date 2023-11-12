@@ -12,13 +12,6 @@ over a period of three years, written entirely with [Aztec](https://en.wikipedia
 EdChess features a [semigraphics board](Graphics_Programming#Semigraphics "Graphics Programming"), drawing [squares](Squares "Squares") and [pieces](Pieces#ASCIIArt "Pieces") using IBM's [special character set](https://en.wikipedia.org/wiki/Code_page_437),
 and applies [alpha-beta](Alpha-Beta "Alpha-Beta") within an [iterative deepening](Iterative_Deepening "Iterative Deepening") loop.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Screenshot
 
 [](https://archive.org/details/msdos_Ed_Chess_1994)

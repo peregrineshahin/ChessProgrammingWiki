@@ -7,39 +7,6 @@ title: Chinese ChessEngines
 **Chinese Chess**, or **Xiangqi** 象棋 [[2]](#cite_note-2),\
 is a chess variant which is very popular in East Asia, especially in China and Vietnam. The Chinese Chess set includes a board and 32 pieces for two players. The board has ten horizontal lines called [ranks](Ranks "Ranks") and nine vertical lines called [files](Files "Files"). Pieces are located not in the cells but intersectional points of ranks and files which are 90 in total. In the middle of the board the central seven files are interrupted by a horizontal space called the “River”, which splits the board into two parts. Each side of the board has a “Palace” a 3x3 area in the central base. The two sides are usually distinguished by colors, traditional names are red or black [[3]](#cite_note-3) but now they can be called white and black as chess. Sometimes the Xiangqi board could be considered as the presentation of the war between two countries when the standard chess presents for a battle only.
 
-## Contents
-
-- [1 Pieces](#Pieces)
-- [2 Rules](#Rules)
-  - [2.1 Basic](#Basic)
-  - [2.2 3-Folk Rules](#3-Folk_Rules)
-- [3 Notations](#Notations)
-- [4 Programming](#Programming)
-- [5 Sub variants](#Sub_variants)
-- [6 Engines](#Engines)
-- [7 Computer Olympiads](#Computer_Olympiads)
-- [8 Photos](#Photos)
-- [9 Publications](#Publications)
-  - [9.1 1981 ...](#1981_...)
-  - [9.2 1990 ...](#1990_...)
-  - [9.3 2000 ...](#2000_...)
-  - [9.4 2005 ...](#2005_...)
-  - [9.5 2010 ...](#2010_...)
-  - [9.6 2015 ...](#2015_...)
-  - [9.7 2020 ...](#2020_...)
-- [10 Forum Posts](#Forum_Posts)
-  - [10.1 1994](#1994)
-  - [10.2 2000 ...](#2000_..._2)
-  - [10.3 2010 ...](#2010_..._2)
-  - [10.4 2015 ...](#2015_..._2)
-  - [10.5 2020 ...](#2020_..._2)
-- [11 External Links](#External_Links)
-  - [11.1 Chinese Chess](#Chinese_Chess)
-  - [11.2 Computer Chinese Chess](#Computer_Chinese_Chess)
-  - [11.3 Source Code](#Source_Code)
-  - [11.4 Xiangqi Cloud Database](#Xiangqi_Cloud_Database)
-- [12 References](#References)
-
 ## Pieces
 
 There are 7 types: King, Advisor, Elephant, Rook, Cannon, Horse, and Pawn. Typically those pieces are made from small, simple wood pieces which some symbols (new way) or Chinese characters (traditional way) written on them. As the Chinese characters, pieces on the white side may use different characters than their counterparts on the black side. They are the same pieces, but names on the White side are subtly more noble than those on the Black side [[4]](#cite_note-4).

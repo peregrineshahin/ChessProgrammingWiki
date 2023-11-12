@@ -10,18 +10,6 @@ a Canadian computer scientist and computer games researcher and developer, affil
 His research interests cover not only [games of chance](https://en.wikipedia.org/wiki/Game_of_chance) and incomplete information games like [Roshambo](https://en.wikipedia.org/wiki/Rock-paper-scissors), but also [abstract strategy games](https://en.wikipedia.org/wiki/Abstract_strategy), in particular [Lines of Action](Lines_of_Action "Lines of Action"), where his program [Mona](https://www.game-ai-forum.org/icga-tournaments/program.php?id=239) won the de facto world championship in 2000, defeating all of the top human players, and winning every game it played <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Darse Billings is creator and director of *The International RoShamBo Programming Competitions* <a id="cite-note-5" href="#cite-ref-5">[5]</a> , co-founder and lead architect for the *University of Alberta Computer Poker Research Group* <a id="cite-note-6" href="#cite-ref-6">[6]</a> , and designer of the [pokerbots](https://en.wikipedia.org/wiki/Computer_poker_players) *Loki, Poki, Sparbot, Vexbot, Hyperborean, [Polaris](https://en.wikipedia.org/wiki/Polaris_%28poker_bot%29), Maxwell, Qeqbot*, et al., commercially licenced beside others to *Poker Academy* <a id="cite-note-7" href="#cite-ref-7">[7]</a> and [Stacked](https://en.wikipedia.org/wiki/Stacked_with_Daniel_Negreanu) <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Selected Publication](#selected-publication)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1990 ...](#1990-...)
-  - [2.2 2000 ...](#2000-...-2)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publication
 
 <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>

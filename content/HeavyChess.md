@@ -8,17 +8,6 @@ title: HeavyChess
 
 an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "Category:Open Source") by [Chispa](Chispa "Chispa") author [Federico Andrés Corigliano](Federico_Andr%C3%A9s_Corigliano "Federico Andrés Corigliano"), written in [C++](Cpp "Cpp"), released in 2007 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Description
 
 ## Board Representation

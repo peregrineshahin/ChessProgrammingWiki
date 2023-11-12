@@ -8,15 +8,6 @@ title: ChiaHui Chang
 
 a Taiwanese computer scientist and full professor at Department of Computer Science and Information Engineering, [National Central University](https://en.wikipedia.org/wiki/National_Central_University), [Taoyuan, Taiwan](https://en.wikipedia.org/wiki/Taoyuan,_Taiwan). She received her B.Sc. and Ph.D. degrees in computer science and [information engineering](https://en.wikipedia.org/wiki/Information_engineering) from [National Taiwan University](National_Taiwan_University "National Taiwan University") in 1993 and 1999, respectively. Her research interests include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), [web intelligence](https://en.wikipedia.org/wiki/Web_intelligence), [information extraction](https://en.wikipedia.org/wiki/Information_extraction), [machine learning](Learning "Learning"), [data mining](https://en.wikipedia.org/wiki/Data_mining), and [knowledge discovery](https://en.wikipedia.org/wiki/Knowledge_extraction) from [databases](https://en.wikipedia.org/wiki/Database) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In 2015, along with [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), and [Bo-Han Lin](index.php?title=Bo-Han_Lin&action=edit&redlink=1 "Bo-Han Lin (page does not exist)"), she published on *Job-Level Alpha-Beta Search* proposing a distributed job level [alpha-beta](Alpha-Beta "Alpha-Beta") (JL-ABS) search algorithm based on a [best-first search](Best-First "Best-First") version of [MTD(f)](</MTD(f)> "MTD(f)"), which was demonstrated by using it in an [opening book](Opening_Book "Opening Book") analysis for [Chinese Chess](Chinese_Chess "Chinese Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1997 ...](#1997-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

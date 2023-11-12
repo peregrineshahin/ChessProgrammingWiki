@@ -12,34 +12,6 @@ Starting from random play, and given no domain knowledge except the game rules, 
 This neural network takes the board position as input and outputs a vector of move probabilities (policy) and a position evaluation. Once trained, these network is combined with a [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) using the policy to narrow down the search to high ­probability moves, and using the value in conjunction with a fast rollout policy to evaluate positions in the tree. The selection is done by a variation of [Rosin's](Christopher_D._Rosin "Christopher D. Rosin") [UCT](UCT "UCT") improvement dubbed [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin").
 | „Zeroist die Stille. Zero ist derAnfang. Zero ist rund. Zero dreht sich.Zero ist der Mond. Die Sonne ist Zero.Zero ist weiss. Die Wüste Zero. Der Himmelüber Zero. Die Nacht –, Zero fließt. Das AugeZero. Nabel. Mund. Kuß. Die Milch ist rund. DieBlume Zero der Vogel. Schweigend. Schwebend. Ichesse Zero, ich trinke Zero, ich schlafe Zero, ich wacheZero, ich liebe Zero. Zero ist schön, dynamo, dynamo,dynamo. Die Bäume im Frühling, der Schnee, Feuer,Wasser, Meer. Rot orange gelb grün indigo blau violettZero Zero Regenbogen. 4 3 2 1 Zero. Gold undSilber, Schall und Rauch. Wanderzirkus Zero.Zero ist die Stille. Zero ist der Anfang.Zero ist rund. Zero istZero.“  [[5]](#cite_note-5) |
 
-## Contents
-
-- [1 Network Architecture](#Network_Architecture)
-- [2 Training](#Training)
-- [3 Stockfish Match](#Stockfish_Match)
-- [4 See also](#See_also)
-- [5 Publications](#Publications)
-  - [5.1 2017](#2017)
-  - [5.2 2018](#2018)
-  - [5.3 2019](#2019)
-  - [5.4 2020 ...](#2020_...)
-- [6 Forum Posts](#Forum_Posts)
-  - [6.1 2017](#2017_2)
-  - [6.2 2018](#2018_2)
-  - [6.3 2019](#2019_2)
-  - [6.4 2020 ...](#2020_..._2)
-- [7 Blog Posts](#Blog_Posts)
-- [8 External Links](#External_Links)
-  - [8.1 OpenSpiel](#OpenSpiel)
-  - [8.2 Reports](#Reports)
-    - [8.2.1 2017](#2017_3)
-    - [8.2.2 2018 ...](#2018_...)
-  - [8.3 Stockfish Match](#Stockfish_Match_2)
-    - [8.3.1 Round 1](#Round_1)
-    - [8.3.2 Round 2, 3](#Round_2.2C_3)
-  - [8.4 Misc](#Misc)
-- [9 References](#References)
-
 ## Network Architecture
 
 The [deep neural network](Neural_Networks#Deep "Neural Networks") consists of a “body” with input and hidden layers of spatial NxN planes, [8x8 board](8x8_Board "8x8 Board") arrays for chess, followed by both policy and value “heads” [[6]](#cite_note-6) [[7]](#cite_note-7).

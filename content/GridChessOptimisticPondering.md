@@ -9,23 +9,6 @@ title: GridChessOptimisticPondering
 a prototypical implementation of a twofold [distributed game-tree search](Parallel_Search "Parallel Search") approach.
 [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") (YBWC) parallelized chess programs running on a [cluster](https://en.wikipedia.org/wiki/Computer_cluster), where optimistic [pondering](Pondering "Pondering") performs a second parallel approach on top of several clusters which can be used to achieve a further speedup.
 
-## Contents
-
-- [1 Cluster Toga](#cluster-toga)
-- [2 Optimistic Pondering](#optimistic-pondering)
-- [3 Ph.D. Project](#ph.d.-project)
-- [4 Description](#description)
-- [5 Tournament Play](#tournament-play)
-- [6 Selected Games](#selected-games)
-- [7 Authors](#authors)
-- [8 See also](#see-also)
-- [9 Publications](#publications)
-- [10 Forum Posts](#forum-posts)
-- [11 External Links](#external-links)
-  - [11.1 Chess Entity](#chess-entity)
-  - [11.2 Misc](#misc)
-- [12 References](#references)
-
 ## Cluster Toga
 
 *see main article [Cluster Toga](Cluster_Toga "Cluster Toga")*.

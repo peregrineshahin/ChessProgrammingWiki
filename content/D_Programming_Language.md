@@ -11,17 +11,6 @@ The first stable version was released 2007. Walter Bright designed many other co
 [Andrej Alexandrescu](https://en.wikipedia.org/wiki/Andrei_Alexandrescu) joined the design and development effort in 2007. D is a distinct language and has redesigned some core C++ features, while also sharing characteristics from [Java](Java "Java"), [Python](Python "Python"), [Ruby](index.php?title=Ruby&action=edit&redlink=1 "Ruby (page does not exist)"), [C#](C_sharp "C sharp"), and [Eiffel](<https://en.wikipedia.org/wiki/Eiffel_(programming_language)>) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 D is in the Top 20 of the [TIOBE index](https://en.wikipedia.org/wiki/TIOBE_index) <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
-## Contents
-
-- [1 Design Principles](#design-principles)
-- [2 Native Features](#native-features)
-- [3 Suitable for Chess Programming](#suitable-for-chess-programming)
-- [4 D Engines](#d-engines)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Design Principles
 
 The design principles have been to write a compiler for a language that:

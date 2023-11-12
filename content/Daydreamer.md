@@ -10,25 +10,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 also able to play [Chess960](Chess960 "Chess960"). Developed since early 2009, the program was named Daydreamer after a bug in an early version caused it to occasionally follow up very strong play with bizarre blunders, as though it had lost its focus on the game and its mind was wandering aimlessly.
 First released in August 2009 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, it initially used [Tomasz Michniewski's](Tomasz_Michniewski "Tomasz Michniewski") [simplified evaluation function](Simplified_Evaluation_Function "Simplified Evaluation Function"), while subsequent versions were rapidly improving since mid 2010. DayDreamer played the [CCT12](CCT12 "CCT12") and [ACCA 2010](ACCA_2010 "ACCA 2010") online tournaments.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Opening Book](#opening-book)
-  - [1.4 Endgame Tablebases](#endgame-tablebases)
-  - [1.5 Evaluation](#evaluation)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2009](#2009)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 ## Board Representation

@@ -8,17 +8,6 @@ title: Clobber
 
 a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy_game) [partisan game](https://en.wikipedia.org/wiki/Partisan_game) invented and introduced in 2001 at a [combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory) workshop in [Halifax](https://en.wikipedia.org/wiki/Halifax_Regional_Municipality) by [Michael H. Albert](index.php?title=Michael_H._Albert&action=edit&redlink=1 "Michael H. Albert (page does not exist)"), [J. P. Grossman](index.php?title=J._P._Grossman&action=edit&redlink=1 "J. P. Grossman (page does not exist)"), and [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"). The first competitive Clobber tournament was held in February at the [Dagstuhl](https://en.wikipedia.org/wiki/Dagstuhl) seminar on algorithmic combinatorial game theory <a id="cite-note-2" href="#cite-ref-2">[2]</a> , where the games were played on a 5x6 board, later computer tournaments include 8x8 and 10x10 boards, initially, each square occupied by a white or black stone, arranged so that the colors alternate. Both player moves in turn and "clobbering" an opponent's stone on an orthogonally adjacent square. White starts and the player with no more moves available loses. The [ICGA](ICGA "ICGA") organizes Clobber tournaments since 2005 during the [Olympiads](Computer_Olympiad "Computer Olympiad") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. So far, most successful is [Johan de Koning's](Johan_de_Koning "Johan de Koning") program [Pan](https://www.game-ai-forum.org/icga-tournaments/program.php?id=169) ([Pan.exe](https://www.game-ai-forum.org/icga-tournaments/program.php?id=641)).
 
-## Contents
-
-- [1 Computer Olympiads](#computer-olympiads)
-- [2 Photos](#photos)
-- [3 Publications](#publications)
-  - [3.1 2000 ...](#2000-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## [Computer Olympiads](Computer_Olympiad "Computer Olympiad")
 
 - [10th Computer Olympiad, Taipei 2005](10th_Computer_Olympiad#Clobber "10th Computer Olympiad")

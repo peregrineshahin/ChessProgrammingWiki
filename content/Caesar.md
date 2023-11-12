@@ -8,13 +8,6 @@ title: Caesar
 
 an early microcomputer chess program written by [John Lowe](index.php?title=John_Lowe&action=edit&redlink=1 "John Lowe (page does not exist)"), apparently in [Z80](Z80 "Z80") [assembly](Assembly "Assembly"). Caesar played the [2nd European Microcomputer Chess Championship](European_MCC_1981 "European MCC 1981") in 1981, and the [4th European Microcomputer Chess Championship](European_MCC_1983 "European MCC 1983") 1983 in [London](https://en.wikipedia.org/wiki/London), running on a [TRS-80](TRS-80 "TRS-80") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Horizon Effect](#horizon-effect)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Brutus](Brutus "Brutus")

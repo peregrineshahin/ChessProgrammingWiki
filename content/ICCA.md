@@ -5,13 +5,6 @@ title: ICCA
 
 **ICCA** - International Computer Chess Association founded in [1977](Timeline#1977 "Timeline") - the predecessor of the [ICGA](ICGA "ICGA"), the International Computer Games Association.
 
-## Contents
-
-- [1 ICCA Presidents](#icca-presidents)
-- [2 The ICCA/ICGA Journal](#the-icca.2ficga-journal)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-
 ## ICCA Presidents
 
 |  President

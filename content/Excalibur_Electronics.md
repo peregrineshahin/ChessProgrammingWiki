@@ -14,23 +14,6 @@ and became engineering vice president for Excalibur Electronics <a id="cite-note
 In 2009, Excalibur Electronics, Inc. was merged into [Cortec's](https://en.wikipedia.org/wiki/Cortec_Group) affiliate *EB Brands, LLC*  in an internal reorganization as *EB Excalibur*
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 People](#people)
-- [2 Selected Chess Computers](#selected-chess-computers)
-- [3 World Chess Hall of Fame](#world-chess-hall-of-fame)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 2008 ...](#2008-...)
-  - [6.2 2010 ...](#2010-...)
-- [7 External Links](#external-links)
-  - [7.1 Company](#company)
-  - [7.2 World Chess Hall of Fame](#world-chess-hall-of-fame-2)
-  - [7.3 Chess Computers](#chess-computers)
-  - [7.4 Misc](#misc)
-- [8 References](#references)
-
 ## People
 
 - [Terry Everett](Terry_Everett "Terry Everett")

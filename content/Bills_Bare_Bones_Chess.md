@@ -10,16 +10,6 @@ a [WinBoard](WinBoard "WinBoard") compliant, didactic [open source chess program
 Bills Bare Bones Chess utilizes a one-dimensional [8x8 board](8x8_Board "8x8 Board"), and applies [alpha-beta](Alpha-Beta "Alpha-Beta") search with [transposition table](Transposition_Table "Transposition Table"), [check extensions](Check_Extensions "Check Extensions"), [capture search](Quiescence_Search "Quiescence Search") and [history heuristic](History_Heuristic "History Heuristic") inside the [iterative deepening](Iterative_Deepening "Iterative Deepening") loop.
 The simple [evaluation](Evaluation "Evaluation") relies on [material](Material "Material"), [piece-square tables](Piece-Square_Tables "Piece-Square Tables") and [pawn structure](Pawn_Structure "Pawn Structure") scores.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Blog Posts](#blog-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Awesome](Awesome "Awesome")

@@ -8,16 +8,6 @@ title: Advances in Computer Chess 2
 \[ [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings) seen from the [Braid Hills](https://en.wikipedia.org/wiki/Braid_Hills) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Advances in Computer Chess 2** conference was hosted by the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") and held at [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh), [Scotland](https://en.wikipedia.org/wiki/Scotland), on April 10-11, [1978](Timeline#1978 "Timeline"). [Proceedings](https://en.wikipedia.org/wiki/Proceedings) were published in 1980, edited by [Mike Clarke](Mike_Clarke "Mike Clarke").
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 Announcement](#announcement)
-- [4 Reviews](#reviews)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Proceedings
 
 - Advances in Computer Chess 2

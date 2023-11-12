@@ -9,15 +9,6 @@ title: Elektro
 an [UCI](UCI "UCI") compliant chess engine by [Roberto Munter](Roberto_Munter "Roberto Munter") alias Dr. Otto Schmidt, derived from [Igorrit](Igorrit "Igorrit") of the [Ippolit](Ippolit "Ippolit") series of programs, written for mere personal entertainment <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The Elektro Chess Engine site <a id="cite-note-3" href="#cite-ref-3">[3]</a> introduces the engine as a parody of the pseudo [Soviet propaganda](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union) of the pseudonym Ippolit authors and [comrades](https://en.wikipedia.org/wiki/Comrade) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Elektronika IM](Elektronika_IM "Elektronika IM")

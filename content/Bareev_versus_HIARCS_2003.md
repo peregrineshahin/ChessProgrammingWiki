@@ -8,15 +8,6 @@ title: Bareev versus HIARCS 2003
 
 between [Evgeny Bareev](https://en.wikipedia.org/wiki/Evgeny_Bareev) (2729 and world's number eight player, peak rating of 2739, and world's number 4 in October 2003 <a id="cite-note-2" href="#cite-ref-2">[2]</a>) and [HIARCS 8X](HIARCS "HIARCS") took place in [Centre Céramique](https://nl.wikipedia.org/wiki/Centre_C%C3%A9ramique), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands), from January 28 to 31, [2003](Timeline#2003 "Timeline"). The four games match was organized by the Chess Events Maastricht Foundation <a id="cite-note-3" href="#cite-ref-3">[3]</a>. HIARCS 8X operated by its author [Mark Uniacke](Mark_Uniacke "Mark Uniacke") ran on an [AMD](AMD "AMD") [Athlon](X86 "X86") 2.0 GHz with 1GiB [RAM](Memory#RAM "Memory") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. After four draws, the match ended in a 2-2 tie.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos & Games
 
 [](File:Bareevhiarcs4.jpg "Evgeny Bareev and Mark Uniacke after HIARCS 1.e4 [5] [6]")

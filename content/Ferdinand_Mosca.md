@@ -11,18 +11,6 @@ the [Capablanca Chess](index.php?title=Capablanca_Chess&action=edit&redlink=1 "C
 the [Shogi](Shogi "Shogi") engine [Siyam](index.php?title=Siyam&action=edit&redlink=1 "Siyam (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
 and the mini Shogi engine [Lima](index.php?title=Lima&action=edit&redlink=1 "Lima (page does not exist)") which played a strong UEC Cup in 2015 <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Chess Game Analyzer](#chess-game-analyzer)
-- [2 Chess Artist](#chess-artist)
-- [3 aiBloodshed](#aibloodshed)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2010 ...](#2010-...)
-  - [4.2 2015 ...](#2015-...)
-  - [4.3 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Chess Game Analyzer
 
 In Fall 2015, Ferdinand Mosca introduced his *Chess Game Analyzer*, a [command line](CLI "CLI") [PGN tool](Utilities#PGN "Utilities"), working on [pgn files](Portable_Game_Notation "Portable Game Notation") as input and output, with scores, variations and annotations added as pgn comments after analyzing the games with an engine. The *Chess Game Analyzer* is written in [Python](Python "Python") using the [python-chess](Python-chess "Python-chess") library to parse [moves](Moves "Moves") and [positions](Chess_Position "Chess Position") of the pgn file <a id="cite-note-8" href="#cite-ref-8">[8]</a>. In December 2016, Ferdinand Mosca announced the *Chess Game Analyzer* [GUI](GUI "GUI") <a id="cite-note-9" href="#cite-ref-9">[9]</a>.

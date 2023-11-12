@@ -9,15 +9,6 @@ title: Delta GB
 a microcomputer chess program by [Dave Wilson](Dave_Wilson "Dave Wilson") which participated at the [PCW-MCC 1979](PCW-MCC_1979 "PCW-MCC 1979") as part of the [Personal Computer World](Personal_Computer_World "Personal Computer World") exhibition, [London](https://en.wikipedia.org/wiki/London) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Wilson later joint forces with [Mike Johnson](Mike_Johnson "Mike Johnson"), and Delta and [Mike](Mike "Mike") were incorporated into their [bit sliced](https://en.wikipedia.org/wiki/Bit_slicing) system [Advance](Advance "Advance") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Namesake
 
 - [Delta](Delta "Delta") by [Fré Felkers](Fr%C3%A9_Felkers "Fré Felkers")

@@ -10,14 +10,6 @@ a Hungarian <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" h
 As computer chess programmer, George is author the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine [Bestia](Bestia "Bestia"), two times winner of the [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open") in [2001](MASPV_2001 "MASPV 2001") and [2003](MASPV_2003 "MASPV 2003").
 He has further created various [PGN](Portable_Game_Notation "Portable Game Notation") and [WinBoard](WinBoard "WinBoard") related tools to run under MS-DOS, i.e. to recreate PGN from the WinBoard debug file <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

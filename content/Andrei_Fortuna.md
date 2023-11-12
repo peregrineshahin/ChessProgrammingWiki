@@ -11,12 +11,6 @@ a Romanian software developer and [freelancer](https://en.wikipedia.org/wiki/Fre
 Andrei is author the [WinBoard](WinBoard "WinBoard") programs *Chess176* <a id="cite-note-3" href="#cite-ref-3">[3]</a> and the [open source chess engine](Category:Open_Source "Category:Open Source") [Freyr](Freyr "Freyr").
 In 2001, Andrei developed the [CCC](CCC "CCC") Web search engine of the pre 2006 forum software <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [New Winboard Program](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30905&p=117120) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2000

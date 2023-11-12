@@ -10,13 +10,6 @@ In 1967/68, as postdoc at [ETH Zurich](ETH_Zurich "ETH Zurich"), along with [Ger
 The computer was basically used for calculations to design [magnets](https://en.wikipedia.org/wiki/Electromagnet) for a [cyclotron](https://en.wikipedia.org/wiki/Cyclotron) they were building and they used some extra weekend computer time for their work on chess <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 In 1968, they asked [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") for a match versus [Mac Hack VI](Mac_Hack "Mac Hack"). [Three games](Charly#ETHMIT "Charly") were played in October and November 1968 via [ham radio](https://en.wikipedia.org/wiki/Amateur_radio), all won by Mac Hack VI <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Horizon Effect](#horizon-effect)
-- [2 Nuclear Energy](#nuclear-energy)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Horizon Effect
 
 Gerald Tripard in a 2010 letter <a id="cite-note-5" href="#cite-ref-5">[5]</a> on his time at [ETH Zurich](ETH_Zurich "ETH Zurich"), his chess program [Charly](Charly "Charly"), and the match versus [Mac Hack VI](Mac_Hack "Mac Hack") in 1968, and the [Horizon Effect](Horizon_Effect "Horizon Effect") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:

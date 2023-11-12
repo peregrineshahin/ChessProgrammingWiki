@@ -6,32 +6,6 @@ title: Chess Engine Communication Protocol
 **Chess Engine Communication Protocol** (CECP),\
 also dubbed the **XBoard** or **WinBoard** protocol after the eponymous [XBoard](XBoard "XBoard") or [WinBoard](WinBoard "WinBoard") [graphical user interfaces](GUI "GUI") (GUI), is an open [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for chess engines to play [games](Chess_Game "Chess Game") automatically, that is to communicate with other chess playing entities.
 
-## Contents
-
-- [1 GUI](#gui)
-- [2 How it began](#how-it-began)
-- [3 UML State diagram](#uml-state-diagram)
-- [4 Version 2](#version-2)
-- [5 Pros and Cons](#pros-and-cons)
-  - [5.1 Pros](#pros)
-  - [5.2 Cons](#cons)
-- [6 Engines](#engines)
-- [7 GUIs](#guis)
-  - [7.1 Native](#native)
-  - [7.2 Compatible](#compatible)
-- [8 Utilities](#utilities)
-- [9 See also](#see-also)
-- [10 Forum Posts](#forum-posts)
-  - [10.1 1990 ...](#1990-...)
-  - [10.2 1995 ...](#1995-...)
-  - [10.3 2000 ...](#2000-...)
-  - [10.4 2005 ...](#2005-...)
-  - [10.5 2010 ...](#2010-...)
-  - [10.6 2015 ...](#2015-...)
-  - [10.7 2020 ...](#2020-...)
-- [11 External Links](#external-links)
-- [12 References](#references)
-
 ## GUI
 
 A [GUI](GUI "GUI") supporting the protocol is known as [XBoard](XBoard "XBoard") or [WinBoard](WinBoard "WinBoard"), being for [Unix](Unix "Unix") (Posix) or [Windows](Windows "Windows") operating systems, respectively. Many other GUIs support the protocol, which is based on text commands, while requiring the engine to keep the state of the game internally. While the [Universal Chess Interface](UCI "UCI") is somewhat more popular today, the Chess Engine Communication Protocol protocol is preferred by some because it allows greater flexibility for the engine (for instance, in [pondering](Pondering "Pondering")).

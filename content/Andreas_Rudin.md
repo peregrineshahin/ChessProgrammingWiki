@@ -13,13 +13,6 @@ and in 1975 on the design of a [Pan-European](https://en.wikipedia.org/wiki/Pan-
 In 1974, he won the third prize in computer science and mathematics with his chess program [Charlie](Charlie "Charlie"), which futher competed at the [First GI Computer Chess Tournament](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament") 1975 in [Dortmund](https://en.wikipedia.org/wiki/Dortmund) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 and the [First European Computer Chess Championship](ECCC_1976 "ECCC 1976") 1976 in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html)

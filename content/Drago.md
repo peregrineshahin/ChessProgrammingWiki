@@ -11,15 +11,6 @@ title: Drago
 Drago, as well as Raffaela use Stefano Gemma's reinvention of [Alpha-Beta](Alpha-Beta "Alpha-Beta"), dubbed **AlfaGemma** <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 They convince with an impressive speed in [nodes per second](Nodes_per_Second "Nodes per Second"), but especially due to the lack of [quiescence search](Quiescence_Search "Quiescence Search"), are somewhat restricted in [playing strength](Playing_Strength "Playing Strength") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Freccia](Freccia "Freccia")

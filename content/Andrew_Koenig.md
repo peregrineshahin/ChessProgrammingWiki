@@ -8,14 +8,6 @@ title: Andrew Koenig
 
 an American computer scientist and musician. Until his retirement from [AT&T](Bell_Laboratories "Bell Laboratories") in 2003, he was project editor of the [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)/[ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) standards committee for [C++](Cpp "Cpp"), and published a lot about design and programming issues in C++ <a id="cite-note-2" href="#cite-ref-2">[2]</a> . As a musician, he is mostly self-taught and started playing the [recorder](https://en.wikipedia.org/wiki/Recorder) as a child, picked up other instruments ([guitar](https://en.wikipedia.org/wiki/Guitar), [gemshorn](https://en.wikipedia.org/wiki/Gemshorn), [voice](https://en.wikipedia.org/wiki/Human_voice), [percussion](https://en.wikipedia.org/wiki/Percussion_instrument)) along the way, and studied [music theory](https://en.wikipedia.org/wiki/Music_theory) at [Columbia University](Columbia_University "Columbia University") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 CCCP](#cccp)
-- [2 Accelerated C++](#accelerated-c.2b.2b)
-- [3 Selected Publications](#selected-publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## CCCP
 
 In 1970/71, while affiliated with Columbia, along with [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), and [Ben Yalow](Ben_Yalow "Ben Yalow"), he co-authored the chess program [CCCP](</CCCP_(US)> "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> .

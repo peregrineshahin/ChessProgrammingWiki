@@ -9,18 +9,6 @@ title: Daniel Homan
 an American [astrophysicist](https://en.wikipedia.org/wiki/Astrophysics) and associate professor at [Denison University](https://en.wikipedia.org/wiki/Denison_University), [Granville, Ohio](https://en.wikipedia.org/wiki/Granville,_Ohio).
 He received his Ph.D. in [physics](https://en.wikipedia.org/wiki/Physics) from [Brandeis University](https://en.wikipedia.org/wiki/Brandeis_University) in 1999. As avocational computer chess programmer Daniel Homan is author of the experimental [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compatible chess engine [EXchess](EXchess "EXchess") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1997 ...](#1997-...)
-  - [2.2 2000 ...](#2000-...-2)
-  - [2.3 2010 ...](#2010-...-2)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 ## 2000 ...

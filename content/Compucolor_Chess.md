@@ -9,13 +9,6 @@ title: Compucolor Chess
 an early chess program written in [8080](8080 "8080") [assembly](Assembly "Assembly") for the [Compucolor](index.php?title=Compucolor&action=edit&redlink=1 "Compucolor (page does not exist)") and [Compucolor II](index.php?title=Compucolor&action=edit&redlink=1 "Compucolor (page does not exist)") [home computers](https://en.wikipedia.org/wiki/Home_computer),
 sold on [cassette tapes](https://en.wikipedia.org/wiki/Compact_Cassette) <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Compucolor Chess played the [Second West Coast Computer Faire Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") in March 1978 in the "8K or more of memory class A" <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Graphics Characters](#graphics-characters)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Graphics Characters
 
 The Compucolor II had 64 special [graphics characters](https://en.wikipedia.org/wiki/Graphic_character) which are also available have a resolution of 384 x 256. The whole set can be seen in an accompanying photograph and they include [chess pieces](Pieces#Drawing "Pieces") and card suits.

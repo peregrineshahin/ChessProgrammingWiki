@@ -8,13 +8,6 @@ title: Chess Partner 2000
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") developed by [Philidor Software](Philidor_Software "Philidor Software"), manufactured by [SciSys](Saitek "Saitek"), and distributed by SciSys and [Novag](Novag "Novag") in 1980. The computer has a [Fairchild F8](Fairchild_F8 "Fairchild F8") processor, 4 KiB [ROM](Memory#ROM "Memory") and 320 Byte [RAM](Memory#RAM "Memory") and ran a program by [Mike Johnson](Mike_Johnson "Mike Johnson") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and was the second [Sensory Board](Sensory_Board "Sensory Board") chess computer to be produced, six months after the the [Fidelity CC Sensory Voice](Chess_Challenger "Chess Challenger") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Chess Partner 2000 played the [Chess Programs World Tournament in Personal Computers](CPWTIPC_1981 "CPWTIPC 1981") in [Paris](https://en.wikipedia.org/wiki/Paris).
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Champion Pocket Chess](Chess_Champion_Pocket_Chess "Chess Champion Pocket Chess")

@@ -8,14 +8,6 @@ title: Chess Player 21502175
 
 a commercial chess program developed by [Chris Whittington](Chris_Whittington "Chris Whittington") in 1989, marketed by his company [Oxford Softworks](Oxford_Softworks "Oxford Softworks"). The program ran on various most [68000](68000 "68000") based platforms, like [Atari ST](Atari_ST "Atari ST") and [Commodore Amiga](Amiga "Amiga"), and the 2175 version was also ported to run on [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh") and [8086](8086 "8086") [PCs](IBM_PC "IBM PC"). According to [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), Chess Player 2150 used a [selective](Selectivity "Selectivity") [Shannon Type B Strategy](Type_B_Strategy "Type B Strategy"), with its immanent affinity to blunder once in a game <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Chess Player 2150, played the [1st Computer Olympiad 1989](1st_Computer_Olympiad#Chess "1st Computer Olympiad").
 
-## Contents
-
-- [1 Chess Player 2175](#chess-player-2175)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Chess Player 2175
 
 The successor, the **Chess Player 2175**, also commercially called **Chess Champion 2175** and **Checkmate** <a id="cite-note-3" href="#cite-ref-3">[3]</a> played the [2nd Computer Olympiad 1990](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad"), won the Bronze medal at the [3rd Computer Olympiad 1991](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad"), but suffered from a [promotion](Promotions "Promotions") [bug](Engine_Testing#bugs "Engine Testing") at the [4th Computer Olympiad 1992](4th_Computer_Olympiad#Chess "4th Computer Olympiad") and later withdrew from the tournament <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

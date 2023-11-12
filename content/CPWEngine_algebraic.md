@@ -3,14 +3,6 @@ title: CPWEngine algebraic
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Algebraic**
 
-## Contents
-
-- [1 Description](#description)
-- [2 Code](#code)
-  - [2.1 int convert_0x88_a(sq, a)](#int-convert-0x88-a.28sq.2c-a.29)
-  - [2.2 int convert_a_0x88(a)](#int-convert-a-0x88.28a.29)
-  - [2.3 int algebraic_moves(a)](#int-algebraic-moves.28a.29)
-
 ## Description
 
 When communicating with the [GUI](GUI "GUI"), the Engine is supposed to use the [algebraic game notation](Algebraic_Chess_Notation "Algebraic Chess Notation"). The code on this page is used to translate the positions in the engine native form to the GUI friendly representation and back again.

@@ -8,13 +8,6 @@ title: Ed Northam
 
 was an American mathematician, physicist, computer scientist and chess player. He earned a B.Sc. in Mathematics and M.Sc. in Physics from the [University of Michigan](University_of_Michigan "University of Michigan") in [Ann Arbor](https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan), and received a Ph.D. in Mathematics from [Michigan State University](Michigan_State_University "Michigan State University") in 1953. He was professor for Mathematics and CS at the [University of Maine](https://en.wikipedia.org/wiki/University_of_Maine) from 1964 until his retirement in 1991.
 
-## Contents
-
-- [1 Chess](#chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Chess
 
 Ed Northam was an avid chess player, competing in tournaments in the 1950s and 1960s and conducting research into [chess game variants](Games#ChessVariants "Games") including [Chess960](Chess960 "Chess960") where he created new methods that can be used by players to determine the starting positions of their pieces. He also enjoyed the game of [Go](Go "Go"). His colleagues in computer chess included [Hans Berliner](Hans_Berliner "Hans Berliner") and [Danny Kopec](Danny_Kopec "Danny Kopec"). All three were involved in producing a taxonomy of concepts for evaluating chess [strength](Playing_Strength "Playing Strength"), resulting from [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6") conference held in August 1990 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> .

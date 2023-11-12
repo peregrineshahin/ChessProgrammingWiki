@@ -11,14 +11,6 @@ EtaBeta, written in [Visual Basic](Basic "Basic"), is not a conventional [alpha-
 [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti") on EtaBeta: "This program is the most original I know of, and the only one with the evaluation of a move as written comment on why the move is good or not.
 Unfortunately, the search of Etabeta is too shallow compared to more traditional algorithms, and often remains victim of [combinations](Combination "Combination") it realizes too late" <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Misc](#misc)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Re: Looking for a Random Mover](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50695&start=20#p192582) by [Stephan Vermeire](Stephan_Vermeire "Stephan Vermeire"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 15, 2010

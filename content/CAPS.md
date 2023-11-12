@@ -8,21 +8,6 @@ title: CAPS
 
 [Hans Berliner's](Hans_Berliner "Hans Berliner") experimental chess program which was subject of his 1974 Ph.D. thesis *Chess as Problem Solving: The Development of a Tactics Analyser* at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, further eloborated at the [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") conference <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and, along with [B\*](B* "B*"), in a Panel on Computer Game Playing <a id="cite-note-4" href="#cite-ref-4">[4]</a>. CAPS is a [selective](Selectivity "Selectivity"), [knowledge](Knowledge "Knowledge") driven [depth-first](Depth-First "Depth-First") [alpha-beta](Alpha-Beta "Alpha-Beta") searcher in the domain of [chess tactics](Tactics "Tactics"). A [position](Chess_Position "Chess Position") is represented as [vector](Array "Array") of 1040 words of information, including the [list](Move_List "Move List") of [generated](Move_Generation "Move Generation") [pseudo-legal moves](Pseudo-Legal_Move "Pseudo-Legal Move"), kept on a [stack](Stack "Stack") of up to 20 [ply](Ply "Ply").
 
-## Contents
-
-- [1 CAPS-II](#caps-ii)
-- [2 Refutation Description](#refutation-description)
-- [3 Causality Facility](#causality-facility)
-- [4 Method of Analogies](#method-of-analogies)
-- [5 Quotes](#quotes)
-- [6 See also](#see-also)
-- [7 Publications](#publications)
-- [8 Forum Posts](#forum-posts)
-- [9 External Links](#external-links)
-  - [9.1 Caps](#caps)
-  - [9.2 Cap](#cap)
-- [10 References](#references)
-
 ## CAPS-II
 
 **CAPS-II** was tested on many middle-game chess tactics problems from standard textbooks on chess. It played a few complete games of chess. In both these modes it ran with a maximum depth of 10 ply. CAPS-II did not do too well in the games, since it had little positional knowledge, and more importantly the tactics mechanisms were still not completed, causing it to make occasional blunders which would wipe out whatever good it had achieved earlier. However, it did quite well on the tactics problems such as [Reinfeld's](https://en.wikipedia.org/wiki/Fred_Reinfeld) [Win at Chess](Win_at_Chess "Win at Chess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

@@ -10,15 +10,6 @@ a chess program by [Nils Barricelli](Nils_Barricelli "Nils Barricelli"). It part
 
 Barricelli, at that time affiliated with the [Oslo University](https://en.wikipedia.org/wiki/University_of_Oslo) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, had already experience in chess programming for his [Symbioorganisms](Nils_Barricelli#Symbioorganisms "Nils Barricelli") experiments at [University of Manchester](University_of_Manchester "University of Manchester") in 1962, where [Alex Bell](Alex_Bell "Alex Bell") worked for him and wrote his first [legal-move generator](Move_Generation#Legal "Move Generation"). Freedom's [evaluation](Evaluation "Evaluation") was primary based on the ratio of own and opponents [mobility](Mobility "Mobility") aka number of [legal moves](Legal_Move "Legal Move").
 
-## Contents
-
-- [1 Quotes](#quotes)
-- [2 Freedom vs. CHAOS](#freedom-vs.-chaos)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Quotes
 
 [Tony Marsland](Tony_Marsland "Tony Marsland") mentioned Freedom, [Papa](Papa "Papa") and other programs participating the [WCCC 1974](WCCC_1974 "WCCC 1974") in his handwritten notes <a id="cite-note-3" href="#cite-ref-3">[3]</a> on the [Hayes](Jean_Hayes_Michie "Jean Hayes Michie") and [Levy](David_Levy "David Levy") book <a id="cite-note-4" href="#cite-ref-4">[4]</a> :

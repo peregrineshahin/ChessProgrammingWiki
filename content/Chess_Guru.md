@@ -8,14 +8,6 @@ title: Chess Guru
 
 a chess program designed and written by [Joël Rivat](Jo%C3%ABl_Rivat "Joël Rivat"). It was runner up at the [1995 French Computer Chess Championship](FCCC_1995 "FCCC 1995") (behind [Virtua Chess](Virtua_Chess "Virtua Chess")), and won the [1996 French Computer Chess Championship](FCCC_1996 "FCCC 1996"). Chess Guru further competed at the [WMCCC 1997](WMCCC_1997 "WMCCC 1997").
 
-## Contents
-
-- [1 Description](#description)
-- [2 External Links](#external-links)
-  - [2.1 Chess Engine](#chess-engine)
-  - [2.2 Guru](#guru)
-- [3 References](#references)
-
 ## Description
 
 given in 1997 from the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-2" href="#cite-ref-2">[2]</a> :

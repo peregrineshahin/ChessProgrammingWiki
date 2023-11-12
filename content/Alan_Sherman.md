@@ -10,15 +10,6 @@ an American computer scientist, [cryptographer](https://en.wikipedia.org/wiki/Cr
 He earned his M.Sc. and Ph.D. under [Ronald L. Rivest](Ronald_L._Rivest "Ronald L. Rivest") at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") in 1981 and 1987 respectively. His research interests include high-integrity [voting systems](https://en.wikipedia.org/wiki/Electoral_system), [information assurance](https://en.wikipedia.org/wiki/Information_assurance), [cryptology](https://en.wikipedia.org/wiki/Cryptography), and [discrete](https://en.wikipedia.org/wiki/Discrete_mathematics) [algorithms](Algorithms "Algorithms").
 Alan Sherman has been the faculty advisor of the UMBC Chess Club since 1991 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1982 ...](#1982-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

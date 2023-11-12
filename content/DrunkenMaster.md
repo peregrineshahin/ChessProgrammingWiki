@@ -9,16 +9,6 @@ title: DrunkenMaster
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard"), and since version 1.0 [UCI](UCI "UCI") compliant chess engine by [Marcus Prewarski](Marcus_Prewarski "Marcus Prewarski"), first released in January 2003, the last recent version 1.2 released in September 2004.
 DrunkenMaster then became dry and evolved to the [open source](Category:Open_Source "Category:Open Source") [UCI](UCI "UCI") engine [Diablo](Diablo "Diablo").
 
-## Contents
-
-- [1 Features](#features)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

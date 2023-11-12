@@ -6,19 +6,6 @@ title: DepthFirst
 \[ Depth-First Node order <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Depth-First** refers to [node](Node "Node") traversal algorithms of tree like data structures like [search trees](Search_Tree "Search Tree"). Depth-first examines child nodes before [siblings](Sibling_Node "Sibling Node") and can easily implemented with [recursion](Recursion "Recursion") using a [stack](Stack "Stack") of nodes. It therefor has moderate [memory](Memory "Memory") requirements, since only one path from the [root](Root "Root") to a [leaf](Leaf_Node "Leaf Node") is kept in memory, which grows proportional with [search depth](Depth "Depth").
 
-## Contents
-
-- [1 Depth-Limited Search](#depth-limited-search)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-  - [3.1 1970 ...](#1970-...)
-  - [3.2 1980 ...](#1980-...)
-  - [3.3 1990 ...](#1990-...)
-  - [3.4 2000 ...](#2000-...)
-  - [3.5 2010 ...](#2010-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Depth-Limited Search
 
 \[ Breadth-First Node order <a id="cite-note-2" href="#cite-ref-2">[2]</a>

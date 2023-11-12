@@ -7,19 +7,6 @@ title: Cute Chess
 
 an [open source](https://en.wikipedia.org/wiki/Open-source_software) graphical chess user interface (GUI) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto") and [Arto Jonsson](index.php?title=Arto_Jonsson&action=edit&redlink=1 "Arto Jonsson (page does not exist)"), written in [C++](Cpp "Cpp") using the [Qt framework](<https://en.wikipedia.org/wiki/Qt_(software)>) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Cute Chess is compliant with the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") as well the [Universal Chess Interface](UCI "UCI") (UCI) and can be build to run under [Windows](Windows "Windows"), [Linux](Linux "Linux") and [OS X](Mac_OS "Mac OS"), and is therefor compatible with [Winboard engines](Category:WinBoard "Category:WinBoard"), [XBoard engines](Category:XBoard "Category:XBoard"), and [UCI engines](Category:UCI "Category:UCI"). Cute Chess incorporates the core chess library, and the well-known and long time established [command line interface](CLI "CLI") [Cutechess-cli](Cutechess-cli "Cutechess-cli"), suited to run automated [engine-engine matches](Engine_Testing#Matches "Engine Testing"). Cute Chess is released under the [GPLv3+](Free_Software_Foundation#GPL "Free Software Foundation") license except for the components in the projects/lib/components and projects/gui/components directories which are released under the [MIT License](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology").
 
-## Contents
-
-- [1 Features](#features)
-- [2 Screenshot](#screenshot)
-- [3 Versions](#versions)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2010 ...](#2010-...)
-  - [5.2 2015 ...](#2015-...)
-  - [5.3 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Features
 
 Cute Chess features a [tabbed document interface](https://en.wikipedia.org/wiki/Tab_%28GUI%29) (TDI) embedded inside its [frame window](<https://en.wikipedia.org/wiki/Window_(computing)>) with classical [menu bar](https://en.wikipedia.org/wiki/Menu_bar). Tabbed [game document windows](GUI#GameWindow "GUI") associated with one [chess game](Chess_Game "Chess Game") contain [board window](GUI#BoardWindow "GUI"), [notation window](GUI#NotationWindow "GUI"), evaluation windows with [principal variations](Principal_Variation "Principal Variation") of both sides, and score history chart window.

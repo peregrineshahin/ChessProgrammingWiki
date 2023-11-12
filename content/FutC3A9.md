@@ -8,15 +8,6 @@ title: FutC3A9
 a private chess program written by [Jean-Louis Boussin](Jean-Louis_Boussin "Jean-Louis Boussin"). Futé participated at the [WCCC 2005](WCCC_2005 "WCCC 2005") in [Reykjavík](https://en.wikipedia.org/wiki/Reykjav%C3%ADk) and scored 0.5/11, but was the one and only program to take even a half point off of winner [Zappa](Zappa "Zappa").
 Futé applied the **Plan of Attack**, a [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") technique performed at the [root](Root "Root") to control its [search](Search "Search") and [evaluation](Evaluation "Evaluation") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Futé-Zappa](#fut.c3.a9-zappa)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Futé-Zappa
 
 [WCCC 2005](WCCC_2005 "WCCC 2005"), round 4, Futé - [Zappa](Zappa "Zappa") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

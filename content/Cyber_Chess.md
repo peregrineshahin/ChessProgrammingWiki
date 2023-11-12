@@ -8,16 +8,6 @@ title: Cyber Chess
 
 a commercial chess program for the [Acorn Archimedes](Acorn_Archimedes "Acorn Archimedes") with [ARM-architecture](https://en.wikipedia.org/wiki/List_of_ARM_microarchitectures) and [RISC OS](https://en.wikipedia.org/wiki/RISC_OS), including a chess engine, animated [3D graphics](3D_Graphics_Board "3D Graphics Board"), [sound effects](https://en.wikipedia.org/wiki/Sound_effect) and a full state-of-the-art [user interface](GUI "GUI"), developed in 1992/93 by [William Tunstall-Pedoe](William_Tunstall-Pedoe "William Tunstall-Pedoe"), and published by [The Fourth Dimension](https://en.wikipedia.org/wiki/The_Fourth_Dimension_%28company%29) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>..
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Program](#chess-program)
-  - [4.2 Namesake](#namesake)
-- [5 References](#references)
-
 ## See also
 
 - [ACPP](ACPP "ACPP")

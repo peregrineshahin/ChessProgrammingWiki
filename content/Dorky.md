@@ -13,21 +13,6 @@ Dorky 4.x, a rewrite of most major components, was the first release of a new ve
 with access to [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases") and a [parallel search](Parallel_Search "Parallel Search")
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Features](#features)
-- [2 Selected Games](#selected-games)
-  - [2.1 CCT2](#cct2)
-  - [2.2 CCT6](#cct6)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2003 ...](#2003-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 Following [algorithms](Algorithms "Algorithms") and features are used in Dorky Chess 4.3

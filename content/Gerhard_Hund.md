@@ -14,17 +14,6 @@ Susanne van Kempen, née Hund, wife of [Heinz van Kempen](Heinz_van_Kempen "Hein
 Chess family Hund was completed by foster son Allart Meyer (1956 - 2006). Hund holds a Diplom in mathematics from [University Frankfurt](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt),
 and worked as research associate at [Darmstadt University of Technology](Darmstadt_University_of_Technology "Darmstadt University of Technology"), where he taught computer programming, before he went to [Bayer AG](https://en.wikipedia.org/wiki/Bayer) [Leverkusen](https://en.wikipedia.org/wiki/Leverkusen) in 1961.
 
-## Contents
-
-- [1 Photos](#photos)
-  - [1.1 Family](#family)
-  - [1.2 Intelligent Watch](#intelligent-watch)
-- [2 Remote chess](#remote-chess)
-- [3 Chess sites](#chess-sites)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Photos
 
 ## Family

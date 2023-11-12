@@ -6,13 +6,6 @@ title: Computerschach und Spiele
 **Computerschach und Spiele** (**CSS**),
 a German computer chess periodical. From 1983 until 2005 it was a paper magazine by [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") and [Frederic Friedel](Frederic_Friedel "Frederic Friedel"). Since 2005 **CSS** is available online with Steinwender as sole publisher and editor in chief <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The scanned CSS issues from 1983 until 2000 were available as DVD from *Steinwender EDV-Beratung* <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Authors](#selected-authors)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Authors
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

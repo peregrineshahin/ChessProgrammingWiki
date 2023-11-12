@@ -19,13 +19,6 @@ produced the [Kishon Chesster](index.php?title=Fidelity_Chesster_Challenger&acti
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with a program by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), distinguished by the spoken comments of Kishon
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 - Ephraim Kishon (**1979**). *Compushvili*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 76

@@ -9,14 +9,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Dariusz Czechowski]
 Darmenios performs [bitboard-based](Bitboards "Bitboards") [legal move generation](Move_Generation#Legal "Move Generation"), [alpha-beta search](Alpha-Beta "Alpha-Beta") with [null-move pruning](Null_Move_Pruning "Null Move Pruning"), [quiescence search](Quiescence_Search "Quiescence Search"), [history based](History_Heuristic "History Heuristic") [move ordering](Move_Ordering "Move Ordering"), and uses a [transposition table](Transposition_Table "Transposition Table") with a special replacement algorithm.
 In 2010, the rudimentary [evaluation](Evaluation "Evaluation") considered [mobility](Mobility "Mobility"), [piece-square tables](Piece-Square_Tables "Piece-Square Tables") and [passed pawns](Passed_Pawn "Passed Pawn") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and apparently has improved since then.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Selected Games](#selected-games)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Tournament Play
 
 Darmenios played the [WCCC 2010](WCCC_2010 "WCCC 2010") and [WCSC 2010](WCSC_2010 "WCSC 2010") in [Kanazawa](https://en.wikipedia.org/wiki/Kanazawa,_Ishikawa). At the [Polish Computer Chess Championship](Polish_Computer_Chess_Championship "Polish Computer Chess Championship") Darmenios demonstrated huge progress in two years after its debut at [PCCC 2009](PCCC_2009 "PCCC 2009") with 0/6, the [PCCC 2010](PCCC_2010 "PCCC 2010") already third with 3½/6, and winning the [PCCC 2011](PCCC_2011 "PCCC 2011") with 5/6.

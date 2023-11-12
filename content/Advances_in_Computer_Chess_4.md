@@ -8,18 +8,6 @@ title: Advances in Computer Chess 4
 \[ Statue of [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Advances in Computer Chess 4** conference was held at [Brunel University](https://en.wikipedia.org/wiki/Brunel_University), [Uxbridge](https://en.wikipedia.org/wiki/Uxbridge), [West London](https://en.wikipedia.org/wiki/West_London), [UK](https://en.wikipedia.org/wiki/United_Kingdom), on April 17-18, [1984](Timeline#1984 "Timeline"). Chairman of the conference as well as editor of the conference proceedings was [Don Beal](Don_Beal "Don Beal").
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 Photos](#photos)
-- [4 Challenge Match](#challenge-match)
-- [5 See also](#see-also)
-- [6 Reports](#reports)
-- [7 Reviews](#reviews)
-- [8 Forum Posts](#forum-posts)
-- [9 References](#references)
-
 ## Proceedings
 
 - Advances in Computer Chess 4

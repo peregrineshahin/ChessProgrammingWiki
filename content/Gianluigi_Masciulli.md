@@ -9,14 +9,6 @@ title: Gianluigi Masciulli
 an Italian computer chess programmer and founding member of the [Gruppo Scacchi e Informatica](G_6 "G 6"), the Italian Computer Chess Association.
 Gianluigi Masciulli is author of the chess engine [Golem](Golem "Golem") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 1998 ...

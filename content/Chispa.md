@@ -11,18 +11,6 @@ Its development started in mid 2002, first released in January 2003 <a id="cite-
 Chispa uses the common [negamax](Negamax "Negamax") [PVS](Principal_Variation_Search "Principal Variation Search") [alpha-beta](Alpha-Beta "Alpha-Beta") with a two-level [transposition table](Transposition_Table "Transposition Table"), [null-move pruning](Null_Move_Pruning "Null Move Pruning") with [R = 2](Depth_Reduction_R "Depth Reduction R"), [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation"), [opening book](Opening_Book "Opening Book"), is able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"), and was one of the first engines to play [Chess960](Chess960 "Chess960") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 Chispa is [Arena](Arena "Arena") partner engine.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2003](#2003)
-  - [2.2 2004](#2004)
-  - [2.3 2005 ...](#2005-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [HeavyChess](HeavyChess "HeavyChess")

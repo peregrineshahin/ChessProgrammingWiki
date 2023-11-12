@@ -7,13 +7,6 @@ title: CCT2
 
 The **CCT2** was organized by [Will Singleton](Will_Singleton "Will Singleton"), played via the [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)") (ICC) <a id="cite-note-1" href="#cite-ref-1">[1]</a> , November 4-5, [2000](Timeline#2000 "Timeline"), 8 rounds [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament), 45min 10sec increment.
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Final Standing
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

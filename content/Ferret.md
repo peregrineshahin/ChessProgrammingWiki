@@ -8,22 +8,6 @@ title: Ferret
 
 a chess engine by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"). Ferret won the Amateur World Microcomputer Chess Champion Title in [Paderborn 1995](WMCCC_1995 "WMCCC 1995") and was two times winner of the World Microcomputer Speed-Chess Champion, in [Jakarta 1996](WMCCC_1996 "WMCCC 1996") and [Paris 1997](WMCCC_1997 "WMCCC 1997"). Ferret became runner up at the [14th World Microcomputer Chess Championship](WMCCC_1996 "WMCCC 1996"), Jakarta 1996 without losing a game. At the [9th World Computer Chess Championship](WCCC_1999 "WCCC 1999"), Paderborn 1999, Ferret was unlucky in not winning a dramatical playoff against [Shredder](Shredder "Shredder").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Board Representation](#board-representation)
-- [3 Descriptions](#descriptions)
-  - [3.1 By Bruce Moreland](#by-bruce-moreland)
-  - [3.2 1995](#1995)
-  - [3.3 1997](#1997)
-- [4 GNU Chess?](#gnu-chess.3f)
-- [5 See also](#see-also)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Engine](#chess-engine)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Photos & Games
 
 [](File:FerretShredder1999.JPG)

@@ -9,13 +9,6 @@ title: Christian Barreteau
 a French electrical engineer with a [Diplôme universitaire de technologie](https://en.wikipedia.org/wiki/University_Institutes_of_Technology) (DUT) degree from [University of Angers](https://en.wikipedia.org/wiki/University_of_Angers) in 1983.
 As computer chess programmer, Christian Barreteau is author of the chess engine [AnMon](AnMon "AnMon"). He started chess programming end of the 80s, and made AnMon a [MTD(f)](</MTD(f)> "MTD(f)") searcher in about 1995.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos & Games
 
 [](File:Drag_anm.jpg)

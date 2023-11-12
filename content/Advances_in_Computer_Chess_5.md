@@ -8,20 +8,6 @@ title: Advances in Computer Chess 5
 \[ Leeuwenhorst <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **5th Advances in Computer Chess** Conference was held in [De Leeuwenhorst](https://nl.wikipedia.org/wiki/Leeuwenhorst), [Noordwijkerhout](https://en.wikipedia.org/wiki/Noordwijkerhout), [the Netherlands](https://en.wikipedia.org/wiki/Netherlands), on April 27 and 28, [1987](Timeline#1987 "Timeline"). ACC is the conference of the [ICCA](ICCA "ICCA"). Conference chairman was [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn"), the first chair of the [Dutch Computer Chess Federation](CSVN "CSVN") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-  - [1.1 Synopsis](#synopsis)
-  - [1.2 Mephisto Best-Publication Award](#mephisto-best-publication-award)
-- [2 Photos](#photos)
-  - [2.1 During](#during)
-  - [2.2 Between](#between)
-- [3 Lectures](#lectures)
-- [4 Reports](#reports)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Proceedings
 
 - **Advances in Computer Chess 5** <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

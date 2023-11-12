@@ -12,14 +12,6 @@ At age 16, he wrote a [Connect Four](Connect_Four "Connect Four") program for th
 His interest in writing a chess engine revived much later, when someone pointed him to [TCEC](TCEC "TCEC") and the chess programming scene <a id="cite-note-3" href="#cite-ref-3">[3]</a>,
 yielding to the development of [RubiChess](RubiChess "RubiChess").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2018 ...](#2018-...)
-  - [1.2 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2018 ...

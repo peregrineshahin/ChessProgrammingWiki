@@ -8,16 +8,6 @@ title: Burton Wendroff
 
 an American mathematician and Adjunct Professor at the Department of Mathematics and Statistics, [University of New Mexico](https://en.wikipedia.org/wiki/University_of_New_Mexico) and retired Laboratory Associate at the Theoretical Division, Group T7, [Los Alamos National Laboratory](Los_Alamos_National_Laboratory "Los Alamos National Laboratory"). Along with co-author [Tony Warnock](Tony_Warnock "Tony Warnock"), Burton Wendroff is primary author of the Chess program [Lachex](Lachex "Lachex"), which competed at various [ACM Tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") <a id="cite-note-2" href="#cite-ref-2">[2]</a> in the 80s and early 90s.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1958](#1958)
-  - [1.2 1960 ...](#1960-...)
-  - [1.3 1980 ...](#1980-...)
-  - [1.4 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>

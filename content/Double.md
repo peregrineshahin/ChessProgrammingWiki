@@ -5,20 +5,6 @@ title: Double
 
 **Double** is a 64-bit data type representing the [double precision floating-point format](https://en.wikipedia.org/wiki/Double_precision_floating-point_format), in [IEEE 754-1985](https://en.wikipedia.org/wiki/IEEE_754-1985) called double, in [IEEE 754-2008](https://en.wikipedia.org/wiki/IEEE_754-2008) 64-bit base 2 format is officially referred to as binary64. Due to [normalization](https://en.wikipedia.org/wiki/Normal_number_%28computing%29) the true [significand](https://en.wikipedia.org/wiki/Significand) includes an implicit leading one bit unless the exponent is stored with all bits zeros or ones which are reserved for [Denormal numbers](https://en.wikipedia.org/wiki/Subnormal_numbers). Thus only 52 bits of the significand are stored but the total precision is 53 bits (≈15.955 decimal digits). [Exponent bias](https://en.wikipedia.org/wiki/Exponent_bias) is 0x3FF (1023).
 
-## Contents
-
-- [1 Format](#format)
-- [2 x86 Instruction Sets](#x86-instruction-sets)
-  - [2.1 Integer to Double Conversion](#integer-to-double-conversion)
-    - [2.1.1 X87](#x87)
-    - [2.1.2 SSE2](#sse2)
-- [3 BitScan Purpose](#bitscan-purpose)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Format
 
 \[

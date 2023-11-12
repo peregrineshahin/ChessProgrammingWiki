@@ -9,13 +9,6 @@ a kind of chess playing program by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), 
 The progran provides a [Web based](https://en.wikipedia.org/wiki/Web_application) [GUI](GUI "GUI"), but accepts illegal moves, while attempts to enter legal moves such as [castling](Castling "Castling") and [en passant](En_passant "En passant") were not recognized as such,
 yielding in illegal moves made with the king and pawn <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [BMCP](BMCP "BMCP")

@@ -9,17 +9,6 @@ title: Gabor Szots
 a Hungarian chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and as tester of chess programs, member of the [CCRL](CCRL "CCRL") group.
 He helped with the Hungarian translation for [Arena](Arena "Arena") and also served as [tournament organizer](Category:Tournament_Director "Category:Tournament Director") at various [Hungarian Chessprogram Open](Hungarian_Chessprogram_Open "Hungarian Chessprogram Open").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 2000 ...](#2000-...)
-  - [1.2 2005 ...](#2005-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2015 ...](#2015-...)
-  - [1.5 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 ## 2000 ...

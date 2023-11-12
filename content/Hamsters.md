@@ -9,18 +9,6 @@ title: Hamsters
 an [UCI](UCI "UCI") compliant multi-hamster chess engine by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti") with the goal of a program that has a full-featured and correct implementation of the UCI protocol, and that is able to play standard chess as well as [Chess960](Chess960 "Chess960").
 It applies a [parallel search](Parallel_Search "Parallel Search") utilizing up to 8 [threads](Thread "Thread"). Binaries are available for [Windows](Windows "Windows") and [Mac OS X](Mac_OS "Mac OS") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Hamsters played the [CIPS 2007](CIPS_2007 "CIPS 2007"), and was runner-up behind [Delfi](Delfi "Delfi") at the [CCC 2008](CCC_2008 "CCC 2008").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2007](#2007)
-  - [3.2 2008](#2008)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Selected Games
 
 [CCC 2008](CCC_2008 "CCC 2008"), round 3, Hamsters - [Chiron](Chiron "Chiron") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

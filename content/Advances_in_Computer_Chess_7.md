@@ -8,14 +8,6 @@ title: Advances in Computer Chess 7
 \[ [University of Limburg](Maastricht_University "Maastricht University") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **7th Advances in Computer Chess Conference** was held at the [University of Limburg](Maastricht_University "Maastricht University") at Maastricht in the Netherlands, on July 1-2, [1993](Timeline#1993 "Timeline"). ACC is the conference of the [ICCA](ICCA "ICCA").
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Lectures](#lectures)
-- [3 Forum Posts](#forum-posts)
-- [4 Reports](#reports)
-- [5 References](#references)
-
 ## Proceedings
 
 - **Advances in Computer Chess 7** <a id="cite-note-2" href="#cite-ref-2">[2]</a>

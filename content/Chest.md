@@ -16,25 +16,6 @@ while Heiner Marxen already started with a [mate-in-two](https://en.wikipedia.or
 Chest does not play chess, but proves shortest solutions or its absence. It was first released in December 1999 as [open source](Category:Open_Source "Category:Open Source")
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Description](#description)
-  - [1.1 Search](#search)
-  - [1.2 Board Representation](#board-representation)
-- [2 ChestUCI](#chestuci)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1999](#1999)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-  - [4.5 2015 ...](#2015-...)
-  - [4.6 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Program](#chess-program)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Description
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>

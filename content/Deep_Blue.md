@@ -11,42 +11,6 @@ The program was named *Deep Thought* after the fictional computer of the same na
 The declared target was to become the strongest chess entity ever and to beat the human world champion, which eventually happened in [1997 versus](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") [Garry Kasparov](Garry_Kasparov "Garry Kasparov"),
 winning the $100,000 [Fredkin prize](Edward_Fredkin#Prize "Edward Fredkin"), awarded at the [AAAI Conference](Conferences#AAAI-97 "Conferences") in [Providence, Rhode Island](https://en.wikipedia.org/wiki/Providence,_Rhode_Island).
 
-## Contents
-
-- [1 Description](#Description)
-  - [1.1 1995](#1995)
-  - [1.2 1997](#1997)
-- [2 Tournaments & Matches](#Tournaments_.26_Matches)
-  - [2.1 WCCC 1995](#WCCC_1995)
-  - [2.2 Kasparov versus Deep Blue](#Kasparov_versus_Deep_Blue)
-  - [2.3 The Rematch](#The_Rematch)
-- [3 The Deep Blue Team](#The_Deep_Blue_Team)
-- [4 Photos](#Photos)
-- [5 See also](#See_also)
-- [6 Selected Publications](#Selected_Publications)
-  - [6.1 1995 ...](#1995_...)
-  - [6.2 1996](#1996)
-  - [6.3 1997](#1997_2)
-  - [6.4 AAAI Workshop](#AAAI_Workshop)
-  - [6.5 1998 ...](#1998_...)
-  - [6.6 2000 ...](#2000_...)
-  - [6.7 2010 ...](#2010_...)
-- [7 Forum Posts](#Forum_Posts)
-  - [7.1 1992 ...](#1992_...)
-  - [7.2 1995 ...](#1995_..._2)
-  - [7.3 2000 ...](#2000_..._2)
-  - [7.4 2005 ...](#2005_...)
-  - [7.5 2010 ...](#2010_..._2)
-  - [7.6 2015 ...](#2015_...)
-  - [7.7 2020 ...](#2020_...)
-- [8 External Links](#External_Links)
-  - [8.1 By Date](#By_Date)
-    - [8.1.1 1997](#1997_3)
-    - [8.1.2 2000 ...](#2000_..._3)
-    - [8.1.3 2010 ...](#2010_..._3)
-  - [8.2 Videos](#Videos)
-- [9 References](#References)
-
 ## Description
 
 ## [](http://www.computerhistory.org/chess/full_record.php?iid=art-431614f45291e) Deep blue chip [[2]](#cite_note-2) 1995

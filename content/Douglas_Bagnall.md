@@ -10,12 +10,6 @@ a New Zealand computer scientist, programmer, technologist and artist <a id="cit
 and author of the [open source chess engine](Category:Open_Source "Category:Open Source") [p4wn](P4wn "P4wn") written in [JavaScript](JavaScript "JavaScript").
 Recently, he worked on [author identification](https://en.wikipedia.org/wiki/Author_profiling) using [recurrent neural networks](Neural_Networks#RNNs "Neural Networks") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publication](#selected-publication)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publication
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

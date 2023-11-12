@@ -10,18 +10,6 @@ a chess program running under [Windows](Windows "Windows") developed by [Gerrit 
 Bringer applies [check](Check_Extensions "Check Extensions") and [recapture extensions](Recapture_Extensions "Recapture Extensions"), and further extends to detect perpetual checks, on [pushing passers](Passed_Pawn_Extensions "Passed Pawn Extensions") to 6th or 7th rank, if there is [only one move](One_Reply_Extensions "One Reply Extensions"), and on [severe threats](Mate_Threat_Extensions "Mate Threat Extensions").
 It also did some negative extension, aka [pruning](Pruning "Pruning") and [razoring](Razoring "Razoring") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and since **Bringer 1.8** performs [smart exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") to avoid calculating obviously bad moves near the tips.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1999](#1999)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Tournament Play
 
 Bringer played the [BELCT 2001](BELCT_2001 "BELCT 2001") over the board, operated by [opening book author](Category:Opening_Book_Author "Category:Opening Book Author") [Peter Berger](Peter_Berger "Peter Berger"), and further five early [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), the [CCT1](CCT1 "CCT1"), [CCT3](CCT3 "CCT3"), [CCT4](CCT4 "CCT4"), [CCT5](CCT5 "CCT5"), and finally the [CCT6](CCT6 "CCT6").

@@ -8,25 +8,6 @@ title: History HeuristicCMHist
 
 a dynamic move ordering method based on the number of cutoffs caused by a given move irrespectively from the position in which the move has been made. The Heuristic was invented by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in 1983 <a id="cite-note-2" href="#cite-ref-2">[2]</a> and works as follows: on a [cutoff](Beta-Cutoff "Beta-Cutoff") we increment a counter in a special table, addressed either by \[from\]\[to\] (the [Butterfly Boards](Butterfly_Boards "Butterfly Boards")) or by \[piece\]\[to\] <a id="cite-note-3" href="#cite-ref-3">[3]</a> . The added value is typically depth * depth or 2 ^ depth, based on the assumption that otherwise moves from the plies near the leaves would have to much impact on the result. Values retrieved from that table are used to order non-capturing moves. This simple heuristics performs usually better than domain-dependent heuristics, though it may be combined with them. For example, in [Rebel](Rebel "Rebel") only a few non-captures are ordered by history heuristics, then a piece-square approach is used <a id="cite-note-4" href="#cite-ref-4">[4]</a> . In the literature, history heuristic is often presented as depth-independent generalization of the [killer moves](Killer_Heuristic "Killer Heuristic"). It is also said to reflect long-term plans in a position.
 
-## Contents
-
-- [1 Random Noise?](#random-noise.3f)
-- [2 Update](#update)
-- [3 Counter Moves History](#counter-moves-history)
-- [4 See also](#see-also)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 1980 ...](#1980-...)
-  - [5.2 2000 ...](#2000-...)
-- [6 Forum Posts](#forum-posts)
-  - [6.1 1995 ...](#1995-...)
-  - [6.2 2000 ...](#2000-...-2)
-  - [6.3 2005 ...](#2005-...)
-  - [6.4 2010 ...](#2010-...)
-  - [6.5 2015 ...](#2015-...)
-  - [6.6 2020 ...](#2020-...)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Random Noise?
 
 However, all of those statements were made at the time when typical search depth was much lower than today. Nowadays some authors say that given enough search depth, history heuristic produces just a [random noise](https://en.wikipedia.org/wiki/Pseudorandom_noise) <a id="cite-note-5" href="#cite-ref-5">[5]</a> , whereas [Ed Schröder](Ed_Schroder "Ed Schroder"), advocated not taking into account the cutoffs from the last couple of plies.

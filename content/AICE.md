@@ -9,16 +9,6 @@ title: AICE
 a free [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and [UCI](UCI "UCI") compliant chess engine by [Anastasios Milikas](Anastasios_Milikas "Anastasios Milikas"), written in [C++](Cpp "Cpp") using the [Standard Template Library](Cpp#Libraries "Cpp"), with [Windows](Windows "Windows") and [Linux](Linux "Linux") binaries available <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 AICE is an [Arena](Arena "Arena") partner engine and able to play [Chess960](Chess960 "Chess960"). AICE participated at the two open [Livingston Chess960 Computer World Championships](Livingston_Chess960_Computer_World_Championship "Livingston Chess960 Computer World Championship"), the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") and the [Chess960CWC 2006](Chess960CWC_2006 "Chess960CWC 2006").
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Features](#features)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Etymology
 
 AICE stands for ***A**rtificially **I**ntelligent **C**hess **E**ngine*, as explained by Anastasios, who also remarked "This is probably not a good name, since the engine is not intelligent! But I am working on it…” <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Anastasios initial intention with AICE was to use [neural networks](Neural_Networks "Neural Networks") and [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming") in order to [optimize its evaluation weights](Automated_Tuning "Automated Tuning"), but he found that this was not productive and suitable for a chess [evaluation function](Evaluation_Function "Evaluation Function"). They might be useful in [time management](Time_Management "Time Management"), or controlling extensions or reductions <a id="cite-note-4" href="#cite-ref-4">[4]</a>.

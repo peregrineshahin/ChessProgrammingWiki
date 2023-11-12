@@ -9,14 +9,6 @@ title: Fabian MC3A4ser
 a Swiss computer scientist, [FIDE Master](<https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_(FM)>) in chess <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and former member of [Jürg Nievergelt's](J%C3%BCrg_Nievergelt "Jürg Nievergelt") research group at Institute of Theoretical Computer Science at [ETH Zurich](ETH_Zurich "ETH Zurich"). He defended his Ph.D. thesis *Divide and Conquer in Game Tree Search* on [combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory) in 2001 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 He is currently affiliated with the *Ergon* software company in [Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>

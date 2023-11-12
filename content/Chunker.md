@@ -9,15 +9,6 @@ a chess program by [Murray Campbell](Murray_Campbell "Murray Campbell") and [Han
 
 Some types of chunks that could occur are so complex and rare that to build libraries for all possibilities would require unrealistically large memories. Fur such chunks (containing double pawns for instance) it will be necessary to do the analysis to produce properties on the fly. However, once such an analysis is done, these properties can be retained in a temporary chunk library for the duration of the solution process <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Szén Position](#sz.c3.a9n-position)
-- [2 Abstract](#abstract)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Szén Position
 
 Due to its chunk library of king versus three [connected passers](Connected_Passed_Pawns "Connected Passed Pawns"), Chunker is an expert in playing the **Szén position**, popularized by the Hungarian chess player [József Szén](https://en.wikipedia.org/wiki/J%C3%B3zsef_Sz%C3%A9n) in the first half of the nineteenth century, with a lineage dating from [Gioacchino Greco](https://en.wikipedia.org/wiki/Gioachino_Greco) two centuries before with wK and bK on e1 and e8 respectively <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

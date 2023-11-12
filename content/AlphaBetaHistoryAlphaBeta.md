@@ -6,45 +6,6 @@ title: AlphaBetaHistoryAlphaBeta
 [](http://vangelismovements.com/alphabeta.htm) Alpha Beta [[1]](#cite_note-1)
 The **Alpha-Beta** algorithm (Alpha-Beta Pruning, Alpha-Beta Heuristic [[2]](#cite_note-2) ) is a significant enhancement to the [minimax](Minimax "Minimax") search algorithm that eliminates the need to search large portions of the [game tree](Search_Tree "Search Tree") applying a [branch-and-bound](https://en.wikipedia.org/wiki/Branch_and_bound) technique. Remarkably, it does this without any potential of overlooking a better [move](Moves "Moves"). If one already has found a quite good move and search for alternatives, **one** [refutation](Refutation_Move "Refutation Move") is enough to avoid it. No need to look for even stronger refutations. The algorithm maintains two values, [alpha](Alpha "Alpha") and [beta](Beta "Beta"). They represent the minimum score that the maximizing player is assured of and the maximum score that the minimizing player is assured of respectively. Consider the following example...
 
-## Contents
-
-- [1 How it works](#How_it_works)
-- [2 Savings](#Savings)
-- [3 History](#History)
-- [4 Quotes](#Quotes)
-  - [4.1 McCarthy](#McCarthy)
-  - [4.2 Ershov and Shura-Bura](#Ershov_and_Shura-Bura)
-  - [4.3 Knuth](#Knuth)
-- [5 Implementation](#Implementation)
-  - [5.1 Max versus Min](#Max_versus_Min)
-  - [5.2 Negamax Framework](#Negamax_Framework)
-  - [5.3 Fail hard](#Fail_hard)
-  - [5.4 Outside the Bounds](#Outside_the_Bounds)
-- [6 Enhancements](#Enhancements)
-  - [6.1 Obligatory](#Obligatory)
-  - [6.2 Selectivity](#Selectivity)
-  - [6.3 Scout and Friends](#Scout_and_Friends)
-- [7 Alpha-Beta goes Best-First](#Alpha-Beta_goes_Best-First)
-- [8 See also](#See_also)
-- [9 Selected Publications](#Selected_Publications)
-  - [9.1 1958 ..](#1958_..)
-  - [9.2 1960 ...](#1960_...)
-  - [9.3 1970 ...](#1970_...)
-  - [9.4 1980 ...](#1980_...)
-  - [9.5 1990 ...](#1990_...)
-  - [9.6 2000 ...](#2000_...)
-  - [9.7 2010 ...](#2010_...)
-- [10 Forum Posts](#Forum_Posts)
-  - [10.1 1993 ...](#1993_...)
-  - [10.2 1995 ...](#1995_...)
-  - [10.3 2000 ...](#2000_..._2)
-  - [10.4 2005 ...](#2005_...)
-  - [10.5 2010 ...](#2010_..._2)
-  - [10.6 2015 ...](#2015_...)
-  - [10.7 2020 ...](#2020_...)
-- [11 External Links](#External_Links)
-- [12 References](#References)
-
 ## How it works
 
 Say it is White's turn to move, and we are searching to a [depth](Depth "Depth") of 2 (that is, we are consider all of White's moves, and all of Black's responses to each of those moves.) First we pick one of White's possible moves - let's call this Possible Move #1. We consider this move and every possible response to this move by black. After this analysis, we determine that the result of making Possible Move #1 is an even position. Then, we move on and consider another of White's possible moves (Possible Move #2.) When we consider the first possible counter-move by black, we discover that playing this results in black winning a Rook! In this situation, we can safely ignore all of Black's other possible responses to Possible Move #2 because we already know that Possible Move #1 is better. We really don't care *exactly* how much worse Possible Move #2 is. Maybe another possible response wins a Queen, but it doesn't matter because we know that we can achieve *at least* an even game by playing Possible Move #1. The full analysis of Possible Move #1 gave us a [lower bound](Lower_Bound "Lower Bound"). We know that we can achieve at least that, so anything that is clearly worse can be ignored.

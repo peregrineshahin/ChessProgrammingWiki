@@ -14,16 +14,6 @@ Version 4.0 includes several improvements, the most important being a completely
 it otherwise has a rather speculative [king safety](King_Safety "King Safety") evaluation.
 Beside commonly known search [extensions](Extensions "Extensions") and [reductions](Reductions "Reductions"), Version 4.21 introduced an original [pruning](Pruning "Pruning") method based on 8 simple conditions <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Aristarch played the [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT5") [online tournaments](CCT_Tournaments "CCT Tournaments").
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Etymology
 
 The name of the engine has its origin in the [ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greece) [astronomer](https://en.wikipedia.org/wiki/Astronomer) and [Mathematician](Mathematician "Mathematician") [Aristarchus of Samos](Mathematician#Aristarch "Mathematician") (310 BCE - ca. 230 BCE) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, who presented the first known model of [Heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism) that placed the [Sun](https://en.wikipedia.org/wiki/Sun) at the center of the known [universe](https://en.wikipedia.org/wiki/Universe) with the [Earth](https://en.wikipedia.org/wiki/Earth) revolving around it.

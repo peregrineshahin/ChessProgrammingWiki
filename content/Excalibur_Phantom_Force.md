@@ -12,16 +12,6 @@ a [sensory board](Sensory_Board "Sensory Board"), [LCD](https://en.wikipedia.org
 It has a [6502](6502 "6502") compatible Generalplus GPLB32A controller <a id="cite-note-3" href="#cite-ref-3">[3]</a> running at 5 MHz with integrated 512 KiB [ROM](Memory#ROM "Memory"), 1216 byte [RAM](Memory#RAM "Memory"), [parallel I/O](https://en.wikipedia.org/wiki/Parallel_I/O), [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter), [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation)/[DAC](https://en.wikipedia.org/wiki/Digital-to-analog_converter) for sound and [speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis), and LCD controller.
 The [Ron Nelson](Ron_Nelson "Ron Nelson") program is a [6502](6502 "6502") port of his [H8](H8 "H8") programs, removing [attack maps](Excalibur_Mirage#AttackMaps "Excalibur Mirage") with respect to available RAM, similar to the earlier [Alexandra The Great](index.php?title=Alexandra_The_Great&action=edit&redlink=1 "Alexandra The Great (page does not exist)") and [Ivan II The Conqueror](Ivan_II_The_Conqueror "Ivan II The Conqueror").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Manual](#manual)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Computer](#chess-computer)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## See also
 
 - [Alexandra The Great](index.php?title=Alexandra_The_Great&action=edit&redlink=1 "Alexandra The Great (page does not exist)")

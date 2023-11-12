@@ -13,12 +13,6 @@ where his research focused on [autonomous robots](https://en.wikipedia.org/wiki/
 in conjunction with [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [deep learning](Deep_Learning "Deep Learning").
 Along with [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu") and [Marco Wiering](Marco_Wiering "Marco Wiering"), Francesco Bidoia co-authored on *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

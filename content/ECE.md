@@ -11,15 +11,6 @@ The recent version is a 64-bit engine taking advantage of [SSE4.2](SSE4 "SSE4") 
 Further, ECE supports the [PolyGlot](PolyGlot "PolyGlot") [opening book](Opening_Book "Opening Book") format <a id="cite-note-3" href="#cite-ref-3">[3]</a>. ECE played the [3rd Chess Computer Cup 2008](CCC_2008 "CCC 2008") with 4/6,
 and subsequently the [IGWT 2013](IGWT_2013 "IGWT 2013"), [IGWT 2014](IGWT_2014 "IGWT 2014"), [IGWT III](IGWT_III "IGWT III") and [IGWT IV](IGWT_IV "IGWT IV") [International Gsei Web Tournaments](Italian_Computer_Chess_Championship#IGWT "Italian Computer Chess Championship").
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Dimitri](Dimitri "Dimitri")

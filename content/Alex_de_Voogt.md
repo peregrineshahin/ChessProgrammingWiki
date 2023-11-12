@@ -14,16 +14,6 @@ and the [history of writing systems](https://en.wikipedia.org/wiki/History_of_wr
 He is member of the [International Board Game Studies Association](https://en.wikipedia.org/wiki/International_Board_Game_Studies_Association)
 and member of the editorial board of its journal <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1995 ...](#1995-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>

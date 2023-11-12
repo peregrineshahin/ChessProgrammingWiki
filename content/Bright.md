@@ -12,20 +12,6 @@ Allard Siemelink developed a statistical analysis tool to tune it for maximum co
 Able to [search in parallel](Search "Search"), Bright basically applies a [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") algorithm. Since splitting is a cheap operation in Bright, avoiding an expensive copy of the board and associated data, the [search tree](Search_Tree "Search Tree") can be split at any [depth](Depth "Depth"), maximizing the use of the otherwise idle cores.
 [Late Move Reductions](Late_Move_Reductions "Late Move Reductions") as popularized by [Fruit](Fruit "Fruit") and [Glaurung](Glaurung "Glaurung") are used in Bright with different implementation details. The reductions are not [history](History_Heuristic "History Heuristic") based, and all moves, except the first one, can be reduced by one [ply](Ply "Ply") depending on static criteria <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Selected Games](#selected-games)
-  - [2.1 Thinker](#thinker)
-  - [2.2 Fruit](#fruit)
-- [3 Release Dates](#release-dates)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Tournament Play
 
 Bright played a strong [CCT11](CCT11 "CCT11") and became runner-up along with [Fruit](Fruit "Fruit") behind [Rybka](Rybka "Rybka"), and after Rybka's disqualification in 2011 co-champion <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

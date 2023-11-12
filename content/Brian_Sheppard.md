@@ -16,17 +16,6 @@ His Ph.D. thesis *Towards Perfect Play of Scrabble* received the [ChessBase](Che
 Brian Sheppard started writing his first chess program in 1986, which took him 9 years and 3 complete [move generators](Move_Generation "Move Generation") to make a chess engine with championship-caliber speed <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 More recently, he contributes to the [Stockfish](Stockfish "Stockfish") project <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1996](#1996)
-  - [1.2 2000 ...](#2000-...)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1995 ...](#1995-...)
-  - [2.2 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 ## 1996

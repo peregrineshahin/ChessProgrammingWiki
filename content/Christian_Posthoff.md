@@ -8,19 +8,6 @@ title: Christian Posthoff
 
 a German mathematician and computer scientist, Ph.D. in 1975 from [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University), [Dr.-Ing. habil.](https://en.wikipedia.org/wiki/Habilitation) in 1979 from [Chemnitz University of Technology](Chemnitz_University_of_Technology "Chemnitz University of Technology"), promoting to assistant professor for [logic design](https://en.wikipedia.org/wiki/Logic_synthesis), since 1983 full professor for CS at TU Chemnitz, and since 1994 professor of CS at the Department of Mathematics and Computer Science <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [University of The West Indies](https://en.wikipedia.org/wiki/University_of_the_West_Indies), [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine,_Trinidad_and_Tobago), [Trinidad and Tobago](https://en.wikipedia.org/wiki/Trinidad_and_Tobago). Beside other things, his research interest covers [Fuzzy Logic](https://en.wikipedia.org/wiki/Fuzzy_logic) and the [satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) (SAT), also applied to computer chess. In the 80s, Christian Posthoff was co-author of various computer chess books. In 2012, as now retired professor <a id="cite-note-3" href="#cite-ref-3">[3]</a>, along with [Bernd Steinbach](Bernd_Steinbach "Bernd Steinbach"), he solved a [4-coloring](https://en.wikipedia.org/wiki/Four_color_theorem) of 17x17 grids without monochromatic rectangles <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
-## Contents
-
-- [1 Quote](#quote)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1979](#1979)
-  - [2.2 1980 ...](#1980-...)
-  - [2.3 1990 ...](#1990-...)
-  - [2.4 1995 ...](#1995-...)
-  - [2.5 2000 ...](#2000-...)
-  - [2.6 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Quote
 
 A Quote from his biography <a id="cite-note-9" href="#cite-ref-9">[9]</a> :

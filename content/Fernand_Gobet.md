@@ -10,19 +10,6 @@ a Swiss [psychologist](Category:Psychologist "Category:Psychologist") and [inter
 
 At [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), Gobet collaborated with [Herbert Simon](Herbert_Simon "Herbert Simon") and together with [Peter Jansen](Peter_Jansen "Peter Jansen"), member of the [Deep Thought](Deep_Thought "Deep Thought") team, he wrote the [pattern learning](index.php?title=Pattern_Learning&action=edit&redlink=1 "Pattern Learning (page does not exist)") chess program [CHUMP](CHUMP "CHUMP"), which was introduced as *A chess program based on a model of human memory* <a id="cite-note-4" href="#cite-ref-4">[4]</a> at the [7th Advances in Computer Chess](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference, July 1-2, 1993. With [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") he wrote the book *Perception and memory in chess* <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Chunk Hierarchies](#chunk-hierarchies)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-  - [3.1 1993 ...](#1993-...)
-  - [3.2 2000 ...](#2000-...)
-  - [3.3 2005 ...](#2005-...)
-  - [3.4 2010 ...](#2010-...)
-  - [3.5 2015 ...](#2015-...)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Chunk Hierarchies
 
 Fernand Gobet is principal investigator of [CHREST](CHREST "CHREST"), an acronym for Chunk Hierarchy and REtrieval STructures <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and is a complete computational model for the processes of [learning](Learning "Learning") and [perception](https://en.wikipedia.org/wiki/Perception) used by human experts in a variety of domains. One application of CHREST was the pattern learning chess program [CHUMP](CHUMP "CHUMP").

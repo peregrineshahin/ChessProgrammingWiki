@@ -8,22 +8,6 @@ title: Ed Schroder
 
 a Dutch computer chess programmer and founder of **Schröder BV** <a id="cite-note-2" href="#cite-ref-2">[2]</a>, a chess software developing company. Ed is author of various chess programs for PCs as well for [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). His most famous chess programs were the commercial programs [Rebel](Rebel "Rebel") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and based on Rebel the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") Micro Champion [Gideon](Gideon "Gideon") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, the World Computer Chess Champion from the [WCCC 1992](WCCC_1992 "WCCC 1992"), [ChessMachine](ChessMachine "ChessMachine") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, and the free program [ProDeo](ProDeo "ProDeo") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Ed contributed a lot to computer chess, since he made almost all his knowledge about chess programming [public](Recommended_Reading "Recommended Reading"), when he retired from competition in 2003 <a id="cite-note-8" href="#cite-ref-8">[8]</a>. In 2002 [Lokasoft](Lokasoft "Lokasoft") took over the activities of **Schröder BV** <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
-## Contents
-
-- [1 2011 Rybka Controversy](#2011-rybka-controversy)
-- [2 Programs and Computers](#programs-and-computers)
-- [3 Selected Publications](#selected-publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1993 ...](#1993-...)
-  - [4.2 1995 ...](#1995-...)
-  - [4.3 2000 ...](#2000-...)
-  - [4.4 2005 ...](#2005-...)
-  - [4.5 2010 ...](#2010-...)
-  - [4.6 2015 ...](#2015-...)
-  - [4.7 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## 2011 Rybka Controversy
 
 In 2011, Ed Schröder first signed the [open letter](Open_letter_to_the_ICGA_about_the_Rybka-Fruit_issue "Open letter to the ICGA about the Rybka-Fruit issue") directed to the [ICGA](ICGA "ICGA"), to support the claim [Rybka 1.0 beta](Rybka "Rybka") and subsequent versions were allegedly derivatives from [Fabien Letouzey’s](Fabien_Letouzey "Fabien Letouzey") program [Fruit 2.1](Fruit "Fruit"), but soon after the [ICGA decision](Rybka_Controversy#RybkaDecision "Rybka Controversy"), reconsidered <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>, apologized to [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") <a id="cite-note-12" href="#cite-ref-12">[12]</a> and criticized the [investigation process](ICGA_Investigations "ICGA Investigations") and the represented evidence. In November 2011, Ed Schröder announced his new web-sites <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> that give an alternative view of the historic ICGA - RYBKA event that led to the ban of Rybka.

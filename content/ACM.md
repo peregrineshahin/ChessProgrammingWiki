@@ -6,34 +6,6 @@ title: ACM
 \[\_logo.svg) ACM logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 The **Association for Computing Machinery**, or **ACM**, was founded in 1947 as the world's first scientific and educational computing society.
 
-## Contents
-
-- [1 Computer Chess Activities](#computer-chess-activities)
-- [2 Organ and Publications](#organ-and-publications)
-  - [2.1 Journal of the ACM](#journal-of-the-acm)
-  - [2.2 Communications of the ACM](#communications-of-the-acm)
-  - [2.3 ACM Computing Surveys](#acm-computing-surveys)
-  - [2.4 ACM JEA](#acm-jea)
-  - [2.5 ACM LOPLAS](#acm-loplas)
-  - [2.6 ACM Portal](#acm-portal)
-  - [2.7 ACM Queue](#acm-queue)
-  - [2.8 ACM TALG](#acm-talg)
-  - [2.9 ACM TOCS](#acm-tocs)
-  - [2.10 ACM TIST](#acm-tist)
-  - [2.11 ACM TOG](#acm-tog)
-  - [2.12 ACM TOMACS](#acm-tomacs)
-  - [2.13 ACM TOMS](#acm-toms)
-  - [2.14 ACM TOPLAS](#acm-toplas)
-  - [2.15 ACM TOS](#acm-tos)
-  - [2.16 XRDS](#xrds)
-- [3 Conferences](#conferences)
-- [4 ACM-ICPC Challenge](#acm-icpc-challenge)
-- [5 Special Interest Groups](#special-interest-groups)
-- [6 Turing Award](#turing-award)
-- [7 Selected Turing Award Lectures](#selected-turing-award-lectures)
-- [8 External Links](#external-links)
-- [9 References](#references)
-
 ## Computer Chess Activities
 
 The ACM hosted the first major chess tournament for computers, from the [1st United States Computer Chess Championship](ACM_1970 "ACM 1970") 1970, further called [North American Computer Chess Championship](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") until 1994. The ACM was sponsor of the [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) versus [Deep Blue](Deep_Blue "Deep Blue") matches in [1996](Kasparov_versus_Deep_Blue_1996 "Kasparov versus Deep Blue 1996") and [1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"). However, the ACM tournaments were first canceled in 1995 and finally discontinued after Kasparov's defeat.

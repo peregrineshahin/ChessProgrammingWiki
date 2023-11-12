@@ -9,13 +9,6 @@ title: Heiner Matthias
 a German chess player and [Fide Master](https://en.wikipedia.org/wiki/FIDE_Master).
 While affiliated with the [Paderborn University](Paderborn_University "Paderborn University"), Heiner was the [opening book](Opening_Book "Opening Book") author and chess consultant of the "university" chess programs [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") and [P.ConNerS](P.ConNerS "P.ConNerS") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Heiner Matthias further played the [Aegon 1997](Aegon_1997 "Aegon 1997") for the carbon side, losing from [CilkChess](CilkChess "CilkChess") and [Kallisto](Kallisto "Kallisto"), winning versus [Rajah](Rajah "Rajah"), [Capture](</Capture_(program)> "Capture (program)") and [Ferret](Ferret "Ferret"), and drawing [HIARCS](HIARCS "HIARCS").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.thorstenczub.de/aegon.html)

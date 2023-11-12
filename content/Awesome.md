@@ -9,16 +9,6 @@ title: Awesome
 a chess program by [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.28FM.29)
 and former Australian Postal champion [Bill Jordan](Bill_Jordan "Bill Jordan"), first released in April 2001. Awesome stared as [MS-DOS](MS-DOS "MS-DOS") program with an own [GUI](GUI "GUI") and later evolved to an [WinBoard](WinBoard "WinBoard") compliant chess engine to run under [Windows](Windows "Windows"). Awesome played the [NC3 2003](NC3_2003 "NC3 2003"), [NC3 2004](NC3_2004 "NC3 2004"), [NC3 2005](NC3_2005 "NC3 2005") and [NC3 2006](NC3_2006 "NC3 2006") [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship").
 
-## Contents
-
-- [1 Description](#description)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Description
 
 from the Awesome site by [Bill Jordan](Bill_Jordan "Bill Jordan") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

@@ -7,13 +7,6 @@ title: Chessica
 
 a commercial [Windows](Windows "Windows") chess program distributed by [TASC](TASC "TASC") in 1995 as part of their [TASC Chess System](index.php?title=TASC_Chess_System&action=edit&redlink=1 "TASC Chess System (page does not exist)") with the [TASC SmartBoard](TASC_SmartBoard "TASC SmartBoard") and *Interactive Chess Tutorials*, but also as standalone [Windows](Windows "Windows") program. The engine is written by [Frans Morsch](Frans_Morsch "Frans Morsch"), and based on the [DOS](MS-DOS "MS-DOS") [Fritz 3.1](Fritz "Fritz") program <a id="cite-note-1" href="#cite-ref-1">[1]</a> sold by [ChessBase](ChessBase "ChessBase"), which was the winner of the [WCCC 1995](WCCC_1995 "WCCC 1995"). The functional [GUI](GUI "GUI") was developed by TASC lead developer [Marc Derksen](Marc_Derksen "Marc Derksen") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, supported by Dutch chess player and chess [database](Databases "Databases") and GUI developer [Jessica Harmsen](Jessica_Harmsen "Jessica Harmsen") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Chessica played three [Aegon Tournaments](Aegon_Tournaments "Aegon Tournaments"), in [1995](Aegon_1995 "Aegon 1995"), [1996](Aegon_1996 "Aegon 1996") and [1997](Aegon_1997 "Aegon 1997"), and further competed at the [DOCCC 1999](DOCCC_1999 "DOCCC 1999") along with its brother [Quest](Quest "Quest") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Screenshot
 
 [](https://archive.org/details/Chessica_1020)

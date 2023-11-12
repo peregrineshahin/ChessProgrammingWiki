@@ -8,15 +8,6 @@ title: A. Harry Klopf
 
 an American senior scientist for [machine intelligence](Artificial_Intelligence "Artificial Intelligence"), since the early 70s affiliated with the Avionics Directorate, [Wright Laboratory](https://en.wikipedia.org/wiki/Wright_Laboratory) and [Air Force Research Laboratory](https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory), [Aeronautical Systems Center](https://en.wikipedia.org/wiki/Aeronautical_Systems_Center), [Wright-Patterson Air Force Base](https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base), [Ohio](https://en.wikipedia.org/wiki/Ohio). His research focused on [reinforcement learning](Reinforcement_Learning "Reinforcement Learning"), and [adaptive behavior](https://en.wikipedia.org/wiki/Adaptive_behavior) as approaches to the analysis of natural [intelligence](https://en.wikipedia.org/wiki/Intelligence) and the synthesis of machine intelligence <a id="cite-note-2" href="#cite-ref-2">[2]</a>. [Temporal difference learning](Temporal_Difference_Learning "Temporal Difference Learning") has one root in Klopf's work on animal learning psychology <a id="cite-note-3" href="#cite-ref-3">[3]</a> - beside [Arthur Samuel's](Arthur_Samuel "Arthur Samuel") pioneering work on his self learning [Checkers](Checkers "Checkers") player in the late 50s <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1970 ...](#1970-...)
-  - [1.2 1980 ...](#1980-...)
-  - [1.3 1990 ...](#1990-...)
-  - [1.4 2000 ...](#2000-...)
-- [2 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

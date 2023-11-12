@@ -5,29 +5,6 @@ title: Avoiding Branches
 
 Miss-predicted [branches](https://en.wikipedia.org/wiki/Branch_%28computer_science%29) causes huge penalties on todays super [pipelined](https://en.wikipedia.org/wiki/Instruction_pipeline) processors. While processors become smarter to predict branches with several heuristics, branches on random data should be avoided. The techniques shown here often use arithmetical shift right (by bit-width - 1, that is 31 for 32-bit [double words](Double_Word "Double Word") as integers) to determine a mask of sign-bits, either all bits set (-1) or all bits clear 0. [x86](X86 "X86") compiler may emit an cdq (Convert Double to Quad) instruction, which sign extends a 32 bit register to two 32 bit registers. Since arithmetical shift right is not strictly specified in [C](C "C"), it might be not portable through all compilers and architectures. Note that in C, a comparison or a boolean expression with the result {false, true} might be treated as numerical value {0, 1}.
 
-## Contents
-
-- [1 Abs, Max, Min](#abs.2c-max.2c-min)
-  - [1.1 Absolute value of an Integer](#absolute-value-of-an-integer)
-  - [1.2 Maximum of two Integers](#maximum-of-two-integers)
-    - [1.2.1 By CRT](#by-crt)
-    - [1.2.2 By Sign-Mask](#by-sign-mask)
-  - [1.3 Minimum of two Integers](#minimum-of-two-integers)
-    - [1.3.1 By CRT](#by-crt-2)
-    - [1.3.2 By Sign-Mask](#by-sign-mask-2)
-- [2 Conditional Expressions](#conditional-expressions)
-  - [2.1 Conditional Assignment](#conditional-assignment)
-  - [2.2 Conditional Increment](#conditional-increment)
-  - [2.3 Conditional Write](#conditional-write)
-- [3 Indirect Branch](#indirect-branch)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2000 ...](#2000-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Abs, Max, Min
 
 It is recommend to use functions provided by the [programming language](Languages "Languages"). In [C](C "C") or [C++](Cpp "Cpp") one should use appropriate compiler intrinsics and/or template functions provided by the [C Runtime Library](C#Runtime "C") or [Standard Template Library](Cpp#STL "Cpp").

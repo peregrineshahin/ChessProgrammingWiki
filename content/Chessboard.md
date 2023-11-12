@@ -8,14 +8,6 @@ The **Chessboard** is the playing ground for the [game of chess](Chess_Game "Che
 
 Inside a chess program, the chessboard and its piece placement as [chess position](Chess_Position "Chess Position") is subject of the [board representation](Board_Representation "Board Representation").
 
-## Contents
-
-- [1 Fourfold Symmetry](#fourfold-symmetry)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Fourfold Symmetry
 
 The chessboard is fourfold [symmetrical](https://en.wikipedia.org/wiki/Symmetry) with respect to rotation about an axis, based on the [reflection symmetry](https://en.wikipedia.org/wiki/Reflection_symmetry) of a square *(not square of a chessboard but the whole board here)*. The four axis are the vertical line between the two center-files 'D' and 'E', the horizontal line between the 4th and 5th rank, and the main-diagonal and main-anti-diagonal. The orthogonal symmetrical squares have different, the diagonal symmetrical squares have same [square-colors](Color_of_a_Square "Color of a Square").

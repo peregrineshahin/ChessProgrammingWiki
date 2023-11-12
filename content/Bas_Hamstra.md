@@ -8,16 +8,6 @@ title: Bas Hamstra
 
 a Dutch software developer, and as computer chess programmer, author of the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and later [UCI](UCI "UCI") <a id="cite-note-2" href="#cite-ref-2">[2]</a> compliant chess engine [Tao](Tao "Tao"). He was also involved in the early development of [Bookbuilder](index.php?title=Bookbuilder&action=edit&redlink=1 "Bookbuilder (page does not exist)").
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 1997 ...](#1997-...)
-  - [2.2 2000 ...](#2000-...)
-  - [2.3 2005 ...](#2005-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://old.csvn.nl/gallery21.html)

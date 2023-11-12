@@ -10,13 +10,6 @@ a Norwegian computer scientist and professor at [University of Bergen](https://e
 His research interests include [software engineering methodology](https://en.wikipedia.org/wiki/Software_development_methodology), [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"), and the use of information technology to support education in software engineering and artificial intelligence.
 In 1993, along with [Andreas L. Opdahl](Andreas_L._Opdahl "Andreas L. Opdahl"), he contributed to computer chess at the [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7") conference on the topic of [Long-Term Planning](Planning "Planning").
 
-## Contents
-
-- [1 Long-Term Planning in Computer Chess](#long-term-planning-in-computer-chess)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Long-Term Planning in Computer Chess
 
 *Abstract* <a id="cite-note-2" href="#cite-ref-2">[2]</a>

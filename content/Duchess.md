@@ -8,21 +8,6 @@ title: Duchess
 
 a chess program running on an [IBM 370/168](IBM_370 "IBM 370") <a id="cite-note-2" href="#cite-ref-2">[2]</a> under the [MVS](https://en.wikipedia.org/wiki/MVS) operating system, developed by three graduate students at the [Duke University](Duke_University "Duke University") in the 70s, [Eric Jensen](Eric_Jensen "Eric Jensen"), [Tom Truscott](Tom_Truscott "Tom Truscott") and [Bruce Wright](Bruce_Wright "Bruce Wright"), written in [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") and [Assembly](Assembly "Assembly") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Duchess was one of the strongest programs of its time. In 1977, it was runner up at the [Second World Computer Chess Championship](WCCC_1977 "WCCC 1977") in [Toronto](https://en.wikipedia.org/wiki/Toronto), behind [Chess 4.6](</Chess_(Program)> "Chess (Program)") winning from [Kaissa](Kaissa "Kaissa") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and tied first with Chess 4.6 at the [Eighth North American Computer-Chess Championship](ACM_1977 "ACM 1977"), runner up due to tie breaking points. Duchess won the [Jerusalem CC Tournament 1978](Jerusalem_CC_Tournament_1978 "Jerusalem CC Tournament 1978") due it's victory versus Chess 4.6. At the [Third World Computer Chess Championship](WCCC_1980 "WCCC 1980") in [Linz](https://en.wikipedia.org/wiki/Linz) 1980, Duchess became third only losing from [Belle](Belle "Belle"). Duchess played seven [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") from [1974](ACM_1974 "ACM 1974") to [1981](ACM_1981 "ACM 1981").
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 ACM 1979](#acm-1979)
-  - [1.2 WCCC 1980](#wccc-1980)
-- [2 Description](#description)
-- [3 Quotes](#quotes)
-- [4 See also](#see-also)
-- [5 Publications](#publications)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-  - [7.1 Chess Program](#chess-program)
-  - [7.2 Misc](#misc)
-- [8 References](#references)
-
 ## Photos & Games
 
 ## ACM 1979

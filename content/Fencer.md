@@ -12,14 +12,6 @@ The [king safety](King_Safety "King Safety") function encourages it to launch at
 Shaun mentioned [valuing pieces](Point_Value "Point Value") as {1,4,4,6,12} instead of {1,3,3,5,9}, without any noticeable problems, and it appears [Hydra](Hydra "Hydra") had also headed in that direction, valuing minor pieces closer to 4 pawns than 3 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Fencer played the [NC3 2004](NC3_2004 "NC3 2004"), [NC3 2005](NC3_2005 "NC3 2005") and [NC3 2006](NC3_2006 "NC3 2006") [Australasian National Computer Chess Championships](Australasian_National_Computer_Chess_Championship "Australasian National Computer Chess Championship"), where it run on a [P4](X86 "X86") under [Linux](Linux "Linux").
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Selected Games
 
 [NC3 2006](NC3_2006 "NC3 2006"), round 5, [Awesome](Awesome "Awesome") - Fencer

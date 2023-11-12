@@ -10,25 +10,6 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy
 
 The two players, White and Black are each given four **amazons** in predefined locations. A supply of markers (checkers, poker chips, etc.) is also required. White makes the first move with one of his amazons, which move like a [queen](Queen "Queen") in chess, except captures. Each move contains **two** mandatory parts, moving the amazon and throwing an **arrow** from its [target square](Target_Square "Target Square") to one of its attacked empty squares, which is marked and permanently blocked. Amazon and the arrow can't land on or cross over any own or opponent amazon or arrow. The last player to be able to make a move, which includes throwing an arrow, wins.
 
-## Contents
-
-- [1 Computer Olympiads](#computer-olympiads)
-- [2 Selected Programs](#selected-programs)
-- [3 Photos](#photos)
-  - [3.1 Maastricht 2002](#maastricht-2002)
-  - [3.2 Yokohama 2013](#yokohama-2013)
-- [4 Branching Factor](#branching-factor)
-- [5 Selected Publications](#selected-publications)
-  - [5.1 1999](#1999)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-  - [6.1 Game](#game)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## [Computer Olympiads](Computer_Olympiad "Computer Olympiad")
 
 - [5th Computer Olympiad, London 2000](5th_Computer_Olympiad#Amazons "5th Computer Olympiad")

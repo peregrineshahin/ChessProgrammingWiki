@@ -8,13 +8,6 @@ title: Chess Brain
 
 a chess computer and program developed by [Karl-Heinz Milaster](Karl-Heinz_Milaster "Karl-Heinz Milaster"), using a chess co-processor build from a [Lattice Semiconductor](https://en.wikipedia.org/wiki/Lattice_Semiconductor) [programmable logic device](https://en.wikipedia.org/wiki/Programmable_logic_device), apparently as hardware [move generator](Move_Generation "Move Generation"). Chess Brain played the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https://en.wikipedia.org/wiki/Munich) with only moderate success after only four months of development.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Games
 
 [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), round 7, Chess Brain - [Nightmare](Nightmare_GER "Nightmare GER") <a id="cite-note-2" href="#cite-ref-2">[2]</a>

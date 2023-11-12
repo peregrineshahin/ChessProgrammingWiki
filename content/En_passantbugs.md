@@ -7,21 +7,6 @@ title: En passantbugs
 
 This chess rule makes chess programming a bit harder. First, the target square of the en passant capture is not identical with origin of the captured pawn, opposed to all other captures. Second, the double pawn push, which triggered the immediate possibility of an en passant capture, must be part of the [chess position](Chess_Position "Chess Position"). The information required is whether there was a previous pawn push, and if so, at least the [file number](Files "Files") of that pawn, considered as [en passant target square](Forsyth-Edwards_Notation#Enpassanttargetsquare "Forsyth-Edwards Notation") inside the [Forsyth-Edwards Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") (FEN), albeit with the redundant rank (3 or 6) as well.
 
-## Contents
-
-- [1 Legality Test](#legality-test)
-- [2 En passant bugs](#en-passant-bugs)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1999](#1999)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2005 ...](#2005-...)
-  - [4.4 2010 ...](#2010-...)
-  - [4.5 2015 ...](#2015-...)
-  - [4.6 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Legality Test
 
 To prove an en passant capture is actually possible, at least the [en passant target square](Forsyth-Edwards_Notation#Enpassanttargetsquare "Forsyth-Edwards Notation") should be under attack of an opponent pawn for [pseudo legality](Pseudo-Legal_Move "Pseudo-Legal Move"). Further, for [strict legality](Legal_Move "Legal Move"), the ep capturing pawn should not be [absolutely pinned](Pin#AbsolutePin "Pin"), which additionally requires a horizontal pin test of both involved pawns, which disappear from the same rank.

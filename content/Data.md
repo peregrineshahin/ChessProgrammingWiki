@@ -8,33 +8,6 @@ title: Data
 
 A [variable](https://en.wikipedia.org/wiki/Variable_%28programming%29) in the context of [programming languages](Languages "Languages"), associates a symbolic name with a [memory address](https://en.wikipedia.org/wiki/Memory_address).
 
-## Contents
-
-- [1 Processor's View](#processor.27s-view)
-- [2 Lifetime of Data](#lifetime-of-data)
-  - [2.1 Static Data](#static-data)
-  - [2.2 Dynamic Data](#dynamic-data)
-  - [2.3 Automatic Data](#automatic-data)
-- [3 Algorithms + Data](#algorithms-.2b-data)
-- [4 Primitive Types](#primitive-types)
-  - [4.1 General Purpose](#general-purpose)
-  - [4.2 Chess Specific](#chess-specific)
-- [5 Structured Data](#structured-data)
-  - [5.1 General Purpose](#general-purpose-2)
-  - [5.2 Chess Specific](#chess-specific-2)
-  - [5.3 Persistent Data](#persistent-data)
-- [6 Endianness](#endianness)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-  - [8.1 1960 ...](#1960-...)
-  - [8.2 1970 ...](#1970-...)
-  - [8.3 1980 ...](#1980-...)
-  - [8.4 1990 ...](#1990-...)
-  - [8.5 2000 ...](#2000-...)
-  - [8.6 2010 ...](#2010-...)
-- [9 External Links](#external-links)
-- [10 References](#references)
-
 ## Processor's View
 
 From processor's point of view, an atomic fixed sized data item with a unique memory address is a primitive data item, today usually with a size of one, two, four, or up to eight bytes, sometimes even 16 or 32 bytes. One of these data items may represent numbers in various formats and value ranges, finite sets, codes like a character of a text or a piece on the chessboard, or even instruction codes and memory addresses. It fits into one processor register and is subject of arithmetical or logical operations, or, if interpreted as (part of an) address, to perform random memory access, that is to store and retrieve primitive data items. Program code is decoded and interpreted as instruction to control the [combinatorial](Combinatorial_Logic "Combinatorial Logic") and [sequential logic](Sequential_Logic "Sequential Logic") while executing a program within its processor, usually distinct from application specific data, if the application is not an [assembler](https://en.wikipedia.org/wiki/Assembly_language#Assembler), [compiler](https://en.wikipedia.org/wiki/Compiler) or [debugger](https://en.wikipedia.org/wiki/Debugger) or anything related to [self-modifying code](https://en.wikipedia.org/wiki/Self-modifying_code) or [self-replication](https://en.wikipedia.org/wiki/Self-replication) <a id="cite-note-2" href="#cite-ref-2">[2]</a> .

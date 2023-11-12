@@ -14,15 +14,6 @@ the [WMCCC 1987](WMCCC_1987 "WMCCC 1987") in [Rome](https://en.wikipedia.org/wik
 and the [WMCCC 1988](WMCCC_1988 "WMCCC 1988") in [Almería](https://en.wikipedia.org/wiki/Almer%C3%ADa) <a id="cite-note-4" href="#cite-ref-4">[4]</a>,
 as [dedicated unit](Dedicated_Chess_Computers "Dedicated Chess Computers") on a [68020](68020 "68020") processor with a [SciSys Leonardo](SciSys_Leonardo "SciSys Leonardo") board as [user interface](User_Interface "User Interface") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. According to [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), Chat had only a [brute-force search](Brute-Force "Brute-Force") [depth](Depth "Depth") of one [ply](Ply "Ply"), but was otherwise quite [selective](Selectivity "Selectivity") <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Selected Games
 
 [](WCCC_1986#Video "WCCC 1986#Video")

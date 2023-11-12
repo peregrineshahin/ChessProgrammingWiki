@@ -8,17 +8,6 @@ title: Ernst A. Heinz
 
 a German computer scientist affiliated with the [UMIT](https://de.wikipedia.org/wiki/Private_Universit%C3%A4t_f%C3%BCr_Gesundheitswissenschaften,_Medizinische_Informatik_und_Technik), [Hall in Tirol](https://en.wikipedia.org/wiki/Hall_in_Tirol) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and previously with the [International University (IU) Bruchsal](https://de.wikipedia.org/wiki/International_University_in_Germany) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 1993, Ernst A. Heinz and [Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch"), two students at the [University of Karlsruhe](https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology), founded a computer-chess group and started to write a chess program, the [rotated bitboard](Rotated_Bitboards "Rotated Bitboards") engine [DarkThought](DarkThought "DarkThought") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, in 1994 joined by [Markus Gille](Markus_Gille "Markus Gille") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In 1997 Heinz started to write some recognized papers in the [ICCA Journal](ICGA_Journal "ICGA Journal"), which were summarized and extended into his 1999 Ph.D thesis [Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess), a revised version merchandised as book. From 1999 until 2002 Ernst A. Heinz was [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Scalable Search Topics](#scalable-search-topics)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1992 ...](#1992-...)
-  - [2.2 1995 ...](#1995-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2005 ...](#2005-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Scalable Search Topics
 
 - [AEL-Pruning](AEL-Pruning "AEL-Pruning")

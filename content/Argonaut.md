@@ -8,18 +8,6 @@ title: Argonaut
 
 a private chess engine by [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") and as successor of [Nexus](Nexus "Nexus"), written in [Pascal](Pascal "Pascal") and [Delphi](Delphi "Delphi"). Argonaut played the [IPCCC 2005 b](IPCCC_2005_b "IPCCC 2005 b") and the [ICT 2006](ICT_2006 "ICT 2006") over the board.
 
-## Contents
-
-- [1 Photos & Games](#photos-.26-games)
-  - [1.1 Neurosis](#neurosis)
-  - [1.2 Hermann](#hermann)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Photos & Games
 
 ## Neurosis

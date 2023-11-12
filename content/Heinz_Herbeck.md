@@ -10,13 +10,6 @@ an Austrian computer scientist, in the 90s affiliated with the [Vienna Universit
 His research interests include [algorithms](Algorithms "Algorithms") and [programming methodology](Programming "Programming") and computer chess.
 Heinz Herbeck implemented [B\*](B* "B*") applied to a rule based method for endgames like KPKP <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

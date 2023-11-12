@@ -8,13 +8,6 @@ title: Derek Oldbury
 was a British [draughts](https://en.wikipedia.org/wiki/English_draughts) ([Checkers](Checkers "Checkers")) champion, competing in seven [World Championship](https://en.wikipedia.org/wiki/World_Checkers/Draughts_Championship) matches, and rival of [Marion Tinsley](https://en.wikipedia.org/wiki/Marion_Tinsley). He was also a Checkers programmer, competing the [1st Computer Olympiad, 1989](1st_Computer_Olympiad#Checkers "1st Computer Olympiad") with his [Checker Hustler](https://www.game-ai-forum.org/icga-tournaments/program.php?id=341) program, and the [2nd Computer Olympiad, 1990](2nd_Computer_Olympiad#Checkers "2nd Computer Olympiad") with [Checkermate](https://www.game-ai-forum.org/icga-tournaments/program.php?id=390), written along with [Adrian Millett](Adrian_Millett "Adrian Millett").
 Oldbury was born [paraplegic](https://en.wikipedia.org/wiki/Paraplegia) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Photos
 
 [](http://www.online-museum-of-checkers-history.com/id61.html)

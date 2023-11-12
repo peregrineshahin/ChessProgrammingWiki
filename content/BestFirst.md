@@ -8,23 +8,6 @@ title: BestFirst
 
 Best-first algorithms like [A\*](https://en.wikipedia.org/wiki/A*_search_algorithm) are used for path finding in [combinatorial search](https://en.wikipedia.org/wiki/Combinatorial_search) and [puzzles](https://en.wikipedia.org/wiki/Puzzle). [Iterative deepening](Iterative_Deepening "Iterative Deepening") is a technique to turn [depth-first searches](Depth-First "Depth-First") into best-first with the advantage space grows [linear](https://en.wikipedia.org/wiki/Linear_growth) rather than [exponential](https://en.wikipedia.org/wiki/Exponential_growth) with increasing [search depth](Depth "Depth") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, as applied for instance in [IDA\*](https://en.wikipedia.org/wiki/IDA*).
 
-## Contents
-
-- [1 Two-Player](#two-player)
-- [2 Some Chess Programs](#some-chess-programs)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-  - [4.1 1960 ...](#1960-...)
-  - [4.2 1970 ...](#1970-...)
-  - [4.3 1980 ...](#1980-...)
-  - [4.4 1990 ...](#1990-...)
-  - [4.5 2000 ...](#2000-...)
-  - [4.6 2010 ...](#2010-...)
-  - [4.7 2020 ...](#2020-...)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Two-Player
 
 Following best-first algorithms were invented and implemented for computer chess programs as well for other two-player [zero-sum](<https://en.wikipedia.org/wiki/Zero-sum_(game_theory)>) board [game](Games "Games") players with [perfect information](https://en.wikipedia.org/wiki/Perfect_information):

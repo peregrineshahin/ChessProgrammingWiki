@@ -10,18 +10,6 @@ a former private and as of September 30, 2014 and version **3.20** <a id="cite-n
 at times supported by [Stefano Rocchi](index.php?title=Stefano_Rocchi&action=edit&redlink=1 "Stefano Rocchi (page does not exist)") et al.. As noted by Giancarlo Delli Colli, the progress of Equinox is the result of years of hard work by the authors - and "*[of course, like everybody else does](https://en.wikipedia.org/wiki/Argumentum_ad_populum)*", taking ideas from [open source engines](Category:Open_Source "Category:Open Source") like [Crafty](Crafty "Crafty"), [Stockfish](Stockfish "Stockfish"), [Ippolit](Ippolit "Ippolit"), and others, from the [CPW](Home "Home") and the [ICGA Journal](ICGA_Journal "ICGA Journal") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Equinox performed a [parallel search](Parallel_Search "Parallel Search") with up to 32 [threads](Thread "Thread").
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Photos](#photos)
-- [3 Selected Games](#selected-games)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Chess Engine](#chess-engine)
-  - [6.2 Misc](#misc)
-- [7 References](#references)
-
 ## Tournament Play
 
 After the [Lion](Lion "Lion") disaccord at the [WCCC 2006](WCCC_2006 "WCCC 2006") in [Turin](https://en.wikipedia.org/wiki/Turin), Giancarlo was welcomed back to the [ICGA](ICGA "ICGA") in 2009, to play with the then original Equinox the [WCCC 2009](WCCC_2009 "WCCC 2009") and the open hardware [14th Computer Olympiad 2009](14th_Computer_Olympiad "14th Computer Olympiad") <a id="cite-note-4" href="#cite-ref-4">[4]</a> in [Pamplona](https://en.wikipedia.org/wiki/Pamplona), supported by opening book author [Harry Schnapp](Harry_Schnapp "Harry Schnapp").

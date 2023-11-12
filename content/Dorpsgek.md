@@ -9,19 +9,6 @@ title: Dorpsgek
 a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") compliant chess engine by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), written in [C](C "C"), previously available as [open source](Category:Open_Source "Category:Open Source") licensed under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Dorpsgek versions were named after [Cocktails](https://en.wikipedia.org/wiki/Cocktail) in alphabetic order, starting with Ambrosia released in July 2016 <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 ## [Board Representation](Board_Representation "Board Representation")

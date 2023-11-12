@@ -8,14 +8,6 @@ title: APwin
 a [Windows](Windows "Windows") graphical user interface by [Paul Wiereyn](Paul_Wiereyn "Paul Wiereyn") which supports the free [chess problem solving engines](Category:Problem "Category:Problem") [Alybadix](Alybadix "Alybadix") and [Popeye](Popeye "Popeye").
 While earlier [DOS](MS-DOS "MS-DOS") versions were bundled with the former commercial Alybadix, APwin v2015 is freeware.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Screenshot
 
 [](https://alybadix.000webhostapp.com/apwin.htm#1)

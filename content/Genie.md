@@ -10,14 +10,6 @@ an early chess program written by [Herbert D. Raymond](Herbert_D._Raymond "Herbe
 
 Genie was a [Shannon Type B](Type_B_Strategy "Type B Strategy") program with a width of three or four moves, written in Quick Systems Programming Language (QSPL), which was also used for the [Community Memory](https://en.wikipedia.org/wiki/Community_Memory), the first public computerized [bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system).
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 Description](#description)
-- [3 See also](#see-also)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdf4190)

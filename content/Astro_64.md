@@ -8,14 +8,6 @@ title: Astro 64
 the first Romanian chess program, written by [Viorel Darie](Viorel_Darie "Viorel Darie") for the [Felix C-256](https://ro.wikipedia.org/wiki/Felix_C) [mainframe computer](https://en.wikipedia.org/wiki/Mainframe_computer) at the Computer Institute of [Bucharest](https://en.wikipedia.org/wiki/Bucharest) <a id="cite-note-1" href="#cite-ref-1">[1]</a>, developed in about two years starting from 1976.
 Astro 64 searched about 10,000 positions per minute (166 [nps](Nodes_per_Second "Nodes per Second")) on the Felix C-256, and played a public match of one move per week in 1978/79 against the readers of a Romanian newspaper, also published in [Personal Computing](Personal_Computing "Personal Computing") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 The Match](#the-match)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## The Match
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

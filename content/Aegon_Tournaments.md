@@ -8,14 +8,6 @@ title: Aegon Tournaments
 
 were initiated and organized by members of the [CSVN](CSVN "CSVN"), [Cock de Gorter](Cock_de_Gorter "Cock de Gorter") *et al.*, and hosted by the [Aegon](https://en.wikipedia.org/wiki/Aegon_N.V.) [insurance](https://en.wikipedia.org/wiki/Insurance) company in [The Hague](https://en.wikipedia.org/wiki/The_Hague), [the Netherlands](https://en.wikipedia.org/wiki/Netherlands). An equal number of human players and computer chess programs were playing six (1986 seven, 1989 five) rounds of a [swiss system](https://en.wikipedia.org/wiki/Swiss_system_tournament), with the constraint of man playing machines only. The Aegon tournament started almost with local chess players and anti-computer chess specialists. Later more and more [International Masters](https://en.wikipedia.org/wiki/International_Master) and [Grandmasters](https://en.wikipedia.org/wiki/Grandmaster_%28chess%29) were invited, with increasing costs for the sponsor. Apparently due to the 1997 [Kasparov versus Deep Blue match](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"), the 1997 Tournament was the last edition <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Editions](#editions)
-- [2 Photos](#photos)
-- [3 Tournament Organizers](#tournament-organizers)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Editions
 
 |  Edition

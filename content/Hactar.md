@@ -11,21 +11,6 @@ Like its successors [squared-chess](Squared-chess "Squared-chess"), [Googleplex 
 by looking up four pre-calculated line attack arrays, 32-Kbyte each, indexed by square and [inner six bit](First_Rank_Attacks#TheOuterSquares "First Rank Attacks") [line occupancy](Occupancy_of_any_Line "Occupancy of any Line")
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Etymology](#etymology)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-  - [2.4 Misc](#misc)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc-2)
-- [6 References](#references)
-
 ## Etymology
 
 Hactar appears in [Life, the Universe and Everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything), the third book in the five-volume [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) by [Douglas Adams](Category:Douglas_Adams "Category:Douglas Adams") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.

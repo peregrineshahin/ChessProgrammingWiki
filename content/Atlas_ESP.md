@@ -10,23 +10,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Andrés Manzanares Campillo](Andr
 The development of Atlas started in 2004, initially [representing the board](Board_Representation "Board Representation") as [0x88](0x88 "0x88") [vector attacks](Vector_Attacks "Vector Attacks") [mailbox](Mailbox "Mailbox") along with [piece-lists](Piece-Lists "Piece-Lists"),
 supporting [WinBoard](WinBoard "WinBoard"), and written in [C](C "C"). Atlas **2.90** was a complete rewrite released in June 2011, a [bitboard](Bitboards "Bitboards") approach only supporting UCI <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Features](#features)
-  - [1.1 Board Representation](#board-representation)
-  - [1.2 Search](#search)
-  - [1.3 Evaluation](#evaluation)
-- [2 Namesake](#namesake)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2005 ...](#2005-...)
-  - [3.2 2010 ...](#2010-...)
-  - [3.3 2015 ...](#2015-...)
-  - [3.4 2020 ...](#2020-...)
-- [4 External Links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

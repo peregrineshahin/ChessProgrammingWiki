@@ -8,15 +8,6 @@ title: Constellation
 
 a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") with a 8-bit [6502](6502 "6502") CPU and 16 KB [ROM](Memory#ROM "Memory") and 2 KB [RAM](Memory#RAM "Memory"), manufactured and market in 1983 by [Novag](Novag "Novag"), running a program developed by primary author [David Kittinger](David_Kittinger "David Kittinger"), supported by chess master [Scott McDonald](Scott_McDonald "Scott McDonald"). It was the forerunner of the mighty [Super Constellation](Super_Constellation "Super Constellation"), and participated along with its big brother at the [WMCCC 1983](WMCCC_1983 "WMCCC 1983") in [Budapest](https://en.wikipedia.org/wiki/Budapest).
 
-## Contents
-
-- [1 Innovations](#innovations)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Innovations
 
 The Constellation applied the [attack map / offset map](Vector_Attacks "Vector Attacks") [move generation](Move_Generation "Move Generation") technique as proposed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"). In [evaluation](Evaluation "Evaluation") Connie already [preprocessed](Piece-Square_Tables#Preprocessing "Piece-Square Tables") the [piece-square tables](Piece-Square_Tables "Piece-Square Tables") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, becoming famous as [pre scan heuristics](Oracle "Oracle") in particular credited to the Super Connie due to its playing style.

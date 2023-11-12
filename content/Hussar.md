@@ -11,15 +11,6 @@ Its development apparently started in 2009, after Péter's former engine [Asteri
 Hussar **0.1** was first released in 2010.
 Last recent version was Hussar **0.4**, released in 2011. Hussar is able to play [Chess960](Chess960 "Chess960") and supports [skill](Playing_Strength "Playing Strength") levels <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Asterisk](Asterisk "Asterisk")

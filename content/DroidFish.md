@@ -11,15 +11,6 @@ title: DroidFish
 a port of [Stockfish](Stockfish "Stockfish") as standalone [UCI](UCI "UCI") compliant chess application for [Android](Android "Android") platforms, implemented by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"). DroidFish incorporates the [GUI](GUI "GUI") and [opening book](Opening_Book "Opening Book") code derived from [CuckooChess](CuckooChess "CuckooChess") by Peter Österlund, the CuckooChess [Java](Java "Java") chess engine itself, and Stockfish by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba") and [Joona Kiiski](Joona_Kiiski "Joona Kiiski"). The port of Stockfish didn't involve changing the Stockfish source code, but finding a compatible [STL](https://en.wikipedia.org/wiki/Standard_Template_Library) implementation for Android, and compiling the source code with the correct combination of compiler flags as a [library](https://en.wikipedia.org/wiki/Library_%28computing%29) which is accessed using [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Further, since version **1.4**, DroidChess supports [Gaviota Tablebases](Gaviota_Tablebases "Gaviota Tablebases") and includes the probing code by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and since version **1.55**, [Syzygy Bases](Syzygy_Bases "Syzygy Bases") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Chess for Android](Chess_for_Android "Chess for Android")

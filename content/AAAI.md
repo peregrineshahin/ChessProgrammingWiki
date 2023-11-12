@@ -8,15 +8,6 @@ title: AAAI
 
 the **Association for the Advancement of Artificial Intelligence** is a [nonprofit](https://en.wikipedia.org/wiki/Non-profit_organization) scientific society devoted to advancing the scientific understanding of the mechanisms underlying thought and [intelligent behavior](Artificial_Intelligence "Artificial Intelligence") and their embodiment in machines. AAAI was founded in 1979 under the name *American Association for Artificial Intelligence* and changed its name in 2007 <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
-## Contents
-
-- [1 Presidents](#presidents)
-- [2 See also](#see-also)
-- [3 Publications and Journals](#publications-and-journals)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Presidents
 
 Since 1985, Presidents have served a two-year term, preceded by two years as President-Elect, and followed by two years as Past President. Prior to that time, presidents served one year in each position <a id="cite-note-3" href="#cite-ref-3">[3]</a> .

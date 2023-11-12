@@ -7,13 +7,6 @@ title: Ches
 
 a chess program developed by a team of researchers and students affiliated with the [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), [David Barton](index.php?title=David_Barton&action=edit&redlink=1 "David Barton (page does not exist)"), [Craig Barnes](Craig_Barnes "Craig Barnes"), and [Peter Rowe](index.php?title=Peter_Rowe&action=edit&redlink=1 "Peter Rowe (page does not exist)"). Ches played the [ACM 1973](ACM_1973 "ACM 1973") in [Atlanta](https://en.wikipedia.org/wiki/Atlanta%2C_Georgia), [Georgia](https://en.wikipedia.org/wiki/Georgia_%28U.S._state%29) and ran on a [HP 3000](index.php?title=HP_3000&action=edit&redlink=1 "HP 3000 (page does not exist)") of the university <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-## Contents
-
-- [1 Selected Games](#selected-games)
-  - [1.1 CHAOS](#chaos)
-  - [1.2 Belle](#belle)
-- [2 References](#references)
-
 ## Selected Games
 
 ## CHAOS

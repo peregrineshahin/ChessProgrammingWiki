@@ -10,21 +10,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 Over the time, GreKo experienced various changes, applying a [0x88](0x88 "0x88") board with [piece lists](Piece-Lists "Piece-Lists"), a hybrid [bitboard](Bitboards "Bitboards")-0x88 approach, and in 2008, [Magic bitboards](Magic_Bitboards "Magic Bitboards"). Search has become [PVS](Principal_Variation_Search "Principal Variation Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning") with [R=4](Depth_Reduction_R "Depth Reduction R"), and a lot of new evaluation terms such as [mobility](Mobility "Mobility") and [material imbalances](Material#Balance "Material") were added, and [position learning](Learning "Learning") applied. Since version 5.0, GreKo further supports [UCI](UCI "UCI") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In April 2011, GreKo was ported by [Aart Bik](Aart_Bik "Aart Bik") for [Android](Android "Android") using the [GUI](GUI "GUI") of his [Chess for Android](Chess_for_Android "Chess for Android") application <a id="cite-note-4" href="#cite-ref-4">[4]</a>. GreKo 2015 ML, released in July 2016 <a id="cite-note-5" href="#cite-ref-5">[5]</a>, features a command for learning from a [PGN](Portable_Game_Notation "Portable Game Notation") file. The algorithm is similar to [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method"), but using [evaluation function](Evaluation_Function "Evaluation Function") instead of expensive [quiescence search](Quiescence_Search "Quiescence Search") for making predictions of game results <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
-## Contents
-
-- [1 Tournament Play](#tournament-play)
-- [2 Etymology](#etymology)
-- [3 Derivatives](#derivatives)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2002...](#2002...)
-  - [5.2 2005 ...](#2005-...)
-  - [5.3 2010 ...](#2010-...)
-  - [5.4 2015 ...](#2015-...)
-  - [5.5 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## Tournament Play
 
 GreKo participated at the [1st Computer Chess Championship of CIS Countries](CCCCISC_2008 "CCCCISC 2008"), [Moscow](https://en.wikipedia.org/wiki/Moscow) 2008.

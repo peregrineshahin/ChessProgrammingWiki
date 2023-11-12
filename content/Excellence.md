@@ -10,15 +10,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 The computer ran an improved [Elite](Elite "Elite") [6502](6502 "6502") program of the shared [WMCCC 1984](WMCCC_1984 "WMCCC 1984") champion, which was a [Sargon](Sargon "Sargon") based program by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") at 3 or 4 MHz, while a 8 MHz version played the 1985 [U.S. Open Championship](https://en.wikipedia.org/wiki/U.S._Open_Chess_Championship) in [Hollywood, Florida](https://en.wikipedia.org/wiki/Hollywood,_Florida) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 The Excellence was announced by Fidelity as "over 2000 rated machine" that would sell for "under $100". Strength claims were subject of a lawsuit between Fidelity Electronics and [ICD Corporation](index.php?title=ICD_Corporation&action=edit&redlink=1 "ICD Corporation (page does not exist)"), who assigned a more skeptical but realistic "over 1700" rating in their [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) promotion of the Excellence <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Computer](#chess-computer)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Chess Challenger](Chess_Challenger "Chess Challenger")

@@ -13,15 +13,6 @@ applying [Negamax](Negamax "Negamax") [Alpha-Beta](Alpha-Beta "Alpha-Beta"), a q
 The new version, a complete rewrite, supports the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 E.T.Chess played the [Massy 2002](Massy_2002 "Massy 2002") and [Massy 2004](Massy_2004 "Massy 2004") [French Programmers Tournaments](French_Programmers_Tournament "French Programmers Tournament") and the [CCT10](CCT10 "CCT10").
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## Screenshot
 
 [](http://eric.triki.pagesperso-orange.fr/dos_en.html)

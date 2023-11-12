@@ -8,20 +8,6 @@ title: Gochess
 a didactic [open source chess engine](Category:Open_Source "Category:Open Source") by [Franziskus Domig](index.php?title=Franziskus_Domig&action=edit&redlink=1 "Franziskus Domig (page does not exist)"), written in [Golang](</Go_(Programming_Language)> "Go (Programming Language)"), released under the [MIT license](Massachusetts_Institute_of_Technology#License "Massachusetts Institute of Technology") <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 It was inspired by [chess-at-nite](Chess-at-nite "Chess-at-nite") ([C/C++](Cpp "Cpp")) and uses most of its concepts <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Unicode](#unicode)
-- [3 Features](#features)
-  - [3.1 Board Representation](#board-representation)
-  - [3.2 Search](#search)
-  - [3.3 Evaluation](#evaluation)
-- [4 See also](#see-also)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Namesakes](#namesakes)
-- [6 References](#references)
-
 ## Screenshot
 
 [](https://github.com/fdomig/gochess/blob/master/gochess.png)

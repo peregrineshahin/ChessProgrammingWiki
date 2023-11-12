@@ -11,15 +11,6 @@ guest faculty and professional at the [International Institute of Information Te
 His research interests include [optimization problems](https://en.wikipedia.org/wiki/Optimization_problem), [machine learning](Learning "Learning"), [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing) and [Internet](https://en.wikipedia.org/wiki/Internet) technology.
 As advisor of [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte"), he co-authored a paper <a id="cite-note-3" href="#cite-ref-3">[3]</a> on Rahul's master's thesis chess program [Phoenix](</Phoenix_(Rahul)> "Phoenix (Rahul)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> based on [CuckooChess](CuckooChess "CuckooChess") by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") - who however came to other conclusions as the authors in trying the optimized [piece-square tables](Piece-Square_Tables "Piece-Square Tables") in CuckooChess <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

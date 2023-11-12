@@ -10,17 +10,6 @@ title: Advances in Computer Games 15
 
 from July 3 to 5, [2017](Timeline#2017 "Timeline"), Snellius Building <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [Leiden University](Leiden_University "Leiden University"), [Leiden](https://en.wikipedia.org/wiki/Leiden), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands), in conjunction with the [WCCC 2017](WCCC_2017 "WCCC 2017"), [WCSC 2017](WCSC_2017 "WCSC 2017"), and the [20th Computer Olympiad](20th_Computer_Olympiad "20th Computer Olympiad"). ACG is the conference of the [ICGA](ICGA "ICGA").
 
-## Contents
-
-- [1 Lectures](#lectures)
-  - [1.1 Day 1](#day-1)
-  - [1.2 Day 2](#day-2)
-  - [1.3 Day 3](#day-3)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Lectures
 
 ## Day 1

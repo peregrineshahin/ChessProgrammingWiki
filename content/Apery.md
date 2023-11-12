@@ -15,18 +15,6 @@ Apery's initial [evaluation](Evaluation "Evaluation") was [Bonanza](Bonanza "Bon
 More recent versions require evaluation function binaries as a sub-module as specified by the USI Eval_Dir command.
 Since 2012, Apery regularly participates at [World Computer Shogi Championships](World_Computer_Shogi_Championship "World Computer Shogi Championship"). It won the [WCSC24](index.php?title=WCSC24&action=edit&redlink=1 "WCSC24 (page does not exist)") in 2014, and became third at the [WCSC28](index.php?title=WCSC28&action=edit&redlink=1 "WCSC28 (page does not exist)") in 2018.
 
-## Contents
-
-- [1 Bitboards](#bitboards)
-  - [1.1 C++](#c.2b.2b)
-  - [1.2 Rust](#rust)
-- [2 Publications](#publications)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-  - [4.1 Shogi Engine](#shogi-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Bitboards
 
 Shogi [Bitboards](Bitboards "Bitboards") are defined as [array](Array "Array") of two [quad words](Quad_Word "Quad Word").

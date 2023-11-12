@@ -8,15 +8,6 @@ title: ByoungTak Zhang
 
 a Korean computer scientist, cognitive scientist, professor of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [cognitive science](Cognition "Cognition") at [Seoul National University](https://en.wikipedia.org/wiki/Seoul_National_University), and director of its Center for Biointelligence Technology <a id="cite-note-2" href="#cite-ref-2">[2]</a> , as well as head of its Cognitive Robotics and Artificial Intelligence Group (CRAIG). He holds a Ph.D. in CS and AI from [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) in 1992, where his advisors include [Gerd Veenker](Gerd_Veenker "Gerd Veenker") and [Armin Cremers](Mathematician#ABCremers "Mathematician"), and had various research and teaching appointments in academia and industry, such as visiting scholar and professor at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") and [Princeton University](https://en.wikipedia.org/wiki/Princeton_University). His research interests include [neuroinformatics](https://en.wikipedia.org/wiki/Neuroinformatics), [probabilistic models](https://en.wikipedia.org/wiki/Statistical_model) of [brain](https://en.wikipedia.org/wiki/Brain) and cognition, [neural networks](Neural_Networks "Neural Networks"), [genetic algorithms](Genetic_Programming#GeneticAlgorithm "Genetic Programming"), and [robotics](https://en.wikipedia.org/wiki/Robotics).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1990 ...](#1990-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

@@ -10,16 +10,6 @@ a French computer scientist and games researcher, currently at [University of Ne
 He hold a Ph.D. from [Lamsade](https://en.wikipedia.org/wiki/Lamsade), [Paris Dauphine University](University_of_Paris#9 "University of Paris") in 2013 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 His research interests include [Linear temporal logic (LTL)](https://en.wikipedia.org/wiki/Linear_temporal_logic) [model checking](https://en.wikipedia.org/wiki/Model_checking), [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [Proof-number search](Proof-Number_Search "Proof-Number Search") and [General Game Playing](General_Game_Playing "General Game Playing"). Along with [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), Abdallah Saffidine is co-author of the [Hex](Hex "Hex") program [Yopt](https://www.game-ai-forum.org/icga-tournaments/program.php?id=556), which performs Monte-Carlo Tree Search.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2009](#2009)
-  - [1.2 2010 ...](#2010-...)
-  - [1.3 2015 ...](#2015-...)
-  - [1.4 2020 ...](#2020-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

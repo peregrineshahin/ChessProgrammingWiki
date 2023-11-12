@@ -9,14 +9,6 @@ title: Guillaume Chaslot
 a French computer scientist, and software engineer. Previously affiliated with [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)"), he now has founded his own company *AlgoTransparency* <a id="cite-note-2" href="#cite-ref-2">[2]</a> and is engaged at *Bayes impact*, a group of practical idealists who believe that applied properly, data can be used to solve the world's biggest problems <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 He holds a Ph.D. in 2010 from [Maastricht University](Maastricht_University "Maastricht University") on [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, working in the fields of [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") and [Machine Learning](Learning "Learning"). Guillaume Chaslot is co-autor of the [Backgammon](Backgammon "Backgammon") program [MCgammon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=506), along with [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito") author of the [Go](Go "Go") playing program [Mango](https://www.game-ai-forum.org/icga-tournaments/program.php?id=4), and contributor of [MoGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=515), both using [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") and patterns in the simulations and improvements in [UCT](UCT "UCT") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 2006 ...](#2006-...)
-  - [1.2 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>

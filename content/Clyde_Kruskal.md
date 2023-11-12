@@ -10,19 +10,6 @@ an American mathematician, computer scientist, and associate professor at [Unive
 He earned his Ph.D. degree in computer science at [New York University](https://en.wikipedia.org/wiki/New_York_University) under [Jack Schwartz](Mathematician#JacobTSchwartz "Mathematician") in 1981 on *Upper and Lower Bounds on the Performance of Parallel Algorithms*.
 Beside [parallel architectures](https://en.wikipedia.org/wiki/Parallel_computing) and [parallel algorithms](https://en.wikipedia.org/wiki/Parallel_algorithm), his research interests include [stochastic games](https://en.wikipedia.org/wiki/Stochastic_game), in particular the games of [Can't Stop](<https://en.wikipedia.org/wiki/Can%27t_Stop_(board_game)>) and [Domineering](index.php?title=Domineering&action=edit&redlink=1 "Domineering (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Genealogy](#genealogy)
-- [2 Selected Publications](#selected-publications)
-  - [2.1 1981 ...](#1981-...)
-  - [2.2 1990 ...](#1990-...)
-  - [2.3 2000 ...](#2000-...)
-  - [2.4 2010 ...](#2010-...)
-- [3 External Links](#external-links)
-  - [3.1 Clyde Kruskal](#clyde-kruskal)
-  - [3.2 Genealogy](#genealogy-2)
-- [4 References](#references)
-
 ## Genealogy
 
 Clyde Kruskal is son of mathematician [Martin Kruskal](Mathematician#MartinKruskal "Mathematician") (1925 – 2006), and nephew of mathematicians and statisticians [Joseph Kruskal](Mathematician#JBKruskal "Mathematician") (1928 - 2010) and [William Kruskal](Mathematician#WHKruskal "Mathematician") (1919 - 2005).

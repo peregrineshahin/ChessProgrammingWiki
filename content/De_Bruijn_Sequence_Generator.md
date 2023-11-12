@@ -5,14 +5,6 @@ title: De Bruijn Sequence Generator
 
 A [recursive](Recursion "Recursion") backtracking implementation of a [64-bit](Bitboards "Bitboards") [De Bruijn Sequence](De_Bruijn_Sequence "De Bruijn Sequence") generator in [C++](Cpp "Cpp"), to build a "private" [bitScanForward](BitScan#DeBruijnMultiplation "BitScan")-routine. Compile the program, and start it with a parameter between 1 and 67108864 (2^26). Test-output with some "unique" private number. By [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg").
 
-## Contents
-
-- [1 Program Output](#program-output)
-- [2 Source](#source)
-- [3 Remarks](#remarks)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-
 ## Program Output
 
 ```C++

@@ -8,17 +8,6 @@ title: Advances in Computer Chess 1
 \[ [Balliol College, Oxford](https://en.wikipedia.org/wiki/Balliol_College,_Oxford) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Advances in Computer Chess 1** conference was held in March [1975](Timeline#1975 "Timeline") at [Balliol College, Oxford](https://en.wikipedia.org/wiki/Balliol_College,_Oxford), [England](https://en.wikipedia.org/wiki/England), and was organized by the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") and the [Society for the Study of Artificial Intelligence and Simulation of Behaviour](http://www.aisb.org.uk/) (SSAISB). [Proceedings](https://en.wikipedia.org/wiki/Proceedings) were published in 1977, edited by [Mike Clarke](Mike_Clarke "Mike Clarke"). It was already the second conference on computer chess, after a conference meeting on chess playing by computer in May 1973 at [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Proceedings](#proceedings)
-- [2 Papers](#papers)
-- [3 Reviews](#reviews)
-- [4 The Forerunner](#the-forerunner)
-- [5 ACC1](#acc1)
-- [6 Forum Posts](#forum-posts)
-- [7 External Links](#external-links)
-- [8 References](#references)
-
 ## Proceedings
 
 - **Advances in Computer Chess 1**

@@ -11,29 +11,6 @@ Colossus Chess 2.0 was the first commercial release in 1984 for the [Commodore 6
 Colossus Chess pioneered a sophisticated [GUI](GUI "GUI") with an optional [3D chessboard](3D_Graphics_Board "3D Graphics Board"), and lot of new features for that time, and has become one of the best selling chess programs of all time <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Colossus Chess played the [European MCC 1983](European_MCC_1983 "European MCC 1983") in [London](https://en.wikipedia.org/wiki/London) and the [WMCCC 1984](WMCCC_1984 "WMCCC 1984") in [Glasgow](https://en.wikipedia.org/wiki/Glasgow).
 
-## Contents
-
-- [1 Colossus Chess UCI](#colossus-chess-uci)
-  - [1.1 Search](#search)
-  - [1.2 Evaluation](#evaluation)
-  - [1.3 Misc](#misc)
-- [2 See also](#see-also)
-- [3 Publications](#publications)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 1996 ...](#1996-...)
-  - [4.2 2000 ...](#2000-...)
-  - [4.3 2010 ...](#2010-...)
-  - [4.4 2020 ...](#2020-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engines](#chess-engines)
-    - [5.1.1 Colossus 2.0](#colossus-2.0)
-    - [5.1.2 Colossus 3.0](#colossus-3.0)
-    - [5.1.3 Colossus 4.0](#colossus-4.0)
-    - [5.1.4 Colossus X](#colossus-x)
-    - [5.1.5 Colossus Chess UCI](#colossus-chess-uci-2)
-  - [5.2 Misc](#misc-2)
-- [6 References](#references)
-
 ## Colossus Chess UCI
 
 While the work on the commercial Colossus Chess series finished in 1991, Martin Bryant started a completely new and freely available [UCI](UCI "UCI") version in 2004, running under [Windows](Windows "Windows"), first written in [C#](C_sharp "C sharp") then converted to [C](C "C") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, released in 2005 through 2008 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, as well as 13 years later in **2021** as 64-bit [Windows](Windows "Windows") executable <a id="cite-note-5" href="#cite-ref-5">[5]</a>.

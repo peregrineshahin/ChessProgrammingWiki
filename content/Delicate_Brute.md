@@ -8,20 +8,6 @@ title: Delicate Brute
 an experimental chess program by [Don Beal](Don_Beal "Don Beal") written in [C](C "C"), which participated at the [ACM 1991](ACM_1991 "ACM 1991") and the [WCCC 1992](WCCC_1992 "WCCC 1992"), running on a [Sun-4](Sun#4 "Sun") [workstation](https://en.wikipedia.org/wiki/Workstation) and about 4K [nodes per second](Nodes_per_Second "Nodes per Second") in 1991, and at the WMCCC on a [Sun Sparc II](SPARCstation "SPARCstation") with about 10K Nps <a id="cite-note-1" href="#cite-ref-1">[1]</a>. Apparently, Delicate Brute was a [brute-force](Brute-Force "Brute-Force") approach enhanced by [selectivity](Selectivity "Selectivity") as introduced by [Don Beal](Don_Beal "Don Beal") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 such as using the [null move quiescence search](Null_Move_Pruning#NMQS "Null Move Pruning"), a selective layer between a regular full width search and [quiescence search](Quiescence_Search "Quiescence Search"), later dubbed **Generalized Quiescence Search** <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 ACM 1991](#acm-1991)
-  - [1.1 Round 1](#round-1)
-  - [1.2 Round 2](#round-2)
-  - [1.3 Round 3](#round-3)
-  - [1.4 Round 4](#round-4)
-  - [1.5 Round 5](#round-5)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-  - [3.1 Chess Program](#chess-program)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## ACM 1991
 
 Excerpt from [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [Michael Valvo](Michael_Valvo "Michael Valvo") *The 22d Annual ACM International Chess Championship* <a id="cite-note-4" href="#cite-ref-4">[4]</a>:

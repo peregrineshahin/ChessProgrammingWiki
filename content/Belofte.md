@@ -9,19 +9,6 @@ title: Belofte
 an [open source chess engine](Category:Open_Source "Category:Open Source") by [Yves De Billoëz](Yves_De_Billo%C3%ABz "Yves De Billoëz"), written in [C](C "C") and released under the [GPL license](Free_Software_Foundation#GPL "Free Software Foundation") v2.
 Belofte is a [console application](https://en.wikipedia.org/wiki/Console_application), and supports the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") aka [WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard") protocol, since Belofte **2.0.6** in October 2020, [UCI](UCI "UCI").
 
-## Contents
-
-- [1 Features](#features)
-- [2 History](#history)
-- [3 Forum Posts](#forum-posts)
-  - [3.1 2007](#2007)
-  - [3.2 2017 ...](#2017-...)
-  - [3.3 2020 ...](#2020-...)
-- [4 External links](#external-links)
-  - [4.1 Chess Engine](#chess-engine)
-  - [4.2 Misc](#misc)
-- [5 References](#references)
-
 ## Features
 
 The engine supports [EPD](Extended_Position_Description "Extended Position Description") test sets and can be run with initialization files. Games are saved in [PGN](Portable_Game_Notation "Portable Game Notation") format.

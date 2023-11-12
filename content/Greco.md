@@ -8,13 +8,6 @@ title: Greco
 
 a chess program by [David Stafford](David_Stafford "David Stafford"). Greco was written in the [C](C "C") programming language and played the [ACM 1987](ACM_1987 "ACM 1987") running on an [8086](8086 "8086") [IBM PC](IBM_PC "IBM PC") compatible under [MS-DOS](MS-DOS "MS-DOS"), where it searched about 450 [nodes per second](Nodes_per_Second "Nodes per Second") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Games](#games)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Games
 
 [ACM 1987](ACM_1987 "ACM 1987"), round 4, Greco - [GNU Chess](GNU_Chess "GNU Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>

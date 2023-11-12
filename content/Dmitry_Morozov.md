@@ -9,12 +9,6 @@ title: Dmitry Morozov
 a Russian programmer and chess player. He is [FIDE-Master](https://en.wikipedia.org/wiki/FIDE_Master) in over the board chess (since 2001) <a id="cite-note-2" href="#cite-ref-2">[2]</a> and Senior International Master in [Correspondence Chess](https://en.wikipedia.org/wiki/Correspondence_chess) [[1]](#cite-note-iccf-1).
 Engaged in programming since 1994, Dmitry Morozov started first chess programming trials in 2004 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He is author of the [UCI](UCI "UCI") compliant chess engine [Quazar](Quazar "Quazar").
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Forum Posts
 
 - [Quazar - New Chess Engine](http://www.talkchess.com/forum3/viewtopic.php?t=40633) by Dmitry Morozov, [CCC](CCC "CCC"), October 04, 2011

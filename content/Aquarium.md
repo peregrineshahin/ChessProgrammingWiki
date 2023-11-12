@@ -8,22 +8,6 @@ title: Aquarium
 
 a sophisticated, commercial [Windows](Windows "Windows") [GUI](GUI "GUI") by [ChessOK](ChessOK "ChessOK"), developed by [Victor Zakharov](Victor_Zakharov "Victor Zakharov") and [Vladimir Makhnychev](Vladimir_Makhnychev "Vladimir Makhnychev") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, supporting [UCI](UCI "UCI") and [WinBoard](WinBoard "WinBoard") engines. Aquarium is based on the fluent design as introduced by [Microsoft](Microsoft "Microsoft") [Office 2007](https://en.wikipedia.org/wiki/Microsoft_Office_2007), featuring a [ribbon](https://en.wikipedia.org/wiki/Ribbon_%28computing%29), which is a set of [toolbars](https://en.wikipedia.org/wiki/Toolbar) placed on [tabs](https://en.wikipedia.org/wiki/Tab_%28GUI%29) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Beside the ribbon, the main window is tiled by a navigation window with multiple [panes](https://en.wikipedia.org/wiki/Paned_window) to switch modes and documents, and a bigger working area with various views on that documents, that is [game databases](Databases "Databases"), generated game lists and move variation trees as result of database queries, and a single [chess game](Chess_Game "Chess Game"), optional with variation trees and [notations](Game_Notation "Game Notation"). In game playing or analyzing mode, the working area is dominated by a board view associated with [dockable](https://en.wikipedia.org/wiki/Dock_%28computing%29) and [stackable](https://en.wikipedia.org/wiki/Stacking_window_manager) notation-, multiple column tree-, header-, analysis- and information windows. First released as [aquarium](https://en.wikipedia.org/wiki/Aquarium) for the [fish](Category:Fish "Category:Fish") dubbed [Rybka](Rybka "Rybka"), the Aquarium GUI is also bundled with [Houdini](Houdini "Houdini") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Database](#database)
-- [3 IDeA](#idea)
-- [4 See also](#see-also)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 2008 ...](#2008-...)
-  - [5.2 2010 ...](#2010-...)
-  - [5.3 2015 ...](#2015-...)
-- [6 External Links](#external-links)
-  - [6.1 Chess GUI](#chess-gui)
-  - [6.2 IDeA](#idea-2)
-  - [6.3 Misc](#misc)
-- [7 References](#references)
-
 ## Screenshot
 
 [](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=440)

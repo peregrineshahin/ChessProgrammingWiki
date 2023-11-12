@@ -7,24 +7,6 @@ title: DOCCC 2000
 
 The **20th Dutch Open Computer Chess Championship** took place at [Denksportcentrum](http://www.denksportcentrumleiden.nl/) [Leiden](https://en.wikipedia.org/wiki/Leiden). It was an eleven round [swiss tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament) at two consecutive week ends, October 14-15 and 21-22, [2000](Timeline#2000 "Timeline").
 
-## Contents
-
-- [1 Final Standing](#final-standing)
-- [2 Photos](#photos)
-  - [2.1 Theo](#theo)
-  - [2.2 Duck - Ant](#duck---ant)
-  - [2.3 GoldBar - Morphy](#goldbar---morphy)
-  - [2.4 Tao - Patzer](#tao---patzer)
-  - [2.5 XiniX - McTobber](#xinix---mctobber)
-  - [2.6 Winners](#winners)
-- [3 Selected Games](#selected-games)
-  - [3.1 Round 5](#round-5)
-  - [3.2 Round 9](#round-9)
-  - [3.3 Round 10](#round-10)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Final Standing
 
 <a id="cite-note-1" href="#cite-ref-1">[1]</a>

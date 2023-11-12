@@ -7,15 +7,6 @@ title: Daniel Edwards
 
 an American computer scientist with a long-term career as a [computer security](https://en.wikipedia.org/wiki/Computer_security) researcher at the [National Security Agency](https://en.wikipedia.org/wiki/National_Security_Agency) (NSA) <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In 1972 he coined the term [Trojan horse](<https://en.wikipedia.org/wiki/Trojan_horse_(computing)>) for [malicious](https://en.wikipedia.org/wiki/Malware) computer programs <a id="cite-note-2" href="#cite-ref-2">[2]</a>. In the 60s, while affiliated with [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), he was involved in the initial development of [LISP](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)") within the group of [John McCarthy](John_McCarthy "John McCarthy"). Along with [Timothy Hart](Timothy_Hart "Timothy Hart"), Daniel Edwards wrote a memo on [Alpha-Beta](Alpha-Beta "Alpha-Beta") in December 1961, revised version in 1963 <a id="cite-note-3" href="#cite-ref-3">[3]</a>. It also contains a Theorem by [Michael Levin](Michael_Levin "Michael Levin"), the well known [formula of the number](Node_Types#LeafNodes "Node Types") of [leaf nodes](Leaf_Node "Leaf Node") that need to be examined in Alpha-Beta.
 
-## Contents
-
-- [1 Quotes](#quotes)
-  - [1.1 Alpha-Beta](#alpha-beta)
-  - [1.2 LISP](#lisp)
-- [2 See also](#see-also)
-- [3 Selected Publications](#selected-publications)
-- [4 References](#references)
-
 ## Quotes
 
 ## Alpha-Beta

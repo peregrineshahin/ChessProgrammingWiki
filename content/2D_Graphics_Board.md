@@ -8,25 +8,6 @@ title: 2D Graphics Board
 
 a [2D graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) image of a [chessboard](Chessboard "Chessboard") and the [pieces](Pieces "Pieces") of a [chess position](Chess_Position "Chess Position") on a [computer display](https://en.wikipedia.org/wiki/Computer_monitor), either [fullscreen](https://en.wikipedia.org/wiki/Fullscreen) or [board window](GUI#BoardWindow "GUI") of a chess [GUI](GUI "GUI"), or [printer](https://en.wikipedia.org/wiki/Printer_%28computing%29), similar to a [chess diagram](index.php?title=Chess_Diagrams&action=edit&redlink=1 "Chess Diagrams (page does not exist)") in print media. A 2D board window should be [isotropic](https://en.wikipedia.org/wiki/Isotropy) and quadratic, with all squares of same size.
 
-## Contents
-
-- [1 Screenshots](#screenshots)
-  - [1.1 GNU Chess](#gnu-chess)
-  - [1.2 MChess](#mchess)
-  - [1.3 IsiChess](#isichess)
-- [2 Drawing Pieces](#drawing-pieces)
-  - [2.1 2D Vector Graphics](#2d-vector-graphics)
-  - [2.2 Bitmaps](#bitmaps)
-  - [2.3 Unicode](#unicode)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-- [6 External Links](#external-links)
-  - [6.1 Coordinates](#coordinates)
-  - [6.2 Geometric primitives](#geometric-primitives)
-  - [6.3 Toolkits, Libraries and APIs](#toolkits.2c-libraries-and-apis)
-- [7 References](#references)
-
 ## Screenshots
 
 ## [GNU Chess](GNU_Chess "GNU Chess")

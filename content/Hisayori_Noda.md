@@ -9,15 +9,6 @@ a Japanese mathematician, computer scientist, and computer [Shogi](Shogi "Shogi"
 While affiliated with the [Tokyo Institute of Technology](https://en.wikipedia.org/wiki/Tokyo_Institute_of_Technology) from 2002 until 2011 <a id="cite-note-1" href="#cite-ref-1">[1]</a>, his research focused
 on [signal processing](https://en.wikipedia.org/wiki/Signal_processing) along with [harmonic analysis](https://en.wikipedia.org/wiki/Harmonic_analysis) <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Shogi](#shogi)
-- [2 NNUE](#nnue)
-- [3 Stockfish NNUE](#stockfish-nnue)
-- [4 Selected Publications](#selected-publications)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## [Shogi](Shogi "Shogi")
 
 Hisayori Noda is author and co-author of various [Shogi](Shogi "Shogi") playing entities within the Tanuki family <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and member of their corresponding development teams.

@@ -13,18 +13,6 @@ Arminius also considers relative [node](Node "Node") counts <a id="cite-note-3" 
 Arminius' tournament debut was the [DOCCC 2011](DOCCC_2011 "DOCCC 2011"). Arminius 2017, the version that won the third place at [PT 51](PT_51 "PT 51"), is using its own format of 6-men WDL [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 In August 2017, Arminius started to practice [Black Magic](Magic_Bitboards#BlackMagics "Magic Bitboards") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2011 ...](#2011-...)
-  - [2.2 2015 ...](#2015-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 External Links](#external-links)
-  - [3.1 Chess Engine](#chess-engine)
-  - [3.2 Misc](#misc)
-- [4 References](#references)
-
 ## See also
 
 - [Hermann](Hermann "Hermann")

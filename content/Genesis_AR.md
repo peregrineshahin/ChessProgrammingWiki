@@ -10,14 +10,6 @@ a chess engine by Argentinian theologian and programmer [Claudio Bollini](Claudi
 Contradicting to its authors faith, and despite its flaws and lackings, Genesis became a rather aggressive program <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Genesis participated at the [SCCC 1998](SCCC_1998 "SCCC 1998") and [SCCC 1999](SCCC_1999 "SCCC 1999") Spanish Computer Chess Championships.
 
-## Contents
-
-- [1 Namesake](#namesake)
-- [2 See also](#see-also)
-- [3 Forum Posts](#forum-posts)
-- [4 External Links](#external-links)
-- [5 References](#references)
-
 ## Namesake
 
 - [Genesis](Genesis_IL "Genesis IL") by [Eli David](Eli_David "Eli David")

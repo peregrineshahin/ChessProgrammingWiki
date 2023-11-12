@@ -10,42 +10,6 @@ a Russian [chess grandmaster](<https://en.wikipedia.org/wiki/Grandmaster_(chess)
 In the computer chess world, he is most famous for losing the [match](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") versus [Deep Blue](Deep_Blue "Deep Blue") in 1997,
 stylized as one of the ultimate goals of computer chess by the computer chess and AI establishment [[2]](#cite_note-2), and publicised as humanity's defeat against the machine.
 
-## Contents
-
-- [1 Brief Chess Career](#Brief_Chess_Career)
-- [2 Computer Chess](#Computer_Chess)
-  - [2.1 SciSys Endorsement](#SciSys_Endorsement)
-  - [2.2 ChessBase](#ChessBase)
-  - [2.3 Kasparov Licensees](#Kasparov_Licensees)
-  - [2.4 Kasparov vs Machines](#Kasparov_vs_Machines)
-    - [2.4.1 Matches](#Matches)
-    - [2.4.2 Workshops](#Workshops)
-- [3 See also](#See_also)
-- [4 Selected Publications](#Selected_Publications)
-  - [4.1 By Kasparov](#By_Kasparov)
-    - [4.1.1 1980 ...](#1980_...)
-    - [4.1.2 1990 ...](#1990_...)
-    - [4.1.3 2000 ...](#2000_...)
-    - [4.1.4 2010 ...](#2010_...)
-  - [4.2 About Kasparov](#About_Kasparov)
-    - [4.2.1 1986](#1986)
-    - [4.2.2 1990 ...](#1990_..._2)
-    - [4.2.3 1996](#1996)
-    - [4.2.4 1997](#1997)
-    - [4.2.5 1998 ...](#1998_...)
-    - [4.2.6 2000 ...](#2000_..._2)
-    - [4.2.7 2010 ...](#2010_..._2)
-- [5 External Links](#External_Links)
-  - [5.1 Matches](#Matches_2)
-    - [5.1.1 World Championship](#World_Championship)
-    - [5.1.2 Machine Matches](#Machine_Matches)
-    - [5.1.3 Misc](#Misc)
-  - [5.2 ChessBase](#ChessBase_2)
-    - [5.2.1 2010 ...](#2010_..._3)
-    - [5.2.2 2015 ...](#2015_...)
-    - [5.2.3 2020 ...](#2020_...)
-- [6 References](#References)
-
 ## Brief Chess Career
 
 Garry Kasparov became [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship) after defeating [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) at the [1985 championship](https://en.wikipedia.org/wiki/World_Chess_Championship_1985) seven months after the controversial finish of the [1984 championship](https://en.wikipedia.org/wiki/World_Chess_Championship_1984).

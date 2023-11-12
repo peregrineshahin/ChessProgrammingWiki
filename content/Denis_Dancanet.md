@@ -8,13 +8,6 @@ title: Denis Dancanet
 
 an American, Romanian born private pilot, mathematician, Ph.D. in computer science from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") on *[Intensional Semantics](https://en.wikipedia.org/wiki/Intensional_statement)* in the context of [programming languages](Languages "Languages") and parallel computing <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He is CEO of *Jetoptera* <a id="cite-note-3" href="#cite-ref-3">[3]</a>, a company developing [propulsion systems](https://en.wikipedia.org/wiki/Propulsion) for [unmanned](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) and manned [aircraft](https://en.wikipedia.org/wiki/Aircraft), located in [Edmonds, Washington](https://en.wikipedia.org/wiki/Edmonds,_Washington), before affiliated with [Morgan Stanley & Co.](https://en.wikipedia.org/wiki/Morgan_Stanley) in the UK <a id="cite-note-4" href="#cite-ref-4">[4]</a>. According to his 1999 homepage, chess is one of his latest obsessions <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Tumult](#tumult)
-- [2 Selected Publications](#selected-publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Tumult
 
 Along with [Lucien N. Dancanet](Lucien_N._Dancanet "Lucien N. Dancanet"), Denis Dancanet developed the chess playing program [Tumult](Tumult "Tumult") for an [6502](6502 "6502") [Apple II](Apple_II "Apple II") computer, which participated at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") in Amsterdam with a good result of 3½ out of 7 and 3rd place in the Amateurs tournament <a id="cite-note-6" href="#cite-ref-6">[6]</a>. He defected from Romania to the US in September 1985 <a id="cite-note-7" href="#cite-ref-7">[7]</a>.

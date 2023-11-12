@@ -8,15 +8,6 @@ title: Fernando MatC3ADa
 a Spanish computer scientist and full professor in the area of [systems engineering](https://en.wikipedia.org/wiki/Systems_engineering) at [Universidad Politécnica de Madrid](Technical_University_of_Madrid "Technical University of Madrid") (UPM). His main research areas have been in the area of [Fuzzy control](https://en.wikipedia.org/wiki/Fuzzy_control_system) and interactive [Robots](Robots "Robots").
 He published along with [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo") et al. on [bitboards](Bitboards "Bitboards") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and an efficient bit-parallel [Maximum clique problem](https://en.wikipedia.org/wiki/Clique_problem) solver <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1998 ...](#1998-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>

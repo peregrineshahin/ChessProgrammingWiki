@@ -7,13 +7,6 @@ title: Blitz Monster
 
 an experimental version of [Novag's](Novag "Novag") [Super Constellation](Super_Constellation "Super Constellation") or its successor [Constellation Expert](Novag_Expert "Novag Expert") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> by [David Kittinger](David_Kittinger "David Kittinger"), competing with three entries at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam). During the [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) human Blitz tournament March 1984, Super Constellation got 19/28 only playing Black, with 5 points versus International Masters in the 2355 to 2474 range, and was spontaneously called *Blitz Monster* <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Game](#selected-game)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Game
 
 [WMCCC 1985](WMCCC_1985 "WMCCC 1985"), Round 7, Blitz Monster Y - [Plymate Y](Plymate "Plymate") <a id="cite-note-4" href="#cite-ref-4">[4]</a>

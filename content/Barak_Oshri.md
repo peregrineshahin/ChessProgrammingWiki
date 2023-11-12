@@ -10,12 +10,6 @@ an Israeli computer scientist and machine learning engineer at *Sius*, a digital
 He holds an [IB diploma](https://en.wikipedia.org/wiki/IB_Diploma_Programme) from [United World College of South East Asia](https://en.wikipedia.org/wiki/United_World_College_of_South_East_Asia), [Singapore](https://en.wikipedia.org/wiki/Singapore) in 2013, a B.Sc. degree in mathematics and a M.Sc. in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [machine learning](Learning "Learning") from [Stanford University](Stanford_University "Stanford University") in 2017 and 2018 respectively [[1]](#cite-note-linkedin-1).
 Along with [Nishith Khandwala](Nishith_Khandwala "Nishith Khandwala") at Stanford in 2015, he worked on a [convolutional neural network](Neural_Networks#Convolutional "Neural Networks") project to predict [moves](Moves "Moves") in Chess, dubbed [ConvChess](ConvChess "ConvChess") [[2]](#cite-note-github-2) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

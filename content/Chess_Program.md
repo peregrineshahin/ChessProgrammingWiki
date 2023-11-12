@@ -8,23 +8,6 @@ title: Chess Program
 
 the [Northwestern University](Northwestern_University "Northwestern University") Chess Program by primary authors [Larry Atkin](Larry_Atkin "Larry Atkin") and [David Slate](David_Slate "David Slate") was the dominating program in the 70s, winning eight times the [ACM North American Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and the [second WCCC Toronto 1977](WCCC_1977 "WCCC 1977"). The version Chess **4.0** from [1973](Timeline#1973 "Timeline") was a complete re-write and [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift) from [Shannon type B](Type_B_Strategy "Type B Strategy") to [type A](Type_A_Strategy "Type A Strategy"). Chess ran on [Control Data Corporation's](https://en.wikipedia.org/wiki/Control_Data_Corporation) line of supercomputers, [CDC 6600](CDC_6600 "CDC 6600") and [CDC Cyber](CDC_Cyber "CDC Cyber"), Chess 4.x was completely written in [COMPASS](https://en.wikipedia.org/wiki/COMPASS), the CDC [assembly](Assembly "Assembly") language.
 
-## Contents
-
-- [1 Photos](#photos)
-- [2 History of Development](#history-of-development)
-  - [2.1 Chess 1.0](#chess-1.0)
-  - [2.2 Chess 2.0 - 3.6](#chess-2.0---3.6)
-  - [2.3 Chess 4.0 - 4.9](#chess-4.0---4.9)
-- [3 Achievements](#achievements)
-- [4 Man-Machine](#man-machine)
-- [5 Chesstor](#chesstor)
-- [6 Namesakes](#namesakes)
-- [7 See also](#see-also)
-- [8 Publications](#publications)
-- [9 Forum Posts](#forum-posts)
-- [10 External Links](#external-links)
-- [11 References](#references)
-
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe30c92)

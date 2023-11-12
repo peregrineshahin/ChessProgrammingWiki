@@ -8,36 +8,6 @@ title: Fruit
 
 until Version 2.1 [open source](Category:Open_Source "Category:Open Source"), is a groundbreaking [UCI](UCI "UCI") compatible chess engine developed by primary author [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"). It made its first appearance to the public in March 2004, when Fruit was a basic program with a very simple [evaluation](Evaluation "Evaluation") and basic [search](Search "Search"). However, since then it made progress adding about 100 Elo to each new release (1.5, 2.0, 2.1 and Fruit 2.2) [[2]](#cite_note-2).
 
-## Contents
-
-- [1 Revolution](#Revolution)
-- [2 Tournament Play](#Tournament_Play)
-- [3 Photos & Games](#Photos_.26_Games)
-- [4 Innovations](#Innovations)
-- [5 Fruit Team](#Fruit_Team)
-- [6 Fruit 64](#Fruit_64)
-- [7 Influence](#Influence)
-- [8 Fruit Reloaded](#Fruit_Reloaded)
-- [9 Derivatives](#Derivatives)
-- [10 See also](#See_also)
-- [11 Publications](#Publications)
-- [12 Forum Posts](#Forum_Posts)
-  - [12.1 2004](#2004)
-  - [12.2 2005](#2005)
-  - [12.3 2006](#2006)
-  - [12.4 2007](#2007)
-  - [12.5 2008](#2008)
-  - [12.6 2009](#2009)
-  - [12.7 2010](#2010)
-  - [12.8 2011](#2011)
-  - [12.9 2012 ...](#2012_...)
-- [13 External Links](#External_Links)
-  - [13.1 Chess Engine](#Chess_Engine)
-    - [13.1.1 Fruit](#Fruit)
-    - [13.1.2 Fruit reloaded](#Fruit_reloaded_2)
-  - [13.2 Misc](#Misc)
-- [14 References](#References)
-
 ## Revolution
 
 The release of Fruit until version **2.1** under the [GNU General Public License](Free_Software_Foundation#GPL "Free Software Foundation") was a "revolution" in computer chess in 2005 - an open source engine was "suddenly" competitive with the long time leading programs [Shredder](Shredder "Shredder") and [Junior](Junior "Junior"), as demonstrated at the [WCCC 2005](WCCC_2005 "WCCC 2005"), where Fruit became runner up behind [Zappa](Zappa "Zappa"). After the strong [Massy 2005](Massy_2005 "Massy 2005") over the board debut, and the great success of Reykjavik, where Fabien Letouzey met his professional colleagues, he decided to close the source [[3]](#cite_note-3) and to go commercial [[4]](#cite_note-4) - while Fruit derivatives have already appeared based on the source code of Fruit 2.1, most notably [Toga](Toga "Toga") by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch"), and [Gambit Fruit](Gambit_Fruit "Gambit Fruit") by [Ryan Benitez](Ryan_Benitez "Ryan Benitez"), who in late 2005 joint forces with Fabian for the commercial endeavor. Fabien finished his commercial computer chess career so far in 2007 [[5]](#cite_note-5). Fruit **2.3+** is non [GPL](Free_Software_Foundation#GPL "Free Software Foundation") with full rights given to [Ryan Benitez](Ryan_Benitez "Ryan Benitez") who continued the Fruit development porting it to [bitboards](Bitboards "Bitboards") [[6]](#cite_note-6), while Fruit 2.1 is now owned by the [Free Software Foundation](Free_Software_Foundation "Free Software Foundation") [[7]](#cite_note-7), released as [GNU Chess 6](GNU_Chess "GNU Chess") [[8]](#cite_note-8).

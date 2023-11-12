@@ -7,16 +7,6 @@ title: Frank Phillips
 
 a British avocational computer chess programmer <a id="cite-note-1" href="#cite-ref-1">[1]</a> and author of the private chess engine [Searcher](Searcher "Searcher") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Forum Posts](#forum-posts)
-  - [1.1 1998](#1998)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2005 ...](#2005-...)
-  - [1.4 2010 ...](#2010-...)
-  - [1.5 2015 ...](#2015-...)
-- [2 References](#references)
-
 ## Forum Posts
 
 ## 1998

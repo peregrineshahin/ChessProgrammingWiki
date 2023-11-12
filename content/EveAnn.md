@@ -8,20 +8,6 @@ title: EveAnn
 a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Andres Valverde](Andres_Valverde "Andres Valverde"), written in [Delphi](Delphi "Delphi"), first released in December 2005. EveAnn started its life when Andres translated [Pham Hong Nguyen's](Pham_Hong_Nguyen "Pham Hong Nguyen") [FirstChess](FirstChess "FirstChess") from [C](C "C") to [Pascal](Pascal "Pascal"), and made it play legal chess. He further improved the program after studying [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") site on chess programming topics, got several ideas from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [TSCP](TSCP "TSCP") and [Ed Schröder's](Ed_Schroder "Ed Schroder") *How Rebel plays chess*.
 The engine is dedicated to Andres' daughters Eve and Ann <a id="cite-note-1" href="#cite-ref-1">[1]</a>. EveAnn played the [CCT8](CCT8 "CCT8") in 2006, the [CCT9](CCT9 "CCT9") and under the handle *DelTomateX*, the [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), the First Annual ACCA World Computer Rapid Chess Championship.
 
-## Contents
-
-- [1 Program Techniques](#program-techniques)
-- [2 Selected Games](#selected-games)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-  - [4.1 2005 ...](#2005-...)
-  - [4.2 2010 ...](#2010-...)
-  - [4.3 2015 ...](#2015-...)
-- [5 External Links](#external-links)
-  - [5.1 Chess Engine](#chess-engine)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Program Techniques
 
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>

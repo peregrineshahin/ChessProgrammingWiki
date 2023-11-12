@@ -8,15 +8,6 @@ title: Aleks Peshkov
 a Russian software developer and computer chess programmer. Aleks contributed to various methods of generating [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") in [bitboards](Bitboards "Bitboards"), most notably he pioneered in the [Hyperbola Quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") approach <a id="cite-note-1" href="#cite-ref-1">[1]</a> regarding the [union](General_Setwise_Operations#Union "General Setwise Operations") of [positive](On_an_empty_Board#PositiveRays "On an empty Board") and [negative ray-attacks](On_an_empty_Board#NegativeRays "On an empty Board"), further utilizing disjoint ray-attacks in conjunction with own inverse and [mirroring or flipping](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating") distributive [xor](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") instruction, also suggesting [SSSE3 Hyperbola Quintessence](SSSE3#Peshkov "SSSE3") using the [Pshufb](SSSE3#Pshufb "SSSE3") instruction for the [vertical flip](Flipping_Mirroring_and_Rotating#FlipVertically "Flipping Mirroring and Rotating").
 Aleks also supported the [Stockfish](Stockfish "Stockfish") development in making test resources available <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2007 ...](#2007-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2020 ...](#2020-...)
-- [3 References](#references)
-
 ## See also
 
 - [Hyperbola Quintessence](Hyperbola_Quintessence "Hyperbola Quintessence")

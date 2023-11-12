@@ -6,13 +6,6 @@ title: Battery
 \[ Battery of [English cannon](https://en.wikipedia.org/wiki/English_cannon) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **Battery** in chess is a formation of two or more [sliding pieces](Sliding_Piece_Attacks "Sliding Piece Attacks") with common [attacking directions](Direction "Direction") along the same [rank](Ranks "Ranks"), [file](Files "Files"), or [diagonal](Diagonals "Diagonals"). Their attacks conjoin on one or more [target squares](Target_Square "Target Square") in one [ray-direction](Direction "Direction"), attacked at least once directly, and one or more times indirectly. A battery is a chess tactics related term, often motivated by [strategic](Strategy "Strategy") [pawn structure](Pawn_Structure "Pawn Structure") related considerations. In the [middlegame](Middlegame "Middlegame"), a ([rook](Rook "Rook")) battery attacking a [weak](Weak_Pawns "Weak Pawns") opponent pawn on a [half-open file](Half-open_File "Half-open File") is a common motive. The German chess term *Drucksäule* <a id="cite-note-2" href="#cite-ref-2">[2]</a> (tower of strength) refers to own, apparently weak pawn support from its [rearspan](Pawn_Spans "Pawn Spans"), to force a [lever](</Pawn_Levers_(Bitboards)> "Pawn Levers (Bitboards)") and pawn exchange to (half-) open a file.
 
-## Contents
-
-- [1 Evaluation Considerations](#evaluation-considerations)
-- [2 See also](#see-also)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Evaluation Considerations
 
 Like other [X-ray](X-ray "X-ray") related tactics, considering batteries may be subject of [king safety](King_Safety "King Safety") terms and [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation"). A standard pattern in [mate at a glance](Mate_at_a_Glance "Mate at a Glance") is a battery of [bishop](Bishop "Bishop") / [queen](Queen "Queen") or [rooks](Rook "Rook") / queen, where the queen attacks a square or opponent piece adjacent to the opponent [king](King "King"), exclusively defended.

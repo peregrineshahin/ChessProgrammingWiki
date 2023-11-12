@@ -11,16 +11,6 @@ Since then he is faculty member in the School of Computing Science at [Simon Fra
 While affiliated with the [University of Alberta](University_of_Alberta "University of Alberta"), he researched on [parallel search](Parallel_Search "Parallel Search") and published along with [Tony Marsland](Tony_Marsland "Tony Marsland") on their experience with their parallel chess program [Parabelle](Parabelle "Parabelle") based on [Ken Thompson's](Ken_Thompson "Ken Thompson") program [TinkerBelle](Belle "Belle") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 Fred Popowich further focused on [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing).
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1983 ...](#1983-...)
-  - [1.2 1990 ...](#1990-...)
-  - [1.3 2000 ...](#2000-...)
-  - [1.4 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>

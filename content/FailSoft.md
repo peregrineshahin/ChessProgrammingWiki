@@ -9,21 +9,6 @@ title: FailSoft
 - an [upper bound](Upper_Bound "Upper Bound") less than [alpha](Alpha "Alpha") at [All-Nodes](Node_Types#ALL "Node Types")
 - a [lower bound](Lower_Bound "Lower Bound") greater than [beta](Beta "Beta") at [Cut-Nodes](Node_Types#CUT "Node Types")
 
-## Contents
-
-- [1 History](#history)
-- [2 Mate Scores](#mate-scores)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 Forum Posts](#forum-posts)
-  - [5.1 1995 ...](#1995-...)
-  - [5.2 2000 ...](#2000-...)
-  - [5.3 2005 ...](#2005-...)
-  - [5.4 2010 ...](#2010-...)
-  - [5.5 2020 ...](#2020-...)
-- [6 External Links](#external-links)
-- [7 References](#references)
-
 ## History
 
 In his 1983 paper *Another optimization of alpha-beta search* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") introduced Fail-Soft [Alpha-Beta](Alpha-Beta "Alpha-Beta") as an improvement of [Fail-Hard](Fail-Hard "Fail-Hard") without any extra work <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Fail-Soft has the reputation for searching less [nodes](Node "Node") than Fail-Hard, but might also require some care regarding to [search instability](Search_Instability "Search Instability") issues in conjunction with [transposition tables](Transposition_Table "Transposition Table") and various [pruning](Pruning "Pruning")-, [reduction](Reductions "Reductions")- and [extension](Extensions "Extensions") techniques.

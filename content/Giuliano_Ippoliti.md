@@ -10,13 +10,6 @@ an Italian computer scientist, chess player <a id="cite-note-2" href="#cite-ref-
 He holds a B.Sc. in mathematics and computer science, and a M.Sc. in [telecommunications engineering](https://en.wikipedia.org/wiki/Telecommunications_engineering) from [University of Pisa](https://en.wikipedia.org/wiki/University_of_Pisa) in 2003.
 In 1998, he was finalist at the Italian [Mathematics Olympiads](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad), and the national qualifier of the [International Physics Olympiads](https://en.wikipedia.org/wiki/International_Physics_Olympiad) <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
-## Contents
-
-- [1 Computer Chess](#computer-chess)
-- [2 Publications](#publications)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Computer Chess
 
 Giuliano Ippoliti is author of the [open source chess engine](Category:Open_Source "Category:Open Source") [GiuChess](GiuChess "GiuChess"), written in [C](C "C") <a id="cite-note-6" href="#cite-ref-6">[6]</a>,

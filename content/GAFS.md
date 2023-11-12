@@ -10,13 +10,6 @@ first released in June 2006 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 To use the generated TBs in a chess engine, a library (gafslib.o) is provided for [Unix](Unix "Unix")/Linux and [Windows 32](Windows "Windows"),
 with two entry points, initialization and probing <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 See also](#see-also)
-- [2 Forum Posts](#forum-posts)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## See also
 
 - [FinalGen](FinalGen "FinalGen")

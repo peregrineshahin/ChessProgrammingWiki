@@ -9,13 +9,6 @@ a German computer scientist and open source programmer with interests in the [Fo
 He is involved in the implementation of [Gforth](https://en.wikipedia.org/wiki/Gforth) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and is author of the chess program [Brainless](</Brainless_(Forth)> "Brainless (Forth)") written in Forth <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Selected Publication](#selected-publication)
-- [2 Postings](#postings)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Selected Publication
 
 - [M. Anton Ertl](https://informatics.tuwien.ac.at/people/anton-ertl), David Kühling (**2010**). *ABI-CODE: Increasing the portability of assembly language words*. [pdf](http://www.complang.tuwien.ac.at/anton/euroforth/ef10/papers/ertl.pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a>

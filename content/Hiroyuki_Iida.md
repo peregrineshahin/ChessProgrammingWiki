@@ -8,20 +8,6 @@ title: Hiroyuki Iida
 
 a Japanese computer scientist and computer [games](Games "Games") researcher with focus on Game-refinement theory, [Opponent Model Search](Opponent_Model_Search "Opponent Model Search"), and [Computer Shogi](Shogi "Shogi"). Hiroyuki Iida is Professor at [Japan Advanced Institute of Science and Technology (JAIST)](JAIST "JAIST"), and head of the *games laboratory* [[2]](#cite_note-2). Before, he was affiliated with the [Shizuoka University](https://en.wikipedia.org/wiki/Shizuoka_University), [Hamamatsu](https://en.wikipedia.org/wiki/Hamamatsu,_Shizuoka), and was postdoctoral researcher at [Maastricht University](Maastricht_University "Maastricht University"). He received his Ph.D. on *Heuristic Theories on Game-Tree Search* from [Tokyo University of Agriculture and Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Agriculture_and_Technology), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) [[3]](#cite_note-3) .
 
-## Contents
-
-- [1 Shogi](#Shogi)
-- [2 Selected Publications](#Selected_Publications)
-  - [2.1 1990 ...](#1990_...)
-  - [2.2 1995 ...](#1995_...)
-  - [2.3 2000 ...](#2000_...)
-  - [2.4 2005 ...](#2005_...)
-  - [2.5 2010 ...](#2010_...)
-  - [2.6 2015 ...](#2015_...)
-  - [2.7 2020 ...](#2020_...)
-- [3 External Links](#External_Links)
-- [4 References](#References)
-
 ## Shogi
 
 Hiroyuki Iida is a professional [6-dan Shogi player](https://en.wikipedia.org/wiki/Shogi#Player_ranking_and_handicaps), and co-author of the Shogi program [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)"), the four times Gold medal winner at [Computer Olympiads](Computer_Olympiad "Computer Olympiad") [[4]](#cite_note-4) . He is member of the Board of the [ICGA](ICGA "ICGA") as Secretary-Treasurer and Section Editor of the [ICGA Journal](ICGA_Journal "ICGA Journal").

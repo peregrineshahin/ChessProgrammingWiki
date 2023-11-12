@@ -22,15 +22,6 @@ Along with [John Tromp](John_Tromp "John Tromp"), Gunnar Farnebäck researched o
 in the [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences),
 and wrote the legal counting program in [Pike](https://en.wikipedia.org/wiki/Pike_%28programming_language%29) <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
-## Contents
-
-- [1 Selected Publications](#selected-publications)
-  - [1.1 1996 ...](#1996-...)
-  - [1.2 2000 ...](#2000-...)
-  - [1.3 2010 ...](#2010-...)
-- [2 External Links](#external-links)
-- [3 References](#references)
-
 ## Selected Publications
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a>

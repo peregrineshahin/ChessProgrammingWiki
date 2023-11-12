@@ -8,17 +8,6 @@ title: Chess Champion Super System III
 
 [Novag's](Novag "Novag") third [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") released in 1979, at about the time that the Novag / [SciSys](Saitek "Saitek") split took place. After the early sales period different SciSys and Novag versions of the **Super System III** emerged, the early **Chess System III**, the later SciSys **ChessMaster**, and the **Chess Champion Super System III** by Novag <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
-## Contents
-
-- [1 Details](#details)
-- [2 Oversight](#oversight)
-- [3 See also](#see-also)
-- [4 Publications](#publications)
-- [5 External Links](#external-links)
-  - [5.1 Chess Computer](#chess-computer)
-  - [5.2 Misc](#misc)
-- [6 References](#references)
-
 ## Details
 
 The chess computer had a [6502](6502 "6502") CPU with a [Philidor Software](Philidor_Software "Philidor Software") program written by [Mike Johnson](Mike_Johnson "Mike Johnson"), supported by [David Levy](David_Levy "David Levy") with expertise in [search](Search "Search") heuristics, also providing the [opening library](Opening_Book "Opening Book"). The program and book was stored in 8 [KiB](https://en.wikipedia.org/wiki/Kibibyte) of [ROM](Memory#ROM "Memory"), and used 1 KiB of [RAM](Memory#RAM "Memory"). It was a kind of modular system with a computer unit, and optionally, a pluggable printer and the very first [LCD](https://en.wikipedia.org/wiki/Liquid_crystal_display)-chessboard.

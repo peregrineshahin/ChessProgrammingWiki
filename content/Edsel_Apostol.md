@@ -11,16 +11,6 @@ He then studied the theories on computer chess programming and started to write 
 He had three rewrites of this and in May 2005 finally adapted [rotated bitboards](Rotated_Bitboards "Rotated Bitboards").
 In May 2007, he started working on a complete rewrite using the [magic bitboards](Magic_Bitboards "Magic Bitboards") method.
 
-## Contents
-
-- [1 Occupation](#occupation)
-- [2 Forum Posts](#forum-posts)
-  - [2.1 2005 ...](#2005-...)
-  - [2.2 2010 ...](#2010-...)
-  - [2.3 2015 ...](#2015-...)
-- [3 External Links](#external-links)
-- [4 References](#references)
-
 ## Occupation
 
 Edsel has worked as a College Professor for two semesters before deciding to pursue a career in game development. He is currently employed as a software engineer in the Philippine's pioneer Game Development Company, [Anino Games, Inc](https://en.wikipedia.org/wiki/Anino).

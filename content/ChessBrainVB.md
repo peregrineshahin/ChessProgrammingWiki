@@ -9,18 +9,6 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") by [R
 
 ChessBrainVB was initially based on the source code of [LarsenVB](LarsenVB "LarsenVB") by [Luca Dormio](Luca_Dormio "Luca Dormio"), which in turn was inspired by the [C](C "C") program [Faile 0.6](Faile "Faile") by [Adrien M. Regimbald](Adrien_Regimbald "Adrien Regimbald"). Still using the [10x12](10x12_Board "10x12 Board") [mailbox](Mailbox "Mailbox") [board representation](Board_Representation "Board Representation"), ChessBrainVB's [search](Search "Search") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [evaluation](Evaluation "Evaluation") subsequently improved influenced by ideas from open source programs such as [CuckooChess](CuckooChess "CuckooChess"), [Sjeng](Sjeng "Sjeng"), [Protector](Protector "Protector") and [Stockfish](Stockfish "Stockfish") combined with own ideas <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
-## Contents
-
-- [1 Screenshot](#screenshot)
-- [2 Features](#features)
-  - [2.1 Board Representation](#board-representation)
-  - [2.2 Search](#search)
-  - [2.3 Evaluation](#evaluation)
-- [3 See also](#see-also)
-- [4 Forum Posts](#forum-posts)
-- [5 External Links](#external-links)
-- [6 References](#references)
-
 ## Screenshot
 
 [](https://github.com/RZulu54/ChessBrainVB/blob/master/ChessBrainVBA_Screenshot.jpg)
