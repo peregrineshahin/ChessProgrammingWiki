@@ -1,5 +1,33 @@
 // Put your custom SCSS code here
 
+details {
+  border: none !important;
+  border-radius: 0;
+  padding: 0rem 0.5rem !important;
+}
+
+details[open] {
+  padding: 0;
+}
+
+details h2,
+details .h2,
+details h3,
+details .h3,
+details h4,
+details .h4 {
+  display: inline-block;
+  margin: 0;
+}
+
+summary {
+  display: flex;
+  align-items: center;
+  margin: -0.5rem -1.2rem 0;
+  padding: 0.7em 0.5em;
+  border-radius: 5px;
+}
+
 pre {
   background-color: inherit !important;
 }

@@ -22,14 +22,14 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 
 
 
-## Selected Publications
-
+<details>
+<summary><h3>Selected Publications</h3></summary>
 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
-### 2000 ...
+#### 2000 ...
 
 
 * Joost VandeVondele (**2001**). *[Extending length and time scales of ab initio molecular dynamics simulations](https://www.research-collection.ethz.ch/handle/20.500.11850/145496)*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
@@ -38,7 +38,7 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 * Joost VandeVondele (**2009**). *CP2K: parallel algorithms*. [slides as pdf](https://www.cscs.ch/fileadmin/user_upload/contents_publications/tutorials/crayXT5code_porting/CPW09_CP2K_parallel.pdf)
 
 
-### 2010 ...
+#### 2010 ...
 
 
 * [Manuel Guidon](https://github.com/mguidon), [Jürg Hutter](https://scholar.google.ch/citations?user=ajbBWN0AAAAJ&hl=en), Joost VandeVondele (**2010**). *[Auxiliary Density Matrix Methods for Hartree−Fock Exchange Calculations](https://pubs.acs.org/doi/10.1021/ct1002225)*. [Journal of Chemical Theory and Computation](https://en.wikipedia.org/wiki/Journal_of_Chemical_Theory_and_Computation), Vol. 6, No. 8
@@ -53,24 +53,25 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 * [Grzegorz Kwasniewski](https://scholar.google.com/citations?user=PyY2WfkAAAAJ&hl=en), [Marko Kabić](https://github.com/kabicm), [Maciej Besta](https://scholar.google.com/citations?user=l3ZOsHkAAAAJ&hl=en), Joost VandeVondele, [Raffaele Solcà](https://dblp.org/pers/s/Solc=agrave=:Raffaele.html), [Torsten Hoefler](https://scholar.google.com/citations?user=DdBvcBEAAAAJ&hl=en) (**2019**). *Red-blue pebbling revisited: near optimal parallel matrix-matrix multiplication*. [arXiv:1908.09606](https://arxiv.org/abs/1908.09606)
 
 
-### 2020 ...
+#### 2020 ...
 
 
 * [Patrick Zulian](https://scholar.google.ch/citations?user=iHrGaOoAAAAJ&hl=en), [Alena Kopaničáková](https://scholar.google.ch/citations?user=OQqwN7wAAAAJ&hl=en), [Maria Giuseppina Chiara Nestola](https://scholar.google.it/citations?user=QytVesoAAAAJ&hl=en), [Andreas Fink](https://dblp.org/pers/hd/f/Fink:Andreas), [Nur Aiman Fadel](https://scholar.google.com/citations?user=Y0iHyVAAAAAJ&hl=en), Joost VandeVondele, [Rolf Krause](https://scholar.google.com/citations?user=aXLCx4wAAAAJ&hl=en) (**2020**). *Large scale simulation of pressure induced phase-field fracture propagation using Utopia*. [arXiv:2007.12908](https://arxiv.org/abs/2007.12908)
 * [Thomas D. Kühne](https://scholar.google.com/citations?user=raXD8AIAAAAJ&hl=en), [Marcella Iannuzzi](https://scholar.google.ch/citations?user=u2IDYtAAAAAJ&hl=en), [Mauro Del Ben](https://scholar.google.com/citations?user=yvISvw0AAAAJ&hl=en), [Vladimir Rybkin](https://scholar.google.com/citations?user=xlqjUrkAAAAJ&hl=en), [Patrick Seewald](https://github.com/pseewald), [Frederick Stein](https://ch.linkedin.com/in/frederick-stein-70024270), [Teodoro Laino](https://scholar.google.com/citations?user=nPyoirQAAAAJ&hl=en), [Rustam Z. Khaliullin](https://scholar.google.ca/citations?user=ACBP2PYAAAAJ&hl=en), [Ole Schütt](https://dblp.org/pers/hd/s/Sch=uuml=tt:Ole), [Florian Schiffmann](https://scholar.google.ch/citations?user=KiEOzH8AAAAJ&hl=en), [Dorothea Golze](https://scholar.google.de/citations?user=1Z2pVc8AAAAJ&hl=en), [Jan Wilhelm](http://www.physik.uni-regensburg.de/forschung/evers/personal_pages/wilhelm.phtml), [Sergey Chulkov](https://github.com/schulkov), [Mohammad Hossein Bani-Hashemian](https://scholar.google.com/citations?user=4vMKvn0AAAAJ&hl=en), [Valéry Weber](https://dblp.org/pers/hd/w/Weber:Val=eacute=ry), [Urban Borštnik](https://dblp.org/pers/hd/b/Borstnik:Urban), [Mathieu Taillefumier](https://scholar.google.com/citations?user=Fj1k3dEAAAAJ&hl=en), [Alice Shoshana Jakobovits](https://scholar.google.com/citations?user=X2tFbNUAAAAJ&hl=en), [Alfio Lazzaro](https://scholar.google.com/citations?user=lCm6xTYAAAAJ&hl=en), [Hans Pabst](https://dblp.uni-trier.de/pers/hd/p/Pabst:Hans), [Tiziano Müller](https://github.com/dev-zero), [Robert Schade](https://dblp.uni-trier.de/pers/hd/s/Schade:Robert), [Manuel Guidon](https://github.com/mguidon), [Samuel Andermatt](https://scholar.google.ch/citations?user=pbuYMnMAAAAJ&hl=en), [Nico Holmberg](https://scholar.google.com/citations?user=fZ7iHAIAAAAJ&hl=en), [Gregory Schenter](https://scholar.google.com/citations?user=7v_JdcwAAAAJ&hl=en), Anna Hehn, [Augustin Bussy](https://github.com/abussy), [Fabian Belleflamme](https://ch.linkedin.com/in/fabian-belleflamme-8a2471a7), [Gloria Tabacchi](https://scholar.google.com/citations?user=7hgbT-wAAAAJ&hl=en), [Andreas Glöß](https://scholar.google.com/citations?user=7UTf24kAAAAJ&hl=en), [Michael Lass](https://scholar.google.de/citations?user=ELJh8_gAAAAJ&hl=en), [Iain Bethune](https://scholar.google.com/citations?user=noV1Tf0AAAAJ&hl=en), [Christopher J. Mundy](https://scholar.google.com/citations?user=-MpNANoAAAAJ&hl=en), [Christian Plessl](https://scholar.google.com/citations?user=hP5-OnsAAAAJ&hl=en), [Matt Watkins](https://mattatlincoln.github.io/), Joost VandeVondele, [Matthias Krack](https://dblp.org/pers/hd/k/Krack:Matthias), [Jürg Hutter](https://scholar.google.ch/citations?user=ajbBWN0AAAAJ&hl=en) (**2020**). *[CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations](https://aip.scitation.org/doi/10.1063/5.0007045)*. [arXiv:2003.03868](https://arxiv.org/abs/2003.03868), [The Journal of Chemical Physics](https://en.wikipedia.org/wiki/The_Journal_of_Chemical_Physics), Vol. 152, No, 19
+</details>
+
+<details>
+<summary><h3>Postings</h3></summary>
 
 
-## Postings
-
-
-### 2019
+#### 2019
 
 
 * [mg vs eg eval](https://groups.google.com/d/msg/fishcooking/znU1a7aZ2XI/yJDFtOQnAwAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), October 06, 2019 » [Middlegame](Middlegame "Middlegame"), [Endgame](Endgame "Endgame"), [Tapered Eval](Tapered_Eval "Tapered Eval")
 * [Re: Stockfish contempt testing](https://groups.google.com/d/msg/fishcooking/liMe2Ho53j8/MXPfgmLtAgAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), October 29, 2019 » [Contempt](Contempt_Factor "Contempt Factor")
 
 
-### 2020 ...
+#### 2020 ...
 
 
 * [The Maintainers They Are a-Changin'](https://groups.google.com/d/msg/fishcooking/nG6aqewRuSM/C5hn5hD3EwAJ) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2020
@@ -79,10 +80,10 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 * [[NNUE] Worker update on fishtest](https://groups.google.com/d/msg/fishcooking/6OI3AejYvpQ/dNmluMLBAgAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 03, 2020
 * [NNUE evaluation merged in master](https://groups.google.com/d/msg/fishcooking/Kzw1W_Yr1d8/YNEmCqIyBAAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2020
 * [Stockfish 12](https://groups.google.com/d/msg/fishcooking/TJHsiI61yQ4/liQoZ-AzAgAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), September 02, 2020
+</details>
 
-
-## External Links
-
+<details>
+<summary><h3>External Links</h3></summary>
 
 * [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
 * [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
@@ -91,12 +92,13 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 
 
  [41th SPEEDUP Workshop on High-Performance Computing](https://www.hpc-ch.org/tag/speedup/), September 7, 2012, [ETH Zurich](ETH_Zurich "ETH Zurich")
- 
-## References
+</details>
 
+<details>
+<summary><h3>References</h3></summary>
 
-* <a id="cite-ref-1" href="#cite-note-1">[1]</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
-* <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
+2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
 3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
 4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: SF misevaluating pawn endings](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=62369&start=15) by [Eelco de Groot](index.php?title=Eelco_de_Groot&action=edit&redlink=1 "Eelco de Groot (page does not exist)"), [CCC](CCC "CCC"), December 07, 2016
 5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Maintainers They Are a-Changin'](https://groups.google.com/d/msg/fishcooking/nG6aqewRuSM/C5hn5hD3EwAJ) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2020
@@ -107,6 +109,7 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Density functional theory from Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
 11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Random phase approximation from Wikipedia](https://en.wikipedia.org/wiki/Random_phase_approximation)
 12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Coronavirus disease 2019 from Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+</details>
 
 **[Up one level](People "People")**
 
