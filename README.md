@@ -1,6 +1,6 @@
 
 # Chess Programming Wiki
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b18fd7e1-481c-40a1-a662-5f36558e4179/deploy-status)](https://app.netlify.com/sites/chessprogrammingwiki/deploys?=branch=main)
 
 Welcome to the Chess Programming Wiki repository! This repository serves as a revival and continuation of the original Chess Programming Wiki (CPW), which was founded by Mark Lefler on October 26, 2007, and was first hosted on Wikispaces. Unfortunately, due to the inactiveness of that site, the need for such a website became neccessary.
 ## About
