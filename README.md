@@ -15,6 +15,12 @@ To get started, simply navigate through the content using the left-hand navigati
 
 We encourage and welcome contributions from the community to enhance the content of the Chess Programming Wiki. If you have insights, corrections, or additional information to share, contributing is easy! Follow these steps:
 
+## Code of Conduct
+
+Please review our [Code of Conduct](https://github.com/peregrineshahin/ChessProgrammingWiki/blob/main/CODE_OF_CONDUCT.md) before contributing.
+
+Our community is committed to fostering an inclusive and respectful environment for all contributors.
+
 ### Contributing to the Website
 
 1. **Fork the Repository:**
