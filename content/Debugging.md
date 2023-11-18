@@ -33,7 +33,7 @@ A [recursive](Recursion "Recursion") [search](Search "Search") is quite hard to 
 - Whenever you add some non-trivial new function to your program, try to write two versions: One which is very slow and stupid, but almost certainly correct, and one which is highly optimized. Verify on a huge number of positions that they give the same results. Remove the slow version only when you feel 100% sure that the fast version is correct.
 - Always make [symmetry tests](Color_Flipping#Debugging "Color Flipping") when you add a new term to your [evaluation function](Evaluation_Function "Evaluation Function") .
 - Run through a simple tactical test like [WAC](Win_at_Chess "Win at Chess") at 5 seconds/move every time you change something important in your search. Don't try to optimize the results, but just make sure that the score doesn't suddenly drop dramatically.
-- Check the quality of your [move ordering](Move_Ordering "Move Ordering") by measuring how often a [beta cutoff](Beta-Cutoff "Beta-Cutoff") occurs on the first move, and the frequencies with which the 1st, 2nd, 3rd, ... move turns out to be best at [PV nodes](Node_Types#PV "Node Types").
+- Check the quality of your [move ordering](Move_Ordering "Move Ordering") by measuring how often a [beta cutoff](Beta-Cutoff "Beta-Cutoff") occurs on the first move, and the frequencies with which the 1st, 2nd, 3rd, ... move turns out to be best at [PV nodes](Node_Types#PV-Node "Node Types").
 
 ## See also
 

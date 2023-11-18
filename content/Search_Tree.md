@@ -75,7 +75,7 @@ Minimal Search Trees require optimal move ordering in [Alpha-Beta](Alpha-Beta "A
 ### Minimal Alpha-Beta Tree
 
 
-A perfectly ordered Tree, [All-Nodes](Node_Types#ALL "Node Types") (A) need to consider all successors, [Cut-Nodes](Node_Types#CUT "Node Types") (C) only the one which already refutes the opponent move.
+A perfectly ordered Tree, [All-Nodes](Node_Types#All-Nodes "Node Types") (A) need to consider all successors, [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") (C) only the one which already refutes the opponent move.
 
 
 
@@ -100,7 +100,7 @@ A perfectly ordered Tree, [All-Nodes](Node_Types#ALL "Node Types") (A) need to c
 ### Minimal PV Tree
 
 
-A minimal, perfectly ordered search tree, with [Knuth's](Donald_Knuth "Donald Knuth") [Node Types](Node_Types "Node Types"). Only the [PV-Nodes](Node_Types#PV "Node Types") (P) are searched with an open alpha-beta window. [Cut-Nodes](Node_Types#CUT "Node Types") as children or sibling of PV-Nodes require a [Scout-search](Scout "Scout"), to prove the nodes are greater or equal to beta. An [All-Node](Node_Types#ALL "Node Types") as successor of Cut-Nodes has to consider all moves to prove no move will cause a [beta-cutoff](Beta-Cutoff "Beta-Cutoff").
+A minimal, perfectly ordered search tree, with [Knuth's](Donald_Knuth "Donald Knuth") [Node Types](Node_Types "Node Types"). Only the [PV-Nodes](Node_Types#PV-Node "Node Types") (P) are searched with an open alpha-beta window. [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") as children or sibling of PV-Nodes require a [Scout-search](Scout "Scout"), to prove the nodes are greater or equal to beta. An [All-Node](Node_Types#All-Nodes "Node Types") as successor of Cut-Nodes has to consider all moves to prove no move will cause a [beta-cutoff](Beta-Cutoff "Beta-Cutoff").
 
 
 

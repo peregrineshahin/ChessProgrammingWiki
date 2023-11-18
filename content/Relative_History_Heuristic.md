@@ -39,7 +39,7 @@ moveScore = (Scale * hhScore) / bfScore;
 
 ```
 
-Winands experienced with several increments for hhScore and bfScore, namely {1, depth, depth^2 and 2^depth}. The depth independent increment of 1 seemed to give best results in the game of [Lines of Action](Lines_of_Action "Lines of Action"). This is how the history [array](Array "Array") and butterfly boards may be updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs or not (ignoring [PV-Nodes](Node_Types#PV "Node Types")):
+Winands experienced with several increments for hhScore and bfScore, namely {1, depth, depth^2 and 2^depth}. The depth independent increment of 1 seemed to give best results in the game of [Lines of Action](Lines_of_Action "Lines of Action"). This is how the history [array](Array "Array") and butterfly boards may be updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs or not (ignoring [PV-Nodes](Node_Types#PV-Node "Node Types")):
 
 
 
@@ -61,7 +61,7 @@ Winands experienced with several increments for hhScore and bfScore, namely {1, 
 ## Alternatives
 
 
-Other approaches of relative history heuristic - proposed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), as tried in [Crafty](Crafty "Crafty") while playing with [Late Move Reductions](Late_Move_Reductions "Late Move Reductions") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and applied by [Tord Romstad](Tord_Romstad "Tord Romstad") in [Glaurung](Glaurung "Glaurung") as mentioned by [Marco Costalba](Marco_Costalba "Marco Costalba"), the developer of [Stockfish](Stockfish "Stockfish") <a id="cite-note-3" href="#cite-ref-3">[3]</a> - rely on considering confirmed [Cut-Nodes](Node_Types#CUT "Node Types") for updating the counters only. If a [Fail-High](Fail-High "Fail-High") occurs, hhScore is incremented as usual. Additionally, if the move which caused the Cut-Off was not the first one, one has to loop over all previously tried quite moves (still in the move-list), to increment their butterfly penalty scores. A similar idea was proposed by [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), *Negative Plausibility* <a id="cite-note-4" href="#cite-ref-4">[4]</a> as implemented inside his [Shogi](Shogi "Shogi") program [Shotest](https://www.game-ai-forum.org/icga-tournaments/program.php?id=223).
+Other approaches of relative history heuristic - proposed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), as tried in [Crafty](Crafty "Crafty") while playing with [Late Move Reductions](Late_Move_Reductions "Late Move Reductions") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and applied by [Tord Romstad](Tord_Romstad "Tord Romstad") in [Glaurung](Glaurung "Glaurung") as mentioned by [Marco Costalba](Marco_Costalba "Marco Costalba"), the developer of [Stockfish](Stockfish "Stockfish") <a id="cite-note-3" href="#cite-ref-3">[3]</a> - rely on considering confirmed [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") for updating the counters only. If a [Fail-High](Fail-High "Fail-High") occurs, hhScore is incremented as usual. Additionally, if the move which caused the Cut-Off was not the first one, one has to loop over all previously tried quite moves (still in the move-list), to increment their butterfly penalty scores. A similar idea was proposed by [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), *Negative Plausibility* <a id="cite-note-4" href="#cite-ref-4">[4]</a> as implemented inside his [Shogi](Shogi "Shogi") program [Shotest](https://www.game-ai-forum.org/icga-tournaments/program.php?id=223).
 
 
 

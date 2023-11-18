@@ -12,7 +12,7 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Ziggy [represents the board](Board_Representation "Board Representation") with [piece-lists](Piece-Lists "Piece-Lists") supported by [15x8 vector attacks](Vector_Attacks "Vector Attacks"), and applies state of the art [search](Search "Search") enhancements like [null move pruning](Null_Move_Pruning "Null Move Pruning"), [late move reductions](Late_Move_Reductions "Late Move Reductions"), [multi-cut](Multi-Cut "Multi-Cut"), [PVS](Principal_Variation_Search "Principal Variation Search"), 
 [static exchange evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation") and a two-level [transposition table](Transposition_Table "Transposition Table"), 
 and served as test-bed for search experiments as topic in Eiríksson's B.Sc. thesis *Investigation of Multi-Cut Pruning in Game-Tree Search* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
-Eiríksson re-investigated multi-cut pruning with Ziggy, and found an enhancement to apply it only at expected [Cut-nodes](Node_Types#CUT "Node Types") confirmed by the transposition table, that is a probe indicates a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") without sufficient [draft](Depth "Depth") stored. 
+Eiríksson re-investigated multi-cut pruning with Ziggy, and found an enhancement to apply it only at expected [Cut-nodes](Node_Types#Cut-Nodes "Node Types") confirmed by the transposition table, that is a probe indicates a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") without sufficient [draft](Depth "Depth") stored. 
 
 
 

@@ -16,7 +16,7 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") by [S
 
 
 While running on a multi-processor machine, Typhoon uses a tree splitting algorithm somewhat similar to [principal variation splitting](Parallel_Search#PrincipalVariationSplitting "Parallel Search") to [search in parallel](Parallel_Search "Parallel Search") with multiple [threads](Thread "Thread"). 
-Splitting occurs after the first move has been searched at [PV-nodes](Node_Types#PV "Node Types") or if the first N moves at [All-nodes](Node_Types#ALL "Node Types") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
+Splitting occurs after the first move has been searched at [PV-nodes](Node_Types#PV-Node "Node Types") or if the first N moves at [All-nodes](Node_Types#All-Nodes "Node Types") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 

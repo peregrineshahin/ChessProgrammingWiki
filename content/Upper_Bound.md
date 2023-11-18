@@ -9,7 +9,7 @@ There are two semantics inside an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like sea
 
 
 * [Beta](Beta "Beta") is an **Upper Bound** of a [score](Score "Score") for this [node](Node "Node").
-* An **Upper Bound** is returned from an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like search, if it [fails low](Fail-Low "Fail-Low"). All moves were searched, but none improved [alpha](Alpha "Alpha"). The [node](Node "Node") searched was a confirmed [All-Node](Node_Types#ALL "Node Types").
+* An **Upper Bound** is returned from an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like search, if it [fails low](Fail-Low "Fail-Low"). All moves were searched, but none improved [alpha](Alpha "Alpha"). The [node](Node "Node") searched was a confirmed [All-Node](Node_Types#All-Nodes "Node Types").
 
 
 

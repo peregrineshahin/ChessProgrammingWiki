@@ -40,7 +40,7 @@ Other new chess programs: [Feeks](Feeks "Feeks"), [CaffeinatedPawn](index.php?ti
 **2017**
 
 - [improving iid](http://www.talkchess.com/forum/viewtopic.php?t=62737) by Folkert van Heusden, [CCC](CCC "CCC"), January 06, 2017 » [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
-- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by Folkert van Heusden, [CCC](CCC "CCC"), October 18, 2017  » [Cut-Nodes](Node_Types#CUT "Node Types")
+- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by Folkert van Heusden, [CCC](CCC "CCC"), October 18, 2017  » [Cut-Nodes](Node_Types#Cut-Nodes "Node Types")
 - [PVS & Embla](http://www.talkchess.com/forum/viewtopic.php?t=65490) by Folkert van Heusden, [CCC](CCC "CCC"), October 19, 2017 » [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), [Embla](Embla "Embla")
 - [tuning for the uninformed](http://www.talkchess.com/forum/viewtopic.php?t=65799) by Folkert van Heusden, [CCC](CCC "CCC"), November 23, 2017 » [Automated Tuning](Automated_Tuning "Automated Tuning")
 

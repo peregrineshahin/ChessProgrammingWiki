@@ -6,8 +6,8 @@ title: FailSoft
 \[ Window of Perception <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Fail-Soft** is a term related to an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like [search](Search "Search"). Returned scores might be outside the [bounds](Bound "Bound"):
 
-- an [upper bound](Upper_Bound "Upper Bound") less than [alpha](Alpha "Alpha") at [All-Nodes](Node_Types#ALL "Node Types")
-- a [lower bound](Lower_Bound "Lower Bound") greater than [beta](Beta "Beta") at [Cut-Nodes](Node_Types#CUT "Node Types")
+- an [upper bound](Upper_Bound "Upper Bound") less than [alpha](Alpha "Alpha") at [All-Nodes](Node_Types#All-Nodes "Node Types")
+- a [lower bound](Lower_Bound "Lower Bound") greater than [beta](Beta "Beta") at [Cut-Nodes](Node_Types#Cut-Nodes "Node Types")
 
 ## History
 

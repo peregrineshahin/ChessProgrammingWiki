@@ -389,7 +389,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 
 
-* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [All Nodes](Node_Types#ALL "Node Types")
+* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [All Nodes](Node_Types#All-Nodes "Node Types")
 * [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007
 * [Null Move](http://www.talkchess.com/forum/viewtopic.php?p=160677) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), November 23, 2007
 * [fractal null move](http://www.talkchess.com/forum/viewtopic.php?t=18081) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), November 28, 2007
@@ -458,7 +458,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 * [fixing the null move search "bug"](http://www.talkchess.com/forum/viewtopic.php?t=51129) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), February 01, 2014 » [Stockfish](Stockfish "Stockfish")
 * [Disabling Null Move Pruning in Stockfish](http://www.talkchess.com/forum/viewtopic.php?t=51291) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), February 15, 2014 » [Stockfish](Stockfish "Stockfish")
 * [Null move and LMR](http://www.talkchess.com/forum/viewtopic.php?t=51578) by [Laurie Tunnicliffe](Laurie_Tunnicliffe "Laurie Tunnicliffe"), [CCC](CCC "CCC"), March 12, 2014 » [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
-* [Null move pruning on PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=53049) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), July 22, 2014 » [PV-Nodes](Node_Types#PV "Node Types")
+* [Null move pruning on PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=53049) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), July 22, 2014 » [PV-Nodes](Node_Types#PV-Node "Node Types")
 
 
 ### 2015 ...
@@ -485,7 +485,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 
 
-* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [PV-Nodes](Node_Types#PV "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
+* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [PV-Nodes](Node_Types#PV-Node "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
 * [NULL Move code question](http://www.open-chess.org/viewtopic.php?f=5&t=3074) by thevinenator, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2017 » [CPW-Engine\_search](CPW-Engine_search "CPW-Engine search")
 * [null move](http://www.talkchess.com/forum/viewtopic.php?t=63737) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), April 14, 2017
 * [tt move vs null move](http://www.talkchess.com/forum/viewtopic.php?t=64093) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), May 27, 2017 » [Hash Move](Hash_Move "Hash Move"), [Null Move](Null_Move "Null Move")

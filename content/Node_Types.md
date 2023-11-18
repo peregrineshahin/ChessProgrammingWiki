@@ -9,17 +9,23 @@ title: Node Types
 **Node Types** are classifications of [nodes](Node "Node") as expected inside a [minimal alpha-beta tree](Search_Tree#MinimalGameTree "Search Tree"), or as determined by the search. These types were first formulated by [Donald Knuth](Donald_Knuth "Donald Knuth") and Ronald Moore when describing the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta") <a id="cite-note-2" href="#cite-ref-2">[2]</a> and further analyzed by [Judea Pearl](Judea_Pearl "Judea Pearl") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. While Knuth used the terms Type 1, 2, and 3, [Tony Marsland](Tony_Marsland "Tony Marsland") and [Fred Popowich](Fred_Popowich "Fred Popowich") introduced the more descriptive terms **PV-**, **Cut-** and **All-nodes** <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
 
 
-Node types as established by the search are stored inside the [transposition table](Transposition_Table "Transposition Table"), indicating whether the [score](Score "Score") is either [exact](Exact_Score "Exact Score"), [lower](Lower_Bound "Lower Bound") or [upper bounded](Upper_Bound "Upper Bound"). Expected node types, as determined by tree topology, probing the transposition table, or comparing scores of a [static evaluation](Evaluation "Evaluation") considering threats, or even a reduced search or [quiescence search](Quiescence_Search "Quiescence Search"), with the [bounds](Bound "Bound"), may be considered by various ([parallel](Parallel_Search "Parallel Search")) search algorithms and in decisions concerning [selectivity](Selectivity "Selectivity"). 
+Node types as established by the search are stored inside the [transposition table](Transposition_Table "Transposition Table"), indicating whether the [score](Score "Score") is either [exact](Exact_Score), [lower](Lower_Bound "Lower Bound") or [upper bounded](Upper_Bound "Upper Bound"). Expected node types, as determined by tree topology, probing the transposition table, or comparing scores of a [static evaluation](Evaluation "Evaluation") considering threats, or even a reduced search or [quiescence search](Quiescence_Search "Quiescence Search"), with the [bounds](Bound "Bound"), may be considered by various ([parallel](Parallel_Search "Parallel Search")) search algorithms and in decisions concerning [selectivity](Selectivity "Selectivity"). 
 
 
 
+## PV-Nodes
 
+PV-nodes (Knuth's **Type 1**) are nodes that have a score that ends up being inside the [window](Window "Window"). So if the bounds passed are `[a,b]`, with the score returned s, a<s<b. These nodes have all moves searched, and the value returned is [exact](Exact_Score) (i.e., not a [bound](Bound)), which propagates up to the [root](Root) along with a [principal variation](Principal_Variation "Principal Variation").
+
+*   [Root Node](Root "Root") and the [Leftmost Nodes](Leftmost_Node "Leftmost Node") are always PV-nodes
+*   In [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), PV-nodes are defined by beta-alpha>1
+*   All [Siblings](Sibling_Node "Sibling Node") of a PV-node are expected Cut-nodes
 
 
 ## Cut-Nodes
 
 
-Cut-nodes (Knuth's **Type 2**), otherwise known as [fail-high](Fail-High "Fail-High") nodes, are nodes in which a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") was performed. So with [bounds](Bound "Bound") [a,b], s>=b. A minimum of one move at a Cut-node needs to be searched. The score returned is a [lower bound](Lower_Bound "Lower Bound") (might be greater) on the [exact score](Exact_Score "Exact Score") of the node
+Cut-nodes (Knuth's **Type 2**), otherwise known as [fail-high](Fail-High "Fail-High") nodes, are nodes in which a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") was performed. So with [bounds](Bound "Bound") [a,b], s>=b. A minimum of one move at a Cut-node needs to be searched. The score returned is a [lower bound](Lower_Bound "Lower Bound") (might be greater) on the [exact score](Exact_Score) of the node
 
 
 
@@ -29,14 +35,10 @@ Cut-nodes (Knuth's **Type 2**), otherwise known as [fail-high](Fail-High "Fail-H
 * The [ply](Ply "Ply") distance of a Cut-node to its PV-ancestor is odd
 
 
-
-
-
-
 ## All-Nodes
 
 
-All-nodes (Knuth's **Type 3**), otherwise known as [fail-low](Fail-Low "Fail-Low") nodes, are nodes in which no move's score exceeded alpha. With [bounds](Bound "Bound") [a,b], s<=a. Every move at an All-node is searched, and the score returned is an [upper bound](Upper_Bound "Upper Bound"), the [exact score](Exact_Score "Exact Score") might be less.
+All-nodes (Knuth's **Type 3**), otherwise known as [fail-low](Fail-Low "Fail-Low") nodes, are nodes in which no move's score exceeded alpha. With [bounds](Bound "Bound") [a,b], s<=a. Every move at an All-node is searched, and the score returned is an [upper bound](Upper_Bound "Upper Bound"), the [exact score](Exact_Score) might be less.
 
 
 
@@ -222,7 +224,7 @@ Assuming a constant [branching factor](Branching_Factor "Branching Factor") of 4
 ## Quotes
 
 
-[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#ALL "Node Types") and [CUT-nodes](Node_Types#CUT "Node Types") <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
+[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#All-Nodes "Node Types") and [CUT-nodes](Node_Types#Cut-Nodes "Node Types") <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 
 
@@ -299,7 +301,7 @@ In [CB](Cray_Blitz "Cray Blitz"), I used this extensively, because you never wan
 
 
 * [Recognizing PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=59682) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), March 29, 2016
-* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#PV "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
+* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#PV-Node "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
 * [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017 » [Cut-Nodes](#cut)
 * [Pruning at PV nodes?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69510) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 06, 2019 » [Pruning](Pruning "Pruning"), [PV-Nodes](#pv)
 

@@ -111,7 +111,7 @@ if ( CurEval <= Alpha - PVal[FirstPiece(Opponent)] - PVal[SecondPiece(Opponent)]
 - [How to get futility pruning to work?](http://www.talkchess.com/forum/viewtopic.php?t=42749) by [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)"), [CCC](CCC "CCC"), March 05, 2012
 - [futility pruning, razoring question](http://www.talkchess.com/forum/viewtopic.php?t=43165) by [Marco Belli](Marco_Belli "Marco Belli"), [CCC](CCC "CCC"), April 04, 2012 » [Razoring](Razoring "Razoring")
 - [A search enhancement?](http://www.talkchess.com/forum/viewtopic.php?t=43513) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), April 30, 2012 » [Move Count Based Pruning](Futility_Pruning#MoveCountBasedPruning "Futility Pruning")
-- [LMP in PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=54761) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), December 27, 2014 » [PV-Node](Node_Types#PV "Node Types"), [Texel](Texel "Texel")
+- [LMP in PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=54761) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), December 27, 2014 » [PV-Node](Node_Types#PV-Node "Node Types"), [Texel](Texel "Texel")
 
 ## 2015 ...
 

@@ -15,20 +15,20 @@ a name for every heuristic that removes completely certain branches of the [sear
 ## Forward pruning techniques
 
 
-Forward pruning techniques are either applied at expected [Cut-Nodes](Node_Types#CUT "Node Types") or [All-Nodes](Node_Types#ALL "Node Types") and return either beta as [lower bound](Lower_Bound "Lower Bound") or alpha as [upper bound](Upper_Bound "Upper Bound"). The none [recursive](Recursion "Recursion") [ProbCut](ProbCut "ProbCut") is applied at both types of none [PV-nodes](Node_Types#PV "Node Types"). Rather than immediately returning alpha at strong expected [All-Nodes](Node_Types#ALL "Node Types") after a reduced or [quiescence search](Quiescence_Search "Quiescence Search"), pruning techniques near the horizon skip moves, which are very unlikely to exceed alpha, or in case of the quiescence search itself, all (most) [quiet moves](Quiet_Moves "Quiet Moves") as well as losing [captures](Captures "Captures").
+Forward pruning techniques are either applied at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") or [All-Nodes](Node_Types#All-Nodes "Node Types") and return either beta as [lower bound](Lower_Bound "Lower Bound") or alpha as [upper bound](Upper_Bound "Upper Bound"). The none [recursive](Recursion "Recursion") [ProbCut](ProbCut "ProbCut") is applied at both types of none [PV-nodes](Node_Types#PV-Node "Node Types"). Rather than immediately returning alpha at strong expected [All-Nodes](Node_Types#All-Nodes "Node Types") after a reduced or [quiescence search](Quiescence_Search "Quiescence Search"), pruning techniques near the horizon skip moves, which are very unlikely to exceed alpha, or in case of the quiescence search itself, all (most) [quiet moves](Quiet_Moves "Quiet Moves") as well as losing [captures](Captures "Captures").
 
 
 
 ### Returning Beta
 
 
-at expected [Cut-Nodes](Node_Types#CUT "Node Types"):
+at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types"):
 
 
 
 * [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") - if reduced nullmove search fails high, return beta
 * [Multi-Cut](Multi-Cut "Multi-Cut") - if a reduced, specialized search has C cut-offs from N tried moves, return beta
-* [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning"), also applicable at expected [All-Nodes](Node_Types#ALL "Node Types")
+* [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning"), also applicable at expected [All-Nodes](Node_Types#All-Nodes "Node Types")
 * [ProbCut](ProbCut "ProbCut")
 * [Reverse Futility Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning")
 * [Standing Pat in Quiescence Search](Quiescence_Search#StandPat "Quiescence Search")
@@ -37,7 +37,7 @@ at expected [Cut-Nodes](Node_Types#CUT "Node Types"):
 ### Returning Alpha
 
 
-or below at expected [All-Nodes](Node_Types#ALL "Node Types") or expected [Cut-Nodes](Node_Types#CUT "Node Types") which turn out to become All-Nodes:
+or below at expected [All-Nodes](Node_Types#All-Nodes "Node Types") or expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") which turn out to become All-Nodes:
 
 
 
@@ -50,7 +50,7 @@ or below at expected [All-Nodes](Node_Types#ALL "Node Types") or expected [Cut-N
 ### Skipping Moves
 
 
-likely at [All-Nodes](Node_Types#ALL "Node Types"):
+likely at [All-Nodes](Node_Types#All-Nodes "Node Types"):
 
 
 
@@ -201,7 +201,7 @@ likely at [All-Nodes](Node_Types#ALL "Node Types"):
 * [Verification of pruning techniques](http://www.talkchess.com/forum/viewtopic.php?t=57843) by [Shawn Chidester](Shawn_Chidester "Shawn Chidester"), [CCC](CCC "CCC"), October 04, 2015
 * [EMR & EMP](http://www.talkchess.com/forum/viewtopic.php?t=60868) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), July 19, 2016
 * [Transposition table based pruning idea](http://www.talkchess.com/forum/viewtopic.php?t=66135) by [Jerry Donald](index.php?title=Jerry_Donald&action=edit&redlink=1 "Jerry Donald (page does not exist)"), [CCC](CCC "CCC"), December 25, 2017 » [Transposition Table](Transposition_Table "Transposition Table")
-* [Pruning at PV nodes?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69510) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 06, 2019 » [PV-Nodes](Node_Types#PV "Node Types")
+* [Pruning at PV nodes?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69510) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 06, 2019 » [PV-Nodes](Node_Types#PV-Node "Node Types")
 * [delaying tactics: prune or extend?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70165) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 10, 2019 » [Selectivity](Selectivity "Selectivity"), [Tactics](Tactics "Tactics")
 
 

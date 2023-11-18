@@ -19,7 +19,7 @@ As former youth chess player and autodidact programmer, he developed the chess e
 ### 2007 ...
 
 
-* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by Onno Garms, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [All Nodes](Node_Types#ALL "Node Types")
+* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by Onno Garms, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [All Nodes](Node_Types#All-Nodes "Node Types")
 * [Bitboard of squares between](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6573) by Onno Garms, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 15, 2007 » [In Between Bitboards](Square_Attacked_By#InBetween "Square Attacked By")
 * [Speedup by bitboards](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6651) by Onno Garms, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 13, 2007
 * [Shogi](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6807) by Onno Garms, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 14, 2007 » [Shogi](Shogi "Shogi")

@@ -8,7 +8,7 @@ title: Principal Variation SearchHistory
  [](https://en.wikipedia.org/wiki/File:Cage-variations-iii-14-small.jpg) [John Cage](Category:John_Cage "Category:John Cage") - Variations III, No. 14 [[1]](#cite_note-1) 
 **Principal Variation Search (PVS)**,  
 
-an enhancement to [Alpha-Beta](Alpha-Beta "Alpha-Beta"), based on [null- or zero window](Null_Window "Null Window") searches of none [PV-nodes](Node_Types#PV "Node Types"), to prove a move is worse or not than an already safe score from the [principal variation](Principal_Variation "Principal Variation"). 
+an enhancement to [Alpha-Beta](Alpha-Beta "Alpha-Beta"), based on [null- or zero window](Null_Window "Null Window") searches of none [PV-nodes](Node_Types#PV-Node "Node Types"), to prove a move is worse or not than an already safe score from the [principal variation](Principal_Variation "Principal Variation"). 
 
 
 
@@ -184,7 +184,7 @@ int pvSearch( int alpha, int beta, int depth ) {
 ## PVS + ZWS
 
 
-Often, programmers split PVS inside a pure [PV-node](Node_Types#PV "Node Types") search and a separate and a more compact [scout search](Scout "Scout") with [null windows](Null_Window "Null Window").
+Often, programmers split PVS inside a pure [PV-node](Node_Types#PV-Node "Node Types") search and a separate and a more compact [scout search](Scout "Scout") with [null windows](Null_Window "Null Window").
 
 
 

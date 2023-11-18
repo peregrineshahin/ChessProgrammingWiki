@@ -3,7 +3,7 @@ title: Beta
 ---
 **[Home](Home "Home") * [Search](Search "Search") * [Score](Score "Score") * Beta**
 
-**Beta** (β) is the [upper bound](Upper_Bound "Upper Bound") of a [score](Score "Score") for the [node](Node "Node"). If the node value exceeds or equals beta, it means that the opponent will avoid this node, since his guaranteed score ([Alpha](Alpha "Alpha") of the parent node) is already greater. Thus, Beta is the best-score the opponent (min-player) could archive so far - in a [Negamax](Negamax "Negamax") framework from max-players point of view, where beta is the negated value of [alpha](Alpha "Alpha") from the parent node. If a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs on the [upper bound](Upper_Bound "Upper Bound") of a [Cut-Node](Node_Types#CUT "Node Types") given by Beta, the value returned is a [lower bound](Lower_Bound "Lower Bound").
+**Beta** (β) is the [upper bound](Upper_Bound "Upper Bound") of a [score](Score "Score") for the [node](Node "Node"). If the node value exceeds or equals beta, it means that the opponent will avoid this node, since his guaranteed score ([Alpha](Alpha "Alpha") of the parent node) is already greater. Thus, Beta is the best-score the opponent (min-player) could archive so far - in a [Negamax](Negamax "Negamax") framework from max-players point of view, where beta is the negated value of [alpha](Alpha "Alpha") from the parent node. If a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs on the [upper bound](Upper_Bound "Upper Bound") of a [Cut-Node](Node_Types#Cut-Nodes "Node Types") given by Beta, the value returned is a [lower bound](Lower_Bound "Lower Bound").
 
 ## See also
 

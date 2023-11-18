@@ -38,7 +38,7 @@ Rodent may be regarded as a beefed up [bitboard](Bitboards "Bitboards") version 
 * "Sliding" [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
 * [Late Move Pruning](Futility_Pruning#MoveCountBasedPruning "Futility Pruning")
 * [Eval Pruning](Quiescence_Search#StandPat "Quiescence Search") (a.k.a. static null move)
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") in [PV-Nodes](Node_Types#PV "Node Types")
+* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") in [PV-Nodes](Node_Types#PV-Node "Node Types")
 
 
 ### [Evaluation](Evaluation "Evaluation")

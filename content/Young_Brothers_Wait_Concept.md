@@ -32,7 +32,7 @@ Their 1989 ICCA paper was criticized by [Jonathan Schaeffer](Jonathan_Schaeffer 
 ## Quotes
 
 
-[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#ALL "Node Types") and [CUT-nodes](Node_Types#CUT "Node Types") <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
+[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#All-Nodes "Node Types") and [CUT-nodes](Node_Types#Cut-Nodes "Node Types") <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 
 

@@ -38,7 +38,7 @@ The MP version of Onno searches in [parallel](Parallel_Search "Parallel Search")
 ### Node Types
 
 
-Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") not only at [PV-nodes](Node_Types#PV "Node Types") but also at expected [Cut-nodes](Node_Types#CUT "Node Types"). Onno Garms gave following rules <a id="cite-note-8" href="#cite-ref-8">[8]</a>
+Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") not only at [PV-nodes](Node_Types#PV-Node "Node Types") but also at expected [Cut-nodes](Node_Types#Cut-Nodes "Node Types"). Onno Garms gave following rules <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
@@ -50,7 +50,7 @@ Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](
 * The node after a [null move](Null_Move "Null Move") is a CUT-node
 * The first node of [null move verification](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning") is a CUT-node
 * [Internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") does not change the node type
-* The first child of a CUT-node is an [ALL-node](Node_Types#ALL "Node Types")
+* The first child of a CUT-node is an [ALL-node](Node_Types#All-Nodes "Node Types")
 * Further children of a CUT-node are CUT-nodes
 * Children of ALL-nodes are CUT-nodes
 

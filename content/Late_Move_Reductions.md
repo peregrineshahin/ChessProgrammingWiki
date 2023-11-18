@@ -8,7 +8,7 @@ title: Late Move Reductions
  [](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc8) [Samuel Bak](Category:Samuel_Bak "Category:Samuel Bak") - Other Rules <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Late Move Reductions (LMR)**,  
 
-or its version known as **History Pruning** and **History Reductions** <a id="cite-note-2" href="#cite-ref-2">[2]</a> , save search by reducing [moves](Moves "Moves") that are [ordered](Move_Ordering "Move Ordering") closer to the end of likely [fail-low nodes](Node_Types#ALL "Node Types"). Typically, most schemes search the first few moves (say 3-4) at full [depth](Depth "Depth"), then if no move [fails high](Fail-High "Fail-High"), many of the remaining moves are reduced in search [depth](Depth "Depth"). The technique has been used for many years in various forms, but it became very popular in 2005 after [Fruit](Fruit "Fruit") and [Glaurung](Glaurung "Glaurung") <a id="cite-note-3" href="#cite-ref-3">[3]</a> used open source implementations based on the [History Heuristic](History_Heuristic "History Heuristic"). LMR can often reduce the [effective branching factor](Branching_Factor#EffectiveBranchingFactor "Branching Factor") to less than 2, depending on the reduction conditions. 
+or its version known as **History Pruning** and **History Reductions** <a id="cite-note-2" href="#cite-ref-2">[2]</a> , save search by reducing [moves](Moves "Moves") that are [ordered](Move_Ordering "Move Ordering") closer to the end of likely [fail-low nodes](Node_Types#All-Nodes "Node Types"). Typically, most schemes search the first few moves (say 3-4) at full [depth](Depth "Depth"), then if no move [fails high](Fail-High "Fail-High"), many of the remaining moves are reduced in search [depth](Depth "Depth"). The technique has been used for many years in various forms, but it became very popular in 2005 after [Fruit](Fruit "Fruit") and [Glaurung](Glaurung "Glaurung") <a id="cite-note-3" href="#cite-ref-3">[3]</a> used open source implementations based on the [History Heuristic](History_Heuristic "History Heuristic"). LMR can often reduce the [effective branching factor](Branching_Factor#EffectiveBranchingFactor "Branching Factor") to less than 2, depending on the reduction conditions. 
 
 
 
@@ -47,18 +47,18 @@ Some common conditions to reduce less:
 
 * Move gives check
 * Move is a [killer move](Killer_Heuristic "Killer Heuristic") or a [countermove](Countermove_Heuristic "Countermove Heuristic")
-* We are on a [PV-node](Node_Types#PV "Node Types")
+* We are on a [PV-node](Node_Types#PV-Node "Node Types")
 * Move has a good [history](History_Heuristic "History Heuristic") score
 * Move has a good [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") score
 
 Some common conditions to reduce more:
-* We are on an expected [cut-node](Node_Types#CUT "Node Types")
+* We are on an expected [cut-node](Node_Types#Cut-Nodes "Node Types")
 * Move has a bad [history](History_Heuristic "History Heuristic") score
 * Our score is not improving (ie our current evaluation is less than or equal to the evaluation from two [plies](Ply "Ply") ago)
 
 ## Re-searches
 
-Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha. However, modern implementations have a triple-search system for [PV-nodes](Node_Types#PV "Node Types") and a double search system for non PV-nodes.
+Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha. However, modern implementations have a triple-search system for [PV-nodes](Node_Types#PV-Node "Node Types") and a double search system for non PV-nodes.
 
 
 

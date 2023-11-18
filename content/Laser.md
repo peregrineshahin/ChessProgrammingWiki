@@ -30,7 +30,7 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 	+ [Two Bucket System](Transposition_Table#Bucket "Transposition Table")
 * [Selectivity](Selectivity "Selectivity")
 	+ [Adaptive Null Move Pruning](Null_Move_Pruning#AdaptiveNullMovePruning "Null Move Pruning")
-	+ [Late Move Reductions](Late_Move_Reductions "Late Move Reductions"), since 1.3 also at [PV nodes](Node_Types#PV "Node Types")
+	+ [Late Move Reductions](Late_Move_Reductions "Late Move Reductions"), since 1.3 also at [PV nodes](Node_Types#PV-Node "Node Types")
 	+ [Futility Pruning](Futility_Pruning "Futility Pruning")
 	+ [Reverse Futility Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning")
 	+ [Razoring](Razoring "Razoring")

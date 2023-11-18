@@ -34,7 +34,7 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") licen
 	+ [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation")
 * [Selectivity](Selectivity "Selectivity")
 	+ [Fractional Extensions](Extensions#FractionalExtensions "Extensions") considering [Node Type](Node_Types "Node Types")
-		- [Piece Capture Extensions](Capture_Extensions "Capture Extensions") in [Endgame](Endgame "Endgame") and [PV-Node](Node_Types#PV "Node Types")
+		- [Piece Capture Extensions](Capture_Extensions "Capture Extensions") in [Endgame](Endgame "Endgame") and [PV-Node](Node_Types#PV-Node "Node Types")
 		- [Check Extensions](Check_Extensions "Check Extensions") if [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") >= 0
 		- [One Reply Extensions](One_Reply_Extensions "One Reply Extensions")
 		- [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions")

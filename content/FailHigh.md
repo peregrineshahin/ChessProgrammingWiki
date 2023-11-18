@@ -8,7 +8,7 @@ There are two related semantics, if talking of a **Fail-High** - inside the [sea
 
 ## Inside the Tree
 
-A **Fail-High** is associated with a [Beta-Cutoff](Beta-Cutoff "Beta-Cutoff") in the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), which appears at so called [Cut-Nodes](Node_Types#CUT "Node Types"), also called Fail-High nodes. The score returned is a [lower bound](Lower_Bound "Lower Bound") on the [exact score](Exact_Score "Exact Score") of the [node](Node "Node").
+A **Fail-High** is associated with a [Beta-Cutoff](Beta-Cutoff "Beta-Cutoff") in the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), which appears at so called [Cut-Nodes](Node_Types#Cut-Nodes "Node Types"), also called Fail-High nodes. The score returned is a [lower bound](Lower_Bound "Lower Bound") on the [exact score](Exact_Score "Exact Score") of the [node](Node "Node").
 
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
@@ -72,7 +72,7 @@ You can also talk about failing high and failing low from the root position, if 
 ## 2015 ...
 
 - [Fail low after fail high](http://www.talkchess.com/forum/viewtopic.php?t=55889) by [J. Wesley Cleveland](index.php?title=J._Wesley_Cleveland&action=edit&redlink=1 "J. Wesley Cleveland (page does not exist)"), [CCC](CCC "CCC"), April 04, 2015 » [Fail-Low](Fail-Low "Fail-Low"), [Search Instability](Search_Instability "Search Instability")
-- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017  » [Cut-Nodes](Node_Types#CUT "Node Types")
+- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017  » [Cut-Nodes](Node_Types#Cut-Nodes "Node Types")
 - [On failing high and finding mates](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69927) by [Vincent Tang](Vincent_Tang "Vincent Tang"), [CCC](CCC "CCC"), February 16, 2019
 
 ## 2020 ...

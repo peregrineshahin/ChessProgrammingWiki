@@ -5,7 +5,7 @@ title: Best Move
 
 *The **Best Move** is a [Search](Search "Search") related issue.*
 
-The **Best Move** in the context of [search algorithms](Search "Search") like [Alpha-Beta](Alpha-Beta "Alpha-Beta") or [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), is found at the [root](Root "Root") or any other confirmed [PV-node](Node_Types#PV "Node Types"). It is that move which gained the maximum score, which is [exact](Exact_Score "Exact Score") since it exceeds [alpha](Alpha "Alpha") but is still below [beta](Beta "Beta") and therefor not good enough to refute opponent's previous move, which may become his best move and part of the [principal variation](Principal_Variation "Principal Variation") as well.
+The **Best Move** in the context of [search algorithms](Search "Search") like [Alpha-Beta](Alpha-Beta "Alpha-Beta") or [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), is found at the [root](Root "Root") or any other confirmed [PV-node](Node_Types#PV-Node "Node Types"). It is that move which gained the maximum score, which is [exact](Exact_Score "Exact Score") since it exceeds [alpha](Alpha "Alpha") but is still below [beta](Beta "Beta") and therefor not good enough to refute opponent's previous move, which may become his best move and part of the [principal variation](Principal_Variation "Principal Variation") as well.
 
 ## Best so far
 
@@ -21,11 +21,11 @@ If using a [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") to [
 
 ## Cut-Node
 
-At [Cut-nodes](Node_Types#CUT "Node Types"), if a move [fails high](Fail-High "Fail-High"), it is not necessarily the best move, but a [refutation move](Refutation_Move "Refutation Move"), good enough to refute opponents previous move. Since it is the best move found so far, in the context of transposition table, it is often flippant mentioned as best move as well.
+At [Cut-nodes](Node_Types#Cut-Nodes "Node Types"), if a move [fails high](Fail-High "Fail-High"), it is not necessarily the best move, but a [refutation move](Refutation_Move "Refutation Move"), good enough to refute opponents previous move. Since it is the best move found so far, in the context of transposition table, it is often flippant mentioned as best move as well.
 
 ## All-Node
 
-At [All-nodes](Node_Types#ALL "Node Types") there is no best move found at all, despite all childs were considered if not pruned. While there is a maximum score in the arithmetical sense, all scores below or equal to [alpha](Alpha "Alpha") are [upper bounds](Upper_Bound "Upper Bound") and not comparable to determine a best move.
+At [All-nodes](Node_Types#All-Nodes "Node Types") there is no best move found at all, despite all childs were considered if not pruned. While there is a maximum score in the arithmetical sense, all scores below or equal to [alpha](Alpha "Alpha") are [upper bounds](Upper_Bound "Upper Bound") and not comparable to determine a best move.
 
 ## See also
 

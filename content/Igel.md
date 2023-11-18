@@ -31,7 +31,7 @@ initially based on [GreKo 2018.01](GreKo "GreKo") and following independent deve
 * [Futility Pruning](Futility_Pruning "Futility Pruning")
 * [Late Move Pruning](Futility_Pruning#MoveCountBasedPruning "Futility Pruning")
 * [Eval Pruning](Quiescence_Search#StandPat "Quiescence Search") (a.k.a. static null move)
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") in [PV-Nodes](Node_Types#PV "Node Types")
+* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") in [PV-Nodes](Node_Types#PV-Node "Node Types")
 
 
 ### [Evaluation](Evaluation "Evaluation")
