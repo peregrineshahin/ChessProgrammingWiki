@@ -141,85 +141,152 @@ Assuming a constant [branching factor](Branching_Factor "Branching Factor") of 4
 
 
 
-
- [number of leaves with depth n and b = 40](Template:Number_of_Leaves "Template:Number of Leaves")
-|  depth
- |  worst case
- |  best case
- |  PV
- |  CUT
- |  ALL
- |
-|  n
- |  bn |  b⌈n/2⌉ + b⌊n/2⌋ - 1
- |  1
- |  b⌈n/2⌉ - 1
- |  b⌊n/2⌋ - 1
- |
-|  0
- |  1
- |  1
- |  1
- |  0
- |  0
- |
-|  1
- |  40
- |  40
- |  1
- |  39
- |  0
- |
-|  2
- |  1,600
- |  79
- |  1
- |  39
- |  39
- |
-|  3
- |  64,000
- |  1,639
- |  1
- |  1,599
- |  39
- |
-|  4
- |  2,560,000
- |  3,199
- |  1
- |  1,599
- |  1,599
- |
-|  5
- |  102,400,000
- |  65,569
- |  1
- |  63,999
- |  1,599
- |
-|  6
- |  4,096,000,000
- |  127,999
- |  1
- |  63,999
- |  63,999
- |
-|  7
- |  163,840,000,000
- |  2,623,999
- |  1
- |  2,559,999
- |  63,999
- |
-|  8
- |  6,553,600,000,000
- |  5,119,999
- |  1
- |  2,559,999
- |  2,559,999
- |
-
+<table class="wikitable">
+<caption> <a href="/Template:Number_of_Leaves" title="Template:Number of Leaves">number of leaves with depth n and b = 40</a>
+</caption>
+<tbody><tr>
+<th> depth
+</th>
+<th> worst case
+</th>
+<th> best case
+</th>
+<th> PV
+</th>
+<th> CUT
+</th>
+<th> ALL
+</th></tr>
+<tr>
+<th> n
+</th>
+<td style="text-align:center;"> b<span style="vertical-align: super;">n</span>
+</td>
+<td style="text-align:center;"> b<span style="vertical-align: super;">⌈n/2⌉</span> + b<span style="vertical-align: super;">⌊n/2⌋</span>  - 1
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:center;"> b<span style="vertical-align: super;">⌈n/2⌉</span> - 1
+</td>
+<td style="text-align:center;"> b<span style="vertical-align: super;">⌊n/2⌋</span> - 1
+</td></tr>
+<tr>
+<th> 0
+</th>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 0
+</td>
+<td style="text-align:right;"> 0
+</td></tr>
+<tr>
+<th>  1
+</th>
+<td style="text-align:right;"> 40
+</td>
+<td style="text-align:right;"> 40
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 39
+</td>
+<td style="text-align:right;"> 0
+</td></tr>
+<tr>
+<th> 2
+</th>
+<td style="text-align:right;"> 1,600
+</td>
+<td style="text-align:right;"> 79
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 39
+</td>
+<td style="text-align:right;"> 39
+</td></tr>
+<tr>
+<th>  3
+</th>
+<td style="text-align:right;"> 64,000
+</td>
+<td style="text-align:right;"> 1,639
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 1,599
+</td>
+<td style="text-align:right;"> 39
+</td></tr>
+<tr>
+<th>  4
+</th>
+<td style="text-align:right;"> 2,560,000
+</td>
+<td style="text-align:right;"> 3,199
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 1,599
+</td>
+<td style="text-align:right;"> 1,599
+</td></tr>
+<tr>
+<th>  5
+</th>
+<td style="text-align:right;"> 102,400,000
+</td>
+<td style="text-align:right;"> 65,569
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 63,999
+</td>
+<td style="text-align:right;"> 1,599
+</td></tr>
+<tr>
+<th>  6
+</th>
+<td style="text-align:right;"> 4,096,000,000
+</td>
+<td style="text-align:right;"> 127,999
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 63,999
+</td>
+<td style="text-align:right;"> 63,999
+</td></tr>
+<tr>
+<th>  7
+</th>
+<td style="text-align:right;"> 163,840,000,000
+</td>
+<td style="text-align:right;"> 2,623,999
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 2,559,999
+</td>
+<td style="text-align:right;">  63,999
+</td></tr>
+<tr>
+<th>  8
+</th>
+<td style="text-align:right;"> 6,553,600,000,000
+</td>
+<td style="text-align:right;"> 5,119,999
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 2,559,999
+</td>
+<td style="text-align:right;"> 2,559,999
+</td></tr></tbody></table>
 
 ## Quotes
 
