@@ -18,7 +18,5 @@ Where to use IIR is also an important question. Limiting the depth is an obvious
 * [Delta Pruning](Delta_Pruning "Delta Pruning")
 
 ## Forum Posts
-
-
 ### 2020...
 * [An alternative to IID](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=74769) by [Ed Schroder](Ed_Schroder "Ed Schroder")

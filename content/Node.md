@@ -3,9 +3,6 @@ title: Node
 ---
 **[Home](Home "Home") \* [Search](Search "Search") \* Node**
 
-
-
-[ The Dragon's Head and Tail <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Node**, ([vertex](https://en.wikipedia.org/wiki/Vertex_%28graph_theory%29))  
 
 the fundamental unit in [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and, applied to [computer science](https://en.wikipedia.org/wiki/Computer_science), basic unit to structure and link devices of a [network](https://en.wikipedia.org/wiki/Computer_network) as well as [data](Data "Data"), such as items of a [linked list](Linked_List "Linked List") or [tree structure](https://en.wikipedia.org/wiki/Tree_%28data_structure%29). This page is about the **node** of the [search tree](Search_Tree "Search Tree") in the game of chess, which represents the alternating white and black to move [positions](Chess_Position "Chess Position") and keeps its state dependent on the [tree traversal](https://en.wikipedia.org/wiki/Tree_traversal). Inside a [depth-first](Depth-First "Depth-First") search, nodes are usually counted at top of the [recursive](Recursion "Recursion") search routine, i.e. for the purpose to determine [nodes per second](Nodes_per_Second "Nodes per Second"). The [move](Moves "Moves") is the [directed edge](https://en.wikipedia.org/wiki/Directed_graph) which connects an ordered pair of nodes or positions.
@@ -27,30 +24,51 @@ Nodes are classified by their topological properties inside the search tree, and
 
 
 ## Depth
+<table class="wikitable">
 
-
-
-
-|  Name
- |  Heinz
- |  Hyatt
- |  Ambiguity
- |
-| --- | --- | --- | --- |
-| [Horizon Node](Horizon_Node "Horizon Node") |  0
- |  -
- |  \*
- |
-| [Frontier Node](Frontier_Nodes "Frontier Nodes") |  1
- |  0
- |  \*
- |
-| [Pre Frontier Node](Pre_Frontier_Node "Pre Frontier Node") |  2
- |  1
- |  \*
- |
-| [Quiescent Node](Quiescent_Node "Quiescent Node") |  <= 0
- |  |
+<tbody><tr>
+<th> Name
+</th>
+<th> Heinz
+</th>
+<th> Hyatt
+</th>
+<th> Ambiguity
+</th></tr>
+<tr>
+<td>  <a href="/Horizon_Node" title="Horizon Node">Horizon Node</a>
+</td>
+<td style="text-align:right;"> 0
+</td>
+<td style="text-align:right;"> -
+</td>
+<td style="text-align:center;"> *
+</td></tr>
+<tr>
+<td>  <a href="/Frontier_Nodes" title="Frontier Nodes">Frontier Node</a>
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:right;"> 0
+</td>
+<td style="text-align:center;"> *
+</td></tr>
+<tr>
+<td>  <a href="/Pre_Frontier_Node" title="Pre Frontier Node">Pre Frontier Node</a>
+</td>
+<td style="text-align:right;"> 2
+</td>
+<td style="text-align:right;"> 1
+</td>
+<td style="text-align:center;"> *
+</td></tr>
+<tr>
+<td>  <a href="/Quiescent_Node" title="Quiescent Node">Quiescent Node</a>
+</td>
+<td style="text-align:center;" colspan="2"> &lt;= 0
+</td>
+<td>
+</td></tr></tbody></table>
 
 
 * ) *There seems an ambiguity according to the definition of frontier versus horizon nodes.* <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> .

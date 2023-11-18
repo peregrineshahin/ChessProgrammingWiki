@@ -1,7 +1,8 @@
 ---
 title: Extensions
 ---
-**[Home](Home "Home") * [Search](Search "Search") * [Selectivity](Selectivity "Selectivity") * Extensions**
+
+**[Home](Home "Home") _ [Search](Search "Search") _ [Selectivity](Selectivity "Selectivity") \* Extensions**
 
 Many programs **extend** certain moves to try and find better moves faster, or to resolve tactical "noise" resulting from the [horizon effect](Horizon_Effect "Horizon Effect"). To extend a move, its [search depth](Depth "Depth") (draft) is incremented by some amount, typically one [ply](Ply "Ply").
 
@@ -31,28 +32,58 @@ for each move m € of all moves {
 
 ## Types
 
-|  type
-|  typical class
-|
-| --- | --- |
-| [Botvinnik-Markoff Extension](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension") |  loss-seeking
-|
-| [Capture Extensions](Capture_Extensions "Capture Extensions") |  neutral
-|
-| [Check Extensions](Check_Extensions "Check Extensions") |  neutral
-|
-| [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions") |  win-seeking
-|
-| [One Reply Extensions](One_Reply_Extensions "One Reply Extensions") |  loss-seeking
-|
-| [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions") |  neutral
-|
-| [PV Extensions](PV_Extensions "PV Extensions") |  neutral
-|
-| [Recapture Extensions](Recapture_Extensions "Recapture Extensions") |  neutral
-|
-| [Singular Extensions](Singular_Extensions "Singular Extensions") |  neutral
-|
+<table class="wikitable">
+
+<tbody><tr>
+<th> type
+</th>
+<th> typical class
+</th></tr>
+<tr>
+<td>  <a href="/Botvinnik-Markoff_Extension" title="Botvinnik-Markoff Extension">Botvinnik-Markoff Extension</a>
+</td>
+<td > loss-seeking
+</td></tr>
+<tr>
+<td>  <a href="/Capture_Extensions" title="Capture Extensions">Capture Extensions</a>
+</td>
+<td > neutral
+</td></tr>
+<tr>
+<td>  <a href="/Check_Extensions" title="Check Extensions">Check Extensions</a>
+</td>
+<td > neutral
+</td></tr>
+<tr>
+<td>  <a href="/Mate_Threat_Extensions" title="Mate Threat Extensions">Mate Threat Extensions</a>
+</td>
+<td > win-seeking
+</td></tr>
+<tr>
+<td>  <a href="/One_Reply_Extensions" title="One Reply Extensions">One Reply Extensions</a>
+</td>
+<td > loss-seeking
+</td></tr>
+<tr>
+<td>  <a href="/Passed_Pawn_Extensions" title="Passed Pawn Extensions">Passed Pawn Extensions</a>
+</td>
+<td > neutral
+</td></tr>
+<tr>
+<td>  <a href="/PV_Extensions" title="PV Extensions">PV Extensions</a>
+</td>
+<td > neutral
+</td></tr>
+<tr>
+<td>  <a href="/Recapture_Extensions" title="Recapture Extensions">Recapture Extensions</a>
+</td>
+<td > neutral
+</td></tr>
+<tr>
+<td>  <a href="/Singular_Extensions" title="Singular Extensions">Singular Extensions</a>
+</td>
+<td > neutral
+</td></tr></tbody></table>
 
 ## Fractional Extensions
 
@@ -78,33 +109,33 @@ In contemporary, heavily reducing programs former typical extensions are often u
 
 ## Publications
 
-## 1980 ...
+### 1980 ...
 
-- [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl") (**1983**). *Searching to Variable Depth in Computer Chess.* Proceedings of [IJCAI 83](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai83.html), pp. 760-762. Karlsruhe. [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-83-VOL-2/PDF/039.pdf)
-- [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1988**). *Singular extensions: Adding Selectivity to Brute-Force Searching*. AAAI Spring Symposium, Computer Game Playing, pp. 8-13. Also published in [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), republished (1990) in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 99-109. ISSN 0004-3702.
-- [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+- [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl") (**1983**). _Searching to Variable Depth in Computer Chess._ Proceedings of [IJCAI 83](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/ijcai83.html), pp. 760-762. Karlsruhe. [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-83-VOL-2/PDF/039.pdf)
+- [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1988**). _Singular extensions: Adding Selectivity to Brute-Force Searching_. AAAI Spring Symposium, Computer Game Playing, pp. 8-13. Also published in [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), republished (1990) in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 99-109. ISSN 0004-3702.
+- [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). _The SEX Algorithm in Computer Chess_. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
 
-## 1990 ...
+### 1990 ...
 
-- [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1991**). *Extension Heuristics*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-- [Chun Ye](Chun_Ye "Chun Ye") (**1992**). *Experiments in Selective Search Extensions*. MSc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1)
-- [Chun Ye](Chun_Ye "Chun Ye"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Experiments in Forward Pruning with Limited Extensions.* [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
-- [Chun Ye](Chun_Ye "Chun Ye"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Selective Extensions in Game-Tree Search.* [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
-- [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1995**). *Quantification of Search-Extension Benefits.* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
+- [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1991**). _Extension Heuristics_. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+- [Chun Ye](Chun_Ye "Chun Ye") (**1992**). _Experiments in Selective Search Extensions_. MSc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1)
+- [Chun Ye](Chun_Ye "Chun Ye"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). _Experiments in Forward Pruning with Limited Extensions._ [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
+- [Chun Ye](Chun_Ye "Chun Ye"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). _Selective Extensions in Game-Tree Search._ [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
+- [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1995**). _Quantification of Search-Extension Benefits._ [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
 
-## 2000 ...
+### 2000 ...
 
-- [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Learning Search Control in Adversary Games*. [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), pp. 157-174. [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01b.pdf)
-- [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka"), [Daisaku Yokoyama](Daisaku_Yokoyama "Daisaku Yokoyama"), [Takashi Chikayama](Takashi_Chikayama "Takashi Chikayama") (**2002**). *[Game-Tree Search Algorithm based on Realization Probability](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.2.9258)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.2.9258&rep=rep1&type=pdf), [pdf](http://www-tsujii.is.s.u-tokyo.ac.jp/~tsuruoka/papers/icga02.pdf)
-- [David Levy](David_Levy "David Levy") (**2002**) *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+- [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). _Learning Search Control in Adversary Games_. [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), pp. 157-174. [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01b.pdf)
+- [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka"), [Daisaku Yokoyama](Daisaku_Yokoyama "Daisaku Yokoyama"), [Takashi Chikayama](Takashi_Chikayama "Takashi Chikayama") (**2002**). _[Game-Tree Search Algorithm based on Realization Probability](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.2.9258)_. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.2.9258&rep=rep1&type=pdf), [pdf](http://www-tsujii.is.s.u-tokyo.ac.jp/~tsuruoka/papers/icga02.pdf)
+- [David Levy](David_Levy "David Levy") (**2002**) _[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)_. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
 
-## 2010 ...
+### 2010 ...
 
-- [Pálmi Skowronski](index.php?title=P%C3%A1lmi_Skowronski&action=edit&redlink=1 "Pálmi Skowronski (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Mark Winands](Mark_Winands "Mark Winands") (**2010**). *[Automated Discovery of Search-Extension Features](http://www.sciweavers.org/publications/automated-discovery-search-extension-features)*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://www.hr.is/faculty/yngvi/pdf/SkowronskiBW09.pdf) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
+- [Pálmi Skowronski](index.php?title=P%C3%A1lmi_Skowronski&action=edit&redlink=1 "Pálmi Skowronski (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Mark Winands](Mark_Winands "Mark Winands") (**2010**). _[Automated Discovery of Search-Extension Features](http://www.sciweavers.org/publications/automated-discovery-search-extension-features)_. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://www.hr.is/faculty/yngvi/pdf/SkowronskiBW09.pdf) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## Forum Posts
 
-## 1996 ...
+### 1996 ...
 
 - [Fractional depth increments](https://groups.google.com/d/msg/rec.games.chess.computer/1uVIWZFB41k/VUcAUkzyFd0J) by S. Read, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 1996
 - [Crafty V11.3](https://groups.google.com/d/msg/rec.games.chess.computer/tcjwWnFhXt4/ifkLE7GwfSEJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 22, 1996 » [Crafty](Crafty "Crafty")
@@ -119,7 +150,7 @@ In contemporary, heavily reducing programs former typical extensions are often u
 - [Extensions and Futility Pruning](https://www.stmintz.com/ccc/index.php?id=50627) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), May 04, 1999 » [Futility Pruning](Futility_Pruning "Futility Pruning")
 - [Q. about Rebel extensions](https://www.stmintz.com/ccc/index.php?id=52090) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), May 18, 1999 » [Rebel](Rebel "Rebel")
 
-## 2000 ...
+### 2000 ...
 
 - [What is the use of extensions?](https://www.stmintz.com/ccc/index.php?id=87191) by [Leonid](Leonid_Liberman "Leonid Liberman"), [CCC](CCC "CCC"), January 09, 2000
 - [No explosions](https://www.stmintz.com/ccc/index.php?id=206802) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), January 11, 2002 » [Search Explosion](Search_Explosion "Search Explosion")
@@ -130,7 +161,7 @@ In contemporary, heavily reducing programs former typical extensions are often u
 - [Evaluation-based Reductions and/or Extensions](https://www.stmintz.com/ccc/index.php?id=338851) by [Tom Likens](Tom_Likens "Tom Likens"), [CCC](CCC "CCC"), December 28, 2003 » [Reductions](Reductions "Reductions")
 - [extensions + reductions + pruning = confusion](https://www.stmintz.com/ccc/index.php?id=356488) by [Johan de Koning](Johan_de_Koning "Johan de Koning"), [CCC](CCC "CCC"), March 24, 2004 (was [Shredder 8 secret: search depth?](https://www.stmintz.com/ccc/index.php?id=356109))
 
-## 2005 ...
+### 2005 ...
 
 - [Limiting extensions](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=1754&p=8190) by [David B. Weller](David_B._Weller "David B. Weller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2005 » [GES](GES "GES")
 - [Worthless extension ideas...](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4952) by [mjlef](Mark_Lefler "Mark Lefler"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 06, 2006
@@ -143,7 +174,7 @@ In contemporary, heavily reducing programs former typical extensions are often u
 - [Extensions: everywhere or near the tips?](http://www.talkchess.com/forum/viewtopic.php?t=27017) by [Alvaro Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [CCC](CCC "CCC"), March 15, 2009
 - [Stupid Extension Problem/Question](http://www.talkchess.com/forum/viewtopic.php?t=31220) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), December 23, 2009 » [Repetitions](Repetitions "Repetitions")
 
-## 2010 ...
+### 2010 ...
 
 - [Problem with exploding tree because of extensions](http://www.talkchess.com/forum/viewtopic.php?t=31505) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), January 05, 2010 » [Search Explosion](Search_Explosion "Search Explosion")
 - [Restricting extensions to the left most branches?](http://www.talkchess.com/forum/viewtopic.php?t=32940) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), February 27, 2010
@@ -151,7 +182,7 @@ In contemporary, heavily reducing programs former typical extensions are often u
 - [Loss-seeking extension/threatened pieces](http://www.talkchess.com/forum/viewtopic.php?t=40984) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), November 03, 2011
 - [search extensions](http://www.talkchess.com/forum/viewtopic.php?t=54281) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 08, 2014 » [Singular Extensions](Singular_Extensions "Singular Extensions")
 
-## 2015 ...
+### 2015 ...
 
 - [Adding an Extension Results in Deeper General Search!](http://www.talkchess.com/forum/viewtopic.php?t=56311) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), May 10, 2015 » [Passed Pawn Extensions](Passed_Pawn_Extensions "Passed Pawn Extensions")
 - [Search extensions](http://www.open-chess.org/viewtopic.php?f=5&t=2968) by ppyvabw, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), March 17, 2016
@@ -162,13 +193,13 @@ In contemporary, heavily reducing programs former typical extensions are often u
 
 ## External Links
 
-## Search Extension
+### Search Extension
 
 - [Search Extension](http://web.archive.org/web/20070607151732/www.brucemo.com/compchess/programming/extensions.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
 - [Computer Chess Programming Theory - Search Extensions](http://www.frayn.net/beowulf/theory.html#extend) by [Colin Frayn](Colin_Frayn "Colin Frayn")
 - [Programming Details - Slow Chess | Extensions Used, Detailed Description](http://www.3dkingdoms.com/chess/implementation.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer") » [Slow Chess](Slow_Chess "Slow Chess")
 
-## Misc
+### Misc
 
 - [Extension from Wikipedia](https://en.wikipedia.org/wiki/Extension)
 - [Extension (metaphysics) from Wikipedia](https://en.wikipedia.org/wiki/Extension_%28metaphysics%29)
@@ -178,8 +209,7 @@ In contemporary, heavily reducing programs former typical extensions are often u
 ## References
 
 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Search Extension](http://web.archive.org/web/20070607151732/www.brucemo.com/compchess/programming/extensions.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). _The SEX Algorithm in Computer Chess_. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
 1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> ["Automated Discovery of Search Extensions"](http://www.open-chess.org/viewtopic.php?f=5&t=248) by [Mark Watkins](Mark_Watkins "Mark Watkins"), [OpenChess - Programming and Technical Discussions](Computer_Chess_Forums "Computer Chess Forums"), June 22, 2010
 
 **[Up one level](Selectivity "Selectivity")**
-
