@@ -5,9 +5,13 @@
     {{ partial "main/email" (dict "emailAddress" $.Destination) }}
   {{ end -}}
 {{ else -}}
-  {{ if not (strings.Contains .Destination "/") }}
-    <a href="{{ (.Page.GetPage .Destination).RelPermalink}}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- "" -}}
+  {{ $parts := split .Destination "#" }}
+  {{ $pageURL := index $parts 0 }}
+  {{ $fragment := index $parts 1 }}
+
+  {{ if not (strings.Contains $pageURL "/") }}
+    <a href="{{ (.Page.GetPage $pageURL).RelPermalink }}{{ with $fragment }}#{{ $fragment }}{{ end }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
   {{ else }}
-    <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- "" -}}
+    <a href="{{ $pageURL | safeURL }}{{ with $fragment }}#{{ $fragment }}{{ end }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
   {{ end }}
 {{- end -}}
