@@ -18,7 +18,7 @@ Inside [Alpha-beta](Alpha-Beta "Alpha-Beta")- or [PV-search](Principal_Variation
 ### Re-Searches
 
 
-At [PV-nodes](Node_Types#PV-Node "Node Types") inside a [alpha-beta](Alpha-Beta "Alpha-Beta")- or [PV-search](Principal_Variation_Search "Principal Variation Search") the number of re-searches does concern, and how often a re-search does improve alpha (or even performs a cutoff) or not.
+At [PV-nodes](Node_Types#pv-node "Node Types") inside a [alpha-beta](Alpha-Beta "Alpha-Beta")- or [PV-search](Principal_Variation_Search "Principal Variation Search") the number of re-searches does concern, and how often a re-search does improve alpha (or even performs a cutoff) or not.
 
 
 

@@ -3,7 +3,7 @@ title: Exact Score
 ---
 **[Home](Home "Home") * [Search](Search "Search") * [Score](Score "Score") * Exact Score**
 
-An **Exact Score** is a [score](Score "Score") returned from an [alpha-beta](Alpha-Beta "Alpha-Beta") search, if [alpha](Alpha "Alpha"), the max so far, was improved, while the min-player improved his score as well (score \< beta). The current [node](Node "Node") searched was an expected [PV-Node](Node_Types#PV-Node "Node Types"), which was confirmed by the search in finding and collecting a [principal variation](Principal_Variation "Principal Variation").
+An **Exact Score** is a [score](Score "Score") returned from an [alpha-beta](Alpha-Beta "Alpha-Beta") search, if [alpha](Alpha "Alpha"), the max so far, was improved, while the min-player improved his score as well (score \< beta). The current [node](Node "Node") searched was an expected [PV-Node](Node_Types#pv-node "Node Types"), which was confirmed by the search in finding and collecting a [principal variation](Principal_Variation "Principal Variation").
 
 ## Always or Never
 

@@ -157,7 +157,7 @@ Typically, the following information is stored as determined by the [search](Sea
 * [Type of Node](Node_Types "Node Types") [[18]](#cite_note-18)
 
 
- [PV-Node](Node_Types#PV-Node "Node Types"), Score is [Exact](Exact_Score "Exact Score")
+ [PV-Node](Node_Types#pv-node "Node Types"), Score is [Exact](Exact_Score "Exact Score")
  [All-Node](Node_Types#all-nodes "Node Types"), Score is [Upper Bound](Upper_Bound "Upper Bound")
  [Cut-Node](Node_Types#cut-nodes "Node Types"), Score is [Lower Bound](Lower_Bound "Lower Bound")
 * [Age](Transposition_Table#Aging "Transposition Table") is used to determine when to overwrite entries from searching previous positions during the [game of chess](Chess_Game "Chess Game")
@@ -640,7 +640,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 
 
 
-* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#PV-Node "Node Types")
+* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#pv-node "Node Types")
 * [Interesting hash-replacement scheme](http://www.talkchess.com/forum/viewtopic.php?t=63693) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), April 08, 2017
 * [Problems with TT, sometimes makes blunder moves](http://www.talkchess.com/forum/viewtopic.php?t=63726) by [Tony Soares](index.php?title=Tony_Soares&action=edit&redlink=1 "Tony Soares (page does not exist)"), [CCC](CCC "CCC"), April 12, 2017
 * [TT Table replacement strategy](http://www.open-chess.org/viewtopic.php?f=5&t=3106) by kickstone, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 29, 2017

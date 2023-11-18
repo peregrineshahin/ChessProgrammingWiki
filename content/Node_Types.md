@@ -368,7 +368,7 @@ In [CB](Cray_Blitz "Cray Blitz"), I used this extensively, because you never wan
 
 
 * [Recognizing PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=59682) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), March 29, 2016
-* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#PV-Node "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
+* [What is wrong with doing Nulls & ttcuts in a pv node ?](http://www.talkchess.com/forum/viewtopic.php?t=62890) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 21, 2017 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [PV-Nodes](Node_Types#pv-node "Node Types"), [Transposition Table](Transposition_Table "Transposition Table")
 * [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017 » [Cut-Nodes](#cut)
 * [Pruning at PV nodes?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69510) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), January 06, 2019 » [Pruning](Pruning "Pruning"), [PV-Nodes](#pv)
 

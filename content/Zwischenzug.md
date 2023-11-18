@@ -7,7 +7,7 @@ title: Zwischenzug
 A **Zwischenzug** (intermezzo, intermediate or in-between move) is a chess tactic related [move](Moves "Moves"), which is played instead of an obvious looking, expected move, commonly a recapture, posing an immediate threat the opponent must respond to, ideally changing the situation to the player's advantage. The term Zwischenzug was coined in 1933 by [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) and [Irving Chernev](https://en.wikipedia.org/wiki/Irving_Chernev) in their book *Chess Strategy and Tactics* <a id="cite-note-1" href="#cite-ref-1">[1]</a>. 
 
 
-Chess programs may consider some kinds of Zwischenzug early, after a recapture does not [fail-high](Fail-High "Fail-High"), or does not improve alpha at [PV-nodes](Node_Types#PV-Node "Node Types"). Most common is a check giving move even in [quiescence search](Quiescence_Search "Quiescence Search"), a [mate](Checkmate "Checkmate") threatening move, or a otherwise attacking move considering [discovered attacks](Discovered_Attack "Discovered Attack").
+Chess programs may consider some kinds of Zwischenzug early, after a recapture does not [fail-high](Fail-High "Fail-High"), or does not improve alpha at [PV-nodes](Node_Types#pv-node "Node Types"). Most common is a check giving move even in [quiescence search](Quiescence_Search "Quiescence Search"), a [mate](Checkmate "Checkmate") threatening move, or a otherwise attacking move considering [discovered attacks](Discovered_Attack "Discovered Attack").
 
 
 

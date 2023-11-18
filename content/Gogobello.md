@@ -29,7 +29,7 @@ a free [UCI](UCI "UCI") compliant chess engine by [Salvatore Giannotti](Salvator
   - [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
   - [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation")
 - [Selectivity](Selectivity "Selectivity")
-  - [Check Extensions](Check_Extensions "Check Extensions") in [PV-Nodes](Node_Types#PV-Node "Node Types") only
+  - [Check Extensions](Check_Extensions "Check Extensions") in [PV-Nodes](Node_Types#pv-node "Node Types") only
   - [Mate Distance Pruning](Mate_Distance_Pruning "Mate Distance Pruning")
   - [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
   - [Futility Pruning](Futility_Pruning "Futility Pruning")

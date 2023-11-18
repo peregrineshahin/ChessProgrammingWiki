@@ -237,7 +237,7 @@ Please enter the words in an alphabetical order.
 - [PUCT](Christopher_D._Rosin#PUCT "Christopher D. Rosin") - Predictor + [UCT](UCT "UCT")
 - [Pursuit](index.php?title=Pursuit&action=edit&redlink=1 "Pursuit (page does not exist)") (perpetual attack)
 - [PV](Principal_Variation "Principal Variation") - Principal Variation
-- [PV-Nodes](Node_Types#PV-Node "Node Types")
+- [PV-Nodes](Node_Types#pv-node "Node Types")
 - [PVS](Principal_Variation_Search "Principal Variation Search") - Principal Variation **Search**
 - [PVS](Parallel_Search#PrincipalVariationSplitting "Parallel Search") - Principal Variation **Splitting**
 

@@ -5,7 +5,7 @@ title: Best Move
 
 *The **Best Move** is a [Search](Search "Search") related issue.*
 
-The **Best Move** in the context of [search algorithms](Search "Search") like [Alpha-Beta](Alpha-Beta "Alpha-Beta") or [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), is found at the [root](Root "Root") or any other confirmed [PV-node](Node_Types#PV-Node "Node Types"). It is that move which gained the maximum score, which is [exact](Exact_Score "Exact Score") since it exceeds [alpha](Alpha "Alpha") but is still below [beta](Beta "Beta") and therefor not good enough to refute opponent's previous move, which may become his best move and part of the [principal variation](Principal_Variation "Principal Variation") as well.
+The **Best Move** in the context of [search algorithms](Search "Search") like [Alpha-Beta](Alpha-Beta "Alpha-Beta") or [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), is found at the [root](Root "Root") or any other confirmed [PV-node](Node_Types#pv-node "Node Types"). It is that move which gained the maximum score, which is [exact](Exact_Score "Exact Score") since it exceeds [alpha](Alpha "Alpha") but is still below [beta](Beta "Beta") and therefor not good enough to refute opponent's previous move, which may become his best move and part of the [principal variation](Principal_Variation "Principal Variation") as well.
 
 ## Best so far
 

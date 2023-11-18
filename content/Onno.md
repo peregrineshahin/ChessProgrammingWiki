@@ -38,7 +38,7 @@ The MP version of Onno searches in [parallel](Parallel_Search "Parallel Search")
 ### Node Types
 
 
-Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") not only at [PV-nodes](Node_Types#PV-Node "Node Types") but also at expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). Onno Garms gave following rules <a id="cite-note-8" href="#cite-ref-8">[8]</a>
+Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") not only at [PV-nodes](Node_Types#pv-node "Node Types") but also at expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). Onno Garms gave following rules <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 

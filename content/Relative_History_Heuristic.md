@@ -39,7 +39,7 @@ moveScore = (Scale * hhScore) / bfScore;
 
 ```
 
-Winands experienced with several increments for hhScore and bfScore, namely {1, depth, depth^2 and 2^depth}. The depth independent increment of 1 seemed to give best results in the game of [Lines of Action](Lines_of_Action "Lines of Action"). This is how the history [array](Array "Array") and butterfly boards may be updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs or not (ignoring [PV-Nodes](Node_Types#PV-Node "Node Types")):
+Winands experienced with several increments for hhScore and bfScore, namely {1, depth, depth^2 and 2^depth}. The depth independent increment of 1 seemed to give best results in the game of [Lines of Action](Lines_of_Action "Lines of Action"). This is how the history [array](Array "Array") and butterfly boards may be updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs or not (ignoring [PV-Nodes](Node_Types#pv-node "Node Types")):
 
 
 

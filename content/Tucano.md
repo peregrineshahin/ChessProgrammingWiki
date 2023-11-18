@@ -31,7 +31,7 @@ Since version **7.00**, Tucano performs [Lazy SMP](Lazy_SMP "Lazy SMP") using a 
 
 * [Lazy SMP](Lazy_SMP "Lazy SMP")
 * [Principal Variation Search](Principal_Variation_Search "Principal Variation Search")
-* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") at [PV-nodes](Node_Types#PV-Node "Node Types")
+* [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") at [PV-nodes](Node_Types#pv-node "Node Types")
 * [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 * [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions")
 * [Check Extensions](Check_Extensions "Check Extensions")

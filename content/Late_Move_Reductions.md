@@ -47,7 +47,7 @@ Some common conditions to reduce less:
 
 * Move gives check
 * Move is a [killer move](Killer_Heuristic "Killer Heuristic") or a [countermove](Countermove_Heuristic "Countermove Heuristic")
-* We are on a [PV-node](Node_Types#PV-Node "Node Types")
+* We are on a [PV-node](Node_Types#pv-node "Node Types")
 * Move has a good [history](History_Heuristic "History Heuristic") score
 * Move has a good [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") score
 
@@ -58,7 +58,7 @@ Some common conditions to reduce more:
 
 ## Re-searches
 
-Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha. However, modern implementations have a triple-search system for [PV-nodes](Node_Types#PV-Node "Node Types") and a double search system for non PV-nodes.
+Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha. However, modern implementations have a triple-search system for [PV-nodes](Node_Types#pv-node "Node Types") and a double search system for non PV-nodes.
 
 
 

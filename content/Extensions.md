@@ -91,7 +91,7 @@ This technique involves passing fractional [depths](Depth "Depth") to the search
 
 ## Conditions/Restrictions
 
-Some programs restrict extensions, with either a maximum limit, or via other conditions, such as depth or iteration. Care must be taken so that the search is not extended infinitely (see [search explosion](Search_Explosion "Search Explosion")). Some programs vary the extension based on the expected [node type](Node_Types "Node Types"). For example, in an expected [All-node](Node_Types#all-nodes "Node Types"), it might use 1/2 a ply extension for a pawn to the 7th, but a full ply on the [PV-node](Node_Types#PV-Node "Node Types") research.
+Some programs restrict extensions, with either a maximum limit, or via other conditions, such as depth or iteration. Care must be taken so that the search is not extended infinitely (see [search explosion](Search_Explosion "Search Explosion")). Some programs vary the extension based on the expected [node type](Node_Types "Node Types"). For example, in an expected [All-node](Node_Types#all-nodes "Node Types"), it might use 1/2 a ply extension for a pawn to the 7th, but a full ply on the [PV-node](Node_Types#pv-node "Node Types") research.
 
 ## Non-reductions
 

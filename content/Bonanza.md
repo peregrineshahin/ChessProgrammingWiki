@@ -15,7 +15,7 @@ and so far two times champion, winning the [WCSC16](index.php?title=WCSC16&actio
 
 Bonanza is written in [C](C "C") and utilizes 9x9 [Bitboards](Bitboards "Bitboards") in form of three 32-bit unsigned integers.
 It is a [fractional ply](Depth#FractionalPlies "Depth") [alpha-beta](Alpha-Beta "Alpha-Beta") engine performing a [principal variation search](Principal_Variation_Search "Principal Variation Search") with [transposition table](Transposition_Table "Transposition Table"), [null move pruning](Null_Move_Pruning "Null Move Pruning"),
-[recursive iterative-deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") for [PV-nodes](Node_Types#PV-Node "Node Types"), various [extensions](Extensions "Extensions"), [reductions](Reductions "Reductions"), and [futility pruning](Futility_Pruning "Futility Pruning").
+[recursive iterative-deepening](Internal_Iterative_Deepening "Internal Iterative Deepening") for [PV-nodes](Node_Types#pv-node "Node Types"), various [extensions](Extensions "Extensions"), [reductions](Reductions "Reductions"), and [futility pruning](Futility_Pruning "Futility Pruning").
 Bonanza pioneered in large-scale [machine learning](Learning "Learning") of static [evaluation functions](Evaluation "Evaluation"),
 a [supervised](Supervised_Learning "Supervised Learning") [tuning method](Automated_Tuning "Automated Tuning") based on [move adaptation](Automated_Tuning#MoveAdaption "Automated Tuning"),
 dubbed the **Bonanza Method** which evolved to [Minimax Tree Optimization](Minimax_Tree_Optimization "Minimax Tree Optimization") (MMTO).

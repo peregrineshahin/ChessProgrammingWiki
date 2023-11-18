@@ -6,7 +6,7 @@ title: Move Ordering
 
 
 [ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Four Parts [[1]](#cite_note-1)
-For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [best moves](Best_Move "Best Move") need to be searched first. This is especially true for [PV-nodes](Node_Types#PV-Node "Node Types") and expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). The goal is to become close to the minimal tree. On the other hand - at Cut-nodes - the best move is not always the cheapest refutation, see for instance [enhanced transposition cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). **Most** important inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework is to try the [principal variation](Principal_Variation "Principal Variation") of the previous [iteration](Iteration "Iteration") as the leftmost path for the next iteration, which might be applied by an explicit [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") or implicit by the [transposition table](Transposition_Table "Transposition Table").
+For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [best moves](Best_Move "Best Move") need to be searched first. This is especially true for [PV-nodes](Node_Types#pv-node "Node Types") and expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). The goal is to become close to the minimal tree. On the other hand - at Cut-nodes - the best move is not always the cheapest refutation, see for instance [enhanced transposition cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). **Most** important inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework is to try the [principal variation](Principal_Variation "Principal Variation") of the previous [iteration](Iteration "Iteration") as the leftmost path for the next iteration, which might be applied by an explicit [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") or implicit by the [transposition table](Transposition_Table "Transposition Table").
 
 
 
@@ -65,7 +65,7 @@ Move ordering (as well as [Time Management](Time_Management "Time Management")) 
 ## Typical move ordering
 
 
-After [move generation](Move_Generation "Move Generation") with assigned move-scores, chess programs usually don't sort the whole [move list](Move_List "Move List"), but perform a [selection sort](https://en.wikipedia.org/wiki/Selection_sort) each time a move is fetched. Exceptions are the [Root](Root "Root") and further [PV-Nodes](Node_Types#PV-Node "Node Types") with some distance to the horizon, where one may apply additional effort to score and sort moves. For performance reasons, a lot of programs try to save the [move generation](Move_Generation "Move Generation") of captures or non-captures at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"), but try the hash-move or killer first, if they are proved legal in this position.
+After [move generation](Move_Generation "Move Generation") with assigned move-scores, chess programs usually don't sort the whole [move list](Move_List "Move List"), but perform a [selection sort](https://en.wikipedia.org/wiki/Selection_sort) each time a move is fetched. Exceptions are the [Root](Root "Root") and further [PV-Nodes](Node_Types#pv-node "Node Types") with some distance to the horizon, where one may apply additional effort to score and sort moves. For performance reasons, a lot of programs try to save the [move generation](Move_Generation "Move Generation") of captures or non-captures at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"), but try the hash-move or killer first, if they are proved legal in this position.
 
 
 A typical move ordering consists as follows:
@@ -94,7 +94,7 @@ Move ordering and scoring effort might be controlled by expected [Node Types](No
 ### PV-nodes
 
 
-At [PV-nodes](Node_Types#PV-Node "Node Types") move ordering is very important, since the best alpha-increase as early as possible makes further search cheaper, due to narrower windows in [Alpha-Beta](Alpha-Beta "Alpha-Beta"), while in [PVS](Principal_Variation_Search "Principal Variation Search") later but better moves require re-searches of the [null window](Null_Window "Null Window") [scout](Scout "Scout"). 
+At [PV-nodes](Node_Types#pv-node "Node Types") move ordering is very important, since the best alpha-increase as early as possible makes further search cheaper, due to narrower windows in [Alpha-Beta](Alpha-Beta "Alpha-Beta"), while in [PVS](Principal_Variation_Search "Principal Variation Search") later but better moves require re-searches of the [null window](Null_Window "Null Window") [scout](Scout "Scout"). 
 
 
 

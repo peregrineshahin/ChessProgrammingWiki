@@ -2,7 +2,7 @@
 title: Recapture Extensions
 ---
 
-Recapture Extensions are a subset of [Capture Extensions](Capture_Extensions), restricted to recaptures to the same [target square](Target_Square). A recapture is supposed to be a relatively forced move. However, some programmers consider any two consecutive captures <a id="cite-note-1" href="#cite-ref-1">[1]</a>, or even any capture with respect to an intermediate [Zwischenzug](Zwischenzug) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, if it restores the [material balance](Material#Balance Material) of the [root](Root Root) as recapture, while others recently favor to restrict them to [PV-nodes](Node_Types#PV-Node Node Types) only <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
+Recapture Extensions are a subset of [Capture Extensions](Capture_Extensions), restricted to recaptures to the same [target square](Target_Square). A recapture is supposed to be a relatively forced move. However, some programmers consider any two consecutive captures <a id="cite-note-1" href="#cite-ref-1">[1]</a>, or even any capture with respect to an intermediate [Zwischenzug](Zwischenzug) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, if it restores the [material balance](Material#Balance Material) of the [root](Root Root) as recapture, while others recently favor to restrict them to [PV-nodes](Node_Types#pv-node Node Types) only <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ## See also
 
