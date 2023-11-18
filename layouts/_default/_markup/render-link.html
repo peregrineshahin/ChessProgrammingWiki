@@ -6,7 +6,7 @@
   {{ end -}}
 {{ else -}}
   {{ if not (strings.Contains .Destination "/") }}
-    <a href="{{ (.Page.GetPage .Destination).RelPermalink | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- "" -}}
+    <a href="{{ (.Page.GetPage .Destination).RelPermalink}}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- "" -}}
   {{ else }}
     <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- "" -}}
   {{ end }}
